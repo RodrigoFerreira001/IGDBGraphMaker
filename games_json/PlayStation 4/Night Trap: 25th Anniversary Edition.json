@@ -1,0 +1,168 @@
+{
+    "aggregated_rating": 40.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kwjhgat9l9yrlzohn1er", 
+        "height": 240, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kwjhgat9l9yrlzohn1er.jpg", 
+        "width": 240
+    }, 
+    "created_at": 1493219614082, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "643620"
+    }, 
+    "first_release_date": 1502755200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25646, 
+        25311, 
+        12579, 
+        28148, 
+        44076, 
+        27266, 
+        26848, 
+        23175, 
+        59516, 
+        13189
+    ], 
+    "genres": [
+        15, 
+        31
+    ], 
+    "id": 28249, 
+    "keywords": [
+        3208, 
+        5812
+    ], 
+    "name": "Night Trap: 25th Anniversary Edition", 
+    "platforms": [
+        6, 
+        48, 
+        130
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        15377
+    ], 
+    "pulse_count": 27, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 5, 
+            "date": 1538265600000, 
+            "human": "2018-Q3", 
+            "m": 9, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1502755200000, 
+            "human": "2017-Aug-15", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1502755200000, 
+            "human": "2017-Aug-15", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1502755200000, 
+            "human": "2017-Aug-15", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "kfp5qx1c82wgsht73xk8", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kfp5qx1c82wgsht73xk8.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hsltwvzifnyylmdavh0i", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hsltwvzifnyylmdavh0i.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nzf2dywdfh7jvh9c4ch7", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nzf2dywdfh7jvh9c4ch7.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "i2pkn5d9vwuerqbn0mzl", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i2pkn5d9vwuerqbn0mzl.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ursg08e4swvz7swr2tdq", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ursg08e4swvz7swr2tdq.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "night-trap-25th-anniversary-edition", 
+    "summary": "Night Trap tells the story of five teenage girls spending the weekend at the Martin home. As a member of the Special Control Attack Team, your job is to monitor the home and protect the girls using an intricate system of cameras and traps as it is being invaded by vampires.", 
+    "tags": [
+        1, 
+        19, 
+        27, 
+        268435471, 
+        268435487, 
+        536874120, 
+        536876724, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        19, 
+        27
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1524383469143, 
+    "url": "https://www.igdb.com/games/night-trap-25th-anniversary-edition", 
+    "version_parent": 2486, 
+    "version_title": "25th Anniversary Edition", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "KsRTQUjYfXI"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.nighttrap25.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/643620"
+        }
+    ]
+}

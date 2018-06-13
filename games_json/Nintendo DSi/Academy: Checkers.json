@@ -1,0 +1,73 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bgeg4fuvp46bqwxk1lz5", 
+        "height": 117, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bgeg4fuvp46bqwxk1lz5.jpg", 
+        "width": 165
+    }, 
+    "created_at": 1517339497893, 
+    "first_release_date": 1319068800000, 
+    "id": 84734, 
+    "name": "Academy: Checkers", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1319068800000, 
+            "human": "2011-Oct-20", 
+            "m": 10, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1319673600000, 
+            "human": "2011-Oct-27", 
+            "m": 10, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mqr8r2ml4dgsnfmqkfut", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mqr8r2ml4dgsnfmqkfut.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "dyyxrfe6s8y9cu5r0bor", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dyyxrfe6s8y9cu5r0bor.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "d80ob7gz8uqryjkdpb7h", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d80ob7gz8uqryjkdpb7h.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "n3woi9hawsoqkzajv7ya", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n3woi9hawsoqkzajv7ya.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "academy-checkers", 
+    "summary": "The world\u2019s most famous board game for two players is now joining our Academy.", 
+    "updated_at": 1518045222573, 
+    "url": "https://www.igdb.com/games/academy-checkers", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.game-lion.com/checkers.php"
+        }
+    ]
+}

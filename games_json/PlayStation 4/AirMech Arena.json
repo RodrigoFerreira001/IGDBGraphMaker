@@ -1,0 +1,133 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "caxguxde8iq6modzrnrt", 
+        "height": 450, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/caxguxde8iq6modzrnrt.jpg", 
+        "width": 450
+    }, 
+    "created_at": 1480086987984, 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "first_release_date": 1430784000000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        36608, 
+        2940, 
+        40524, 
+        34919, 
+        71581, 
+        29660, 
+        1070, 
+        23175, 
+        76438, 
+        16468
+    ], 
+    "id": 25989, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 6, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "AirMech Arena", 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "popularity": 1.666666666666667, 
+    "rating": 80.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1431388800000, 
+            "human": "2015-May-12", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1430784000000, 
+            "human": "2015-May-05", 
+            "m": 5, 
+            "platform": 48, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ehmc1yi6znxuipv3kwaq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ehmc1yi6znxuipv3kwaq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lebwpfd2xbwz9p1o5w98", 
+            "height": 1035, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lebwpfd2xbwz9p1o5w98.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ejcwissjxll00dssjc4i", 
+            "height": 1035, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ejcwissjxll00dssjc4i.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ehmtecgnzxynzk1giavc", 
+            "height": 1035, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ehmtecgnzxynzk1giavc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "saf1wwobqy232dytlxcy", 
+            "height": 1035, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/saf1wwobqy232dytlxcy.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "airmech-arena", 
+    "summary": "AirMech Arena is a highly competitive fast-paced real-time strategy game, where players use versatile AirMechs to amass combat forces and destroy enemy fortresses. \n \nIn the future, the last survivors of the Great War continue their fight alongside the ultimate war machine: the AirMech. Created using lost technology, pilots have found, salvaged, or stolen AirMechs to protect the weak or to pillage. Which side do you fight for? \n \nBy Land and by Air: Transform between air assaults and ground attacks with the touch of a button. With nine AirMechs available, each with unique traits, there\u2019s an ultimate war machine for every play style. \n \nTeam Up or Go Solo: In AirMech Arena, gamers engage in ferocious real-time battles up to 3v3 in PVP or Co-Op Modes. Players can form teams and skirmish at any time, with the teams in battle matched by their skill level. \n \nUnlock a large arsenal of AirMechs, pilots, units, upgrades, special items, customizable skins and more!", 
+    "tags": [
+        1
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1526725839045, 
+    "url": "https://www.igdb.com/games/airmech-arena"
+}

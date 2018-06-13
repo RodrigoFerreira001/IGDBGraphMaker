@@ -1,0 +1,125 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "Chaotix"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30ab\u30aa\u30c6\u30a3\u30af\u30b9"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "pxwujvajlr6rtx0oommg", 
+        "height": 2100, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pxwujvajlr6rtx0oommg.jpg", 
+        "width": 1534
+    }, 
+    "created_at": 1466780326145, 
+    "developers": [
+        395
+    ], 
+    "first_release_date": 798336000000, 
+    "franchise": 814, 
+    "franchises": [
+        814
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        1070, 
+        1073, 
+        1188, 
+        10039, 
+        36608, 
+        74863, 
+        1066, 
+        34919, 
+        51485, 
+        26848
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 19762, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "onlinecoop": false, 
+            "platform": 30, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Knuckles' Chaotix", 
+    "platforms": [
+        30
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        4981, 
+        229, 
+        231
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 799286400000, 
+            "human": "1995-May-01", 
+            "m": 5, 
+            "platform": 30, 
+            "region": 1, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 798336000000, 
+            "human": "1995-Apr-20", 
+            "m": 4, 
+            "platform": 30, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 798422400000, 
+            "human": "1995-Apr-21", 
+            "m": 4, 
+            "platform": 30, 
+            "region": 5, 
+            "y": 1995
+        }
+    ], 
+    "slug": "knuckles-chaotix", 
+    "summary": "A mysterious island rose from the sea shortly after the events of Sonic & Knuckles. Dr. Robotnik discovered the island, and found a mysterious ring inscribed with descriptions of the Chaos Rings, ancient Rings infused with Chaos Emerald energy. In order to find these Rings, Robotnik built his base, the Newtrogic High Zone, on the island. Mighty the Armadillo, Espio the Chameleon, Vector the Crocodile, and Charmy Bee also arrived at the island, and ended up being captured by Robotnik and Metal Sonic, and placed in Robotnik's Combi Catcher machine. Knuckles, curious about the strange island, goes there as well, and manages to rescue Espio. The two then go on to stop Robotnik from getting the Chaos Rings.", 
+    "tags": [
+        1, 
+        268435464, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1501145447176, 
+    "url": "https://www.igdb.com/games/knuckles-chaotix", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Knuckles%27_Chaotix"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://sonic.wikia.com/wiki/Knuckles%27_Chaotix"
+        }
+    ]
+}

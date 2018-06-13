@@ -1,0 +1,215 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "iyfsq5jnsis0vrgslg23", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iyfsq5jnsis0vrgslg23.jpg", 
+        "width": 1920
+    }, 
+    "created_at": 1447624335203, 
+    "developers": [
+        2442
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "302710"
+    }, 
+    "first_release_date": 1414454400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        34919, 
+        16468, 
+        40524, 
+        28856, 
+        55289, 
+        68324, 
+        25646, 
+        10039, 
+        37022, 
+        25311
+    ], 
+    "genres": [
+        10, 
+        32
+    ], 
+    "id": 14567, 
+    "keywords": [
+        4157, 
+        4222, 
+        4726, 
+        5575
+    ], 
+    "name": "BlazeRush", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        9, 
+        3
+    ], 
+    "player_perspectives": [
+        2, 
+        3, 
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2442
+    ], 
+    "rating": 80.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1414540800000, 
+            "human": "2014-Oct-29", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415059200000, 
+            "human": "2014-Nov-04", 
+            "m": 11, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414540800000, 
+            "human": "2014-Oct-29", 
+            "m": 10, 
+            "platform": 45, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414454400000, 
+            "human": "2014-Oct-28", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414454400000, 
+            "human": "2014-Oct-28", 
+            "m": 10, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414454400000, 
+            "human": "2014-Oct-28", 
+            "m": 10, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414454400000, 
+            "human": "2014-Oct-28", 
+            "m": 10, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415059200000, 
+            "human": "2014-Nov-04", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ohxoyhdgitcnrnu9l6v1", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ohxoyhdgitcnrnu9l6v1.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rlctutespxkaor2vupjm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rlctutespxkaor2vupjm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nlu4gtqcniumtfly4idx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nlu4gtqcniumtfly4idx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qrugbbegnfxvxbm2buzk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qrugbbegnfxvxbm2buzk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vcvptufzz4hcl3w7qyls", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vcvptufzz4hcl3w7qyls.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "blazerush", 
+    "summary": "BlazeRush is a dynamic arcade racing survival game with no health, no levelling and no brakes!\nYou can assemble a team of friends to play in local or online multiplayer, choose a car to your taste and chase, blow up and cut off!\nAdapt your style and tactics to new enemies, obstacles and tracks.", 
+    "tags": [
+        1, 
+        268435466, 
+        268435488, 
+        536875069, 
+        536875134, 
+        536875638, 
+        536876487, 
+        1073741831, 
+        1073741827, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 4, 
+    "updated_at": 1523253980637, 
+    "url": "https://www.igdb.com/games/blazerush", 
+    "videos": [
+        {
+            "name": "Teaser", 
+            "video_id": "tCRFhj8gA0c"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/302710"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://blazerush.com/"
+        }
+    ]
+}

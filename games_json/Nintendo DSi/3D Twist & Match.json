@@ -1,0 +1,102 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qjlghvczw9atgqesefkc", 
+        "height": 167, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qjlghvczw9atgqesefkc.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1505256122251, 
+    "first_release_date": 1302220800000, 
+    "games": [
+        25222, 
+        60044, 
+        14047, 
+        66980, 
+        66978, 
+        66975, 
+        52146, 
+        44502, 
+        21059, 
+        26223
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 65551, 
+    "keywords": [
+        2875, 
+        4134, 
+        4435
+    ], 
+    "name": "3D Twist & Match", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        8904
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1302220800000, 
+            "human": "2011-Apr-08", 
+            "m": 4, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1306108800000, 
+            "human": "2011-May-23", 
+            "m": 5, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "cla8ruudlg89mhrbzald", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cla8ruudlg89mhrbzald.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "rvqkxemvtlj4wiclohj0", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rvqkxemvtlj4wiclohj0.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "aafd4mew6izhkpbdfeoz", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aafd4mew6izhkpbdfeoz.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "qhodpsh3bahf2ouxfcwm", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qhodpsh3bahf2ouxfcwm.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ykjwfp6eegcihfor43nf", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ykjwfp6eegcihfor43nf.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "3d-twist-and-match", 
+    "summary": "Twist and match in 3D.", 
+    "tags": [
+        268435465, 
+        536873787, 
+        536875046, 
+        536875347
+    ], 
+    "updated_at": 1518044564768, 
+    "url": "https://www.igdb.com/games/3d-twist-and-match"
+}

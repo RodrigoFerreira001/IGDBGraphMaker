@@ -1,0 +1,58 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "htnj4upowrqjyhzdqj7b", 
+        "height": 378, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/htnj4upowrqjyhzdqj7b.jpg", 
+        "width": 268
+    }, 
+    "created_at": 1499153128368, 
+    "first_release_date": 1141344000000, 
+    "games": [
+        23314, 
+        18699, 
+        76259, 
+        103018, 
+        101535, 
+        101205, 
+        101142, 
+        101087, 
+        100902, 
+        100844
+    ], 
+    "genres": [
+        10
+    ], 
+    "id": 43457, 
+    "name": "Taxi Rider", 
+    "platforms": [
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1141344000000, 
+            "human": "2006-Mar-03", 
+            "m": 3, 
+            "platform": 8, 
+            "region": 8, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jy2wxjnsymw4jd0bpfei", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jy2wxjnsymw4jd0bpfei.jpg", 
+            "width": 1440
+        }
+    ], 
+    "slug": "taxi-rider", 
+    "summary": "A Taxi. A Rider. Endless fun. Cheap fare.", 
+    "tags": [
+        268435466
+    ], 
+    "updated_at": 1507934630098, 
+    "url": "https://www.igdb.com/games/taxi-rider"
+}

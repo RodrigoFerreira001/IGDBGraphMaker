@@ -1,0 +1,172 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 2670, 
+    "cover": {
+        "cloudinary_id": "svnsin4ovjxxtfkb8frw", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/svnsin4ovjxxtfkb8frw.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1492727210378, 
+    "developers": [
+        12498
+    ], 
+    "first_release_date": 1501200000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        37067, 
+        11711, 
+        70861, 
+        39883, 
+        12875, 
+        44154, 
+        36692, 
+        19567, 
+        76219, 
+        80138
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 28192, 
+    "keywords": [
+        78, 
+        1700, 
+        4137
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "DJMAX Respect", 
+    "platforms": [
+        48
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 5.0, 
+    "publishers": [
+        10100, 
+        154
+    ], 
+    "pulse_count": 35, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1520294400000, 
+            "human": "2018-Mar-06", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1520294400000, 
+            "human": "2018-Mar-06", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1510185600000, 
+            "human": "2017-Nov-09", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1501200000000, 
+            "human": "2017-Jul-28", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 7, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jvl3ckdwkdnctxf1yzjf", 
+            "height": 338, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jvl3ckdwkdnctxf1yzjf.jpg", 
+            "width": 600
+        }
+    ], 
+    "slug": "djmax-respect", 
+    "summary": "DJMAX Respect is an upcoming rhythm action game primarily developed by Rocky Studio in co-operation with DJMax Sound Lab Team for the PlayStation 4.", 
+    "tags": [
+        40, 
+        268435463, 
+        536870990, 
+        536872612, 
+        536875049, 
+        1073741828
+    ], 
+    "themes": [
+        40
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1520281482278, 
+    "url": "https://www.igdb.com/games/djmax-respect", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "iuxijRvPVpk"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "c3o65Lv7oHc"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "IfKwVmqXm04"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "FBcv5s2X568"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/channel/UCKLqd0j_fzQ0A2gUdGlWiyg"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/djmax_officialsite"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/DJMax_global"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/DJMAXglobalofficial"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://djmaxrespect.com/"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/DJMax_Respect"
+        }
+    ]
+}

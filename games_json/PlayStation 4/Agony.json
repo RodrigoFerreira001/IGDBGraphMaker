@@ -1,0 +1,283 @@
+{
+    "aggregated_rating": 39.2857142857143, 
+    "aggregated_rating_count": 7, 
+    "artworks": [
+        {
+            "cloudinary_id": "nag4smpblqbxytvfpl2y", 
+            "height": 3580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nag4smpblqbxytvfpl2y.jpg", 
+            "width": 6169
+        }, 
+        {
+            "cloudinary_id": "mf9xaftwbagp9dvg1jna", 
+            "height": 4535, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mf9xaftwbagp9dvg1jna.jpg", 
+            "width": 2852
+        }, 
+        {
+            "cloudinary_id": "oqgp4wo3fkhxdid7wspt", 
+            "height": 2706, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oqgp4wo3fkhxdid7wspt.jpg", 
+            "width": 5007
+        }, 
+        {
+            "cloudinary_id": "eup2oatswuvgkyjil14x", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eup2oatswuvgkyjil14x.jpg", 
+            "width": 1920
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "gu7ua8arjdnccgfhzu3q", 
+        "height": 3178, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gu7ua8arjdnccgfhzu3q.jpg", 
+        "width": 2905
+    }, 
+    "created_at": 1465311469251, 
+    "developers": [
+        10319
+    ], 
+    "external": {
+        "steam": "827830"
+    }, 
+    "first_release_date": 1527552000000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        13189, 
+        25646, 
+        37016, 
+        19168, 
+        26914, 
+        51524, 
+        29525, 
+        41895, 
+        44076, 
+        54678
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "hypes": 22, 
+    "id": 19453, 
+    "keywords": [
+        122, 
+        131, 
+        1027, 
+        1069, 
+        1120, 
+        1308, 
+        1697, 
+        1961, 
+        2178, 
+        2425, 
+        3002, 
+        4895
+    ], 
+    "name": "Agony", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 158.6666666666667, 
+    "publishers": [
+        9005
+    ], 
+    "pulse_count": 42, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1527552000000, 
+            "human": "2018-May-29", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1527552000000, 
+            "human": "2018-May-29", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1527552000000, 
+            "human": "2018-May-29", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "exxmr2gstuhdmvqn8n2q", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/exxmr2gstuhdmvqn8n2q.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lhdarsja3bvgnjeil9ab", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lhdarsja3bvgnjeil9ab.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gvqcwvrxvfawuqzctb9s", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gvqcwvrxvfawuqzctb9s.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yrxq2zale65apenqrwij", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yrxq2zale65apenqrwij.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qfecdi49lqfno3aphhxz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qfecdi49lqfno3aphhxz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "o2cibcshrx9iz1r6lajv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o2cibcshrx9iz1r6lajv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "iijsww1m7fltxkwxruen", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iijsww1m7fltxkwxruen.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "grr2xzdeoh4iuz5vl6e3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/grr2xzdeoh4iuz5vl6e3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fmtv9twq1bqjaqfhzuek", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fmtv9twq1bqjaqfhzuek.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "agony--1", 
+    "summary": "Agony is a first-person survival horror game currently in development. \nPlayers will begin their journey as tormented soul within the depths of hell without any memories about his past. \n \nThe special ability to control people on their path, and even possess simple minded demons, gives the player the necessary measures to survive in the extreme conditions they are in. \n \nBy exploring hostile environment and interacting with the other weary souls of the hellscape, the hero will soon understand that there is only one way to escape from Hell, and it will require a meeting of the mystical Red Goddess.", 
+    "tags": [
+        1, 
+        19, 
+        21, 
+        42, 
+        268435487, 
+        268435488, 
+        536871034, 
+        536871043, 
+        536871939, 
+        536871981, 
+        536872032, 
+        536872220, 
+        536872609, 
+        536872873, 
+        536873090, 
+        536873337, 
+        536873914, 
+        536875807, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        19, 
+        21, 
+        42
+    ], 
+    "total_rating": 39.2857142857143, 
+    "total_rating_count": 7, 
+    "updated_at": 1528894325498, 
+    "url": "https://www.igdb.com/games/agony--1", 
+    "videos": [
+        {
+            "name": "Agony Mode Trailer", 
+            "video_id": "yy77_Idxe-c"
+        }, 
+        {
+            "name": "Story Trailer", 
+            "video_id": "gM9E_Wc5eWQ"
+        }, 
+        {
+            "name": "Re-Announce Trailer", 
+            "video_id": "PK54d4ZnjUo"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "KbSzOrw9FYo"
+        }, 
+        {
+            "name": "Red Goddess Trailer", 
+            "video_id": "k9Mopz8AnOk"
+        }, 
+        {
+            "name": "E3 2017 Gameplay Trailer", 
+            "video_id": "XEGnqqTAEZo"
+        }, 
+        {
+            "name": "Demons Trailer", 
+            "video_id": "tTYjQsXOVtI"
+        }, 
+        {
+            "name": "Demons Gameplay Trailer", 
+            "video_id": "WNONgoGhqWU"
+        }, 
+        {
+            "name": "Intro Trailer", 
+            "video_id": "Tlm_cITSMQg"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "ns4ExY4JcSo"
+        }, 
+        {
+            "name": "Gamescom 2016 Extended Trailer", 
+            "video_id": "cEg2_MeeIdw"
+        }, 
+        {
+            "name": "Gamescom Gameplay Demo", 
+            "video_id": "kbk_Mcciplc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Agony_(2018_video_game)"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/487720"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://agonygame.com"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/agonygame"
+        }
+    ]
+}

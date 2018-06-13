@@ -1,0 +1,61 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "clalquknld9t8u7856kc", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/clalquknld9t8u7856kc.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1517345318441, 
+    "first_release_date": 1466640000000, 
+    "id": 84893, 
+    "name": "SPLASHY DUCK", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1466640000000, 
+            "human": "2016-Jun-23", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466640000000, 
+            "human": "2016-Jun-23", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ajon1vmdrtzrq6niynnm", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ajon1vmdrtzrq6niynnm.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "jqw27kh8dqalrn9ide7a", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jqw27kh8dqalrn9ide7a.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "bydxfvndu5kjpvnk1cpm", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bydxfvndu5kjpvnk1cpm.jpg", 
+            "width": 758
+        }
+    ], 
+    "slug": "splashy-duck", 
+    "summary": "Save the duck from crashing into the whale!", 
+    "updated_at": 1518010913009, 
+    "url": "https://www.igdb.com/games/splashy-duck"
+}

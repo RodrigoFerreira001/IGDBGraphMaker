@@ -1,0 +1,127 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "hmgqt522jhnoeowc8d5c", 
+        "height": 1242, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hmgqt522jhnoeowc8d5c.jpg", 
+        "width": 960
+    }, 
+    "created_at": 1434445488717, 
+    "first_release_date": 1448582400000, 
+    "games": [
+        23314, 
+        18699, 
+        76259, 
+        103018, 
+        101535, 
+        101205, 
+        101142, 
+        101087, 
+        100902, 
+        100844
+    ], 
+    "genres": [
+        10
+    ], 
+    "hypes": 1, 
+    "id": 11158, 
+    "name": "The Crew: Wild Run", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1448582400000, 
+            "human": "2015-Nov-27", 
+            "m": 11, 
+            "platform": 6, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448582400000, 
+            "human": "2015-Nov-27", 
+            "m": 11, 
+            "platform": 48, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448582400000, 
+            "human": "2015-Nov-27", 
+            "m": 11, 
+            "platform": 49, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "m1mrxoaw69jwm5vodv5b", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m1mrxoaw69jwm5vodv5b.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "txavnsmmso6rz6lqwdzy", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/txavnsmmso6rz6lqwdzy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "aahep7jbrxqfrpyz3pwb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aahep7jbrxqfrpyz3pwb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rde4byhu2lc4ch5nts8u", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rde4byhu2lc4ch5nts8u.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mgtf5svkxqswkzy3djwo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mgtf5svkxqswkzy3djwo.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "the-crew-wild-run", 
+    "summary": "The Crew Wild Run is the expansion of the revolutionary action-driving game The Crew released in 2014. Gather with players from around the world to celebrate anything with wheels - from asphalt speedsters to off-road beasts and all kinds of motocycles. You and your crew must earn your ticket to The Summit, a continuous and itinerant championship all over the USA. This is the place to be to try out the wildest vehicles, participate in new challenges and access tuner shops to upgrade your cars into exotic concepts.", 
+    "tags": [
+        268435466
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1517270845725, 
+    "url": "https://www.igdb.com/games/the-crew-wild-run", 
+    "videos": [
+        {
+            "name": "E3 Trailer", 
+            "video_id": "7yvMXb02BlM"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "iFcVB8nz7_4"
+        }, 
+        {
+            "name": "Stunt Race Trailer", 
+            "video_id": "rniXbgluBbE"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/The_Crew_(video_game)#The_Crew:_Wild_Run"
+        }
+    ]
+}

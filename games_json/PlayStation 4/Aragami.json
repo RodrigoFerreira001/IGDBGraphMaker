@@ -1,0 +1,359 @@
+{
+    "aggregated_rating": 69.5555555555556, 
+    "aggregated_rating_count": 11, 
+    "artworks": [
+        {
+            "cloudinary_id": "cwtfiasnmrtubxlra47w", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cwtfiasnmrtubxlra47w.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pvgaaf4ykf2yw7n7lcoj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pvgaaf4ykf2yw7n7lcoj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cq1jvymgm11e4xb6oovv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cq1jvymgm11e4xb6oovv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qej5upxf4h3fwg4qejlf", 
+            "height": 950, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qej5upxf4h3fwg4qejlf.jpg", 
+            "width": 864
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "q4xygfwkhoihkdkdwteq", 
+        "height": 3857, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/q4xygfwkhoihkdkdwteq.jpg", 
+        "width": 3508
+    }, 
+    "created_at": 1461240032360, 
+    "developers": [
+        9579
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "This is an action game in which players assume the role of Aragami, a vengeful shadow-spirit ninja. Players mostly use stealth techniques to infiltrate compounds and kill enemies. Players are able to sneak up on enemies and stab or slash them with their sword; some attacks include slitting characters' throats. Large blood-splatter-effects occur during these stealth kills. Cutscenes sometimes depict characters getting shot with arrows or impaled through the chest by swords."
+    }, 
+    "expansions": [
+        96020
+    ], 
+    "external": {
+        "steam": "280160"
+    }, 
+    "first_release_date": 1475539200000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        23733, 
+        19448, 
+        18167, 
+        19934, 
+        3231, 
+        6732, 
+        54678, 
+        11364, 
+        11423, 
+        103054
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "hypes": 1, 
+    "id": 18853, 
+    "keywords": [
+        117, 
+        132, 
+        164, 
+        227, 
+        872, 
+        1098, 
+        1158, 
+        1437, 
+        1494, 
+        1986, 
+        2057, 
+        3794, 
+        4004, 
+        4134, 
+        4154, 
+        4359, 
+        4520, 
+        4833, 
+        4883, 
+        4990, 
+        5002, 
+        5007, 
+        5008, 
+        5736, 
+        5955, 
+        5999
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Aragami", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        48, 
+        3
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 4.333333333333334, 
+    "publishers": [
+        9579, 
+        4726
+    ], 
+    "pulse_count": 6, 
+    "rating": 79.4936718209019, 
+    "rating_count": 14, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1475539200000, 
+            "human": "2016-Oct-04", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1475539200000, 
+            "human": "2016-Oct-04", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1475539200000, 
+            "human": "2016-Oct-04", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1475539200000, 
+            "human": "2016-Oct-04", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1475539200000, 
+            "human": "2016-Oct-04", 
+            "m": 10, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1475539200000, 
+            "human": "2016-Oct-04", 
+            "m": 10, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1475539200000, 
+            "human": "2016-Oct-04", 
+            "m": 10, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gmx5hxwnkiaobdwbznap", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gmx5hxwnkiaobdwbznap.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "mz5wjgzdtfzzueyb12pc", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mz5wjgzdtfzzueyb12pc.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "n5lgteplvbrd82mir0bm", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n5lgteplvbrd82mir0bm.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "hvrxndj38un40lpbbad6", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hvrxndj38un40lpbbad6.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "d1xeyeumwcqnxocamfdi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d1xeyeumwcqnxocamfdi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rgde6hs1ypyqu1l7y7co", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rgde6hs1ypyqu1l7y7co.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ymzg0zaznjz8fqy5xhnq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ymzg0zaznjz8fqy5xhnq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pugkki4er9lqdvwub1qm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pugkki4er9lqdvwub1qm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yjnenv9lejclhyk7zujj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yjnenv9lejclhyk7zujj.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "aragami", 
+    "storyline": "You are Aragami, a vengeful spirit with the power to control the shadows. You\u2019ve been summoned by Yamiko, a girl imprisoned in the city fortress of Kyuryu. Embark on a dark journey full of blood and secrets to discover the truth about aragami. Infiltrate the occupied city of Kyuryu with your supernatural powers and fight Light with Shadow. Uncover a story about twin souls bound together by destiny that surpasses time and memory.", 
+    "summary": "Aragami is a third person stealth game that casts you as an undead assassin with the power to control the shadows. Teleport to any shadow, become invisible, materialize weapons or even summon a shadow dragon to infiltrate the enemy ranks and dispose of your targets.", 
+    "tags": [
+        1, 
+        23, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536871044, 
+        536871076, 
+        536871139, 
+        536871784, 
+        536872010, 
+        536872070, 
+        536872349, 
+        536872406, 
+        536872898, 
+        536872969, 
+        536874706, 
+        536874916, 
+        536875046, 
+        536875066, 
+        536875271, 
+        536875432, 
+        536875745, 
+        536875795, 
+        536875902, 
+        536875914, 
+        536875919, 
+        536875920, 
+        536876648, 
+        536876867, 
+        536876911, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        23
+    ], 
+    "total_rating": 74.52461368822875, 
+    "total_rating_count": 25, 
+    "updated_at": 1528894317773, 
+    "url": "https://www.igdb.com/games/aragami", 
+    "videos": [
+        {
+            "name": "Announcement Trailer", 
+            "video_id": "EcOU9WD55y4"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "20HUdO9gYCY"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "oOf_5cJcvk0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 14, 
+            "url": "https://www.reddit.com/r/Aragami"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/linceworks"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/linceworks"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Aragami_(video_game)"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://aragami.wikia.com/wiki/Aragami_Wiki"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.aragami-game.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/280160"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/aragami.game"
+        }
+    ]
+}

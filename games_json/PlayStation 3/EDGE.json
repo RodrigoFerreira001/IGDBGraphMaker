@@ -1,0 +1,402 @@
+{
+    "aggregated_rating": 86.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "EDGY"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vbgphxartnarvploiior", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vbgphxartnarvploiior.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1419890656530, 
+    "developers": [
+        1108, 
+        9493
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is a puzzle game in which players guide colorful flashing cubes through maze-like levels. Players' goal is to collect smaller cubes, avoid falling off platform edges, and navigate to each level's exit."
+    }, 
+    "external": {
+        "steam": "38740"
+    }, 
+    "first_release_date": 1228089600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        6732, 
+        7344, 
+        9174, 
+        17354, 
+        18167, 
+        11423, 
+        16992, 
+        55752, 
+        8968, 
+        54678
+    ], 
+    "genres": [
+        8, 
+        9, 
+        31, 
+        32
+    ], 
+    "id": 8392, 
+    "keywords": [
+        101, 
+        117, 
+        126, 
+        558, 
+        966, 
+        1152, 
+        1158, 
+        1495, 
+        2049, 
+        2085, 
+        2875, 
+        4004, 
+        4134, 
+        4135, 
+        4150, 
+        4151, 
+        4282, 
+        4333, 
+        4435, 
+        4449, 
+        4465, 
+        4484, 
+        4492, 
+        4510, 
+        4525, 
+        4527, 
+        4541, 
+        4544, 
+        4580, 
+        4609, 
+        4681, 
+        4717, 
+        4963, 
+        5030, 
+        5042, 
+        5262, 
+        5369, 
+        5441, 
+        5562, 
+        5730, 
+        5814
+    ], 
+    "name": "EDGE", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons."
+    }, 
+    "platforms": [
+        34, 
+        6, 
+        39, 
+        92, 
+        14, 
+        41, 
+        9, 
+        38, 
+        3, 
+        37
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        1108, 
+        9493
+    ], 
+    "rating": 70.1324339194851, 
+    "rating_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1384992000000, 
+            "human": "2013-Nov-21", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1388620800000, 
+            "human": "2014-Jan-02", 
+            "m": 1, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1388016000000, 
+            "human": "2013-Dec-26", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1313020800000, 
+            "human": "2011-Aug-11", 
+            "m": 8, 
+            "platform": 92, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1313020800000, 
+            "human": "2011-Aug-11", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1313020800000, 
+            "human": "2011-Aug-11", 
+            "m": 8, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1374192000000, 
+            "human": "2013-Jul-19", 
+            "m": 7, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1374192000000, 
+            "human": "2013-Jul-19", 
+            "m": 7, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 1, 
+            "date": 1228089600000, 
+            "human": "2008-Dec", 
+            "m": 12, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1265673600000, 
+            "human": "2010-Feb-09", 
+            "m": 2, 
+            "platform": 34, 
+            "region": 8, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1291248000000, 
+            "human": "2010-Dec-02", 
+            "m": 12, 
+            "platform": 38, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1316476800000, 
+            "human": "2011-Sep-20", 
+            "m": 9, 
+            "platform": 38, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1291248000000, 
+            "human": "2010-Dec-02", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1384992000000, 
+            "human": "2013-Nov-21", 
+            "m": 11, 
+            "platform": 41, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1388016000000, 
+            "human": "2013-Dec-26", 
+            "m": 12, 
+            "platform": 37, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vcg21zl4n7tlmjgj461y", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vcg21zl4n7tlmjgj461y.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "x9pky6gmg4sjh4vsy5z8", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x9pky6gmg4sjh4vsy5z8.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "yhxcywiv7pagbi1mpahr", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yhxcywiv7pagbi1mpahr.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "dsqozahyvt5ha6rhxpsg", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dsqozahyvt5ha6rhxpsg.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "iod1verbjsjpw0xeylih", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iod1verbjsjpw0xeylih.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "o1vetz4kltsvvkgm1pz7", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o1vetz4kltsvvkgm1pz7.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "dt7pnkrrnjv9ajpy34zs", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dt7pnkrrnjv9ajpy34zs.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zhlzmgejmvj7kxfc4up3", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zhlzmgejmvj7kxfc4up3.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "vmbtswkbvh5mzpb0gn18", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vmbtswkbvh5mzpb0gn18.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "knpmnynp5fpggb5lyub9", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/knpmnynp5fpggb5lyub9.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "es6m7fpl8yqyenenjptc", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/es6m7fpl8yqyenenjptc.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "edge", 
+    "summary": "In EDGE players take direct control of the cube and roll their way around the game's dozens of levels. Search for all the prisms and find the shortcuts to improve your times.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435465, 
+        268435487, 
+        268435488, 
+        536871013, 
+        536871029, 
+        536871038, 
+        536871470, 
+        536871878, 
+        536872064, 
+        536872070, 
+        536872407, 
+        536872961, 
+        536872997, 
+        536873787, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875062, 
+        536875063, 
+        536875194, 
+        536875245, 
+        536875347, 
+        536875361, 
+        536875377, 
+        536875396, 
+        536875404, 
+        536875422, 
+        536875437, 
+        536875439, 
+        536875453, 
+        536875456, 
+        536875492, 
+        536875521, 
+        536875593, 
+        536875629, 
+        536875875, 
+        536875942, 
+        536875954, 
+        536876174, 
+        536876281, 
+        536876353, 
+        536876474, 
+        536876642, 
+        536876726, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 78.06621695974255, 
+    "total_rating_count": 8, 
+    "updated_at": 1523278772994, 
+    "url": "https://www.igdb.com/games/edge", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "F60KTRePP4U"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://2trib.es/edge"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/38740"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Edge_%28video_game%29"
+        }
+    ]
+}

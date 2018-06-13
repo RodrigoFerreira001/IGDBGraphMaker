@@ -1,0 +1,156 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kqmttycbvvbefzfukesm", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kqmttycbvvbefzfukesm.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1504529237068, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1485820800000, 
+    "game_modes": [
+        2
+    ], 
+    "games": [
+        11423, 
+        28113, 
+        6732, 
+        25222, 
+        13163, 
+        54524, 
+        18167, 
+        54678, 
+        29147, 
+        60224
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 56891, 
+    "keywords": [
+        78, 
+        1293, 
+        2385, 
+        2875, 
+        4134, 
+        4175, 
+        4178, 
+        4245, 
+        4332, 
+        4467, 
+        4576, 
+        4577
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 2, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Adventure Pop", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "popularity": 1.666666666666667, 
+    "rating": 50.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1486425600000, 
+            "human": "2017-Feb-07", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1485820800000, 
+            "human": "2017-Jan-31", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1485820800000, 
+            "human": "2017-Jan-31", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pr7lekzms1pu1quycqng", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pr7lekzms1pu1quycqng.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jmhjtqslagtttothitgn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jmhjtqslagtttothitgn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cuqfc8fptkaupqqvmx9g", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cuqfc8fptkaupqqvmx9g.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vj3uwzngdaclowobz3kc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vj3uwzngdaclowobz3kc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "t0u82tuh1iwoavr2kd9h", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t0u82tuh1iwoavr2kd9h.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "adventure-pop", 
+    "summary": "A free to play bubble pop game", 
+    "tags": [
+        268435465, 
+        536870990, 
+        536872205, 
+        536873297, 
+        536873787, 
+        536875046, 
+        536875087, 
+        536875090, 
+        536875157, 
+        536875244, 
+        536875379, 
+        536875488, 
+        536875489
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1527593142023, 
+    "url": "https://www.igdb.com/games/adventure-pop"
+}

@@ -1,0 +1,531 @@
+{
+    "aggregated_rating": 85.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "SFA2"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "SFZ2"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Street Fighter Zero 2"
+        }, 
+        {
+            "name": "Street Fighter Zero 2 "
+        }, 
+        {
+            "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcZERO 2"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2883, 
+    "cover": {
+        "cloudinary_id": "fac5sokgsbspanzgpip3", 
+        "height": 646, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fac5sokgsbspanzgpip3.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1399208529136, 
+    "developers": [
+        37
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 825379200000, 
+    "franchise": 792, 
+    "franchises": [
+        792
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        6702, 
+        6704, 
+        1244, 
+        1243, 
+        7364, 
+        4238, 
+        38297, 
+        884, 
+        39319, 
+        39318
+    ], 
+    "genres": [
+        4, 
+        33
+    ], 
+    "id": 6703, 
+    "keywords": [
+        61, 
+        107, 
+        288, 
+        301, 
+        441, 
+        472, 
+        872, 
+        977, 
+        1075, 
+        1188, 
+        1231, 
+        1313, 
+        1950, 
+        1961, 
+        2152, 
+        3486, 
+        4161, 
+        4163, 
+        4244, 
+        4271, 
+        4286, 
+        4294, 
+        4372, 
+        4447, 
+        4471, 
+        4522, 
+        4536, 
+        4566, 
+        4619, 
+        4670, 
+        4726, 
+        4866, 
+        4907, 
+        4921, 
+        5172, 
+        5201, 
+        5328, 
+        5354, 
+        5396, 
+        5398, 
+        5893, 
+        5894, 
+        5897, 
+        5901, 
+        5912, 
+        5913, 
+        5916, 
+        5917, 
+        5919, 
+        5920, 
+        5922, 
+        5930, 
+        6084, 
+        6088, 
+        6100, 
+        6104, 
+        6146, 
+        6325, 
+        6326, 
+        6468, 
+        6504, 
+        6529, 
+        6784, 
+        7026, 
+        7073, 
+        7287, 
+        7300, 
+        7387, 
+        7439, 
+        7441, 
+        7640, 
+        9057, 
+        9886, 
+        10012, 
+        10200, 
+        10359, 
+        10454, 
+        11396, 
+        11565, 
+        11853, 
+        11873, 
+        12413, 
+        12546, 
+        12953, 
+        13031, 
+        13491
+    ], 
+    "name": "Street Fighter Alpha 2", 
+    "platforms": [
+        52, 
+        6, 
+        41, 
+        32, 
+        7, 
+        19, 
+        37, 
+        5
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        37
+    ], 
+    "rating": 70.0610532892577, 
+    "rating_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1472083200000, 
+            "human": "2016-Aug-25", 
+            "m": 8, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1469664000000, 
+            "human": "2016-Jul-28", 
+            "m": 7, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1400716800000, 
+            "human": "2014-May-22", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1264723200000, 
+            "human": "2010-Jan-29", 
+            "m": 1, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1260144000000, 
+            "human": "2009-Dec-07", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 878342400000, 
+            "human": "1997-Nov-01", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 889660800000, 
+            "human": "1998-Mar-12", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 1998
+        }, 
+        {
+            "category": 2, 
+            "date": 915062400000, 
+            "human": "1998", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 1998
+        }, 
+        {
+            "category": 0, 
+            "date": 850953600000, 
+            "human": "1996-Dec-19", 
+            "m": 12, 
+            "platform": 19, 
+            "region": 1, 
+            "y": 1996
+        }, 
+        {
+            "category": 6, 
+            "date": 851990400000, 
+            "human": "1996-Q4", 
+            "m": 12, 
+            "platform": 19, 
+            "region": 2, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 851040000000, 
+            "human": "1996-Dec-20", 
+            "m": 12, 
+            "platform": 19, 
+            "region": 5, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 842659200000, 
+            "human": "1996-Sep-14", 
+            "m": 9, 
+            "platform": 32, 
+            "region": 5, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 844041600000, 
+            "human": "1996-Sep-30", 
+            "m": 9, 
+            "platform": 32, 
+            "region": 2, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 848102400000, 
+            "human": "1996-Nov-16", 
+            "m": 11, 
+            "platform": 32, 
+            "region": 1, 
+            "y": 1996
+        }, 
+        {
+            "category": 6, 
+            "date": 851990400000, 
+            "human": "1996-Q4", 
+            "m": 12, 
+            "platform": 7, 
+            "region": 1, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 844041600000, 
+            "human": "1996-Sep-30", 
+            "m": 9, 
+            "platform": 7, 
+            "region": 2, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 839548800000, 
+            "human": "1996-Aug-09", 
+            "m": 8, 
+            "platform": 7, 
+            "region": 5, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 826070400000, 
+            "human": "1996-Mar-06", 
+            "m": 3, 
+            "platform": 52, 
+            "region": 2, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 825379200000, 
+            "human": "1996-Feb-27", 
+            "m": 2, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1996
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "te2lc9pg3cj6xlyv8zyn", 
+            "height": 191, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/te2lc9pg3cj6xlyv8zyn.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "folingt19hdsuxz7jlcj", 
+            "height": 191, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/folingt19hdsuxz7jlcj.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "fsyhcfavexjod0mo6ywb", 
+            "height": 191, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fsyhcfavexjod0mo6ywb.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "cbetka0ls541nyc99tip", 
+            "height": 191, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cbetka0ls541nyc99tip.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "eygtfnq8l3moyoy0eniy", 
+            "height": 191, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eygtfnq8l3moyoy0eniy.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "pbe2m0gbyqswdgc4eje8", 
+            "height": 191, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pbe2m0gbyqswdgc4eje8.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "uu0r1ukwsly1qduqgbru", 
+            "height": 191, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uu0r1ukwsly1qduqgbru.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "vmqvtqaxhz4ees63ez6e", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vmqvtqaxhz4ees63ez6e.jpg", 
+            "width": 384
+        }, 
+        {
+            "cloudinary_id": "dfkxekpaeavyabgfgt8d", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dfkxekpaeavyabgfgt8d.jpg", 
+            "width": 384
+        }, 
+        {
+            "cloudinary_id": "tu0w0mo946phjdn6ryw8", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tu0w0mo946phjdn6ryw8.jpg", 
+            "width": 384
+        }, 
+        {
+            "cloudinary_id": "acqoki4mdpzi38ysllso", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/acqoki4mdpzi38ysllso.jpg", 
+            "width": 384
+        }, 
+        {
+            "cloudinary_id": "iyesajjbclmcuqvv6xv3", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iyesajjbclmcuqvv6xv3.jpg", 
+            "width": 384
+        }
+    ], 
+    "slug": "street-fighter-alpha-2", 
+    "summary": "Street Fighter Alpha 2, known as Street Fighter Zero 2 in Japan, Asia and South America, is a 1996 fighting game originally released for the CPS II arcade hardware by Capcom. The game is both a sequel and a remake to the previous year's Street Fighter Alpha: Warriors' Dreams, which is itself a prequel to the Street Fighter II series in terms of plot and setting. \n \nThe single-player mode, much like the original Street Fighter Alpha, consists of eight matches with computer-controlled opponents, including a fixed final opponent whose identity depends on the player's selected character. Each character also has a secret \"rival\" whom they can face during the course of the single-player mode after meeting certain requirements, in which then the rival will interrupt one of the player's regularly scheduled matches and exchange dialogue with the player's character. With Akuma now a regular character, a more powerful version of the character dubbed \"Shin Akuma\" replaces him as a secret opponent. Unlike Super Turbo and the original Alpha, Shin Akuma challenges the player before the player's final opponent, rather than as an alternate final boss.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435489, 
+        536870973, 
+        536871019, 
+        536871200, 
+        536871213, 
+        536871353, 
+        536871384, 
+        536871784, 
+        536871889, 
+        536871987, 
+        536872100, 
+        536872143, 
+        536872225, 
+        536872862, 
+        536872873, 
+        536873064, 
+        536874398, 
+        536875073, 
+        536875075, 
+        536875156, 
+        536875183, 
+        536875198, 
+        536875206, 
+        536875284, 
+        536875359, 
+        536875383, 
+        536875434, 
+        536875448, 
+        536875478, 
+        536875531, 
+        536875582, 
+        536875638, 
+        536875778, 
+        536875819, 
+        536875833, 
+        536876084, 
+        536876113, 
+        536876240, 
+        536876266, 
+        536876308, 
+        536876310, 
+        536876805, 
+        536876806, 
+        536876809, 
+        536876813, 
+        536876824, 
+        536876825, 
+        536876828, 
+        536876829, 
+        536876831, 
+        536876832, 
+        536876834, 
+        536876842, 
+        536876996, 
+        536877000, 
+        536877012, 
+        536877016, 
+        536877058, 
+        536877237, 
+        536877238, 
+        536877380, 
+        536877416, 
+        536877441, 
+        536877696, 
+        536877938, 
+        536877985, 
+        536878199, 
+        536878212, 
+        536878299, 
+        536878351, 
+        536878353, 
+        536878552, 
+        536879969, 
+        536880798, 
+        536880924, 
+        536881112, 
+        536881271, 
+        536881366, 
+        536882308, 
+        536882477, 
+        536882765, 
+        536882785, 
+        536883325, 
+        536883458, 
+        536883865, 
+        536883943, 
+        536884403, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 77.53052664462885, 
+    "total_rating_count": 8, 
+    "updated_at": 1528803988678, 
+    "url": "https://www.igdb.com/games/street-fighter-alpha-2", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_2"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://streetfighter.wikia.com/wiki/Street_Fighter_Alpha_2"
+        }
+    ]
+}

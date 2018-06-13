@@ -1,0 +1,470 @@
+{
+    "aggregated_rating": 51.1052631578947, 
+    "aggregated_rating_count": 24, 
+    "artworks": [
+        {
+            "cloudinary_id": "ikiqzj4qnbvwbkfmtsdz", 
+            "height": 1280, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ikiqzj4qnbvwbkfmtsdz.jpg", 
+            "width": 905
+        }, 
+        {
+            "cloudinary_id": "yeu3tdjssabcr7ljam4l", 
+            "height": 1100, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yeu3tdjssabcr7ljam4l.jpg", 
+            "width": 1200
+        }
+    ], 
+    "category": 0, 
+    "collection": 3687, 
+    "cover": {
+        "cloudinary_id": "qzncrfix0qeadfkudyk2", 
+        "height": 193, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qzncrfix0qeadfkudyk2.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1392095117704, 
+    "developers": [
+        2344, 
+        2345, 
+        2343
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is an action platformer in which player assume the role of Beck, an android on a mission to defeat rampaging robots. As players traverse side-scrolling levels, they use laser blasters to defeat enemy robots in frequent combat. Players can engage in more protracted boss battles at the end of each level. Battles are accompanied by colorful light effects, laser fire, and large explosions. "
+    }, 
+    "external": {
+        "steam": "314710"
+    }, 
+    "first_release_date": 1466467200000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        6732, 
+        7350, 
+        27421, 
+        11423, 
+        14593, 
+        25300, 
+        16513, 
+        72373, 
+        7344, 
+        21062
+    ], 
+    "genres": [
+        5, 
+        8
+    ], 
+    "hypes": 17, 
+    "id": 5327, 
+    "keywords": [
+        166, 
+        426, 
+        588, 
+        970, 
+        1033, 
+        1059, 
+        1158, 
+        1293, 
+        1375, 
+        1494, 
+        2049, 
+        3833, 
+        3898, 
+        4004, 
+        4134, 
+        4161, 
+        4169, 
+        4171, 
+        4177, 
+        4178, 
+        4287, 
+        4296, 
+        4344, 
+        4347, 
+        4378, 
+        4576, 
+        4588, 
+        4609, 
+        4820, 
+        4836, 
+        4940, 
+        4957, 
+        5441, 
+        5907, 
+        5933, 
+        6200, 
+        6695, 
+        7292, 
+        7309
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 2, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Mighty No. 9", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters - Violence in a sporting context\r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        14, 
+        41, 
+        46, 
+        9, 
+        48, 
+        12, 
+        49, 
+        3, 
+        37
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        423
+    ], 
+    "pulse_count": 51, 
+    "rating": 59.1466409421244, 
+    "rating_count": 11, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1466640000000, 
+            "human": "2016-Jun-23", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466640000000, 
+            "human": "2016-Jun-23", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 4, 
+            "date": 1467244800000, 
+            "human": "2016-Q2", 
+            "m": 6, 
+            "platform": 46, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 4, 
+            "date": 1467244800000, 
+            "human": "2016-Q2", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jkpzpwodbqdgptsyrlvc", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jkpzpwodbqdgptsyrlvc.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "f1mntc4z86mvdgrdqurm", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f1mntc4z86mvdgrdqurm.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "nr72ye94vnvaptyl0ksm", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nr72ye94vnvaptyl0ksm.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "cjes8h3zv1oanevqmogk", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cjes8h3zv1oanevqmogk.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "zghbhje6cpuwidysux64", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zghbhje6cpuwidysux64.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "tlimu42b3npqhfnhvvot", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tlimu42b3npqhfnhvvot.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "dsmmm3ykbqgkrxkoxwce", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dsmmm3ykbqgkrxkoxwce.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "jhypdqndps2gzcx9ayk1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jhypdqndps2gzcx9ayk1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "h4ewcn1yvkktgfhlhgef", 
+            "height": 430, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h4ewcn1yvkktgfhlhgef.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "kn3okfe269xccnjuigwy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kn3okfe269xccnjuigwy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ldramjrymp6lif2pjf67", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ldramjrymp6lif2pjf67.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "axuzsgaammoauu1iawmj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/axuzsgaammoauu1iawmj.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "mighty-no-9", 
+    "storyline": "\"In the year 20XX ---- breakthroughs in robotic technology have ushered in a new era of peace & prosperity.\n\nViolence is confined to the Battle Coliseum, where robot combatants face off in spectacular duels.\n\nDr. White created 9 robot siblings known as the \u201cMighty Numbers\u201d, who were the most popular and powerful team of robots in the Battle Coliseum and always in the top ranks.\n\nBut, during one competition there was a cyber attack, infecting them with a computer virus causing them to become crazed and rampant.\"", 
+    "summary": "Mighty No. 9 is focused on 2D platforming with a blend of 2D and 3D artwork and animation. The player is able to run, jump and shoot projectiles at enemies they encounter. Furthermore, the player will be able to acquire both weapons and abilities from enemies they defeat. The game will feature an intro level followed by the eight main stages, which are freely chosen in any order by the player. At the end of each stage, Beck, the protagonist, must face one of the other eight \"Mighty Number\" units in a boss battle.[3] A final set of stages are unlocked at the end of the game, leading up to the final showdown. An additional level starring Call is also available at some point, provided through one of the completed stretch goals.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435464, 
+        536871078, 
+        536871338, 
+        536871500, 
+        536871882, 
+        536871945, 
+        536871971, 
+        536872070, 
+        536872205, 
+        536872287, 
+        536872406, 
+        536872961, 
+        536874745, 
+        536874810, 
+        536874916, 
+        536875046, 
+        536875073, 
+        536875081, 
+        536875083, 
+        536875089, 
+        536875090, 
+        536875199, 
+        536875208, 
+        536875256, 
+        536875259, 
+        536875290, 
+        536875488, 
+        536875500, 
+        536875521, 
+        536875732, 
+        536875748, 
+        536875852, 
+        536875869, 
+        536876353, 
+        536876819, 
+        536876845, 
+        536877112, 
+        536877607, 
+        536878204, 
+        536878221, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 55.12595205000954, 
+    "total_rating_count": 35, 
+    "updated_at": 1528355534151, 
+    "url": "https://www.igdb.com/games/mighty-no-9", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Nr21OuvZ97s"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "-mkosvmZfqw"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "rGgsVHoC_yA"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "6U_VQg2d7Hc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/314710"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.mightyno9.com"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/MightyNo9"
+        }
+    ]
+}

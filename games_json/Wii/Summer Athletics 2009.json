@@ -1,0 +1,82 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 4681, 
+    "cover": {
+        "cloudinary_id": "i081dffbnr0bdgtw5ctl", 
+        "height": 844, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/i081dffbnr0bdgtw5ctl.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1469283650951, 
+    "first_release_date": 1248393600000, 
+    "games": [
+        28113, 
+        70906, 
+        73945, 
+        43012, 
+        19082, 
+        28213, 
+        51093, 
+        50964, 
+        66035, 
+        20216
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 21111, 
+    "keywords": [
+        274, 
+        622, 
+        1293, 
+        4328
+    ], 
+    "name": "Summer Athletics 2009", 
+    "platforms": [
+        5
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        7041
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1248393600000, 
+            "human": "2009-Jul-24", 
+            "m": 7, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tg51vciudcemjrujzgq9", 
+            "height": 180, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tg51vciudcemjrujzgq9.jpg", 
+            "width": 300
+        }
+    ], 
+    "slug": "summer-athletics-2009", 
+    "summary": "Summer Athletics is back with the 2009 edition", 
+    "tags": [
+        268435470, 
+        536871186, 
+        536871534, 
+        536872205, 
+        536875240
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1518012622953, 
+    "url": "https://www.igdb.com/games/summer-athletics-2009", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.summerathletics.com/"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 2241, 
+    "cover": {
+        "cloudinary_id": "brm3k6mpnpegdyha9pds", 
+        "height": 1803, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/brm3k6mpnpegdyha9pds.jpg", 
+        "width": 1280
+    }, 
+    "created_at": 1374363250268, 
+    "developers": [
+        899
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 1288828800000, 
+    "games": [
+        46820, 
+        39665, 
+        101684, 
+        101567, 
+        101100, 
+        100907, 
+        100887, 
+        100879, 
+        100863, 
+        100832
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 2658, 
+    "name": "MotionSports: Play for Real", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        899
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1288828800000, 
+            "human": "2010-Nov-04", 
+            "m": 11, 
+            "platform": 12, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "kzkp9h7l4qibmunjdrfz", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kzkp9h7l4qibmunjdrfz.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "motionsports-play-for-real", 
+    "tags": [
+        268435470
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 4, 
+    "updated_at": 1500288210083, 
+    "url": "https://www.igdb.com/games/motionsports-play-for-real"
+}

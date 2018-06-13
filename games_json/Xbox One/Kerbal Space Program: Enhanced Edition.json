@@ -1,0 +1,105 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "alj5mlflijzygjtaed1o", 
+        "height": 196, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/alj5mlflijzygjtaed1o.jpg", 
+        "width": 507
+    }, 
+    "created_at": 1513389978476, 
+    "developers": [
+        1464
+    ], 
+    "first_release_date": 1516060800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        24048, 
+        28465, 
+        25311, 
+        34919, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        23212, 
+        28277
+    ], 
+    "genres": [
+        13, 
+        32
+    ], 
+    "id": 78154, 
+    "name": "Kerbal Space Program: Enhanced Edition", 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        14035
+    ], 
+    "pulse_count": 7, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1516060800000, 
+            "human": "2018-Jan-16", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1516060800000, 
+            "human": "2018-Jan-16", 
+            "m": 1, 
+            "platform": 48, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1516060800000, 
+            "human": "2018-Jan-16", 
+            "m": 1, 
+            "platform": 49, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ouyhjhyjuzltavsec3wg", 
+            "height": 417, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ouyhjhyjuzltavsec3wg.jpg", 
+            "width": 740
+        }
+    ], 
+    "slug": "kerbal-space-program-enhanced-edition", 
+    "summary": "KERBAL SPACE PROGRAM IS A MULTI-GENRE GAME WHERE THE PLAYERS CREATE THEIR OWN SPACE PROGRAM.", 
+    "tags": [
+        18, 
+        33, 
+        34, 
+        38, 
+        268435469, 
+        268435488
+    ], 
+    "themes": [
+        18, 
+        33, 
+        34, 
+        38
+    ], 
+    "total_rating": 72.5, 
+    "total_rating_count": 1, 
+    "updated_at": 1522068244310, 
+    "url": "https://www.igdb.com/games/kerbal-space-program-enhanced-edition", 
+    "version_parent": 3102, 
+    "version_title": "Enhanced Edition"
+}

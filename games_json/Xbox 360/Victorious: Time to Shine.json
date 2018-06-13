@@ -1,0 +1,170 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 3138, 
+    "cover": {
+        "cloudinary_id": "ak1znevxorkxysez9mxd", 
+        "height": 786, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ak1znevxorkxysez9mxd.jpg", 
+        "width": 560
+    }, 
+    "created_at": 1429036769062, 
+    "developers": [
+        392
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1321315200000, 
+    "franchise": 555, 
+    "franchises": [
+        555
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19934, 
+        37067, 
+        76110, 
+        16513, 
+        6732, 
+        3254, 
+        19448, 
+        36911, 
+        3302, 
+        20214
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 9751, 
+    "keywords": [
+        1293, 
+        1699, 
+        4134, 
+        4137, 
+        4142, 
+        4228, 
+        4483, 
+        4678, 
+        5348, 
+        5783, 
+        7369
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Victorious: Time to Shine", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        5222
+    ], 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1321315200000, 
+            "human": "2011-Nov-15", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1332892800000, 
+            "human": "2012-Mar-28", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1328832000000, 
+            "human": "2012-Feb-10", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "oym6gwk4ncvtb09jg4xh", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oym6gwk4ncvtb09jg4xh.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hbf1it7rbpcjb1kxjz02", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hbf1it7rbpcjb1kxjz02.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "thfy5h74lcetohdryf8q", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/thfy5h74lcetohdryf8q.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rtya9dpgrebfxc5oy7cc", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rtya9dpgrebfxc5oy7cc.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "victorious-time-to-shine", 
+    "summary": "In Victorious: Time to Shine, players can partner up with friends in co-op or competitive gameplay to create a Hollywood Arts talent show where they can act, direct, sing, dance and more, all to the soundtrack of hit songs from the series.", 
+    "tags": [
+        1, 
+        268435463, 
+        536872205, 
+        536872611, 
+        536875046, 
+        536875049, 
+        536875054, 
+        536875140, 
+        536875395, 
+        536875590, 
+        536876260, 
+        536876695, 
+        536878281
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1515851199055, 
+    "url": "https://www.igdb.com/games/victorious-time-to-shine", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "yqx94BVPDW4"
+        }
+    ]
+}

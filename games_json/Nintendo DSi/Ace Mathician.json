@@ -1,0 +1,76 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "nix2clq9mbgwsdgn0aau", 
+        "height": 256, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nix2clq9mbgwsdgn0aau.jpg", 
+        "width": 295
+    }, 
+    "created_at": 1513156048761, 
+    "first_release_date": 1342051200000, 
+    "id": 77767, 
+    "name": "Ace Mathician", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        6379
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1343865600000, 
+            "human": "2012-Aug-02", 
+            "m": 8, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1342051200000, 
+            "human": "2012-Jul-12", 
+            "m": 7, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tx1s89vi9gu4atgrvlxp", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tx1s89vi9gu4atgrvlxp.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "eo3ojp85pwywgpwyfiqa", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eo3ojp85pwywgpwyfiqa.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "adnm3th9lhpcxs7qd1sc", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/adnm3th9lhpcxs7qd1sc.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ofzremzlwnynkbymnb2n", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ofzremzlwnynkbymnb2n.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "pjsn1xalrgetfxazqvns", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pjsn1xalrgetfxazqvns.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "ace-mathician", 
+    "summary": "Help a koala get some fruit by using math to alter terrain.", 
+    "updated_at": 1518045296609, 
+    "url": "https://www.igdb.com/games/ace-mathician"
+}

@@ -1,0 +1,321 @@
+{
+    "aggregated_rating": 63.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "RS"
+        }
+    ], 
+    "category": 0, 
+    "collection": 447, 
+    "cover": {
+        "cloudinary_id": "mf0sadohmfzyhnytrslb", 
+        "height": 903, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mf0sadohmfzyhnytrslb.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1372411720683, 
+    "developers": [
+        841
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 1163894400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        26401, 
+        27789, 
+        529, 
+        15536, 
+        2031, 
+        18, 
+        28204, 
+        536, 
+        9509, 
+        27314
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 2258, 
+    "keywords": [
+        61, 
+        164, 
+        221, 
+        227, 
+        301, 
+        453, 
+        558, 
+        1098, 
+        2141, 
+        2199, 
+        2679, 
+        3988, 
+        4179, 
+        4210, 
+        4287, 
+        4330, 
+        4377, 
+        4393, 
+        4396, 
+        4438, 
+        4446, 
+        4523, 
+        4541, 
+        4571, 
+        4579, 
+        4582, 
+        4626, 
+        4658, 
+        4660, 
+        4712, 
+        4730, 
+        4791, 
+        4866, 
+        4892, 
+        4896, 
+        4902, 
+        4975, 
+        4990, 
+        5029, 
+        5194, 
+        5309, 
+        5350, 
+        5775, 
+        5965, 
+        6258, 
+        6295, 
+        6374, 
+        6474, 
+        6495, 
+        6590, 
+        7038, 
+        8130, 
+        8920, 
+        9317, 
+        11312, 
+        11412, 
+        12278, 
+        12279, 
+        13106, 
+        13156, 
+        13211
+    ], 
+    "name": "Red Steel", 
+    "platforms": [
+        5
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        104
+    ], 
+    "rating": 71.0, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1165017600000, 
+            "human": "2006-Dec-02", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1165536000000, 
+            "human": "2006-Dec-08", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1163894400000, 
+            "human": "2006-Nov-19", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1163894400000, 
+            "human": "2006-Nov-19", 
+            "m": 11, 
+            "platform": 5, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mij0m39zdxft2w1bddcl", 
+            "height": 545, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mij0m39zdxft2w1bddcl.jpg", 
+            "width": 1180
+        }, 
+        {
+            "cloudinary_id": "xgb4lgigbnlmwl6hlwow", 
+            "height": 945, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xgb4lgigbnlmwl6hlwow.jpg", 
+            "width": 1181
+        }, 
+        {
+            "cloudinary_id": "crc5lc7jdalp2horvamb", 
+            "height": 945, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/crc5lc7jdalp2horvamb.jpg", 
+            "width": 1181
+        }, 
+        {
+            "cloudinary_id": "aos1gcrrlqlybabmzhxl", 
+            "height": 945, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aos1gcrrlqlybabmzhxl.jpg", 
+            "width": 1181
+        }, 
+        {
+            "cloudinary_id": "bohkmmwtj17rjiolbk8z", 
+            "height": 945, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bohkmmwtj17rjiolbk8z.jpg", 
+            "width": 1181
+        }, 
+        {
+            "cloudinary_id": "zvxzmnmvlw2ilqhjjgvi", 
+            "height": 945, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zvxzmnmvlw2ilqhjjgvi.jpg", 
+            "width": 1181
+        }, 
+        {
+            "cloudinary_id": "uu7ooxoe0ynpugaaqstt", 
+            "height": 945, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uu7ooxoe0ynpugaaqstt.jpg", 
+            "width": 1181
+        }, 
+        {
+            "cloudinary_id": "vwgv5wsetylboktzgaai", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vwgv5wsetylboktzgaai.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "k9tpwqzc3ghnremhx9vh", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k9tpwqzc3ghnremhx9vh.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "xreuoi6xz1woeajwjypp", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xreuoi6xz1woeajwjypp.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "egxg1mpzon2q8dk8bnfb", 
+            "height": 945, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/egxg1mpzon2q8dk8bnfb.jpg", 
+            "width": 1181
+        }, 
+        {
+            "cloudinary_id": "r6rlchk9jnindzwsn2sd", 
+            "height": 945, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r6rlchk9jnindzwsn2sd.jpg", 
+            "width": 1181
+        }
+    ], 
+    "slug": "red-steel", 
+    "summary": "Taking place in both the USA and Japan, Red Steel is a crime themed shooter that has the player controlled Scott Monroe fighting off various members of the Yakuza clans in order to rescue his fiance\u00e9. \n \nIt features sword duels and gun fights using the Wiimote, to allow the player to swing the control as they would swing a sword. The positioning and movement actions of the Wiimote also let the player aim their weapons almost as they would a real gun.", 
+    "tags": [
+        1, 
+        268435461, 
+        536870973, 
+        536871076, 
+        536871133, 
+        536871139, 
+        536871213, 
+        536871365, 
+        536871470, 
+        536872010, 
+        536873053, 
+        536873111, 
+        536873591, 
+        536874900, 
+        536875091, 
+        536875122, 
+        536875199, 
+        536875242, 
+        536875289, 
+        536875305, 
+        536875308, 
+        536875350, 
+        536875358, 
+        536875435, 
+        536875453, 
+        536875483, 
+        536875491, 
+        536875494, 
+        536875538, 
+        536875570, 
+        536875572, 
+        536875624, 
+        536875642, 
+        536875703, 
+        536875778, 
+        536875804, 
+        536875808, 
+        536875814, 
+        536875887, 
+        536875902, 
+        536875941, 
+        536876106, 
+        536876221, 
+        536876262, 
+        536876687, 
+        536876877, 
+        536877170, 
+        536877207, 
+        536877286, 
+        536877386, 
+        536877407, 
+        536877502, 
+        536877950, 
+        536879042, 
+        536879832, 
+        536880229, 
+        536882224, 
+        536882324, 
+        536883190, 
+        536883191, 
+        536884018, 
+        536884068, 
+        536884123, 
+        1073741825
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 67.16666666666666, 
+    "total_rating_count": 7, 
+    "updated_at": 1524985028290, 
+    "url": "https://www.igdb.com/games/red-steel", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "DnoVn5SGa0E"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.redsteelgame.com"
+        }
+    ]
+}

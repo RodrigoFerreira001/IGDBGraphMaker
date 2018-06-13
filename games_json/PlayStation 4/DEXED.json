@@ -1,0 +1,189 @@
+{
+    "aggregated_rating": 56.6666666666667, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "snjwycwtdrjqp9bpao0e", 
+        "height": 432, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/snjwycwtdrjqp9bpao0e.jpg", 
+        "width": 768
+    }, 
+    "created_at": 1476346288681, 
+    "developers": [
+        795
+    ], 
+    "external": {
+        "steam": "510290"
+    }, 
+    "first_release_date": 1477440000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        18088, 
+        103281, 
+        103020, 
+        103298, 
+        68287, 
+        103292, 
+        103301, 
+        83728, 
+        28029, 
+        90099
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 24932, 
+    "keywords": [
+        1025, 
+        2139, 
+        2619, 
+        4131, 
+        4234, 
+        4245
+    ], 
+    "name": "DEXED", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        795
+    ], 
+    "pulse_count": 2, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1485907200000, 
+            "human": "2017-Feb-01", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1485820800000, 
+            "human": "2017-Jan-31", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1485907200000, 
+            "human": "2017-Feb-01", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1485907200000, 
+            "human": "2017-Feb-01", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1477440000000, 
+            "human": "2016-Oct-26", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gwryioo7trvpkhieemux", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gwryioo7trvpkhieemux.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uygkldzhn95sxvg2u1n1", 
+            "height": 337, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uygkldzhn95sxvg2u1n1.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "nhvhuwfrdjtisjesw5wu", 
+            "height": 337, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nhvhuwfrdjtisjesw5wu.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "iw5ovs0qnwb3kfi2pxt5", 
+            "height": 337, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iw5ovs0qnwb3kfi2pxt5.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "jgfgktgiu8ljegvbrys3", 
+            "height": 337, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jgfgktgiu8ljegvbrys3.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "oarzykbh4fxgrregwfol", 
+            "height": 444, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oarzykbh4fxgrregwfol.jpg", 
+            "width": 790
+        }
+    ], 
+    "slug": "dexed", 
+    "summary": "From Ninja Theory, creators of Heavenly Sword, Enslaved: Odyssey to the West and DmC: Devil May Cry, DEXED is an on-rails VR shooter that takes you on a dream-like journey through beautifully realized worlds. As you travel you target and shoot enemies using both contollers.", 
+    "tags": [
+        1, 
+        268435461, 
+        536871937, 
+        536873051, 
+        536873531, 
+        536875043, 
+        536875146, 
+        536875157, 
+        1073741831
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 63.33333333333335, 
+    "total_rating_count": 4, 
+    "updated_at": 1523382237588, 
+    "url": "https://www.igdb.com/games/dexed", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "8ITJy8WcOoQ"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "qQSXbrukeEk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/510290"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.ninjatheory.com/"
+        }
+    ]
+}

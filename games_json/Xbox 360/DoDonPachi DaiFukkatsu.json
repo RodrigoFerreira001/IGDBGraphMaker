@@ -1,0 +1,132 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u6012\u9996\u9818\u8702 \u5927\u5fa9\u6d3b"
+        }
+    ], 
+    "category": 0, 
+    "collection": 330, 
+    "cover": {
+        "cloudinary_id": "fjfs9dr4lhzxqddtkiko", 
+        "height": 423, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fjfs9dr4lhzxqddtkiko.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1400993724696, 
+    "developers": [
+        2958
+    ], 
+    "first_release_date": 1211414400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28029, 
+        76246, 
+        19341, 
+        32902, 
+        10039, 
+        68287, 
+        46892, 
+        41258, 
+        68142, 
+        10209
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 6966, 
+    "keywords": [
+        1078
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "DoDonPachi DaiFukkatsu", 
+    "platforms": [
+        34, 
+        52, 
+        39, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2278, 
+        832
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1211414400000, 
+            "human": "2008-May-22", 
+            "m": 5, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1290643200000, 
+            "human": "2010-Nov-25", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1320364800000, 
+            "human": "2011-Nov-04", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1282780800000, 
+            "human": "2010-Aug-26", 
+            "m": 8, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2010
+        }, 
+        {
+            "category": 1, 
+            "date": 1317427200000, 
+            "human": "2011-Oct", 
+            "m": 10, 
+            "platform": 34, 
+            "region": 5, 
+            "y": 2011
+        }
+    ], 
+    "slug": "dodonpachi-daifukkatsu", 
+    "summary": "The past is being altered. An android, known as Next EXY, has traveled one thousand years back in time. Can she really stop the war? Your task is to stop NEXY and the other Elemental Dolls who once protected humanity.", 
+    "tags": [
+        268435461, 
+        536871990
+    ], 
+    "updated_at": 1501045459355, 
+    "url": "https://www.igdb.com/games/dodonpachi-daifukkatsu", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "uJovyoSfve0"
+        }
+    ]
+}

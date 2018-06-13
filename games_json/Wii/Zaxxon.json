@@ -1,0 +1,329 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "name": "Zaxxon"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2206, 
+    "cover": {
+        "cloudinary_id": "wukmmqpai0fu4fjreww1", 
+        "height": 331, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wukmmqpai0fu4fjreww1.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1374873518406, 
+    "developers": [
+        11739
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 378691200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        68287, 
+        36950, 
+        27314, 
+        19448, 
+        22696, 
+        25300, 
+        28029, 
+        64204, 
+        142, 
+        7350
+    ], 
+    "genres": [
+        5, 
+        33
+    ], 
+    "id": 2753, 
+    "keywords": [
+        166, 
+        395, 
+        575, 
+        589, 
+        872, 
+        947, 
+        970, 
+        1025, 
+        1739, 
+        2152, 
+        4134, 
+        4163, 
+        4446, 
+        4449, 
+        4523, 
+        4795, 
+        5093, 
+        5116, 
+        5479, 
+        5722, 
+        5806, 
+        9968
+    ], 
+    "name": "Zaxxon", 
+    "platforms": [
+        68, 
+        52, 
+        67, 
+        84, 
+        66, 
+        59, 
+        13, 
+        65, 
+        75, 
+        126, 
+        15, 
+        26, 
+        5, 
+        27, 
+        151
+    ], 
+    "player_perspectives": [
+        2, 
+        3
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        4121, 
+        11739, 
+        13756, 
+        2379, 
+        2426, 
+        9528, 
+        1076
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1260835200000, 
+            "human": "2009-Dec-15", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1267747200000, 
+            "human": "2010-Mar-05", 
+            "m": 3, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1271030400000, 
+            "human": "2010-Apr-12", 
+            "m": 4, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 151, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1985
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 126, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 84, 
+            "region": 5, 
+            "y": 1985
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 27, 
+            "region": 5, 
+            "y": 1985
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 67, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 410140800000, 
+            "human": "1982", 
+            "m": 12, 
+            "platform": 68, 
+            "region": 2, 
+            "y": 1982
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 65, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 410140800000, 
+            "human": "1982", 
+            "m": 12, 
+            "platform": 59, 
+            "region": 2, 
+            "y": 1982
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 75, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 66, 
+            "region": 1, 
+            "y": 1984
+        }, 
+        {
+            "category": 1, 
+            "date": 378691200000, 
+            "human": "1982-Jan", 
+            "m": 1, 
+            "platform": 52, 
+            "region": 2, 
+            "y": 1982
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ox9tzztowzbd1og0q71p", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ox9tzztowzbd1og0q71p.jpg", 
+            "width": 224
+        }, 
+        {
+            "cloudinary_id": "nlswjbs8vb3ez2vxitw4", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nlswjbs8vb3ez2vxitw4.jpg", 
+            "width": 224
+        }, 
+        {
+            "cloudinary_id": "bkj6hcxjxn6dluwohijk", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bkj6hcxjxn6dluwohijk.jpg", 
+            "width": 224
+        }, 
+        {
+            "cloudinary_id": "n4w8b5a3jxoupug0zymx", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n4w8b5a3jxoupug0zymx.jpg", 
+            "width": 224
+        }, 
+        {
+            "cloudinary_id": "bboguqnz0hv5tzw63bgm", 
+            "height": 392, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bboguqnz0hv5tzw63bgm.jpg", 
+            "width": 336
+        }
+    ], 
+    "slug": "zaxxon", 
+    "summary": "Unofficial Amiga port of the C64 version, which is based on the 1982 Sega coin-op. \n \nZaxxon is a 1982 isometric shooter arcade game developed and released by Sega. The game gives the player the experience of flying a fighter craft through a fortress while shooting at enemy entities (missiles, enemy gunfire, etc.) The object of the game is to hit as many targets as possible without being shot down or running out of fuel\u2014which can be replenished, paradoxically, by blowing up fuel drums.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435489, 
+        536871078, 
+        536871307, 
+        536871487, 
+        536871501, 
+        536871784, 
+        536871859, 
+        536871882, 
+        536871937, 
+        536872651, 
+        536873064, 
+        536875046, 
+        536875075, 
+        536875358, 
+        536875361, 
+        536875435, 
+        536875707, 
+        536876005, 
+        536876028, 
+        536876391, 
+        536876634, 
+        536876718, 
+        536880880, 
+        1073741827, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1518021756402, 
+    "url": "https://www.igdb.com/games/zaxxon"
+}

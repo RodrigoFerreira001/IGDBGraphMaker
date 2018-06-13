@@ -1,0 +1,414 @@
+{
+    "aggregated_rating": 74.4, 
+    "aggregated_rating_count": 7, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Apollo JusticeAce Attorney 4Gyakuten Saiban 4"
+        }, 
+        {
+            "name": "\u9006\u8ee2\u88c1\u52244"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "yc1xmezdvfxyr2aaim0n", 
+            "height": 1100, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yc1xmezdvfxyr2aaim0n.jpg", 
+            "width": 780
+        }, 
+        {
+            "cloudinary_id": "nc4fkml9h9mpmzpi3pt7", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nc4fkml9h9mpmzpi3pt7.jpg", 
+            "width": 700
+        }
+    ], 
+    "category": 0, 
+    "collection": 302, 
+    "cover": {
+        "cloudinary_id": "mgfyowatq6wjlabszwhi", 
+        "height": 574, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mgfyowatq6wjlabszwhi.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1349603173641, 
+    "developers": [
+        37
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1176336000000, 
+    "franchise": 1163, 
+    "franchises": [
+        1163
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        1428, 
+        1427, 
+        1426, 
+        7364, 
+        9694, 
+        1430, 
+        15830, 
+        1432, 
+        8968, 
+        55935
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 1429, 
+    "keywords": [
+        78, 
+        94, 
+        129, 
+        159, 
+        221, 
+        245, 
+        350, 
+        488, 
+        846, 
+        1027, 
+        1416, 
+        1523, 
+        1669, 
+        1671, 
+        1682, 
+        2396, 
+        4250, 
+        4317, 
+        4403, 
+        4426, 
+        4510, 
+        4611, 
+        4678, 
+        4709, 
+        5020, 
+        5151, 
+        5411, 
+        5471, 
+        5515, 
+        5542, 
+        5567, 
+        5597, 
+        5610, 
+        5724, 
+        5921, 
+        5963, 
+        6094, 
+        6131, 
+        6231, 
+        6461, 
+        6465, 
+        6745, 
+        7185, 
+        7454, 
+        7470, 
+        7627, 
+        8124, 
+        8277, 
+        8876, 
+        8982, 
+        8983, 
+        9223, 
+        9339, 
+        9885, 
+        9935, 
+        10167, 
+        10440, 
+        10744, 
+        11311, 
+        11524, 
+        11525, 
+        11577, 
+        12369, 
+        12387
+    ], 
+    "name": "Apollo Justice: Ace Attorney", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters"
+    }, 
+    "platforms": [
+        34, 
+        39, 
+        20, 
+        37
+    ], 
+    "player_perspectives": [
+        1, 
+        4
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        37
+    ], 
+    "pulse_count": 23, 
+    "rating": 51.8625097761097, 
+    "rating_count": 17, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1202774400000, 
+            "human": "2008-Feb-12", 
+            "m": 2, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1511395200000, 
+            "human": "2017-Nov-23", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1211414400000, 
+            "human": "2008-May-22", 
+            "m": 5, 
+            "platform": 20, 
+            "region": 3, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1210291200000, 
+            "human": "2008-May-09", 
+            "m": 5, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1481155200000, 
+            "human": "2016-Dec-08", 
+            "m": 12, 
+            "platform": 34, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1480550400000, 
+            "human": "2016-Dec-01", 
+            "m": 12, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1511395200000, 
+            "human": "2017-Nov-23", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1176336000000, 
+            "human": "2007-Apr-12", 
+            "m": 4, 
+            "platform": 20, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1511308800000, 
+            "human": "2017-Nov-22", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "prjm6llmio7gq4tx9mx6", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/prjm6llmio7gq4tx9mx6.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "jzl3aslafpshfzry06z8", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jzl3aslafpshfzry06z8.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "gplh6go76l4apspwldnc", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gplh6go76l4apspwldnc.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "r073fanqfhrzm8gikvsl", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r073fanqfhrzm8gikvsl.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "a5sftb7m7cdngxnpgpng", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a5sftb7m7cdngxnpgpng.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "odthovsmsfuvigdzm6cv", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/odthovsmsfuvigdzm6cv.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "go6w06u2nwkoni7hbuec", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/go6w06u2nwkoni7hbuec.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "icfycbdoj80xtihdtn7k", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/icfycbdoj80xtihdtn7k.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "my67lbgskwk7cly5ydqb", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/my67lbgskwk7cly5ydqb.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "mjxthjsvd50oy2kpzd5l", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mjxthjsvd50oy2kpzd5l.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "atwpedcm0kwqgbsumnlo", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/atwpedcm0kwqgbsumnlo.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "n2fewinhdwkfwrqmtyxt", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n2fewinhdwkfwrqmtyxt.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "apollo-justice-ace-attorney", 
+    "summary": "Apollo Justice: Ace Attorney, released in Japan as Gyakuten Saiban 4, is the fourth video game in the Ace Attorney series. \nApollo Justice is the first game in the series that does not feature Phoenix Wright as the main protagonist, though it is not the first time a different attorney has been playable. The game is set in the year 2026, which is seven years after Phoenix Wright: Ace Attorney Trials and Tribulations. Phoenix Wright has been stripped of his attorney's badge, and Apollo Justice, an up-and-coming attorney, becomes his apprentice.", 
+    "tags": [
+        27, 
+        268435487, 
+        536870990, 
+        536871006, 
+        536871041, 
+        536871071, 
+        536871133, 
+        536871157, 
+        536871262, 
+        536871400, 
+        536871758, 
+        536871939, 
+        536872328, 
+        536872435, 
+        536872581, 
+        536872583, 
+        536872594, 
+        536873308, 
+        536875162, 
+        536875229, 
+        536875315, 
+        536875338, 
+        536875422, 
+        536875523, 
+        536875590, 
+        536875621, 
+        536875932, 
+        536876063, 
+        536876323, 
+        536876383, 
+        536876427, 
+        536876454, 
+        536876479, 
+        536876509, 
+        536876522, 
+        536876636, 
+        536876833, 
+        536876875, 
+        536877006, 
+        536877043, 
+        536877143, 
+        536877373, 
+        536877377, 
+        536877657, 
+        536878097, 
+        536878366, 
+        536878382, 
+        536878539, 
+        536879036, 
+        536879189, 
+        536879788, 
+        536879894, 
+        536879895, 
+        536880135, 
+        536880251, 
+        536880797, 
+        536880847, 
+        536881079, 
+        536881352, 
+        536881656, 
+        536882223, 
+        536882436, 
+        536882437, 
+        536882489, 
+        536883281, 
+        536883299, 
+        1073741825, 
+        1073741828
+    ], 
+    "themes": [
+        27
+    ], 
+    "total_rating": 63.13125488805485, 
+    "total_rating_count": 24, 
+    "updated_at": 1526608481960, 
+    "url": "https://www.igdb.com/games/apollo-justice-ace-attorney", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "peNoEhLGsUM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 12, 
+            "url": "https://play.google.com/store/apps/details?id=jp.co.capcom.gyakusai4en&hl=en"
+        }, 
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/apollo-justice-ace-attorney/id1136993233?mt=8"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Apollo_Justice:_Ace_Attorney"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://aceattorney.wikia.com/wiki/Apollo_Justice:_Ace_Attorney"
+        }
+    ]
+}

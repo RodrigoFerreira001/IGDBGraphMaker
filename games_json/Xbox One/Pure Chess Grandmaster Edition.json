@@ -1,0 +1,88 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "p6ccr18v7lpmxujw8d5h", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/p6ccr18v7lpmxujw8d5h.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1516347756164, 
+    "first_release_date": 1473379200000, 
+    "game_modes": [
+        2
+    ], 
+    "id": 82428, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 2, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Pure Chess Grandmaster Edition", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 1.0, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1473379200000, 
+            "human": "2016-Sep-09", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qhsvtlrnnghqwdjkz61b", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qhsvtlrnnghqwdjkz61b.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kyqwyvn0dm9mcgvashgj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kyqwyvn0dm9mcgvashgj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uayqvsbhmhmkrngcqk8u", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uayqvsbhmhmkrngcqk8u.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "if7nebucsfuf9rqdpjwr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/if7nebucsfuf9rqdpjwr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "aiig2pdnjttem55egyzv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aiig2pdnjttem55egyzv.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "pure-chess-grandmaster-edition", 
+    "summary": "\"Pure Chess Grandmaster Edition\" is a stunning celebration of the greatest strategy game of all time.\n\nThe Pure Chess Grandmaster Edition iincludes a variety of beautifully crafted, exclusive Chess Sets and Chess Pieces, from the antique to the modern day. There\u2019s a chess set and setting to suit everyone\u2019s style.\n\nFeatures:\n9 chess sets created with stunning detail and precision\n6 locations beautifully portrayed\nComprehensive tutorial that teaches you basic, intermediate, and advanced chess techniques\nTrack your ELO and Tournament ratings in the ranking boards", 
+    "total_rating": 70.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1526732096367, 
+    "url": "https://www.igdb.com/games/pure-chess-grandmaster-edition", 
+    "version_parent": 85585
+}

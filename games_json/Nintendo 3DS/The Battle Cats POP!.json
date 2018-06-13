@@ -1,0 +1,89 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "glrly5ivsesudlinp5q7", 
+        "height": 864, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/glrly5ivsesudlinp5q7.jpg", 
+        "width": 1702
+    }, 
+    "created_at": 1467842439137, 
+    "first_release_date": 1467244800000, 
+    "id": 19898, 
+    "name": "The Battle Cats POP!", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1467244800000, 
+            "human": "2016-Jun-30", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467244800000, 
+            "human": "2016-Jun-30", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bmqh1vmahmbgylr7cqti", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bmqh1vmahmbgylr7cqti.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "aotkwrqrmyypbdqqvdsj", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aotkwrqrmyypbdqqvdsj.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "ospcxfu0ejurxcqx0cop", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ospcxfu0ejurxcqx0cop.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "nmcwcy2qifw0kknwp4l4", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nmcwcy2qifw0kknwp4l4.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "t45ctzilegasrx8en6wc", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t45ctzilegasrx8en6wc.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "ypahb6muyyv3w6ddcg2e", 
+            "height": 864, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ypahb6muyyv3w6ddcg2e.jpg", 
+            "width": 1702
+        }
+    ], 
+    "slug": "the-battle-cats-pop", 
+    "summary": "Rampage across the globe with weird 'n wild Cats in an exciting but straight-forward tower defense adventure!", 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1518014989890, 
+    "url": "https://www.igdb.com/games/the-battle-cats-pop", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://ponos.s3.amazonaws.com/3ds/battlecatsen/index.html"
+        }
+    ]
+}

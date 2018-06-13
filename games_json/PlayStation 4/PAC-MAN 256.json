@@ -1,0 +1,320 @@
+{
+    "aggregated_rating": 76.0, 
+    "aggregated_rating_count": 9, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "PAC-MAN 256 - Endless Maze"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "PAC-MAN 256 - Endless Arcade Maze"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "PAC-MAN 256 - \u65e0\u5c3d\u7684\u8ff7\u5bab"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "PAC-MAN 256 - \u8feb\u308b\u30d0\u30b0\u304b\u3089\u9003\u3052\u308d\uff01\u6b21\u4e16\u4ee3\u30a8\u30f3\u30c9\u30ec\u30b9\u30d1\u30c3\u30af\u30de\u30f3\uff01-"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "PAC-MAN 256 - \ubb34\ud55c \uc544\ucf00\uc774\ub4dc \ubbf8\ub85c"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "PAC-MAN 256 - \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u044b\u0439 \u0430\u0440\u043a\u0430\u0434\u043d\u044b\u0439 \u043b\u0430\u0431\u0438\u0440\u0438\u043d\u0442"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "PAC-MAN 256 - Laberinto sin fin"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "PAC-MAN 256 Labyrinthe infini style arcade"
+        }
+    ], 
+    "category": 0, 
+    "collection": 526, 
+    "cover": {
+        "cloudinary_id": "pun3bzh2arrn3yepex9t", 
+        "height": 1024, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pun3bzh2arrn3yepex9t.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1448625077649, 
+    "developers": [
+        5757
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "455400"
+    }, 
+    "first_release_date": 1439942400000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        6732, 
+        18167, 
+        19934, 
+        11423, 
+        9174, 
+        8197, 
+        72373, 
+        76770, 
+        25311, 
+        7344
+    ], 
+    "genres": [
+        9, 
+        15, 
+        33
+    ], 
+    "id": 14701, 
+    "keywords": [
+        16, 
+        687, 
+        1293, 
+        1682, 
+        2385, 
+        2388, 
+        2875, 
+        4134, 
+        4148, 
+        4206, 
+        4288, 
+        4297, 
+        4400, 
+        4465, 
+        4485, 
+        4609, 
+        4910, 
+        5158, 
+        10205
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "PAC-MAN 256", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        34, 
+        45, 
+        6, 
+        39, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        248
+    ], 
+    "rating": 80.0, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1439942400000, 
+            "human": "2015-Aug-19", 
+            "m": 8, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1439942400000, 
+            "human": "2015-Aug-19", 
+            "m": 8, 
+            "platform": 39, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1440028800000, 
+            "human": "2015-Aug-20", 
+            "m": 8, 
+            "platform": 34, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440028800000, 
+            "human": "2015-Aug-20", 
+            "m": 8, 
+            "platform": 39, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 48, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 49, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 6, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "juffmw7culapbufyfvgp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/juffmw7culapbufyfvgp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pktryb1bfitzlyc1e2dm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pktryb1bfitzlyc1e2dm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gbcdtqj7idt1zt2lumrf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gbcdtqj7idt1zt2lumrf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kamnpbhtu4depimauhqe", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kamnpbhtu4depimauhqe.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fu5h4mbqt71468m0xjxe", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fu5h4mbqt71468m0xjxe.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "pac-man-256", 
+    "storyline": "\"On PAC-MAN's 35th anniversary, we are collaborating with Hipster Whale (the makers of Crossy Road) to bring you a hilariously addictive endless maze chase inspired by the infamous level 256 glitch from the original PAC-MAN! The free-to-play game will be available for smartphones and tablets in summer 2015.\"", 
+    "summary": "Pac-Man 256 is a 2015 Android and iOS video game in the Pac-Man series. It is inspired by the glitched 256th level of Pac-Man. In the game, the player must continuously navigate an endless maze while avoiding ghosts and using power-ups and power pellets to combat them. Fruits grant a temporary multiplier, and as Pac-Man eats dots, it is up to the player to try to top their high score.\n\nThis game was co-developed by Hipster Whale, the creators of the hit Crossy Road video game, also on Android & iOS[1] and 3 Sprockets, the creators of the Cubemen series on Android & iOS.", 
+    "tags": [
+        1, 
+        268435465, 
+        268435471, 
+        268435489, 
+        536870928, 
+        536871599, 
+        536872205, 
+        536872594, 
+        536873297, 
+        536873300, 
+        536873787, 
+        536875046, 
+        536875060, 
+        536875118, 
+        536875200, 
+        536875209, 
+        536875312, 
+        536875377, 
+        536875397, 
+        536875521, 
+        536875822, 
+        536876070, 
+        536881117, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 78.0, 
+    "total_rating_count": 12, 
+    "updated_at": 1528356382762, 
+    "url": "https://www.igdb.com/games/pac-man-256", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "RF0GfRvm-yg"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "F86_pplPreo"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/pac-man-256-endless-arcade-maze/id1002340615?mt=8&uo=4"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/455400"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.pac-man256.com"
+        }
+    ]
+}

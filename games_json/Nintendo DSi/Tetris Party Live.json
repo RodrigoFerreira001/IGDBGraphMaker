@@ -1,0 +1,108 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 516, 
+    "cover": {
+        "cloudinary_id": "xkfhq5gfky4uocnausvn", 
+        "height": 118, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xkfhq5gfky4uocnausvn.jpg", 
+        "width": 132
+    }, 
+    "created_at": 1469292436696, 
+    "first_release_date": 1290384000000, 
+    "games": [
+        8197, 
+        4200, 
+        18167, 
+        5217, 
+        29173, 
+        25222, 
+        23345, 
+        19376, 
+        55036, 
+        55590
+    ], 
+    "genres": [
+        9, 
+        15
+    ], 
+    "id": 21166, 
+    "keywords": [
+        1395, 
+        2152, 
+        2528, 
+        2875, 
+        3782, 
+        4031, 
+        4467, 
+        5143, 
+        5631, 
+        10206
+    ], 
+    "name": "Tetris Party Live", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1291334400000, 
+            "human": "2010-Dec-03", 
+            "m": 12, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1290384000000, 
+            "human": "2010-Nov-22", 
+            "m": 11, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "oq4torxmdubyf1j5v6b4", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oq4torxmdubyf1j5v6b4.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "nwpvffmqkxdmoxnlvyh6", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nwpvffmqkxdmoxnlvyh6.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "maaa6mr1loss63oeksme", 
+            "height": 309, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/maaa6mr1loss63oeksme.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "tetris-party-live", 
+    "summary": "DSiWare", 
+    "tags": [
+        268435465, 
+        268435471, 
+        536872307, 
+        536873064, 
+        536873440, 
+        536873787, 
+        536874694, 
+        536874943, 
+        536875379, 
+        536876055, 
+        536876543, 
+        536881118
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1518014826618, 
+    "url": "https://www.igdb.com/games/tetris-party-live"
+}

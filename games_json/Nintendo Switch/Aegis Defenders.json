@@ -1,0 +1,241 @@
+{
+    "aggregated_rating": 79.0, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "xpdolwnhztoxeobx3e0w", 
+        "height": 255, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xpdolwnhztoxeobx3e0w.jpg", 
+        "width": 198
+    }, 
+    "created_at": 1495828393223, 
+    "developers": [
+        12918
+    ], 
+    "external": {
+        "steam": "371140"
+    }, 
+    "first_release_date": 1518048000000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        25311, 
+        19934, 
+        36926, 
+        47823, 
+        23689, 
+        19448, 
+        19301, 
+        11567, 
+        36534, 
+        19174
+    ], 
+    "genres": [
+        8, 
+        12, 
+        15, 
+        31, 
+        32
+    ], 
+    "hypes": 1, 
+    "id": 35210, 
+    "keywords": [
+        117, 
+        296, 
+        426, 
+        1075, 
+        1186, 
+        2049, 
+        2493, 
+        3782, 
+        4134, 
+        4154, 
+        4224, 
+        4698, 
+        4957, 
+        7558
+    ], 
+    "name": "Aegis Defenders", 
+    "platforms": [
+        6, 
+        14, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 3.333333333333333, 
+    "publishers": [
+        12918
+    ], 
+    "pulse_count": 6, 
+    "rating": 70.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1518048000000, 
+            "human": "2018-Feb-08", 
+            "m": 2, 
+            "platform": 130, 
+            "y": 2018
+        }, 
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wbacxxbkooj4csmrafy7", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wbacxxbkooj4csmrafy7.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "gmiyhb4t0whjlzjjumss", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gmiyhb4t0whjlzjjumss.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "yutvncz3jltny9th7i65", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yutvncz3jltny9th7i65.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "b6yzwjw2ukmkya0g7dlx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b6yzwjw2ukmkya0g7dlx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "tcxck8vx4hyccthrhsrq", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tcxck8vx4hyccthrhsrq.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "dhxrbjdhveorc4zwraa4", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dhxrbjdhveorc4zwraa4.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "urzrgbuakw6sv5knd6jm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/urzrgbuakw6sv5knd6jm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qc3r7mmspkpzl6ok0x27", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qc3r7mmspkpzl6ok0x27.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "le6nfuiphz8m1zsyezwg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/le6nfuiphz8m1zsyezwg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qh6vuiknmbxa5o0torql", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qh6vuiknmbxa5o0torql.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "a05prrcvjqhjilp4ondg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a05prrcvjqhjilp4ondg.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "aegis-defenders", 
+    "summary": "Take on wild beasts, ruthless soldiers, and ancient gods in this 2D Action-Platformer inspired by Tower-Defense combat.", 
+    "tags": [
+        1, 
+        17, 
+        18, 
+        268435464, 
+        268435468, 
+        268435471, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536871208, 
+        536871338, 
+        536871987, 
+        536872098, 
+        536872961, 
+        536873405, 
+        536874694, 
+        536875046, 
+        536875066, 
+        536875136, 
+        536875610, 
+        536875869, 
+        536878470, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17, 
+        18
+    ], 
+    "time_to_beat": {
+        "completely": 54000, 
+        "hastly": 41400, 
+        "normally": 46800
+    }, 
+    "total_rating": 74.5, 
+    "total_rating_count": 7, 
+    "updated_at": 1523417147078, 
+    "url": "https://www.igdb.com/games/aegis-defenders", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "gVXGeSHjji0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/aegisdefenders"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/AegisDefenders"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/aegisthegame"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.aegisthegame.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/371140"
+        }
+    ]
+}

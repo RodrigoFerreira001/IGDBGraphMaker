@@ -1,0 +1,135 @@
+{
+    "aggregated_rating": 85.1428571428571, 
+    "aggregated_rating_count": 7, 
+    "artworks": [
+        {
+            "cloudinary_id": "jsz6ygaxdrsalawczwxf", 
+            "height": 6000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jsz6ygaxdrsalawczwxf.jpg", 
+            "width": 6000
+        }
+    ], 
+    "category": 1, 
+    "collection": 6, 
+    "cover": {
+        "cloudinary_id": "zqmmqgezlbmiopqr4eia", 
+        "height": 293, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zqmmqgezlbmiopqr4eia.jpg", 
+        "width": 238
+    }, 
+    "created_at": 1397672823961, 
+    "developers": [
+        126
+    ], 
+    "first_release_date": 1354579200000, 
+    "game": 472, 
+    "game_engines": [
+        95, 
+        17
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        16468, 
+        103020, 
+        47823, 
+        28010, 
+        76882, 
+        36608, 
+        37088, 
+        26879, 
+        1221, 
+        102873
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 6069, 
+    "name": "The Elder Scrolls V: Skyrim - Dragonborn", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        28
+    ], 
+    "rating": 80.6110108641664, 
+    "rating_count": 45, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1360627200000, 
+            "human": "2013-Feb-12", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1360022400000, 
+            "human": "2013-Feb-05", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1354579200000, 
+            "human": "2012-Dec-04", 
+            "m": 12, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1360713600000, 
+            "human": "2013-Feb-13", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pwbayvb8vpa2ty9sylvo", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pwbayvb8vpa2ty9sylvo.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "the-elder-scrolls-v-skyrim-dragonborn", 
+    "tags": [
+        1, 
+        17, 
+        33, 
+        268435468, 
+        1073741825, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        33
+    ], 
+    "total_rating": 82.87693400351175, 
+    "total_rating_count": 52, 
+    "updated_at": 1528802432401, 
+    "url": "https://www.igdb.com/games/the-elder-scrolls-v-skyrim-dragonborn", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "04z7vcMKhiY"
+        }
+    ]
+}

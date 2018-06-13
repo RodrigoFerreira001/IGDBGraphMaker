@@ -1,0 +1,88 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "atklypht7biu2ooxbcr6", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/atklypht7biu2ooxbcr6.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1516347561542, 
+    "first_release_date": 1413936000000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "id": 82404, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 8, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Voice Commander, a Microsoft Garage project", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 1.0, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1413936000000, 
+            "human": "2014-Oct-22", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zkkfp7dmsl7gu6eov8ip", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zkkfp7dmsl7gu6eov8ip.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "l63ieavr7ettsdbtuuf3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l63ieavr7ettsdbtuuf3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "e8p2pq5bz9rtt2jtclwt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e8p2pq5bz9rtt2jtclwt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fmilcnbdpnyx17n7newf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fmilcnbdpnyx17n7newf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "m1zptqqaax4rfmqp0yaj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m1zptqqaax4rfmqp0yaj.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "voice-commander-a-microsoft-garage-project", 
+    "summary": "Voice Commander, a Microsoft Garage project, is a fast paced, space themed, RTS and top-down shooter combo. Pick up a controller and work with Vox using voice commands to try to stop relentless attacks. Voice Commander can be played with up to eight controllers, and anyone in the room can issue voice commands.\n \nMicrosoft Garage turns fresh ideas into real projects. Learn more at microsoft.com/garage", 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1526735159294, 
+    "url": "https://www.igdb.com/games/voice-commander-a-microsoft-garage-project"
+}

@@ -1,0 +1,103 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 592, 
+    "cover": {
+        "cloudinary_id": "hl1enjjomxk1walyf0d7", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hl1enjjomxk1walyf0d7.jpg", 
+        "width": 354
+    }, 
+    "created_at": 1449686519113, 
+    "developers": [
+        1033
+    ], 
+    "first_release_date": 1144886400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        15441, 
+        15439, 
+        15195, 
+        15192, 
+        15191, 
+        15185, 
+        15184, 
+        15179, 
+        15178, 
+        15172
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 15095, 
+    "keywords": [
+        2052
+    ], 
+    "name": "Singstar Rocks", 
+    "platforms": [
+        8
+    ], 
+    "player_perspectives": [
+        6
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        2291
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1144886400000, 
+            "human": "2006-Apr-13", 
+            "m": 4, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1163462400000, 
+            "human": "2006-Nov-14", 
+            "m": 11, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1144886400000, 
+            "human": "2006-Apr-13", 
+            "m": 4, 
+            "platform": 8, 
+            "region": 3, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "iyma99ykcuoke32lthmm", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iyma99ykcuoke32lthmm.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "singstar-rocks", 
+    "tags": [
+        40, 
+        268435463, 
+        536872964, 
+        1073741830
+    ], 
+    "themes": [
+        40
+    ], 
+    "total_rating": 75.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1517270769660, 
+    "url": "https://www.igdb.com/games/singstar-rocks"
+}

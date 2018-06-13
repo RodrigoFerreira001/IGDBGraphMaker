@@ -1,0 +1,116 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 1005, 
+    "cover": {
+        "cloudinary_id": "mfnh6qqi7ksn5igvoasv", 
+        "height": 363, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mfnh6qqi7ksn5igvoasv.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1470247538393, 
+    "developers": [
+        3062
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1030406400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        28751, 
+        18088, 
+        68287, 
+        36718, 
+        28029, 
+        54539, 
+        10039, 
+        76229, 
+        17446, 
+        36594
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 22238, 
+    "keywords": [
+        1, 
+        1025, 
+        1329, 
+        4142, 
+        4259, 
+        6625, 
+        13571
+    ], 
+    "name": "SOCOM: US Navy SEALs", 
+    "platforms": [
+        8
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        45
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1055289600000, 
+            "human": "2003-Jun-11", 
+            "m": 6, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1030406400000, 
+            "human": "2002-Aug-27", 
+            "m": 8, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2002
+        }
+    ], 
+    "slug": "socom-us-navy-seals--1", 
+    "tags": [
+        1, 
+        39, 
+        268435461, 
+        536870913, 
+        536871937, 
+        536872241, 
+        536875054, 
+        536875171, 
+        536877537, 
+        536884483, 
+        1073741826, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        39
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1517270917077, 
+    "url": "https://www.igdb.com/games/socom-us-navy-seals--1", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "DLVsc8lOMbw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/SOCOM_U.S._Navy_SEALs_(video_game)"
+        }
+    ]
+}

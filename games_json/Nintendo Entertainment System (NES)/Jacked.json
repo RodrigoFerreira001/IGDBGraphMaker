@@ -1,0 +1,56 @@
+{
+    "aggregated_rating": 20.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "w42afv9tuzgouqqlp0ou", 
+        "height": 875, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/w42afv9tuzgouqqlp0ou.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1471337594960, 
+    "first_release_date": 662601600000, 
+    "games": [
+        66960, 
+        64458, 
+        60509, 
+        59911, 
+        59560, 
+        59559, 
+        59489, 
+        59483, 
+        59482, 
+        79913
+    ], 
+    "id": 22580, 
+    "keywords": [
+        621, 
+        729
+    ], 
+    "name": "Jacked", 
+    "platforms": [
+        18
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 662601600000, 
+            "human": "1990-Dec-31", 
+            "m": 12, 
+            "platform": 18, 
+            "region": 3, 
+            "y": 1990
+        }
+    ], 
+    "slug": "jacked", 
+    "summary": "Slot simulator for NES.", 
+    "tags": [
+        536871533, 
+        536871641
+    ], 
+    "total_rating": 20.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1516610333415, 
+    "url": "https://www.igdb.com/games/jacked"
+}

@@ -1,0 +1,211 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ghrxzndjaz4txfowpary", 
+        "height": 700, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ghrxzndjaz4txfowpary.jpg", 
+        "width": 584
+    }, 
+    "created_at": 1431212977583, 
+    "developers": [
+        9304
+    ], 
+    "first_release_date": 1309910400000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        7329, 
+        18167, 
+        44076, 
+        19934, 
+        3277, 
+        6732, 
+        19301, 
+        59516, 
+        68142, 
+        11423
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 10170, 
+    "keywords": [
+        5, 
+        77, 
+        339, 
+        488, 
+        1293, 
+        3782, 
+        4134, 
+        4219, 
+        4332, 
+        4419, 
+        4525, 
+        4580, 
+        4660, 
+        4698, 
+        4973, 
+        5287, 
+        5504, 
+        5791, 
+        5989, 
+        6022, 
+        6380, 
+        6898, 
+        11208, 
+        11782
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dead Block", 
+    "platforms": [
+        45, 
+        6, 
+        36, 
+        9
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        5357
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1311724800000, 
+            "human": "2011-Jul-27", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1311033600000, 
+            "human": "2011-Jul-19", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1309910400000, 
+            "human": "2011-Jul-06", 
+            "m": 7, 
+            "platform": 36, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1311033600000, 
+            "human": "2011-Jul-19", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1311724800000, 
+            "human": "2011-Jul-27", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1327536000000, 
+            "human": "2012-Jan-26", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2012
+        }
+    ], 
+    "slug": "dead-block", 
+    "summary": "In the \u201850s Rock\u2019n\u2019Roll music was spawned straight from hell and was so evil that it turned dead people into Zombies!\n\nThree survivors - Jack Foster, a construction worker, Foxy Jones, a traffic warden, and Mike Bacon, a perpetually hungry boy scout - have formed an unlikely alliance to protect themselves from the invading undead.\n\nHiding from the Zombies in abandoned buildings, they build blockades, set traps and \u2013 as a last resort \u2013 use weapons to fight.", 
+    "tags": [
+        1, 
+        19, 
+        21, 
+        27, 
+        268435471, 
+        536870917, 
+        536870989, 
+        536871251, 
+        536871400, 
+        536872205, 
+        536874694, 
+        536875046, 
+        536875131, 
+        536875244, 
+        536875331, 
+        536875437, 
+        536875492, 
+        536875572, 
+        536875610, 
+        536875885, 
+        536876199, 
+        536876416, 
+        536876703, 
+        536876901, 
+        536876934, 
+        536877292, 
+        536877810, 
+        536882120, 
+        536882694, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        19, 
+        21, 
+        27
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1516063969304, 
+    "url": "https://www.igdb.com/games/dead-block", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "xoLDB8PJq7s"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://deadblock.com"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Dead_Block"
+        }
+    ]
+}

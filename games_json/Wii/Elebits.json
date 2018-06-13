@@ -1,0 +1,305 @@
+{
+    "aggregated_rating": 66.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Eledees"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "dh20fpc3eh6dlopjd6n7", 
+        "height": 354, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dh20fpc3eh6dlopjd6n7.jpg", 
+        "width": 252
+    }, 
+    "created_at": 1374871468323, 
+    "developers": [
+        161
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 1165017600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        536, 
+        17354, 
+        5025, 
+        27314, 
+        11233, 
+        1905, 
+        3230, 
+        11270, 
+        11253, 
+        29525
+    ], 
+    "genres": [
+        5, 
+        9, 
+        14
+    ], 
+    "id": 2747, 
+    "keywords": [
+        58, 
+        167, 
+        296, 
+        453, 
+        947, 
+        1030, 
+        1761, 
+        1783, 
+        2069, 
+        2337, 
+        2841, 
+        2966, 
+        4146, 
+        4183, 
+        4184, 
+        4304, 
+        4330, 
+        4337, 
+        4363, 
+        4414, 
+        4438, 
+        4477, 
+        4523, 
+        4531, 
+        4620, 
+        4625, 
+        4630, 
+        4667, 
+        4800, 
+        4829, 
+        4831, 
+        4832, 
+        4880, 
+        4989, 
+        5011, 
+        5042, 
+        5117, 
+        5137, 
+        5186, 
+        5216, 
+        5264, 
+        5267, 
+        5420, 
+        5422, 
+        5787, 
+        5821, 
+        6627, 
+        9994, 
+        12716, 
+        13106
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 5, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Elebits", 
+    "platforms": [
+        5
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        129
+    ], 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1165017600000, 
+            "human": "2006-Dec-02", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1178236800000, 
+            "human": "2007-May-04", 
+            "m": 5, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1165881600000, 
+            "human": "2006-Dec-12", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1165881600000, 
+            "human": "2006-Dec-12", 
+            "m": 12, 
+            "platform": 5, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "p2t1hdv3skylp4ddkjun", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p2t1hdv3skylp4ddkjun.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "u1xyoy0wyr2pdtwm65ab", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u1xyoy0wyr2pdtwm65ab.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "gyo4azurrmigkjjr4t3m", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gyo4azurrmigkjjr4t3m.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ukqteiguywwaolvr9km4", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ukqteiguywwaolvr9km4.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "d5vggwwsc5du4w8u3ksc", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d5vggwwsc5du4w8u3ksc.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "glyonw0ojxgboqg4vilm", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/glyonw0ojxgboqg4vilm.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "sodsanvsvhtqi5si5zqg", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sodsanvsvhtqi5si5zqg.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "fpj89ojeovv1bd1ocyds", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fpj89ojeovv1bd1ocyds.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "rj8qv5gaapydnjjxnkrg", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rj8qv5gaapydnjjxnkrg.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "gpvnqssalpcnzkqbar2g", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gpvnqssalpcnzkqbar2g.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ew2s5l7k0m0lyklyjwmc", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ew2s5l7k0m0lyklyjwmc.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "rfv4lbhc47dc9qzs12xq", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rfv4lbhc47dc9qzs12xq.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "elebits", 
+    "summary": "A combination of the words 'electricity' and 'bits', the elebits are an important part of how the world runs in this game's universe. However it seems they have vanished or gone on strike. Therefore it is the player's job to control a ten year old boy named Kai to use the Wii Remote as a zapper physics gun and uncover the hidden elebits. Objects have a specific weight and mass assigned to them that is realistic, however nothing really breaks as everything \"bounces\" as Kai targets them from a 1st-person perspective. \n \nElebits found earn Kai an increase in his zapper's power, to lift or move heavier objects, similar to the Katamari games, as well as the ability to use various electrical appliances in the game world. Locations in the game include Kai's house, the street where he lives, an amusement park and other areas of the city.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435465, 
+        268435470, 
+        536870970, 
+        536871079, 
+        536871208, 
+        536871365, 
+        536871859, 
+        536871942, 
+        536872673, 
+        536872695, 
+        536872981, 
+        536873249, 
+        536873753, 
+        536873878, 
+        536875058, 
+        536875095, 
+        536875096, 
+        536875216, 
+        536875242, 
+        536875249, 
+        536875275, 
+        536875326, 
+        536875350, 
+        536875389, 
+        536875435, 
+        536875443, 
+        536875532, 
+        536875537, 
+        536875542, 
+        536875579, 
+        536875712, 
+        536875741, 
+        536875743, 
+        536875744, 
+        536875792, 
+        536875901, 
+        536875923, 
+        536875954, 
+        536876029, 
+        536876049, 
+        536876098, 
+        536876128, 
+        536876176, 
+        536876179, 
+        536876332, 
+        536876334, 
+        536876699, 
+        536876733, 
+        536877539, 
+        536880906, 
+        536883628, 
+        536884018, 
+        1073741825
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 68.16666666666666, 
+    "total_rating_count": 3, 
+    "updated_at": 1518058191458, 
+    "url": "https://www.igdb.com/games/elebits"
+}

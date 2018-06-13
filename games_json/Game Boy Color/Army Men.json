@@ -1,0 +1,146 @@
+{
+    "category": 0, 
+    "collection": 529, 
+    "cover": {
+        "cloudinary_id": "p6qndwukjfib7ohxfbi9", 
+        "height": 745, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/p6qndwukjfib7ohxfbi9.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1484685162246, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "549160"
+    }, 
+    "first_release_date": 883612800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        25311, 
+        76731, 
+        19934, 
+        23175, 
+        59516, 
+        29173, 
+        55289, 
+        26769, 
+        27088, 
+        25646
+    ], 
+    "genres": [
+        15, 
+        24, 
+        31
+    ], 
+    "id": 26819, 
+    "keywords": [
+        3270, 
+        3782, 
+        5177, 
+        9568, 
+        15671
+    ], 
+    "name": "Army Men", 
+    "platforms": [
+        6, 
+        22
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 70.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 883612800000, 
+            "human": "1998-Jan-01", 
+            "m": 1, 
+            "platform": 6, 
+            "y": 1998
+        }, 
+        {
+            "category": 0, 
+            "date": 946684800000, 
+            "human": "2000-Jan-01", 
+            "m": 1, 
+            "platform": 22, 
+            "y": 2000
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "e7pa6r7aqwvcowjq9elh", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e7pa6r7aqwvcowjq9elh.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ftcpbctyrwbgn2qgqgbd", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ftcpbctyrwbgn2qgqgbd.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "sa05ucuhyfqxn5sxmy45", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sa05ucuhyfqxn5sxmy45.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "giqdsz7fbrk6ei8azfpk", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/giqdsz7fbrk6ei8azfpk.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "t3cmvfnmxhj8dzohylbk", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t3cmvfnmxhj8dzohylbk.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "army-men", 
+    "summary": "Army Men is a mission-based combat game that has you guiding a green plastic commando named Sarge in warfare against a tan-colored toy army. Soldiers use bazookas, grenades, flamethrowers, mortars, automatic rifles, and land mines to trash each other. You can also drive jeeps and tanks across the varied terrain. To help you learn the controls, a boot camp option offers a series of eight training missions. \n \nOnce you are ready, choose from two campaigns: desert and alpine. Review your objectives before each mission on the briefing screen, and prepare for battle against an onslaught of plastic troops. A mission will fail if you exceed the time limit, allow your rivals to win, or let Sarge die. The options screen lets you view current objectives, consult a strategic map, exit vehicles, and abort your mission. You can also adjust the control scheme, select a difficulty level, and toggle music.", 
+    "tags": [
+        1, 
+        268435471, 
+        268435480, 
+        268435487, 
+        536874182, 
+        536874694, 
+        536876089, 
+        536880480, 
+        536886583
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1527315597558, 
+    "url": "https://www.igdb.com/games/army-men", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "lMEX3JJle5E"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "4q4pU_O8FdY"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.2k.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/549160"
+        }
+    ]
+}

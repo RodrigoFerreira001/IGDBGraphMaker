@@ -1,0 +1,68 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "yg27z1cnwpue5uuwafvp", 
+        "height": 204, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yg27z1cnwpue5uuwafvp.jpg", 
+        "width": 272
+    }, 
+    "created_at": 1517326089682, 
+    "first_release_date": 1288569600000, 
+    "id": 84514, 
+    "name": "Gene Labs", 
+    "platforms": [
+        159, 
+        56
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1288569600000, 
+            "human": "2010-Nov-01", 
+            "m": 11, 
+            "platform": 56, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1288569600000, 
+            "human": "2010-Nov-01", 
+            "m": 11, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bwgeizb4ain2pf3u8lck", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bwgeizb4ain2pf3u8lck.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "zhvlrewgddxug4dfmcou", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zhvlrewgddxug4dfmcou.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "zpkcz37ewxegrvrlfblg", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zpkcz37ewxegrvrlfblg.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "s2k2sr7iyl1dife6fiux", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s2k2sr7iyl1dife6fiux.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "gene-labs", 
+    "summary": "Gene Labs is an arcade puzzle game set in the world of genetic science and experiments.", 
+    "updated_at": 1518062417215, 
+    "url": "https://www.igdb.com/games/gene-labs"
+}

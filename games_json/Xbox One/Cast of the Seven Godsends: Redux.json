@@ -1,0 +1,136 @@
+{
+    "aggregated_rating": 40.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "cnumqeir2xc1mbfvxdlc", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cnumqeir2xc1mbfvxdlc.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1469227150868, 
+    "external": {
+        "steam": "373360"
+    }, 
+    "first_release_date": 1437350400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        55752, 
+        10039, 
+        47823, 
+        51485, 
+        26848, 
+        55289, 
+        68324, 
+        25646, 
+        37022, 
+        25311
+    ], 
+    "genres": [
+        5, 
+        8, 
+        31, 
+        32
+    ], 
+    "id": 20994, 
+    "keywords": [
+        296, 
+        1025, 
+        2049
+    ], 
+    "name": "Cast of the Seven Godsends: Redux", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        10304, 
+        4726
+    ], 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1468972800000, 
+            "human": "2016-Jul-20", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1437350400000, 
+            "human": "2015-Jul-20", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "x0mzbeswvhxwu4khpbsz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x0mzbeswvhxwu4khpbsz.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "h28pwaymha6jpioahxu9", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h28pwaymha6jpioahxu9.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "yjbullspszmkmpizwriu", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yjbullspszmkmpizwriu.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "q2nkgxothyvgczkh2aap", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q2nkgxothyvgczkh2aap.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "oxiimh5jrqcs4vcyrdhy", 
+            "height": 330, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oxiimh5jrqcs4vcyrdhy.jpg", 
+            "width": 660
+        }
+    ], 
+    "slug": "cast-of-the-seven-godsends-redux", 
+    "summary": "Cast of the Seven Godsends harks back to the days when classic 2D, run \u2019n gun, action-shooter games ruled the arcades. Four levels of difficulty, six worlds to conquer, twelve mid and end-of-level bosses, seven god-like armour sets, five basic weapons and thirty-five magic combat spells!", 
+    "tags": [
+        1, 
+        268435461, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536871208, 
+        536871937, 
+        536872961
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1523416424878, 
+    "url": "https://www.igdb.com/games/cast-of-the-seven-godsends-redux", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.castseven.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/373360"
+        }
+    ]
+}

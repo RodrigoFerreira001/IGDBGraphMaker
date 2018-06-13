@@ -1,0 +1,135 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "nrifq5hlbjryntqfuo8f", 
+        "height": 1192, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nrifq5hlbjryntqfuo8f.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1450007904480, 
+    "developers": [
+        13537
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 631065600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        10039, 
+        37088, 
+        16468, 
+        51485, 
+        26848, 
+        36831, 
+        18623, 
+        36794, 
+        37094, 
+        26769
+    ], 
+    "genres": [
+        4, 
+        8, 
+        33
+    ], 
+    "id": 15329, 
+    "keywords": [
+        151, 
+        4158
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 56, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Onslaught", 
+    "platforms": [
+        29, 
+        63, 
+        13, 
+        16
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        11694, 
+        3715
+    ], 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 694137600000, 
+            "human": "1991", 
+            "m": 12, 
+            "platform": 29, 
+            "region": 2, 
+            "y": 1991
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 16, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 1, 
+            "y": 1989
+        }
+    ], 
+    "slug": "onslaught", 
+    "summary": "Onslaught is an action platformer originally released for the Amiga and ported to the Atari ST, Genesis, and XBL Community Games.", 
+    "tags": [
+        1, 
+        17, 
+        22, 
+        268435460, 
+        268435464, 
+        268435489, 
+        536871063, 
+        536875070, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17, 
+        22
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1515756485327, 
+    "url": "https://www.igdb.com/games/onslaught"
+}

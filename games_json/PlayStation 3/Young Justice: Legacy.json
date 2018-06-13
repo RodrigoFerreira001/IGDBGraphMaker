@@ -1,0 +1,286 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 3248, 
+    "cover": {
+        "cloudinary_id": "nt8tdblsmray4wbfjtfg", 
+        "height": 1306, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nt8tdblsmray4wbfjtfg.jpg", 
+        "width": 1058
+    }, 
+    "created_at": 1401988671670, 
+    "developers": [
+        2189
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is an action game based on the Young Justice animated TV show. Players assume the role of multiple superheroes on a quest to stop villains from resurrecting an ancient evil. As players travel around the globe, they use punches, kicks, and various powers/abilities (e.g., shockwave, tornado spin, and ground pound) to defeat humans, monsters, and robots. Several enemies use guns or lasers to attack player-characters. Battles are accompanied by impact sounds, cries of pain, gunfire, and explosions. One cutscene depicts the body of a fallen hero underneath rubble at the end of a prolonged boss battle."
+    }, 
+    "external": {
+        "steam": "235760"
+    }, 
+    "first_release_date": 1384819200000, 
+    "franchise": 1192, 
+    "franchises": [
+        1192
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        7329, 
+        36926, 
+        25300, 
+        6732, 
+        21429, 
+        11214, 
+        55092, 
+        59516, 
+        19448, 
+        11423
+    ], 
+    "genres": [
+        12, 
+        25, 
+        31
+    ], 
+    "id": 7259, 
+    "keywords": [
+        14, 
+        1026, 
+        1158, 
+        1186, 
+        2387, 
+        3540, 
+        4004, 
+        4134, 
+        4135, 
+        4151, 
+        4310, 
+        4379, 
+        4678, 
+        4698, 
+        4725, 
+        4805, 
+        5587, 
+        5638, 
+        5783, 
+        6083, 
+        6089, 
+        6876, 
+        7333
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 3, 
+            "offlinemax": 3, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 3, 
+            "onlinemax": 3, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 3, 
+            "offlinemax": 3, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 3, 
+            "onlinemax": 3, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 3, 
+            "offlinemax": 3, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 3, 
+            "onlinemax": 3, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Young Justice: Legacy", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters\r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        12, 
+        37
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1737, 
+        50
+    ], 
+    "rating": 75.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1385596800000, 
+            "human": "2013-Nov-28", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385078400000, 
+            "human": "2013-Nov-22", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385078400000, 
+            "human": "2013-Nov-22", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385078400000, 
+            "human": "2013-Nov-22", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385078400000, 
+            "human": "2013-Nov-22", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "icgpu8ky5sfylyvcvrv5", 
+            "height": 562, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/icgpu8ky5sfylyvcvrv5.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "svo0i01wm1g9rumalupo", 
+            "height": 562, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/svo0i01wm1g9rumalupo.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "dktv2lu4ilbyq2k0uq0q", 
+            "height": 562, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dktv2lu4ilbyq2k0uq0q.jpg", 
+            "width": 1000
+        }
+    ], 
+    "slug": "young-justice-legacy", 
+    "summary": "A renowned archaeologist, Dr. Helena Sandsmark, is kidnapped, and the Young Justice team tracks a group of the Light\u2019s most notorious villains around the globe in an effort to rescue her. But when the young heroes discover the Light is exploiting Dr. Sandsmark\u2019s expertise to locate fragments of an ancient statue of legendary power, they must race against time to save the planet from imminent disaster.", 
+    "tags": [
+        1, 
+        268435468, 
+        268435481, 
+        268435487, 
+        536870926, 
+        536871938, 
+        536872070, 
+        536872098, 
+        536873299, 
+        536874452, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875063, 
+        536875222, 
+        536875291, 
+        536875590, 
+        536875610, 
+        536875637, 
+        536875717, 
+        536876499, 
+        536876550, 
+        536876695, 
+        536876995, 
+        536877001, 
+        536877788, 
+        536878245, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 67.5, 
+    "total_rating_count": 1, 
+    "updated_at": 1528585826033, 
+    "url": "https://www.igdb.com/games/young-justice-legacy", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "ezfHLyDIM9g"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Young_Justice:_Legacy"
+        }
+    ]
+}

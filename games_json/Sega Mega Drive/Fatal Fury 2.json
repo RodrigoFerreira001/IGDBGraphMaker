@@ -1,0 +1,309 @@
+{
+    "alternative_names": [
+        {
+            "name": "Fatal Fury 2: The New Battle"
+        }
+    ], 
+    "category": 0, 
+    "collection": 791, 
+    "cover": {
+        "cloudinary_id": "iudxvmedr6u16twdzfvc", 
+        "height": 327, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iudxvmedr6u16twdzfvc.jpg", 
+        "width": 255
+    }, 
+    "created_at": 1390775107732, 
+    "developers": [
+        1474, 
+        863
+    ], 
+    "first_release_date": 695001600000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        75962, 
+        46815, 
+        75964, 
+        75858, 
+        75857, 
+        75853, 
+        68609, 
+        55058, 
+        50726, 
+        50704
+    ], 
+    "genres": [
+        4
+    ], 
+    "id": 4435, 
+    "name": "Fatal Fury 2", 
+    "platforms": [
+        29, 
+        80, 
+        136, 
+        79, 
+        19, 
+        77, 
+        47, 
+        33, 
+        5, 
+        130, 
+        58, 
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1474, 
+        2381
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1498089600000, 
+            "human": "2017-Jun-22", 
+            "m": 6, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1498089600000, 
+            "human": "2017-Jun-22", 
+            "m": 6, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1211241600000, 
+            "human": "2008-May-20", 
+            "m": 5, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1213315200000, 
+            "human": "2008-Jun-13", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1214784000000, 
+            "human": "2008-Jun-30", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 779068800000, 
+            "human": "1994-Sep-09", 
+            "m": 9, 
+            "platform": 136, 
+            "region": 2, 
+            "y": 1994
+        }, 
+        {
+            "category": 0, 
+            "date": 695001600000, 
+            "human": "1992-Jan-10", 
+            "m": 1, 
+            "platform": 79, 
+            "region": 2, 
+            "y": 1992
+        }, 
+        {
+            "category": 0, 
+            "date": 726192000000, 
+            "human": "1993-Jan-05", 
+            "m": 1, 
+            "platform": 80, 
+            "region": 2, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 779068800000, 
+            "human": "1994-Sep-09", 
+            "m": 9, 
+            "platform": 136, 
+            "region": 5, 
+            "y": 1994
+        }, 
+        {
+            "category": 0, 
+            "date": 695001600000, 
+            "human": "1992-Jan-10", 
+            "m": 1, 
+            "platform": 79, 
+            "region": 5, 
+            "y": 1992
+        }, 
+        {
+            "category": 0, 
+            "date": 726192000000, 
+            "human": "1993-Jan-05", 
+            "m": 1, 
+            "platform": 80, 
+            "region": 5, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 726192000000, 
+            "human": "1993-Jan-05", 
+            "m": 1, 
+            "platform": 80, 
+            "region": 1, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 772416000000, 
+            "human": "1994-Jun-24", 
+            "m": 6, 
+            "platform": 29, 
+            "y": 1994
+        }, 
+        {
+            "category": 0, 
+            "date": 754272000000, 
+            "human": "1993-Nov-26", 
+            "m": 11, 
+            "platform": 19, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 754272000000, 
+            "human": "1993-Nov-26", 
+            "m": 11, 
+            "platform": 58, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 754272000000, 
+            "human": "1993-Nov-26", 
+            "m": 11, 
+            "platform": 33, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 754272000000, 
+            "human": "1993-Nov-26", 
+            "m": 11, 
+            "platform": 77, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 1214784000000, 
+            "human": "2008-Jun-30", 
+            "m": 6, 
+            "platform": 8, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1214784000000, 
+            "human": "2008-Jun-30", 
+            "m": 6, 
+            "platform": 47, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "q0qbxdr0mtjl5kukrz3q", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q0qbxdr0mtjl5kukrz3q.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "beyionjk8zhyshc3esxf", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/beyionjk8zhyshc3esxf.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "bkitefdeevwudl3ryvwz", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bkitefdeevwudl3ryvwz.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "vcqktfzy4i1q3frmoit0", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vcqktfzy4i1q3frmoit0.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "ssnthmyryl6srrijqhp3", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ssnthmyryl6srrijqhp3.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "jm5pfr5w5d8irmbz11pv", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jm5pfr5w5d8irmbz11pv.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "zgpz8dd2kyswzyydvf0s", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zgpz8dd2kyswzyydvf0s.jpg", 
+            "width": 913
+        }, 
+        {
+            "cloudinary_id": "vyoyhzh69r7bntepeznk", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vyoyhzh69r7bntepeznk.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "mf2ausrtfdb5jai8gmfh", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mf2ausrtfdb5jai8gmfh.jpg", 
+            "width": 915
+        }, 
+        {
+            "cloudinary_id": "kwociw2hkvgjx8zcfgqb", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kwociw2hkvgjx8zcfgqb.jpg", 
+            "width": 912
+        }, 
+        {
+            "cloudinary_id": "gx975cadwqmbvmegz3jz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gx975cadwqmbvmegz3jz.jpg", 
+            "width": 912
+        }, 
+        {
+            "cloudinary_id": "f2zn7z1uvinyugouieag", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f2zn7z1uvinyugouieag.jpg", 
+            "width": 915
+        }
+    ], 
+    "slug": "fatal-fury-2", 
+    "summary": "After Geese Howard's death in the original Fatal Fury, a mysterious nobleman becomes the sponsor of the new \"King of Fighters\" tournament. This time, the tournament is held worldwide with fighters around the globe competing. As the single player mode progresses, the mysterious challenger begins defeating the participants from the previous Fatal Fury game, searching for the man responsible for defeating Geese.", 
+    "tags": [
+        268435460
+    ], 
+    "updated_at": 1518059723755, 
+    "url": "https://www.igdb.com/games/fatal-fury-2"
+}

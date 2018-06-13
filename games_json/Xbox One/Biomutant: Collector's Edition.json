@@ -1,0 +1,92 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "rdpzlmkaobxwne5emep4", 
+        "height": 388, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rdpzlmkaobxwne5emep4.jpg", 
+        "width": 466
+    }, 
+    "created_at": 1495545930191, 
+    "first_release_date": 1546214400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        25311, 
+        25300, 
+        37088, 
+        59516, 
+        55289, 
+        36608, 
+        26163, 
+        54842, 
+        16468, 
+        1221
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "hypes": 1, 
+    "id": 30392, 
+    "name": "Biomutant: Collector's Edition", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "popularity": 2.333333333333333, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2018
+        }
+    ], 
+    "slug": "biomutant-collectors-edition", 
+    "tags": [
+        1, 
+        18, 
+        38, 
+        268435468, 
+        268435487
+    ], 
+    "themes": [
+        1, 
+        18, 
+        38
+    ], 
+    "updated_at": 1523722585908, 
+    "url": "https://www.igdb.com/games/biomutant-collectors-edition", 
+    "version_parent": 54842, 
+    "version_title": "Collector's Edition", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://biomutant.com"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "shz3ix0ntogzzuezby7h", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/shz3ix0ntogzzuezby7h.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1516347562792, 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "first_release_date": 1489708800000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "id": 82405, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Vermintide - Digital Value Pack", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 1.0, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1489708800000, 
+            "human": "2017-Mar-17", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "srlu9zutvgjkdbfaltsr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/srlu9zutvgjkdbfaltsr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jbtdfb9ccnydheffl9jo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jbtdfb9ccnydheffl9jo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "grfpvgamzz5ihvclimfc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/grfpvgamzz5ihvclimfc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ero83fxta5tswddiozsu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ero83fxta5tswddiozsu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "b87c1gnet4q7b1cu3t4z", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b87c1gnet4q7b1cu3t4z.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "vermintide-digital-value-pack", 
+    "summary": "With the Digital Value pack you get both the main game and the Karak Azgaraz content pack.", 
+    "total_rating": 70.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1520274823060, 
+    "url": "https://www.igdb.com/games/vermintide-digital-value-pack"
+}

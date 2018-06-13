@@ -1,0 +1,81 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 5272, 
+    "cover": {
+        "cloudinary_id": "vfzp0hbudiepwjokxr3z", 
+        "height": 1220, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vfzp0hbudiepwjokxr3z.jpg", 
+        "width": 1432
+    }, 
+    "created_at": 1469045999848, 
+    "first_release_date": 1334102400000, 
+    "id": 20815, 
+    "name": "StarDrone Extreme", 
+    "platforms": [
+        46
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        4753
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1334102400000, 
+            "human": "2012-Apr-11", 
+            "m": 4, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1334620800000, 
+            "human": "2012-Apr-17", 
+            "m": 4, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "b8t0yko3aufenqkpnaqo", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b8t0yko3aufenqkpnaqo.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "cjjcz0tle14x8erhli6n", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cjjcz0tle14x8erhli6n.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "jqwvx5sacj2jhancny2p", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jqwvx5sacj2jhancny2p.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "hddjr8wln37k5ncpmdoi", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hddjr8wln37k5ncpmdoi.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "tcuvdw45iahlahrl1bel", 
+            "height": 363, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tcuvdw45iahlahrl1bel.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "stardrone-extreme", 
+    "summary": "StarDrone Extreme is a perfect blend of high-speed physics and pinball action, with strategic elements of break-out and object collection.", 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1521022495824, 
+    "url": "https://www.igdb.com/games/stardrone-extreme"
+}

@@ -1,0 +1,124 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "h0ygjslpmfftghccelha", 
+        "height": 1889, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/h0ygjslpmfftghccelha.jpg", 
+        "width": 1511
+    }, 
+    "created_at": 1480935118929, 
+    "first_release_date": 1491868800000, 
+    "games": [
+        36608, 
+        34919, 
+        40524, 
+        23175, 
+        16468, 
+        1070, 
+        2940, 
+        68324, 
+        28029, 
+        37022
+    ], 
+    "id": 26231, 
+    "keywords": [
+        4768
+    ], 
+    "name": "Starblood Arena", 
+    "platforms": [
+        48
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        13634
+    ], 
+    "pulse_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1491868800000, 
+            "human": "2017-Apr-11", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491868800000, 
+            "human": "2017-Apr-11", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1494460800000, 
+            "human": "2017-May-11", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "x6kvjvy73mapuq20wphz", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x6kvjvy73mapuq20wphz.jpg", 
+            "width": 1400
+        }, 
+        {
+            "cloudinary_id": "zdr1zldq9ftojelmkn07", 
+            "height": 1072, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zdr1zldq9ftojelmkn07.jpg", 
+            "width": 1915
+        }, 
+        {
+            "cloudinary_id": "jlb0vgukowdyzisf4wtb", 
+            "height": 1073, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jlb0vgukowdyzisf4wtb.jpg", 
+            "width": 1916
+        }, 
+        {
+            "cloudinary_id": "ptvxgyppsvbvvgq5arsp", 
+            "height": 1077, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ptvxgyppsvbvvgq5arsp.jpg", 
+            "width": 1917
+        }, 
+        {
+            "cloudinary_id": "uulkr4ooch7djgr22f24", 
+            "height": 1073, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uulkr4ooch7djgr22f24.jpg", 
+            "width": 1916
+        }
+    ], 
+    "slug": "starblood-arena", 
+    "summary": "StarBlood Arena is a futuristic flight combat shooter developed for use with the PlayStationVR headset. Players navigate battle pods in 360-degrees-of-freedom through underground arenas in close-quarters competitive and co-op multiplayer gameplay for 2 to 8 players. \n\nIn tournaments set up across the galaxy by the StarBlood Network, players compete for fame, fortune, and survival. Successful competitors will unlock ship modifications and customization options and battle through the ranks of the online leaderboards.", 
+    "tags": [
+        1, 
+        536875680
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1521022496124, 
+    "url": "https://www.igdb.com/games/starblood-arena", 
+    "videos": [
+        {
+            "name": "PSX 2016 Announcement Trailer", 
+            "video_id": "bbPkXziW3Q4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://starbloodarena.com/en-us/home"
+        }
+    ]
+}

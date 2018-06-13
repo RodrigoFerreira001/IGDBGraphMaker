@@ -1,0 +1,188 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Initial title", 
+            "name": "Commanders: Attack!"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "cv8lzvz0sxzad2rqywcj", 
+        "height": 262, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cv8lzvz0sxzad2rqywcj.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1468945675524, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1199318400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19301, 
+        16513, 
+        19934, 
+        25311, 
+        19448, 
+        11423, 
+        25300, 
+        19376, 
+        9789, 
+        27314
+    ], 
+    "genres": [
+        15, 
+        32
+    ], 
+    "id": 20775, 
+    "keywords": [
+        301, 
+        415, 
+        970, 
+        1162, 
+        1293, 
+        1333, 
+        1503, 
+        1739, 
+        1821, 
+        2910, 
+        3782, 
+        4134, 
+        4248, 
+        4284, 
+        4395, 
+        4444, 
+        4543, 
+        4611, 
+        4698, 
+        4890, 
+        4904, 
+        5450, 
+        5523, 
+        5633, 
+        5850, 
+        10919, 
+        13083
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Commanders: Attack of the Genos", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1199318400000, 
+            "human": "2008-Jan-03", 
+            "m": 1, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qbf2c3lsczwru5mjc9pe", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qbf2c3lsczwru5mjc9pe.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "obujyfydzqgzirkh3tlx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/obujyfydzqgzirkh3tlx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ubch155gorv83igevme4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ubch155gorv83igevme4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dmqm19suptjpztwdys7u", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dmqm19suptjpztwdys7u.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dvuzbcyutvxzlwjuw1bc", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dvuzbcyutvxzlwjuw1bc.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "commanders-attack-of-the-genos", 
+    "summary": "Lead your army in a turn-based fantasy strategy game you\u2019ve been waiting for! Hex Commander: Fantasy Heroes is a turn-based strategy game that will put you right in the middle of conflict between humans, orcs, goblins, elves and dwarves.", 
+    "tags": [
+        1, 
+        18, 
+        268435471, 
+        268435488, 
+        536871213, 
+        536871327, 
+        536871882, 
+        536872074, 
+        536872205, 
+        536872245, 
+        536872415, 
+        536872651, 
+        536872733, 
+        536873822, 
+        536874694, 
+        536875046, 
+        536875160, 
+        536875196, 
+        536875307, 
+        536875356, 
+        536875455, 
+        536875523, 
+        536875610, 
+        536875802, 
+        536875816, 
+        536876362, 
+        536876435, 
+        536876545, 
+        536876762, 
+        536881831, 
+        536883995
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1520001723511, 
+    "url": "https://www.igdb.com/games/commanders-attack-of-the-genos", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.homenetgames.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/741590"
+        }
+    ]
+}

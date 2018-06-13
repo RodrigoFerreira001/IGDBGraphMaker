@@ -1,0 +1,116 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qqg0lekez0aqnodcahl9", 
+        "height": 960, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qqg0lekez0aqnodcahl9.jpg", 
+        "width": 960
+    }, 
+    "created_at": 1517612522479, 
+    "developers": [
+        14770
+    ], 
+    "first_release_date": 1360713600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28192, 
+        85831, 
+        76219, 
+        37067, 
+        11711, 
+        16513, 
+        52828, 
+        38967, 
+        75245, 
+        44154
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 86224, 
+    "keywords": [
+        92, 
+        1700, 
+        4137, 
+        4747
+    ], 
+    "name": "Thapster", 
+    "platforms": [
+        34, 
+        39
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        14770
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1394150400000, 
+            "human": "2014-Mar-07", 
+            "m": 3, 
+            "platform": 34, 
+            "region": 7, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1360713600000, 
+            "human": "2013-Feb-13", 
+            "m": 2, 
+            "platform": 39, 
+            "region": 7, 
+            "y": 2013
+        }
+    ], 
+    "slug": "thapster", 
+    "status": 5, 
+    "summary": "A rhythm game released in Thailand on iOS in 2013 and Android in 2014. \nThe game is currently not available on app stores. \n \nThe game uses touch controls to hit keys coming towards the screen across 3 tracks on basic up to 5 tracks on expert.", 
+    "tags": [
+        32, 
+        268435463, 
+        536871004, 
+        536872612, 
+        536875049, 
+        536875659, 
+        1073741825
+    ], 
+    "themes": [
+        32
+    ], 
+    "time_to_beat": {
+        "completely": 83880, 
+        "normally": 55680
+    }, 
+    "updated_at": 1523211842317, 
+    "url": "https://www.igdb.com/games/thapster", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "F58NHWFgOGQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/sinozegames"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/thapster"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/thapstergame"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/Thapster"
+        }
+    ]
+}

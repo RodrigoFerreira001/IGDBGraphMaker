@@ -1,0 +1,400 @@
+{
+    "aggregated_rating": 72.9, 
+    "aggregated_rating_count": 26, 
+    "alternative_names": [
+        {
+            "name": "Ghost Recon: Wildlands"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "aqrpkblyao3babqwjhdh", 
+            "height": 6102, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aqrpkblyao3babqwjhdh.jpg", 
+            "width": 12730
+        }
+    ], 
+    "category": 0, 
+    "collection": 287, 
+    "cover": {
+        "cloudinary_id": "hopbipftq7f10jyuynwj", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hopbipftq7f10jyuynwj.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1434461764077, 
+    "developers": [
+        841
+    ], 
+    "dlcs": [
+        26270, 
+        36571
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "This is an open-world tactical shooter in which players assume the role of a member of an elite special ops military unit. Players are tasked with completing missions and military objectives (e.g., reconnaissance, extraction, assassinations) in order to take down a Bolivian drug cartel. From a third-person perspective, players mostly use stealth attacks and firearms (e.g., machine guns, sniper rifles, pistols) to infiltrate compounds and kill guards, drug lords, and enforcers. Some areas allow players to briefly interrogate enemies while holding them at gunpoint; other areas briefly depict enemies beating and interrogating bound prisoners. A few scenes depict mutilated bodies among large pools of blood; a handful of cutscenes show enemies holding severed heads dripping with blood. The game includes some sexual material: a woman slapping a man in bed while straddling his waist (both figures are clothed); brief photographic images of a woman's breasts. The game includes several drug references in the storyline, and the use of drugs: a man being forced to sniff several lines of cocaine; various images of marijuana and cocaine. The words \u201cf**k\u201d and \u201csh*t\u201d are heard in the dialogue."
+    }, 
+    "expansions": [
+        28173
+    ], 
+    "external": {
+        "steam": "460930"
+    }, 
+    "first_release_date": 1488844800000, 
+    "franchise": 9, 
+    "franchises": [
+        9
+    ], 
+    "game_engines": [
+        10
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        28552, 
+        36926, 
+        11567, 
+        19561, 
+        28540, 
+        51486, 
+        59849, 
+        17001, 
+        36950, 
+        10239
+    ], 
+    "genres": [
+        5, 
+        24, 
+        31
+    ], 
+    "hypes": 19, 
+    "id": 11171, 
+    "keywords": [
+        1, 
+        132, 
+        1025, 
+        1403, 
+        1459, 
+        1669, 
+        4259, 
+        4345, 
+        4357, 
+        4446, 
+        4520, 
+        4857, 
+        4883, 
+        4907, 
+        8164, 
+        8284, 
+        16828, 
+        16894
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Tom Clancy's Ghost Recon: Wildlands", 
+    "pegi": {
+        "rating": 5, 
+        "synopsis": "The content of this game is suitable for persons aged 18 years and over only.\r\nIt contains: Extreme violence - Violence towards defenceless people - Strong language"
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 27.33333333333333, 
+    "publishers": [
+        7041
+    ], 
+    "pulse_count": 289, 
+    "rating": 72.2948214479925, 
+    "rating_count": 29, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1488844800000, 
+            "human": "2017-Mar-07", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1488844800000, 
+            "human": "2017-Mar-07", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1488844800000, 
+            "human": "2017-Mar-07", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489017600000, 
+            "human": "2017-Mar-09", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489017600000, 
+            "human": "2017-Mar-09", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1488844800000, 
+            "human": "2017-Mar-07", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1488844800000, 
+            "human": "2017-Mar-07", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1488844800000, 
+            "human": "2017-Mar-07", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "cmwqf8hhbql7zbpvm8zr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cmwqf8hhbql7zbpvm8zr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "chlagxmyd699yo7z1byh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/chlagxmyd699yo7z1byh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "o9ieibreka2vupprgoyb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o9ieibreka2vupprgoyb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vgrdm4nu22gfc1t0rdcw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vgrdm4nu22gfc1t0rdcw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "htiqagqr6fj6ukkpfolz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/htiqagqr6fj6ukkpfolz.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "tom-clancys-ghost-recon-wildlands", 
+    "storyline": "Ghost Recon becomes embroiled in the drug war in Bolivia. The Santa Blanca drug cartel has bombed the US embassy in La Paz attempting to kill DEA special agent Ricardo Sandoval \"Ricky\" who has been under cover for 6 years but instead kidnap him and torture him to death. The action upgrades their status to a terrorist organization and puts them near the top of a threat list. The cartel is led by the vicious killer El Sue\u00f1o, along with The Beauty Queen, El Yayo, El Muro and El Cardenal.", 
+    "summary": "Bolivia, a few years from now: this beautiful South American country has become the largest cocaine producer in the world. The influential and vicious Santa Blanca drug cartel has turned the country into a narco-state, leading to lawlessness, fear, injustice, and violence. The cartel is on track to becoming a major underworld power and global threat. \n \nAn all-out war is not the answer. A surgical, stealthy, lethal approach is the only way to stop the disease at its source. The Ghosts, an elite US Special Forces team, are sent behind enemy lines to wreak havoc, destabilize, and eventually break the alliance between the cartel and the corrupted government. \n \nFacing an almighty enemy in a massive and hostile environment, the Ghosts will need to make critical moral choices and engage in tough battles to complete their mission \u2013 their grittiest and most dangerous operation to date.", 
+    "tags": [
+        1, 
+        23, 
+        38, 
+        268435461, 
+        268435480, 
+        268435487, 
+        536870913, 
+        536871044, 
+        536871937, 
+        536872315, 
+        536872371, 
+        536872581, 
+        536875171, 
+        536875257, 
+        536875269, 
+        536875358, 
+        536875432, 
+        536875769, 
+        536875795, 
+        536875819, 
+        536879076, 
+        536879196, 
+        536887740, 
+        536887806, 
+        1073741825, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        23, 
+        38
+    ], 
+    "time_to_beat": {
+        "normally": 183480
+    }, 
+    "total_rating": 72.59741072399626, 
+    "total_rating_count": 55, 
+    "updated_at": 1528359466436, 
+    "url": "https://www.igdb.com/games/tom-clancys-ghost-recon-wildlands", 
+    "videos": [
+        {
+            "name": "Ghost War PvP Trailer", 
+            "video_id": "Wfl92kjdCd0"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "SZ5wLV1pKxs"
+        }, 
+        {
+            "name": "Peruvian Connection Pre-order Trailer", 
+            "video_id": "6HoHsrIpQf4"
+        }, 
+        {
+            "name": "Open World of the Wildlands Trailer", 
+            "video_id": "-_Mc5aflIsQ"
+        }, 
+        {
+            "name": "Single Player Gameplay Trailer", 
+            "video_id": "QHVk7ajkUH0"
+        }, 
+        {
+            "name": "E3 Trailer", 
+            "video_id": "P7V3B0t4omI"
+        }, 
+        {
+            "name": "We Are Ghosts", 
+            "video_id": "Tzy-Dlf1VEE"
+        }, 
+        {
+            "name": "E3 2016 Cartel Cinematic Trailer", 
+            "video_id": "BsoB8nu0Y-U"
+        }, 
+        {
+            "name": "E3 2016 El Pozolero Takedown Mission Trailer", 
+            "video_id": "NEjlce-ZqyI"
+        }, 
+        {
+            "name": "E3 2016 Fight For The Wildlands Trailer", 
+            "video_id": "224nKpGc1NU"
+        }, 
+        {
+            "name": "Stealth Gameplay Walkthrough Trailer", 
+            "video_id": "lndl4wtFm1U"
+        }, 
+        {
+            "name": "Comeback Trailer", 
+            "video_id": "_hFVokxR4g8"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://ghostrecon.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/460930"
+        }, 
+        {
+            "category": 12, 
+            "url": "https://play.google.com/store/apps/details?id=com.ubisoft.grwhq"
+        }, 
+        {
+            "category": 11, 
+            "url": "https://itunes.apple.com/us/app/tom-clancys-ghost-recon-wildlands-hq/id1101757184?mt=8"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/channel/UCBMvc6jvuTxH6TNo9ThpYjg"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/GhostRecon_US"
+        }, 
+        {
+            "category": 6, 
+            "url": "https://www.twitch.tv/ubisoft"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/GhostRecon"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/ghostrecon"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Ghost_Recon_Wildlands"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://ghostrecon.wikia.com/wiki/Tom_Clancy's_Ghost_Recon_Wildlands"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "aggregated_rating": 95.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vcypml4cubqrcbogng2d", 
+        "height": 1500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vcypml4cubqrcbogng2d.jpg", 
+        "width": 1201
+    }, 
+    "created_at": 1499083596541, 
+    "first_release_date": 1494460800000, 
+    "games": [
+        24048, 
+        16468, 
+        47823, 
+        28465, 
+        25311, 
+        26145, 
+        26163, 
+        34919, 
+        33603, 
+        16309
+    ], 
+    "genres": [
+        12, 
+        13, 
+        32
+    ], 
+    "id": 42895, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Stardew Valley: Collector's Edition", 
+    "platforms": [
+        48
+    ], 
+    "popularity": 2.0, 
+    "pulse_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1494460800000, 
+            "human": "2017-May-11", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ovdvj4pbdstbxecx4lk9", 
+            "height": 371, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ovdvj4pbdstbxecx4lk9.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "stardew-valley-collectors-edition", 
+    "tags": [
+        17, 
+        28, 
+        33, 
+        268435468, 
+        268435469, 
+        268435488
+    ], 
+    "themes": [
+        17, 
+        28, 
+        33
+    ], 
+    "total_rating": 95.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1515493907682, 
+    "url": "https://www.igdb.com/games/stardew-valley-collectors-edition", 
+    "version_parent": 17000, 
+    "version_title": "Collector's Edition"
+}

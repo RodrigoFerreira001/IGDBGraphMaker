@@ -1,0 +1,88 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "xaevnmhgkhzbj8sfxz7b", 
+        "height": 240, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xaevnmhgkhzbj8sfxz7b.jpg", 
+        "width": 240
+    }, 
+    "created_at": 1472041466767, 
+    "first_release_date": 1183680000000, 
+    "games": [
+        68287, 
+        36950, 
+        28029, 
+        142, 
+        64204, 
+        27314, 
+        14364, 
+        71455, 
+        27523, 
+        26766
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 23092, 
+    "keywords": [
+        301, 
+        970, 
+        1025, 
+        4698, 
+        13083
+    ], 
+    "name": "Nucleus", 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1184198400000, 
+            "human": "2007-Jul-12", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1184198400000, 
+            "human": "2007-Jul-12", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1183680000000, 
+            "human": "2007-Jul-06", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2007
+        }
+    ], 
+    "slug": "nucleus", 
+    "summary": "Kuju's cellular shooter offers something a little different than the typical dual-joystick shooter.", 
+    "tags": [
+        18, 
+        268435461, 
+        536871213, 
+        536871882, 
+        536871937, 
+        536875610, 
+        536883995
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1516079633518, 
+    "url": "https://www.igdb.com/games/nucleus"
+}

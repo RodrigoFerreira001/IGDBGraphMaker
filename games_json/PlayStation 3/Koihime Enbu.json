@@ -1,0 +1,153 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u604b\u59eb\u2020\u6f14\u6b66"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jz62ra5mmmbw7fdkn2xs", 
+        "height": 200, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jz62ra5mmmbw7fdkn2xs.jpg", 
+        "width": 464
+    }, 
+    "created_at": 1444199491929, 
+    "developers": [
+        7012
+    ], 
+    "external": {
+        "steam": "452420"
+    }, 
+    "first_release_date": 1448496000000, 
+    "franchise": 126, 
+    "franchises": [
+        126
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        10039, 
+        37088, 
+        36794, 
+        34919, 
+        36608, 
+        19658, 
+        16468, 
+        75089, 
+        2907, 
+        17446
+    ], 
+    "genres": [
+        4
+    ], 
+    "id": 13198, 
+    "keywords": [
+        288, 
+        448, 
+        740
+    ], 
+    "name": "Koihime Enbu", 
+    "platforms": [
+        9, 
+        48
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "pulse_count": 3, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1448496000000, 
+            "human": "2015-Nov-26", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448496000000, 
+            "human": "2015-Nov-26", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "s07x4qvqy38tu61r0udp", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s07x4qvqy38tu61r0udp.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qrm341hip4h0eoealisb", 
+            "height": 864, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qrm341hip4h0eoealisb.jpg", 
+            "width": 1536
+        }, 
+        {
+            "cloudinary_id": "nngkihiw4u66u1oz1t4k", 
+            "height": 864, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nngkihiw4u66u1oz1t4k.jpg", 
+            "width": 1536
+        }, 
+        {
+            "cloudinary_id": "waip1phdbworwbvnd7wj", 
+            "height": 864, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/waip1phdbworwbvnd7wj.jpg", 
+            "width": 1536
+        }, 
+        {
+            "cloudinary_id": "gb7ra62sq7ksaks6wwrs", 
+            "height": 864, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gb7ra62sq7ksaks6wwrs.jpg", 
+            "width": 1536
+        }
+    ], 
+    "slug": "koihime-enbu", 
+    "summary": "Koihime Enbu is an upcoming all-girls 2D fighting game based on the Koihime Musou visual novel, which in turn is based on Romance of the Three Kingdoms.", 
+    "tags": [
+        1, 
+        22, 
+        268435460, 
+        536871200, 
+        536871360, 
+        536871652, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        22
+    ], 
+    "total_rating": 75.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1522395284505, 
+    "url": "https://www.igdb.com/games/koihime-enbu", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "9W4BA6P7aiA"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://koihimeenbu.degicagames.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/452420"
+        }
+    ]
+}

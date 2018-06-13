@@ -1,0 +1,185 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "xt7odlxmyataq0f2o5op", 
+        "height": 122, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xt7odlxmyataq0f2o5op.jpg", 
+        "width": 356
+    }, 
+    "created_at": 1469312496610, 
+    "external": {
+        "steam": "376140"
+    }, 
+    "first_release_date": 1424131200000, 
+    "game_modes": [
+        2, 
+        3, 
+        5
+    ], 
+    "games": [
+        47823, 
+        22425, 
+        22490, 
+        25311, 
+        8968, 
+        25222, 
+        19448, 
+        18167, 
+        11423, 
+        41895
+    ], 
+    "genres": [
+        9, 
+        11, 
+        12, 
+        15, 
+        31, 
+        32
+    ], 
+    "id": 21484, 
+    "keywords": [
+        78, 
+        94, 
+        271, 
+        296, 
+        343, 
+        392, 
+        847, 
+        900, 
+        994, 
+        1027, 
+        1158, 
+        1186, 
+        1471, 
+        1834, 
+        1961, 
+        2875, 
+        4130, 
+        4134, 
+        4176, 
+        4492, 
+        4592, 
+        4910, 
+        5351, 
+        5504, 
+        6778, 
+        9443
+    ], 
+    "name": "Saga", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "popularity": 2.0, 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1424131200000, 
+            "human": "2015-Feb-17", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1438646400000, 
+            "human": "2015-Aug-04", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "x7jhsfk5wmxdhyaukgyo", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x7jhsfk5wmxdhyaukgyo.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "brjqdcnzlfcjplvtmf3y", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/brjqdcnzlfcjplvtmf3y.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ywjtcln0pvfuhqrvcyvx", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ywjtcln0pvfuhqrvcyvx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xd83gxobmky6sfns3zap", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xd83gxobmky6sfns3zap.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "urmwipuebltalcyyvnyw", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/urmwipuebltalcyyvnyw.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "saga", 
+    "summary": "Build cities, command troops, and manage resources like in a traditional RTS, and also go on quests, chat with your friends, join guilds, and trade like an MMO. SAGA is an MMORTS with battling similar to the Total War series, mixed with city building from Stronghold. Build your army by collecting cards found in booster packs, or trade in-game resources for them in the auction house.", 
+    "tags": [
+        1, 
+        42, 
+        268435465, 
+        268435467, 
+        268435468, 
+        268435471, 
+        268435487, 
+        268435488, 
+        536870990, 
+        536871006, 
+        536871183, 
+        536871208, 
+        536871255, 
+        536871304, 
+        536871759, 
+        536871812, 
+        536871906, 
+        536871939, 
+        536872070, 
+        536872098, 
+        536872383, 
+        536872746, 
+        536872873, 
+        536873787, 
+        536875042, 
+        536875046, 
+        536875088, 
+        536875404, 
+        536875504, 
+        536875822, 
+        536876263, 
+        536876416, 
+        536877690, 
+        536880355
+    ], 
+    "themes": [
+        1, 
+        42
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1523415419615, 
+    "url": "https://www.igdb.com/games/saga", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.playsaga.com/saga_index.php"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/376140"
+        }
+    ]
+}

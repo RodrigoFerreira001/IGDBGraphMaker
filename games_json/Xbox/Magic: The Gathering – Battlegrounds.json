@@ -1,0 +1,107 @@
+{
+    "aggregated_rating": 79.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 1443, 
+    "cover": {
+        "cloudinary_id": "q3djtvbyk5utl57clcf1", 
+        "height": 396, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/q3djtvbyk5utl57clcf1.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1396658532597, 
+    "developers": [
+        2207
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1069113600000, 
+    "franchise": 42, 
+    "franchises": [
+        42
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        25222, 
+        25646, 
+        10039, 
+        60044, 
+        26223, 
+        14047, 
+        56292, 
+        36794, 
+        34919, 
+        36608
+    ], 
+    "genres": [
+        4, 
+        9, 
+        11
+    ], 
+    "id": 5907, 
+    "keywords": [
+        246, 
+        2875, 
+        7032
+    ], 
+    "name": "Magic: The Gathering \u2013 Battlegrounds", 
+    "platforms": [
+        6, 
+        11
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        82
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1069113600000, 
+            "human": "2003-Nov-18", 
+            "m": 11, 
+            "platform": 11, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1069113600000, 
+            "human": "2003-Nov-18", 
+            "m": 11, 
+            "platform": 6, 
+            "y": 2003
+        }
+    ], 
+    "slug": "magic-the-gathering-battlegrounds", 
+    "summary": "Bring the trading card game to life in this intense adventure with real-time fighting, wizard battles, spells and creature combat.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435465, 
+        268435467, 
+        536871158, 
+        536873787, 
+        536877944
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 79.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1526896035513, 
+    "url": "https://www.igdb.com/games/magic-the-gathering-battlegrounds", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "Uo8WAtmd5C4"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "E1Oaf3cSt2Y"
+        }
+    ]
+}

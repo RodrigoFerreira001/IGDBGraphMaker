@@ -1,0 +1,144 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "spmqwhpfqxpwitmpqzsq", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/spmqwhpfqxpwitmpqzsq.jpg", 
+        "width": 200
+    }, 
+    "created_at": 1495628475661, 
+    "external": {
+        "steam": "528430"
+    }, 
+    "first_release_date": 1485648000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        10039, 
+        34919, 
+        55752, 
+        16468, 
+        51485, 
+        40524, 
+        26848, 
+        74863, 
+        68324, 
+        55289
+    ], 
+    "genres": [
+        8, 
+        32
+    ], 
+    "id": 31298, 
+    "keywords": [
+        906, 
+        2049
+    ], 
+    "name": "Wells", 
+    "platforms": [
+        6, 
+        14, 
+        49, 
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1485734400000, 
+            "human": "2017-Jan-30", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1485648000000, 
+            "human": "2017-Jan-29", 
+            "m": 1, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1485648000000, 
+            "human": "2017-Jan-29", 
+            "m": 1, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1485648000000, 
+            "human": "2017-Jan-29", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "itju1nwo5b7dkvyf2j1r", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/itju1nwo5b7dkvyf2j1r.jpg", 
+            "width": 1364
+        }, 
+        {
+            "cloudinary_id": "loy1tzhnojc4ashbqbki", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/loy1tzhnojc4ashbqbki.jpg", 
+            "width": 1364
+        }, 
+        {
+            "cloudinary_id": "ekvhq1dxsvbvrvmwx8jq", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ekvhq1dxsvbvrvmwx8jq.jpg", 
+            "width": 1364
+        }, 
+        {
+            "cloudinary_id": "goirrcngb7tbdmubtwdq", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/goirrcngb7tbdmubtwdq.jpg", 
+            "width": 1364
+        }, 
+        {
+            "cloudinary_id": "bdn8lhfecvwwf98aajvd", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bdn8lhfecvwwf98aajvd.jpg", 
+            "width": 1364
+        }
+    ], 
+    "slug": "wells", 
+    "summary": "Play as Wells, a steampunk hero ready to find an amazing variety of weapons, each unique in design and functionality, and get ready to face a plethora of enemies and challenges.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435488, 
+        536871818, 
+        536872961
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523376031721, 
+    "url": "https://www.igdb.com/games/wells", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://towerupstudios.com/wells/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/528430"
+        }
+    ]
+}

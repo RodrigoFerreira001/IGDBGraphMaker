@@ -1,0 +1,241 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "f926yl3cbwtppdsecwod", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/f926yl3cbwtppdsecwod.jpg", 
+        "width": 200
+    }, 
+    "created_at": 1495276450383, 
+    "developers": [
+        14003
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "596080"
+    }, 
+    "first_release_date": 1495497600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        55752, 
+        19174, 
+        19448, 
+        51485, 
+        19290, 
+        26848, 
+        55289, 
+        19934, 
+        10039, 
+        25646
+    ], 
+    "genres": [
+        8, 
+        31, 
+        32
+    ], 
+    "id": 29141, 
+    "keywords": [
+        117, 
+        2049, 
+        4134, 
+        4466, 
+        4783
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Embers of Mirrim", 
+    "platforms": [
+        6, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        14003
+    ], 
+    "pulse_count": 4, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1495584000000, 
+            "human": "2017-May-24", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1495497600000, 
+            "human": "2017-May-23", 
+            "m": 5, 
+            "platform": 49, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1495497600000, 
+            "human": "2017-May-23", 
+            "m": 5, 
+            "platform": 48, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1512604800000, 
+            "human": "2017-Dec-07", 
+            "m": 12, 
+            "platform": 130, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1495497600000, 
+            "human": "2017-May-23", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "u63ia9ld31hmgiaafovs", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u63ia9ld31hmgiaafovs.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dxyxycd53bjmcwoobeny", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dxyxycd53bjmcwoobeny.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "naolg3yt5gxu1ux4fm4k", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/naolg3yt5gxu1ux4fm4k.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zvxohjfscp1xgdprub1g", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zvxohjfscp1xgdprub1g.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qe1wvgdhlp0lhuqcxech", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qe1wvgdhlp0lhuqcxech.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "usvllrdb3zsicostskbc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/usvllrdb3zsicostskbc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "j0kyjxhueg38ycwj1opm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j0kyjxhueg38ycwj1opm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fn7ntxtgq7b4t229zht7", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fn7ntxtgq7b4t229zht7.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tpl8yhngcuudopzeyucr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tpl8yhngcuudopzeyucr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "s8kthf6uaa92rcjubu7r", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s8kthf6uaa92rcjubu7r.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "au2lsknqkc6upyqwlbsw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/au2lsknqkc6upyqwlbsw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pzud5gxv8bwj5vxjmozq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pzud5gxv8bwj5vxjmozq.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "embers-of-mirrim", 
+    "summary": "To save their world from an alien threat, two proud races must set aside their differences and come together... literally.  Embers of Mirrim is an adventure-platformer featuring a mystical creature with the ability to split into light and dark embers, each independently controlled by the analog sticks.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536872961, 
+        536875046, 
+        536875378, 
+        536875695, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1523356800111, 
+    "url": "https://www.igdb.com/games/embers-of-mirrim", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "_NP95IDyuxE"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 5, 
+            "url": "https://twitter.com/EmbersOfMirrim"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/EmbersOfMirrim"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/596080"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://EmbersOfMirrim.com"
+        }
+    ]
+}

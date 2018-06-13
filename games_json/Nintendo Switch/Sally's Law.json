@@ -1,0 +1,192 @@
+{
+    "aggregated_rating": 69.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "hiho0bmm3uhe1fd7yygc", 
+        "height": 359, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hiho0bmm3uhe1fd7yygc.jpg", 
+        "width": 265
+    }, 
+    "created_at": 1474567861287, 
+    "developers": [
+        14034
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "512230"
+    }, 
+    "first_release_date": 1471996800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        25646, 
+        10039, 
+        34919, 
+        16468, 
+        27266, 
+        51485, 
+        26848, 
+        19289, 
+        54639, 
+        40524
+    ], 
+    "genres": [
+        8, 
+        9, 
+        32
+    ], 
+    "id": 24197, 
+    "keywords": [
+        4527
+    ], 
+    "name": "Sally's Law", 
+    "platforms": [
+        34, 
+        6, 
+        39, 
+        14, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        15281, 
+        14034
+    ], 
+    "pulse_count": 1, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1522886400000, 
+            "human": "2018-Apr-05", 
+            "m": 4, 
+            "platform": 130, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1471996800000, 
+            "human": "2016-Aug-24", 
+            "m": 8, 
+            "platform": 34, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1471996800000, 
+            "human": "2016-Aug-24", 
+            "m": 8, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1471996800000, 
+            "human": "2016-Aug-24", 
+            "m": 8, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1471996800000, 
+            "human": "2016-Aug-24", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "nxrzixqaaxku2nzjadoa", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nxrzixqaaxku2nzjadoa.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "az2txqlpnkg3xzxtbfn5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/az2txqlpnkg3xzxtbfn5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "duhh1sqty4xwjdhxwrwx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/duhh1sqty4xwjdhxwrwx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "i9vp8pywawjreuhwxfax", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i9vp8pywawjreuhwxfax.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kspwce5xuiu1pogvauv2", 
+            "height": 422, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kspwce5xuiu1pogvauv2.jpg", 
+            "width": 750
+        }
+    ], 
+    "slug": "sallys-law", 
+    "summary": "Follow along with Sally, an extraordinarily lucky girl for whom nothing can stand in her way, as she journeys home to see her critically-ill father in this indie award-winning puzzle-platformer! Could Sally's luck be a mere coincidence?", 
+    "tags": [
+        1, 
+        40, 
+        268435464, 
+        268435465, 
+        268435488, 
+        536875439, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        40
+    ], 
+    "total_rating": 69.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1523381507532, 
+    "url": "https://www.igdb.com/games/sallys-law", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "VdXAQbuGdB0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.nanali.net/home/eng"
+        }, 
+        {
+            "category": 12, 
+            "url": "https://play.google.com/store/apps/details?id=com.Nanali.SallysLaw"
+        }, 
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/sallys-law/id1171015241?l=ko&ls=1&mt=8"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/SallysLaw_X"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/512230"
+        }
+    ]
+}

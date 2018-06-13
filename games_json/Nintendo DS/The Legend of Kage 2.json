@@ -1,0 +1,61 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "lijxd0eeirls4zuefhdn", 
+        "height": 1370, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lijxd0eeirls4zuefhdn.jpg", 
+        "width": 1532
+    }, 
+    "created_at": 1469303718068, 
+    "first_release_date": 1226016000000, 
+    "games": [
+        36608, 
+        2940, 
+        40524, 
+        34919, 
+        71581, 
+        29660, 
+        1070, 
+        23175, 
+        76438, 
+        16468
+    ], 
+    "id": 21336, 
+    "name": "The Legend of Kage 2", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1226016000000, 
+            "human": "2008-Nov-07", 
+            "m": 11, 
+            "platform": 20, 
+            "region": 8, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xantkyzucl4bpvsrcwi3", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xantkyzucl4bpvsrcwi3.jpg", 
+            "width": 272
+        }
+    ], 
+    "slug": "the-legend-of-kage-2", 
+    "tags": [
+        1
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1517634245178, 
+    "url": "https://www.igdb.com/games/the-legend-of-kage-2"
+}

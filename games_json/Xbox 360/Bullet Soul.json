@@ -1,0 +1,177 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30d0\u30ec\u30c3\u30c8\u30bd\u30a6\u30eb -\u5f3e\u9b42-"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "zzhackzqsrtvf7cps8qb", 
+        "height": 989, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zzhackzqsrtvf7cps8qb.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1488875089421, 
+    "developers": [
+        2428
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "544580"
+    }, 
+    "first_release_date": 1302134400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        32902, 
+        34919, 
+        10039, 
+        16468, 
+        40524, 
+        54639, 
+        68324, 
+        28029, 
+        55289, 
+        37022
+    ], 
+    "genres": [
+        5, 
+        32
+    ], 
+    "id": 27677, 
+    "keywords": [
+        911
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Bullet Soul", 
+    "platforms": [
+        6, 
+        12
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        12273
+    ], 
+    "pulse_count": 1, 
+    "rating": 85.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1473984000000, 
+            "human": "2016-Sep-16", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1302134400000, 
+            "human": "2011-Apr-07", 
+            "m": 4, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1491523200000, 
+            "human": "2017-Apr-07", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "uydrbhbl0aw9njtnjuoe", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uydrbhbl0aw9njtnjuoe.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "andkanwu3z6zl2sd8zqz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/andkanwu3z6zl2sd8zqz.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "tqnunz9qialzrqb2mztl", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tqnunz9qialzrqb2mztl.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "i3whlemxcrh4dqdidli9", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i3whlemxcrh4dqdidli9.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nne87tujsrhhd4xlowjf", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nne87tujsrhhd4xlowjf.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "bullet-soul", 
+    "summary": "A brand-new adaptation to the shooting genre which rewards survival through aggressive play. Blending classic shooting game design with a substantial dose of modern day bullet hell, Bullet Soul has it all! Bringing even more heat are Resonator: the moniker of aural wizards Kenji 'Itoken' Ito and Kohta Takahashi, setting fire to your speakers with their tunes. Last but not least, Akio Watanabe brings his skills to the scene cooking up the character designs.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435488, 
+        536871823, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 82.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1523371402475, 
+    "url": "https://www.igdb.com/games/bullet-soul", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "hBTb7X9CVgQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://5pb.jp/games/steam/bulletsoul/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/544580"
+        }
+    ]
+}

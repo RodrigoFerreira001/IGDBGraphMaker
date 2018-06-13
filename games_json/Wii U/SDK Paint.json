@@ -1,0 +1,73 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mipl4vpwnvpy4swzasgb", 
+        "height": 695, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mipl4vpwnvpy4swzasgb.jpg", 
+        "width": 1280
+    }, 
+    "created_at": 1517343104828, 
+    "first_release_date": 1415232000000, 
+    "id": 84860, 
+    "name": "SDK Paint", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1424908800000, 
+            "human": "2015-Feb-26", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1415232000000, 
+            "human": "2014-Nov-06", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "kwceybocrltoztsf6hqp", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kwceybocrltoztsf6hqp.jpg", 
+            "width": 854
+        }, 
+        {
+            "cloudinary_id": "mctl4ui2xkrnwcpc6sma", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mctl4ui2xkrnwcpc6sma.jpg", 
+            "width": 854
+        }, 
+        {
+            "cloudinary_id": "qoqs6rvyt0xwvbtilwn6", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qoqs6rvyt0xwvbtilwn6.jpg", 
+            "width": 854
+        }, 
+        {
+            "cloudinary_id": "eg8nfbxncjwrvolgbemb", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eg8nfbxncjwrvolgbemb.jpg", 
+            "width": 854
+        }
+    ], 
+    "slug": "sdk-paint", 
+    "summary": "Paint across five stacked canvas layers. View your artwork hanging on the walls. Share your creations in 2D and 3D.", 
+    "updated_at": 1518007607644, 
+    "url": "https://www.igdb.com/games/sdk-paint", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://sdkpaint.com"
+        }
+    ]
+}

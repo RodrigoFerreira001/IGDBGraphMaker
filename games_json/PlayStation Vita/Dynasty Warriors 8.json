@@ -1,0 +1,369 @@
+{
+    "aggregated_rating": 71.4285714285714, 
+    "aggregated_rating_count": 7, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Shin Sangoku Musou 7"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u771f\u30fb\u4e09\u570b\u7121\u53cc7"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "pii7aajv0lvzsn9yfmxf", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pii7aajv0lvzsn9yfmxf.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "lh6avadendsolc0cnjaw", 
+            "height": 650, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lh6avadendsolc0cnjaw.jpg", 
+            "width": 1000
+        }
+    ], 
+    "category": 0, 
+    "collection": 550, 
+    "cover": {
+        "cloudinary_id": "anslpzccpbiqr08glfsf", 
+        "height": 270, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/anslpzccpbiqr08glfsf.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1400996068809, 
+    "developers": [
+        1394
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "expansions": [
+        10267
+    ], 
+    "first_release_date": 1362009600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        12632, 
+        37088, 
+        71455, 
+        28010, 
+        26769, 
+        27209, 
+        12571, 
+        16468, 
+        28380, 
+        5150
+    ], 
+    "genres": [
+        25
+    ], 
+    "id": 6976, 
+    "keywords": [
+        78, 
+        227, 
+        389, 
+        448, 
+        982, 
+        2561, 
+        2806, 
+        4155, 
+        4282, 
+        5417, 
+        5498, 
+        5756, 
+        5783, 
+        5937, 
+        6389, 
+        7415, 
+        9885, 
+        9886, 
+        9887, 
+        9888, 
+        9889
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dynasty Warriors 8", 
+    "platforms": [
+        6, 
+        46, 
+        9, 
+        48, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        630
+    ], 
+    "rating": 71.6690856313498, 
+    "rating_count": 8, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1374192000000, 
+            "human": "2013-Jul-19", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1373932800000, 
+            "human": "2013-Jul-16", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1362009600000, 
+            "human": "2013-Feb-28", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1362009600000, 
+            "human": "2013-Feb-28", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1362009600000, 
+            "human": "2013-Feb-28", 
+            "m": 2, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1373932800000, 
+            "human": "2013-Jul-16", 
+            "m": 7, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1373932800000, 
+            "human": "2013-Jul-16", 
+            "m": 7, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1374192000000, 
+            "human": "2013-Jul-19", 
+            "m": 7, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1374192000000, 
+            "human": "2013-Jul-19", 
+            "m": 7, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1374710400000, 
+            "human": "2013-Jul-25", 
+            "m": 7, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1374710400000, 
+            "human": "2013-Jul-25", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1374710400000, 
+            "human": "2013-Jul-25", 
+            "m": 7, 
+            "platform": 46, 
+            "region": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1393027200000, 
+            "human": "2014-Feb-22", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1395705600000, 
+            "human": "2014-Mar-25", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1396569600000, 
+            "human": "2014-Apr-04", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1400803200000, 
+            "human": "2014-May-23", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1399939200000, 
+            "human": "2014-May-13", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "obgghej1f4th9e29s27a", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/obgghej1f4th9e29s27a.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "gyna2hft3g7eqqqhuysg", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gyna2hft3g7eqqqhuysg.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "namzzodac8oedje8l74m", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/namzzodac8oedje8l74m.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "uragh8lchekyazas7gwm", 
+            "height": 341, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uragh8lchekyazas7gwm.jpg", 
+            "width": 610
+        }
+    ], 
+    "slug": "dynasty-warriors-8", 
+    "summary": "The main mode in this latest installment in the Dynasty Warriors series is Story Mode, which follows the stories of the kingdoms of Wei, Wu, Shu, and Jin. \nThis completely new story includes new episodes with all-new characters and takes an ever deeper look at the drama that unfolds in the Romance of the Three Kingdoms compared to previous titles in the series. \nThere are also new \"What If?\" scenarios that take a look at what could have happened if famous characters of the time period had lived on to fight another day.", 
+    "tags": [
+        1, 
+        17, 
+        22, 
+        268435481, 
+        536870990, 
+        536871139, 
+        536871301, 
+        536871360, 
+        536871894, 
+        536873473, 
+        536873718, 
+        536875067, 
+        536875194, 
+        536876329, 
+        536876410, 
+        536876668, 
+        536876695, 
+        536876849, 
+        536877301, 
+        536878327, 
+        536880797, 
+        536880798, 
+        536880799, 
+        536880800, 
+        536880801
+    ], 
+    "themes": [
+        1, 
+        17, 
+        22
+    ], 
+    "total_rating": 71.5488285299606, 
+    "total_rating_count": 15, 
+    "updated_at": 1525266822929, 
+    "url": "https://www.igdb.com/games/dynasty-warriors-8", 
+    "videos": [
+        {
+            "name": "Game intro", 
+            "video_id": "5fFoepNE6b4"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "Xrkex_oLhAk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.dynastywarriors8.eu/"
+        }
+    ]
+}

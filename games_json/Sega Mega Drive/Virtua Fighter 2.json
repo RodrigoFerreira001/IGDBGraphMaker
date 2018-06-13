@@ -1,0 +1,356 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30d0\u30fc\u30c1\u30e3\u30d5\u30a1\u30a4\u30bf\u30fc2"
+        }, 
+        {
+            "comment": "Chinese title", 
+            "name": "VR\u6218\u58eb2"
+        }
+    ], 
+    "category": 0, 
+    "collection": 318, 
+    "cover": {
+        "cloudinary_id": "lqx2k92k0vptuzttjsu9", 
+        "height": 1180, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lqx2k92k0vptuzttjsu9.jpg", 
+        "width": 770
+    }, 
+    "created_at": 1349897638166, 
+    "developers": [
+        830, 
+        4436
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "71115"
+    }, 
+    "first_release_date": 783648000000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        41828, 
+        34919, 
+        65832, 
+        36794, 
+        10039, 
+        25311, 
+        19341, 
+        1875, 
+        68391, 
+        22418
+    ], 
+    "genres": [
+        4, 
+        13, 
+        33
+    ], 
+    "id": 1547, 
+    "keywords": [
+        61, 
+        107, 
+        969, 
+        998
+    ], 
+    "name": "Virtua Fighter 2", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\nIt contains: Non realistic looking violence towards human characters\nThis game allows the player to interact with other players ONLINE."
+    }, 
+    "platforms": [
+        29, 
+        52, 
+        45, 
+        6, 
+        36, 
+        32, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        112
+    ], 
+    "pulse_count": 1, 
+    "rating": 86.683093118855, 
+    "rating_count": 13, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1174348800000, 
+            "human": "2007-Mar-20", 
+            "m": 3, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1178236800000, 
+            "human": "2007-May-04", 
+            "m": 5, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1176681600000, 
+            "human": "2007-Apr-16", 
+            "m": 4, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1354665600000, 
+            "human": "2012-Dec-05", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1353974400000, 
+            "human": "2012-Nov-27", 
+            "m": 11, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 1, 
+            "date": 783648000000, 
+            "human": "1994-Nov", 
+            "m": 11, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1994
+        }, 
+        {
+            "category": 2, 
+            "date": 820368000000, 
+            "human": "1995", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 817776000000, 
+            "human": "1995-Dec-01", 
+            "m": 12, 
+            "platform": 32, 
+            "region": 5, 
+            "y": 1995
+        }, 
+        {
+            "category": 1, 
+            "date": 817776000000, 
+            "human": "1995-Dec", 
+            "m": 12, 
+            "platform": 32, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 822614400000, 
+            "human": "1996-Jan-26", 
+            "m": 1, 
+            "platform": 32, 
+            "region": 1, 
+            "y": 1996
+        }, 
+        {
+            "category": 2, 
+            "date": 851990400000, 
+            "human": "1996", 
+            "m": 12, 
+            "platform": 29, 
+            "region": 1, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 857433600000, 
+            "human": "1997-Mar-04", 
+            "m": 3, 
+            "platform": 29, 
+            "region": 2, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 873417600000, 
+            "human": "1997-Sep-05", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 875577600000, 
+            "human": "1997-Sep-30", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 1997
+        }, 
+        {
+            "category": 2, 
+            "date": 883526400000, 
+            "human": "1997", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 1096848000000, 
+            "human": "2004-Oct-04", 
+            "m": 10, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1354060800000, 
+            "human": "2012-Nov-28", 
+            "m": 11, 
+            "platform": 45, 
+            "region": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1354060800000, 
+            "human": "2012-Nov-28", 
+            "m": 11, 
+            "platform": 36, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1288051200000, 
+            "human": "2010-Oct-26", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hrjve2hhn5qxskdpwyua", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hrjve2hhn5qxskdpwyua.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "ktuv5ka2mbyn0dfxlfmv", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ktuv5ka2mbyn0dfxlfmv.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "bthq5uwktgeyktesxyew", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bthq5uwktgeyktesxyew.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "djspac68nzdkeuyks0yl", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/djspac68nzdkeuyks0yl.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "q7uzdzczzzea8ikw3nmb", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q7uzdzczzzea8ikw3nmb.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "o3vjw0tnhoyr8pvdk4ei", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o3vjw0tnhoyr8pvdk4ei.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "pq8wozrwxj8nbevfykiu", 
+            "height": 370, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pq8wozrwxj8nbevfykiu.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "pipg30cwlgpeg1gwvqhn", 
+            "height": 370, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pipg30cwlgpeg1gwvqhn.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "cuuqxahywwlnsluh4qhr", 
+            "height": 370, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cuuqxahywwlnsluh4qhr.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "hauceei2rkcvmhhq54cz", 
+            "height": 370, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hauceei2rkcvmhhq54cz.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "hf5ezt8b2pq6nislh1xb", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hf5ezt8b2pq6nislh1xb.jpg", 
+            "width": 1400
+        }
+    ], 
+    "slug": "virtua-fighter-2", 
+    "summary": "One year has passed since eight of the toughest, fastest fighters challenged each other in the World Fighting Tournament. \n\t\t\t\t\t Now the call has come for the second World Fighting Tournament. Who will emerge victorious this time?", 
+    "tags": [
+        1, 
+        268435460, 
+        268435469, 
+        268435489, 
+        536870973, 
+        536871019, 
+        536871881, 
+        536871910, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 86.683093118855, 
+    "total_rating_count": 13, 
+    "updated_at": 1523275816395, 
+    "url": "https://www.igdb.com/games/virtua-fighter-2", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.sega.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/71115"
+        }
+    ]
+}

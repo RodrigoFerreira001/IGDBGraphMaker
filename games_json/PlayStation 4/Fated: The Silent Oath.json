@@ -1,0 +1,179 @@
+{
+    "aggregated_rating": 53.6666666666667, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jfjuv9rjwrhibp5q8txs", 
+        "height": 1440, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jfjuv9rjwrhibp5q8txs.jpg", 
+        "width": 1440
+    }, 
+    "created_at": 1462588271095, 
+    "developers": [
+        6970
+    ], 
+    "external": {
+        "steam": "401820"
+    }, 
+    "first_release_date": 1461801600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19290, 
+        11560, 
+        19448, 
+        19301, 
+        17001, 
+        19934, 
+        23175, 
+        18918, 
+        28154, 
+        19376
+    ], 
+    "genres": [
+        31
+    ], 
+    "hypes": 1, 
+    "id": 19013, 
+    "keywords": [
+        117, 
+        1033, 
+        1239, 
+        4131, 
+        4134, 
+        4222, 
+        4234, 
+        4439, 
+        4871
+    ], 
+    "name": "Fated: The Silent Oath", 
+    "pegi": {
+        "rating": 4
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 2.0, 
+    "rating": 60.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1490659200000, 
+            "human": "2017-Mar-28", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1490659200000, 
+            "human": "2017-Mar-28", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1490659200000, 
+            "human": "2017-Mar-28", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1490659200000, 
+            "human": "2017-Mar-28", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1461801600000, 
+            "human": "2016-Apr-28", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ox1nhbh0s8fajyachbhm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ox1nhbh0s8fajyachbhm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wkm6xtbpghwlluvnm8kb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wkm6xtbpghwlluvnm8kb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ct3wl65h1fjtfb4sh5mt", 
+            "height": 1261, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ct3wl65h1fjtfb4sh5mt.jpg", 
+            "width": 1980
+        }, 
+        {
+            "cloudinary_id": "rky4hpkospnmgrcljhtl", 
+            "height": 1157, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rky4hpkospnmgrcljhtl.jpg", 
+            "width": 1980
+        }, 
+        {
+            "cloudinary_id": "gbyczynvflkkniceihem", 
+            "height": 1226, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gbyczynvflkkniceihem.jpg", 
+            "width": 1980
+        }
+    ], 
+    "slug": "fated-the-silent-oath", 
+    "summary": "FATED is a first-person movie-length narrative-adventure game in virtual reality. This immersive game with stunning visuals showcases the best that VR has to offer, proposing a strong story-driven, narrative experience that focuses on emotion over gameplay.", 
+    "tags": [
+        268435487, 
+        536871029, 
+        536871945, 
+        536872151, 
+        536875043, 
+        536875046, 
+        536875134, 
+        536875146, 
+        536875351, 
+        536875783, 
+        1073741831
+    ], 
+    "total_rating": 56.83333333333335, 
+    "total_rating_count": 8, 
+    "updated_at": 1523409792513, 
+    "url": "https://www.igdb.com/games/fated-the-silent-oath", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "UL0zpbN-R1Y"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/401820"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://fatedgame.com/"
+        }
+    ]
+}

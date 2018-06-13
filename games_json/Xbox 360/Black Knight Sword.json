@@ -1,0 +1,158 @@
+{
+    "aggregated_rating": 64.0, 
+    "aggregated_rating_count": 6, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Black Knight Story"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "phdtsgzbjbmfyennbkbv", 
+        "height": 691, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/phdtsgzbjbmfyennbkbv.jpg", 
+        "width": 584
+    }, 
+    "created_at": 1467882440043, 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1355184000000, 
+    "games": [
+        28113, 
+        7349, 
+        11423, 
+        54524, 
+        55752, 
+        13163, 
+        11529, 
+        17447, 
+        19082, 
+        7350
+    ], 
+    "id": 19913, 
+    "keywords": [
+        129, 
+        227, 
+        301, 
+        1033, 
+        1293, 
+        2152, 
+        2543, 
+        4134, 
+        4161, 
+        4245, 
+        4386, 
+        4388, 
+        4484, 
+        4890, 
+        4891, 
+        5208, 
+        7402
+    ], 
+    "name": "Black Knight Sword", 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        5357
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1355184000000, 
+            "human": "2012-Dec-11", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1355270400000, 
+            "human": "2012-Dec-12", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1357776000000, 
+            "human": "2013-Jan-10", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1355270400000, 
+            "human": "2012-Dec-12", 
+            "m": 12, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1355270400000, 
+            "human": "2012-Dec-12", 
+            "m": 12, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1357776000000, 
+            "human": "2013-Jan-10", 
+            "m": 1, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "yssk7fyllbvhbwevjzrq", 
+            "height": 300, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yssk7fyllbvhbwevjzrq.jpg", 
+            "width": 969
+        }
+    ], 
+    "slug": "black-knight-sword", 
+    "summary": "A side-scrolling action game from Grasshopper Manufacture. The background moves behind the player to simulate movement.", 
+    "tags": [
+        536871041, 
+        536871139, 
+        536871213, 
+        536871945, 
+        536872205, 
+        536873064, 
+        536873455, 
+        536875046, 
+        536875073, 
+        536875157, 
+        536875298, 
+        536875300, 
+        536875396, 
+        536875802, 
+        536875803, 
+        536876120, 
+        536878314
+    ], 
+    "total_rating": 64.0, 
+    "total_rating_count": 6, 
+    "updated_at": 1520949384555, 
+    "url": "https://www.igdb.com/games/black-knight-sword", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.blackknightsword.com/"
+        }
+    ]
+}

@@ -1,0 +1,535 @@
+{
+    "aggregated_rating": 92.4285714285714, 
+    "aggregated_rating_count": 18, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Rayman Legends Definitive Edition"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Rayman: Legends"
+        }
+    ], 
+    "category": 0, 
+    "collection": 206, 
+    "cover": {
+        "cloudinary_id": "fgiajpnky4maehvwjzsu", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fgiajpnky4maehvwjzsu.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1362326665603, 
+    "developers": [
+        702
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is an action platformer in which players assume the role of Rayman and his \u201ccartoony\u201d friends as they rescue creatures from evil forces. As players run, jump, and fly through side-scrolling levels, they can use various attacks (e.g., punches, kicks, slaps) to defeat enemy creatures (e.g., goblins, wrestlers, skeletons); enemies disappear into puffs of smoke when defeated. Boss battles are more protracted, as players shoot projectiles at large dragons, frogs, and wrestlers. During the course of the game, players can unlock and wear a variety of costumes; one costume depicts characters with small fig leaves covering their pelvic areas."
+    }, 
+    "external": {
+        "steam": "242550"
+    }, 
+    "first_release_date": 1377820800000, 
+    "game_engines": [
+        22
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        7344, 
+        7444, 
+        7325, 
+        1887, 
+        2923, 
+        1966, 
+        12597, 
+        885, 
+        55752, 
+        843
+    ], 
+    "genres": [
+        8, 
+        31
+    ], 
+    "hypes": 1, 
+    "id": 1968, 
+    "keywords": [
+        296, 
+        350, 
+        594, 
+        1068, 
+        1158, 
+        1181, 
+        1186, 
+        1297, 
+        1333, 
+        1563, 
+        2049, 
+        2071, 
+        2155, 
+        2324, 
+        2415, 
+        2543, 
+        4134, 
+        4135, 
+        4161, 
+        4163, 
+        4171, 
+        4215, 
+        4235, 
+        4282, 
+        4287, 
+        4297, 
+        4312, 
+        4316, 
+        4412, 
+        4484, 
+        4520, 
+        4521, 
+        4544, 
+        4573, 
+        4628, 
+        4694, 
+        4698, 
+        4699, 
+        4756, 
+        4763, 
+        4779, 
+        4880, 
+        4891, 
+        4918, 
+        4931, 
+        5000, 
+        5025, 
+        5195, 
+        5305, 
+        5306, 
+        5323, 
+        5326, 
+        5450, 
+        5458, 
+        5581, 
+        5584, 
+        5629, 
+        5633, 
+        5783, 
+        5843, 
+        5885, 
+        5940, 
+        6007, 
+        6193, 
+        6198, 
+        6252, 
+        6382, 
+        6418, 
+        7653, 
+        8953, 
+        9394, 
+        9494, 
+        9551, 
+        9655
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 5, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 41, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Rayman Legends", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        6, 
+        41, 
+        46, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 13.33333333333333, 
+    "publishers": [
+        104
+    ], 
+    "pulse_count": 6, 
+    "rating": 86.948574074572, 
+    "rating_count": 191, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1381968000000, 
+            "human": "2013-Oct-17", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1377820800000, 
+            "human": "2013-Aug-30", 
+            "m": 8, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1378166400000, 
+            "human": "2013-Sep-03", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1392681600000, 
+            "human": "2014-Feb-18", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1378166400000, 
+            "human": "2013-Sep-03", 
+            "m": 9, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1379030400000, 
+            "human": "2013-Sep-13", 
+            "m": 9, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1392940800000, 
+            "human": "2014-Feb-21", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1392681600000, 
+            "human": "2014-Feb-18", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1378166400000, 
+            "human": "2013-Sep-03", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1377820800000, 
+            "human": "2013-Aug-30", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1377820800000, 
+            "human": "2013-Aug-30", 
+            "m": 8, 
+            "platform": 41, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1377820800000, 
+            "human": "2013-Aug-30", 
+            "m": 8, 
+            "platform": 9, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1377820800000, 
+            "human": "2013-Aug-30", 
+            "m": 8, 
+            "platform": 12, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1377820800000, 
+            "human": "2013-Aug-30", 
+            "m": 8, 
+            "platform": 46, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1377820800000, 
+            "human": "2013-Aug-30", 
+            "m": 8, 
+            "platform": 6, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1392681600000, 
+            "human": "2014-Feb-18", 
+            "m": 2, 
+            "platform": 48, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1392681600000, 
+            "human": "2014-Feb-18", 
+            "m": 2, 
+            "platform": 49, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rvz5dg3idqsksrv11mzv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rvz5dg3idqsksrv11mzv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xvki8ouy9icsn95ytw0w", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xvki8ouy9icsn95ytw0w.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "p1t2o1oypskkkrom2znk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p1t2o1oypskkkrom2znk.jpg", 
+            "width": 2038
+        }, 
+        {
+            "cloudinary_id": "tl1gpqxhn1kcptio2b3z", 
+            "height": 2171, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tl1gpqxhn1kcptio2b3z.jpg", 
+            "width": 4096
+        }, 
+        {
+            "cloudinary_id": "kkgfjyuoqng00x4sir6j", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kkgfjyuoqng00x4sir6j.jpg", 
+            "width": 2038
+        }, 
+        {
+            "cloudinary_id": "ys5694rys5lgn6qj44iu", 
+            "height": 1757, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ys5694rys5lgn6qj44iu.jpg", 
+            "width": 3316
+        }, 
+        {
+            "cloudinary_id": "fdl9k8qru3sz8jcyhysf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fdl9k8qru3sz8jcyhysf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vhdw0ppdihx6jz82t2jh", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vhdw0ppdihx6jz82t2jh.jpg", 
+            "width": 734
+        }, 
+        {
+            "cloudinary_id": "bggmkbymja3dzinzq0jl", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bggmkbymja3dzinzq0jl.jpg", 
+            "width": 734
+        }, 
+        {
+            "cloudinary_id": "t8zhedgdwoileoam4wia", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t8zhedgdwoileoam4wia.jpg", 
+            "width": 734
+        }, 
+        {
+            "cloudinary_id": "yhctbxy9zjyvauavex9i", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yhctbxy9zjyvauavex9i.jpg", 
+            "width": 734
+        }, 
+        {
+            "cloudinary_id": "ahpvophqdiq3i4sxbrah", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ahpvophqdiq3i4sxbrah.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "rayman-legends", 
+    "summary": "he Rayman\u00ae Legends Challenges App available April 25th allows users to compete against players from around the globe in daily and weekly challenges! Jump in and play challenges on several different maps, including the Wii U\u2122 exclusive level, Murfy's Dungeon! Keep an eye out for special community contests where the game's developers will be setting the challenges! Rayman, named platformer of the year and winner of multiple artistic and musical achievements, is coming to the Wii U with a brand new adventure. Michel Ancel, celebrated creator of Rayman\u00ae, Beyond Good & Evil\u00ae and the Raving Rabbids\u00ae is bringing his innovative creativity to this new and exciting platform. Rayman Legends makes full use of the power of the Wii U. With the new Wii U GamePad, discover new ways to platform with its touch-based gameplay, gyroscope technology, and even the ability to extend your playing experience when the TV is off. Additionally, the power of the machine has helped pave the way for new, more detailed graphics and lighting. Rayman, Globox, and the Teensies are off wandering through an enchanted forest when they discover a mysterious tent filled with a series of captivating paintings. As they look more closely, they notice each painting seems to tell the story of a mythical world. While focusing on a painting that shows a medieval land, they are suddenly sucked into the painting, entering the world, and the adventure begins. The gang must run, jump and fight their way through each world to save the day and discover the secrets of every legendary painting.", 
+    "tags": [
+        1, 
+        27, 
+        268435464, 
+        268435487, 
+        536871208, 
+        536871262, 
+        536871506, 
+        536871980, 
+        536872070, 
+        536872093, 
+        536872098, 
+        536872209, 
+        536872245, 
+        536872475, 
+        536872961, 
+        536872983, 
+        536873067, 
+        536873236, 
+        536873327, 
+        536873455, 
+        536875046, 
+        536875047, 
+        536875073, 
+        536875075, 
+        536875083, 
+        536875127, 
+        536875147, 
+        536875194, 
+        536875199, 
+        536875209, 
+        536875224, 
+        536875228, 
+        536875324, 
+        536875396, 
+        536875432, 
+        536875433, 
+        536875456, 
+        536875485, 
+        536875540, 
+        536875606, 
+        536875610, 
+        536875611, 
+        536875668, 
+        536875675, 
+        536875691, 
+        536875792, 
+        536875803, 
+        536875830, 
+        536875843, 
+        536875912, 
+        536875937, 
+        536876107, 
+        536876217, 
+        536876218, 
+        536876235, 
+        536876238, 
+        536876362, 
+        536876370, 
+        536876493, 
+        536876496, 
+        536876541, 
+        536876545, 
+        536876695, 
+        536876755, 
+        536876797, 
+        536876852, 
+        536876919, 
+        536877105, 
+        536877110, 
+        536877164, 
+        536877294, 
+        536877330, 
+        536878565, 
+        536879865, 
+        536880306, 
+        536880406, 
+        536880463, 
+        536880567, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 89.6885727515717, 
+    "total_rating_count": 209, 
+    "updated_at": 1528727042706, 
+    "url": "https://www.igdb.com/games/rayman-legends", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "8UzRNKTXOjc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Rayman_Legends"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/242550"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://rayman.ubi.com/legends/"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://rayman.ubi.com/legends/en-US/home/index.aspx"
+        }
+    ]
+}

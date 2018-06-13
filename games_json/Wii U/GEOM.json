@@ -1,0 +1,52 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "wkx17n7rzmo0dc84igl1", 
+        "height": 1024, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wkx17n7rzmo0dc84igl1.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1517326104824, 
+    "first_release_date": 1403136000000, 
+    "id": 84515, 
+    "name": "GEOM", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1403136000000, 
+            "human": "2014-Jun-19", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lwvrkshpykc2shhqbagd", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lwvrkshpykc2shhqbagd.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "fccxht7eay5iwxys0oli", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fccxht7eay5iwxys0oli.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "drah8mmfxuikd4ie2ep5", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/drah8mmfxuikd4ie2ep5.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "geom", 
+    "summary": "GEOM is a puzzle game with timed challenges. There are three modes each with its own set of rules.", 
+    "updated_at": 1518062453583, 
+    "url": "https://www.igdb.com/games/geom"
+}

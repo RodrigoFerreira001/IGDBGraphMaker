@@ -1,0 +1,57 @@
+{
+    "category": 2, 
+    "cover": {
+        "cloudinary_id": "bnjidkemfq6izzpgpzzg", 
+        "height": 317, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bnjidkemfq6izzpgpzzg.jpg", 
+        "width": 398
+    }, 
+    "created_at": 1511193721874, 
+    "first_release_date": 1513641600000, 
+    "game": 1911, 
+    "id": 76101, 
+    "name": "Path of Exile: War for the Atlas", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 2.0, 
+    "pulse_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1513641600000, 
+            "human": "2017-Dec-19", 
+            "m": 12, 
+            "platform": 49, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513641600000, 
+            "human": "2017-Dec-19", 
+            "m": 12, 
+            "platform": 6, 
+            "y": 2017
+        }
+    ], 
+    "slug": "path-of-exile-war-for-the-atlas", 
+    "updated_at": 1513695513049, 
+    "url": "https://www.igdb.com/games/path-of-exile-war-for-the-atlas", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "WUynpspxd4s"
+        }, 
+        {
+            "name": "Announcement Trailer", 
+            "video_id": "V3REf00nnq0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "https://pathofexile.gamepedia.com/War_for_the_Atlas"
+        }
+    ]
+}

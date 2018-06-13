@@ -1,0 +1,115 @@
+{
+    "aggregated_rating": 78.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 717, 
+    "cover": {
+        "cloudinary_id": "v5kpw5gogxjctqeuvewn", 
+        "height": 2156, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/v5kpw5gogxjctqeuvewn.jpg", 
+        "width": 1527
+    }, 
+    "created_at": 1468356350085, 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1100822400000, 
+    "games": [
+        68287, 
+        28751, 
+        36950, 
+        11171, 
+        18088, 
+        27314, 
+        15536, 
+        142, 
+        64204, 
+        10039
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 20208, 
+    "keywords": [
+        1, 
+        221, 
+        558, 
+        970, 
+        1025, 
+        1313, 
+        2152, 
+        3831, 
+        4161, 
+        4259, 
+        4446, 
+        5436, 
+        5437, 
+        9165, 
+        9893, 
+        11739, 
+        13110
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 8, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Neo Contra", 
+    "platforms": [
+        8
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1100822400000, 
+            "human": "2004-Nov-19", 
+            "m": 11, 
+            "platform": 8, 
+            "region": 8, 
+            "y": 2004
+        }
+    ], 
+    "slug": "neo-contra", 
+    "summary": "Neo Contra is the sequel to Contra: Shattered Soldier. The game is a 3-D Shooter with lots of action and huge boss battles. Unlike Shattered Soldiers this game has a top-down perspective. The game is set in the future with Bill Razer's return. He teams up with a samurai, Genbei Jaguer Yagyu. The game takes about two hours to beat but will take you several tries to make it there.", 
+    "tags": [
+        1, 
+        268435461, 
+        536870913, 
+        536871133, 
+        536871470, 
+        536871882, 
+        536871937, 
+        536872225, 
+        536873064, 
+        536874743, 
+        536875073, 
+        536875171, 
+        536875358, 
+        536876348, 
+        536876349, 
+        536880077, 
+        536880805, 
+        536882651, 
+        536884022
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 78.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1527018967522, 
+    "url": "https://www.igdb.com/games/neo-contra"
+}

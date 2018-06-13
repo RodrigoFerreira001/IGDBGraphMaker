@@ -1,0 +1,369 @@
+{
+    "aggregated_rating": 93.75, 
+    "aggregated_rating_count": 21, 
+    "alternative_names": [
+        {
+            "comment": "Acronym", 
+            "name": "MHW"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "lyczmwkawvhi7xvolzlv", 
+            "height": 4320, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lyczmwkawvhi7xvolzlv.jpg", 
+            "width": 7680
+        }, 
+        {
+            "cloudinary_id": "fmq11zgoygclmjogegfh", 
+            "height": 3776, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fmq11zgoygclmjogegfh.jpg", 
+            "width": 6712
+        }, 
+        {
+            "cloudinary_id": "qthzj4fqhky8gk8ajlcb", 
+            "height": 3996, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qthzj4fqhky8gk8ajlcb.jpg", 
+            "width": 5982
+        }, 
+        {
+            "cloudinary_id": "u3y9wqhlh2ufby0sb6yt", 
+            "height": 8640, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u3y9wqhlh2ufby0sb6yt.jpg", 
+            "width": 15360
+        }
+    ], 
+    "category": 0, 
+    "collection": 2948, 
+    "cover": {
+        "cloudinary_id": "fxgwm1nnyexhvauqv0ds", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fxgwm1nnyexhvauqv0ds.jpg", 
+        "width": 394
+    }, 
+    "created_at": 1497092153829, 
+    "developers": [
+        37
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is a role-playing game in which players assume the role of hunters as they explore and hunt for monsters in the New World. As players traverse various environments, they engage in quests and use swords, lances, and bow guns to hunt and kill their quarry (e.g., dragons, dinosaurs, winged beasts). Battles are frenetic and accompanied by sword slashes, impact sounds, and large explosions. Some areas depict mass monster graves containing large pools of blood and blood-stained bones. In one of the game's environments, players' character may sit down at a table and drink mugs of beer; if players continue to consume alcohol, a drunk animation will appear (e.g., character collapsing on the table; character stumbling around and falling down). The words \u201cp*ssed off\u201d appear in the dialogue."
+    }, 
+    "first_release_date": 1516924800000, 
+    "franchise": 824, 
+    "franchises": [
+        824
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        27092, 
+        36950, 
+        36534, 
+        28168, 
+        55092, 
+        28552, 
+        19565, 
+        78149, 
+        27081, 
+        54842
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "hypes": 90, 
+    "id": 36926, 
+    "keywords": [
+        174, 
+        296, 
+        1026, 
+        4154, 
+        4224, 
+        4357, 
+        12087, 
+        12157, 
+        12556, 
+        16828, 
+        16894
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 16, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Monster Hunter: World", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence"
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 368.0, 
+    "publishers": [
+        37
+    ], 
+    "pulse_count": 1110, 
+    "rating": 87.3875856297377, 
+    "rating_count": 41, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1516924800000, 
+            "human": "2018-Jan-26", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1516924800000, 
+            "human": "2018-Jan-26", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 5, 
+            "date": 1538265600000, 
+            "human": "2018-Q3", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1516924800000, 
+            "human": "2018-Jan-26", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "nbpwnalhykwi8gsobelc", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nbpwnalhykwi8gsobelc.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "tnqlf5fyzrl2u4oyyh4c", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tnqlf5fyzrl2u4oyyh4c.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "isj1odo1k1vvl1x8k8vk", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/isj1odo1k1vvl1x8k8vk.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "jvsvgobhd4dbjlh7kn2q", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jvsvgobhd4dbjlh7kn2q.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "c109q1sm0rrx95ucmjse", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c109q1sm0rrx95ucmjse.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "poxzku6fghfj04nxynqe", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/poxzku6fghfj04nxynqe.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "v6lalq0gwbycborb9ic4", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v6lalq0gwbycborb9ic4.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "ghcjheumz1norh0rwaxk", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ghcjheumz1norh0rwaxk.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "ojdwmo8mhipudkalaxlo", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ojdwmo8mhipudkalaxlo.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "oydgjnzydmdfwd3vtmp9", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oydgjnzydmdfwd3vtmp9.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "nqmwzj4azjunajjlniy8", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nqmwzj4azjunajjlniy8.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "c9rskkieuhapebstfxys", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c9rskkieuhapebstfxys.jpg", 
+            "width": 3840
+        }
+    ], 
+    "slug": "monster-hunter-world", 
+    "summary": "Monster Hunter: World sees players take on the role of a hunter that completes various quests to hunt and slay monsters within a lively living and breathing eco-system full of predators\u2026. and prey. In the video you can see some of the creatures you can expect to come across within the New World, the newly discovered continent where Monster Hunter: World is set, including the Great Jagras which has the ability to swallow its prey whole and one of the Monster Hunter series favourites, Rathalos. \n \nPlayers are able to utilise survival tools such as the slinger and Scoutfly to aid them in their hunt. By using these skills to their advantage hunters can lure monsters into traps and even pit them against each other in an epic fierce battle. Can our hunter successfully survive the fight and slay the Anjanath? He\u2019ll need to select his weapon choice carefully from 14 different weapon classes and think strategically about how to take the giant foe down. Don\u2019t forget to pack the camouflaging ghillie suit!", 
+    "tags": [
+        1, 
+        268435468, 
+        268435487, 
+        536871086, 
+        536871208, 
+        536871938, 
+        536875066, 
+        536875136, 
+        536875269, 
+        536882999, 
+        536883069, 
+        536883468, 
+        536887740, 
+        536887806, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 90.56879281486886, 
+    "total_rating_count": 62, 
+    "updated_at": 1528894366083, 
+    "url": "https://www.igdb.com/games/monster-hunter-world", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "wq4V4Q8v_pI"
+        }, 
+        {
+            "name": "Third Fleet Trailer", 
+            "video_id": "wGsEpqkCByc"
+        }, 
+        {
+            "name": "Beta Introduction Trailer", 
+            "video_id": "rXzWtKYly70"
+        }, 
+        {
+            "name": "PGW17 Trailer", 
+            "video_id": "TjKQ3fbB27Y"
+        }, 
+        {
+            "name": "TGS2017 Trailer", 
+            "video_id": "hgYnTw7nGUA"
+        }, 
+        {
+            "name": "Wildspire Waste Trailer", 
+            "video_id": "l3vJdlxb7UM"
+        }, 
+        {
+            "name": "Hunting 101 Trailer", 
+            "video_id": "UZSzEaMhX9s"
+        }, 
+        {
+            "name": "Tech Weapons Trailer", 
+            "video_id": "ry0O737wZNw"
+        }, 
+        {
+            "name": "Light Weapons Trailer", 
+            "video_id": "gVlmUojZOd8"
+        }, 
+        {
+            "name": "Heavy Weapons Trailer", 
+            "video_id": "L5p8YVT8G6g"
+        }, 
+        {
+            "name": "Multiplay Gameplay Trailer", 
+            "video_id": "8nHsMVMRkB0"
+        }, 
+        {
+            "name": "E3 2017 Trailer", 
+            "video_id": "6WmIpyBkRBU"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "DjZ-asj8GzQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 14, 
+            "url": "https://www.reddit.com/r/MonsterHunterWorld"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://monsterhunter.wikia.com/wiki/Monster_Hunter:_World"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/monsterhunter"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/monsterhuntergame"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/monsterhunter"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/monsterhunter"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Monster_Hunter:_World"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.monsterhunterworld.com/"
+        }
+    ]
+}

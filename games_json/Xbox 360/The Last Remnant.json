@@ -1,0 +1,329 @@
+{
+    "aggregated_rating": 56.5, 
+    "aggregated_rating_count": 4, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "TLR"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30e9\u30b9\u30c8\u30ec\u30e0\u30ca\u30f3\u30c8"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mjccaprw0mjbdhzdnctl", 
+        "height": 315, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mjccaprw0mjbdhzdnctl.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1401292283992, 
+    "developers": [
+        26
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "This is a role-playing game (RPG) set in a fantasy world in which players explore dungeons and towns, engage in various 'side-quests,' and battle humans and monsters in turn-based combat. During each battle, characters can use magic, swords, and primitive explosives to defeat enemies. Characters emit splashes of red blood that hang in the air, then disappear. Sometimes blood can be seen staining battlefields and dungeon grounds. Players can sometimes enter conversations with characters who engage in sexual innuendo (e.g., '\u2026creating a firmer and\u2026deeper connection' and 'You've got a pair'). Profanity such as 'sh*t' and 'd*ck' is also present in dialogue."
+    }, 
+    "external": {
+        "steam": "23310"
+    }, 
+    "first_release_date": 1227139200000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        26841, 
+        11214, 
+        1942, 
+        26769, 
+        12632, 
+        36534, 
+        2918, 
+        26766, 
+        7202, 
+        14394
+    ], 
+    "genres": [
+        12, 
+        15
+    ], 
+    "id": 7047, 
+    "keywords": [
+        151, 
+        226, 
+        227, 
+        296, 
+        415, 
+        478, 
+        521, 
+        1026, 
+        1107, 
+        1158, 
+        1209, 
+        1240, 
+        1293, 
+        1302, 
+        2154, 
+        2337, 
+        3782, 
+        3794, 
+        4135, 
+        4248, 
+        4345, 
+        4419, 
+        4468, 
+        4525, 
+        4681, 
+        4711, 
+        4756, 
+        4869, 
+        4973, 
+        4975, 
+        5320, 
+        5374, 
+        5795, 
+        5855, 
+        5914, 
+        5935, 
+        6014, 
+        6120, 
+        6304, 
+        6526, 
+        6542, 
+        6747, 
+        7045, 
+        7093, 
+        7357, 
+        9635, 
+        9900, 
+        11278, 
+        11776, 
+        12123, 
+        12958, 
+        13076, 
+        13083, 
+        13094, 
+        13574, 
+        14573
+    ], 
+    "name": "The Last Remnant", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence."
+    }, 
+    "platforms": [
+        6, 
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        26
+    ], 
+    "rating": 79.87830985174651, 
+    "rating_count": 5, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1237507200000, 
+            "human": "2009-Mar-20", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1237852800000, 
+            "human": "2009-Mar-24", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1239235200000, 
+            "human": "2009-Apr-09", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1227139200000, 
+            "human": "2008-Nov-20", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1238025600000, 
+            "human": "2009-Mar-26", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1227139200000, 
+            "human": "2008-Nov-20", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1227139200000, 
+            "human": "2008-Nov-20", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1227225600000, 
+            "human": "2008-Nov-21", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1227744000000, 
+            "human": "2008-Nov-27", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 7, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xtbifsarbdbqx5ofo6x0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xtbifsarbdbqx5ofo6x0.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kxvhtmecojina5iacouf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kxvhtmecojina5iacouf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wywiyxplodxbbqjt32lw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wywiyxplodxbbqjt32lw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qogjdrtyt8s30v5gvxlk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qogjdrtyt8s30v5gvxlk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cctik4boyqfyusy4qrnk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cctik4boyqfyusy4qrnk.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "the-last-remnant", 
+    "summary": "Mitra, yama, qsiti, sovani...\n                    These four races exist in one world.\n                    A world filled with Remnants \u2014 mysterious artifacts from an ancient era.                     \n\t\t\t\t\tWho created the Remnant? How long ago? And for what purpose?\n                    With these questions left unanswered, the Remnants became beneficial tools used for the good of civilization.\n                     The world was at peace...or so it seemed. Who was to know such darkness lay in wait?                     \n\t\t\t\t\tThe powers of the Remnants slowly began to change the world's balance.\n                    A rift slowly formed between those who ruled and those who obeyed.\n                    This was the dawning of a new era \u2014 an era of countless frays that would be brought upon the world by those enslaved by their own lust for power.                    \n\t\t\t\t\tA thousand years later, the journey of one young man begins.                    \n\t\t\t\t\tFeaturing an enthralling story, countless characters and an intricate battle system, Square Enix brings the RPG experience known as The Last Remnant to the PC. \n                    Discover new strategies in the improved battle system.                    \n\t\t\t\t\tBlast through your battles with Turbo Mode \n                    Battles can be played out with twice the speed for faster game progression                    \n\t\t\t\t\tNo more leader units  \n                    Enjoy more freedom when creating unions!                    \n\t\t\t\t\tA new equipment preview feature \n                    Use the preview feature to purchase items depending on stats or aesthetics                     \n\t\t\t\t\tChoose between English or Japanese voice acting\n                    The voices can be switched between Japanese and English", 
+    "tags": [
+        17, 
+        22, 
+        268435468, 
+        268435471, 
+        536871063, 
+        536871138, 
+        536871139, 
+        536871208, 
+        536871327, 
+        536871390, 
+        536871433, 
+        536871938, 
+        536872019, 
+        536872070, 
+        536872121, 
+        536872152, 
+        536872205, 
+        536872214, 
+        536873066, 
+        536873249, 
+        536874694, 
+        536874706, 
+        536875047, 
+        536875160, 
+        536875257, 
+        536875331, 
+        536875380, 
+        536875437, 
+        536875593, 
+        536875623, 
+        536875668, 
+        536875781, 
+        536875885, 
+        536875887, 
+        536876232, 
+        536876286, 
+        536876707, 
+        536876767, 
+        536876826, 
+        536876847, 
+        536876926, 
+        536877032, 
+        536877216, 
+        536877438, 
+        536877454, 
+        536877659, 
+        536877957, 
+        536878005, 
+        536878269, 
+        536880547, 
+        536880812, 
+        536882190, 
+        536882688, 
+        536883035, 
+        536883870, 
+        536883988, 
+        536883995, 
+        536884006, 
+        536884486, 
+        536885485, 
+        1073741826
+    ], 
+    "themes": [
+        17, 
+        22
+    ], 
+    "time_to_beat": {
+        "normally": 349200
+    }, 
+    "total_rating": 68.18915492587325, 
+    "total_rating_count": 9, 
+    "updated_at": 1524224705747, 
+    "url": "https://www.igdb.com/games/the-last-remnant", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "JwNaFByOf54"
+        }
+    ]
+}

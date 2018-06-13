@@ -1,0 +1,77 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 5, 
+    "category": 2, 
+    "cover": {
+        "cloudinary_id": "xpzl8l1jg6ecmmv7pd54", 
+        "height": 4000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xpzl8l1jg6ecmmv7pd54.jpg", 
+        "width": 3218
+    }, 
+    "created_at": 1465837198685, 
+    "first_release_date": 1467072000000, 
+    "game": 2114, 
+    "hypes": 1, 
+    "id": 19540, 
+    "name": "Tom Clancy's The Division: Underground", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        104
+    ], 
+    "pulse_count": 18, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 6, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 49, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 48, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gc9gpulabkhry6rrarfs", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gc9gpulabkhry6rrarfs.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "tom-clancys-the-division-underground", 
+    "summary": "In the first DLC expansion, Underground, you dive into the underbelly of New York with up to three friends to save what remains. Explore the randomly generated mazes of subways, tunnels, and sewers to fight deadly enemies and recover powerful loot. Experience an all-new incursion and find the latest weapons, gear and more.", 
+    "total_rating": 60.0, 
+    "total_rating_count": 5, 
+    "updated_at": 1484907785894, 
+    "url": "https://www.igdb.com/games/tom-clancys-the-division-underground", 
+    "videos": [
+        {
+            "name": "E3 2016 Trailer", 
+            "video_id": "0cXgg6ywz8U"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "FTI1dl5K3YY"
+        }
+    ]
+}

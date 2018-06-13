@@ -1,0 +1,120 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 2249, 
+    "cover": {
+        "cloudinary_id": "sopgqwodnez789snyfjm", 
+        "height": 1417, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sopgqwodnez789snyfjm.jpg", 
+        "width": 3543
+    }, 
+    "created_at": 1468408763008, 
+    "external": {
+        "steam": "562810"
+    }, 
+    "first_release_date": 1416873600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "id": 20313, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 6, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 6, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Monopoly Plus", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 2.666666666666667, 
+    "rating": 70.0, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1416873600000, 
+            "human": "2014-Nov-25", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1504742400000, 
+            "human": "2017-Sep-07", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "k2ebunt26v7qja8vk8wl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k2ebunt26v7qja8vk8wl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "m7esjxtwpa8sr5xtjhwd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m7esjxtwpa8sr5xtjhwd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "i1mxzb7khembixi3vpop", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i1mxzb7khembixi3vpop.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vmknj1craaydlu0yimoi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vmknj1craaydlu0yimoi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qnaj3qiulgrzgto5shpb", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qnaj3qiulgrzgto5shpb.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "monopoly-plus", 
+    "summary": "EMBARK ON A JOURNEY TO OWN IT ALL! \nBuild your empire on a colorful and 3D lively city animated by funny sidekicks! MONOPOLY\u00ae PLUS brings the classic franchise to a new level on PC with amazing animations, customizable house rules!", 
+    "total_rating": 65.0, 
+    "total_rating_count": 4, 
+    "updated_at": 1527937420980, 
+    "url": "https://www.igdb.com/games/monopoly-plus", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "nh-wOBN-TgE"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.ubisoft.com/en-US/game/monopoly-plus/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/562810"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "aggregated_rating": 72.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "l6bzmipw8eh6egbsrkno", 
+        "height": 1482, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/l6bzmipw8eh6egbsrkno.jpg", 
+        "width": 1278
+    }, 
+    "created_at": 1401301416284, 
+    "developers": [
+        1267
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1352160000000, 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        51485, 
+        10039, 
+        25646, 
+        6732, 
+        37094, 
+        19289, 
+        55752, 
+        26848, 
+        27266, 
+        11423
+    ], 
+    "genres": [
+        4, 
+        8, 
+        9, 
+        10, 
+        31, 
+        33
+    ], 
+    "id": 7070, 
+    "keywords": [
+        960, 
+        1293, 
+        2152, 
+        4181, 
+        4245, 
+        4958, 
+        5425, 
+        5523, 
+        5633, 
+        5783, 
+        5791, 
+        5850
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Midway Arcade Origins", 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1633
+    ], 
+    "rating": 75.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1352160000000, 
+            "human": "2012-Nov-06", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1352160000000, 
+            "human": "2012-Nov-06", 
+            "m": 11, 
+            "platform": 12, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1352160000000, 
+            "human": "2012-Nov-06", 
+            "m": 11, 
+            "platform": 9, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "yxplukgpgwcbfteqyimn", 
+            "height": 284, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yxplukgpgwcbfteqyimn.jpg", 
+            "width": 505
+        }
+    ], 
+    "slug": "midway-arcade-origins", 
+    "summary": "Midway Arcade Origins is an arcade compilation released on November 6, 2012 in North America and in Australia. It is the successor to the Midway Arcade Treasures series, and includes a selection of games that were included in those compilations, with the sole exception of Vindicators Part II which was not included before.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435464, 
+        268435465, 
+        268435466, 
+        268435487, 
+        268435489, 
+        536871872, 
+        536872205, 
+        536873064, 
+        536875093, 
+        536875157, 
+        536875870, 
+        536876337, 
+        536876435, 
+        536876545, 
+        536876695, 
+        536876703, 
+        536876762
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 73.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1516759863334, 
+    "url": "https://www.igdb.com/games/midway-arcade-origins"
+}

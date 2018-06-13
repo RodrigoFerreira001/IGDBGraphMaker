@@ -1,0 +1,163 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "pj4lxbvb1sxgjyrsz29q", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pj4lxbvb1sxgjyrsz29q.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1507195369122, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "588080"
+    }, 
+    "first_release_date": 1508889600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        11362, 
+        9760, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        2015, 
+        32283, 
+        75065, 
+        75813
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 73075, 
+    "keywords": [
+        4148
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Numantia", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "popularity": 24.0, 
+    "pulse_count": 2, 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1509408000000, 
+            "human": "2017-Oct-31", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1508889600000, 
+            "human": "2017-Oct-25", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1508889600000, 
+            "human": "2017-Oct-25", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1508889600000, 
+            "human": "2017-Oct-25", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bhbrfq9ghhidvzevlprj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bhbrfq9ghhidvzevlprj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xczsqxtyz8io7adp80uf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xczsqxtyz8io7adp80uf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "f122lgzsaqqb9qfh8era", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f122lgzsaqqb9qfh8era.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "clkogjv3hgo3voscgyob", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/clkogjv3hgo3voscgyob.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "autlimoznz9aohhhkqx4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/autlimoznz9aohhhkqx4.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "numantia", 
+    "summary": "Units, heroes and battles inspired in real events. \nDeep narrative linked to the historical evolution of the conflict. \nTwo different campaigns with their own heroes, troops, settlements and armies. \nPlay solo or with a friend in a local 1v1 mode.", 
+    "tags": [
+        268435471, 
+        536875060
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523358247207, 
+    "url": "https://www.igdb.com/games/numantia", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "TelU7FLKj5Y"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.recotech.es"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/588080"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "fhzr7plud6r23jeqldcs", 
+        "height": 436, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fhzr7plud6r23jeqldcs.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1495544343243, 
+    "developers": [
+        7903
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "-"
+    }, 
+    "external": {
+        "steam": "561360"
+    }, 
+    "first_release_date": 1481760000000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        68287, 
+        28029, 
+        36950, 
+        64204, 
+        71455, 
+        27314, 
+        76722, 
+        25300, 
+        76246, 
+        142
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 30365, 
+    "keywords": [
+        970
+    ], 
+    "name": "VR Invaders", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Non realistic looking violence towards fantasy characters"
+    }, 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        7903
+    ], 
+    "rating": 70.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1492473600000, 
+            "human": "2017-Apr-18", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1481760000000, 
+            "human": "2016-Dec-15", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zv9fpukprekk0aw2pj7c", 
+            "height": 1067, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zv9fpukprekk0aw2pj7c.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jrsidi9o5reo4tyd694z", 
+            "height": 1067, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jrsidi9o5reo4tyd694z.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ixoelbugt6sgpd0xm2fu", 
+            "height": 1067, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ixoelbugt6sgpd0xm2fu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nfjzyfb10pwfeazwjtb3", 
+            "height": 1067, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nfjzyfb10pwfeazwjtb3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "saxylvq02ciaotsrjwu1", 
+            "height": 1067, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/saxylvq02ciaotsrjwu1.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "vr-invaders", 
+    "summary": "Dive into a virtual sci-fi world as the freelance hacker Thomas Hall to save a cyber artist that got stuck in virtual reality. Fight legions of enemy drones with your multi-functional loadout. Slow time, transform your weapon and blast through your enemies in this immersive VR shooter.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        536871882, 
+        1073741831
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1523366885573, 
+    "url": "https://www.igdb.com/games/vr-invaders", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "eTb9t8OidFY"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://vri.my.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/561360"
+        }
+    ]
+}

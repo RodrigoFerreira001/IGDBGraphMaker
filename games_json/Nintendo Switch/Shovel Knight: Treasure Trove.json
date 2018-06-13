@@ -1,0 +1,302 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 3153, 
+    "cover": {
+        "cloudinary_id": "beo6djh2ks4ybjrszyyl", 
+        "height": 835, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/beo6djh2ks4ybjrszyyl.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1484853147718, 
+    "developers": [
+        3087
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "250760"
+    }, 
+    "first_release_date": 1430265600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        16468, 
+        47823, 
+        51485, 
+        55289, 
+        29032, 
+        37022, 
+        19289, 
+        25646, 
+        10039, 
+        25311
+    ], 
+    "genres": [
+        8, 
+        31, 
+        32
+    ], 
+    "hypes": 1, 
+    "id": 26848, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Shovel Knight: Treasure Trove", 
+    "platforms": [
+        6, 
+        14, 
+        41, 
+        46, 
+        9, 
+        48, 
+        49, 
+        3, 
+        37, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 32.0, 
+    "publishers": [
+        70, 
+        3087
+    ], 
+    "pulse_count": 13, 
+    "rating": 89.4252429329689, 
+    "rating_count": 18, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1430265600000, 
+            "human": "2015-Apr-29", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 4, 
+            "date": 1498780800000, 
+            "human": "2017-Q2", 
+            "m": 6, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 4, 
+            "date": 1498780800000, 
+            "human": "2017-Q2", 
+            "m": 6, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 4, 
+            "date": 1498780800000, 
+            "human": "2017-Q2", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 4, 
+            "date": 1498780800000, 
+            "human": "2017-Q2", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 4, 
+            "date": 1498780800000, 
+            "human": "2017-Q2", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 4, 
+            "date": 1498780800000, 
+            "human": "2017-Q2", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 4, 
+            "date": 1498780800000, 
+            "human": "2017-Q2", 
+            "m": 6, 
+            "platform": 46, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 4, 
+            "date": 1498780800000, 
+            "human": "2017-Q2", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 4, 
+            "date": 1498780800000, 
+            "human": "2017-Q2", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1488499200000, 
+            "human": "2017-Mar-03", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qdzaxni5fc7mga18vnoh", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qdzaxni5fc7mga18vnoh.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "on0wlblpuohekximrn30", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/on0wlblpuohekximrn30.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "d9a0m4ffssmwfz5vxwp1", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d9a0m4ffssmwfz5vxwp1.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "uhhhesbupikupn9tho4n", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uhhhesbupikupn9tho4n.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "vr1c3nlnlwaj5srdpxzz", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vr1c3nlnlwaj5srdpxzz.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "x5kezacmiqv66bdyemm1", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x5kezacmiqv66bdyemm1.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "oajza3wigx4qzkpcg0jm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oajza3wigx4qzkpcg0jm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qqsztyc17edusjlettyj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qqsztyc17edusjlettyj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "y5eh4nhm1cupespqbg6t", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y5eh4nhm1cupespqbg6t.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ve37el2bqqsbmpc19g0o", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ve37el2bqqsbmpc19g0o.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pghwc6t0omeetrzrtb5j", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pghwc6t0omeetrzrtb5j.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "shovel-knight-treasure-trove", 
+    "summary": "Shovel Knight: Treasure Trove is the new name for the base Shovel Knight game. It will get all future updates and content for free just like before. \nIt will launch first on the Switch, during the systems launch window, and on all other platforms in April 2017. All owners of the previous version, across all platforms, will be upgraded to the new version of the game for free.", 
+    "tags": [
+        1, 
+        17, 
+        27, 
+        268435464, 
+        268435487, 
+        268435488, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17, 
+        27
+    ], 
+    "total_rating": 89.71262146648445, 
+    "total_rating_count": 19, 
+    "updated_at": 1528357773754, 
+    "url": "https://www.igdb.com/games/shovel-knight-treasure-trove", 
+    "version_parent": 7444, 
+    "version_title": "Treasure Trove", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://shovelknight.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/250760"
+        }
+    ]
+}

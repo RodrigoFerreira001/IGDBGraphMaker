@@ -1,0 +1,88 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "fvyyh7wthys88qy04vyb", 
+        "height": 600, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvyyh7wthys88qy04vyb.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1517343225125, 
+    "first_release_date": 1471478400000, 
+    "id": 84866, 
+    "name": "Adventure Party: Cats and Caverns", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1471478400000, 
+            "human": "2016-Aug-18", 
+            "m": 8, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vgb7sa2x2i3vfycatfrh", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vgb7sa2x2i3vfycatfrh.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "pf7hfzr5fqjzx9gz6yro", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pf7hfzr5fqjzx9gz6yro.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "lqkkwxzmac03bnzyw7xw", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lqkkwxzmac03bnzyw7xw.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "n7eg4yq1re1giig9effr", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n7eg4yq1re1giig9effr.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "cqyznchbz4tn1i7si5te", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cqyznchbz4tn1i7si5te.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "pmrmn02bg1ck9shsob61", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pmrmn02bg1ck9shsob61.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nhfcebgv28pjdwcesoe7", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nhfcebgv28pjdwcesoe7.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "fcfb4wghtpc6mflzqavk", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fcfb4wghtpc6mflzqavk.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "adventure-party-cats-and-caverns", 
+    "summary": "Like a tabletop RPG without the table. Every party should be an adventure!", 
+    "updated_at": 1518045564984, 
+    "url": "https://www.igdb.com/games/adventure-party-cats-and-caverns", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.e-regular-games.com"
+        }
+    ]
+}

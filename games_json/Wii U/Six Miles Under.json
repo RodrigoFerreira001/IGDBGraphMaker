@@ -1,0 +1,41 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "gtpgqejgpeibqsd3kcqu", 
+        "height": 513, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gtpgqejgpeibqsd3kcqu.jpg", 
+        "width": 512
+    }, 
+    "created_at": 1517403082940, 
+    "first_release_date": 1483142400000, 
+    "id": 85378, 
+    "name": "Six Miles Under", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "slug": "six-miles-under", 
+    "summary": "A 2D brawler set in a post-apocalyptic underground city.", 
+    "updated_at": 1518008920470, 
+    "url": "https://www.igdb.com/games/six-miles-under"
+}

@@ -1,0 +1,287 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "German title", 
+            "name": "Die Chroniken von Narnia: Prinz Kaspian von Narnia"
+        }, 
+        {
+            "name": "Die Chroniken von Narnia: Prinz Kaspian von Narnia (German title)"
+        }
+    ], 
+    "category": 0, 
+    "collection": 4979, 
+    "cover": {
+        "cloudinary_id": "jt8ocokfjr9bzp6wazac", 
+        "height": 320, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jt8ocokfjr9bzp6wazac.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1391262478571, 
+    "developers": [
+        292
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1210809600000, 
+    "franchise": 188, 
+    "franchises": [
+        188
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        3857, 
+        7610, 
+        11567, 
+        47823, 
+        117, 
+        1942, 
+        3025, 
+        11214, 
+        7202, 
+        4756
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 4763, 
+    "keywords": [
+        35, 
+        227, 
+        296, 
+        953, 
+        1027, 
+        1102, 
+        1180, 
+        1293, 
+        1716, 
+        2066, 
+        2154, 
+        2184, 
+        2242, 
+        2472, 
+        2488, 
+        2574, 
+        3918, 
+        4142, 
+        4166, 
+        4191, 
+        4210, 
+        4245, 
+        4345, 
+        4353, 
+        4359, 
+        4368, 
+        4382, 
+        4392, 
+        4394, 
+        4486, 
+        4530, 
+        4659, 
+        4684, 
+        4759, 
+        4843, 
+        5017, 
+        5107, 
+        5308, 
+        5686, 
+        5782, 
+        5783, 
+        6077, 
+        6494, 
+        6725, 
+        7328, 
+        7533, 
+        8194, 
+        9292, 
+        11217, 
+        11804, 
+        12754, 
+        12968
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "The Chronicles of Narnia: Prince Caspian", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\nIt contains: Non realistic looking violence towards human characters"
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        12, 
+        20, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        426, 
+        2129
+    ], 
+    "rating": 60.054930162037, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1210809600000, 
+            "human": "2008-May-15", 
+            "m": 5, 
+            "platform": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1210809600000, 
+            "human": "2008-May-15", 
+            "m": 5, 
+            "platform": 12, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1210809600000, 
+            "human": "2008-May-15", 
+            "m": 5, 
+            "platform": 8, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1210809600000, 
+            "human": "2008-May-15", 
+            "m": 5, 
+            "platform": 9, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1210809600000, 
+            "human": "2008-May-15", 
+            "m": 5, 
+            "platform": 20, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1210809600000, 
+            "human": "2008-May-15", 
+            "m": 5, 
+            "platform": 6, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "fp1sw17q4vmd2cm7lzw2", 
+            "height": 180, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fp1sw17q4vmd2cm7lzw2.jpg", 
+            "width": 300
+        }
+    ], 
+    "slug": "the-chronicles-of-narnia-prince-caspian", 
+    "summary": "The Chronicles of Narnia: Prince Caspian is an action-adventure fantasy video game developed by Traveller's Tales to coincide with the theatrical release of the film of the same name. The game was announced at E3 2007. It was released for the Nintendo DS, Xbox 360, PlayStation 2, Wii, Microsoft Windows and PlayStation 3 on 15 May 2008 in North America to mixed reception. The DS version was also the first game to implement Disney's DGamer online chat service.[1] \n \nA significant feature has William Moseley, Skandar Keynes, Anna Popplewell, Georgie Henley, Ben Barnes, Vincent Grass, Peter Dinklage, and Cornell S. John reprising their roles from the film. \n \nIt was the last non-Lego video game released by Traveller's Tales.", 
+    "tags": [
+        1, 
+        17, 
+        268435487, 
+        536870947, 
+        536871139, 
+        536871208, 
+        536871865, 
+        536871939, 
+        536872014, 
+        536872092, 
+        536872205, 
+        536872628, 
+        536872978, 
+        536873066, 
+        536873096, 
+        536873154, 
+        536873384, 
+        536873400, 
+        536873486, 
+        536874830, 
+        536875054, 
+        536875078, 
+        536875103, 
+        536875122, 
+        536875157, 
+        536875257, 
+        536875265, 
+        536875271, 
+        536875280, 
+        536875294, 
+        536875304, 
+        536875306, 
+        536875398, 
+        536875442, 
+        536875571, 
+        536875596, 
+        536875671, 
+        536875755, 
+        536875929, 
+        536876019, 
+        536876220, 
+        536876598, 
+        536876694, 
+        536876695, 
+        536876989, 
+        536877406, 
+        536877637, 
+        536878240, 
+        536878445, 
+        536879106, 
+        536880204, 
+        536882129, 
+        536882716, 
+        536883666, 
+        536883880, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 55.02746508101851, 
+    "total_rating_count": 6, 
+    "updated_at": 1520002694872, 
+    "url": "https://www.igdb.com/games/the-chronicles-of-narnia-prince-caspian"
+}

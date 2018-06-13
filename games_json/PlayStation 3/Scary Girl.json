@@ -1,0 +1,146 @@
+{
+    "aggregated_rating": 66.25, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ho06hcbv9tdkmhdjye3f", 
+        "height": 360, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ho06hcbv9tdkmhdjye3f.jpg", 
+        "width": 480
+    }, 
+    "created_at": 1452846752133, 
+    "developers": [
+        26
+    ], 
+    "external": {
+        "steam": "202370"
+    }, 
+    "first_release_date": 1327363200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        1070, 
+        1073, 
+        10039, 
+        1188, 
+        36608, 
+        74863, 
+        51485, 
+        26848, 
+        34919, 
+        27239
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 16284, 
+    "keywords": [
+        962
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Scary Girl", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        6, 
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        8023
+    ], 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1327363200000, 
+            "human": "2012-Jan-24", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1330560000000, 
+            "human": "2012-Mar-01", 
+            "m": 3, 
+            "platform": 6, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qvihjjokbgqxhhq4ixab", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qvihjjokbgqxhhq4ixab.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "vwmy2nr8ggq1kgkai5ki", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vwmy2nr8ggq1kgkai5ki.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "pjbprjpqlkv0wn3jdd4o", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pjbprjpqlkv0wn3jdd4o.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ctnfb0ubdgy4mfrre3oz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ctnfb0ubdgy4mfrre3oz.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ndy5avmfi08nh85hirok", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ndy5avmfi08nh85hirok.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "scary-girl", 
+    "summary": "In this side-scrolling action game, you play as Scarygirl \u2013 a girl who has been adopted by a giant intelligent octopus and is trying to figure out who the man haunting her dreams is. Traverse unique, extremely vibrant, colorful, and magical worlds in a seamless mix of 2D and 3D platforming action. You can go it alone in single-player mode or grab a friend and team up in co-op gameplay and fight alongside Bunniguru \u2013 the giant kung-fu rabbit. And as you advance, you\u2019ll be able to purchase new weapons and new moves, and discover countless secrets along the way. It\u2019s a mesmerizing fairytale, but the creepy-cute tough-as-nails Scarygirl is no damsel in distress.", 
+    "tags": [
+        1, 
+        268435464, 
+        536871874
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 58.125, 
+    "total_rating_count": 4, 
+    "updated_at": 1523273812314, 
+    "url": "https://www.igdb.com/games/scary-girl", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.scarygirlgame.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/202370"
+        }
+    ]
+}

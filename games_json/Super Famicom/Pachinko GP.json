@@ -1,0 +1,66 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Pachinko Grand Prix"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "u6ap6hfmrvsg5jlyoex4", 
+        "height": 640, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/u6ap6hfmrvsg5jlyoex4.jpg", 
+        "width": 566
+    }, 
+    "created_at": 1498816400264, 
+    "first_release_date": 598406400000, 
+    "games": [
+        48776, 
+        46663, 
+        42646, 
+        42255, 
+        42253, 
+        42235, 
+        38003, 
+        38001, 
+        37997, 
+        37996
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 41395, 
+    "keywords": [
+        729, 
+        798, 
+        1744, 
+        2803
+    ], 
+    "name": "Pachinko GP", 
+    "platforms": [
+        58
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 598406400000, 
+            "human": "1988-Dec-18", 
+            "m": 12, 
+            "platform": 58, 
+            "region": 8, 
+            "y": 1988
+        }
+    ], 
+    "slug": "pachinko-gp", 
+    "summary": "A pachinko simulator for the Famicom Disk System. It was published by Data East in Japan only. \n \nPachinko GP (or Pachinko Grand Prix) is a Pachinko simulator from Data East for the Famicom Disk System. The goal is to play Pachinko in various machines found in Pachinko parlors across Japan, attempting to reach a Pachinko ball target (the total grows each time the player successfully fires a ball into a point-scoring zone) before a time limit expires before they move onto the next machine.", 
+    "tags": [
+        268435470, 
+        536871641, 
+        536871710, 
+        536872656, 
+        536873715
+    ], 
+    "updated_at": 1516754719234, 
+    "url": "https://www.igdb.com/games/pachinko-gp"
+}

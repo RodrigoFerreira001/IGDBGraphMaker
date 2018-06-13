@@ -1,0 +1,101 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "s2m7lekrdiqjqedd8g0f", 
+        "height": 601, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/s2m7lekrdiqjqedd8g0f.jpg", 
+        "width": 952
+    }, 
+    "created_at": 1504698991900, 
+    "first_release_date": 1546214400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        29173, 
+        55689, 
+        55590, 
+        44242, 
+        28465, 
+        40470, 
+        34919, 
+        33603, 
+        36962, 
+        55888
+    ], 
+    "genres": [
+        13
+    ], 
+    "id": 57838, 
+    "keywords": [
+        994, 
+        4234
+    ], 
+    "name": "Happy Manager", 
+    "platforms": [
+        48
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        5222
+    ], 
+    "pulse_count": 11, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vtdiabng8tjq2qu75mya", 
+            "height": 338, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vtdiabng8tjq2qu75mya.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "surjfxgmvckkhbmopur9", 
+            "height": 338, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/surjfxgmvckkhbmopur9.jpg", 
+            "width": 600
+        }
+    ], 
+    "slug": "happy-manager", 
+    "summary": "Happy Manager is a love adventure game with support for PlayStation VR, where players work as a manager of a mansion with three tenants.", 
+    "tags": [
+        268435469, 
+        536871906, 
+        536875146
+    ], 
+    "updated_at": 1522539804140, 
+    "url": "https://www.igdb.com/games/happy-manager", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "Lhrs3Biuv7Y"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "alWMRrvwl5Y"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/happymanager"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/happymanager_"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.d3p.co.jp/HappyManager/"
+        }
+    ]
+}

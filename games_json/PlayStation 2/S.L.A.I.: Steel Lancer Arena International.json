@@ -1,0 +1,103 @@
+{
+    "aggregated_rating": 72.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "czfvgfbghsuuz0phgvuy", 
+        "height": 905, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/czfvgfbghsuuz0phgvuy.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1471253120399, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1129852800000, 
+    "games": [
+        19934, 
+        34919, 
+        44076, 
+        44242, 
+        18623, 
+        22425, 
+        22470, 
+        29173, 
+        25311, 
+        26145
+    ], 
+    "genres": [
+        13
+    ], 
+    "id": 22515, 
+    "keywords": [
+        103, 
+        1148, 
+        1247, 
+        1333, 
+        4713, 
+        4795, 
+        5503, 
+        5507, 
+        5775, 
+        6397, 
+        9838, 
+        11699, 
+        12116, 
+        13109, 
+        13957, 
+        14940, 
+        16145
+    ], 
+    "name": "S.L.A.I.: Steel Lancer Arena International", 
+    "platforms": [
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1129852800000, 
+            "human": "2005-Oct-21", 
+            "m": 10, 
+            "platform": 8, 
+            "region": 8, 
+            "y": 2005
+        }
+    ], 
+    "slug": "s-dot-l-a-dot-i-steel-lancer-arena-international", 
+    "summary": "In the year 2071, robots have become the new gladiators, and you're in the pilot's seat. Go head-to-head against other players to see who is the champion.", 
+    "tags": [
+        1, 
+        268435469, 
+        536871015, 
+        536872060, 
+        536872159, 
+        536872245, 
+        536875625, 
+        536875707, 
+        536876415, 
+        536876419, 
+        536876687, 
+        536877309, 
+        536880750, 
+        536882611, 
+        536883028, 
+        536884021, 
+        536884869, 
+        536885852, 
+        536887057
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 72.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1512988434690, 
+    "url": "https://www.igdb.com/games/s-dot-l-a-dot-i-steel-lancer-arena-international", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/S.L.A.I.:_Steel_Lancer_Arena_International"
+        }
+    ]
+}

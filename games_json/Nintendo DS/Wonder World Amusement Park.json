@@ -1,0 +1,103 @@
+{
+    "aggregated_rating": 45.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vpddypstjbk2jmbcz1nx", 
+        "height": 354, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vpddypstjbk2jmbcz1nx.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1392069264468, 
+    "developers": [
+        700
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1215475200000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        44242, 
+        18623, 
+        22470, 
+        29173, 
+        22425, 
+        26145, 
+        55590, 
+        55689, 
+        22406, 
+        23867
+    ], 
+    "genres": [
+        13
+    ], 
+    "id": 5286, 
+    "keywords": [
+        58, 
+        274, 
+        836, 
+        837, 
+        1148, 
+        11812, 
+        13076
+    ], 
+    "name": "Wonder World Amusement Park", 
+    "platforms": [
+        20, 
+        5
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        2336
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1215475200000, 
+            "human": "2008-Jul-08", 
+            "m": 7, 
+            "platform": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1215475200000, 
+            "human": "2008-Jul-08", 
+            "m": 7, 
+            "platform": 20, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "y2qypdybsvp9syhaxfoq", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y2qypdybsvp9syhaxfoq.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "wonder-world-amusement-park", 
+    "summary": "Yet another Minigame collection for the Wii.", 
+    "tags": [
+        40, 
+        268435469, 
+        536870970, 
+        536871186, 
+        536871748, 
+        536871749, 
+        536872060, 
+        536882724, 
+        536883988
+    ], 
+    "themes": [
+        40
+    ], 
+    "total_rating": 45.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1515707518612, 
+    "url": "https://www.igdb.com/games/wonder-world-amusement-park"
+}

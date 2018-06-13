@@ -1,0 +1,127 @@
+{
+    "aggregated_rating": 71.6666666666667, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Guild01"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "hy9emmncdomdyuftmvio", 
+        "height": 409, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hy9emmncdomdyuftmvio.jpg", 
+        "width": 456
+    }, 
+    "created_at": 1469229211714, 
+    "first_release_date": 1354147200000, 
+    "games": [
+        19222, 
+        41348, 
+        10225, 
+        27266, 
+        14246, 
+        60044, 
+        236, 
+        27725, 
+        101980, 
+        101976
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 21017, 
+    "name": "Aero Porter", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        837
+    ], 
+    "rating": 71.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1354147200000, 
+            "human": "2012-Nov-29", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1354147200000, 
+            "human": "2012-Nov-29", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1355270400000, 
+            "human": "2012-Dec-12", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 8, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ic4upygt6nk9fbryzc00", 
+            "height": 412, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ic4upygt6nk9fbryzc00.jpg", 
+            "width": 343
+        }, 
+        {
+            "cloudinary_id": "unzpsivnxikcpiug9r84", 
+            "height": 412, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/unzpsivnxikcpiug9r84.jpg", 
+            "width": 343
+        }, 
+        {
+            "cloudinary_id": "idahzjawoixlcbiujp4k", 
+            "height": 412, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/idahzjawoixlcbiujp4k.jpg", 
+            "width": 322
+        }, 
+        {
+            "cloudinary_id": "rahmygstkxe5rpsmtdjm", 
+            "height": 412, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rahmygstkxe5rpsmtdjm.jpg", 
+            "width": 343
+        }, 
+        {
+            "cloudinary_id": "fnoxpstxgkcqm1kwkypu", 
+            "height": 412, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fnoxpstxgkcqm1kwkypu.jpg", 
+            "width": 343
+        }, 
+        {
+            "cloudinary_id": "vfwf7b6rtat3y6qu0hd3", 
+            "height": 346, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vfwf7b6rtat3y6qu0hd3.jpg", 
+            "width": 520
+        }
+    ], 
+    "slug": "aero-porter", 
+    "summary": "Pulled from the Guild01 compilation released at retail in Japan, three original games from LEVEL-5 and several well-known Japanese collaborators will launch in the Nintendo eShop for Nintendo 3DS.", 
+    "tags": [
+        268435465
+    ], 
+    "total_rating": 71.33333333333334, 
+    "total_rating_count": 3, 
+    "updated_at": 1521719094044, 
+    "url": "https://www.igdb.com/games/aero-porter", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://level5ia.com/blackbox/us/"
+        }
+    ]
+}

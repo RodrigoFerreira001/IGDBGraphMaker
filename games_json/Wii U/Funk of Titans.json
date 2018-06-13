@@ -1,0 +1,171 @@
+{
+    "aggregated_rating": 36.25, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vl5w3b2cbcvjtgi6efyh", 
+        "height": 257, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vl5w3b2cbcvjtgi6efyh.jpg", 
+        "width": 215
+    }, 
+    "created_at": 1468408560968, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "383750"
+    }, 
+    "first_release_date": 1420761600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        55752, 
+        6732, 
+        11214, 
+        7344, 
+        36926, 
+        11423, 
+        47823, 
+        28154, 
+        26855, 
+        21429
+    ], 
+    "genres": [
+        8, 
+        31
+    ], 
+    "id": 20309, 
+    "keywords": [
+        35, 
+        227, 
+        296, 
+        1158, 
+        2049, 
+        2155, 
+        4004, 
+        4134, 
+        4148, 
+        4388, 
+        4403, 
+        4552, 
+        6040, 
+        6481
+    ], 
+    "name": "Funk of Titans", 
+    "platforms": [
+        6, 
+        41, 
+        49
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        4726
+    ], 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1436400000000, 
+            "human": "2015-Jul-09", 
+            "m": 7, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1431561600000, 
+            "human": "2015-May-14", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1420761600000, 
+            "human": "2015-Jan-09", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1437696000000, 
+            "human": "2015-Jul-24", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "f06k5iyyvc0l39hzcw1a", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f06k5iyyvc0l39hzcw1a.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "h25orun9icylroeynhel", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h25orun9icylroeynhel.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lolfx8aqekkxbrruc00n", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lolfx8aqekkxbrruc00n.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "onz4f1qqchsgglbobhf1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/onz4f1qqchsgglbobhf1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "x5wn97zlf3ah1vmdnirx", 
+            "height": 578, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x5wn97zlf3ah1vmdnirx.jpg", 
+            "width": 1024
+        }
+    ], 
+    "slug": "funk-of-titans", 
+    "summary": "As Perseus, the son of Zeus and protector of the Funk. Your task is to smash the rap, pop and rock of evil Musical Titans. Only one music can survive and the Funk is the music of the gods.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435487, 
+        536870947, 
+        536871139, 
+        536871208, 
+        536872070, 
+        536872961, 
+        536873067, 
+        536874916, 
+        536875046, 
+        536875060, 
+        536875300, 
+        536875315, 
+        536875464, 
+        536876952, 
+        536877393
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 43.125, 
+    "total_rating_count": 4, 
+    "updated_at": 1522079515873, 
+    "url": "https://www.igdb.com/games/funk-of-titans", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/383750"
+        }
+    ]
+}

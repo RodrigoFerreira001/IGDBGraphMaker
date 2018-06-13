@@ -1,0 +1,65 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qsqfdmv4dhyegd0p9fkw", 
+        "height": 943, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qsqfdmv4dhyegd0p9fkw.jpg", 
+        "width": 525
+    }, 
+    "created_at": 1499071773899, 
+    "first_release_date": 812937600000, 
+    "games": [
+        68324, 
+        36608, 
+        47823, 
+        12632, 
+        34919, 
+        27209, 
+        36926, 
+        82853, 
+        42553, 
+        16468
+    ], 
+    "id": 42324, 
+    "keywords": [
+        296, 
+        4159
+    ], 
+    "name": "Supapoon", 
+    "platforms": [
+        19
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 812937600000, 
+            "human": "1995-Oct-06", 
+            "m": 10, 
+            "platform": 19, 
+            "region": 5, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 815616000000, 
+            "human": "1995-Nov-06", 
+            "m": 11, 
+            "platform": 19, 
+            "region": 8, 
+            "y": 1995
+        }
+    ], 
+    "slug": "supapoon", 
+    "summary": "A cutesy Breakout clone developed exclusively for the Japanese Super Famicom. \n \nSupapoon is a Super Famicom game released late in 1995 that presents a colorful world with an elastic blue hero reminiscent of a Dragon Quest slime. The hero's solar system has been invaded by a group of yellow balls wearing triangular shades, and he jumps into action to send them packing. \n \nSupapoon is inspired by games like Breakout and Arkanoid, but offers a few twists of its own, like being able to project the ball with additional power by using the \"paddle\"'s intrinsic elasticity, and a constant timer that ticks down faster whenever the paddle takes damage from skull drops or enemy attacks. \n \nThe goal of the game is to reflect a ball of energy around a table, ensuring that it doesn't fall off the bottom of the screen. Rather than clearing all the blocks on the screen, which is common for other games of this type, the player only has to remove the yellow balls wearing shades to clear a level. They will receive a bonus for clearing the screen, however. \n \nOccasionally, items will drop from the destroyed blocks. These include extending and shrinking the paddle, adding more balls, extra lives and power stars. By collecting power stars, the player can increase the strength that the ball leaves the paddle, causing more damage to blocks. If the player finds four stars, this charged up bounce will clear the screen. \n \nSkulls can often drop from blocks too, and collecting these will lower a green gauge at the side of the screen, which operates as a combined timer/health bar.", 
+    "tags": [
+        1, 
+        536871208, 
+        536875071
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1516625890111, 
+    "url": "https://www.igdb.com/games/supapoon"
+}

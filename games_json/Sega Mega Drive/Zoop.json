@@ -1,0 +1,182 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jesnibfpdrez8jish8r8", 
+        "height": 443, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jesnibfpdrez8jish8r8.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1468847257463, 
+    "developers": [
+        3669
+    ], 
+    "first_release_date": 791596800000, 
+    "games": [
+        19222, 
+        41348, 
+        10225, 
+        27266, 
+        14246, 
+        60044, 
+        236, 
+        27725, 
+        101980, 
+        101976
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 20615, 
+    "name": "Zoop", 
+    "platforms": [
+        29, 
+        35, 
+        6, 
+        14, 
+        62, 
+        32, 
+        7, 
+        19, 
+        33
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1045
+    ], 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 820368000000, 
+            "human": "1995", 
+            "m": 12, 
+            "platform": 14, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 2, 
+            "date": 820368000000, 
+            "human": "1995", 
+            "m": 12, 
+            "platform": 62, 
+            "region": 1, 
+            "y": 1995
+        }, 
+        {
+            "category": 2, 
+            "date": 851990400000, 
+            "human": "1996", 
+            "m": 12, 
+            "platform": 62, 
+            "region": 2, 
+            "y": 1996
+        }, 
+        {
+            "category": 2, 
+            "date": 820368000000, 
+            "human": "1995", 
+            "m": 12, 
+            "platform": 35, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 854668800000, 
+            "human": "1997-Jan-31", 
+            "m": 1, 
+            "platform": 33, 
+            "region": 5, 
+            "y": 1997
+        }, 
+        {
+            "category": 2, 
+            "date": 820368000000, 
+            "human": "1995", 
+            "m": 12, 
+            "platform": 33, 
+            "region": 1, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 815529600000, 
+            "human": "1995-Nov-05", 
+            "m": 11, 
+            "platform": 33, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 849225600000, 
+            "human": "1996-Nov-29", 
+            "m": 11, 
+            "platform": 32, 
+            "region": 5, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 812419200000, 
+            "human": "1995-Sep-30", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 848620800000, 
+            "human": "1996-Nov-22", 
+            "m": 11, 
+            "platform": 7, 
+            "region": 5, 
+            "y": 1996
+        }, 
+        {
+            "category": 2, 
+            "date": 820368000000, 
+            "human": "1995", 
+            "m": 12, 
+            "platform": 7, 
+            "region": 8, 
+            "y": 1995
+        }, 
+        {
+            "category": 2, 
+            "date": 820368000000, 
+            "human": "1995", 
+            "m": 12, 
+            "platform": 29, 
+            "region": 8, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 791596800000, 
+            "human": "1995-Feb-01", 
+            "m": 2, 
+            "platform": 19, 
+            "region": 8, 
+            "y": 1995
+        }
+    ], 
+    "slug": "zoop", 
+    "summary": "Fast-paced action-puzzle game where the player eliminates colored shapes that are approaching his alter ego, another colored shape, before they reach the top, ala Tetris. \n \nIn order to eliminate the other shapes, you must point your piece at it and 'fire'. If the shape is the same color as your piece, the shape is eliminated, as well as all of the shapes of the same color behind it, until your piece hits a piece of a different color. If the shape is of a different color, or it is hit when collecting a line of similar shapes, your piece exchanges colors with the shape.", 
+    "tags": [
+        268435465
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1515408340996, 
+    "url": "https://www.igdb.com/games/zoop", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Zoop"
+        }
+    ]
+}

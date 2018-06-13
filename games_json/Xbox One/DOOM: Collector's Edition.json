@@ -1,0 +1,92 @@
+{
+    "category": 0, 
+    "collection": 129, 
+    "cover": {
+        "cloudinary_id": "juvbqb4ivelxzezgik1l", 
+        "height": 1125, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/juvbqb4ivelxzezgik1l.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1498827512721, 
+    "first_release_date": 1463097600000, 
+    "games": [
+        68287, 
+        68142, 
+        28029, 
+        12579, 
+        76217, 
+        76229, 
+        27523, 
+        29525, 
+        26192, 
+        6036
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 41614, 
+    "name": "DOOM: Collector's Edition", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "pulse_count": 5, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1463097600000, 
+            "human": "2016-May-13", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1463097600000, 
+            "human": "2016-May-13", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1463097600000, 
+            "human": "2016-May-13", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xxebewyyjfif36krlyqj", 
+            "height": 1033, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xxebewyyjfif36krlyqj.jpg", 
+            "width": 1500
+        }
+    ], 
+    "slug": "doom-collectors-edition", 
+    "summary": "Created in conjunction with Triforce, the DOOM Collector's Edition includes an exclusive, fully-realized 12\" tall collector's statue of one of DOOM's most iconic demons: the Revenant. Made of high-quality PVC and modeled from actual in-game 3D files, the Revenant stands on an LED-lit base with internal, slow-spinning turbine from the UAC facility on Mars. The DOOM Collector's Edition also includes the highly-anticipated game, packaged in an exclusive metal case.", 
+    "tags": [
+        1, 
+        18, 
+        19, 
+        21, 
+        268435461
+    ], 
+    "themes": [
+        1, 
+        18, 
+        19, 
+        21
+    ], 
+    "updated_at": 1515493887073, 
+    "url": "https://www.igdb.com/games/doom-collectors-edition", 
+    "version_parent": 7351, 
+    "version_title": "Collector's Edition"
+}

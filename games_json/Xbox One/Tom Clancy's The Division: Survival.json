@@ -1,0 +1,74 @@
+{
+    "category": 2, 
+    "cover": {
+        "cloudinary_id": "uqb1zqja95rtobeormmx", 
+        "height": 4000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uqb1zqja95rtobeormmx.jpg", 
+        "width": 3218
+    }, 
+    "created_at": 1465850477672, 
+    "first_release_date": 1477094400000, 
+    "game": 2114, 
+    "hypes": 1, 
+    "id": 19551, 
+    "name": "Tom Clancy's The Division: Survival", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "pulse_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 48, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477094400000, 
+            "human": "2016-Oct-22", 
+            "m": 10, 
+            "platform": 49, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477094400000, 
+            "human": "2016-Oct-22", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ecptuz4q9jujremgqnhi", 
+            "height": 871, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ecptuz4q9jujremgqnhi.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "tom-clancys-the-division-survival", 
+    "summary": "In DLC Expansion II: Survival, SHD agents have run out of supplies in the middle of a harsh Manhattan winter and will have to survive as long as possible in a very hostile environment.", 
+    "updated_at": 1484907780081, 
+    "url": "https://www.igdb.com/games/tom-clancys-the-division-survival", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "IdudBmY5XX8"
+        }, 
+        {
+            "name": "E3 2016 Trailer", 
+            "video_id": "ClMgmXBXQ9A"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "6_MqW6dDgC0"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "tmtbdzkrownf8lpxumj1", 
+        "height": 267, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tmtbdzkrownf8lpxumj1.jpg", 
+        "width": 189
+    }, 
+    "created_at": 1391485553569, 
+    "developers": [
+        2189
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1246320000000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        19376, 
+        19290, 
+        19934, 
+        9760, 
+        33603, 
+        36962, 
+        55888, 
+        18918, 
+        65827, 
+        19301
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 4874, 
+    "keywords": [
+        194, 
+        380, 
+        4134, 
+        4248, 
+        5727
+    ], 
+    "name": "Fritz Chess", 
+    "platforms": [
+        39, 
+        9, 
+        20, 
+        5
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        423, 
+        2188
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1248998400000, 
+            "human": "2009-Jul-31", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 20, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 9, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 39, 
+            "y": 2009
+        }
+    ], 
+    "slug": "fritz-chess", 
+    "summary": "A chess game available from a variety of downloadable platforms.", 
+    "tags": [
+        268435471, 
+        536871106, 
+        536871292, 
+        536875046, 
+        536875160, 
+        536876639
+    ], 
+    "updated_at": 1516069347573, 
+    "url": "https://www.igdb.com/games/fritz-chess", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Fritz_Chess"
+        }
+    ]
+}

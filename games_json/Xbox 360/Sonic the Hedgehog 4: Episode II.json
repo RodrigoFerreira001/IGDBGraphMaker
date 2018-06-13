@@ -1,0 +1,301 @@
+{
+    "aggregated_rating": 53.0, 
+    "aggregated_rating_count": 4, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Sonic the Hedgehog 4: Episode 2"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2156, 
+    "cover": {
+        "cloudinary_id": "r9mp6odm8gan7mcsihiz", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/r9mp6odm8gan7mcsihiz.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1428191761018, 
+    "developers": [
+        396
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "203650"
+    }, 
+    "first_release_date": 1337040000000, 
+    "franchise": 814, 
+    "franchises": [
+        814
+    ], 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        21062, 
+        21063, 
+        6732, 
+        11423, 
+        7344, 
+        55752, 
+        7350, 
+        36868, 
+        13163, 
+        9174
+    ], 
+    "genres": [
+        8, 
+        31, 
+        33
+    ], 
+    "id": 9474, 
+    "keywords": [
+        296, 
+        524, 
+        589, 
+        1158, 
+        1293, 
+        1333, 
+        1710, 
+        2049, 
+        2071, 
+        3138, 
+        3403, 
+        4004, 
+        4134, 
+        4135, 
+        4176, 
+        4220, 
+        4245, 
+        4297, 
+        4457, 
+        4458, 
+        4459, 
+        4529, 
+        4698, 
+        4742, 
+        4766, 
+        4907, 
+        4918, 
+        4943, 
+        5420, 
+        5633, 
+        5842, 
+        6035, 
+        6460, 
+        7237, 
+        7402, 
+        9315, 
+        10796, 
+        11081
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 39, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Sonic the Hedgehog 4: Episode II", 
+    "platforms": [
+        74, 
+        34, 
+        45, 
+        6, 
+        39, 
+        12
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 60.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1337212800000, 
+            "human": "2012-May-17", 
+            "m": 5, 
+            "platform": 74, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1337212800000, 
+            "human": "2012-May-17", 
+            "m": 5, 
+            "platform": 34, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1337212800000, 
+            "human": "2012-May-17", 
+            "m": 5, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1337040000000, 
+            "human": "2012-May-15", 
+            "m": 5, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1337040000000, 
+            "human": "2012-May-15", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1337040000000, 
+            "human": "2012-May-15", 
+            "m": 5, 
+            "platform": 45, 
+            "region": 8, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tfzxlcxfpvlzyacb7i9x", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tfzxlcxfpvlzyacb7i9x.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "aog1pl65c4cylw5rwrdx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aog1pl65c4cylw5rwrdx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dv5phxyxnisgu3gjlkrm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dv5phxyxnisgu3gjlkrm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nkjquzarjfzc5pnlpds0", 
+            "height": 562, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nkjquzarjfzc5pnlpds0.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "jvamkvmzmd0c7iixefqn", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jvamkvmzmd0c7iixefqn.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "sonic-the-hedgehog-4-episode-ii", 
+    "storyline": "After the events of Episode I, Little Planet returns, and Dr. Eggman locates and repairs Metal Sonic.[17] Sonic hears that Eggman is back, and reunites with Tails to stop him. Meanwhile, Metal Sonic searches for the heroes and sees them fly away in the Tornado, following them using Tails' rocket.", 
+    "summary": "The Sonic 4 Saga continues in Episode II with the return of a beloved side kick and fan-favorite villains! Following the events of Episode I, Metal Sonic has returned to form an alliance with Dr. Eggman! To face this new evil, Sonic will have to call upon an old friend to help him save the day!", 
+    "tags": [
+        1, 
+        268435464, 
+        268435487, 
+        268435489, 
+        536871208, 
+        536871436, 
+        536871501, 
+        536872070, 
+        536872205, 
+        536872245, 
+        536872622, 
+        536872961, 
+        536872983, 
+        536874050, 
+        536874315, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875088, 
+        536875132, 
+        536875157, 
+        536875209, 
+        536875369, 
+        536875370, 
+        536875371, 
+        536875441, 
+        536875610, 
+        536875654, 
+        536875678, 
+        536875819, 
+        536875830, 
+        536875855, 
+        536876332, 
+        536876545, 
+        536876754, 
+        536876947, 
+        536877372, 
+        536878149, 
+        536878314, 
+        536880227, 
+        536881708, 
+        536881993, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 56.5, 
+    "total_rating_count": 6, 
+    "updated_at": 1523427650505, 
+    "url": "https://www.igdb.com/games/sonic-the-hedgehog-4-episode-ii", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "UVmSIiYJMaQ"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "lCYbmTL_fTM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/sonic-the-hedgehog-4-episode-ii/id511332635?mt=8&uo=4"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_4:_Episode_II"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://sonic.wikia.com/wiki/Sonic_the_Hedgehog_4:_Episode_II"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.sonicthehedgehog4.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/203650"
+        }
+    ]
+}

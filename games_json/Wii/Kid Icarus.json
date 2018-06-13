@@ -1,0 +1,391 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "3D Classics Kid Icarus"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Myth of Light: The Mirror of Palutena"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Hikari Shinwa: Palutena no Kagami"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Light Mythology: Palutena's Mirror"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "Hikari Shinwa: Parutena no Kagami"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u5149\u795e\u8a71 \u30d1\u30eb\u30c6\u30ca\u306e\u93e1"
+        }
+    ], 
+    "category": 0, 
+    "collection": 617, 
+    "cover": {
+        "cloudinary_id": "ztpcbo23qtgrwrgsgswe", 
+        "height": 600, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ztpcbo23qtgrwrgsgswe.jpg", 
+        "width": 438
+    }, 
+    "created_at": 1389284058815, 
+    "developers": [
+        1809
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 535334400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        55752, 
+        117, 
+        6705, 
+        3664, 
+        6732, 
+        47823, 
+        19560, 
+        7170, 
+        6958, 
+        8737
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 3663, 
+    "keywords": [
+        35, 
+        296, 
+        301, 
+        558, 
+        992, 
+        1283, 
+        2041, 
+        2049, 
+        2135, 
+        2363, 
+        2977, 
+        3079, 
+        4161, 
+        4163, 
+        4171, 
+        4219, 
+        4392, 
+        4396, 
+        4415, 
+        4421, 
+        4522, 
+        4525, 
+        4725, 
+        4846, 
+        4866, 
+        4880, 
+        4884, 
+        4958, 
+        4992, 
+        5029, 
+        5122, 
+        5436, 
+        5441, 
+        5442, 
+        6648, 
+        6801, 
+        7467, 
+        7527, 
+        7602, 
+        9726, 
+        9757, 
+        10418, 
+        10752, 
+        12667, 
+        12669, 
+        12670, 
+        14144, 
+        14195, 
+        14921
+    ], 
+    "name": "Kid Icarus", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        51, 
+        52, 
+        41, 
+        24, 
+        47, 
+        5, 
+        18
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        70
+    ], 
+    "pulse_count": 2, 
+    "rating": 75.4596395294047, 
+    "rating_count": 11, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1376438400000, 
+            "human": "2013-Aug-14", 
+            "m": 8, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1374710400000, 
+            "human": "2013-Jul-25", 
+            "m": 7, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1373500800000, 
+            "human": "2013-Jul-11", 
+            "m": 7, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1169510400000, 
+            "human": "2007-Jan-23", 
+            "m": 1, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1172188800000, 
+            "human": "2007-Feb-23", 
+            "m": 2, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1171238400000, 
+            "human": "2007-Feb-12", 
+            "m": 2, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 1092096000000, 
+            "human": "2004-Aug-10", 
+            "m": 8, 
+            "platform": 24, 
+            "region": 5, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1169510400000, 
+            "human": "2007-Jan-23", 
+            "m": 1, 
+            "platform": 47, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 540345600000, 
+            "human": "1987-Feb-15", 
+            "m": 2, 
+            "platform": 18, 
+            "region": 1, 
+            "y": 1987
+        }, 
+        {
+            "category": 0, 
+            "date": 535334400000, 
+            "human": "1986-Dec-19", 
+            "m": 12, 
+            "platform": 51, 
+            "region": 5, 
+            "y": 1986
+        }, 
+        {
+            "category": 5, 
+            "date": 559958400000, 
+            "human": "1987-Q3", 
+            "m": 9, 
+            "platform": 18, 
+            "region": 2, 
+            "y": 1987
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "unxkqwpryy7cewr0qupq", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/unxkqwpryy7cewr0qupq.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "prubgqdahx32nv3rlr4h", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/prubgqdahx32nv3rlr4h.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "yykcnpo63pfacpronhm9", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yykcnpo63pfacpronhm9.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ah0jbutgudjvik51hd3z", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ah0jbutgudjvik51hd3z.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ltlgtzlxvouxgx1z2cnz", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ltlgtzlxvouxgx1z2cnz.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "cjrptia7h9ofg3ggdgsz", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cjrptia7h9ofg3ggdgsz.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "zdxatyg7cuq8ipogz041", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zdxatyg7cuq8ipogz041.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "tkyv03alfyf33cxlcbal", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tkyv03alfyf33cxlcbal.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "nwvwmekxhtxaynohgjun", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nwvwmekxhtxaynohgjun.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "jrzcz15aqsjlfg3895uh", 
+            "height": 394, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jrzcz15aqsjlfg3895uh.jpg", 
+            "width": 450
+        }, 
+        {
+            "cloudinary_id": "y16rdv6vwmbeia03awre", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y16rdv6vwmbeia03awre.jpg", 
+            "width": 1440
+        }
+    ], 
+    "slug": "kid-icarus", 
+    "summary": "Kid Icarus is an action platform video game for the Family Computer Disk System in Japan and the Nintendo Entertainment System in Europe and North America. \nThe plot of Kid Icarus revolves around protagonist Pit's quest for three sacred treasures, which he must equip to rescue the Grecian fantasy world Angel Land and its ruler, the goddess Palutena. The player controls Pit through platform areas while fighting monsters and collecting items. Their objective is to reach the end of the levels, and to find and defeat boss monsters that guard the three treasures.", 
+    "tags": [
+        1, 
+        17, 
+        268435464, 
+        536870947, 
+        536871208, 
+        536871213, 
+        536871470, 
+        536871904, 
+        536872195, 
+        536872953, 
+        536872961, 
+        536873047, 
+        536873275, 
+        536873889, 
+        536873991, 
+        536875073, 
+        536875075, 
+        536875083, 
+        536875131, 
+        536875304, 
+        536875308, 
+        536875327, 
+        536875333, 
+        536875434, 
+        536875437, 
+        536875637, 
+        536875758, 
+        536875778, 
+        536875792, 
+        536875796, 
+        536875870, 
+        536875904, 
+        536875941, 
+        536876034, 
+        536876348, 
+        536876353, 
+        536876354, 
+        536877560, 
+        536877713, 
+        536878379, 
+        536878439, 
+        536878514, 
+        536880638, 
+        536880669, 
+        536881330, 
+        536881664, 
+        536883579, 
+        536883581, 
+        536883582, 
+        536885056, 
+        536885107, 
+        536885833, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 75.4596395294047, 
+    "total_rating_count": 11, 
+    "updated_at": 1526034188136, 
+    "url": "https://www.igdb.com/games/kid-icarus", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "ruMWWZ8axeY"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://kidicarus.wikia.com/wiki/Kid_Icarus"
+        }
+    ]
+}

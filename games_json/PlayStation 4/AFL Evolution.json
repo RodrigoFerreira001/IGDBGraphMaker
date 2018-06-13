@@ -1,0 +1,163 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "pcrvopw9nkoqzwriuanj", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pcrvopw9nkoqzwriuanj.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1495754176561, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "435020"
+    }, 
+    "first_release_date": 1493942400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        28113, 
+        11423, 
+        13163, 
+        27717, 
+        28951, 
+        21429, 
+        19082, 
+        7350, 
+        18681, 
+        54524
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 33701, 
+    "keywords": [
+        26, 
+        27, 
+        1158, 
+        1293, 
+        4004, 
+        4134, 
+        4142, 
+        4245, 
+        10919
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 8, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "AFL Evolution", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        8880
+    ], 
+    "pulse_count": 2, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1493942400000, 
+            "human": "2017-May-05", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1493942400000, 
+            "human": "2017-May-05", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 1, 
+            "date": 1498867200000, 
+            "human": "2017-Jul", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ac8pf6cmd10pt5fvcyx7", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ac8pf6cmd10pt5fvcyx7.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "htmtudq6kguluhj6smz1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/htmtudq6kguluhj6smz1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "aoe4hhtmzbdmbhne5xh8", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aoe4hhtmzbdmbhne5xh8.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "v1r4oqtjnei8qwckgcda", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v1r4oqtjnei8qwckgcda.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xo2zl8inewceuvfa5ibt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xo2zl8inewceuvfa5ibt.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "afl-evolution", 
+    "summary": "EXPERIENCE THE EVOLUTION - AFL Evolution brings you the most intense and feature packed AFL experience ever.", 
+    "tags": [
+        268435470, 
+        536870938, 
+        536870939, 
+        536872070, 
+        536872205, 
+        536874916, 
+        536875046, 
+        536875054, 
+        536875157, 
+        536881831
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1528350403395, 
+    "url": "https://www.igdb.com/games/afl-evolution", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/435020"
+        }
+    ]
+}

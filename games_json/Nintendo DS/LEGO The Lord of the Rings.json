@@ -1,0 +1,446 @@
+{
+    "aggregated_rating": 77.4444444444444, 
+    "aggregated_rating_count": 10, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "LEGO LOTR"
+        }, 
+        {
+            "comment": "German title", 
+            "name": "LEGO Der Herr der Ringe"
+        }, 
+        {
+            "comment": "French title", 
+            "name": "LEGO Le seigneur des anneaux"
+        }
+    ], 
+    "category": 0, 
+    "collection": 739, 
+    "cover": {
+        "cloudinary_id": "br20l7drdtw60smbypoz", 
+        "height": 2150, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/br20l7drdtw60smbypoz.jpg", 
+        "width": 1506
+    }, 
+    "created_at": 1391652059833, 
+    "developers": [
+        292, 
+        1290
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "In this action-adventure game, players control small Lego-versions of characters from the Lord of the Rings trilogy. As players progress chronologically through the storyline, they use assorted weapons (e.g., swords, staffs, axes, bows) to defeat goblins, trolls, and other fantasy creatures; combat is accompanied by realistic battle cries and slashing sounds; slow-motion effects may occur as defeated enemies burst into Lego pieces. Players can occasionally ride atop horses through battlefields and engage in one-on-one magic duels. Cutscenes reenact other dramatic events from the movies (e.g., a warrior getting struck down by orcs; a wizard falling into a crevasse; armies fighting each other on the battlefield). A handful of sequences depict slapstick-style humor: a creature kicking a character in the crotch; a character sniffing his armpit; a character landing close to a pile of animal droppings."
+    }, 
+    "external": {
+        "steam": "214510"
+    }, 
+    "first_release_date": 1351555200000, 
+    "franchise": 11, 
+    "franchises": [
+        11, 
+        51
+    ], 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        27421, 
+        3025, 
+        7610, 
+        11423, 
+        1942, 
+        6732, 
+        18167, 
+        28113, 
+        19082, 
+        117
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 4969, 
+    "keywords": [
+        96, 
+        205, 
+        227, 
+        296, 
+        350, 
+        410, 
+        592, 
+        1033, 
+        1158, 
+        1293, 
+        1320, 
+        1459, 
+        2066, 
+        2242, 
+        2472, 
+        2561, 
+        3222, 
+        4004, 
+        4134, 
+        4142, 
+        4150, 
+        4181, 
+        4210, 
+        4245, 
+        4266, 
+        4287, 
+        4331, 
+        4353, 
+        4359, 
+        4382, 
+        4392, 
+        4404, 
+        4419, 
+        4420, 
+        4520, 
+        4525, 
+        4651, 
+        4726, 
+        4813, 
+        4869, 
+        4877, 
+        4918, 
+        4937, 
+        4938, 
+        5308, 
+        5328, 
+        5374, 
+        5657, 
+        5695, 
+        5794, 
+        5851, 
+        5885, 
+        6683, 
+        7195, 
+        7403, 
+        7503, 
+        8194, 
+        9292, 
+        9293, 
+        9294, 
+        9364, 
+        10110, 
+        11251, 
+        11347
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 46, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "LEGO The Lord of the Rings", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\n\r\nIt contains: Non realistic looking violence towards fantasy characters - Pictures or sounds likely to be scary to young children"
+    }, 
+    "platforms": [
+        6, 
+        39, 
+        14, 
+        46, 
+        9, 
+        12, 
+        20, 
+        37, 
+        5
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        50, 
+        23
+    ], 
+    "rating": 75.8513133498793, 
+    "rating_count": 36, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1353628800000, 
+            "human": "2012-Nov-23", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1352764800000, 
+            "human": "2012-Nov-13", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1353628800000, 
+            "human": "2012-Nov-23", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1352764800000, 
+            "human": "2012-Nov-13", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1351555200000, 
+            "human": "2012-Oct-30", 
+            "m": 10, 
+            "platform": 46, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1351555200000, 
+            "human": "2012-Oct-30", 
+            "m": 10, 
+            "platform": 20, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1351555200000, 
+            "human": "2012-Oct-30", 
+            "m": 10, 
+            "platform": 37, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1352764800000, 
+            "human": "2012-Nov-13", 
+            "m": 11, 
+            "platform": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1352764800000, 
+            "human": "2012-Nov-13", 
+            "m": 11, 
+            "platform": 9, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1352764800000, 
+            "human": "2012-Nov-13", 
+            "m": 11, 
+            "platform": 12, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1352764800000, 
+            "human": "2012-Nov-13", 
+            "m": 11, 
+            "platform": 6, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1361491200000, 
+            "human": "2013-Feb-22", 
+            "m": 2, 
+            "platform": 14, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1383782400000, 
+            "human": "2013-Nov-07", 
+            "m": 11, 
+            "platform": 39, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zq1mbeqarwogrb7axugw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zq1mbeqarwogrb7axugw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xhouo6u3jn9aylr2lgcf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xhouo6u3jn9aylr2lgcf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mjcc9xrhpui6693i6cxa", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mjcc9xrhpui6693i6cxa.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "bfo0hbkrayttxpqg1pni", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bfo0hbkrayttxpqg1pni.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "uwua2o1pazpylv7yokyv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uwua2o1pazpylv7yokyv.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "lego-the-lord-of-the-rings", 
+    "summary": "Based on The Lord of the Rings motion picture trilogy, LEGO The Lord of the Rings follows the original storylines of The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, and The Lord of the Rings: The Return of the King, taking players through the epic story events reimagined with the humor and endless variety of LEGO play. \n \nTrusted with the dangerous task to destroy an ancient magical ring that threatens all that is good, Frodo is forced to leave his peaceful home. But the ring wants to be found and the road to Mount Doom, the only place where it can be destroyed, will be perilous and riddled with Orcs and fouler things. \n \nTo help Frodo, a Fellowship is formed \u2014Aragorn the Ranger, Gandalf the Wizard, Legolas the Elf, Gimli the Dwarf, Boromir a Man of Gondor, and Frodo\u2019s Hobbit friends Sam, Merry and Pippin. Players relive the legend through the LEGO minifigures, as they explore wonders, solve timeless riddles, and overcome endless foes in their quest to destroy the Ring.", 
+    "tags": [
+        1, 
+        27, 
+        268435487, 
+        536871008, 
+        536871117, 
+        536871139, 
+        536871208, 
+        536871262, 
+        536871322, 
+        536871504, 
+        536871945, 
+        536872070, 
+        536872205, 
+        536872232, 
+        536872371, 
+        536872978, 
+        536873154, 
+        536873384, 
+        536873473, 
+        536874134, 
+        536874916, 
+        536875046, 
+        536875054, 
+        536875062, 
+        536875093, 
+        536875122, 
+        536875157, 
+        536875178, 
+        536875199, 
+        536875243, 
+        536875265, 
+        536875271, 
+        536875294, 
+        536875304, 
+        536875316, 
+        536875331, 
+        536875332, 
+        536875432, 
+        536875437, 
+        536875563, 
+        536875638, 
+        536875725, 
+        536875781, 
+        536875789, 
+        536875830, 
+        536875849, 
+        536875850, 
+        536876220, 
+        536876240, 
+        536876286, 
+        536876569, 
+        536876607, 
+        536876706, 
+        536876763, 
+        536876797, 
+        536877595, 
+        536878107, 
+        536878315, 
+        536878415, 
+        536879106, 
+        536880204, 
+        536880205, 
+        536880206, 
+        536880276, 
+        536881022, 
+        536882163, 
+        536882259, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 76.64787889716186, 
+    "total_rating_count": 46, 
+    "updated_at": 1528185157316, 
+    "url": "https://www.igdb.com/games/lego-the-lord-of-the-rings", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "OQifZvHLZJ0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.thelordoftherings.lego.com"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Lego_The_Lord_of_the_Rings_(video_game)"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://lego.wikia.com/wiki/LEGO_The_Lord_of_the_Rings:_The_Video_Game"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/214510"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "aggregated_rating": 40.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "srh4hlhjs9tjvxysogeb", 
+        "height": 515, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/srh4hlhjs9tjvxysogeb.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1472042698824, 
+    "first_release_date": 1164585600000, 
+    "games": [
+        44242, 
+        28465, 
+        34919, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        43130, 
+        80656, 
+        79992
+    ], 
+    "genres": [
+        13
+    ], 
+    "id": 23121, 
+    "keywords": [
+        56, 
+        992
+    ], 
+    "name": "Pilot Academy", 
+    "platforms": [
+        38
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1164585600000, 
+            "human": "2006-Nov-27", 
+            "m": 11, 
+            "platform": 38, 
+            "region": 8, 
+            "y": 2006
+        }
+    ], 
+    "slug": "pilot-academy", 
+    "summary": "The first and only attempt to make a flight simulator for the PSP.", 
+    "tags": [
+        268435469, 
+        536870968, 
+        536871904
+    ], 
+    "total_rating": 40.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1515748074475, 
+    "url": "https://www.igdb.com/games/pilot-academy"
+}

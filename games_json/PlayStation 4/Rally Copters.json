@@ -1,0 +1,126 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "z7kyuokwfzuost5rn1lf", 
+        "height": 225, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/z7kyuokwfzuost5rn1lf.jpg", 
+        "width": 225
+    }, 
+    "created_at": 1495747615126, 
+    "external": {
+        "steam": "454390"
+    }, 
+    "first_release_date": 1442880000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25300, 
+        64204, 
+        27314, 
+        25311, 
+        19448, 
+        23212, 
+        68287, 
+        19301, 
+        67625, 
+        71455
+    ], 
+    "genres": [
+        10, 
+        14, 
+        32
+    ], 
+    "id": 33424, 
+    "keywords": [
+        970, 
+        3425, 
+        4157, 
+        4205
+    ], 
+    "name": "Rally Copters", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1442880000000, 
+            "human": "2015-Sep-22", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1470787200000, 
+            "human": "2016-Aug-10", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zlpfhbwt0ct1zkm7gtam", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zlpfhbwt0ct1zkm7gtam.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zkqxlkddeuk21zohl1kj", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zkqxlkddeuk21zohl1kj.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "knxajd4acoos9fspvspn", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/knxajd4acoos9fspvspn.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "reua3tuwhisqc6jlejq0", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/reua3tuwhisqc6jlejq0.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "aibkflbe53lvokshhpeb", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aibkflbe53lvokshhpeb.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "rally-copters", 
+    "summary": "Rally Copters is an intense, physics-driven, helicopter racing game that will push you to the limit! Pilot your way through 27 courses jam-packed with perilous obstacles and deadly corridors. Unlock a variety of helicopters to blaze through new levels and crush your record times. Compete against the world in online leaderboards!", 
+    "tags": [
+        18, 
+        268435466, 
+        268435470, 
+        268435488, 
+        536871882, 
+        536874337, 
+        536875069, 
+        536875117
+    ], 
+    "themes": [
+        18
+    ], 
+    "updated_at": 1522394113013, 
+    "url": "https://www.igdb.com/games/rally-copters", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://depthfirstgames.com/rallyCopters.html"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/454390"
+        }
+    ]
+}

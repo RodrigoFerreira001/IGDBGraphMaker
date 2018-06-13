@@ -1,0 +1,269 @@
+{
+    "aggregated_rating": 73.75, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 873, 
+    "cover": {
+        "cloudinary_id": "v1b2trs2kh6ssezxnhte", 
+        "height": 1980, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/v1b2trs2kh6ssezxnhte.jpg", 
+        "width": 1400
+    }, 
+    "created_at": 1397765952929, 
+    "developers": [
+        1243
+    ], 
+    "dlcs": [
+        10970, 
+        10969
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "external": {
+        "steam": "272470"
+    }, 
+    "first_release_date": 1400716800000, 
+    "franchise": 82, 
+    "franchises": [
+        82, 
+        480
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        21429, 
+        36926, 
+        47823, 
+        6732, 
+        11423, 
+        22747, 
+        25300, 
+        55092, 
+        11214, 
+        16468
+    ], 
+    "genres": [
+        12, 
+        25, 
+        31, 
+        32
+    ], 
+    "id": 6074, 
+    "keywords": [
+        174, 
+        211, 
+        296, 
+        423, 
+        906, 
+        1026, 
+        1158, 
+        1288, 
+        1494, 
+        4004, 
+        4134, 
+        4150, 
+        4151, 
+        4177, 
+        4445, 
+        5262, 
+        5305
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "The Incredible Adventures of Van Helsing II", 
+    "platforms": [
+        45, 
+        6, 
+        14, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1243
+    ], 
+    "rating": 60.4546117152738, 
+    "rating_count": 8, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1467331200000, 
+            "human": "2016-Jul-01", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1502150400000, 
+            "human": "2017-Aug-08", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1502150400000, 
+            "human": "2017-Aug-08", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1400716800000, 
+            "human": "2014-May-22", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1400716800000, 
+            "human": "2014-May-22", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1411344000000, 
+            "human": "2014-Sep-22", 
+            "m": 9, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dpw0hrpk3osyo7g3h3re", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dpw0hrpk3osyo7g3h3re.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "httmoen0r17ehohb0qam", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/httmoen0r17ehohb0qam.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ocan6sgf7lbo4aigymly", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ocan6sgf7lbo4aigymly.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lwhcegmcwchxmcns4tds", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lwhcegmcwchxmcns4tds.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zir7he3249e1muobrp32", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zir7he3249e1muobrp32.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "the-incredible-adventures-of-van-helsing-ii", 
+    "summary": "In the second part of the unfolding saga that could also be enjoyed independently, you can explore new corners of this unique world and experience the mix of old-school gothic and mad science, with more action, powerful foes and plenty of stunning places to visit.", 
+    "tags": [
+        1, 
+        17, 
+        268435468, 
+        268435481, 
+        268435487, 
+        268435488, 
+        536871086, 
+        536871123, 
+        536871208, 
+        536871335, 
+        536871818, 
+        536871938, 
+        536872070, 
+        536872200, 
+        536872406, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875063, 
+        536875089, 
+        536875357, 
+        536876174, 
+        536876217, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 67.1023058576369, 
+    "total_rating_count": 12, 
+    "updated_at": 1528358979904, 
+    "url": "https://www.igdb.com/games/the-incredible-adventures-of-van-helsing-ii", 
+    "videos": [
+        {
+            "name": "Pre-order Trailer", 
+            "video_id": "RcVBqZ7jH7k"
+        }, 
+        {
+            "name": "Steam Pre-order Trailer", 
+            "video_id": "Lx7ZJVKeZrA"
+        }, 
+        {
+            "name": "The Chimera Trailer", 
+            "video_id": "l2rTeaiM0mk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/272470"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.neocoregames.com/games/the-incredible-adventures-of-van-helsing-ii/overview/"
+        }
+    ]
+}

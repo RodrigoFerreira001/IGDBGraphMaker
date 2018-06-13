@@ -1,0 +1,86 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "fni6rzebm5qunuucscxe", 
+        "height": 1079, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fni6rzebm5qunuucscxe.jpg", 
+        "width": 935
+    }, 
+    "created_at": 1469818400761, 
+    "first_release_date": 1185494400000, 
+    "games": [
+        19083, 
+        23345, 
+        18623, 
+        11588, 
+        55036, 
+        30229, 
+        28213, 
+        2015, 
+        26769, 
+        29173
+    ], 
+    "genres": [
+        9, 
+        15, 
+        26
+    ], 
+    "id": 21832, 
+    "keywords": [
+        151, 
+        2152, 
+        2601, 
+        3782, 
+        4139, 
+        4148, 
+        10919
+    ], 
+    "name": "Carcassonne", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1185494400000, 
+            "human": "2007-Jul-27", 
+            "m": 7, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "az0duq8gr3b4bqcri5za", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/az0duq8gr3b4bqcri5za.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "carcassonne", 
+    "summary": "Carcassonne starts with a single terrain tile face up and 71 others shuffled face down for the players to draw from. On each turn a player draws a new terrain tile and places it adjacent to tiles that are already face up. The new tile must be placed in a way that extends features on the tiles it abuts: roads must connect to roads, fields to fields, and cities to cities. \n \n \nA part of a game board after several turns.After placing each new tile, the placing player may opt to station a piece on a feature of that newly-placed tile. The placing player may not use a follower to claim any features of the tile that extend or connect features already claimed by another player. However, it is possible for terrain features claimed by opposing players to become \"shared\" by the subsequent placement of tiles connecting them. For example, two field tiles which each have a follower can become connected into a single field by another terrain tile. \n \nThe game ends when the last tile has been placed. At that time, all features (including fields) score points for the players with the most followers on them. The player with the most points wins the game.", 
+    "tags": [
+        22, 
+        268435465, 
+        268435471, 
+        268435482, 
+        536871063, 
+        536873064, 
+        536873513, 
+        536874694, 
+        536875051, 
+        536875060, 
+        536881831
+    ], 
+    "themes": [
+        22
+    ], 
+    "total_rating": 75.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1516718020706, 
+    "url": "https://www.igdb.com/games/carcassonne"
+}

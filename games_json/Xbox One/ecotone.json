@@ -1,0 +1,155 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "f4rfvys5gighxedk8kt5", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/f4rfvys5gighxedk8kt5.jpg", 
+        "width": 1920
+    }, 
+    "created_at": 1462573461864, 
+    "external": {
+        "steam": "446070"
+    }, 
+    "first_release_date": 1477008000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        37022, 
+        55289, 
+        51485, 
+        26848, 
+        25646, 
+        44191, 
+        34919, 
+        10039, 
+        25311, 
+        28148
+    ], 
+    "genres": [
+        8, 
+        31, 
+        32
+    ], 
+    "id": 19008, 
+    "name": "ecotone", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        34, 
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1483142400000, 
+            "human": "2016-Dec-31", 
+            "m": 12, 
+            "platform": 34, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477008000000, 
+            "human": "2016-Oct-21", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477008000000, 
+            "human": "2016-Oct-21", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477008000000, 
+            "human": "2016-Oct-21", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zdyjqklkwn8cwgrqnizo", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zdyjqklkwn8cwgrqnizo.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "cpbxftumuqi74iixkms0", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cpbxftumuqi74iixkms0.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "b60uudqdaehoitksja0p", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b60uudqdaehoitksja0p.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "aozquav2dyrpct3ly1iy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aozquav2dyrpct3ly1iy.jpg", 
+            "width": 1620
+        }, 
+        {
+            "cloudinary_id": "y3isepeiqavapajhfg7u", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y3isepeiqavapajhfg7u.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "ecotone", 
+    "summary": "You are not a hero, You will not save the world, you may even not save yourself.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435487, 
+        268435488, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 72.5, 
+    "total_rating_count": 1, 
+    "updated_at": 1523398782831, 
+    "url": "https://www.igdb.com/games/ecotone", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "qQ0cA2SH2_8"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/446070"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.ecotonegame.com/"
+        }
+    ]
+}

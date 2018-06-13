@@ -1,0 +1,212 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "tpt0timqgrskyodg0eix", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tpt0timqgrskyodg0eix.jpg", 
+        "width": 200
+    }, 
+    "created_at": 1468592319539, 
+    "developers": [
+        14862
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "461890"
+    }, 
+    "first_release_date": 1456444800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        27314, 
+        27266, 
+        51978, 
+        29525, 
+        26223, 
+        25222, 
+        25646, 
+        25311, 
+        26163, 
+        27725
+    ], 
+    "genres": [
+        9, 
+        31, 
+        32
+    ], 
+    "id": 20393, 
+    "keywords": [
+        103, 
+        4357, 
+        16826, 
+        16938
+    ], 
+    "name": "NORTH", 
+    "platforms": [
+        6, 
+        14, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        10955
+    ], 
+    "pulse_count": 3, 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1520294400000, 
+            "human": "2018-Mar-06", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1520294400000, 
+            "human": "2018-Mar-06", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1456444800000, 
+            "human": "2016-Feb-26", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1520294400000, 
+            "human": "2018-Mar-06", 
+            "m": 3, 
+            "platform": 49, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1461715200000, 
+            "human": "2016-Apr-27", 
+            "m": 4, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "q3lq7wjansknb0qrwnoa", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q3lq7wjansknb0qrwnoa.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ozupzsrjvgx450bkrkgx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ozupzsrjvgx450bkrkgx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "sqlc1hehvxkkeudxfa7o", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sqlc1hehvxkkeudxfa7o.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qzo80hugpjdaygs67b01", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qzo80hugpjdaygs67b01.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ip0ot0vuzysdwksjbfro", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ip0ot0vuzysdwksjbfro.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "n2jnjbnwvbfz2w5yvcg0", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n2jnjbnwvbfz2w5yvcg0.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hgjhuarbhzadv11wcd2v", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hgjhuarbhzadv11wcd2v.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "goppqswnb67877zm2krr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/goppqswnb67877zm2krr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jkg3g7z6hncdgimausoj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jkg3g7z6hncdgimausoj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ixyvxu3b0ktv6heyoqo2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ixyvxu3b0ktv6heyoqo2.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "oeed9kfwfphi5f7ffbl2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oeed9kfwfphi5f7ffbl2.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "north", 
+    "summary": "Dealing with the issue of the contemporary refugee crisis while at the same time being deeply rooted in a classical cyberpunk atmosphere \u00e0 la Blade Runner, NORTH features a dark synthpop soundtrack, a sprawling mega-city and weird monster-like inhabitants.", 
+    "tags": [
+        18, 
+        43, 
+        268435465, 
+        268435487, 
+        268435488, 
+        536871015, 
+        536875269, 
+        536887738, 
+        536887850, 
+        1073741825
+    ], 
+    "themes": [
+        18, 
+        43
+    ], 
+    "total_rating": 55.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1523394959636, 
+    "url": "https://www.igdb.com/games/north", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.outlands-games.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/461890"
+        }
+    ]
+}

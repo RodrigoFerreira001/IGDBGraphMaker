@@ -1,0 +1,196 @@
+{
+    "aggregated_rating": 27.5, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "fpbpwuj1g5glnpc4i1ec", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fpbpwuj1g5glnpc4i1ec.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1454075579077, 
+    "developers": [
+        8451
+    ], 
+    "external": {
+        "steam": "421040"
+    }, 
+    "first_release_date": 1453939200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28465, 
+        34919, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        28277, 
+        18623, 
+        22690, 
+        32283
+    ], 
+    "genres": [
+        13, 
+        32
+    ], 
+    "id": 17004, 
+    "keywords": [
+        101, 
+        153, 
+        976, 
+        1004, 
+        1340, 
+        1365
+    ], 
+    "name": "Plantera", 
+    "platforms": [
+        6, 
+        41, 
+        37
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        8451
+    ], 
+    "pulse_count": 1, 
+    "rating": 80.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1486598400000, 
+            "human": "2017-Feb-09", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1486598400000, 
+            "human": "2017-Feb-09", 
+            "m": 2, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1453939200000, 
+            "human": "2016-Jan-28", 
+            "m": 1, 
+            "platform": 6, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pdq41jtcw7sptxfkkiop", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pdq41jtcw7sptxfkkiop.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "vs7cuew2rmcjhlpfkvom", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vs7cuew2rmcjhlpfkvom.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "wtysfkqyeybwrvtfel6o", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wtysfkqyeybwrvtfel6o.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "a8cahx2ed0hlpuayswkx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a8cahx2ed0hlpuayswkx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xglytz2axbzuq074hwvo", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xglytz2axbzuq074hwvo.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "mqrhmzwlvcanspmktxyh", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mqrhmzwlvcanspmktxyh.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "u3z0h2z2zrkerbdvhocc", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u3z0h2z2zrkerbdvhocc.jpg", 
+            "width": 1050
+        }, 
+        {
+            "cloudinary_id": "bdctzxugnun3zbrxem7j", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bdctzxugnun3zbrxem7j.jpg", 
+            "width": 1050
+        }, 
+        {
+            "cloudinary_id": "hrpbqplwrmpbjrxm0zos", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hrpbqplwrmpbjrxm0zos.jpg", 
+            "width": 1050
+        }, 
+        {
+            "cloudinary_id": "z3lig2dmsqdrts1xx6uo", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z3lig2dmsqdrts1xx6uo.jpg", 
+            "width": 1050
+        }, 
+        {
+            "cloudinary_id": "ml9hdhz5mtkcehz7iivw", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ml9hdhz5mtkcehz7iivw.jpg", 
+            "width": 1050
+        }
+    ], 
+    "slug": "plantera", 
+    "summary": "In Plantera you build your own garden and watch it grow with new plants, bushes trees and animals. As you play and expand your garden you will attract Helpers, round blue creatures that will help you with your harvesting tasks.", 
+    "tags": [
+        28, 
+        268435469, 
+        268435488, 
+        536871013, 
+        536871065, 
+        536871888, 
+        536871916, 
+        536872252, 
+        536872277, 
+        1073741828
+    ], 
+    "themes": [
+        28
+    ], 
+    "total_rating": 53.75, 
+    "total_rating_count": 4, 
+    "updated_at": 1523403950245, 
+    "url": "https://www.igdb.com/games/plantera", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "dq5fxUC8HKk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.varagtp.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/421040"
+        }
+    ]
+}

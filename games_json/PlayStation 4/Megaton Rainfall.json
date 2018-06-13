@@ -1,0 +1,136 @@
+{
+    "aggregated_rating": 69.8, 
+    "aggregated_rating_count": 7, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ahjslrxkml1o8lndlpp7", 
+        "height": 756, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ahjslrxkml1o8lndlpp7.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1502299728267, 
+    "external": {
+        "steam": "430210"
+    }, 
+    "first_release_date": 1508198400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19934, 
+        19376, 
+        76110, 
+        34919, 
+        19448, 
+        16468, 
+        19290, 
+        22747, 
+        19174, 
+        55289
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 54580, 
+    "keywords": [
+        14, 
+        117, 
+        2387, 
+        4134, 
+        4234, 
+        4768
+    ], 
+    "name": "Megaton Rainfall", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "popularity": 2.333333333333333, 
+    "pulse_count": 6, 
+    "rating": 60.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1508198400000, 
+            "human": "2017-Oct-17", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 6, 
+            "date": 1514678400000, 
+            "human": "2017-Q4", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "sphphflrdinhdgfogwtg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sphphflrdinhdgfogwtg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "y2ung0bbrwxdohfpaumt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y2ung0bbrwxdohfpaumt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xw5iawmkyvmxeay0la8z", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xw5iawmkyvmxeay0la8z.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mid2owbfqjaciyfxizdo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mid2owbfqjaciyfxizdo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wiqja1j8olcvnv8wy72p", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wiqja1j8olcvnv8wy72p.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "megaton-rainfall", 
+    "summary": "Become an indestructible interdimensional superbeing in this first-person superhero game, and save Earth from an alien invasion. Be careful though - you are so powerful you can destroy entire skyscrapers (unintentionally) when you miss your otherworldly target...", 
+    "tags": [
+        1, 
+        268435488, 
+        536870926, 
+        536871029, 
+        536873299, 
+        536875046, 
+        536875146, 
+        536875680
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 64.9, 
+    "total_rating_count": 8, 
+    "updated_at": 1522064092008, 
+    "url": "https://www.igdb.com/games/megaton-rainfall", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://megatonrainfall.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/430210"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "dzyqgq64mumwniqcpvrz", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dzyqgq64mumwniqcpvrz.jpg", 
+        "width": 584
+    }, 
+    "created_at": 1477430307863, 
+    "external": {
+        "steam": "437390"
+    }, 
+    "first_release_date": 1475193600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        11423, 
+        6732, 
+        28113, 
+        27717, 
+        21429, 
+        19407, 
+        19082, 
+        7350, 
+        76110, 
+        10039
+    ], 
+    "genres": [
+        8, 
+        32
+    ], 
+    "id": 25240, 
+    "keywords": [
+        1158, 
+        1293, 
+        1494, 
+        2049, 
+        4004, 
+        4134, 
+        4150, 
+        4151, 
+        4245
+    ], 
+    "name": "HoPiKo", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        4726
+    ], 
+    "pulse_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1476748800000, 
+            "human": "2016-Oct-18", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1475193600000, 
+            "human": "2016-Sep-30", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1483660800000, 
+            "human": "2017-Jan-06", 
+            "m": 1, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1483660800000, 
+            "human": "2017-Jan-06", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rxp7keiduxfhszyfrwz2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rxp7keiduxfhszyfrwz2.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "t0tysnbjzqjlqavfrxer", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t0tysnbjzqjlqavfrxer.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nqbsjbkfc6smmvhei24i", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nqbsjbkfc6smmvhei24i.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "oykcckx8istetu3qaj8d", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oykcckx8istetu3qaj8d.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "oerz06qwq6rf8lfefauu", 
+            "height": 377, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oerz06qwq6rf8lfefauu.jpg", 
+            "width": 670
+        }
+    ], 
+    "slug": "hopiko", 
+    "summary": "HoPiKo is an intense speed run platformer where you get to save gaming. Jump from platform to platform avoiding death, exploiting shortcuts and ripping through 100s of hand-crafted levels, each one dropped into a 5-stage mini run designed to break your mind!", 
+    "tags": [
+        1, 
+        268435464, 
+        268435488, 
+        536872070, 
+        536872205, 
+        536872406, 
+        536872961, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875063, 
+        536875157
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1523399931502, 
+    "url": "https://www.igdb.com/games/hopiko", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.laserdog.co.uk"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/437390"
+        }
+    ]
+}

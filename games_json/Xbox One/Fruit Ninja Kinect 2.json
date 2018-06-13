@@ -1,0 +1,117 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 2281, 
+    "cover": {
+        "cloudinary_id": "edgnevrsuvy4uauyghfl", 
+        "height": 488, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/edgnevrsuvy4uauyghfl.jpg", 
+        "width": 409
+    }, 
+    "created_at": 1469142386772, 
+    "first_release_date": 1426636800000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        18387, 
+        34919, 
+        36608, 
+        16468, 
+        17001, 
+        23175, 
+        59516, 
+        28029, 
+        55289, 
+        40524
+    ], 
+    "id": 20947, 
+    "keywords": [
+        1293, 
+        4239, 
+        4890, 
+        4911, 
+        5348, 
+        5523
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Fruit Ninja Kinect 2", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1426636800000, 
+            "human": "2015-Mar-18", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wcbr2unpcjc4vreysa1u", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wcbr2unpcjc4vreysa1u.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "te5a4qcepksxns8pescf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/te5a4qcepksxns8pescf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lbn50hajpqiffdoxfon8", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lbn50hajpqiffdoxfon8.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ihhdwdvio6xmsrn65mhe", 
+            "height": 844, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ihhdwdvio6xmsrn65mhe.jpg", 
+            "width": 1500
+        }
+    ], 
+    "slug": "fruit-ninja-kinect-2", 
+    "summary": "The sequel to Fruit Ninja Kinect.", 
+    "tags": [
+        1, 
+        536872205, 
+        536875151, 
+        536875802, 
+        536875823, 
+        536876260, 
+        536876435
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 75.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1526728829513, 
+    "url": "https://www.igdb.com/games/fruit-ninja-kinect-2"
+}

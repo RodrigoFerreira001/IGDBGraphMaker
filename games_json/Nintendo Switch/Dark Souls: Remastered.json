@@ -1,0 +1,264 @@
+{
+    "aggregated_rating": 87.5, 
+    "aggregated_rating_count": 10, 
+    "alternative_names": [
+        {
+            "name": "Dark Souls Remastered"
+        }
+    ], 
+    "category": 3, 
+    "collection": 543, 
+    "cover": {
+        "cloudinary_id": "kvr6upeqbsvt7nunhlf4", 
+        "height": 1414, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kvr6upeqbsvt7nunhlf4.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1515674334240, 
+    "developers": [
+        794, 
+        774
+    ], 
+    "external": {
+        "steam": "570940"
+    }, 
+    "first_release_date": 1527206400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        103054, 
+        27316, 
+        37088, 
+        16468, 
+        47823, 
+        102873, 
+        1221, 
+        76882, 
+        78149, 
+        25877
+    ], 
+    "genres": [
+        12, 
+        25, 
+        31
+    ], 
+    "hypes": 2, 
+    "id": 81085, 
+    "keywords": [
+        1323
+    ], 
+    "name": "Dark Souls: Remastered", 
+    "platforms": [
+        6, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 44.33333333333334, 
+    "publishers": [
+        248
+    ], 
+    "pulse_count": 192, 
+    "rating": 89.9971343390732, 
+    "rating_count": 5, 
+    "release_dates": [
+        {
+            "category": 5, 
+            "date": 1538265600000, 
+            "human": "2018-Q3", 
+            "m": 9, 
+            "platform": 130, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1527206400000, 
+            "human": "2018-May-25", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1527206400000, 
+            "human": "2018-May-25", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1527206400000, 
+            "human": "2018-May-25", 
+            "m": 5, 
+            "platform": 6, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1527206400000, 
+            "human": "2018-May-25", 
+            "m": 5, 
+            "platform": 49, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1527206400000, 
+            "human": "2018-May-25", 
+            "m": 5, 
+            "platform": 48, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pscwghxeqqeyjnrulure", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pscwghxeqqeyjnrulure.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "oyydb2ixg8u6czyf1w3f", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oyydb2ixg8u6czyf1w3f.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "yygdhxlhm7zjaekzieth", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yygdhxlhm7zjaekzieth.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "hhgds6hkfreckczdxlvn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hhgds6hkfreckczdxlvn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yo4ck3eku0zbtpjuy5i1", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yo4ck3eku0zbtpjuy5i1.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "gxn94hwt4q2ieohzghib", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gxn94hwt4q2ieohzghib.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "dzsvnb3j184sb1nj304t", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dzsvnb3j184sb1nj304t.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "sszdprkwkbhioqd52os2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sszdprkwkbhioqd52os2.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wppppfhgfqeuqoe6vbar", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wppppfhgfqeuqoe6vbar.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "yfzjlwmmlh5qzt74vcgy", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yfzjlwmmlh5qzt74vcgy.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "lxfmzmese5lyvu0dw79d", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lxfmzmese5lyvu0dw79d.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zqpwusikqtoeawmsdaqd", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zqpwusikqtoeawmsdaqd.jpg", 
+            "width": 1200
+        }
+    ], 
+    "slug": "dark-souls-remastered", 
+    "summary": "Developed by FromSoftware Inc., DARK SOULS: REMASTERED allows players to explore the twisted ancient land of Lordran in the first title of the critically acclaimed action role-playing series like never before. Experience the rich world of DARK SOULS in upscaled 4K resolution with 60FPS when playing on a PlayStation 4 Pro system, Xbox One X, and PC. Also, 1080p resolution with 30FPS is available when playing the game on Nintendo Switch with its TV mode. From their first timid steps to absolute mastery, players will build their characters by strategically adapting to daunting foes, exploring haunting locations, and amassing a large collection of weapons, armour and magic spells to utilise for a truly unique playstyle. \n \nDARK SOULS: REMASTERED marks the DARK SOULS series debut on a Nintendo platform, and for the first time ever can be played on the go with the unique capabilities of the Nintendo Switch console.", 
+    "tags": [
+        1, 
+        17, 
+        19, 
+        22, 
+        268435468, 
+        268435481, 
+        268435487, 
+        536872235, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        19, 
+        22
+    ], 
+    "total_rating": 88.7485671695366, 
+    "total_rating_count": 15, 
+    "updated_at": 1528753398339, 
+    "url": "https://www.igdb.com/games/dark-souls-remastered", 
+    "version_parent": 2155, 
+    "version_title": "Remastered", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "vAB_NR_H7Gg"
+        }, 
+        {
+            "name": "Preorder Trailer", 
+            "video_id": "2lShfFpvlc4"
+        }, 
+        {
+            "name": "Announcement Trailer", 
+            "video_id": "QbajbLP99T0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 14, 
+            "url": "https://www.reddit.com/r/darksouls"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/darksoulsgame"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/DarkSoulsGame"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/darksoulsEU"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Dark_Souls"
+        }, 
+        {
+            "category": 2, 
+            "url": "https://darksouls.wiki.fextralife.com/Dark+Souls+Remastered"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.bandainamcoent.com/games/ds-remastered"
+        }
+    ]
+}

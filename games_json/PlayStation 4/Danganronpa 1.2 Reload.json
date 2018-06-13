@@ -1,0 +1,112 @@
+{
+    "aggregated_rating": 85.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30c0\u30f3\u30ac\u30f3\u30ed\u30f3\u30d11\u30fb2 Reload"
+        }
+    ], 
+    "category": 3, 
+    "collection": 1301, 
+    "cover": {
+        "cloudinary_id": "gpq7yplo4rdabg9exiyq", 
+        "height": 305, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gpq7yplo4rdabg9exiyq.jpg", 
+        "width": 240
+    }, 
+    "created_at": 1489013424527, 
+    "developers": [
+        1217
+    ], 
+    "first_release_date": 1381363200000, 
+    "game_modes": [
+        1
+    ], 
+    "id": 27708, 
+    "keywords": [
+        78, 
+        94
+    ], 
+    "name": "Danganronpa 1.2 Reload", 
+    "platforms": [
+        6, 
+        46, 
+        48
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        1217
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1465171200000, 
+            "human": "2016-Jun-06", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1381363200000, 
+            "human": "2013-Oct-10", 
+            "m": 10, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1495065600000, 
+            "human": "2017-May-18", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489708800000, 
+            "human": "2017-Mar-17", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489449600000, 
+            "human": "2017-Mar-14", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pmraqb6ssgfp3faimnmh", 
+            "height": 416, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pmraqb6ssgfp3faimnmh.jpg", 
+            "width": 740
+        }
+    ], 
+    "slug": "danganronpa-1-dot-2-reload", 
+    "summary": "Danganronpa 1.2 Reload is a combination of the first and second game for release on the PS Vita, along with new features.", 
+    "total_rating": 85.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1524924636390, 
+    "url": "https://www.igdb.com/games/danganronpa-1-dot-2-reload", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://danganronpa.wikia.com/wiki/Danganronpa_1.2_Reload"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://danganronpa.us/reload/index.php"
+        }
+    ]
+}

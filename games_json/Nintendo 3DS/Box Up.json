@@ -1,0 +1,82 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "dgzx1prchrr0vbeoaefz", 
+        "height": 287, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dgzx1prchrr0vbeoaefz.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1503237129067, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1477526400000, 
+    "games": [
+        19376, 
+        19934, 
+        18918, 
+        19290, 
+        29173, 
+        55036, 
+        65832, 
+        55590, 
+        23345, 
+        19301
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 54958, 
+    "keywords": [
+        117, 
+        1495, 
+        3782, 
+        4134
+    ], 
+    "name": "Box Up", 
+    "platforms": [
+        41, 
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1477526400000, 
+            "human": "2016-Oct-27", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477526400000, 
+            "human": "2016-Oct-27", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1499904000000, 
+            "human": "2017-Jul-13", 
+            "m": 7, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "slug": "box-up", 
+    "summary": "Move a box up past randomly generated platforms without touching them.", 
+    "tags": [
+        268435471, 
+        536871029, 
+        536872407, 
+        536874694, 
+        536875046
+    ], 
+    "updated_at": 1518050769067, 
+    "url": "https://www.igdb.com/games/box-up"
+}

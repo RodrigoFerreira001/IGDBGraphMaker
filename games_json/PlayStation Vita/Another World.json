@@ -1,0 +1,554 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Outer World"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Another World"
+        }, 
+        {
+            "comment": "U.S. Title", 
+            "name": "Out of This World"
+        }
+    ], 
+    "category": 0, 
+    "collection": 1806, 
+    "cover": {
+        "cloudinary_id": "gxqkdvdufqt5rs3aueex", 
+        "height": 2749, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gxqkdvdufqt5rs3aueex.jpg", 
+        "width": 2176
+    }, 
+    "created_at": 1390763315990, 
+    "developers": [
+        501
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "233550"
+    }, 
+    "first_release_date": 694137600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        78311, 
+        7342, 
+        1331, 
+        7344, 
+        5601, 
+        117, 
+        25300, 
+        12597, 
+        7386, 
+        16992
+    ], 
+    "genres": [
+        8, 
+        9, 
+        31
+    ], 
+    "id": 4348, 
+    "keywords": [
+        3, 
+        129, 
+        296, 
+        339, 
+        558, 
+        840, 
+        939, 
+        966, 
+        970, 
+        1026, 
+        1033, 
+        1098, 
+        1102, 
+        1152, 
+        1158, 
+        1188, 
+        1345, 
+        1507, 
+        1621, 
+        1783, 
+        1886, 
+        1950, 
+        1961, 
+        2049, 
+        2109, 
+        2199, 
+        2324, 
+        2529, 
+        3061, 
+        3297, 
+        4138, 
+        4161, 
+        4177, 
+        4311, 
+        4370, 
+        4389, 
+        4393, 
+        4397, 
+        4414, 
+        4418, 
+        4446, 
+        4525, 
+        4541, 
+        4560, 
+        4599, 
+        4609, 
+        4613, 
+        4620, 
+        4626, 
+        4627, 
+        4763, 
+        4784, 
+        4833, 
+        4928, 
+        4940, 
+        4956, 
+        5104, 
+        5111, 
+        5116, 
+        5119, 
+        5122, 
+        5185, 
+        5262, 
+        5264, 
+        5266, 
+        5365, 
+        5406, 
+        5428, 
+        5440, 
+        5465, 
+        5533, 
+        5703, 
+        5721, 
+        5800, 
+        5940, 
+        5945, 
+        6457, 
+        7044, 
+        7048, 
+        7097, 
+        7305, 
+        7473, 
+        7486, 
+        7626, 
+        7655, 
+        8218, 
+        8779, 
+        8896, 
+        8983, 
+        8984, 
+        9045, 
+        9374, 
+        9551, 
+        10149, 
+        10336
+    ], 
+    "name": "Another World", 
+    "platforms": [
+        74, 
+        29, 
+        34, 
+        63, 
+        45, 
+        6, 
+        39, 
+        115, 
+        50, 
+        13, 
+        16, 
+        41, 
+        46, 
+        9, 
+        48, 
+        19, 
+        49, 
+        37, 
+        55
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        141, 
+        4612, 
+        110, 
+        5, 
+        227, 
+        501
+    ], 
+    "pulse_count": 1, 
+    "rating": 86.81826321150521, 
+    "rating_count": 36, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1403654400000, 
+            "human": "2014-Jun-25", 
+            "m": 6, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1404777600000, 
+            "human": "2014-Jul-08", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 2, 
+            "date": 788832000000, 
+            "human": "1994", 
+            "m": 12, 
+            "platform": 50, 
+            "y": 1994
+        }, 
+        {
+            "category": 2, 
+            "date": 694137600000, 
+            "human": "1991", 
+            "m": 12, 
+            "platform": 16, 
+            "y": 1991
+        }, 
+        {
+            "category": 2, 
+            "date": 725760000000, 
+            "human": "1992", 
+            "m": 12, 
+            "platform": 19, 
+            "y": 1992
+        }, 
+        {
+            "category": 2, 
+            "date": 725760000000, 
+            "human": "1992", 
+            "m": 12, 
+            "platform": 13, 
+            "y": 1992
+        }, 
+        {
+            "category": 2, 
+            "date": 725760000000, 
+            "human": "1992", 
+            "m": 12, 
+            "platform": 29, 
+            "y": 1992
+        }, 
+        {
+            "category": 2, 
+            "date": 1135987200000, 
+            "human": "2005", 
+            "m": 12, 
+            "platform": 55, 
+            "y": 2005
+        }, 
+        {
+            "category": 2, 
+            "date": 1167523200000, 
+            "human": "2006", 
+            "m": 12, 
+            "platform": 6, 
+            "y": 2006
+        }, 
+        {
+            "category": 2, 
+            "date": 1167523200000, 
+            "human": "2006", 
+            "m": 12, 
+            "platform": 74, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1316649600000, 
+            "human": "2011-Sep-22", 
+            "m": 9, 
+            "platform": 39, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 1, 
+            "date": 1330560000000, 
+            "human": "2012-Mar", 
+            "m": 3, 
+            "platform": 34, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1403136000000, 
+            "human": "2014-Jun-19", 
+            "m": 6, 
+            "platform": 41, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403136000000, 
+            "human": "2014-Jun-19", 
+            "m": 6, 
+            "platform": 37, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403654400000, 
+            "human": "2014-Jun-25", 
+            "m": 6, 
+            "platform": 46, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403654400000, 
+            "human": "2014-Jun-25", 
+            "m": 6, 
+            "platform": 48, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403654400000, 
+            "human": "2014-Jun-25", 
+            "m": 6, 
+            "platform": 9, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403654400000, 
+            "human": "2014-Jun-25", 
+            "m": 6, 
+            "platform": 49, 
+            "y": 2014
+        }, 
+        {
+            "category": 2, 
+            "date": 725760000000, 
+            "human": "1992", 
+            "m": 12, 
+            "platform": 115, 
+            "y": 1992
+        }, 
+        {
+            "category": 2, 
+            "date": 694137600000, 
+            "human": "1991", 
+            "m": 12, 
+            "platform": 63, 
+            "y": 1991
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "cku1zpsup4fuf5k09ary", 
+            "height": 473, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cku1zpsup4fuf5k09ary.jpg", 
+            "width": 540
+        }, 
+        {
+            "cloudinary_id": "tb7ydy0fgfkxbk7ypioy", 
+            "height": 473, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tb7ydy0fgfkxbk7ypioy.jpg", 
+            "width": 540
+        }, 
+        {
+            "cloudinary_id": "evmzr7tajfmldcvndlau", 
+            "height": 473, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/evmzr7tajfmldcvndlau.jpg", 
+            "width": 540
+        }, 
+        {
+            "cloudinary_id": "tun6lbhk7krkdlmojv7o", 
+            "height": 473, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tun6lbhk7krkdlmojv7o.jpg", 
+            "width": 540
+        }, 
+        {
+            "cloudinary_id": "j44ckm57zdrfljdaz6mb", 
+            "height": 473, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j44ckm57zdrfljdaz6mb.jpg", 
+            "width": 540
+        }, 
+        {
+            "cloudinary_id": "voijxk779fzxrotkxf5n", 
+            "height": 473, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/voijxk779fzxrotkxf5n.jpg", 
+            "width": 540
+        }, 
+        {
+            "cloudinary_id": "zennzjpva7l5smwjdg39", 
+            "height": 473, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zennzjpva7l5smwjdg39.jpg", 
+            "width": 540
+        }, 
+        {
+            "cloudinary_id": "v8wlypudqfdnjo6hffmt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v8wlypudqfdnjo6hffmt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "aoz8g62besxgh4k72zqa", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aoz8g62besxgh4k72zqa.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "epeue7ymeofuvfobvdqo", 
+            "height": 400, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/epeue7ymeofuvfobvdqo.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "p7db8sbledbfkmb3uvah", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p7db8sbledbfkmb3uvah.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "rf6blyn1rjmkdmmqtvoz", 
+            "height": 200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rf6blyn1rjmkdmmqtvoz.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "another-world", 
+    "summary": "Another World chronicles the story of a man hurtled through space and time by a nuclear experiment gone wrong. You assume the role of Lester Knight Chaykin, a young physicist. You\u2019ll need to dodge, outwit, and overcome a host of alien monsters and deadly earthquakes that plague the alien landscape you now call home. Only a perfect blend of logic and skill will get you past the deadly obstacles that lie in waiting.", 
+    "tags": [
+        1, 
+        18, 
+        21, 
+        268435464, 
+        268435465, 
+        268435487, 
+        536870915, 
+        536871041, 
+        536871208, 
+        536871251, 
+        536871470, 
+        536871752, 
+        536871851, 
+        536871878, 
+        536871882, 
+        536871938, 
+        536871945, 
+        536872010, 
+        536872014, 
+        536872064, 
+        536872070, 
+        536872100, 
+        536872257, 
+        536872419, 
+        536872533, 
+        536872695, 
+        536872798, 
+        536872862, 
+        536872873, 
+        536872961, 
+        536873021, 
+        536873111, 
+        536873236, 
+        536873441, 
+        536873973, 
+        536874209, 
+        536875050, 
+        536875073, 
+        536875089, 
+        536875223, 
+        536875282, 
+        536875301, 
+        536875305, 
+        536875309, 
+        536875326, 
+        536875330, 
+        536875358, 
+        536875437, 
+        536875453, 
+        536875472, 
+        536875511, 
+        536875521, 
+        536875525, 
+        536875532, 
+        536875538, 
+        536875539, 
+        536875675, 
+        536875696, 
+        536875745, 
+        536875840, 
+        536875852, 
+        536875868, 
+        536876016, 
+        536876023, 
+        536876028, 
+        536876031, 
+        536876034, 
+        536876097, 
+        536876174, 
+        536876176, 
+        536876178, 
+        536876277, 
+        536876318, 
+        536876340, 
+        536876352, 
+        536876377, 
+        536876445, 
+        536876615, 
+        536876633, 
+        536876712, 
+        536876852, 
+        536876857, 
+        536877369, 
+        536877956, 
+        536877960, 
+        536878009, 
+        536878217, 
+        536878385, 
+        536878398, 
+        536878538, 
+        536878567, 
+        536879130, 
+        536879691, 
+        536879808, 
+        536879895, 
+        536879896, 
+        536879957, 
+        536880286, 
+        536880463, 
+        536881061, 
+        536881248, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18, 
+        21
+    ], 
+    "total_rating": 86.81826321150521, 
+    "total_rating_count": 36, 
+    "updated_at": 1525909074720, 
+    "url": "https://www.igdb.com/games/another-world", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.anotherworld.fr"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/233550"
+        }
+    ]
+}

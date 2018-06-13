@@ -1,0 +1,75 @@
+{
+    "category": 0, 
+    "collection": 3082, 
+    "cover": {
+        "cloudinary_id": "pyjanek7ag4lvg4znlct", 
+        "height": 503, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pyjanek7ag4lvg4znlct.jpg", 
+        "width": 355
+    }, 
+    "created_at": 1504531424368, 
+    "first_release_date": 1077840000000, 
+    "games": [
+        71864, 
+        41661, 
+        23782, 
+        46035, 
+        10607, 
+        2373, 
+        22690, 
+        79412, 
+        43892, 
+        41330
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 56962, 
+    "keywords": [
+        299, 
+        1166, 
+        4239, 
+        4443, 
+        4667
+    ], 
+    "name": "Bowling Xciting", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1077840000000, 
+            "human": "2004-Feb-27", 
+            "m": 2, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1077840000000, 
+            "human": "2004-Feb-27", 
+            "m": 2, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2004
+        }
+    ], 
+    "slug": "bowling-xciting", 
+    "summary": "A bowling game from Tamsoft and D3 Publisher (Japan)/Agetec (UK)", 
+    "tags": [
+        268435470, 
+        536871211, 
+        536872078, 
+        536875151, 
+        536875355, 
+        536875579
+    ], 
+    "updated_at": 1516603368528, 
+    "url": "https://www.igdb.com/games/bowling-xciting"
+}

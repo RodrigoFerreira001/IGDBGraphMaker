@@ -1,0 +1,113 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 2248, 
+    "cover": {
+        "cloudinary_id": "e9vzrm6kc8lqw7ld25uw", 
+        "height": 900, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/e9vzrm6kc8lqw7ld25uw.jpg", 
+        "width": 1600
+    }, 
+    "created_at": 1468407658775, 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "first_release_date": 1411516800000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "id": 20294, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 2, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "CastleStorm: Definitive Edition", 
+    "platforms": [
+        45, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        453
+    ], 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1411516800000, 
+            "human": "2014-Sep-24", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1411516800000, 
+            "human": "2014-Sep-24", 
+            "m": 9, 
+            "platform": 45, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "u5egqd2je9whnp7tspcy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u5egqd2je9whnp7tspcy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ivbuuvregtb3gpq0rxfo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ivbuuvregtb3gpq0rxfo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dim5gxr39mnozx9dbqio", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dim5gxr39mnozx9dbqio.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "x7zpxrkayy7dtymli0gq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x7zpxrkayy7dtymli0gq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hy5spovobcw4k3suveb5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hy5spovobcw4k3suveb5.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "castlestorm-definitive-edition", 
+    "summary": "Super genre mash-up CastleStorm: Definitive Edition is invading the PlayStation 4! The game will contain the entire original campaign and expansions, as well as brand new content including new battles, modes, spells and features. Stay tuned for details.", 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528351724677, 
+    "url": "https://www.igdb.com/games/castlestorm-definitive-edition", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.castlestormgame.com/"
+        }
+    ]
+}

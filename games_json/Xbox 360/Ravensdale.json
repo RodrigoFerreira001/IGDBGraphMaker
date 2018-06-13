@@ -1,0 +1,74 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "hxsronpelt04vizsq3ez", 
+        "height": 1280, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hxsronpelt04vizsq3ez.jpg", 
+        "width": 995
+    }, 
+    "created_at": 1499866848038, 
+    "first_release_date": 1388534400000, 
+    "games": [
+        69505, 
+        76110, 
+        11214, 
+        22436, 
+        26766, 
+        12632, 
+        25300, 
+        36950, 
+        36926, 
+        27209
+    ], 
+    "id": 47424, 
+    "keywords": [
+        67, 
+        906, 
+        1026, 
+        1158, 
+        6243
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Ravensdale", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1388534400000, 
+            "human": "2014-Jan-01", 
+            "m": 1, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "slug": "ravensdale", 
+    "summary": "Project Ravensdale is slated to be a high-octane co-op carnage action-game, full of furious orcs armed with motor guns, rocket-propelled goblins and oodles of over-the-top craziness!", 
+    "tags": [
+        536870979, 
+        536871818, 
+        536871938, 
+        536872070, 
+        536877155
+    ], 
+    "updated_at": 1515806476883, 
+    "url": "https://www.igdb.com/games/ravensdale"
+}

@@ -1,0 +1,477 @@
+{
+    "aggregated_rating": 72.1428571428571, 
+    "aggregated_rating_count": 9, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "MUA"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2198, 
+    "cover": {
+        "cloudinary_id": "eimttimrik93wifcrfmd", 
+        "height": 324, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/eimttimrik93wifcrfmd.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1391717920897, 
+    "developers": [
+        71, 
+        72, 
+        432, 
+        1923, 
+        2149
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "433300"
+    }, 
+    "first_release_date": 1161648000000, 
+    "franchise": 124, 
+    "franchises": [
+        124
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        7329, 
+        25300, 
+        27421, 
+        26766, 
+        19448, 
+        6958, 
+        11567, 
+        7349, 
+        2558, 
+        36926
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "id": 4999, 
+    "keywords": [
+        14, 
+        594, 
+        668, 
+        970, 
+        1026, 
+        1186, 
+        1293, 
+        1333, 
+        2154, 
+        2387, 
+        2543, 
+        2601, 
+        3486, 
+        3540, 
+        3833, 
+        4142, 
+        4145, 
+        4169, 
+        4173, 
+        4250, 
+        4266, 
+        4284, 
+        4287, 
+        4310, 
+        4359, 
+        4440, 
+        4544, 
+        4576, 
+        4611, 
+        4613, 
+        4698, 
+        4699, 
+        4805, 
+        4869, 
+        4890, 
+        4891, 
+        4896, 
+        4913, 
+        4974, 
+        5022, 
+        5029, 
+        5175, 
+        5206, 
+        5349, 
+        5453, 
+        5782, 
+        5850, 
+        5909, 
+        6036, 
+        6196, 
+        6852, 
+        7344, 
+        7369, 
+        8298, 
+        11210
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Marvel: Ultimate Alliance", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\nIt contains: Realistic looking violence towards non human looking characters - Non realistic looking violence towards human characters - Mild bad language"
+    }, 
+    "platforms": [
+        6, 
+        11, 
+        9, 
+        38, 
+        48, 
+        12, 
+        24, 
+        49, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        2052, 
+        66
+    ], 
+    "pulse_count": 6, 
+    "rating": 79.07325871398301, 
+    "rating_count": 39, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1179360000000, 
+            "human": "2007-May-17", 
+            "m": 5, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1166745600000, 
+            "human": "2006-Dec-22", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1163894400000, 
+            "human": "2006-Nov-19", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1469664000000, 
+            "human": "2016-Jul-28", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1163721600000, 
+            "human": "2006-Nov-17", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1174608000000, 
+            "human": "2007-Mar-23", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1179360000000, 
+            "human": "2007-May-17", 
+            "m": 5, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1161648000000, 
+            "human": "2006-Oct-24", 
+            "m": 10, 
+            "platform": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1161648000000, 
+            "human": "2006-Oct-24", 
+            "m": 10, 
+            "platform": 12, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1161648000000, 
+            "human": "2006-Oct-24", 
+            "m": 10, 
+            "platform": 24, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1161648000000, 
+            "human": "2006-Oct-24", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1161648000000, 
+            "human": "2006-Oct-24", 
+            "m": 10, 
+            "platform": 8, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1161648000000, 
+            "human": "2006-Oct-24", 
+            "m": 10, 
+            "platform": 9, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1161648000000, 
+            "human": "2006-Oct-24", 
+            "m": 10, 
+            "platform": 38, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1161648000000, 
+            "human": "2006-Oct-24", 
+            "m": 10, 
+            "platform": 11, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1469491200000, 
+            "human": "2016-Jul-26", 
+            "m": 7, 
+            "platform": 48, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1469664000000, 
+            "human": "2016-Jul-28", 
+            "m": 7, 
+            "platform": 49, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ht0iw9ypuum3squkgkom", 
+            "height": 444, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ht0iw9ypuum3squkgkom.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "xufpoh2dizs0sgfhpa3f", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xufpoh2dizs0sgfhpa3f.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "rfqxv4hxg5i4yrzb36nf", 
+            "height": 445, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rfqxv4hxg5i4yrzb36nf.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "gkeitv5e06gwtvv9wfr0", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gkeitv5e06gwtvv9wfr0.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "bdw4ovwkzb3n8vmfw2i4", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bdw4ovwkzb3n8vmfw2i4.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "wdlrrjjh77duudzdtpta", 
+            "height": 444, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wdlrrjjh77duudzdtpta.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "xjhlbxsgrulwzjctf32s", 
+            "height": 443, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xjhlbxsgrulwzjctf32s.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "mxz0na9qyhnb9ttsfazs", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mxz0na9qyhnb9ttsfazs.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vtmw4llpmpcecowhwhfe", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vtmw4llpmpcecowhwhfe.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rfn9wvjlctj7u7pvs5lo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rfn9wvjlctj7u7pvs5lo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qbreiqmndx8rhreljqtg", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qbreiqmndx8rhreljqtg.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "lc3mnz7zxdy5msfgmm4g", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lc3mnz7zxdy5msfgmm4g.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "marvel-ultimate-alliance", 
+    "summary": "Marvel: Ultimate Alliance is an action role playing game set within the fictional Marvel Universe. It features many of the superheroes, supervillains, and supporting characters that appear in publications by Marvel Comics.", 
+    "tags": [
+        1, 
+        18, 
+        268435468, 
+        268435487, 
+        536870926, 
+        536871506, 
+        536871580, 
+        536871882, 
+        536871938, 
+        536872098, 
+        536872205, 
+        536872245, 
+        536873066, 
+        536873299, 
+        536873455, 
+        536873513, 
+        536874398, 
+        536874452, 
+        536874745, 
+        536875054, 
+        536875057, 
+        536875081, 
+        536875085, 
+        536875162, 
+        536875178, 
+        536875196, 
+        536875199, 
+        536875222, 
+        536875271, 
+        536875352, 
+        536875456, 
+        536875488, 
+        536875523, 
+        536875525, 
+        536875610, 
+        536875611, 
+        536875717, 
+        536875781, 
+        536875802, 
+        536875803, 
+        536875808, 
+        536875825, 
+        536875886, 
+        536875934, 
+        536875941, 
+        536876087, 
+        536876118, 
+        536876261, 
+        536876365, 
+        536876694, 
+        536876762, 
+        536876821, 
+        536876948, 
+        536877108, 
+        536877764, 
+        536878256, 
+        536878281, 
+        536879210, 
+        536882122, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 75.60805792842005, 
+    "total_rating_count": 48, 
+    "updated_at": 1528355283831, 
+    "url": "https://www.igdb.com/games/marvel-ultimate-alliance", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "GRMAtMg06xk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/433300"
+        }
+    ]
+}

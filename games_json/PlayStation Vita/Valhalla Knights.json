@@ -1,0 +1,89 @@
+{
+    "aggregated_rating": 44.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 775, 
+    "cover": {
+        "cloudinary_id": "zxabdoxb92izjycrg6ge", 
+        "height": 450, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zxabdoxb92izjycrg6ge.jpg", 
+        "width": 450
+    }, 
+    "created_at": 1467995018008, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1176768000000, 
+    "games": [
+        36608, 
+        12632, 
+        16468, 
+        25300, 
+        36926, 
+        59516, 
+        55092, 
+        22747, 
+        55289, 
+        54778
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 20073, 
+    "keywords": [
+        415, 
+        1026, 
+        4134, 
+        5328, 
+        7166
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 38, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Valhalla Knights", 
+    "platforms": [
+        46
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1176768000000, 
+            "human": "2007-Apr-17", 
+            "m": 4, 
+            "platform": 46, 
+            "y": 2007
+        }
+    ], 
+    "slug": "valhalla-knights", 
+    "summary": "Experience a unique adventure featuring endless customization options as you build the ultimate six-member battle party to traverse through the dangerous lands of Eldar.\n\u2022\tCustomizable characters give each player a unique experience \u2013 select from five races (human, dwarf, halfling, elf, machine) and eight different job classes (Fighter, Mage, Priest, Thief, Knight, Samurai, Ninja, Anchor).\n\u2022\tEnjoy the vast selection of weapons, armor and accessories, and charge into battle against over 100 different types of monsters such as dragons, giants, vampires, and ghosts.\n\u2022\tSwitch between controlling any of the six party members on the fly during intense real-time battles.\n\u2022\tHighly detailed indoor and outdoor environments such as forests, dungeons, tunnels, castles, and an old ninja village\n\u2022\tNetwork Play - Team up with another player via local ad hoc connection for exclusive co-op missions, or wager gold and items in winner take all 2-player versus combat.", 
+    "tags": [
+        1, 
+        268435468, 
+        536871327, 
+        536871938, 
+        536875046, 
+        536876240, 
+        536878078
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 44.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1515658109412, 
+    "url": "https://www.igdb.com/games/valhalla-knights"
+}

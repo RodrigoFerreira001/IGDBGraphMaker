@@ -1,0 +1,127 @@
+{
+    "category": 1, 
+    "collection": 34, 
+    "cover": {
+        "cloudinary_id": "bw3nfaiaurvundt7jdly", 
+        "height": 720, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bw3nfaiaurvundt7jdly.jpg", 
+        "width": 1280
+    }, 
+    "created_at": 1472033384737, 
+    "developers": [
+        94
+    ], 
+    "first_release_date": 1277164800000, 
+    "game": 352, 
+    "game_engines": [
+        2
+    ], 
+    "game_modes": [
+        2
+    ], 
+    "games": [
+        9760, 
+        76229, 
+        28029, 
+        100366, 
+        72458, 
+        43029, 
+        17242, 
+        14309, 
+        14236, 
+        13580
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 22962, 
+    "name": "Battlefield: Bad Company 2 - Onslaught", 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1277164800000, 
+            "human": "2010-Jun-22", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1277337600000, 
+            "human": "2010-Jun-24", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1277251200000, 
+            "human": "2010-Jun-23", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }
+    ], 
+    "slug": "battlefield-bad-company-2-onslaught", 
+    "summary": "Onslaught is a cooperative game-mode featured in Battlefield: Bad Company 2 as downloadable content, putting four players against enemy AI on redesigned variants of Valparaiso, Atacama Desert, Isla Inocentes and Nelson Bay, each having their own dedicated gameplay focus.", 
+    "tags": [
+        39, 
+        268435461, 
+        1073741825
+    ], 
+    "themes": [
+        39
+    ], 
+    "updated_at": 1488798114506, 
+    "url": "https://www.igdb.com/games/battlefield-bad-company-2-onslaught", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "vqg4LliU5w8"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/24960"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/Battlefield"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/battlefield"
+        }, 
+        {
+            "category": 6, 
+            "url": "https://www.twitch.tv/battlefield"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/battlefield"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://battlefield.wikia.com/wiki/Onslaught"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://badcompany2.ea.com"
+        }
+    ]
+}

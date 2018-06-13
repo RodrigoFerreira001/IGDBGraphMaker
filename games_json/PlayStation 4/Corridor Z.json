@@ -1,0 +1,123 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "llqobnktixqzehf0cx01", 
+        "height": 175, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/llqobnktixqzehf0cx01.jpg", 
+        "width": 175
+    }, 
+    "created_at": 1504855500127, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "636070"
+    }, 
+    "first_release_date": 1462233600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25646, 
+        13189, 
+        27266, 
+        26914, 
+        29525, 
+        28148, 
+        55289, 
+        25311, 
+        37022, 
+        19448
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 60298, 
+    "keywords": [
+        1120, 
+        1186, 
+        4145, 
+        4169, 
+        4369, 
+        4644
+    ], 
+    "name": "Corridor Z", 
+    "platforms": [
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1462233600000, 
+            "human": "2016-May-03", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "svcythyciulqgoecwc3h", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/svcythyciulqgoecwc3h.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bdbypg45ouixv4wyoqim", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bdbypg45ouixv4wyoqim.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dkqkkolgc53elje16sg6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dkqkkolgc53elje16sg6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "i5f9goipyc1r7rjzkuwu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i5f9goipyc1r7rjzkuwu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mwlokzwzwwwkshddoza4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mwlokzwzwwwkshddoza4.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "corridor-z", 
+    "summary": "Runner game for mobile and handhelds.", 
+    "tags": [
+        1, 
+        19, 
+        268435487, 
+        268435488, 
+        536872032, 
+        536872098, 
+        536875057, 
+        536875081, 
+        536875281, 
+        536875556
+    ], 
+    "themes": [
+        1, 
+        19
+    ], 
+    "updated_at": 1523346507507, 
+    "url": "https://www.igdb.com/games/corridor-z", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://corridorzthegame.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/636070"
+        }
+    ]
+}

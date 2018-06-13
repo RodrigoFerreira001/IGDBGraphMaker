@@ -1,0 +1,110 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 1327, 
+    "cover": {
+        "cloudinary_id": "pifk4hmo4jmtfvkqfdfg", 
+        "height": 400, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pifk4hmo4jmtfvkqfdfg.jpg", 
+        "width": 960
+    }, 
+    "created_at": 1468944730108, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1192233600000, 
+    "games": [
+        665, 
+        14363, 
+        26709, 
+        19539, 
+        40470, 
+        28951, 
+        46521, 
+        28856, 
+        11198, 
+        3772
+    ], 
+    "genres": [
+        10
+    ], 
+    "id": 20762, 
+    "keywords": [
+        274, 
+        1739, 
+        1783, 
+        2152, 
+        2543, 
+        3425, 
+        4157, 
+        4188, 
+        4205, 
+        4211, 
+        4239, 
+        4282, 
+        4346, 
+        4544, 
+        4726, 
+        4754, 
+        5523, 
+        5669, 
+        5850, 
+        8157, 
+        11975, 
+        13083
+    ], 
+    "name": "PixelJunk Racers", 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1192233600000, 
+            "human": "2007-Oct-13", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "slug": "pixeljunk-racers", 
+    "summary": "Control tiny slot cars through a variety of driving challenges in PixelJunk Racers.", 
+    "tags": [
+        268435466, 
+        536871186, 
+        536872651, 
+        536872695, 
+        536873064, 
+        536873455, 
+        536874337, 
+        536875069, 
+        536875100, 
+        536875117, 
+        536875123, 
+        536875151, 
+        536875194, 
+        536875258, 
+        536875456, 
+        536875638, 
+        536875666, 
+        536876435, 
+        536876581, 
+        536876762, 
+        536879069, 
+        536882887, 
+        536883995
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1520803491289, 
+    "url": "https://www.igdb.com/games/pixeljunk-racers", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "V4OHpd4Hj7M"
+        }
+    ]
+}

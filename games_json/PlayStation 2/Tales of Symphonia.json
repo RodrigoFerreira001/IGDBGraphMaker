@@ -1,0 +1,339 @@
+{
+    "aggregated_rating": 89.3333333333333, 
+    "aggregated_rating_count": 4, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "ToS"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30f3\u30d5\u30a9\u30cb\u30a2"
+        }, 
+        {
+            "comment": "Chinese title", 
+            "name": "\u4ed9\u4e50\u4f20\u8bf4"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "sqvfszsupokjwc0hzs3s", 
+            "height": 700, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sqvfszsupokjwc0hzs3s.jpg", 
+            "width": 630
+        }
+    ], 
+    "category": 0, 
+    "collection": 269, 
+    "cover": {
+        "cloudinary_id": "xb8neskbdm73ul8ka6hm", 
+        "height": 680, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xb8neskbdm73ul8ka6hm.jpg", 
+        "width": 486
+    }, 
+    "created_at": 1341709313440, 
+    "developers": [
+        826
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "372360"
+    }, 
+    "first_release_date": 1062115200000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        12632, 
+        6452, 
+        55092, 
+        11169, 
+        36926, 
+        36534, 
+        2933, 
+        27209, 
+        11214, 
+        27092
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 1204, 
+    "keywords": [
+        76, 
+        78, 
+        174, 
+        227, 
+        296, 
+        332, 
+        345, 
+        478, 
+        505, 
+        521, 
+        658, 
+        966, 
+        1019, 
+        1026, 
+        1427, 
+        2154, 
+        4031, 
+        4182, 
+        4284, 
+        4414, 
+        4428, 
+        4629, 
+        4694, 
+        4698, 
+        4727, 
+        4749, 
+        4755, 
+        4760, 
+        4787, 
+        4879, 
+        5120, 
+        5157, 
+        5202, 
+        5374, 
+        5422, 
+        5461, 
+        5501, 
+        5937, 
+        6471, 
+        6604, 
+        6901, 
+        6921, 
+        7001, 
+        7080, 
+        7461, 
+        7547, 
+        7619, 
+        9246, 
+        9259, 
+        9260, 
+        10403, 
+        10740, 
+        14488
+    ], 
+    "name": "Tales of Symphonia", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters - Mild bad language - Violence causing minor injury only."
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        21, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 3.333333333333333, 
+    "publishers": [
+        263, 
+        5024, 
+        70
+    ], 
+    "pulse_count": 1, 
+    "rating": 89.9856476976017, 
+    "rating_count": 25, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1062115200000, 
+            "human": "2003-Aug-29", 
+            "m": 8, 
+            "platform": 21, 
+            "region": 5, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1089676800000, 
+            "human": "2004-Jul-13", 
+            "m": 7, 
+            "platform": 21, 
+            "region": 2, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1100822400000, 
+            "human": "2004-Nov-19", 
+            "m": 11, 
+            "platform": 21, 
+            "region": 1, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1095811200000, 
+            "human": "2004-Sep-22", 
+            "m": 9, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1393286400000, 
+            "human": "2014-Feb-25", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1393545600000, 
+            "human": "2014-Feb-28", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1393545600000, 
+            "human": "2014-Feb-28", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1101168000000, 
+            "human": "2004-Nov-23", 
+            "m": 11, 
+            "platform": 21, 
+            "region": 3, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1454284800000, 
+            "human": "2016-Feb-01", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bktrfgfwqohj8xnlq7pk", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bktrfgfwqohj8xnlq7pk.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "dpwlueqktnmss2pbitua", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dpwlueqktnmss2pbitua.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jjmu8ybytrqkyppimxue", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jjmu8ybytrqkyppimxue.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zjezh00je4as7wsudbd9", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zjezh00je4as7wsudbd9.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "mnq1nim0acbjsvmqm06p", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mnq1nim0acbjsvmqm06p.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "tales-of-symphonia", 
+    "summary": "THE EPIC BATTLE FOR SURVIVAL\n\nIn a dying world, legend has it that a Chosen One will one day rise from amongst the people and the land will be reborn. The line between good and evil blurs in this epic adventure where the fate of two interlocked worlds hangs in the balance. \n\nAN EPIC ADVENTURE \u2013 Over 80 hours of gameplay in this epic, emotionally charged storyline.\n\nREAL-TIME 3D BATTLE SYSTEM \u2013 Experience the fierce, action-packed battle system. Combine hundreds of special attacks and magic spells.\n\nA CLASSIC ART STYLE LIVES ON \u2013 Become absorbed in endearing cel-shaded characters designed by renowned artist Kosuke Fujishima", 
+    "tags": [
+        1, 
+        17, 
+        268435468, 
+        536870988, 
+        536870990, 
+        536871086, 
+        536871139, 
+        536871208, 
+        536871244, 
+        536871257, 
+        536871390, 
+        536871417, 
+        536871433, 
+        536871570, 
+        536871878, 
+        536871931, 
+        536871938, 
+        536872339, 
+        536873066, 
+        536874943, 
+        536875094, 
+        536875196, 
+        536875326, 
+        536875340, 
+        536875541, 
+        536875606, 
+        536875610, 
+        536875639, 
+        536875661, 
+        536875667, 
+        536875672, 
+        536875699, 
+        536875791, 
+        536876032, 
+        536876069, 
+        536876114, 
+        536876286, 
+        536876334, 
+        536876373, 
+        536876413, 
+        536876849, 
+        536877383, 
+        536877516, 
+        536877813, 
+        536877833, 
+        536877913, 
+        536877992, 
+        536878373, 
+        536878459, 
+        536878531, 
+        536880158, 
+        536880171, 
+        536880172, 
+        536881315, 
+        536881652, 
+        536885400, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 89.6594905154675, 
+    "total_rating_count": 29, 
+    "updated_at": 1528852555034, 
+    "url": "https://www.igdb.com/games/tales-of-symphonia", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "irtsH3Y3N2s"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/372360"
+        }
+    ]
+}

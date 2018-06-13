@@ -1,0 +1,453 @@
+{
+    "aggregated_rating": 85.3888888888889, 
+    "aggregated_rating_count": 21, 
+    "artworks": [
+        {
+            "cloudinary_id": "itnsstbbuzowv4juoolp", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/itnsstbbuzowv4juoolp.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "d5lfxsasbqiaz3soif6i", 
+            "height": 1152, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d5lfxsasbqiaz3soif6i.jpg", 
+            "width": 1969
+        }, 
+        {
+            "cloudinary_id": "hhbln3j45hqlg03ztvhj", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hhbln3j45hqlg03ztvhj.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "d7cpnj84lhuvf6enjzmq", 
+            "height": 707, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d7cpnj84lhuvf6enjzmq.jpg", 
+            "width": 1131
+        }, 
+        {
+            "cloudinary_id": "op3ir1tjuhb7gn50rqhm", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/op3ir1tjuhb7gn50rqhm.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "sem07tb3jllsirxwsluh", 
+            "height": 1756, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sem07tb3jllsirxwsluh.jpg", 
+            "width": 3000
+        }, 
+        {
+            "cloudinary_id": "y3kzazxszyr9bzywjpnl", 
+            "height": 599, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y3kzazxszyr9bzywjpnl.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "l4viutznqjc4xsdxquug", 
+            "height": 2341, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l4viutznqjc4xsdxquug.jpg", 
+            "width": 4000
+        }, 
+        {
+            "cloudinary_id": "udatazrrj68q6vz6nygd", 
+            "height": 1152, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/udatazrrj68q6vz6nygd.jpg", 
+            "width": 1969
+        }, 
+        {
+            "cloudinary_id": "n26jsgcjtewtczaz6zuy", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n26jsgcjtewtczaz6zuy.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "potjvvdxmcz9phkbdane", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/potjvvdxmcz9phkbdane.jpg", 
+            "width": 1600
+        }
+    ], 
+    "category": 0, 
+    "collection": 3039, 
+    "cover": {
+        "cloudinary_id": "x4c3dpmywrxzjacvvg4i", 
+        "height": 262, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/x4c3dpmywrxzjacvvg4i.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1391219295896, 
+    "developers": [
+        111
+    ], 
+    "dlcs": [
+        15555, 
+        15554, 
+        15553, 
+        15552
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "expansions": [
+        15464, 
+        15460, 
+        15459
+    ], 
+    "external": {
+        "steam": "214490"
+    }, 
+    "first_release_date": 1412640000000, 
+    "franchise": 23, 
+    "franchises": [
+        23
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        7329, 
+        7350, 
+        25300, 
+        536, 
+        19448, 
+        3025, 
+        18866, 
+        18167, 
+        26192, 
+        7599
+    ], 
+    "genres": [
+        31
+    ], 
+    "hypes": 10, 
+    "id": 4754, 
+    "keywords": [
+        3, 
+        46, 
+        129, 
+        714, 
+        962, 
+        970, 
+        1033, 
+        1120, 
+        1158, 
+        1437, 
+        1836, 
+        3203, 
+        4134, 
+        4138, 
+        4142, 
+        4145, 
+        4153, 
+        4202, 
+        4245, 
+        4287, 
+        4317, 
+        4330, 
+        4359, 
+        4382, 
+        4583, 
+        4588, 
+        4609, 
+        4622, 
+        4625, 
+        4870, 
+        4877, 
+        4892, 
+        4895, 
+        4910, 
+        4925, 
+        4977, 
+        4990, 
+        5176, 
+        5256, 
+        5268, 
+        5316, 
+        5317, 
+        5823, 
+        5914, 
+        6197, 
+        6239, 
+        6356, 
+        6440, 
+        6621, 
+        6745, 
+        7215, 
+        7460, 
+        8251, 
+        9003, 
+        9431, 
+        9432, 
+        9433
+    ], 
+    "name": "Alien: Isolation", 
+    "pegi": {
+        "rating": 5
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        9, 
+        48, 
+        12, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        1, 
+        7
+    ], 
+    "popularity": 7.666666666666667, 
+    "publishers": [
+        112, 
+        23
+    ], 
+    "pulse_count": 27, 
+    "rating": 86.51517895455379, 
+    "rating_count": 155, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1445904000000, 
+            "human": "2015-Oct-27", 
+            "m": 10, 
+            "platform": 3, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 12, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 9, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 48, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 49, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 14, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dek1ysjlwizlhh0z624o", 
+            "height": 2259, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dek1ysjlwizlhh0z624o.jpg", 
+            "width": 3961
+        }, 
+        {
+            "cloudinary_id": "bq2xsojs8vvr8hkkpdbn", 
+            "height": 2259, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bq2xsojs8vvr8hkkpdbn.jpg", 
+            "width": 4000
+        }, 
+        {
+            "cloudinary_id": "o6ybxwgiyeup9evnayzm", 
+            "height": 2259, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o6ybxwgiyeup9evnayzm.jpg", 
+            "width": 4000
+        }, 
+        {
+            "cloudinary_id": "fhx3rlrrnoplghpveooo", 
+            "height": 2259, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fhx3rlrrnoplghpveooo.jpg", 
+            "width": 4000
+        }, 
+        {
+            "cloudinary_id": "nkvu96w7jyzcbkh0fsmi", 
+            "height": 2259, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nkvu96w7jyzcbkh0fsmi.jpg", 
+            "width": 4000
+        }
+    ], 
+    "slug": "alien-isolation", 
+    "summary": "Discover the true meaning of fear in Alien: Isolation, a survival horror set in an atmosphere of constant dread and mortal danger. Fifteen years after the events of Alien\u2122, Ellen Ripley's daughter, Amanda enters a desperate battle for survival, on a mission to unravel the truth behind her mother's disappearance.\n\nAs Amanda, you will navigate through an increasingly volatile world as you find yourself confronted on all sides by a panicked, desperate population and an unpredictable, ruthless Alien.\n\nUnderpowered and underprepared, you must scavenge resources, improvise solutions and use your wits, not just to succeed in your mission, but to simply stay alive.", 
+    "tags": [
+        1, 
+        18, 
+        19, 
+        21, 
+        23, 
+        268435487, 
+        536870915, 
+        536870958, 
+        536871041, 
+        536871626, 
+        536871874, 
+        536871882, 
+        536871945, 
+        536872032, 
+        536872070, 
+        536872349, 
+        536872748, 
+        536874115, 
+        536875046, 
+        536875050, 
+        536875054, 
+        536875057, 
+        536875065, 
+        536875114, 
+        536875157, 
+        536875199, 
+        536875229, 
+        536875242, 
+        536875271, 
+        536875294, 
+        536875495, 
+        536875500, 
+        536875521, 
+        536875534, 
+        536875537, 
+        536875782, 
+        536875789, 
+        536875804, 
+        536875807, 
+        536875822, 
+        536875837, 
+        536875889, 
+        536875902, 
+        536876088, 
+        536876168, 
+        536876180, 
+        536876228, 
+        536876229, 
+        536876735, 
+        536876826, 
+        536877109, 
+        536877151, 
+        536877268, 
+        536877352, 
+        536877533, 
+        536877657, 
+        536878127, 
+        536878372, 
+        536879163, 
+        536879915, 
+        536880343, 
+        536880344, 
+        536880345, 
+        1073741825, 
+        1073741831
+    ], 
+    "themes": [
+        1, 
+        18, 
+        19, 
+        21, 
+        23
+    ], 
+    "time_to_beat": {
+        "completely": 90000, 
+        "normally": 67200
+    }, 
+    "total_rating": 85.95203392172135, 
+    "total_rating_count": 176, 
+    "updated_at": 1528254423813, 
+    "url": "https://www.igdb.com/games/alien-isolation", 
+    "videos": [
+        {
+            "name": "E3 Trailer", 
+            "video_id": "F5SpLrp9KpM"
+        }, 
+        {
+            "name": "Improvise CGI Trailer", 
+            "video_id": "49420mdnMyo"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "Whr7u_B6Jn0"
+        }, 
+        {
+            "name": "Announcement Trailer", 
+            "video_id": "yCufM8ndxoQ"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "W9Xw5rGFE4E"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/214490"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.alienisolation.com"
+        }
+    ]
+}

@@ -1,0 +1,288 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 1688, 
+    "cover": {
+        "cloudinary_id": "rxly0kzdxgl7sebqobth", 
+        "height": 360, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rxly0kzdxgl7sebqobth.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1424559528111, 
+    "developers": [
+        4886
+    ], 
+    "first_release_date": 473299200000, 
+    "franchise": 391, 
+    "franchises": [
+        391
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        65832, 
+        19083, 
+        19934, 
+        11588, 
+        12773, 
+        40931, 
+        36868, 
+        29173, 
+        7329, 
+        76731
+    ], 
+    "genres": [
+        15, 
+        33
+    ], 
+    "id": 9166, 
+    "keywords": [
+        217, 
+        350, 
+        639, 
+        1186, 
+        2859, 
+        3782, 
+        4162, 
+        4310, 
+        4359, 
+        4805, 
+        5469, 
+        12116
+    ], 
+    "name": "Spy vs Spy", 
+    "platforms": [
+        63, 
+        134, 
+        93, 
+        69, 
+        65, 
+        16, 
+        75, 
+        125, 
+        15, 
+        26, 
+        77, 
+        25, 
+        94, 
+        18, 
+        64
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        11739, 
+        11310, 
+        4886, 
+        4887, 
+        1281, 
+        4076, 
+        1251
+    ], 
+    "rating": 57.6991375033094, 
+    "rating_count": 7, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 77, 
+            "region": 5, 
+            "y": 1986
+        }, 
+        {
+            "category": 0, 
+            "date": 523238400000, 
+            "human": "1986-Aug-01", 
+            "m": 8, 
+            "platform": 125, 
+            "region": 5, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 134, 
+            "region": 1, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 94, 
+            "region": 1, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 93, 
+            "region": 1, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 69, 
+            "region": 1, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 16, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 0, 
+            "date": 527558400000, 
+            "human": "1986-Sep-20", 
+            "m": 9, 
+            "platform": 64, 
+            "region": 5, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1985
+        }, 
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 75, 
+            "region": 2, 
+            "y": 1985
+        }, 
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 25, 
+            "region": 1, 
+            "y": 1985
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 65, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 0, 
+            "date": 514857600000, 
+            "human": "1986-Apr-26", 
+            "m": 4, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1986
+        }, 
+        {
+            "category": 0, 
+            "date": 589075200000, 
+            "human": "1988-Sep-01", 
+            "m": 9, 
+            "platform": 18, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 649036800000, 
+            "human": "1990-Jul-27", 
+            "m": 7, 
+            "platform": 18, 
+            "region": 1, 
+            "y": 1990
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dbxjdf3c4rzrkhl1qoai", 
+            "height": 320, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dbxjdf3c4rzrkhl1qoai.jpg", 
+            "width": 568
+        }
+    ], 
+    "slug": "spy-vs-spy--1", 
+    "summary": "Spy vs Spy is a remake of the game that was based on the popular Mad Magazine feature from the 1960s", 
+    "tags": [
+        1, 
+        27, 
+        268435471, 
+        268435489, 
+        536871129, 
+        536871262, 
+        536871551, 
+        536872098, 
+        536873771, 
+        536874694, 
+        536875074, 
+        536875222, 
+        536875271, 
+        536875717, 
+        536876381, 
+        536883028, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 58.8495687516547, 
+    "total_rating_count": 9, 
+    "updated_at": 1517270842271, 
+    "url": "https://www.igdb.com/games/spy-vs-spy--1", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "LJC7DIP5JIw"
+        }
+    ]
+}

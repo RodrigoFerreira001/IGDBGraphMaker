@@ -1,0 +1,48 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "pk80mpx6ewu6v2o1sclq", 
+        "height": 640, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pk80mpx6ewu6v2o1sclq.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1488103457015, 
+    "esrb": {
+        "rating": 1
+    }, 
+    "id": 27406, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Alaloth: Champions of the Four Kingdoms", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 49, 
+            "region": 8
+        }
+    ], 
+    "slug": "alaloth-champions-of-the-four-kingdoms", 
+    "summary": "Set in a vibrant fantasy world, Alaloth \u2013 Champions of The Four Kingdoms offers fast paced action with a deep narrative, developed by a team of industry veterans. The game brings the aRPG dynamics to a new level with a skill based gameplay inspired by great classics such as Moonstone and modern masterpieces as Dark Souls in a gritty, dark, mature environment filled with blood and magic!", 
+    "updated_at": 1501045680116, 
+    "url": "https://www.igdb.com/games/alaloth-champions-of-the-four-kingdoms"
+}

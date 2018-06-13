@@ -1,0 +1,154 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "dn5nce0pwruuzwn0jxot", 
+        "height": 353, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dn5nce0pwruuzwn0jxot.jpg", 
+        "width": 616
+    }, 
+    "created_at": 1495805246099, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "391130"
+    }, 
+    "first_release_date": 1447804800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        76110, 
+        18623, 
+        10039, 
+        23345, 
+        11423, 
+        6732, 
+        19407, 
+        22418, 
+        72373, 
+        19934
+    ], 
+    "genres": [
+        4, 
+        32
+    ], 
+    "id": 34766, 
+    "keywords": [
+        107, 
+        151, 
+        589, 
+        1158, 
+        1494, 
+        4134, 
+        4151, 
+        4369, 
+        4910, 
+        5299
+    ], 
+    "name": "STEEL RIVALS", 
+    "platforms": [
+        6, 
+        41
+    ], 
+    "popularity": 1.0, 
+    "rating": 57.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1457568000000, 
+            "human": "2016-Mar-10", 
+            "m": 3, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1456963200000, 
+            "human": "2016-Mar-03", 
+            "m": 3, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1447804800000, 
+            "human": "2015-Nov-18", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "it2cba7f3wnmaoqbmb5u", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/it2cba7f3wnmaoqbmb5u.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "oisqannzmg6kf9h7hluk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oisqannzmg6kf9h7hluk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yxoqtspymzx4iysang2p", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yxoqtspymzx4iysang2p.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tzdlaqc80zqbbfwqxnq2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tzdlaqc80zqbbfwqxnq2.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nqfqf0bofbak2cb3wo2z", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nqfqf0bofbak2cb3wo2z.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "steel-rivals", 
+    "summary": "STEEL RIVALS is a 2.5D fighting game for one or two players. Play tournament mode, survival mode or VS mode against the AI or another human player. Supports leaderboards and trading cards.", 
+    "tags": [
+        1, 
+        22, 
+        268435460, 
+        268435488, 
+        536871019, 
+        536871063, 
+        536871501, 
+        536872070, 
+        536872406, 
+        536875046, 
+        536875063, 
+        536875281, 
+        536875822, 
+        536876211
+    ], 
+    "themes": [
+        1, 
+        22
+    ], 
+    "total_rating": 57.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1522076774202, 
+    "url": "https://www.igdb.com/games/steel-rivals", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://nugame.ninja"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/391130"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Kidou Soukou Dion"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "c8ppqinmxvkm5t2syf0s", 
+        "height": 280, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/c8ppqinmxvkm5t2syf0s.jpg", 
+        "width": 404
+    }, 
+    "created_at": 1449918408297, 
+    "first_release_date": 723081600000, 
+    "games": [
+        68287, 
+        71455, 
+        10209, 
+        26766, 
+        36950, 
+        48488, 
+        25300, 
+        10213, 
+        64204, 
+        27314
+    ], 
+    "id": 15220, 
+    "keywords": [
+        166, 
+        970, 
+        4967
+    ], 
+    "name": "Erik", 
+    "platforms": [
+        63, 
+        19
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 723081600000, 
+            "human": "1992-Nov-30", 
+            "m": 11, 
+            "platform": 19, 
+            "region": 2, 
+            "y": 1992
+        }, 
+        {
+            "category": 2, 
+            "date": 725760000000, 
+            "human": "1992", 
+            "m": 12, 
+            "platform": 63, 
+            "y": 1992
+        }
+    ], 
+    "slug": "erik", 
+    "summary": "A vertical-scrolling shoot 'em up by Vic Tokai for the Super Nintendo. It is known as Kidou Soukou Dion in Japan.", 
+    "tags": [
+        18, 
+        536871078, 
+        536871882, 
+        536875879
+    ], 
+    "themes": [
+        18
+    ], 
+    "updated_at": 1516719451863, 
+    "url": "https://www.igdb.com/games/erik"
+}

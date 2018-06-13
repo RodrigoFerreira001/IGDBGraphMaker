@@ -1,0 +1,427 @@
+{
+    "aggregated_rating": 72.5714285714286, 
+    "aggregated_rating_count": 17, 
+    "category": 0, 
+    "collection": 3015, 
+    "cover": {
+        "cloudinary_id": "tzqf44lastzdb5k377kw", 
+        "height": 1714, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tzqf44lastzdb5k377kw.jpg", 
+        "width": 1535
+    }, 
+    "created_at": 1430076420905, 
+    "developers": [
+        293
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": " This is an action-adventure game based on the characters and events of the Jurassic Park movie franchise. Players control Lego versions of characters as they traverse platform environments, solve puzzles, and battle dinosaurs and enemy hunters. Players use punches, kicks, and firearms to cause damage in battle; combat is highlighted by impact sounds and cries of pain. Enemies burst into Lego pieces when defeated. The game includes instances of crude humor: a close-up of a character covered in mucus; characters searching through large piles of dinosaur droppings, accompanied by comical remarks (e.g., \u201cI was wondering where I dropped my ice pop. Uh, I'll let you keep it\u201d and \u201cBut when we drive back, I'm putting a tarp down on your seat.\u201d). "
+    }, 
+    "external": {
+        "steam": "352400"
+    }, 
+    "first_release_date": 1433980800000, 
+    "franchise": 486, 
+    "franchises": [
+        486, 
+        51
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        25300, 
+        36950, 
+        27314, 
+        25311, 
+        19448, 
+        25646, 
+        26766, 
+        68287, 
+        29525, 
+        71455
+    ], 
+    "genres": [
+        9, 
+        31
+    ], 
+    "hypes": 2, 
+    "id": 9918, 
+    "keywords": [
+        57, 
+        87, 
+        410, 
+        658, 
+        795, 
+        970, 
+        3626, 
+        4181, 
+        4651, 
+        4731, 
+        4732, 
+        4813, 
+        4937, 
+        4938, 
+        9292
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "LEGO Jurassic World", 
+    "platforms": [
+        6, 
+        39, 
+        41, 
+        46, 
+        9, 
+        48, 
+        12, 
+        49, 
+        37
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        50
+    ], 
+    "rating": 76.8225990282737, 
+    "rating_count": 18, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1459296000000, 
+            "human": "2016-Mar-30", 
+            "m": 3, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1435881600000, 
+            "human": "2015-Jul-03", 
+            "m": 7, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1433980800000, 
+            "human": "2015-Jun-11", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1433980800000, 
+            "human": "2015-Jun-11", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1433980800000, 
+            "human": "2015-Jun-11", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1434067200000, 
+            "human": "2015-Jun-12", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1434067200000, 
+            "human": "2015-Jun-12", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1434067200000, 
+            "human": "2015-Jun-12", 
+            "m": 6, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1434067200000, 
+            "human": "2015-Jun-12", 
+            "m": 6, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1434067200000, 
+            "human": "2015-Jun-12", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1434067200000, 
+            "human": "2015-Jun-12", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1434067200000, 
+            "human": "2015-Jun-12", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1434067200000, 
+            "human": "2015-Jun-12", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1434067200000, 
+            "human": "2015-Jun-12", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1434067200000, 
+            "human": "2015-Jun-12", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1434067200000, 
+            "human": "2015-Jun-12", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1434067200000, 
+            "human": "2015-Jun-12", 
+            "m": 6, 
+            "platform": 46, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1434067200000, 
+            "human": "2015-Jun-12", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1434067200000, 
+            "human": "2015-Jun-12", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1434067200000, 
+            "human": "2015-Jun-12", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "c6az9b8w3toksscumw9m", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c6az9b8w3toksscumw9m.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "xwe2jw0o5jnjjyaq98yq", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xwe2jw0o5jnjjyaq98yq.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "uweewg65ml1fa8n66f0p", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uweewg65ml1fa8n66f0p.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "qchfhjfgysbwubwplom9", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qchfhjfgysbwubwplom9.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "iyf7sb1gv3ekb2fuva9v", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iyf7sb1gv3ekb2fuva9v.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "r0i6f5w5a14rcxqoqvn4", 
+            "height": 405, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r0i6f5w5a14rcxqoqvn4.jpg", 
+            "width": 720
+        }, 
+        {
+            "cloudinary_id": "tdqlewh7bdgcvrty4to5", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tdqlewh7bdgcvrty4to5.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qq4cmhsmhvdag2nevyjh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qq4cmhsmhvdag2nevyjh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uhvmw2zbjsm9aqtilguu", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uhvmw2zbjsm9aqtilguu.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zalamlemzoovca9p5v7v", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zalamlemzoovca9p5v7v.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "lyytk7z3rwgjpsghfyh0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lyytk7z3rwgjpsghfyh0.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "lego-jurassic-world", 
+    "summary": "Following the epic storylines of Jurassic Park, The Lost World: Jurassic Park and Jurassic Park III, as well as Jurassic World, LEGO Jurassic World is the first videogame where players will be able to relive and experience all four Jurassic films.", 
+    "tags": [
+        1, 
+        18, 
+        268435465, 
+        268435487, 
+        536870969, 
+        536870999, 
+        536871322, 
+        536871570, 
+        536871707, 
+        536871882, 
+        536874538, 
+        536875093, 
+        536875563, 
+        536875643, 
+        536875644, 
+        536875725, 
+        536875849, 
+        536875850, 
+        536880204
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 74.69701379985115, 
+    "total_rating_count": 35, 
+    "updated_at": 1528354874146, 
+    "url": "https://www.igdb.com/games/lego-jurassic-world", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "5QSp-IZvMiY"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "VjcAxAVKO8k"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 12, 
+            "url": "https://play.google.com/store/apps/details?id=com.wb.goog.legojurassicworld&hl=en&gl=us"
+        }, 
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/lego-jurassic-world/id1073698593?mt=8&uo=4"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/352400"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.videogames.lego.com"
+        }
+    ]
+}

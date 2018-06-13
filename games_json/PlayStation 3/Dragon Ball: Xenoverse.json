@@ -1,0 +1,341 @@
+{
+    "aggregated_rating": 74.0, 
+    "aggregated_rating_count": 11, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Dragon Ball XV"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2392, 
+    "cover": {
+        "cloudinary_id": "rxkirvw1meuml9fao6o7", 
+        "height": 1024, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rxkirvw1meuml9fao6o7.jpg", 
+        "width": 880
+    }, 
+    "created_at": 1402875716070, 
+    "developers": [
+        396
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "323470"
+    }, 
+    "first_release_date": 1423094400000, 
+    "franchise": 201, 
+    "franchises": [
+        201
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        36911, 
+        2558, 
+        11423, 
+        21429, 
+        6732, 
+        7350, 
+        7344, 
+        19082, 
+        19407, 
+        7329
+    ], 
+    "genres": [
+        4, 
+        12
+    ], 
+    "id": 7408, 
+    "keywords": [
+        14, 
+        78, 
+        107, 
+        170, 
+        594, 
+        977, 
+        992, 
+        1158, 
+        1293, 
+        1494, 
+        2274, 
+        2387, 
+        4004, 
+        4135, 
+        4141, 
+        4142, 
+        4150, 
+        4151, 
+        4245, 
+        4268, 
+        4302, 
+        4310, 
+        4379, 
+        4698, 
+        4758, 
+        4809, 
+        4823, 
+        4969, 
+        4971, 
+        4972, 
+        5315, 
+        5317, 
+        6083, 
+        6090, 
+        6093, 
+        6103, 
+        6230, 
+        6241, 
+        6852, 
+        7546, 
+        8769, 
+        9106, 
+        9107, 
+        10406, 
+        10691, 
+        10692, 
+        10693, 
+        10694, 
+        10919, 
+        12444
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 6, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 3, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dragon Ball: Xenoverse", 
+    "platforms": [
+        6, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        248
+    ], 
+    "pulse_count": 4, 
+    "rating": 60.1264946361685, 
+    "rating_count": 27, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1424736000000, 
+            "human": "2015-Feb-24", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1423094400000, 
+            "human": "2015-Feb-05", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424995200000, 
+            "human": "2015-Feb-27", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424995200000, 
+            "human": "2015-Feb-27", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424736000000, 
+            "human": "2015-Feb-24", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424995200000, 
+            "human": "2015-Feb-27", 
+            "m": 2, 
+            "platform": 9, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424995200000, 
+            "human": "2015-Feb-27", 
+            "m": 2, 
+            "platform": 12, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424995200000, 
+            "human": "2015-Feb-27", 
+            "m": 2, 
+            "platform": 48, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424995200000, 
+            "human": "2015-Feb-27", 
+            "m": 2, 
+            "platform": 49, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ruk29doz8epywqjk7pcm", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ruk29doz8epywqjk7pcm.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xkzkdficg9zjz76k8py7", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xkzkdficg9zjz76k8py7.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "fwsmzwootwgbvqznbq1k", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fwsmzwootwgbvqznbq1k.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xeqcd0qbwq52rqgctocp", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xeqcd0qbwq52rqgctocp.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "lvqbudqtakknaeyfoe5v", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lvqbudqtakknaeyfoe5v.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "dragon-ball-xenoverse", 
+    "summary": "\u2022 New Generation Dragon Ball \u2013 Enjoy your favorite manga on PlayStation 4 and Xbox One for the first time ever! Also available on PlayStation 3 and Xbox 360.\n\n\u2022 Improved Gameplay \u2013 Fast paced and powerful battles await to be discovered, including real-time transformation!\n\n\u2022 Strong Immersion \u2013 Inspired from one of the most famous series ever created.\n\n\u2022 New World Setup \u2013 A clock that once had stopped will start to tick again in an enigmatic and futuristic city!\n\n\u2022 Original Battles \u2013 Take part in epic fights against ferocious enemies such as Vegeta, Frieza, Cell and much more!\n\n\u2022 Unknown Fighter \u2013 Look at him with his uniform, cape and scouter\u2026 who is he?", 
+    "tags": [
+        1, 
+        268435460, 
+        268435468, 
+        536870926, 
+        536870990, 
+        536871019, 
+        536871082, 
+        536871506, 
+        536871889, 
+        536871904, 
+        536872070, 
+        536872205, 
+        536872406, 
+        536873186, 
+        536873299, 
+        536874916, 
+        536875047, 
+        536875053, 
+        536875054, 
+        536875062, 
+        536875063, 
+        536875157, 
+        536875180, 
+        536875214, 
+        536875222, 
+        536875291, 
+        536875610, 
+        536875670, 
+        536875721, 
+        536875735, 
+        536875881, 
+        536875883, 
+        536875884, 
+        536876227, 
+        536876229, 
+        536876995, 
+        536877002, 
+        536877005, 
+        536877015, 
+        536877142, 
+        536877153, 
+        536877764, 
+        536878458, 
+        536879681, 
+        536880018, 
+        536880019, 
+        536881318, 
+        536881603, 
+        536881604, 
+        536881605, 
+        536881606, 
+        536881831, 
+        536883356, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 67.06324731808425, 
+    "total_rating_count": 38, 
+    "updated_at": 1528352671320, 
+    "url": "https://www.igdb.com/games/dragon-ball-xenoverse", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/323470"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.dragonballxenoverse.com"
+        }
+    ]
+}

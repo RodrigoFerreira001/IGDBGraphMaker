@@ -1,0 +1,81 @@
+{
+    "aggregated_rating": 82.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qzqba0fcml6u9enqupsv", 
+        "height": 571, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qzqba0fcml6u9enqupsv.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1472933976228, 
+    "first_release_date": 1381449600000, 
+    "games": [
+        1070, 
+        1073, 
+        10039, 
+        1188, 
+        55752, 
+        63138, 
+        36608, 
+        74863, 
+        51485, 
+        26848
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 23423, 
+    "keywords": [
+        2049
+    ], 
+    "name": "Moshi Monsters: Katsuma Unleashed", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        66
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1383609600000, 
+            "human": "2013-Nov-05", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1381449600000, 
+            "human": "2013-Oct-11", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pgiojbstreqoct9askho", 
+            "height": 323, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pgiojbstreqoct9askho.jpg", 
+            "width": 545
+        }
+    ], 
+    "slug": "moshi-monsters-katsuma-unleashed", 
+    "tags": [
+        1, 
+        268435464, 
+        536872961
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 82.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528634004351, 
+    "url": "https://www.igdb.com/games/moshi-monsters-katsuma-unleashed"
+}

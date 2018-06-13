@@ -1,0 +1,152 @@
+{
+    "aggregated_rating": 59.0, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 2467, 
+    "cover": {
+        "cloudinary_id": "veobkubiwse9hg19z5py", 
+        "height": 1500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/veobkubiwse9hg19z5py.jpg", 
+        "width": 1202
+    }, 
+    "created_at": 1467015887080, 
+    "developers": [
+        1405
+    ], 
+    "first_release_date": 1443139200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        36608, 
+        16468, 
+        55289, 
+        59516, 
+        28010, 
+        25311, 
+        49414, 
+        1221, 
+        37088, 
+        34294
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 19796, 
+    "keywords": [
+        1180
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "The Witch and the Hundred Knight: Revival Edition", 
+    "platforms": [
+        48
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        1405, 
+        2262
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1457049600000, 
+            "human": "2016-Mar-04", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1456790400000, 
+            "human": "2016-Mar-01", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1443139200000, 
+            "human": "2015-Sep-25", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lrvlui5dp1i0ytrtl638", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lrvlui5dp1i0ytrtl638.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "kkmute5faesoxfcsnwk0", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kkmute5faesoxfcsnwk0.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "dymdhrvtnwjkixrba7rh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dymdhrvtnwjkixrba7rh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fvgxckwcfuth7fa5qxar", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvgxckwcfuth7fa5qxar.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jquzlt5pcggqmjskp2ks", 
+            "height": 428, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jquzlt5pcggqmjskp2ks.jpg", 
+            "width": 760
+        }
+    ], 
+    "slug": "the-witch-and-the-hundred-knight-revival-edition", 
+    "summary": "An enhanced version of the original 'The Witch and the Hundred Knight'.", 
+    "tags": [
+        1, 
+        268435468, 
+        536872092, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 59.0, 
+    "total_rating_count": 4, 
+    "updated_at": 1517270982294, 
+    "url": "https://www.igdb.com/games/the-witch-and-the-hundred-knight-revival-edition", 
+    "version_parent": 7485, 
+    "version_title": "Revival Edition", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "bllGM4QqXms"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.nisamerica.com/games/witch100revival/"
+        }
+    ]
+}

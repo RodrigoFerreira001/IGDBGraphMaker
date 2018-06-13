@@ -1,0 +1,96 @@
+{
+    "category": 0, 
+    "collection": 2249, 
+    "cover": {
+        "cloudinary_id": "h6u3oqo7tbe8ierspzmh", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/h6u3oqo7tbe8ierspzmh.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1506521518357, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1416268800000, 
+    "games": [
+        54524, 
+        28113, 
+        60693, 
+        11423, 
+        31559, 
+        13163, 
+        27717, 
+        21429, 
+        19082, 
+        13196
+    ], 
+    "genres": [
+        16
+    ], 
+    "id": 69346, 
+    "keywords": [
+        1293, 
+        3171, 
+        4134, 
+        4245, 
+        5633
+    ], 
+    "name": "Monopoly Deal", 
+    "platforms": [
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "popularity": 1.666666666666667, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1416268800000, 
+            "human": "2014-Nov-18", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1417478400000, 
+            "human": "2014-Dec-02", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1421107200000, 
+            "human": "2015-Jan-13", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1421193600000, 
+            "human": "2015-Jan-14", 
+            "m": 1, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "slug": "monopoly-deal", 
+    "summary": "A card based version of Monopoly.", 
+    "tags": [
+        268435472, 
+        536872205, 
+        536874083, 
+        536875046, 
+        536875157, 
+        536876545
+    ], 
+    "updated_at": 1516570619609, 
+    "url": "https://www.igdb.com/games/monopoly-deal"
+}

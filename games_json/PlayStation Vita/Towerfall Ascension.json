@@ -1,0 +1,345 @@
+{
+    "aggregated_rating": 89.0, 
+    "aggregated_rating_count": 6, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "TowerFall Ascension"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "dinoki4ts8kw1wwzaob7", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dinoki4ts8kw1wwzaob7.jpg", 
+        "width": 584
+    }, 
+    "created_at": 1428768203480, 
+    "developers": [
+        5542
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "-"
+    }, 
+    "expansions": [
+        14724
+    ], 
+    "external": {
+        "steam": "251470"
+    }, 
+    "first_release_date": 1372118400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        6732, 
+        10039, 
+        18182, 
+        11423, 
+        9559, 
+        55752, 
+        31173, 
+        18263, 
+        23733, 
+        21429
+    ], 
+    "genres": [
+        4, 
+        8, 
+        32
+    ], 
+    "hypes": 1, 
+    "id": 9567, 
+    "keywords": [
+        151, 
+        701, 
+        1158, 
+        1494, 
+        1705, 
+        2414, 
+        4004, 
+        4134, 
+        4150, 
+        4161, 
+        4180, 
+        4276, 
+        4281, 
+        4386, 
+        4465, 
+        4726, 
+        4760, 
+        4863, 
+        5305, 
+        5316, 
+        5442, 
+        6600, 
+        6601
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Towerfall Ascension", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Non realistic looking violence towards characters which although human are not very detailed"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        14, 
+        46, 
+        48, 
+        72, 
+        49, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 3.666666666666667, 
+    "publishers": [
+        5542
+    ], 
+    "pulse_count": 1, 
+    "rating": 85.89367632688139, 
+    "rating_count": 28, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1485302400000, 
+            "human": "2017-Jan-25", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1395187200000, 
+            "human": "2014-Mar-19", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1394496000000, 
+            "human": "2014-Mar-11", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1395187200000, 
+            "human": "2014-Mar-19", 
+            "m": 3, 
+            "platform": 45, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1485216000000, 
+            "human": "2017-Jan-24", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 2, 
+            "date": 1514678400000, 
+            "human": "2017", 
+            "m": 12, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1372118400000, 
+            "human": "2013-Jun-25", 
+            "m": 6, 
+            "platform": 72, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1394496000000, 
+            "human": "2014-Mar-11", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1394496000000, 
+            "human": "2014-Mar-11", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1401321600000, 
+            "human": "2014-May-29", 
+            "m": 5, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1401321600000, 
+            "human": "2014-May-29", 
+            "m": 5, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1450137600000, 
+            "human": "2015-Dec-15", 
+            "m": 12, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zuwmvklkafqv9pipeaup", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zuwmvklkafqv9pipeaup.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "oopdzru6qygv6nxxeicf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oopdzru6qygv6nxxeicf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ujqxtapbeh7ar1gzbchg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ujqxtapbeh7ar1gzbchg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bungrxci4cy6l0tbula4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bungrxci4cy6l0tbula4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "id9dcspsy0syvsyeihhh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/id9dcspsy0syvsyeihhh.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "towerfall-ascension", 
+    "summary": "Enter the land of TowerFall with your friends and engage in the noble and brutal tradition of bow-and-arrow combat. TowerFall is an archery combat platformer for 1-4 players, with an arcade co-op mode and hilarious, intense versus matches. The core mechanics are simple and accessible, but combat is fast and fierce. The focus is on player mastery and friendly rivalry.", 
+    "tags": [
+        1, 
+        17, 
+        22, 
+        268435460, 
+        268435464, 
+        268435488, 
+        536871063, 
+        536871613, 
+        536872070, 
+        536872406, 
+        536872617, 
+        536873326, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875073, 
+        536875092, 
+        536875188, 
+        536875193, 
+        536875298, 
+        536875377, 
+        536875638, 
+        536875672, 
+        536875775, 
+        536876217, 
+        536876228, 
+        536876354, 
+        536877512, 
+        536877513, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17, 
+        22
+    ], 
+    "total_rating": 87.4468381634407, 
+    "total_rating_count": 34, 
+    "updated_at": 1528779370220, 
+    "url": "https://www.igdb.com/games/towerfall-ascension", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "dG_vhHWwFSk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.towerfall-game.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/251470"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/TowerFall"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://towerfall.wikidot.com/"
+        }
+    ]
+}

@@ -1,0 +1,428 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "Rockman 10: Uch\u016b kara no Ky\u014di!!"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30ed\u30c3\u30af\u30de\u30f310 \u5b87\u5b99\u304b\u3089\u306e\u8105\u5a01!!"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "slojleiqvifc5gl4lqwu", 
+            "height": 920, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/slojleiqvifc5gl4lqwu.jpg", 
+            "width": 850
+        }
+    ], 
+    "category": 0, 
+    "collection": 337, 
+    "cover": {
+        "cloudinary_id": "kk4zpkhz8tryev7ykwej", 
+        "height": 1200, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kk4zpkhz8tryev7ykwej.jpg", 
+        "width": 900
+    }, 
+    "created_at": 1352059153679, 
+    "developers": [
+        2344, 
+        37
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is a side-scrolling action platformer in which players control one of two small androids that run, jump, shoot, and fly through 2D environments. Players can fire projectiles (e.g., electric clouds, fire, ice, rockets) from their arm cannon to defeat enemies that disappear from the screen in a quick burst. When players are hit, they flash and their health bar diminishes. Players can engage in more protracted boss battles at the end of stages."
+    }, 
+    "first_release_date": 1267401600000, 
+    "franchise": 38, 
+    "franchises": [
+        38
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        1722, 
+        1714, 
+        1720, 
+        1745, 
+        1721, 
+        21063, 
+        1968, 
+        3186, 
+        21062, 
+        68287
+    ], 
+    "genres": [
+        5, 
+        8
+    ], 
+    "id": 1723, 
+    "keywords": [
+        67, 
+        103, 
+        159, 
+        163, 
+        288, 
+        301, 
+        386, 
+        558, 
+        594, 
+        923, 
+        943, 
+        970, 
+        1025, 
+        1059, 
+        1186, 
+        1313, 
+        1705, 
+        2049, 
+        2071, 
+        2152, 
+        3079, 
+        3297, 
+        3486, 
+        3994, 
+        4163, 
+        4165, 
+        4215, 
+        4245, 
+        4289, 
+        4297, 
+        4388, 
+        4405, 
+        4465, 
+        4544, 
+        4577, 
+        4726, 
+        4760, 
+        4777, 
+        4779, 
+        4794, 
+        4836, 
+        4869, 
+        4940, 
+        5000, 
+        5022, 
+        5030, 
+        5032, 
+        5157, 
+        5441, 
+        5479, 
+        5584, 
+        5630, 
+        5633, 
+        5696, 
+        5721, 
+        5840, 
+        5842, 
+        5963, 
+        6129, 
+        6585, 
+        6647, 
+        6695, 
+        6696, 
+        7454, 
+        7604, 
+        8289, 
+        8784, 
+        9160, 
+        9209, 
+        9478, 
+        9947, 
+        10006, 
+        10135, 
+        10604, 
+        11278, 
+        12703
+    ], 
+    "name": "Mega Man 10", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Non realistic looking violence towards fantasy characters - Non realistic looking violence towards characters which although human are not very detailed."
+    }, 
+    "platforms": [
+        45, 
+        36, 
+        9, 
+        56
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        37
+    ], 
+    "pulse_count": 5, 
+    "rating": 89.73082667686191, 
+    "rating_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1268265600000, 
+            "human": "2010-Mar-11", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1268265600000, 
+            "human": "2010-Mar-11", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1268092800000, 
+            "human": "2010-Mar-09", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1267401600000, 
+            "human": "2010-Mar-01", 
+            "m": 3, 
+            "platform": 56, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1267747200000, 
+            "human": "2010-Mar-05", 
+            "m": 3, 
+            "platform": 56, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1268092800000, 
+            "human": "2010-Mar-09", 
+            "m": 3, 
+            "platform": 56, 
+            "region": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1268092800000, 
+            "human": "2010-Mar-09", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1268265600000, 
+            "human": "2010-Mar-11", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1268265600000, 
+            "human": "2010-Mar-11", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1269993600000, 
+            "human": "2010-Mar-31", 
+            "m": 3, 
+            "platform": 36, 
+            "region": 8, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tl5sty8bjnstqv1vhutw", 
+            "height": 560, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tl5sty8bjnstqv1vhutw.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "sr074kvgk0uzwg7ptl5j", 
+            "height": 560, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sr074kvgk0uzwg7ptl5j.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "alq51xdp434raybcs2xt", 
+            "height": 560, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/alq51xdp434raybcs2xt.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ww94rrkdmbyj2oxls41q", 
+            "height": 560, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ww94rrkdmbyj2oxls41q.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "rgv8i40valdi5gza7isf", 
+            "height": 560, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rgv8i40valdi5gza7isf.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ai9tgogakv7ifqnctuff", 
+            "height": 560, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ai9tgogakv7ifqnctuff.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "yyvcd0muik7btlaxknsf", 
+            "height": 560, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yyvcd0muik7btlaxknsf.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "tdggftor171vptjcwmwu", 
+            "height": 560, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tdggftor171vptjcwmwu.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "jbofcu8nfermqftowk0u", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jbofcu8nfermqftowk0u.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "gyx44bavhmvj54ocbtgn", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gyx44bavhmvj54ocbtgn.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "vawdhor6wtiex9dlazha", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vawdhor6wtiex9dlazha.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "uap5jdsgazyxlojeiyge", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uap5jdsgazyxlojeiyge.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "mega-man-10", 
+    "summary": "The 8-bit old-schoolers of the world have spoken. And boy, did they do so decisively. When Capcom released the NES-style Mega Man 9 back in 2008, they did it as a piece of one-off fan service, and no matter how good the game was (and it was very, very good), no one expected another 8-bit offering in the core series. And yet, here it is. Mega Man 10 can be found on WiiWare, PlayStation Network and Xbox Live Arcade in all of its retro glory. And, it, too, is very good.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435464, 
+        536870979, 
+        536871015, 
+        536871071, 
+        536871075, 
+        536871200, 
+        536871213, 
+        536871298, 
+        536871470, 
+        536871506, 
+        536871835, 
+        536871855, 
+        536871882, 
+        536871937, 
+        536871971, 
+        536872098, 
+        536872225, 
+        536872617, 
+        536872961, 
+        536872983, 
+        536873064, 
+        536873991, 
+        536874209, 
+        536874398, 
+        536874906, 
+        536875075, 
+        536875077, 
+        536875127, 
+        536875157, 
+        536875201, 
+        536875209, 
+        536875300, 
+        536875317, 
+        536875377, 
+        536875456, 
+        536875489, 
+        536875638, 
+        536875672, 
+        536875689, 
+        536875691, 
+        536875706, 
+        536875748, 
+        536875781, 
+        536875852, 
+        536875912, 
+        536875934, 
+        536875942, 
+        536875944, 
+        536876069, 
+        536876353, 
+        536876391, 
+        536876496, 
+        536876542, 
+        536876545, 
+        536876608, 
+        536876633, 
+        536876752, 
+        536876754, 
+        536876875, 
+        536877041, 
+        536877497, 
+        536877559, 
+        536877607, 
+        536877608, 
+        536878366, 
+        536878516, 
+        536879201, 
+        536879696, 
+        536880072, 
+        536880121, 
+        536880390, 
+        536880859, 
+        536880918, 
+        536881047, 
+        536881516, 
+        536882190, 
+        536883615, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 84.86541333843095, 
+    "total_rating_count": 9, 
+    "updated_at": 1525462782692, 
+    "url": "https://www.igdb.com/games/mega-man-10", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://megaman.capcom.com/10/"
+        }
+    ]
+}

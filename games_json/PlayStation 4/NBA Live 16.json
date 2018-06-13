@@ -1,0 +1,124 @@
+{
+    "aggregated_rating": 60.75, 
+    "aggregated_rating_count": 5, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "NBA Live 2016"
+        }
+    ], 
+    "category": 0, 
+    "collection": 148, 
+    "cover": {
+        "cloudinary_id": "r9q4wlc1b5rfauqq10pj", 
+        "height": 639, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/r9q4wlc1b5rfauqq10pj.jpg", 
+        "width": 557
+    }, 
+    "created_at": 1434187603007, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1443484800000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        7717, 
+        4551, 
+        26772, 
+        67406, 
+        35797, 
+        6523, 
+        69676, 
+        65509, 
+        64299, 
+        62496
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 11074, 
+    "keywords": [
+        58, 
+        4650, 
+        6575, 
+        6576
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 10, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "NBA Live 16", 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1443484800000, 
+            "human": "2015-Sep-29", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1443484800000, 
+            "human": "2015-Sep-29", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 48
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 49
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lanakrhflryvpn29feok", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lanakrhflryvpn29feok.jpg", 
+            "width": 1200
+        }
+    ], 
+    "slug": "nba-live-16", 
+    "summary": "Elevate your game to the highest level with NBA LIVE 16, the most complete NBA basketball experience. With enhanced user control that increases the realism of gameplay on both ends of the court, utilize the fundamentals of basketball to dominate the boards, fill the lane, and run the point as the most dominant player in the league.", 
+    "tags": [
+        268435470, 
+        536870970, 
+        536875562, 
+        536877487, 
+        536877488
+    ], 
+    "total_rating": 70.375, 
+    "total_rating_count": 5, 
+    "updated_at": 1526728193958, 
+    "url": "https://www.igdb.com/games/nba-live-16"
+}

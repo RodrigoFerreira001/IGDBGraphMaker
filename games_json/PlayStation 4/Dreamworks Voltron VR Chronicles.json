@@ -1,0 +1,125 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qjicytxglvylxczgyg4t", 
+        "height": 415, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qjicytxglvylxczgyg4t.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1504023061392, 
+    "external": {
+        "steam": "696940"
+    }, 
+    "first_release_date": 1506384000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        23175, 
+        59516, 
+        55289, 
+        37022, 
+        25646, 
+        25311, 
+        75242, 
+        76110, 
+        12579, 
+        44191
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 55172, 
+    "keywords": [
+        4134, 
+        4234
+    ], 
+    "name": "Dreamworks Voltron VR Chronicles", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "pulse_count": 5, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1506384000000, 
+            "human": "2017-Sep-26", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506384000000, 
+            "human": "2017-Sep-26", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jlviymg9nfn3fatjpnlh", 
+            "height": 1037, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jlviymg9nfn3fatjpnlh.jpg", 
+            "width": 1844
+        }, 
+        {
+            "cloudinary_id": "bk1jnsn1skw3fhlvudef", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bk1jnsn1skw3fhlvudef.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rmhvhimjy0wopqsibsfw", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rmhvhimjy0wopqsibsfw.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "mb5ylvnmzyiyztpslx4t", 
+            "height": 1037, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mb5ylvnmzyiyztpslx4t.jpg", 
+            "width": 1844
+        }, 
+        {
+            "cloudinary_id": "spda8fnftz2wgi8blumh", 
+            "height": 972, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/spda8fnftz2wgi8blumh.jpg", 
+            "width": 1728
+        }
+    ], 
+    "slug": "dreamworks-voltron-vr-chronicles", 
+    "summary": "Become a Paladin of Voltron and experience a unique story created exclusively for VR. Join Lance, Hunk, Pidge, Keith, and Shiro from DreamWorks\u2019 \u201cVoltron: Legendary Defender\u201d as you battle dangerous intergalactic threats!", 
+    "tags": [
+        1, 
+        268435487, 
+        536875046, 
+        536875146
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 67.5, 
+    "total_rating_count": 1, 
+    "updated_at": 1522207289718, 
+    "url": "https://www.igdb.com/games/dreamworks-voltron-vr-chronicles", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://vr.digitaldomain.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/696940"
+        }
+    ]
+}

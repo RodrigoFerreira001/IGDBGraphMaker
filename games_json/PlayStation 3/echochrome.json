@@ -1,0 +1,104 @@
+{
+    "aggregated_rating": 85.0, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "a16ejqcbpktempw0yhdx", 
+        "height": 369, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/a16ejqcbpktempw0yhdx.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1455906240837, 
+    "first_release_date": 1205884800000, 
+    "games": [
+        19222, 
+        41348, 
+        10225, 
+        27266, 
+        14246, 
+        60044, 
+        236, 
+        27725, 
+        101980, 
+        101976
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 18050, 
+    "name": "echochrome", 
+    "platforms": [
+        9
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        13634
+    ], 
+    "rating": 79.561772292923, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1205884800000, 
+            "human": "2008-Mar-19", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1215648000000, 
+            "human": "2008-Jul-10", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1209600000000, 
+            "human": "2008-May-01", 
+            "m": 5, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1205884800000, 
+            "human": "2008-Mar-19", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "fy8xegyfuk9vzb9qb1og", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fy8xegyfuk9vzb9qb1og.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "echochrome", 
+    "summary": "Echochrome is a puzzle game created by Sony's JAPAN Studio and Game Yarouze. Gameplay involves a mannequin figure traversing a rotatable world where physics and reality depend on perspective. The world is occupied by Oscar Reutersv\u00e4rd's impossible constructions. This concept is inspired by M. C. Escher's artwork, such as \"Relativity\".\n\nThe game is based on the Object Locative Environment Coordinate System developed by Jun Fujiki\u2014an engine that determines what is occurring based on the camera's perspective.", 
+    "tags": [
+        268435465, 
+        1073741827
+    ], 
+    "total_rating": 82.2808861464615, 
+    "total_rating_count": 10, 
+    "updated_at": 1520955827144, 
+    "url": "https://www.igdb.com/games/echochrome", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "GybxIwfU4rI"
+        }
+    ]
+}

@@ -1,0 +1,549 @@
+{
+    "aggregated_rating": 75.2777777777778, 
+    "aggregated_rating_count": 23, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Call of Duty 14"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "COD WW2"
+        }, 
+        {
+            "comment": "Other", 
+            "name": " COD WWII"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Call of Duty: WW2"
+        }, 
+        {
+            "name": "cod ww2"
+        }, 
+        {
+            "name": "Call of Duty: World War II "
+        }, 
+        {
+            "comment": "Expanded", 
+            "name": "Call of Duty: World War 2"
+        }
+    ], 
+    "category": 0, 
+    "collection": 107, 
+    "cover": {
+        "cloudinary_id": "e7vzqpimo6pwovewqqli", 
+        "height": 3457, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/e7vzqpimo6pwovewqqli.jpg", 
+        "width": 2736
+    }, 
+    "created_at": 1492824678386, 
+    "developers": [
+        659
+    ], 
+    "dlcs": [
+        96018, 
+        78917
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "external": {
+        "steam": "476620"
+    }, 
+    "first_release_date": 1509667200000, 
+    "franchise": 726, 
+    "franchises": [
+        726
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        18320, 
+        27789, 
+        19530, 
+        25657, 
+        27421, 
+        27081, 
+        326, 
+        37016, 
+        28552, 
+        949
+    ], 
+    "genres": [
+        5
+    ], 
+    "hypes": 192, 
+    "id": 28204, 
+    "keywords": [
+        19, 
+        453, 
+        466, 
+        1025, 
+        1107, 
+        1264, 
+        1293, 
+        1333, 
+        1463, 
+        3988, 
+        4134, 
+        4161, 
+        4185, 
+        4224, 
+        4225, 
+        4287, 
+        4345, 
+        4357, 
+        4358, 
+        4366, 
+        4400, 
+        4552, 
+        4576, 
+        4588, 
+        4611, 
+        4615, 
+        4777, 
+        4816, 
+        4890, 
+        4895, 
+        4896, 
+        4907, 
+        5029, 
+        5775, 
+        5888, 
+        5987, 
+        6003, 
+        6036, 
+        6624, 
+        6693, 
+        6889, 
+        7670, 
+        8287, 
+        8693, 
+        8694, 
+        8695, 
+        8698, 
+        8701, 
+        8704, 
+        8707, 
+        8709, 
+        8710, 
+        8714, 
+        8718, 
+        8923, 
+        9248, 
+        10037, 
+        10106, 
+        10466, 
+        10919, 
+        11201, 
+        11364, 
+        11809, 
+        12087, 
+        12091, 
+        12155, 
+        12228, 
+        12556, 
+        13045, 
+        13581, 
+        16826, 
+        16827, 
+        16828, 
+        16894, 
+        16912, 
+        16913, 
+        16914, 
+        16915, 
+        16916, 
+        16917, 
+        16918, 
+        16919, 
+        16920, 
+        16921, 
+        16922, 
+        16923, 
+        16924, 
+        16925, 
+        16926, 
+        16927, 
+        16928, 
+        16929, 
+        16930, 
+        16931
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 18, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 18, 
+            "platform": 6, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 18, 
+            "platform": 48, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Call of Duty: WWII", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 39.33333333333334, 
+    "publishers": [
+        66
+    ], 
+    "pulse_count": 880, 
+    "rating": 80.4549000993234, 
+    "rating_count": 93, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1509667200000, 
+            "human": "2017-Nov-03", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1509667200000, 
+            "human": "2017-Nov-03", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1509667200000, 
+            "human": "2017-Nov-03", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1509667200000, 
+            "human": "2017-Nov-03", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1509667200000, 
+            "human": "2017-Nov-03", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1509667200000, 
+            "human": "2017-Nov-03", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "m7j8nno7wpfdvxrvnam3", 
+            "height": 1559, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m7j8nno7wpfdvxrvnam3.jpg", 
+            "width": 2772
+        }, 
+        {
+            "cloudinary_id": "duzljmjdctiljgu4bzkt", 
+            "height": 1559, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/duzljmjdctiljgu4bzkt.jpg", 
+            "width": 2772
+        }, 
+        {
+            "cloudinary_id": "fvyd4c4ybhw5asidd0tk", 
+            "height": 1559, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvyd4c4ybhw5asidd0tk.jpg", 
+            "width": 2772
+        }, 
+        {
+            "cloudinary_id": "ijoenntauq5gfurpayt1", 
+            "height": 1559, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ijoenntauq5gfurpayt1.jpg", 
+            "width": 2772
+        }, 
+        {
+            "cloudinary_id": "uaxzlzruz9be57tq5ayf", 
+            "height": 1559, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uaxzlzruz9be57tq5ayf.jpg", 
+            "width": 2772
+        }, 
+        {
+            "cloudinary_id": "snkucsvixsexyfcvi1ks", 
+            "height": 1559, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/snkucsvixsexyfcvi1ks.jpg", 
+            "width": 2772
+        }, 
+        {
+            "cloudinary_id": "ccxizgajbolu4kw5iild", 
+            "height": 1559, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ccxizgajbolu4kw5iild.jpg", 
+            "width": 2772
+        }, 
+        {
+            "cloudinary_id": "qslsn7dl1nmjvlidmlc6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qslsn7dl1nmjvlidmlc6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "o9mbl0rabu0sazsbxiji", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o9mbl0rabu0sazsbxiji.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vdmxnihoegzdbyahjpat", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vdmxnihoegzdbyahjpat.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mno7spxuafapa8ajvixm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mno7spxuafapa8ajvixm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zum4prw3m27jsqv2lobq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zum4prw3m27jsqv2lobq.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "call-of-duty-wwii", 
+    "summary": "Call of Duty: WWII creates the definitive World War II next generation experience across three different game modes: Campaign, Multiplayer, and Co-Operative. Featuring stunning visuals, the Campaign transports players to the European theater as they engage in an all-new Call of Duty story set in iconic World War II battles. Multiplayer marks a return to original, boots-on-the ground Call of Duty gameplay. Authentic weapons and traditional run-and-gun action immerse you in a vast array of World War II-themed locations. The Co-Operative mode unleashes a new and original story in a standalone game experience full of unexpected, adrenaline-pumping moments.", 
+    "tags": [
+        1, 
+        39, 
+        268435461, 
+        536870931, 
+        536871365, 
+        536871378, 
+        536871937, 
+        536872019, 
+        536872176, 
+        536872205, 
+        536872245, 
+        536872375, 
+        536874900, 
+        536875046, 
+        536875073, 
+        536875097, 
+        536875136, 
+        536875137, 
+        536875199, 
+        536875257, 
+        536875269, 
+        536875270, 
+        536875278, 
+        536875312, 
+        536875464, 
+        536875488, 
+        536875500, 
+        536875523, 
+        536875527, 
+        536875689, 
+        536875728, 
+        536875802, 
+        536875807, 
+        536875808, 
+        536875819, 
+        536875941, 
+        536876687, 
+        536876800, 
+        536876899, 
+        536876915, 
+        536876948, 
+        536877536, 
+        536877605, 
+        536877801, 
+        536878582, 
+        536879199, 
+        536879605, 
+        536879606, 
+        536879607, 
+        536879610, 
+        536879613, 
+        536879616, 
+        536879619, 
+        536879621, 
+        536879622, 
+        536879626, 
+        536879630, 
+        536879835, 
+        536880160, 
+        536880949, 
+        536881018, 
+        536881378, 
+        536881831, 
+        536882113, 
+        536882276, 
+        536882721, 
+        536882999, 
+        536883003, 
+        536883067, 
+        536883140, 
+        536883468, 
+        536883957, 
+        536884493, 
+        536887738, 
+        536887739, 
+        536887740, 
+        536887806, 
+        536887824, 
+        536887825, 
+        536887826, 
+        536887827, 
+        536887828, 
+        536887829, 
+        536887830, 
+        536887831, 
+        536887832, 
+        536887833, 
+        536887834, 
+        536887835, 
+        536887836, 
+        536887837, 
+        536887838, 
+        536887839, 
+        536887840, 
+        536887841, 
+        536887842, 
+        536887843, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        39
+    ], 
+    "time_to_beat": {
+        "hastly": 30600
+    }, 
+    "total_rating": 77.8663389385506, 
+    "total_rating_count": 116, 
+    "updated_at": 1528894381063, 
+    "url": "https://www.igdb.com/games/call-of-duty-wwii", 
+    "videos": [
+        {
+            "name": "PGW 2017 Trailer", 
+            "video_id": "6Fywv4x5OrI"
+        }, 
+        {
+            "name": "Story Trailer", 
+            "video_id": "NnT-AKSRtF4"
+        }, 
+        {
+            "name": "Headquarters Reveal Trailer", 
+            "video_id": "k9YMZoNGXlM"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "xSB0WCruGgo"
+        }, 
+        {
+            "name": "E3 2017: Multiplayer Reveal Trailer", 
+            "video_id": "W_Y6F1c30To"
+        }, 
+        {
+            "name": "Gameplay Interview", 
+            "video_id": "DfaCoLn7m4E"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "D4Q_XYVescc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Call_of_Duty:_WWII"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/476600"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/callofduty"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/callofduty"
+        }, 
+        {
+            "category": 6, 
+            "url": "https://www.twitch.tv/callofduty"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/callofduty"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/CallofDuty"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://callofduty.wikia.com/wiki/Call_of_Duty:_World_War_II"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.callofduty.com/wwii"
+        }
+    ]
+}

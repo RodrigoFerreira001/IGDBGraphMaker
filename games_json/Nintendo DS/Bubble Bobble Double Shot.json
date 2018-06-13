@@ -1,0 +1,100 @@
+{
+    "aggregated_rating": 40.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 2813, 
+    "cover": {
+        "cloudinary_id": "gpvntei09hzuveqcqbdm", 
+        "height": 716, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gpvntei09hzuveqcqbdm.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1468849787275, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1206489600000, 
+    "games": [
+        10039, 
+        25646, 
+        37094, 
+        1070, 
+        38483, 
+        51485, 
+        19289, 
+        26848, 
+        1073, 
+        58479
+    ], 
+    "genres": [
+        8, 
+        9
+    ], 
+    "id": 20672, 
+    "keywords": [
+        137, 
+        394, 
+        2152, 
+        4577, 
+        8234
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 20, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Bubble Bobble Double Shot", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1206489600000, 
+            "human": "2008-Mar-26", 
+            "m": 3, 
+            "platform": 20, 
+            "region": 8, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "i8uonkm5b2sgno3dpndc", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i8uonkm5b2sgno3dpndc.jpg", 
+            "width": 284
+        }
+    ], 
+    "slug": "bubble-bobble-double-shot", 
+    "summary": "Bub and Bob are back! Bubble Bobble Double Shot is a respectful return to the series' roots, bringing Bubble Bobble to the DS with new additions to the classic formula. Based on the original Bubble Bobble arcade game first released in 1986, Bubble Bobble Double Shot stars the two Bubble Dragons, Bub and Bob who move over a system of platforms, busting and pushing bubbles, avoiding enemies and collecting a variety of power-ups. Bubble Bobble Double Shot for DS features a perfect re-creation of Bubble Bobble's frantic platforming gameplay, complete with all the secrets and fun gameplay that made the original such a rewarding game to master.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435465, 
+        536871049, 
+        536871306, 
+        536873064, 
+        536875489, 
+        536879146
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 40.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1520001912560, 
+    "url": "https://www.igdb.com/games/bubble-bobble-double-shot"
+}

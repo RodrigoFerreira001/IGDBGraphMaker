@@ -1,0 +1,51 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vsg6x7cbgaifzbdqfm8h", 
+        "height": 512, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vsg6x7cbgaifzbdqfm8h.jpg", 
+        "width": 512
+    }, 
+    "created_at": 1469802816161, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 999388800000, 
+    "id": 21751, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 8, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Time Crisis: 2nd Strike", 
+    "platforms": [
+        8
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 999388800000, 
+            "human": "2001-Sep-02", 
+            "m": 9, 
+            "platform": 8, 
+            "region": 8, 
+            "y": 2001
+        }
+    ], 
+    "slug": "time-crisis-2nd-strike", 
+    "summary": "Two-player light gun action is here. Namco brings the arcade hit home, complete with GunCon2 for added excitement. Two player split-screen or link mode or One player double-gun mode. Includes extra game features for additional challenges.", 
+    "updated_at": 1507574934471, 
+    "url": "https://www.igdb.com/games/time-crisis-2nd-strike"
+}

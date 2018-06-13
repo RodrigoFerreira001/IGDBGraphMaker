@@ -1,0 +1,369 @@
+{
+    "aggregated_rating": 60.4, 
+    "aggregated_rating_count": 6, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "All Points BulletinA.P.B."
+        }, 
+        {
+            "comment": "Acronym", 
+            "name": "APB: Reloaded"
+        }, 
+        {
+            "comment": "Acronym", 
+            "name": "APB"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ceazhuf1r8d37rhnvxqr", 
+        "height": 576, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ceazhuf1r8d37rhnvxqr.jpg", 
+        "width": 400
+    }, 
+    "created_at": 1326032019058, 
+    "developers": [
+        949, 
+        733
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "This is an \"open-world\" action game in which players assume the roles of enforcers (members of an unspecified law enforcement division) or criminals as they move through the environment and engage in missions. Players use realistic shotguns, machine guns, and grenades to kill adversaries in frequent gun fights. Successful hits result in large spurts of blood that sometimes splash on the camera. The game allows players to shoot or run over civilians, who cry out in pain when attacked. Enforcer characters can arrest criminals, and are able to execute them after cuffing their hands. Some missions involve transporting packets of drugs to a particular location; the words \"heroin,\"\"hash,\" and \"crack\" can be heard during some dialogue. Dialogue also contains the words \"f**k\" and \"sh*t.\""
+    }, 
+    "external": {
+        "steam": "113400"
+    }, 
+    "first_release_date": 1277769600000, 
+    "game_engines": [
+        351
+    ], 
+    "game_modes": [
+        2, 
+        3, 
+        5
+    ], 
+    "games": [
+        11905, 
+        6732, 
+        11423, 
+        5503, 
+        7350, 
+        2110, 
+        3277, 
+        28552, 
+        18167, 
+        529
+    ], 
+    "genres": [
+        5, 
+        31
+    ], 
+    "id": 1014, 
+    "keywords": [
+        25, 
+        92, 
+        576, 
+        889, 
+        897, 
+        1025, 
+        1033, 
+        1158, 
+        1293, 
+        1333, 
+        1384, 
+        1669, 
+        2440, 
+        3627, 
+        4004, 
+        4135, 
+        4161, 
+        4250, 
+        4272, 
+        4369, 
+        4525, 
+        4580, 
+        4613, 
+        4647, 
+        4823, 
+        4858, 
+        4892, 
+        4910, 
+        4927, 
+        4973, 
+        4975, 
+        4983, 
+        4985, 
+        5309, 
+        5377, 
+        5657, 
+        5941, 
+        6295, 
+        6376, 
+        6692, 
+        6711, 
+        7070, 
+        9066, 
+        10576, 
+        10919, 
+        11032, 
+        11474, 
+        11782, 
+        12231, 
+        12462, 
+        12748, 
+        12953, 
+        13082, 
+        13109, 
+        14597, 
+        14598, 
+        14599
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 100, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "All Points Bulletin: Reloaded", 
+    "pegi": {
+        "rating": 5, 
+        "synopsis": "The content of this game is suitable for persons aged 18 years and over only.\r\n\r\nIt contains: Multiple, motiveless killing - Violence towards defenceless people - Strong language\r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        735, 
+        733, 
+        423, 
+        1, 
+        7389
+    ], 
+    "pulse_count": 5, 
+    "rating": 62.813982278331, 
+    "rating_count": 13, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1464912000000, 
+            "human": "2016-Jun-03", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1277769600000, 
+            "human": "2010-Jun-29", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1277942400000, 
+            "human": "2010-Jul-01", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1278028800000, 
+            "human": "2010-Jul-02", 
+            "m": 7, 
+            "platform": 6, 
+            "y": 2010
+        }, 
+        {
+            "category": 6, 
+            "date": 1451520000000, 
+            "human": "2015-Q4", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 6, 
+            "date": 1451520000000, 
+            "human": "2015-Q4", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dd5ajxoofxrmigj8oyir", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dd5ajxoofxrmigj8oyir.jpg", 
+            "width": 480
+        }, 
+        {
+            "cloudinary_id": "wgoiqisw38f6av4wokol", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wgoiqisw38f6av4wokol.jpg", 
+            "width": 1680
+        }, 
+        {
+            "cloudinary_id": "guu6cxjmhmvpft5w11uo", 
+            "height": 1088, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/guu6cxjmhmvpft5w11uo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pcc3dnqcaltdmgu5zpg4", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pcc3dnqcaltdmgu5zpg4.jpg", 
+            "width": 1680
+        }, 
+        {
+            "cloudinary_id": "euyvdcfiso2shoqm0zjf", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/euyvdcfiso2shoqm0zjf.jpg", 
+            "width": 1680
+        }
+    ], 
+    "slug": "all-points-bulletin-reloaded", 
+    "summary": "APB: All Points Bulletin is a multiplayer online video game for Microsoft Windows[6] developed by Realtime Worlds and was acquired by Reloaded Productions, which is part of the GamersFirst company. Based in urban sprawls and featuring two factions, Enforcers and the Criminals, players can form sub-groups in either faction and carry out missions. The game design was led by David Jones, who created the original Grand Theft Auto and Crackdown, and was developed by Realtime Worlds. It was released on June 6, 2010 in North America and Europe. \n \nAfter Realtime Worlds was placed into administration on August 17, 2010, the servers for online play were shut down later that year, but were reactivated when online gaming company K2 Network purchased APB for \u00a31.5 million and relaunched it under their subsidiary company Reloaded Productions as a free-to-play game, renamed APB: Reloaded. \n \nOn January 22, 2015, Deep Silver announced versions of the game for the PlayStation 4 and Xbox One in collaboration with Reloaded Productions and The Workshop Entertainment for release in the fourth quarter of 2015.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435487, 
+        536870937, 
+        536871004, 
+        536871488, 
+        536871801, 
+        536871809, 
+        536871937, 
+        536871945, 
+        536872070, 
+        536872205, 
+        536872245, 
+        536872296, 
+        536872581, 
+        536873352, 
+        536874539, 
+        536874916, 
+        536875047, 
+        536875073, 
+        536875162, 
+        536875184, 
+        536875281, 
+        536875437, 
+        536875492, 
+        536875525, 
+        536875559, 
+        536875735, 
+        536875770, 
+        536875804, 
+        536875822, 
+        536875839, 
+        536875885, 
+        536875887, 
+        536875895, 
+        536875897, 
+        536876221, 
+        536876289, 
+        536876569, 
+        536876853, 
+        536877207, 
+        536877288, 
+        536877604, 
+        536877623, 
+        536877982, 
+        536879978, 
+        536881488, 
+        536881831, 
+        536881944, 
+        536882386, 
+        536882694, 
+        536883143, 
+        536883374, 
+        536883660, 
+        536883865, 
+        536883994, 
+        536884021, 
+        536885509, 
+        536885510, 
+        536885511, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 61.6069911391655, 
+    "total_rating_count": 19, 
+    "updated_at": 1528350556440, 
+    "url": "https://www.igdb.com/games/all-points-bulletin-reloaded", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "p8qqPHSUqHA"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "QssOFOj7AeE"
+        }, 
+        {
+            "name": "Teaser", 
+            "video_id": "greBiEUYtsw"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "8vsb58J7Eyk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.apb.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/113400"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/APBReloaded"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/apb_reloaded"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/APBReloaded"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/APB:_All_Points_Bulletin"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://apb.wikia.com/wiki/APB_Wiki"
+        }
+    ]
+}

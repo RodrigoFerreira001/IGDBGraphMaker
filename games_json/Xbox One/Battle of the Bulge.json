@@ -1,0 +1,135 @@
+{
+    "aggregated_rating": 87.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ljlxzb8nduqsz2trhfge", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ljlxzb8nduqsz2trhfge.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1444665908455, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "365560"
+    }, 
+    "first_release_date": 1442448000000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        9760, 
+        2015, 
+        55029, 
+        12982, 
+        22399, 
+        24512, 
+        55036, 
+        18623, 
+        28244, 
+        6985
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 13384, 
+    "name": "Battle of the Bulge", 
+    "platforms": [
+        6, 
+        14, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        8299
+    ], 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1503619200000, 
+            "human": "2017-Aug-25", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505606400000, 
+            "human": "2017-Sep-17", 
+            "m": 9, 
+            "platform": 14, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1442448000000, 
+            "human": "2015-Sep-17", 
+            "m": 9, 
+            "platform": 6, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qg5a1mm9q3eyzsqoxalg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qg5a1mm9q3eyzsqoxalg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "iesbfjiwkexpglem9sql", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iesbfjiwkexpglem9sql.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hopgxp9cdb6dbqvux7uv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hopgxp9cdb6dbqvux7uv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zpobjozrl6lh5oleaywa", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zpobjozrl6lh5oleaywa.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lzpagxldndjzrhh4xzhd", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lzpagxldndjzrhh4xzhd.jpg", 
+            "width": 600
+        }
+    ], 
+    "slug": "battle-of-the-bulge", 
+    "summary": "Battle of the Bulge is a fast-paced WW2 game where precise movement and detailed planning make the difference between a vain attempt and a brave operation.", 
+    "tags": [
+        22, 
+        39, 
+        268435471
+    ], 
+    "themes": [
+        22, 
+        39
+    ], 
+    "total_rating": 68.5, 
+    "total_rating_count": 1, 
+    "updated_at": 1523419231406, 
+    "url": "https://www.igdb.com/games/battle-of-the-bulge", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.shenandoah-studio.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/365560"
+        }
+    ]
+}

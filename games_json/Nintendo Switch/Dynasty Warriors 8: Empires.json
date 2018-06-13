@@ -1,0 +1,336 @@
+{
+    "aggregated_rating": 64.8181818181818, 
+    "aggregated_rating_count": 12, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Shin Sangoku Musou 7: Empires"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u771f\u30fb\u4e09\u570b\u7121\u53cc7 Empires"
+        }
+    ], 
+    "category": 0, 
+    "collection": 550, 
+    "cover": {
+        "cloudinary_id": "aqdy3h3yvvhlp3lofv9t", 
+        "height": 431, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/aqdy3h3yvvhlp3lofv9t.jpg", 
+        "width": 342
+    }, 
+    "created_at": 1445157305286, 
+    "developers": [
+        1394
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "322520"
+    }, 
+    "first_release_date": 1416441600000, 
+    "franchise": 126, 
+    "franchises": [
+        126
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        26769, 
+        26391, 
+        55036, 
+        23345, 
+        37088, 
+        6985, 
+        16468, 
+        19934, 
+        2015, 
+        18623
+    ], 
+    "genres": [
+        15, 
+        25
+    ], 
+    "id": 13669, 
+    "keywords": [
+        389, 
+        1682, 
+        3782, 
+        4155
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 2, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dynasty Warriors 8: Empires", 
+    "platforms": [
+        45, 
+        6, 
+        46, 
+        9, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        858
+    ], 
+    "pulse_count": 2, 
+    "rating": 50.0, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1448323200000, 
+            "human": "2015-Nov-24", 
+            "m": 11, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448409600000, 
+            "human": "2015-Nov-25", 
+            "m": 11, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1510185600000, 
+            "human": "2017-Nov-09", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1424995200000, 
+            "human": "2015-Feb-27", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424736000000, 
+            "human": "2015-Feb-24", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1416441600000, 
+            "human": "2014-Nov-20", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1416441600000, 
+            "human": "2014-Nov-20", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1416441600000, 
+            "human": "2014-Nov-20", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1424736000000, 
+            "human": "2015-Feb-24", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424736000000, 
+            "human": "2015-Feb-24", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424995200000, 
+            "human": "2015-Feb-27", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424995200000, 
+            "human": "2015-Feb-27", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424995200000, 
+            "human": "2015-Feb-27", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424995200000, 
+            "human": "2015-Feb-27", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424995200000, 
+            "human": "2015-Feb-27", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448496000000, 
+            "human": "2015-Nov-26", 
+            "m": 11, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448323200000, 
+            "human": "2015-Nov-24", 
+            "m": 11, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448409600000, 
+            "human": "2015-Nov-25", 
+            "m": 11, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ewof39d1ummrijpas0my", 
+            "height": 506, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ewof39d1ummrijpas0my.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "dnz6eczuitcy5p3qacwm", 
+            "height": 506, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dnz6eczuitcy5p3qacwm.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "hs5atw8pwbnykk3l8tpl", 
+            "height": 506, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hs5atw8pwbnykk3l8tpl.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "tgbejt12l8yhrjijo8dv", 
+            "height": 506, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tgbejt12l8yhrjijo8dv.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "a1itb4dw8go2bzceuhgj", 
+            "height": 506, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a1itb4dw8go2bzceuhgj.jpg", 
+            "width": 900
+        }
+    ], 
+    "slug": "dynasty-warriors-8-empires", 
+    "summary": "Dynasty Warriors 8: Empires is the second expansion of Dynasty Warriors 8. An additional PlayStation Vita port, which includes all previously released DLC, has also been announced to be released. Like previous Empires expansions, focuses more on strategical and tactical battle system. It allows players to modify the player force's flags, horses, and soldiers, as well as featuring large-scale strategems, enhanced from Dynasty Warriors 7: Empires. In addition to the marriage system, players' officers can have children with their spouses. A new playable character, Xun Yu was also added in Empires.", 
+    "tags": [
+        1, 
+        17, 
+        22, 
+        268435471, 
+        268435481, 
+        536871301, 
+        536872594, 
+        536874694, 
+        536875067, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        22
+    ], 
+    "total_rating": 57.4090909090909, 
+    "total_rating_count": 15, 
+    "updated_at": 1528352819479, 
+    "url": "https://www.igdb.com/games/dynasty-warriors-8-empires", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "rxzRhI1Yexs"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/322520"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.koeitecmoamerica.com/dw8e/"
+        }
+    ]
+}

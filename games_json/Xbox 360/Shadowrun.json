@@ -1,0 +1,88 @@
+{
+    "aggregated_rating": 68.0, 
+    "aggregated_rating_count": 5, 
+    "category": 0, 
+    "collection": 554, 
+    "cover": {
+        "cloudinary_id": "fz1vsdqlmj7uydlci0bg", 
+        "height": 788, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fz1vsdqlmj7uydlci0bg.jpg", 
+        "width": 639
+    }, 
+    "created_at": 1408145013012, 
+    "first_release_date": 1180396800000, 
+    "franchise": 127, 
+    "franchises": [
+        127
+    ], 
+    "id": 7643, 
+    "name": "Shadowrun", 
+    "platforms": [
+        6, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 80.0, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1180396800000, 
+            "human": "2007-May-29", 
+            "m": 5, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1180396800000, 
+            "human": "2007-May-29", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1180656000000, 
+            "human": "2007-Jun-01", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1180656000000, 
+            "human": "2007-Jun-01", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182384000000, 
+            "human": "2007-Jun-21", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182384000000, 
+            "human": "2007-Jun-21", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2007
+        }
+    ], 
+    "slug": "shadowrun--2", 
+    "total_rating": 74.0, 
+    "total_rating_count": 9, 
+    "updated_at": 1528342667640, 
+    "url": "https://www.igdb.com/games/shadowrun--2"
+}

@@ -1,0 +1,144 @@
+{
+    "aggregated_rating": 73.0, 
+    "aggregated_rating_count": 5, 
+    "category": 0, 
+    "collection": 435, 
+    "cover": {
+        "cloudinary_id": "h3gr4swt5fiotgwghzjo", 
+        "height": 450, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/h3gr4swt5fiotgwghzjo.jpg", 
+        "width": 320
+    }, 
+    "created_at": 1371918094552, 
+    "developers": [
+        843
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 1006214400000, 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        27314, 
+        19448, 
+        25300, 
+        36950, 
+        25311, 
+        26766, 
+        68287, 
+        11567, 
+        71455, 
+        16513
+    ], 
+    "genres": [
+        7, 
+        31
+    ], 
+    "id": 2141, 
+    "keywords": [
+        168, 
+        169, 
+        665, 
+        970, 
+        1027, 
+        1495, 
+        2152, 
+        3224, 
+        4137, 
+        4144, 
+        4210, 
+        4272, 
+        4452, 
+        4957, 
+        5031, 
+        7159, 
+        7327, 
+        9927, 
+        11456
+    ], 
+    "name": "Amplitude", 
+    "platforms": [
+        8
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        843
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1006214400000, 
+            "human": "2001-Nov-20", 
+            "m": 11, 
+            "platform": 8, 
+            "y": 2001
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wpdbo1utkwz8ppzrq9s8", 
+            "height": 294, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wpdbo1utkwz8ppzrq9s8.jpg", 
+            "width": 420
+        }, 
+        {
+            "cloudinary_id": "s5pa4tiy0xqeijshdrr2", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s5pa4tiy0xqeijshdrr2.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "amplitude", 
+    "storyline": "In Amplitude, the player controls a ship (referred to as a \"Beat Blaster\") moving down a path of varying shapes and lengths, containing up to six tracks. Each color-coded track corresponds to a different aspect of the song, such as percussion, synth, bass, or vocals, and contains a sequence of notes. As the player hits buttons corresponding to the note placement on the track, the notes activate a small portion of the track. If the player successfully activates enough notes in sequence, the track is \"captured\" and the section will play automatically for a number of bars, freeing the player to capture another section.\r\r\n\r\r\nThe object of the game is to capture a sufficient amount of sections to reach the end of the song. If the player continually misses notes, an energy meter empties until the game is over.", 
+    "summary": "Amplitude is a music/rhythm game and is the sequel to 2001's Frequency. Like it's predecessor, players play songs by hitting notes on multiple tracks representing each instrument found in the song.\r", 
+    "tags": [
+        1, 
+        18, 
+        40, 
+        268435463, 
+        268435487, 
+        536871080, 
+        536871081, 
+        536871577, 
+        536871882, 
+        536871939, 
+        536872407, 
+        536873064, 
+        536874136, 
+        536875049, 
+        536875056, 
+        536875122, 
+        536875184, 
+        536875364, 
+        536875869, 
+        536875943, 
+        536878071, 
+        536878239, 
+        536880839, 
+        536882368, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        18, 
+        40
+    ], 
+    "total_rating": 73.0, 
+    "total_rating_count": 5, 
+    "updated_at": 1517270940211, 
+    "url": "https://www.igdb.com/games/amplitude", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "_XLeaan6aIs"
+        }
+    ]
+}

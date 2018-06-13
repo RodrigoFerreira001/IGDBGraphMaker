@@ -1,0 +1,116 @@
+{
+    "aggregated_rating": 55.0, 
+    "aggregated_rating_count": 2, 
+    "artworks": [
+        {
+            "cloudinary_id": "axat9nxpr33jgkrbpguz", 
+            "height": 1350, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/axat9nxpr33jgkrbpguz.jpg", 
+            "width": 950
+        }, 
+        {
+            "cloudinary_id": "ac6r2yz7sr2nzdk2ozpw", 
+            "height": 1350, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ac6r2yz7sr2nzdk2ozpw.jpg", 
+            "width": 950
+        }, 
+        {
+            "cloudinary_id": "ths7gwtbdleovr8z9so9", 
+            "height": 1150, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ths7gwtbdleovr8z9so9.jpg", 
+            "width": 950
+        }, 
+        {
+            "cloudinary_id": "sxrxpxhmf33fm4qmaipr", 
+            "height": 770, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sxrxpxhmf33fm4qmaipr.jpg", 
+            "width": 1100
+        }, 
+        {
+            "cloudinary_id": "cniyd9dne1gbpkaakqo1", 
+            "height": 990, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cniyd9dne1gbpkaakqo1.jpg", 
+            "width": 1100
+        }
+    ], 
+    "category": 0, 
+    "collection": 1920, 
+    "created_at": 1449652331677, 
+    "first_release_date": 1173312000000, 
+    "games": [
+        5613, 
+        16468, 
+        75813, 
+        13196, 
+        19698, 
+        28010, 
+        36792, 
+        19123, 
+        25311, 
+        49414
+    ], 
+    "genres": [
+        12, 
+        15
+    ], 
+    "id": 14990, 
+    "name": "Heroes of Mana", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        26
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1189728000000, 
+            "human": "2007-Sep-14", 
+            "m": 9, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1187049600000, 
+            "human": "2007-Aug-14", 
+            "m": 8, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1173312000000, 
+            "human": "2007-Mar-08", 
+            "m": 3, 
+            "platform": 20, 
+            "region": 5, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ryfm4lk7evzst2qhe9md", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ryfm4lk7evzst2qhe9md.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "heroes-of-mana", 
+    "summary": "Breathing new life into the vaunted Mana franchise, Heroes of Mana takes the beloved series into an entirely new dimension. In the first real-time strategy title for the series, generals will plan, plot and strategize their way to victory on the battlefield. Command an army of heroes, creatures and beloved rabites with the use of the Nintendo DS Touch Screen, and experience an all-new perspective on the ever-evolving Mana saga. Players can see how they rank among others in the country by accessing the Heroes of Mana servers via the Nintendo Wi-Fi Connection.", 
+    "tags": [
+        17, 
+        268435468, 
+        268435471
+    ], 
+    "themes": [
+        17
+    ], 
+    "total_rating": 55.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1525205675363, 
+    "url": "https://www.igdb.com/games/heroes-of-mana"
+}

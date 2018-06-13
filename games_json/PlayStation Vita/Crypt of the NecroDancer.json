@@ -1,0 +1,495 @@
+{
+    "aggregated_rating": 88.5, 
+    "aggregated_rating_count": 9, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Crypt of the NecroDancer Pocket Edition"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mytpzc9wr9sunxz9x1af", 
+        "height": 360, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mytpzc9wr9sunxz9x1af.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1414262834801, 
+    "developers": [
+        3834
+    ], 
+    "dlcs": [
+        26613
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "247080"
+    }, 
+    "first_release_date": 1406678400000, 
+    "game_engines": [
+        82
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        7202, 
+        8965, 
+        3231, 
+        19448, 
+        47823, 
+        18822, 
+        14760, 
+        26855, 
+        2909, 
+        1443
+    ], 
+    "genres": [
+        7, 
+        12, 
+        31, 
+        32
+    ], 
+    "id": 7886, 
+    "keywords": [
+        117, 
+        168, 
+        226, 
+        227, 
+        296, 
+        301, 
+        332, 
+        415, 
+        416, 
+        478, 
+        577, 
+        594, 
+        1345, 
+        1503, 
+        1699, 
+        1705, 
+        1923, 
+        2052, 
+        2542, 
+        2561, 
+        4134, 
+        4137, 
+        4145, 
+        4163, 
+        4169, 
+        4171, 
+        4184, 
+        4218, 
+        4261, 
+        4287, 
+        4302, 
+        4350, 
+        4365, 
+        4387, 
+        4388, 
+        4393, 
+        4431, 
+        4526, 
+        4544, 
+        4663, 
+        4727, 
+        4755, 
+        4796, 
+        4833, 
+        4846, 
+        4848, 
+        4879, 
+        4910, 
+        4943, 
+        5039, 
+        5305, 
+        5327, 
+        5361, 
+        5456, 
+        5457, 
+        5458, 
+        5459, 
+        5460, 
+        5461, 
+        5462, 
+        5463, 
+        5464, 
+        5465, 
+        10919
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Crypt of the NecroDancer", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Violence causing minor injury only"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        39, 
+        92, 
+        14, 
+        46, 
+        48, 
+        49, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 4.666666666666666, 
+    "publishers": [
+        3834, 
+        1005, 
+        1217
+    ], 
+    "pulse_count": 17, 
+    "rating": 71.4787031028658, 
+    "rating_count": 24, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1518048000000, 
+            "human": "2018-Feb-08", 
+            "m": 2, 
+            "platform": 130, 
+            "region": 3, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1518048000000, 
+            "human": "2018-Feb-08", 
+            "m": 2, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1517443200000, 
+            "human": "2018-Feb-01", 
+            "m": 2, 
+            "platform": 130, 
+            "region": 5, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1517443200000, 
+            "human": "2018-Feb-01", 
+            "m": 2, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1486684800000, 
+            "human": "2017-Feb-10", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1429747200000, 
+            "human": "2015-Apr-23", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1454371200000, 
+            "human": "2016-Feb-02", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1454371200000, 
+            "human": "2016-Feb-02", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467244800000, 
+            "human": "2016-Jun-30", 
+            "m": 6, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1486684800000, 
+            "human": "2017-Feb-10", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1406678400000, 
+            "human": "2014-Jul-30", 
+            "m": 7, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1406678400000, 
+            "human": "2014-Jul-30", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1406678400000, 
+            "human": "2014-Jul-30", 
+            "m": 7, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1406678400000, 
+            "human": "2014-Jul-30", 
+            "m": 7, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1454371200000, 
+            "human": "2016-Feb-02", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1454371200000, 
+            "human": "2016-Feb-02", 
+            "m": 2, 
+            "platform": 46, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ktnjdnv7uaawqlxwmm6n", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ktnjdnv7uaawqlxwmm6n.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pn063pn28ltlzo8vkolb", 
+            "height": 810, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pn063pn28ltlzo8vkolb.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "ufr9thtkae4qesynkiuz", 
+            "height": 644, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ufr9thtkae4qesynkiuz.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "klyfedu5xr7fhj2rfh5r", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/klyfedu5xr7fhj2rfh5r.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "yrasl95wor2gf7rci2pi", 
+            "height": 643, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yrasl95wor2gf7rci2pi.jpg", 
+            "width": 960
+        }
+    ], 
+    "slug": "crypt-of-the-necrodancer", 
+    "summary": "Crypt of the NecroDancer is a hardcore roguelike rhythm game. Can you survive this deadly dungeon of dance, slay the NecroDancer, and recapture your still beating heart? Or will you be a slave to the rhythm for all eternity?", 
+    "tags": [
+        1, 
+        17, 
+        268435463, 
+        268435468, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536871080, 
+        536871138, 
+        536871139, 
+        536871208, 
+        536871213, 
+        536871244, 
+        536871327, 
+        536871328, 
+        536871390, 
+        536871489, 
+        536871506, 
+        536872257, 
+        536872415, 
+        536872611, 
+        536872617, 
+        536872835, 
+        536872964, 
+        536873454, 
+        536873473, 
+        536875046, 
+        536875049, 
+        536875057, 
+        536875075, 
+        536875081, 
+        536875083, 
+        536875096, 
+        536875130, 
+        536875173, 
+        536875199, 
+        536875214, 
+        536875262, 
+        536875277, 
+        536875299, 
+        536875300, 
+        536875305, 
+        536875343, 
+        536875438, 
+        536875456, 
+        536875575, 
+        536875639, 
+        536875667, 
+        536875708, 
+        536875745, 
+        536875758, 
+        536875760, 
+        536875791, 
+        536875822, 
+        536875855, 
+        536875951, 
+        536876217, 
+        536876239, 
+        536876273, 
+        536876368, 
+        536876369, 
+        536876370, 
+        536876371, 
+        536876372, 
+        536876373, 
+        536876374, 
+        536876375, 
+        536876376, 
+        536876377, 
+        536881831, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "time_to_beat": {
+        "completely": 360000, 
+        "normally": 88200
+    }, 
+    "total_rating": 79.98935155143289, 
+    "total_rating_count": 33, 
+    "updated_at": 1528352021931, 
+    "url": "https://www.igdb.com/games/crypt-of-the-necrodancer", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "JCT-lPx5708"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "CENF14Iloxw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 11, 
+            "url": "https://itunes.apple.com/us/app/crypt-of-the-necrodancer/id1085123968?mt=8&uo=4"
+        }, 
+        {
+            "category": 14, 
+            "url": "https://www.reddit.com/r/necrodancer"
+        }, 
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/ca/app/crypt-of-the-necrodancer-pocket-edition/id1085123968?mt=8"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://crypt-of-the-necrodancer.wikia.com/wiki/Crypt_of_the_NecroDancer_Wiki"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/247080"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://necrodancer.com"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/necrodancergame"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/CryptOfTheNecroDancer"
+        }, 
+        {
+            "category": 3, 
+            "url": "http://en.wikipedia.org/wiki/Crypt_of_the_Necrodancer"
+        }
+    ]
+}

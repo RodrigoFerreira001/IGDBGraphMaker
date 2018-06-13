@@ -1,0 +1,469 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 7, 
+    "artworks": [
+        {
+            "cloudinary_id": "iqfra9symae4u18aeoec", 
+            "height": 560, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iqfra9symae4u18aeoec.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "sn8vffijapupnhx7yhce", 
+            "height": 530, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sn8vffijapupnhx7yhce.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "rev7btiqsdnhaqzzslnw", 
+            "height": 830, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rev7btiqsdnhaqzzslnw.jpg", 
+            "width": 580
+        }, 
+        {
+            "cloudinary_id": "euvshuk4cjhab8h9ugmu", 
+            "height": 660, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/euvshuk4cjhab8h9ugmu.jpg", 
+            "width": 440
+        }, 
+        {
+            "cloudinary_id": "ghpwch3t5b68mlduik6r", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ghpwch3t5b68mlduik6r.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "ltwmvzvvrbjwknugk4iz", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ltwmvzvvrbjwknugk4iz.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "x5akozxpldu6f7i8dd00", 
+            "height": 760, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x5akozxpldu6f7i8dd00.jpg", 
+            "width": 550
+        }, 
+        {
+            "cloudinary_id": "mgsnqs9ythaigsuo9ikb", 
+            "height": 670, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mgsnqs9ythaigsuo9ikb.jpg", 
+            "width": 550
+        }, 
+        {
+            "cloudinary_id": "biqqm2x1jlxv6dgjvj3o", 
+            "height": 760, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/biqqm2x1jlxv6dgjvj3o.jpg", 
+            "width": 550
+        }, 
+        {
+            "cloudinary_id": "abpnn6nprdnmcvdycixb", 
+            "height": 835, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/abpnn6nprdnmcvdycixb.jpg", 
+            "width": 550
+        }, 
+        {
+            "cloudinary_id": "hp7rxaaubzlnjndacung", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hp7rxaaubzlnjndacung.jpg", 
+            "width": 750
+        }, 
+        {
+            "cloudinary_id": "ysaibb2khq5ujsiamzvg", 
+            "height": 585, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ysaibb2khq5ujsiamzvg.jpg", 
+            "width": 465
+        }
+    ], 
+    "category": 0, 
+    "collection": 289, 
+    "cover": {
+        "cloudinary_id": "rvx5cgtx5t8jiki2ktvj", 
+        "height": 2033, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rvx5cgtx5t8jiki2ktvj.jpg", 
+        "width": 1533
+    }, 
+    "created_at": 1348394733475, 
+    "developers": [
+        2721
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1202169600000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        28204, 
+        26401, 
+        6958, 
+        36952, 
+        529, 
+        547, 
+        539, 
+        1321, 
+        7350, 
+        2113
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 1330, 
+    "keywords": [
+        87, 
+        129, 
+        453, 
+        558, 
+        1057, 
+        1293, 
+        1333, 
+        1440, 
+        2210, 
+        2543, 
+        3626, 
+        4245, 
+        4310, 
+        4330, 
+        4332, 
+        4345, 
+        4359, 
+        4525, 
+        4534, 
+        4611, 
+        4613, 
+        4615, 
+        4731, 
+        4770, 
+        4777, 
+        4869, 
+        4885, 
+        4890, 
+        4892, 
+        4895, 
+        4907, 
+        4973, 
+        4975, 
+        4990, 
+        5029, 
+        5209, 
+        5259, 
+        5309, 
+        5345, 
+        5444, 
+        5479, 
+        5655, 
+        5941, 
+        5989, 
+        5999, 
+        6007, 
+        6076, 
+        6249, 
+        6295, 
+        6327, 
+        6340, 
+        6374, 
+        6620, 
+        6635, 
+        6716, 
+        7043, 
+        7044, 
+        7045, 
+        7116, 
+        7215, 
+        7221, 
+        7349, 
+        7419, 
+        7552, 
+        9071, 
+        9158, 
+        9374, 
+        10433, 
+        10460, 
+        10545, 
+        10602, 
+        12175, 
+        13083, 
+        13106, 
+        13595
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Turok", 
+    "pegi": {
+        "rating": 5, 
+        "synopsis": "The content of this game is suitable for persons aged 18 years and over only.\r\nIt contains: Extreme violence\r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        2720
+    ], 
+    "pulse_count": 1, 
+    "rating": 69.58332952735469, 
+    "rating_count": 21, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1207785600000, 
+            "human": "2008-Apr-10", 
+            "m": 4, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1202428800000, 
+            "human": "2008-Feb-08", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1202169600000, 
+            "human": "2008-Feb-05", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1213833600000, 
+            "human": "2008-Jun-19", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1213315200000, 
+            "human": "2008-Jun-13", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1208822400000, 
+            "human": "2008-Apr-22", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1202342400000, 
+            "human": "2008-Feb-07", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1202342400000, 
+            "human": "2008-Feb-07", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1212019200000, 
+            "human": "2008-May-29", 
+            "m": 5, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1202428800000, 
+            "human": "2008-Feb-08", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1202169600000, 
+            "human": "2008-Feb-05", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "u3t8ubbf8a9zj3jnsog7", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u3t8ubbf8a9zj3jnsog7.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ndsxywz7t4ksimcqdbec", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ndsxywz7t4ksimcqdbec.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "jgv5gcnde8m8dialymgm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jgv5gcnde8m8dialymgm.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "turok", 
+    "summary": "Turok is a first-person shooter developed by Propaganda Games, and published by Touchstone Games and Disney Interactive Studios, originally for the PlayStation 3 and Xbox 360 in February 2008. It was later ported on to Microsoft Windows in April 2008. A sequel was planned and developed for the Xbox 360 but it was cancelled before it was even officially announced. \n \nThe game is loosely based on the comic book series of the same title and is unrelated to the story and setting of previous Turok video games. Players assume the role of Native American space marine Joseph Turok, who is part of a team sent to a remote planet to apprehend his previous commanding officer, General Roland Kane, now a wanted war criminal. After crash landing, Turok discovers this planet is home to all manner of dinosaurs, and must fight both the predatory creatures and Kane's private army on his mission to take down his former mentor.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        536870999, 
+        536871041, 
+        536871365, 
+        536871470, 
+        536871969, 
+        536872205, 
+        536872245, 
+        536872352, 
+        536873122, 
+        536873455, 
+        536874538, 
+        536875157, 
+        536875222, 
+        536875242, 
+        536875244, 
+        536875257, 
+        536875271, 
+        536875437, 
+        536875446, 
+        536875523, 
+        536875525, 
+        536875527, 
+        536875643, 
+        536875682, 
+        536875689, 
+        536875781, 
+        536875797, 
+        536875802, 
+        536875804, 
+        536875807, 
+        536875819, 
+        536875885, 
+        536875887, 
+        536875902, 
+        536875941, 
+        536876121, 
+        536876171, 
+        536876221, 
+        536876257, 
+        536876356, 
+        536876391, 
+        536876567, 
+        536876853, 
+        536876901, 
+        536876911, 
+        536876919, 
+        536876988, 
+        536877161, 
+        536877207, 
+        536877239, 
+        536877252, 
+        536877286, 
+        536877532, 
+        536877547, 
+        536877628, 
+        536877955, 
+        536877956, 
+        536877957, 
+        536878028, 
+        536878127, 
+        536878133, 
+        536878261, 
+        536878331, 
+        536878464, 
+        536879983, 
+        536880070, 
+        536880286, 
+        536881345, 
+        536881372, 
+        536881457, 
+        536881514, 
+        536883087, 
+        536883995, 
+        536884018, 
+        536884507, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 72.29166476367735, 
+    "total_rating_count": 28, 
+    "updated_at": 1528606596098, 
+    "url": "https://www.igdb.com/games/turok", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "ao9cYNt_UAc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Turok_(video_game)"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://turok.wikia.com/wiki/Turok_(2008)"
+        }
+    ]
+}

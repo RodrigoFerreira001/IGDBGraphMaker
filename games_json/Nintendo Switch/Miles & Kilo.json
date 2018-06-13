@@ -1,0 +1,117 @@
+{
+    "category": 0, 
+    "created_at": 1510948844057, 
+    "external": {
+        "steam": "669910"
+    }, 
+    "first_release_date": 1512000000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        37022, 
+        55289, 
+        44191, 
+        34919, 
+        25646, 
+        40524, 
+        25311, 
+        23175, 
+        28277, 
+        37419
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 76041, 
+    "name": "Miles & Kilo", 
+    "platforms": [
+        6, 
+        14, 
+        130
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 130, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1512000000000, 
+            "human": "2017-Nov-30", 
+            "m": 11, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1512000000000, 
+            "human": "2017-Nov-30", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "caaspl9tvittkxu71j1w", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/caaspl9tvittkxu71j1w.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "z2evkegqntmqq9ogxu5m", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z2evkegqntmqq9ogxu5m.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zljsbqeisp6a6nk6uhsd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zljsbqeisp6a6nk6uhsd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "idfavpvsk73nxegafskz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/idfavpvsk73nxegafskz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "o9etizbilaled5kxxutk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o9etizbilaled5kxxutk.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "miles-and-kilo", 
+    "summary": "After their plane is downed by a mischievous specter, Miles and Kilo must find a way to escape a haunted archipelago. Help them run, jump, surf, swing, and slide their way through 36 levels in this fast-paced retro platformer.", 
+    "tags": [
+        1, 
+        268435487, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1523338472083, 
+    "url": "https://www.igdb.com/games/miles-and-kilo", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://milesandkilo.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/669910"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "aggregated_rating": 40.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 518, 
+    "cover": {
+        "cloudinary_id": "rcfe6mc1z53khmpclwpj", 
+        "height": 915, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rcfe6mc1z53khmpclwpj.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1398532562684, 
+    "developers": [
+        843, 
+        362
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1226793600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        28465, 
+        44242, 
+        34919, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        43130, 
+        28277, 
+        27924
+    ], 
+    "genres": [
+        7, 
+        13
+    ], 
+    "id": 6467, 
+    "keywords": [
+        169, 
+        488, 
+        1507, 
+        1663
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 5, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "AC/DC Live: Rock Band - Track Pack", 
+    "platforms": [
+        9, 
+        12, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1261
+    ], 
+    "rating": 90.0, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1226793600000, 
+            "human": "2008-Nov-16", 
+            "m": 11, 
+            "platform": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1226793600000, 
+            "human": "2008-Nov-16", 
+            "m": 11, 
+            "platform": 8, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1226793600000, 
+            "human": "2008-Nov-16", 
+            "m": 11, 
+            "platform": 9, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1226793600000, 
+            "human": "2008-Nov-16", 
+            "m": 11, 
+            "platform": 12, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "nhpd6men0einhcpupar5", 
+            "height": 265, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nhpd6men0einhcpupar5.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "ac-dc-live-rock-band-track-pack", 
+    "summary": "The majestic power of AC/DC is about to be unleashed... and you are in the band! Firing cannons, shattering eardrums and leaving nobody un-rocked, you are there as AC/DC plays one of its landmark gigs.", 
+    "tags": [
+        268435463, 
+        268435469, 
+        536871081, 
+        536871400, 
+        536872419, 
+        536872575, 
+        1073741826
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 7, 
+    "updated_at": 1528158046813, 
+    "url": "https://www.igdb.com/games/ac-dc-live-rock-band-track-pack", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.rockband.com/games"
+        }
+    ]
+}

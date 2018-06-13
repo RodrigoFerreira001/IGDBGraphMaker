@@ -1,0 +1,136 @@
+{
+    "aggregated_rating": 51.0, 
+    "aggregated_rating_count": 5, 
+    "category": 0, 
+    "collection": 92, 
+    "cover": {
+        "cloudinary_id": "gahycc5u8kkfk3fmbwzq", 
+        "height": 261, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gahycc5u8kkfk3fmbwzq.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1467881190520, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1333411200000, 
+    "games": [
+        21429, 
+        27421, 
+        26766, 
+        26841, 
+        11214, 
+        76888, 
+        7603, 
+        26769, 
+        2135, 
+        7349
+    ], 
+    "genres": [
+        25
+    ], 
+    "id": 19906, 
+    "keywords": [
+        227, 
+        296, 
+        389, 
+        982, 
+        1293, 
+        1682, 
+        2992, 
+        4134, 
+        4177, 
+        4239, 
+        4353, 
+        4419, 
+        4446, 
+        4678, 
+        4699, 
+        4755, 
+        4890, 
+        5009, 
+        5523, 
+        5887, 
+        5929, 
+        6003, 
+        6243, 
+        7402, 
+        9838, 
+        11480
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Fable Heroes", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1333411200000, 
+            "human": "2012-Apr-03", 
+            "m": 4, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "h5wgtr4fsc1mlwkct8ct", 
+            "height": 150, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h5wgtr4fsc1mlwkct8ct.jpg", 
+            "width": 300
+        }
+    ], 
+    "slug": "fable-heroes", 
+    "summary": "Work together as heroes of Albion to defeat familiar foes and new enemies while collecting as many gold coins as possible to unlock upgrades, characters, and items in both this game and Fable: The Journey for Kinect for Xbox 360.", 
+    "tags": [
+        268435481, 
+        536871139, 
+        536871208, 
+        536871301, 
+        536871894, 
+        536872205, 
+        536872594, 
+        536873904, 
+        536875046, 
+        536875089, 
+        536875151, 
+        536875265, 
+        536875331, 
+        536875358, 
+        536875590, 
+        536875611, 
+        536875667, 
+        536875802, 
+        536875921, 
+        536876435, 
+        536876799, 
+        536876841, 
+        536876915, 
+        536877155, 
+        536878314, 
+        536880750, 
+        536882392
+    ], 
+    "total_rating": 51.0, 
+    "total_rating_count": 5, 
+    "updated_at": 1516779161398, 
+    "url": "https://www.igdb.com/games/fable-heroes"
+}

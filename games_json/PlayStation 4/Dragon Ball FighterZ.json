@@ -1,0 +1,427 @@
+{
+    "aggregated_rating": 87.7333333333333, 
+    "aggregated_rating_count": 21, 
+    "alternative_names": [
+        {
+            "comment": "Acronym", 
+            "name": "DBFZ"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Dragonball FighterZ"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb \u30d5\u30a1\u30a4\u30bf\u30fc\u30ba"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "ltiscoqe0hfqa0y5igzn", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ltiscoqe0hfqa0y5igzn.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "akrzsyqwy0e93qkhcqr5", 
+            "height": 1270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/akrzsyqwy0e93qkhcqr5.jpg", 
+            "width": 900
+        }
+    ], 
+    "category": 0, 
+    "collection": 2159, 
+    "cover": {
+        "cloudinary_id": "d3u9twanoznp5fspuzpe", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/d3u9twanoznp5fspuzpe.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1497048532243, 
+    "developers": [
+        1218
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is a fighting game in which players compete in three-person tag-team battles using the characters and events from the Dragon Ball universe. Characters punch and kick each other while also using blasts/beams/balls of energy to defeat opponents. Battles can be fast-paced and frenetic, with frequent impact sounds, light effects, and cries of pain. Cutscenes also depict instances of violence (e.g., several explosions; characters vaporized by energy beams). The game contains some suggestive material: a female character wearing a low-cut top that reveals large amounts of cleavage; character descriptions/tags, such as \"Old Pervert\" and \"Sexy and I Know It.\" The words \u201ca*s\u201d and \u201cbastard\u201d appear in the dialogue."
+    }, 
+    "external": {
+        "steam": "678950"
+    }, 
+    "first_release_date": 1516924800000, 
+    "franchise": 56, 
+    "franchises": [
+        56
+    ], 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        23733, 
+        11567, 
+        36926, 
+        28168, 
+        36950, 
+        27316, 
+        7333, 
+        51448, 
+        16999, 
+        55092
+    ], 
+    "genres": [
+        4
+    ], 
+    "hypes": 14, 
+    "id": 36911, 
+    "keywords": [
+        3, 
+        61, 
+        78, 
+        107, 
+        296, 
+        588, 
+        589, 
+        1293, 
+        4131, 
+        4134, 
+        4141, 
+        4142, 
+        4154, 
+        4221, 
+        4224, 
+        4245, 
+        4261, 
+        4357, 
+        4460, 
+        4564, 
+        4809, 
+        4969, 
+        4971, 
+        4972, 
+        6090, 
+        6093, 
+        6368, 
+        6784, 
+        12444
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 8, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dragon Ball FighterZ", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Violence in a sporting context - Mild bad language"
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 32.66666666666667, 
+    "publishers": [
+        3958
+    ], 
+    "pulse_count": 1151, 
+    "rating": 89.8255634131634, 
+    "rating_count": 11, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1516924800000, 
+            "human": "2018-Jan-26", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1516924800000, 
+            "human": "2018-Jan-26", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1516924800000, 
+            "human": "2018-Jan-26", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1516924800000, 
+            "human": "2018-Jan-26", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1516924800000, 
+            "human": "2018-Jan-26", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1516924800000, 
+            "human": "2018-Jan-26", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1517443200000, 
+            "human": "2018-Feb-01", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1517443200000, 
+            "human": "2018-Feb-01", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1517443200000, 
+            "human": "2018-Feb-01", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 5, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "twxiugwlw4ienkwd4tkx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/twxiugwlw4ienkwd4tkx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pfg836d4jrkbdxjakdyh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pfg836d4jrkbdxjakdyh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fwspovkrzh2wmynysc8f", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fwspovkrzh2wmynysc8f.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lb4rbneoidprk3nih1ik", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lb4rbneoidprk3nih1ik.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ifjqb57ogathsp9jdoqs", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ifjqb57ogathsp9jdoqs.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ouszuft78bmy4ajnsmai", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ouszuft78bmy4ajnsmai.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vl7bdqzq2uhuhhivg9ob", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vl7bdqzq2uhuhhivg9ob.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bck3mlmmk5ocfcozpxjb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bck3mlmmk5ocfcozpxjb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "serpe4nefmeivhnmfb1h", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/serpe4nefmeivhnmfb1h.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "evdmwdivj5ehvdlnoguy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/evdmwdivj5ehvdlnoguy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "eosoj6qdxyabrltnnpvj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eosoj6qdxyabrltnnpvj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wkrofjc1r5gtzkotditg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wkrofjc1r5gtzkotditg.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "dragon-ball-fighterz", 
+    "summary": "DRAGON BALL FighterZ is born from what makes the DRAGON BALL series so loved and famous: endless spectacular fights with its all-powerful fighters.", 
+    "tags": [
+        1, 
+        17, 
+        18, 
+        268435460, 
+        536870915, 
+        536870973, 
+        536870990, 
+        536871019, 
+        536871208, 
+        536871500, 
+        536871501, 
+        536872205, 
+        536875043, 
+        536875046, 
+        536875053, 
+        536875054, 
+        536875066, 
+        536875133, 
+        536875136, 
+        536875157, 
+        536875173, 
+        536875269, 
+        536875372, 
+        536875476, 
+        536875721, 
+        536875881, 
+        536875883, 
+        536875884, 
+        536877002, 
+        536877005, 
+        536877280, 
+        536877696, 
+        536883356, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17, 
+        18
+    ], 
+    "total_rating": 88.77944837324836, 
+    "total_rating_count": 32, 
+    "updated_at": 1528894367891, 
+    "url": "https://www.igdb.com/games/dragon-ball-fighterz", 
+    "videos": [
+        {
+            "name": "Tien Shinhan Teaser", 
+            "video_id": "XIUjVsqHa1E"
+        }, 
+        {
+            "name": "Development Diary", 
+            "video_id": "pTjL1z-ubj0"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "MVWnmzBPj5c"
+        }, 
+        {
+            "name": "4th Trailer", 
+            "video_id": "67703dLapZM"
+        }, 
+        {
+            "name": "Gotenks Intro Video", 
+            "video_id": "gtQ1aJ30ikg"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "pfHzZzREY4o"
+        }, 
+        {
+            "name": "Yamcha Teaser", 
+            "video_id": "mk9zFQX-s6M"
+        }, 
+        {
+            "name": "Story Trailer", 
+            "video_id": "DTjRHkbuAqA"
+        }, 
+        {
+            "name": "Cutscene Trailer", 
+            "video_id": "AndhLiXg7ZA"
+        }, 
+        {
+            "name": "Gamescom 2017: Androids Are Back Trailer", 
+            "video_id": "_nR-wqJciWw"
+        }, 
+        {
+            "name": "Trunks Trailer", 
+            "video_id": "okQEgKhjN_8"
+        }, 
+        {
+            "name": "E3 2017 Trailer", 
+            "video_id": "7qF0xY2P7iA"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.bandainamcoent.com/"
+        }, 
+        {
+            "category": 14, 
+            "url": "https://www.reddit.com/r/dragonballfighterz"
+        }, 
+        {
+            "category": 6, 
+            "url": "https://www.twitch.tv/directory/game/Dragon%20Ball%20FighterZ"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/678950"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Dragon_Ball_FighterZ"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://dragonball.wikia.com/wiki/Dragon_Ball_FighterZ"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Disney Infinity: Marvel Super Heroes (2.0 Edition)"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Disney Infinity 2.0"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2986, 
+    "cover": {
+        "cloudinary_id": "udel3zupkl36ckpovcdt", 
+        "height": 422, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/udel3zupkl36ckpovcdt.jpg", 
+        "width": 384
+    }, 
+    "created_at": 1504993298610, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1411430400000, 
+    "games": [
+        14763, 
+        7329, 
+        23175, 
+        11567, 
+        11161, 
+        19561, 
+        7336, 
+        47823, 
+        25300, 
+        36950
+    ], 
+    "id": 61822, 
+    "keywords": [
+        14, 
+        57, 
+        1033, 
+        2387, 
+        4181, 
+        4345, 
+        5014, 
+        5204, 
+        5315, 
+        5316, 
+        5317
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Disney Infinity: Marvel Super Heroes", 
+    "platforms": [
+        48
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        426
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1411430400000, 
+            "human": "2014-Sep-23", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "q8rdsnce6qyg2exvac8u", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q8rdsnce6qyg2exvac8u.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "irzag0no4437fht4v38m", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/irzag0no4437fht4v38m.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "disney-infinity-marvel-super-heroes", 
+    "summary": "Disney Interactive is set to include Marvel characters in the next version of its Disney Infinity series.", 
+    "tags": [
+        536870926, 
+        536870969, 
+        536871945, 
+        536873299, 
+        536875093, 
+        536875257, 
+        536875926, 
+        536876116, 
+        536876227, 
+        536876228, 
+        536876229
+    ], 
+    "updated_at": 1521727215422, 
+    "url": "https://www.igdb.com/games/disney-infinity-marvel-super-heroes", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://infinity.disney.com"
+        }
+    ]
+}

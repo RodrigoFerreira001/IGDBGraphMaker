@@ -1,0 +1,74 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 2272, 
+    "cover": {
+        "cloudinary_id": "web9hicwmn5zaijwezrb", 
+        "height": 2160, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/web9hicwmn5zaijwezrb.jpg", 
+        "width": 1525
+    }, 
+    "created_at": 1468849595014, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1259280000000, 
+    "games": [
+        44242, 
+        29173, 
+        55689, 
+        55590, 
+        40470, 
+        9199, 
+        18623, 
+        22470, 
+        11679, 
+        26145
+    ], 
+    "genres": [
+        13
+    ], 
+    "id": 20669, 
+    "keywords": [
+        994, 
+        1148, 
+        4872
+    ], 
+    "name": "SimAnimals Africa", 
+    "platforms": [
+        5
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1259280000000, 
+            "human": "2009-Nov-27", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 8, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "oggytz9zjmlbp7pczuu2", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oggytz9zjmlbp7pczuu2.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "simanimals-africa", 
+    "summary": "SimAnimals Africa was released for Wii with these known animals: \n \nAfrican Bush Elephant \nLowland Gorilla \nAfrican Lion \nNile Crocodile \nBlack Rhinoceros \nThomson's Gazelle \nMasai Giraffe \nPlains Zebra \nNile Hippopotamus", 
+    "tags": [
+        268435469, 
+        536871906, 
+        536872060, 
+        536875784
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1515768489148, 
+    "url": "https://www.igdb.com/games/simanimals-africa"
+}

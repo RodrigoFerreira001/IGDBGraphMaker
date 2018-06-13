@@ -1,0 +1,153 @@
+{
+    "aggregated_rating": 43.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "rf1a2i2j0hvgtuerwsx6", 
+        "height": 454, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rf1a2i2j0hvgtuerwsx6.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1477253646644, 
+    "developers": [
+        11369
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "618650"
+    }, 
+    "first_release_date": 1476921600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        18623, 
+        10039, 
+        23345, 
+        32902, 
+        34919, 
+        17446, 
+        16468, 
+        54639, 
+        28029, 
+        40524
+    ], 
+    "genres": [
+        5, 
+        32
+    ], 
+    "id": 25182, 
+    "keywords": [
+        151, 
+        166, 
+        4234
+    ], 
+    "name": "Pixel Gear", 
+    "platforms": [
+        48
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1476921600000, 
+            "human": "2016-Oct-20", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476921600000, 
+            "human": "2016-Oct-20", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476921600000, 
+            "human": "2016-Oct-20", 
+            "m": 10, 
+            "platform": 48, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "duxsjmye23hpwbc5nxs4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/duxsjmye23hpwbc5nxs4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "x80zzeerprxqnasqrvj6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x80zzeerprxqnasqrvj6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "sdlif7kioiockhz7gvgk", 
+            "height": 338, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sdlif7kioiockhz7gvgk.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "brrgcnmzxmdvmvevmnhi", 
+            "height": 328, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/brrgcnmzxmdvmvevmnhi.jpg", 
+            "width": 555
+        }, 
+        {
+            "cloudinary_id": "bfrrcvjkmdwvgx8ltc4x", 
+            "height": 284, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bfrrcvjkmdwvgx8ltc4x.jpg", 
+            "width": 555
+        }
+    ], 
+    "slug": "pixel-gear", 
+    "summary": "Pixel Gear is a pixel style VR shoot-em-up with a variety of humorous cartoon monsters and ghosts as enemies. Utlize your skills and weapons to defeat them, gain energy, and apply your skills wisely to slow down time and load up infinite bullets. Observe the environment carefully. And keep on shooting in the pixel battlefield.", 
+    "tags": [
+        1, 
+        22, 
+        268435461, 
+        268435488, 
+        536871063, 
+        536871078, 
+        536875146, 
+        1073741831
+    ], 
+    "themes": [
+        1, 
+        22
+    ], 
+    "total_rating": 43.3333333333333, 
+    "total_rating_count": 3, 
+    "updated_at": 1523350827214, 
+    "url": "https://www.igdb.com/games/pixel-gear", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "-7s2FVmZQjA"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.facebook.com/Geronimo-Interactive-1789605664633280/?ref=bookmarks"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/618650"
+        }
+    ]
+}

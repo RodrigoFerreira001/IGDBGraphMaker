@@ -1,0 +1,158 @@
+{
+    "aggregated_rating": 56.6666666666667, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 1008, 
+    "cover": {
+        "cloudinary_id": "vdtele4lswyhj92gntqo", 
+        "height": 299, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vdtele4lswyhj92gntqo.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1404179542455, 
+    "developers": [
+        243
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1163721600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        36608, 
+        16468, 
+        55289, 
+        59516, 
+        28010, 
+        25311, 
+        49414, 
+        71455, 
+        20048, 
+        1221
+    ], 
+    "genres": [
+        12, 
+        25
+    ], 
+    "id": 7476, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Untold Legends: Dark Kingdom", 
+    "pegi": {
+        "rating": 4
+    }, 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        243
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1178236800000, 
+            "human": "2007-May-04", 
+            "m": 5, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1172102400000, 
+            "human": "2007-Feb-22", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1163721600000, 
+            "human": "2006-Nov-17", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1178150400000, 
+            "human": "2007-May-03", 
+            "m": 5, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rmxhoinxvbtpc5ahz5ye", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rmxhoinxvbtpc5ahz5ye.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "pyzhhi2piol7nmclpnes", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pyzhhi2piol7nmclpnes.jpg", 
+            "width": 852
+        }, 
+        {
+            "cloudinary_id": "yvolaukvt3hy6bgsygul", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yvolaukvt3hy6bgsygul.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "fyayrolbjbjg6mv9mvdj", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fyayrolbjbjg6mv9mvdj.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "uon7rmifvgw28bdpr5iz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uon7rmifvgw28bdpr5iz.jpg", 
+            "width": 1900
+        }
+    ], 
+    "slug": "untold-legends-dark-kingdom", 
+    "summary": "The ultimate next-gen action-RPG experience! Embark on a fantasy adventure across more than 30 levels as one of three unique heroes. Experience next generation gaming in true high definition. Adventure cooperatively, play online, or acquire new content through the Playstation Network. Unique physics-based gameplay takes hack n' slash to an all-new level.", 
+    "tags": [
+        1, 
+        268435468, 
+        268435481
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 56.6666666666667, 
+    "total_rating_count": 4, 
+    "updated_at": 1516094534240, 
+    "url": "https://www.igdb.com/games/untold-legends-dark-kingdom", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "4W8sOWyH7-M"
+        }
+    ]
+}

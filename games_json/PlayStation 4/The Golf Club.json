@@ -1,0 +1,244 @@
+{
+    "aggregated_rating": 67.5, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 2740, 
+    "cover": {
+        "cloudinary_id": "z8hmrgria0r4zp3jhdyd", 
+        "height": 1348, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/z8hmrgria0r4zp3jhdyd.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1453810166502, 
+    "developers": [
+        696
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is a golf simulation game in which players select customizable characters to compete on realistic golf courses. Players can create and customize their own courses while sharpening their skills in variety of game modes (e.g., Round, Tour, Tournament)."
+    }, 
+    "external": {
+        "steam": "269730"
+    }, 
+    "first_release_date": 1408406400000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        35626, 
+        28465, 
+        34919, 
+        55715, 
+        12666, 
+        44242, 
+        61239, 
+        48340, 
+        41429, 
+        40292
+    ], 
+    "genres": [
+        13, 
+        14
+    ], 
+    "id": 16927, 
+    "keywords": [
+        30, 
+        171, 
+        1980, 
+        4148, 
+        4714, 
+        4715, 
+        4912, 
+        4920, 
+        5315
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "The Golf Club", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons.\nIt contains: This game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        696, 
+        3037
+    ], 
+    "pulse_count": 3, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1409702400000, 
+            "human": "2014-Sep-03", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1409011200000, 
+            "human": "2014-Aug-26", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 6, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 49, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1409011200000, 
+            "human": "2014-Aug-26", 
+            "m": 8, 
+            "platform": 48, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wtxewuy08zhiihpbfw55", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wtxewuy08zhiihpbfw55.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "j7yxdmp6sq5a0q0fgv5h", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j7yxdmp6sq5a0q0fgv5h.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "t7q9vliotkdf5akalxlz", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t7q9vliotkdf5akalxlz.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "jrzoalzmkjqpn8csahtu", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jrzoalzmkjqpn8csahtu.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "tr6rk0gw27k41kr04bsz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tr6rk0gw27k41kr04bsz.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "the-golf-club", 
+    "summary": "The Golf Club is HB Studios\u2019 next generation golf simulation. Stunning visual presentation and outstanding gameplay are to be expected but what really takes The Golf Club into the next generation is the procedural generation of courses and depth of social interaction. The Course Creator can generate a brand new course in seconds which can be shared and played immediately online with friends and other gamers across the world. There are also full editing capabilities for courses, Tournaments and Tours. Challenge your friends on a new or existing course in real time or try to beat their best recorded round. Add to this a myriad of stat tracking and personal bests of friends and rivals to beat, notifications, challenges and social media integration and you truly have a golf club worth joining.", 
+    "tags": [
+        268435469, 
+        268435470, 
+        536870942, 
+        536871083, 
+        536872892, 
+        536875060, 
+        536875626, 
+        536875627, 
+        536875824, 
+        536875832, 
+        536876227, 
+        1073741826
+    ], 
+    "total_rating": 68.75, 
+    "total_rating_count": 4, 
+    "updated_at": 1528358967558, 
+    "url": "https://www.igdb.com/games/the-golf-club", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "JZJ87BNR230"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "ljvG3ABB5EI"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/269730"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://thegolfclubgame.com"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/thegolfclubgame"
+        }
+    ]
+}

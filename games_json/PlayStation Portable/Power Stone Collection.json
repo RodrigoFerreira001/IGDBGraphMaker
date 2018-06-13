@@ -1,0 +1,143 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 2, 
+    "artworks": [
+        {
+            "cloudinary_id": "e7n5yff3i3ecpgxtouyr", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e7n5yff3i3ecpgxtouyr.jpg", 
+            "width": 750
+        }, 
+        {
+            "cloudinary_id": "sfvxqalysd2hntjo3xqx", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sfvxqalysd2hntjo3xqx.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "igo6zy80asqntgioqjqe", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/igo6zy80asqntgioqjqe.jpg", 
+            "width": 900
+        }
+    ], 
+    "category": 0, 
+    "collection": 1723, 
+    "cover": {
+        "cloudinary_id": "lxv7z564paxbhc11i6jc", 
+        "height": 2201, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lxv7z564paxbhc11i6jc.jpg", 
+        "width": 1280
+    }, 
+    "created_at": 1443521752808, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1161302400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        10039, 
+        28154, 
+        56987, 
+        4355, 
+        22418, 
+        7518, 
+        41828, 
+        19174, 
+        1235, 
+        65832
+    ], 
+    "genres": [
+        4, 
+        8
+    ], 
+    "id": 13107, 
+    "keywords": [
+        107, 
+        4134, 
+        4907, 
+        5328, 
+        5694, 
+        9641
+    ], 
+    "name": "Power Stone Collection", 
+    "platforms": [
+        38
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        37
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1164844800000, 
+            "human": "2006-Nov-30", 
+            "m": 11, 
+            "platform": 38, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1161302400000, 
+            "human": "2006-Oct-20", 
+            "m": 10, 
+            "platform": 38, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1162252800000, 
+            "human": "2006-Oct-31", 
+            "m": 10, 
+            "platform": 38, 
+            "region": 2, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jwwkvqwyzfuempy89ukl", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jwwkvqwyzfuempy89ukl.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "youhop5o4jqtculr2pbq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/youhop5o4jqtculr2pbq.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "power-stone-collection", 
+    "summary": "Capcom ported the entire Power Stone series to the PlayStation Portable with a few enhancements: most notably, the PSP version of the original Power Stone included the four new characters introduced in Power Stone 2.", 
+    "tags": [
+        268435460, 
+        268435464, 
+        536871019, 
+        536875046, 
+        536875819, 
+        536876240, 
+        536876606, 
+        536880553, 
+        1073741828
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1525431273693, 
+    "url": "https://www.igdb.com/games/power-stone-collection", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "vzLJdoZ8vNk"
+        }
+    ]
+}

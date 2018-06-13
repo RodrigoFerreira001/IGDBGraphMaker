@@ -1,0 +1,136 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "wbik7f10fcchvita8jfy", 
+        "height": 1208, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wbik7f10fcchvita8jfy.jpg", 
+        "width": 850
+    }, 
+    "created_at": 1466175000777, 
+    "developers": [
+        2327, 
+        10140
+    ], 
+    "first_release_date": 796694400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        19222, 
+        41348, 
+        10225, 
+        27266, 
+        14246, 
+        60044, 
+        236, 
+        27725, 
+        101980, 
+        101976
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 19665, 
+    "name": "Baku Baku Animal", 
+    "platforms": [
+        52, 
+        35, 
+        6, 
+        32
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        4981, 
+        229, 
+        10141
+    ], 
+    "release_dates": [
+        {
+            "category": 1, 
+            "date": 796694400000, 
+            "human": "1995-Apr", 
+            "m": 4, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1995
+        }, 
+        {
+            "category": 2, 
+            "date": 851990400000, 
+            "human": "1996", 
+            "m": 12, 
+            "platform": 35, 
+            "region": 1, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 822614400000, 
+            "human": "1996-Jan-26", 
+            "m": 1, 
+            "platform": 35, 
+            "region": 5, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 815961600000, 
+            "human": "1995-Nov-10", 
+            "m": 11, 
+            "platform": 32, 
+            "region": 5, 
+            "y": 1995
+        }, 
+        {
+            "category": 2, 
+            "date": 851990400000, 
+            "human": "1996", 
+            "m": 12, 
+            "platform": 32, 
+            "region": 2, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 838944000000, 
+            "human": "1996-Aug-02", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 842227200000, 
+            "human": "1996-Sep-09", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 1996
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "kc8djboyu8stvgmqqthb", 
+            "height": 2328, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kc8djboyu8stvgmqqthb.jpg", 
+            "width": 1368
+        }
+    ], 
+    "slug": "baku-baku-animal", 
+    "summary": "The player must line up falling blocks of animals and foodstuffs. When an animal is aligned adjacent to a tile of its favoured food, the animal eats the food. Larger groups of connected food of the same type scores higher when eaten. \n \nWhen animals eat foodstuffs, they also make random blocks fall on the opponent's area, right after the currently falling blocks. The object of the game is to make one's opponent not be able to place more blocks.", 
+    "tags": [
+        268435465, 
+        1073741828
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1517270978940, 
+    "url": "https://www.igdb.com/games/baku-baku-animal"
+}

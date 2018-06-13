@@ -1,0 +1,83 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "on2ff2cvplqpj1larq89", 
+        "height": 363, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/on2ff2cvplqpj1larq89.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1389285825596, 
+    "developers": [
+        137
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 1005782400000, 
+    "franchise": 84, 
+    "franchises": [
+        84
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        1070, 
+        1073, 
+        41118, 
+        38305, 
+        10039, 
+        1188, 
+        58479, 
+        4355, 
+        63138, 
+        1089
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 3667, 
+    "keywords": [
+        203
+    ], 
+    "name": "Shrek", 
+    "platforms": [
+        11, 
+        21
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        821
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1005782400000, 
+            "human": "2001-Nov-15", 
+            "m": 11, 
+            "platform": 21, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 1005782400000, 
+            "human": "2001-Nov-15", 
+            "m": 11, 
+            "platform": 11, 
+            "y": 2001
+        }
+    ], 
+    "slug": "shrek", 
+    "tags": [
+        268435464, 
+        536871115, 
+        1073741826
+    ], 
+    "updated_at": 1441385231518, 
+    "url": "https://www.igdb.com/games/shrek"
+}

@@ -1,0 +1,76 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Earth Saver (JP title)"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bdruwa0oied7xhfa6l1e", 
+        "height": 204, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bdruwa0oied7xhfa6l1e.jpg", 
+        "width": 272
+    }, 
+    "created_at": 1517325968836, 
+    "first_release_date": 1274227200000, 
+    "id": 84503, 
+    "name": "GO Series: Earth Saver", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1274227200000, 
+            "human": "2010-May-19", 
+            "m": 5, 
+            "platform": 159, 
+            "region": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1299801600000, 
+            "human": "2011-Mar-11", 
+            "m": 3, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1299456000000, 
+            "human": "2011-Mar-07", 
+            "m": 3, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "apd2riwur8jw6furfaer", 
+            "height": 346, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/apd2riwur8jw6furfaer.jpg", 
+            "width": 225
+        }, 
+        {
+            "cloudinary_id": "thsycguxddfnyusvhrzz", 
+            "height": 346, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/thsycguxddfnyusvhrzz.jpg", 
+            "width": 225
+        }, 
+        {
+            "cloudinary_id": "v6mjb8fqdmebrjmpssw8", 
+            "height": 346, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v6mjb8fqdmebrjmpssw8.jpg", 
+            "width": 225
+        }
+    ], 
+    "slug": "go-series-earth-saver", 
+    "summary": "Can you save the earth using your set of explosives before the meteorite crashes into it?", 
+    "updated_at": 1518062817667, 
+    "url": "https://www.igdb.com/games/go-series-earth-saver"
+}

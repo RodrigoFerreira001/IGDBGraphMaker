@@ -1,0 +1,54 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mvrzwmcnbmpobrnws9s4", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mvrzwmcnbmpobrnws9s4.jpg", 
+        "width": 369
+    }, 
+    "created_at": 1504282052765, 
+    "first_release_date": 627955200000, 
+    "games": [
+        80386, 
+        77788, 
+        68059, 
+        67650, 
+        67414, 
+        66598, 
+        62333, 
+        62240, 
+        60928, 
+        60587
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 56536, 
+    "keywords": [
+        30
+    ], 
+    "name": "Golf-ko Open", 
+    "platforms": [
+        18
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 627955200000, 
+            "human": "1989-Nov-25", 
+            "m": 11, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1989
+        }
+    ], 
+    "slug": "golf-ko-open", 
+    "summary": "A simple golfing game for the Famicom.", 
+    "tags": [
+        268435470, 
+        536870942
+    ], 
+    "updated_at": 1516597180028, 
+    "url": "https://www.igdb.com/games/golf-ko-open"
+}

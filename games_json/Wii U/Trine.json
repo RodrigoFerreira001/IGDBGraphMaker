@@ -1,0 +1,430 @@
+{
+    "aggregated_rating": 85.4285714285714, 
+    "aggregated_rating_count": 9, 
+    "alternative_names": [
+        {
+            "name": "Trine: Enchanted Edition"
+        }, 
+        {
+            "comment": "Updated version", 
+            "name": "Trine: Enchanted Edition"
+        }
+    ], 
+    "category": 0, 
+    "collection": 887, 
+    "cover": {
+        "cloudinary_id": "szlsydvcbc3xpwvpdesx", 
+        "height": 1000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/szlsydvcbc3xpwvpdesx.jpg", 
+        "width": 764
+    }, 
+    "created_at": 1398037659323, 
+    "developers": [
+        2729
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "35700"
+    }, 
+    "first_release_date": 1246579200000, 
+    "game_engines": [
+        465
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        7344, 
+        6732, 
+        11423, 
+        18167, 
+        9174, 
+        7202, 
+        1331, 
+        2909, 
+        26855, 
+        3230
+    ], 
+    "genres": [
+        8, 
+        9, 
+        31, 
+        32
+    ], 
+    "id": 6247, 
+    "keywords": [
+        147, 
+        227, 
+        287, 
+        296, 
+        589, 
+        701, 
+        714, 
+        966, 
+        1019, 
+        1046, 
+        1059, 
+        1158, 
+        1186, 
+        1293, 
+        1320, 
+        1333, 
+        1494, 
+        2049, 
+        2118, 
+        2154, 
+        2414, 
+        2875, 
+        3203, 
+        3297, 
+        4004, 
+        4134, 
+        4135, 
+        4147, 
+        4150, 
+        4219, 
+        4245, 
+        4284, 
+        4302, 
+        4368, 
+        4390, 
+        4392, 
+        4407, 
+        4425, 
+        4520, 
+        4527, 
+        4541, 
+        4543, 
+        4580, 
+        4609, 
+        4619, 
+        4698, 
+        4758, 
+        4787, 
+        4879, 
+        4903, 
+        4975, 
+        5029, 
+        5095, 
+        5098, 
+        5099, 
+        5103, 
+        5262, 
+        5308, 
+        5373, 
+        5419, 
+        5612, 
+        5657, 
+        5814, 
+        6019, 
+        6128, 
+        6295, 
+        6380, 
+        6398, 
+        6526, 
+        6544, 
+        6767, 
+        7205, 
+        7234, 
+        7479, 
+        7558, 
+        9086, 
+        9380, 
+        9394, 
+        9609, 
+        9891, 
+        10193, 
+        10684, 
+        12953
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 3, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Trine", 
+    "platforms": [
+        6, 
+        14, 
+        41, 
+        9, 
+        48, 
+        3
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 6.333333333333333, 
+    "publishers": [
+        2113
+    ], 
+    "rating": 78.5919076959385, 
+    "rating_count": 90, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1256169600000, 
+            "human": "2009-Oct-22", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1253145600000, 
+            "human": "2009-Sep-17", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1427328000000, 
+            "human": "2015-Mar-26", 
+            "m": 3, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1426118400000, 
+            "human": "2015-Mar-12", 
+            "m": 3, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1419292800000, 
+            "human": "2014-Dec-23", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1418774400000, 
+            "human": "2014-Dec-17", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1302566400000, 
+            "human": "2011-Apr-12", 
+            "m": 4, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1288656000000, 
+            "human": "2010-Nov-02", 
+            "m": 11, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1246579200000, 
+            "human": "2009-Jul-03", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jdmnrkr0auii6trmzvm7", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jdmnrkr0auii6trmzvm7.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yhagrdgfajzkl4kiitfu", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yhagrdgfajzkl4kiitfu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hxwgawdluidbqszq5l1c", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hxwgawdluidbqszq5l1c.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ytzdznjeqes44euztkm4", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ytzdznjeqes44euztkm4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vsky1wh9v8vsdpyosf6b", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vsky1wh9v8vsdpyosf6b.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "trine", 
+    "storyline": "Trine takes place in a forsaken and ruined kingdom. After enjoying a period of great peace, the king died without leaving an heir, plunging the kingdom into political instability. Taking advantage of the chaos, an undead army suddenly appeared and attacked, forcing the inhabitants to abandon the realm, save for those few souls brave enough to face the perils that had now befallen it.", 
+    "summary": "Trine is a physics-based action game where three characters allow clever solutions to challenges created by hazardous puzzles and threatening enemies. The gameplay is based on fully interactive physics - each character's different abilities and tactics can be used to invent new ways to overcome obstacles and save the kingdom!", 
+    "tags": [
+        1, 
+        17, 
+        268435464, 
+        268435465, 
+        268435487, 
+        268435488, 
+        536871059, 
+        536871139, 
+        536871199, 
+        536871208, 
+        536871501, 
+        536871613, 
+        536871626, 
+        536871878, 
+        536871931, 
+        536871958, 
+        536871971, 
+        536872070, 
+        536872098, 
+        536872205, 
+        536872232, 
+        536872245, 
+        536872406, 
+        536872961, 
+        536873030, 
+        536873066, 
+        536873326, 
+        536873787, 
+        536874115, 
+        536874209, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875059, 
+        536875062, 
+        536875131, 
+        536875157, 
+        536875196, 
+        536875214, 
+        536875280, 
+        536875302, 
+        536875304, 
+        536875319, 
+        536875337, 
+        536875432, 
+        536875439, 
+        536875453, 
+        536875455, 
+        536875492, 
+        536875521, 
+        536875531, 
+        536875610, 
+        536875670, 
+        536875699, 
+        536875791, 
+        536875815, 
+        536875887, 
+        536875941, 
+        536876007, 
+        536876010, 
+        536876011, 
+        536876015, 
+        536876174, 
+        536876220, 
+        536876285, 
+        536876331, 
+        536876524, 
+        536876569, 
+        536876726, 
+        536876931, 
+        536877040, 
+        536877207, 
+        536877292, 
+        536877310, 
+        536877438, 
+        536877456, 
+        536877679, 
+        536878117, 
+        536878146, 
+        536878391, 
+        536878470, 
+        536879998, 
+        536880292, 
+        536880306, 
+        536880521, 
+        536880803, 
+        536881105, 
+        536881596, 
+        536883865, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "time_to_beat": {
+        "completely": 36000, 
+        "hastly": 14400, 
+        "normally": 28200
+    }, 
+    "total_rating": 82.01023956225495, 
+    "total_rating_count": 99, 
+    "updated_at": 1527039635706, 
+    "url": "https://www.igdb.com/games/trine", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "oIG5TZrNMOQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Trine_(video_game)"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.trine-thegame.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/35700"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "aggregated_rating": 40.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Racquet Sports"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "wiacpckddkpde22u4dcm", 
+        "height": 1765, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wiacpckddkpde22u4dcm.jpg", 
+        "width": 1545
+    }, 
+    "created_at": 1472930866534, 
+    "first_release_date": 1284336000000, 
+    "games": [
+        46820, 
+        39665, 
+        101684, 
+        101567, 
+        101100, 
+        100907, 
+        100887, 
+        100879, 
+        100863, 
+        100832
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 23376, 
+    "name": "Racket Sports", 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        7041
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1284681600000, 
+            "human": "2010-Sep-17", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1284336000000, 
+            "human": "2010-Sep-13", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1287187200000, 
+            "human": "2010-Oct-16", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "g8bgvx3wlarwhqb86vsc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g8bgvx3wlarwhqb86vsc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lmzvwplglinaoqadcijo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lmzvwplglinaoqadcijo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zwgdqxxaryhuoy2s18jz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zwgdqxxaryhuoy2s18jz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wwi1brjknxd9tdlqjhw6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wwi1brjknxd9tdlqjhw6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "x5d5a16zpcmhbp9j9uld", 
+            "height": 180, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x5d5a16zpcmhbp9j9uld.jpg", 
+            "width": 300
+        }
+    ], 
+    "slug": "racket-sports", 
+    "summary": "Experience precise, natural control of your shots in this game developed exclusively for the PlayStation Move system. Escape to exotic locations for intense, exhilarating competitions in five different racquet sports. With fun-packed multiplayer modes and a flexible control system, everyone can join in for wildly entertaining matches!", 
+    "tags": [
+        268435470
+    ], 
+    "total_rating": 40.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1521022534759, 
+    "url": "https://www.igdb.com/games/racket-sports", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://racquetsportsgame.ubi.com/racquet-sports/en-US/home/index.aspx"
+        }
+    ]
+}

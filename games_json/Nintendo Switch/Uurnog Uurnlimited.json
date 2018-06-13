@@ -1,0 +1,161 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bcvglllfgplxfrrcb5xi", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bcvglllfgplxfrrcb5xi.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1504182378504, 
+    "developers": [
+        14283
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "678850"
+    }, 
+    "first_release_date": 1510790400000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        16468, 
+        26848, 
+        19289, 
+        25646, 
+        10039, 
+        34919, 
+        37094, 
+        27266, 
+        29032, 
+        47823
+    ], 
+    "genres": [
+        8, 
+        9, 
+        32
+    ], 
+    "id": 55228, 
+    "name": "Uurnog Uurnlimited", 
+    "platforms": [
+        6, 
+        14, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        7079
+    ], 
+    "pulse_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1511222400000, 
+            "human": "2017-Nov-21", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510790400000, 
+            "human": "2017-Nov-16", 
+            "m": 11, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510790400000, 
+            "human": "2017-Nov-16", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mbgyvjgqpma5zepl0hoa", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mbgyvjgqpma5zepl0hoa.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xip61u5qtkmcbjzp9kdp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xip61u5qtkmcbjzp9kdp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "roswq3lai3ycep507tr9", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/roswq3lai3ycep507tr9.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rjho8dq2n8pfv59tx39o", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rjho8dq2n8pfv59tx39o.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "n2sen1chwhunbipun5tl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n2sen1chwhunbipun5tl.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "uurnog-uurnlimited", 
+    "summary": "\"Enter the wacky & whimsical world of Uurnog Uurnlimited, where you have only one goal: find your way around the world, and steal all the animals! Why? Because they\u2019re adorable, and because video games. \n \nUurnog Uurnlimited is a delightfully silly 2D platformer inspired by games like Super Mario Bros. 2, Lyle in Cube Sector, and Dyad. Play single-player or co-op, explore the world through its many mysterious doors, solve puzzles and gather the items and animals needed in your Save Room. Careful though \u2014 the Save Room also saves your mistakes (urr nurr!) \n \nWhat else does it have, you ask? Chaotic neutral NPCs that can mess with your game! Algorithmic music that adapts to the gameplay! It\u2019s uurnbelievable! It\u2019s uurnexplainable! It\u2019s Uurnog Uurnlimited!\"", 
+    "tags": [
+        1, 
+        17, 
+        268435464, 
+        268435465, 
+        268435488, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1522218028807, 
+    "url": "https://www.igdb.com/games/uurnog-uurnlimited", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "QBuZGrjgTXM"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "WPOvohYeTKw"
+        }, 
+        {
+            "name": "Announcement Trailer", 
+            "video_id": "TrBjWPEQ0js"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.uurnog.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/678850"
+        }
+    ]
+}

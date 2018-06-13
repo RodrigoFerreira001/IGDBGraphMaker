@@ -1,0 +1,312 @@
+{
+    "aggregated_rating": 83.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "awggvbfzrfi5n5ka7hlz", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/awggvbfzrfi5n5ka7hlz.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1473142978095, 
+    "developers": [
+        10860
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "400450"
+    }, 
+    "first_release_date": 1472601600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        6732, 
+        19448, 
+        25300, 
+        7350, 
+        16513, 
+        19174, 
+        27314, 
+        19301, 
+        25311, 
+        11423
+    ], 
+    "genres": [
+        5, 
+        12, 
+        32
+    ], 
+    "id": 23581, 
+    "keywords": [
+        117, 
+        416, 
+        575, 
+        577, 
+        911, 
+        970, 
+        1158, 
+        1186, 
+        1510, 
+        1623, 
+        1780, 
+        2296, 
+        3486, 
+        3833, 
+        4004, 
+        4134, 
+        4135, 
+        4150, 
+        4151, 
+        4257, 
+        4283, 
+        4332, 
+        4365, 
+        4452, 
+        4699, 
+        5311, 
+        5342, 
+        6253, 
+        7421
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "NeuroVoider", 
+    "platforms": [
+        6, 
+        92, 
+        14, 
+        48, 
+        49, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1460
+    ], 
+    "pulse_count": 1, 
+    "rating": 79.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1489708800000, 
+            "human": "2017-Mar-17", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1504742400000, 
+            "human": "2017-Sep-07", 
+            "m": 9, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489449600000, 
+            "human": "2017-Mar-14", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1472601600000, 
+            "human": "2016-Aug-31", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472601600000, 
+            "human": "2016-Aug-31", 
+            "m": 8, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472601600000, 
+            "human": "2016-Aug-31", 
+            "m": 8, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472601600000, 
+            "human": "2016-Aug-31", 
+            "m": 8, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "k65yccsm4ypgkhzqckvf", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k65yccsm4ypgkhzqckvf.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "stdzn8qszccpc8zfinre", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/stdzn8qszccpc8zfinre.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "hftwsuwgkv0dqgcmotra", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hftwsuwgkv0dqgcmotra.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "rdcztkdozlkkpvzyep2e", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rdcztkdozlkkpvzyep2e.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "bxmcmhwqiamgkwinhgig", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bxmcmhwqiamgkwinhgig.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "nsgbxtvyhums7atspftm", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nsgbxtvyhums7atspftm.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "gjvtrjlvdncv3mebxrzd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gjvtrjlvdncv3mebxrzd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cewg3mkcegk9m5jckdoe", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cewg3mkcegk9m5jckdoe.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gqbmzdabvhoaljk2gz5h", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gqbmzdabvhoaljk2gz5h.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "iyvevrubq2au6lteins2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iyvevrubq2au6lteins2.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jqiu9pjyha45qibkigwz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jqiu9pjyha45qibkigwz.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "neurovoider", 
+    "summary": "NeuroVoider is a twin-stick shooter RPG set in a cyber futuristic world about brains shooting around evil robots with nuclear rocket launchers. Battle through the horde of vigilant robots, boost your character with the smoking remains of your victims, and defeat the master NeuroVoider to end this eternal war. Play it coop with up to 4 friends, or go alone in an adventure of hack'n'slash rampage, with a pinch of rogue-lite, and some permadeath.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435468, 
+        268435488, 
+        536871029, 
+        536871328, 
+        536871487, 
+        536871489, 
+        536871823, 
+        536871882, 
+        536872070, 
+        536872098, 
+        536872422, 
+        536872535, 
+        536872692, 
+        536873208, 
+        536874398, 
+        536874745, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875062, 
+        536875063, 
+        536875169, 
+        536875195, 
+        536875244, 
+        536875277, 
+        536875364, 
+        536875611, 
+        536876223, 
+        536876254, 
+        536877165, 
+        536878333, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 81.16666666666666, 
+    "total_rating_count": 3, 
+    "updated_at": 1528355973661, 
+    "url": "https://www.igdb.com/games/neurovoider", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "G8WZvqw_8qk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 5, 
+            "url": "https://twitter.com/NeuroVoider"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/400450"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://neurovoider.com/"
+        }
+    ]
+}

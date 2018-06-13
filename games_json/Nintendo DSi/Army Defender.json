@@ -1,0 +1,96 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "iafqcipfzcuzsn9sepyd", 
+        "height": 165, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iafqcipfzcuzsn9sepyd.jpg", 
+        "width": 160
+    }, 
+    "created_at": 1505347404018, 
+    "first_release_date": 1258675200000, 
+    "games": [
+        25640, 
+        76731, 
+        55036, 
+        29173, 
+        19934, 
+        25311, 
+        55590, 
+        23345, 
+        19376, 
+        22258
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 66994, 
+    "keywords": [
+        3782
+    ], 
+    "name": "Army Defender", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        489
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1258675200000, 
+            "human": "2009-Nov-20", 
+            "m": 11, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1260144000000, 
+            "human": "2009-Dec-07", 
+            "m": 12, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wamfh4nn7kniph1wa4lg", 
+            "height": 160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wamfh4nn7kniph1wa4lg.jpg", 
+            "width": 245
+        }, 
+        {
+            "cloudinary_id": "hwa1prcwwkgvekfofamw", 
+            "height": 160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hwa1prcwwkgvekfofamw.jpg", 
+            "width": 246
+        }, 
+        {
+            "cloudinary_id": "ykysmuzsgqe0k627cwnd", 
+            "height": 161, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ykysmuzsgqe0k627cwnd.jpg", 
+            "width": 244
+        }, 
+        {
+            "cloudinary_id": "imobs3fkzro7u9ivllfu", 
+            "height": 162, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/imobs3fkzro7u9ivllfu.jpg", 
+            "width": 243
+        }
+    ], 
+    "slug": "army-defender", 
+    "summary": "A strategy defense game where you control a character who defends a base with a giant cannon.", 
+    "tags": [
+        1, 
+        268435471, 
+        536874694
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1518047214618, 
+    "url": "https://www.igdb.com/games/army-defender"
+}

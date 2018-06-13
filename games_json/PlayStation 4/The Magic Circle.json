@@ -1,0 +1,204 @@
+{
+    "aggregated_rating": 86.0, 
+    "aggregated_rating_count": 7, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mcezkyysbi1emeyv0x0z", 
+        "height": 417, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mcezkyysbi1emeyv0x0z.jpg", 
+        "width": 496
+    }, 
+    "created_at": 1455282096999, 
+    "developers": [
+        9064
+    ], 
+    "external": {
+        "steam": "323380"
+    }, 
+    "first_release_date": 1433376000000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19448, 
+        25311, 
+        19301, 
+        19934, 
+        19290, 
+        27314, 
+        25300, 
+        19376, 
+        47823, 
+        65832
+    ], 
+    "genres": [
+        13, 
+        15, 
+        31, 
+        32
+    ], 
+    "id": 17847, 
+    "keywords": [
+        117, 
+        296, 
+        970, 
+        1027, 
+        1495, 
+        4134, 
+        4359, 
+        4398, 
+        4410, 
+        4465, 
+        4586, 
+        4613, 
+        4617, 
+        5316, 
+        5379, 
+        5632, 
+        7651
+    ], 
+    "name": "The Magic Circle", 
+    "pegi": {
+        "rating": 4
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        3
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        9064
+    ], 
+    "rating": 80.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1461628800000, 
+            "human": "2016-Apr-26", 
+            "m": 4, 
+            "platform": 48, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1433376000000, 
+            "human": "2015-Jun-04", 
+            "m": 6, 
+            "platform": 6, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1433376000000, 
+            "human": "2015-Jun-04", 
+            "m": 6, 
+            "platform": 14, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1433376000000, 
+            "human": "2015-Jun-04", 
+            "m": 6, 
+            "platform": 3, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "u026dubzwowegjqzknfq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u026dubzwowegjqzknfq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uuvco3e1sfmd4rao5fy2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uuvco3e1sfmd4rao5fy2.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jwykychlwqckjyqnl0ae", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jwykychlwqckjyqnl0ae.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "l7ammxbjb6qcwpzhyejg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l7ammxbjb6qcwpzhyejg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ea2pdn5pnduhu3ounsne", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ea2pdn5pnduhu3ounsne.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "the-magic-circle", 
+    "summary": "You are the protagonist of an unfinished 1st person fantasy game, trapped in development hell. The designers (played by James Urbaniak, Ashly Burch, and Karen Dyer) are god-like, but so indecisive that they've given you no powers whatsoever. With the help of a mysterious disembodied voice (Stephen Russell) you must seize the tools of game development from these unworthy 'gods', uncovering more of the darkly comic story as you go.", 
+    "tags": [
+        1, 
+        18, 
+        27, 
+        33, 
+        268435469, 
+        268435471, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536871208, 
+        536871882, 
+        536871939, 
+        536872407, 
+        536875046, 
+        536875271, 
+        536875310, 
+        536875322, 
+        536875377, 
+        536875498, 
+        536875525, 
+        536875529, 
+        536876228, 
+        536876291, 
+        536876544, 
+        536878563, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        18, 
+        27, 
+        33
+    ], 
+    "total_rating": 83.0, 
+    "total_rating_count": 9, 
+    "updated_at": 1523433775960, 
+    "url": "https://www.igdb.com/games/the-magic-circle", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Kzxm4WtVUt0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/323380"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.magiccirclegame.com/"
+        }
+    ]
+}

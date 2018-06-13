@@ -1,0 +1,111 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "nym6qs7zyntzgpsrrmxo", 
+        "height": 287, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nym6qs7zyntzgpsrrmxo.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1506115371012, 
+    "developers": [
+        13493
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "755220"
+    }, 
+    "first_release_date": 1505952000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        27266, 
+        32283, 
+        75065, 
+        75813, 
+        55308, 
+        25640
+    ], 
+    "genres": [
+        9, 
+        15, 
+        32
+    ], 
+    "id": 68439, 
+    "name": "Frutakia 2", 
+    "platforms": [
+        137
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        13493
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1505952000000, 
+            "human": "2017-Sep-21", 
+            "m": 9, 
+            "platform": 137, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ptmqpr773rtmemmvndj0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ptmqpr773rtmemmvndj0.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "qgv3nspnzh1vk6wi4uob", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qgv3nspnzh1vk6wi4uob.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "t4r1oirnyvaqaxw9mgya", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t4r1oirnyvaqaxw9mgya.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "gs96jsuzswtnpcbgf3dl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gs96jsuzswtnpcbgf3dl.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "gvecupxe5elvbxlkihkm", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gvecupxe5elvbxlkihkm.jpg", 
+            "width": 346
+        }
+    ], 
+    "slug": "frutakia-2", 
+    "summary": "Frutakia by CrazySoft is back and better than ever! Make groups of 3 or more same fruits/items in any direction! Sounds simple? Its not!", 
+    "tags": [
+        268435465, 
+        268435471, 
+        268435488
+    ], 
+    "updated_at": 1522171521646, 
+    "url": "https://www.igdb.com/games/frutakia-2", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.crazysoft.gr/all/frutakia2.php"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/755220"
+        }
+    ]
+}

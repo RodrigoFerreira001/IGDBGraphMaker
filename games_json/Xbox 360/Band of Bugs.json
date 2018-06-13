@@ -1,0 +1,93 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "naqo5pja3lffellqjlcv", 
+        "height": 262, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/naqo5pja3lffellqjlcv.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1470132519169, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1146528000000, 
+    "genres": [
+        15
+    ], 
+    "id": 22022, 
+    "keywords": [
+        226, 
+        227, 
+        301, 
+        1098, 
+        1293, 
+        1333, 
+        1503, 
+        1507, 
+        3224, 
+        3782, 
+        4134, 
+        4248, 
+        4392, 
+        4698, 
+        5374, 
+        5450, 
+        5561, 
+        5591, 
+        5633, 
+        5765, 
+        5850, 
+        6000, 
+        6703, 
+        7417, 
+        10919, 
+        11209, 
+        12903
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Band of Bugs", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1146528000000, 
+            "human": "2006-May-02", 
+            "m": 5, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2006
+        }
+    ], 
+    "slug": "band-of-bugs", 
+    "summary": "Maal is an unhappy bug who needs structure and a purpose in his life, so he joins the royal army under the tutelage of the battle-hardened mantis warrior Tiernan. Now, he must begin his quest to save the Queen and the kingdom. NinjaBee's Band of Bugs puts you in Maal's shoes er, footpads, and sets you in the middle of a fast-playing, accessible, tactical strategy game designed specifically for Xbox LIVE Arcade. This turn-based tactics game expands the genre by providing a unique Level Editor, allowing gamers to create levels and play them online with friends.", 
+    "total_rating": 65.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1513073235774, 
+    "url": "https://www.igdb.com/games/band-of-bugs", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Band_of_Bugs"
+        }
+    ]
+}

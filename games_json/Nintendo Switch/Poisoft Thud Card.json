@@ -1,0 +1,101 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jyukd5kgvrag4bnawudt", 
+        "height": 287, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jyukd5kgvrag4bnawudt.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1519770655016, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1519862400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        27266, 
+        19222, 
+        41348, 
+        25222, 
+        25646, 
+        236, 
+        27725, 
+        10225, 
+        60044, 
+        38967
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 89551, 
+    "keywords": [
+        246, 
+        16956
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinemax": 1, 
+            "onlinecoop": false, 
+            "onlinemax": 4, 
+            "platform": 130, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Poisoft Thud Card", 
+    "platforms": [
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        12231
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1519862400000, 
+            "human": "2018-Mar-01", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "umcxfdgkicf6nf6h8t3m", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/umcxfdgkicf6nf6h8t3m.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "szl3mkhfmbunkdl4a4y1", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/szl3mkhfmbunkdl4a4y1.jpg", 
+            "width": 745
+        }
+    ], 
+    "slug": "poisoft-thud-card", 
+    "tags": [
+        32, 
+        268435465, 
+        536871158, 
+        536887868, 
+        1073741827
+    ], 
+    "themes": [
+        32
+    ], 
+    "updated_at": 1519857207017, 
+    "url": "https://www.igdb.com/games/poisoft-thud-card"
+}

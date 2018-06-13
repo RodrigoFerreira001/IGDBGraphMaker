@@ -1,0 +1,378 @@
+{
+    "aggregated_rating": 54.0, 
+    "aggregated_rating_count": 7, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "VA"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "etk4a7mw5za6dqkwdfhr", 
+        "height": 325, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/etk4a7mw5za6dqkwdfhr.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1401820304007, 
+    "developers": [
+        3035
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "16720"
+    }, 
+    "first_release_date": 1240876800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28204, 
+        539, 
+        529, 
+        1985, 
+        2031, 
+        6732, 
+        621, 
+        1310, 
+        36952, 
+        3025
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 7232, 
+    "keywords": [
+        19, 
+        22, 
+        129, 
+        132, 
+        222, 
+        301, 
+        558, 
+        1025, 
+        1158, 
+        1219, 
+        1293, 
+        1783, 
+        1821, 
+        2452, 
+        3831, 
+        4035, 
+        4134, 
+        4135, 
+        4145, 
+        4155, 
+        4225, 
+        4287, 
+        4402, 
+        4416, 
+        4508, 
+        4552, 
+        4571, 
+        4630, 
+        4660, 
+        4681, 
+        4730, 
+        4861, 
+        4866, 
+        4880, 
+        4892, 
+        4910, 
+        4958, 
+        4975, 
+        4990, 
+        5469, 
+        5541, 
+        5571, 
+        5587, 
+        5657, 
+        5741, 
+        5775, 
+        5783, 
+        5888, 
+        5941, 
+        5999, 
+        6026, 
+        6135, 
+        6215, 
+        6261, 
+        6581, 
+        6624, 
+        6747, 
+        6895, 
+        6935, 
+        7016, 
+        7113, 
+        7205, 
+        8693, 
+        8795, 
+        8828, 
+        9362, 
+        9376, 
+        10211, 
+        10599, 
+        11201, 
+        13076, 
+        13477
+    ], 
+    "name": "Velvet Assassin", 
+    "platforms": [
+        6, 
+        14, 
+        12
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        104, 
+        1327, 
+        2239
+    ], 
+    "rating": 64.1120814876628, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1240876800000, 
+            "human": "2009-Apr-28", 
+            "m": 4, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1240876800000, 
+            "human": "2009-Apr-28", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1240876800000, 
+            "human": "2009-Apr-28", 
+            "m": 4, 
+            "platform": 14, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1241740800000, 
+            "human": "2009-May-08", 
+            "m": 5, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1241740800000, 
+            "human": "2009-May-08", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1241740800000, 
+            "human": "2009-May-08", 
+            "m": 5, 
+            "platform": 14, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1242864000000, 
+            "human": "2009-May-21", 
+            "m": 5, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1242864000000, 
+            "human": "2009-May-21", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1242864000000, 
+            "human": "2009-May-21", 
+            "m": 5, 
+            "platform": 14, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1253145600000, 
+            "human": "2009-Sep-17", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1253145600000, 
+            "human": "2009-Sep-17", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1253145600000, 
+            "human": "2009-Sep-17", 
+            "m": 9, 
+            "platform": 14, 
+            "region": 5, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "puwrcjfuqyf1aamxgydo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/puwrcjfuqyf1aamxgydo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dshsbe4jvtj89e1z19ki", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dshsbe4jvtj89e1z19ki.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lbvat2d6gknocvphnowy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lbvat2d6gknocvphnowy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "n7dkzwda0wbtswd7s58u", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n7dkzwda0wbtswd7s58u.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "eeoy84uhjqcwf4vvqbbx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eeoy84uhjqcwf4vvqbbx.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "velvet-assassin", 
+    "summary": "Inspired by the fascinating story and unbreakable spirit of British secret agent Violette Szabo, players take control of Violette Summer, a beautiful World War II spy deep behind enemy lines with no support or official backing from the British Government. Intense stealth action game play with a startling real-time lighting system and surreal visuals combine to produce an incredible gaming experience. Through third person game play, sneak up on enemies and pull the pins from their belted grenades. Infiltrate a Gestapo prison and slip cyanide to your own men before the Germans make them talk. And slink through the shadows to finish off your unsuspecting enemies with a single, silent move. Through Violette's fever dreams, experience what she experienced. Walk where she walked. And kill those she killed.\n\t\t\t\t\tStealth assasinations \u2013 Execute over 50 different brutal maneuvers to deliver a quick and silent death to enemy soldiers or use the environment itself to take down Violette's foes.\n\t\t\t\t\tDynamic lighting and shadows \u2013 Slip into the darkness of Nazi-controlled Europe and avoid the relentless searchlights of German guards that cut through your shadowy cover.\n\t\t\t\t\tStylized environments - Explore surreal, dreamlike settings that are modeled after actual World War II locations. \n\t\t\t\t\tUnique perspective - Experience the unimaginable horrors of war through Violette\u2019s fever dreams. Shift into Morphine Mode when Violette\u2019s memories betray her to reposition and gain an advantage against opposing forces.", 
+    "tags": [
+        1, 
+        17, 
+        22, 
+        23, 
+        268435461, 
+        536870931, 
+        536870934, 
+        536871041, 
+        536871044, 
+        536871134, 
+        536871213, 
+        536871470, 
+        536871937, 
+        536872070, 
+        536872131, 
+        536872205, 
+        536872695, 
+        536872733, 
+        536873364, 
+        536874743, 
+        536874947, 
+        536875046, 
+        536875047, 
+        536875057, 
+        536875067, 
+        536875137, 
+        536875199, 
+        536875314, 
+        536875328, 
+        536875420, 
+        536875464, 
+        536875483, 
+        536875542, 
+        536875572, 
+        536875593, 
+        536875642, 
+        536875773, 
+        536875778, 
+        536875792, 
+        536875804, 
+        536875822, 
+        536875870, 
+        536875887, 
+        536875902, 
+        536876381, 
+        536876453, 
+        536876483, 
+        536876499, 
+        536876569, 
+        536876653, 
+        536876687, 
+        536876695, 
+        536876800, 
+        536876853, 
+        536876911, 
+        536876938, 
+        536877047, 
+        536877127, 
+        536877173, 
+        536877493, 
+        536877536, 
+        536877659, 
+        536877807, 
+        536877847, 
+        536877928, 
+        536878025, 
+        536878117, 
+        536879605, 
+        536879707, 
+        536879740, 
+        536880274, 
+        536880288, 
+        536881123, 
+        536881511, 
+        536882113, 
+        536883988, 
+        536884389
+    ], 
+    "themes": [
+        1, 
+        17, 
+        22, 
+        23
+    ], 
+    "total_rating": 59.0560407438314, 
+    "total_rating_count": 13, 
+    "updated_at": 1523282670603, 
+    "url": "https://www.igdb.com/games/velvet-assassin", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.playvelvetassassin.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/16720"
+        }
+    ]
+}

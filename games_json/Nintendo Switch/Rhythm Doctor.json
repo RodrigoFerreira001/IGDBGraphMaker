@@ -1,0 +1,93 @@
+{
+    "category": 0, 
+    "created_at": 1490095886076, 
+    "external": {
+        "steam": "774181"
+    }, 
+    "first_release_date": 1546214400000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        28465, 
+        40524, 
+        34919, 
+        33603, 
+        36962, 
+        55888, 
+        44087, 
+        65827, 
+        28277, 
+        32283
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 27907, 
+    "name": "Rhythm Doctor", 
+    "platforms": [
+        130
+    ], 
+    "popularity": 1.333333333333333, 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 130, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pkycai1srjsv82q2bzib", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pkycai1srjsv82q2bzib.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mxmmhxwcfppohnuxhqtd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mxmmhxwcfppohnuxhqtd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ejvp7ynlzohg6pogx533", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ejvp7ynlzohg6pogx533.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ixiksd1asytacbmg2rez", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ixiksd1asytacbmg2rez.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ihow38z1nsdx5zopblrh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ihow38z1nsdx5zopblrh.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "rhythm-doctor", 
+    "summary": "The hardest one-button rhythm game you will ever play.", 
+    "tags": [
+        268435488
+    ], 
+    "updated_at": 1522161549615, 
+    "url": "https://www.igdb.com/games/rhythm-doctor", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://rhythmdr.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/774181"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 2476, 
+    "cover": {
+        "cloudinary_id": "wcxqmscnsntfrea6djrj", 
+        "height": 1025, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wcxqmscnsntfrea6djrj.jpg", 
+        "width": 928
+    }, 
+    "created_at": 1476436763810, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1476144000000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        32283, 
+        18623, 
+        29173, 
+        55308, 
+        25311, 
+        55689
+    ], 
+    "genres": [
+        13, 
+        15
+    ], 
+    "id": 24962, 
+    "keywords": [
+        960, 
+        2071, 
+        4181
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 2, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Atari Flashback Classics Volume 2", 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "popularity": 1.666666666666667, 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1478044800000, 
+            "human": "2016-Nov-02", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1478217600000, 
+            "human": "2016-Nov-04", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bqs70gskfukpz1yzoiml", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bqs70gskfukpz1yzoiml.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "y5d6pg6wczuddaiycesx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y5d6pg6wczuddaiycesx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mba8ebjbaygwpcodvmn3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mba8ebjbaygwpcodvmn3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "iqeuyeelr2n4tnadib04", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iqeuyeelr2n4tnadib04.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "atari-flashback-classics-volume-2", 
+    "summary": "Each volume of Atari Flashback Classics packs hours of retro-gaming gaming goodness from the Atari 2600 Video Computer System (VCS) and arcade machines onto your gaming platform. Players can experience Atari\u2019s greatest hits with the benefit of today\u2019s technology, including full 1080p high-definition, global leaderboards, online multiplayer, and more!", 
+    "tags": [
+        268435469, 
+        268435471, 
+        536871872, 
+        536872983, 
+        536875093
+    ], 
+    "total_rating": 75.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1526726219368, 
+    "url": "https://www.igdb.com/games/atari-flashback-classics-volume-2"
+}

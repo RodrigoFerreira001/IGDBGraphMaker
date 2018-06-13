@@ -1,0 +1,95 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "n0nkblpukhsyxzocnnfq", 
+        "height": 365, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/n0nkblpukhsyxzocnnfq.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1390061033549, 
+    "developers": [
+        1911
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1169510400000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        36608, 
+        34919, 
+        28856, 
+        16468, 
+        23175, 
+        40524, 
+        68324, 
+        1070, 
+        28029, 
+        28004
+    ], 
+    "genres": [
+        10
+    ], 
+    "id": 3790, 
+    "keywords": [
+        652
+    ], 
+    "name": "ATV Quad Power Racing 2", 
+    "platforms": [
+        11, 
+        21, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        287
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1169510400000, 
+            "human": "2007-Jan-23", 
+            "m": 1, 
+            "platform": 21, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1169510400000, 
+            "human": "2007-Jan-23", 
+            "m": 1, 
+            "platform": 8, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1169510400000, 
+            "human": "2007-Jan-23", 
+            "m": 1, 
+            "platform": 11, 
+            "y": 2007
+        }
+    ], 
+    "slug": "atv-quad-power-racing-2", 
+    "tags": [
+        1, 
+        268435466, 
+        536871564, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1474380236547, 
+    "url": "https://www.igdb.com/games/atv-quad-power-racing-2"
+}

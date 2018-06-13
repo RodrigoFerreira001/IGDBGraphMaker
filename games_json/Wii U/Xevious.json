@@ -1,0 +1,391 @@
+{
+    "aggregated_rating": 53.3333333333333, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "3D Classics Xevious"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2237, 
+    "cover": {
+        "cloudinary_id": "aqc14gpqnxyfcpqsq91s", 
+        "height": 2152, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/aqc14gpqnxyfcpqsq91s.jpg", 
+        "width": 1557
+    }, 
+    "created_at": 1441471990810, 
+    "developers": [
+        11315
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 410140800000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        2751, 
+        7349, 
+        68287, 
+        36950, 
+        21250, 
+        16513, 
+        19301, 
+        27314, 
+        19448, 
+        28751
+    ], 
+    "genres": [
+        5, 
+        33
+    ], 
+    "id": 12346, 
+    "keywords": [
+        1, 
+        3, 
+        163, 
+        166, 
+        289, 
+        871, 
+        970, 
+        1059, 
+        1570, 
+        1679, 
+        1739, 
+        2152, 
+        4134, 
+        4171, 
+        4209, 
+        4259, 
+        4350, 
+        4391, 
+        4522, 
+        4541, 
+        4542, 
+        4967, 
+        5030, 
+        5116, 
+        5208, 
+        5436, 
+        5450, 
+        5722, 
+        5806, 
+        5858, 
+        6018, 
+        8157, 
+        11177, 
+        11209, 
+        13076, 
+        14126, 
+        14195
+    ], 
+    "name": "Xevious", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        52, 
+        63, 
+        60, 
+        75, 
+        149, 
+        152, 
+        41, 
+        125, 
+        15, 
+        26, 
+        24, 
+        77, 
+        25, 
+        5, 
+        18
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2067, 
+        1854, 
+        11315, 
+        70, 
+        82, 
+        227, 
+        489
+    ], 
+    "rating": 77.1510991974356, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1368057600000, 
+            "human": "2013-May-09", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1368057600000, 
+            "human": "2013-May-09", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1367020800000, 
+            "human": "2013-Apr-27", 
+            "m": 4, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1165017600000, 
+            "human": "2006-Dec-02", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1168560000000, 
+            "human": "2007-Jan-12", 
+            "m": 1, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1168819200000, 
+            "human": "2007-Jan-15", 
+            "m": 1, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 468115200000, 
+            "human": "1984-Nov-01", 
+            "m": 11, 
+            "platform": 152, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 0, 
+            "date": 454291200000, 
+            "human": "1984-May-25", 
+            "m": 5, 
+            "platform": 77, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 149, 
+            "region": 5, 
+            "y": 1985
+        }, 
+        {
+            "category": 0, 
+            "date": 468115200000, 
+            "human": "1984-Nov-01", 
+            "m": 11, 
+            "platform": 125, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 410140800000, 
+            "human": "1982", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1982
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 60, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 25, 
+            "region": 1, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 75, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 2, 
+            "y": 1987
+        }, 
+        {
+            "category": 0, 
+            "date": 1076716800000, 
+            "human": "2004-Feb-14", 
+            "m": 2, 
+            "platform": 24, 
+            "region": 5, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 468720000000, 
+            "human": "1984-Nov-08", 
+            "m": 11, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 2, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 2, 
+            "y": 1984
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "poddnvfnwisteuemh2ql", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/poddnvfnwisteuemh2ql.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "uzzwrkm81wasue1olkvo", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uzzwrkm81wasue1olkvo.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "fxgt1ygexj7ky1rzmcfe", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fxgt1ygexj7ky1rzmcfe.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "jdcpghbg97h425pl3tia", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jdcpghbg97h425pl3tia.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "srvjnlbociskljwnqr2f", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/srvjnlbociskljwnqr2f.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ld4owr4nbdzrlp7dqtum", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ld4owr4nbdzrlp7dqtum.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "xevious", 
+    "summary": "It's a nightmare, but it's true! Research shows that we are the actual aliens on Earth, and the ruthless Xevions are the original inhabitants. \n \nNow the Xevions want Earth back -- minus humans! Their invasion forces are fierce -- the land is crawling with deadly Domogram Rovers; the sky is black with Toroid Patrol Fleets and Zoshi Death Squads. \n \nOur puny weapons offer no defense. Earth's only hope is our powerful new Solvalou Fighter Plane. Its pilot will have a single mission: Penetrate the enemy ranks and destroy the Xevious Mother Ship. \n \nThe mission is dangerous. We can't guarantee success. But at this point, it's do or die! \n \nOne small problem. We still need a pilot. Any volunteers?", 
+    "tags": [
+        18, 
+        268435461, 
+        268435489, 
+        536870913, 
+        536870915, 
+        536871075, 
+        536871078, 
+        536871201, 
+        536871783, 
+        536871882, 
+        536871971, 
+        536872482, 
+        536872591, 
+        536872651, 
+        536873064, 
+        536875046, 
+        536875083, 
+        536875121, 
+        536875171, 
+        536875262, 
+        536875303, 
+        536875434, 
+        536875453, 
+        536875454, 
+        536875879, 
+        536875942, 
+        536876028, 
+        536876120, 
+        536876348, 
+        536876362, 
+        536876634, 
+        536876718, 
+        536876770, 
+        536876930, 
+        536879069, 
+        536882089, 
+        536882121, 
+        536883988, 
+        536885038, 
+        536885107, 
+        1073741827
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 65.24221626538446, 
+    "total_rating_count": 5, 
+    "updated_at": 1518021254492, 
+    "url": "https://www.igdb.com/games/xevious", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "VpyFHvPizYM"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "aggregated_rating": 85.0, 
+    "aggregated_rating_count": 5, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "yo2tsleedsdyo8hjbeke", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yo2tsleedsdyo8hjbeke.jpg", 
+        "width": 292
+    }, 
+    "created_at": 1391061172064, 
+    "developers": [
+        786, 
+        61, 
+        1431
+    ], 
+    "external": {
+        "steam": "11900"
+    }, 
+    "first_release_date": 1102809600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        27266, 
+        4693, 
+        19222, 
+        41348, 
+        36792, 
+        25222, 
+        25646, 
+        236, 
+        27725, 
+        10225
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 4689, 
+    "keywords": [
+        169, 
+        203
+    ], 
+    "name": "Lumines", 
+    "platforms": [
+        45, 
+        6, 
+        39, 
+        36, 
+        38, 
+        55, 
+        8
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        786, 
+        61, 
+        1431, 
+        104
+    ], 
+    "rating": 83.124870766435, 
+    "rating_count": 8, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1102809600000, 
+            "human": "2004-Dec-12", 
+            "m": 12, 
+            "platform": 38, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1141171200000, 
+            "human": "2006-Mar-01", 
+            "m": 3, 
+            "platform": 55, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1171756800000, 
+            "human": "2007-Feb-18", 
+            "m": 2, 
+            "platform": 8, 
+            "y": 2007
+        }, 
+        {
+            "category": 1, 
+            "date": 1196467200000, 
+            "human": "2007-Dec", 
+            "m": 12, 
+            "platform": 6, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1161129600000, 
+            "human": "2006-Oct-18", 
+            "m": 10, 
+            "platform": 36, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1229558400000, 
+            "human": "2008-Dec-18", 
+            "m": 12, 
+            "platform": 45, 
+            "y": 2008
+        }, 
+        {
+            "category": 1, 
+            "date": 1251763200000, 
+            "human": "2009-Sep", 
+            "m": 9, 
+            "platform": 39, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "frj7es6ak4g6if4bs3df", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/frj7es6ak4g6if4bs3df.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "gho1yattixqth0skvueo", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gho1yattixqth0skvueo.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "d5ovnsnje55odia1mjtq", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d5ovnsnje55odia1mjtq.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "j7bg8nax9azvoizhildo", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j7bg8nax9azvoizhildo.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "qmtdiyyqcolrhpjumx9t", 
+            "height": 272, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qmtdiyyqcolrhpjumx9t.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "lumines", 
+    "summary": "Lumines is a block-dropping game, that may seem at first to be similar to Columns and Tetris. A 2 x 2 square (an O tetromino) made of four smaller block pieces is dropped into the playing field, which may appear different as the player advances through levels or skins. The small blocks that comprise the larger blocks will be one of two different colors. The objective is to rotate and align the blocks in such a way as to create 2x2 squares of the same color, which may span multiple blocks and, indeed, share blocks. For example, if one should get a 2x3 area of matching blocks, the middle portion will \"share\" itself with both the left and right halves and create two 2x2 squares. After the \"timeline\", which is synchronized to the music, sweeps over the matching blocks, they disappear. When too many unmatched blocks pile up to the point where no more blocks may be dropped in the playing field, the game ends. \nWhen part of a falling block hits an obstruction, the unobstructed portion of the block will split off and continue to fall. More points are scored by creating the largest number of squares during one \"timeline\" sweep. Increasing score multipliers are earned by repeatedly clearing squares on consecutive timeline sweeps. Bonuses are also awarded by reducing all remaining tiles to one single color or for removing all non-active tiles from the screen altogether. \nOccasionally, a block falls with a special square of one of the two colors with a \"jewel\" in the center. This square, when cleared as part of a matched 2x2 square, will cause all individual blocks of the same color that are horizontally or vertically adjacent to the matched 2x2 square, or to an adjacent square, to be cleared without score. These can be used for both generating large bonuses, since generally several blocks of the other color will be formed once these are removed, as well as to help the player recover if the field becomes too cluttered.", 
+    "tags": [
+        35, 
+        268435465, 
+        536871081, 
+        536871115, 
+        1073741828
+    ], 
+    "themes": [
+        35
+    ], 
+    "total_rating": 84.06243538321749, 
+    "total_rating_count": 13, 
+    "updated_at": 1523283734243, 
+    "url": "https://www.igdb.com/games/lumines", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/11900"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://en.wikipedia.org/wiki/Lumines"
+        }
+    ]
+}

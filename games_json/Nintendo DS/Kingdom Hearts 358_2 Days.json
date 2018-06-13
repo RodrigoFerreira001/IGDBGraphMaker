@@ -1,0 +1,472 @@
+{
+    "aggregated_rating": 76.75, 
+    "aggregated_rating_count": 4, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "KH358KHDays"
+        }, 
+        {
+            "name": "\u30ad\u30f3\u30b0\u30c0\u30e0 \u30cf\u30fc\u30c4 358/2 Days"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "lhfrwwitfp4krgvauwwv", 
+            "height": 1120, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lhfrwwitfp4krgvauwwv.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "lthwoien2yhx04mprlik", 
+            "height": 1230, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lthwoien2yhx04mprlik.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "wi0w04dv79bbiz9o5h5a", 
+            "height": 1130, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wi0w04dv79bbiz9o5h5a.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "rtoe2mfdwqvfaddfxfpq", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rtoe2mfdwqvfaddfxfpq.jpg", 
+            "width": 800
+        }
+    ], 
+    "category": 0, 
+    "collection": 272, 
+    "cover": {
+        "cloudinary_id": "fmryxpriyg08jlvynoeb", 
+        "height": 450, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fmryxpriyg08jlvynoeb.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1341941946535, 
+    "developers": [
+        26, 
+        797
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is a role-playing game (RPG) in which players complete missions in fantastical settings, collect magic hearts, and use \"melee\" and magic attacks to defeat enemies. Players wield a giant key-shaped sword to slash at various creatures such as monkeys, pumpkins, lizards, robots, and dragons. Small explosions, cries of pain, and realistic slashing sounds can be heard throughout battle. During one dramatic cutscene, the central character watches a female character in pain slowly transform into glass/ice, then disintegrate into the air."
+    }, 
+    "first_release_date": 1243641600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        1219, 
+        2933, 
+        6958, 
+        6452, 
+        23198, 
+        113, 
+        2368, 
+        9927, 
+        7346, 
+        18822
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 1223, 
+    "keywords": [
+        72, 
+        78, 
+        226, 
+        227, 
+        296, 
+        301, 
+        345, 
+        478, 
+        521, 
+        558, 
+        594, 
+        846, 
+        1026, 
+        1033, 
+        1207, 
+        1333, 
+        1610, 
+        1735, 
+        2069, 
+        2154, 
+        2242, 
+        2361, 
+        2604, 
+        3486, 
+        3833, 
+        4161, 
+        4162, 
+        4179, 
+        4266, 
+        4284, 
+        4287, 
+        4363, 
+        4386, 
+        4402, 
+        4468, 
+        4525, 
+        4541, 
+        4543, 
+        4544, 
+        4576, 
+        4611, 
+        4698, 
+        4708, 
+        4820, 
+        4846, 
+        4866, 
+        4879, 
+        4891, 
+        4907, 
+        4918, 
+        4956, 
+        5022, 
+        5029, 
+        5032, 
+        5296, 
+        5320, 
+        5354, 
+        5587, 
+        5599, 
+        5688, 
+        5747, 
+        5794, 
+        5901, 
+        5935, 
+        5936, 
+        5937, 
+        5998, 
+        6006, 
+        6008, 
+        6062, 
+        6104, 
+        6117, 
+        6125, 
+        6217, 
+        6218, 
+        6219, 
+        6220, 
+        6227, 
+        6255, 
+        6325, 
+        6471, 
+        6493, 
+        6538, 
+        6582, 
+        6596, 
+        6654, 
+        6720, 
+        6868, 
+        7122, 
+        7351, 
+        7423, 
+        7528, 
+        7529, 
+        7652, 
+        8196, 
+        8777, 
+        8784, 
+        8894, 
+        9209, 
+        9259, 
+        9331, 
+        9557, 
+        9561, 
+        11907, 
+        12329, 
+        12953, 
+        13068, 
+        13082, 
+        13574, 
+        13917
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 20, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Kingdom Hearts 358/2 Days", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "Realistic looking violence towards non human looking characters - Non realistic looking violence towards human characters - Violence causing minor injury only"
+    }, 
+    "platforms": [
+        20
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.666666666666667, 
+    "publishers": [
+        26, 
+        426, 
+        4, 
+        798
+    ], 
+    "rating": 79.2318320050964, 
+    "rating_count": 23, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1255046400000, 
+            "human": "2009-Oct-09", 
+            "m": 10, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1254182400000, 
+            "human": "2009-Sep-29", 
+            "m": 9, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1243641600000, 
+            "human": "2009-May-30", 
+            "m": 5, 
+            "platform": 20, 
+            "region": 5, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zbfv1om1ov0cwdelpyxm", 
+            "height": 192, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zbfv1om1ov0cwdelpyxm.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ehc6abnsjuoylyunkgx7", 
+            "height": 192, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ehc6abnsjuoylyunkgx7.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "qyvgtpchqakwy6gjq2xx", 
+            "height": 192, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qyvgtpchqakwy6gjq2xx.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "why0sskfmsesofhrmkfk", 
+            "height": 192, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/why0sskfmsesofhrmkfk.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "qtdhj7smbhwovtvvuitf", 
+            "height": 192, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qtdhj7smbhwovtvvuitf.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "digli5j2g9f7mpi4la02", 
+            "height": 192, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/digli5j2g9f7mpi4la02.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "mbtqkxkfu2rondc8jtjq", 
+            "height": 192, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mbtqkxkfu2rondc8jtjq.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "xswr8rmf01lsz8jj0miv", 
+            "height": 894, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xswr8rmf01lsz8jj0miv.jpg", 
+            "width": 1204
+        }, 
+        {
+            "cloudinary_id": "hqwmixmvq6foloqqu913", 
+            "height": 883, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hqwmixmvq6foloqqu913.jpg", 
+            "width": 1199
+        }, 
+        {
+            "cloudinary_id": "ebr4boelusryu53or4ai", 
+            "height": 897, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ebr4boelusryu53or4ai.jpg", 
+            "width": 1599
+        }, 
+        {
+            "cloudinary_id": "rvswkwk61l6gcvvfqyeq", 
+            "height": 882, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rvswkwk61l6gcvvfqyeq.jpg", 
+            "width": 1196
+        }, 
+        {
+            "cloudinary_id": "p6okea8tgjgtxxdbybju", 
+            "height": 883, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p6okea8tgjgtxxdbybju.jpg", 
+            "width": 1193
+        }
+    ], 
+    "slug": "kingdom-hearts-358-2-days", 
+    "summary": "Kingdom Hearts 358/2 Days revolves around Roxas, the \"other\" hero from \nKingdom Hearts II. Players follow Roxas through his days among Organization XIII's ranks, unraveling the events that took place during the year that Sora was asleep, and ultimately revealing one of the Kingdom Hearts saga's most shocking secrets. Players and their friends will join Roxas, his friend Axel and the mysterious fourteenth member of Organization XIII on a journey across charming, vibrant worlds full of Square Enix's and Disney's beloved characters.", 
+    "tags": [
+        1, 
+        268435468, 
+        536870984, 
+        536870990, 
+        536871138, 
+        536871139, 
+        536871208, 
+        536871213, 
+        536871257, 
+        536871390, 
+        536871433, 
+        536871470, 
+        536871506, 
+        536871758, 
+        536871938, 
+        536871945, 
+        536872119, 
+        536872245, 
+        536872522, 
+        536872647, 
+        536872981, 
+        536873066, 
+        536873154, 
+        536873273, 
+        536873516, 
+        536874398, 
+        536874745, 
+        536875073, 
+        536875074, 
+        536875091, 
+        536875178, 
+        536875196, 
+        536875199, 
+        536875275, 
+        536875298, 
+        536875314, 
+        536875380, 
+        536875437, 
+        536875453, 
+        536875455, 
+        536875456, 
+        536875488, 
+        536875523, 
+        536875610, 
+        536875620, 
+        536875732, 
+        536875758, 
+        536875778, 
+        536875791, 
+        536875803, 
+        536875819, 
+        536875830, 
+        536875868, 
+        536875934, 
+        536875941, 
+        536875944, 
+        536876208, 
+        536876232, 
+        536876266, 
+        536876499, 
+        536876511, 
+        536876600, 
+        536876659, 
+        536876706, 
+        536876813, 
+        536876847, 
+        536876848, 
+        536876849, 
+        536876910, 
+        536876918, 
+        536876920, 
+        536876974, 
+        536877016, 
+        536877029, 
+        536877037, 
+        536877129, 
+        536877130, 
+        536877131, 
+        536877132, 
+        536877139, 
+        536877167, 
+        536877237, 
+        536877383, 
+        536877405, 
+        536877450, 
+        536877494, 
+        536877508, 
+        536877566, 
+        536877632, 
+        536877780, 
+        536878034, 
+        536878263, 
+        536878335, 
+        536878440, 
+        536878441, 
+        536878564, 
+        536879108, 
+        536879689, 
+        536879696, 
+        536879806, 
+        536880121, 
+        536880171, 
+        536880243, 
+        536880469, 
+        536880473, 
+        536882819, 
+        536883241, 
+        536883865, 
+        536883980, 
+        536883994, 
+        536884486, 
+        536884829, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 77.9909160025482, 
+    "total_rating_count": 27, 
+    "updated_at": 1528451470016, 
+    "url": "https://www.igdb.com/games/kingdom-hearts-358-2-days", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Yvbr6FNBLCA"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://kingdomhearts.wikia.com/g00/wiki/Kingdom_Hearts_358/2_Days?i10c.encReferrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS5oay8%3D"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.kingdomheartsdays.com/"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_358/2_Days"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "category": 1, 
+    "collection": 2125, 
+    "cover": {
+        "cloudinary_id": "e7yywrid3g5xbxeq7gin", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/e7yywrid3g5xbxeq7gin.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1500676157741, 
+    "developers": [
+        4824
+    ], 
+    "first_release_date": 1429228800000, 
+    "game": 9101, 
+    "game_modes": [
+        1
+    ], 
+    "genres": [
+        12, 
+        25, 
+        32
+    ], 
+    "id": 51823, 
+    "keywords": [
+        541
+    ], 
+    "name": "Hand of Fate: Wildcards", 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        4824
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1440374400000, 
+            "human": "2015-Aug-24", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1444953600000, 
+            "human": "2015-Oct-16", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429228800000, 
+            "human": "2015-Apr-17", 
+            "m": 4, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429228800000, 
+            "human": "2015-Apr-17", 
+            "m": 4, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429228800000, 
+            "human": "2015-Apr-17", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "slug": "hand-of-fate-wildcards", 
+    "summary": "\"Welcome to the Wildcards update for Hand of Fate. This update adds different Fates that you can select in order to change the way the game plays. Each Fate provides different modifiers to play, and allows you to play any or all of the game with a new Fate and a new ruleset. \n \nEach Fate has its own custom chain of encounters, and its own potential rewards, along with new Achievements. \n \nWill you take on the challenge of the Alchemist, and be bound by Iron Hunger? Take the Fate of the Monk, and his Holy Quest? Or be struck by the Curse of the Lion Prince?\"", 
+    "tags": [
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "updated_at": 1500678368134, 
+    "url": "https://www.igdb.com/games/hand-of-fate-wildcards", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/350460/Hand_of_Fate__Wildcards"
+        }
+    ]
+}

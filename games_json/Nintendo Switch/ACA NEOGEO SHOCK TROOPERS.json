@@ -1,0 +1,174 @@
+{
+    "alternative_names": [
+        {
+            "name": "SHOCK TROOPERS "
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30b7\u30e7\u30c3\u30af\u30c8\u30eb\u30fc\u30d1\u30fc\u30ba "
+        }
+    ], 
+    "category": 0, 
+    "collection": 2693, 
+    "cover": {
+        "cloudinary_id": "sij7vzf3c1tnruagksdk", 
+        "height": 320, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sij7vzf3c1tnruagksdk.jpg", 
+        "width": 320
+    }, 
+    "created_at": 1493798385420, 
+    "developers": [
+        5346, 
+        1474
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1488499200000, 
+    "franchise": 1008, 
+    "franchises": [
+        1008
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        28029, 
+        76246, 
+        10039, 
+        19341, 
+        76229, 
+        68287, 
+        17446, 
+        36594, 
+        32902, 
+        68142
+    ], 
+    "genres": [
+        5, 
+        33
+    ], 
+    "id": 28412, 
+    "keywords": [
+        1235, 
+        1679
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "ACA NEOGEO SHOCK TROOPERS", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence - Non realistic looking violence towards human characters - Violence in a sporting context"
+    }, 
+    "platforms": [
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        5346
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1516838400000, 
+            "human": "2018-Jan-25", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1488499200000, 
+            "human": "2017-Mar-03", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lxgpm4u9vrcd0jv5eyvt", 
+            "height": 538, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lxgpm4u9vrcd0jv5eyvt.jpg", 
+            "width": 956
+        }, 
+        {
+            "cloudinary_id": "yfxsoc5czpf0tf2pdy59", 
+            "height": 538, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yfxsoc5czpf0tf2pdy59.jpg", 
+            "width": 956
+        }, 
+        {
+            "cloudinary_id": "rxt5ybzychcpywskje8i", 
+            "height": 538, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rxt5ybzychcpywskje8i.jpg", 
+            "width": 956
+        }, 
+        {
+            "cloudinary_id": "ernwwmw5ayhiorq9wjeq", 
+            "height": 538, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ernwwmw5ayhiorq9wjeq.jpg", 
+            "width": 956
+        }
+    ], 
+    "slug": "aca-neogeo-shock-troopers", 
+    "summary": "\"SHOCK TROOPERS is an action game released by SNK in 1997. \nPlayers take part in a rescue operation for Dr. George and his granddaughter who have been kidnapped by the evil organization Bloody Scorpion. The game features the ability for players to choose which route to progress, adding even more replayablity to the title.\"", 
+    "tags": [
+        1, 
+        39, 
+        268435461, 
+        268435489, 
+        536872147, 
+        536872591, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        39
+    ], 
+    "updated_at": 1522074163137, 
+    "url": "https://www.igdb.com/games/aca-neogeo-shock-troopers", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Rzr5Y3kms_E"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Shock_Troopers"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://snk.wikia.com/wiki/Shock_Troopers"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.hamster.co.jp/american_hamster/arcadearchives/switch/shocktroopers.htm"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ixhgavcdjqc3gv4r15ki", 
+        "height": 774, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ixhgavcdjqc3gv4r15ki.jpg", 
+        "width": 673
+    }, 
+    "created_at": 1516347725451, 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "first_release_date": 1412640000000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "id": 82422, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 2, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Ryse: Legendary Edition", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 1.0, 
+    "rating": 90.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mwgmajrme8qnbxciqe6b", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mwgmajrme8qnbxciqe6b.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gepo5ab4snzmkk3g5mc6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gepo5ab4snzmkk3g5mc6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nzknopq1zdjviwgftb34", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nzknopq1zdjviwgftb34.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bouhuvpepcyahkp3ictd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bouhuvpepcyahkp3ictd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vrfylpcpv2buiy4fmr2n", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vrfylpcpv2buiy4fmr2n.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "ryse-legendary-edition", 
+    "summary": "Amidst the chaos of the late Roman Empire, become soldier Marius Titus and embark on a perilous campaign to avenge the death of your family and defend the honor of Rome. In Gladiator Mode, step into the Colosseum and fight for the glory, spectacle, and entertainment of the crowds. Legendary Edition includes full Season Pass contents, three bonus maps optimized for maximum challenge in Solo mode and a new Legionary Skin.", 
+    "total_rating": 90.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1527090635540, 
+    "url": "https://www.igdb.com/games/ryse-legendary-edition", 
+    "version_parent": 3812, 
+    "version_title": "Legendary Edition"
+}

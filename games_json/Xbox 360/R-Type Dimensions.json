@@ -1,0 +1,152 @@
+{
+    "aggregated_rating": 76.0, 
+    "aggregated_rating_count": 7, 
+    "category": 0, 
+    "collection": 1391, 
+    "cover": {
+        "cloudinary_id": "m1resxytvtt8iwac4duy", 
+        "height": 354, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/m1resxytvtt8iwac4duy.jpg", 
+        "width": 415
+    }, 
+    "created_at": 1469298629688, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1230940800000, 
+    "games": [
+        68287, 
+        7350, 
+        36950, 
+        7349, 
+        16513, 
+        27314, 
+        19301, 
+        25657, 
+        19448, 
+        7046
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 21250, 
+    "keywords": [
+        3, 
+        166, 
+        911, 
+        947, 
+        970, 
+        1059, 
+        1098, 
+        1293, 
+        1333, 
+        3831, 
+        4134, 
+        4144, 
+        4359, 
+        4465, 
+        4494, 
+        4698, 
+        5116, 
+        5208, 
+        5371, 
+        5450, 
+        5503, 
+        5633, 
+        5721, 
+        7037, 
+        9742, 
+        11209, 
+        13982
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "R-Type Dimensions", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 3.666666666666667, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1230940800000, 
+            "human": "2009-Jan-03", 
+            "m": 1, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wr0wthigxk9on6jsh25k", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wr0wthigxk9on6jsh25k.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "r-type-dimensions", 
+    "summary": "The coin-op classics, R-Type and R-Type II, are together at last in R-Type Dimensions! Fight through all 14 Bydo-infested stages in original 2-D or all-new 3-D graphics, and swap back and forth on-the-fly. The classic gameplay remains untouched, and a new Infinite game mode allows continuous progression from game start to the final boss. The Bydo will not evade you this time! Game modes can be played as single player or multiplayer missions, either locally or over Xbox LIVE\ufffd. Pull yourself together, save the Earth, and strike down the evil Bydo Empire!", 
+    "tags": [
+        18, 
+        268435461, 
+        536870915, 
+        536871078, 
+        536871823, 
+        536871859, 
+        536871882, 
+        536871971, 
+        536872010, 
+        536872205, 
+        536872245, 
+        536874743, 
+        536875046, 
+        536875056, 
+        536875271, 
+        536875377, 
+        536875406, 
+        536875610, 
+        536876028, 
+        536876120, 
+        536876283, 
+        536876362, 
+        536876415, 
+        536876545, 
+        536876633, 
+        536877949, 
+        536880654, 
+        536882121, 
+        536884894
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 76.0, 
+    "total_rating_count": 7, 
+    "updated_at": 1515727145766, 
+    "url": "https://www.igdb.com/games/r-type-dimensions"
+}

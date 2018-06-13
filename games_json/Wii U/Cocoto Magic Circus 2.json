@@ -1,0 +1,109 @@
+{
+    "category": 0, 
+    "collection": 638, 
+    "cover": {
+        "cloudinary_id": "eslnkys5sxum0ebgx7dc", 
+        "height": 862, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/eslnkys5sxum0ebgx7dc.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1504993803827, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1388016000000, 
+    "games": [
+        68287, 
+        68279, 
+        79916, 
+        10420, 
+        20918, 
+        28029, 
+        27523, 
+        76246, 
+        36718, 
+        19341
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 61861, 
+    "keywords": [
+        1025, 
+        4134, 
+        4748
+    ], 
+    "name": "Cocoto Magic Circus 2", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1803
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1389225600000, 
+            "human": "2014-Jan-09", 
+            "m": 1, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1388016000000, 
+            "human": "2013-Dec-26", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ws4mhgueqq0qkl59qbxg", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ws4mhgueqq0qkl59qbxg.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "xmrlytaeqhrnawrzp2tm", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xmrlytaeqhrnawrzp2tm.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "eb31y9u3sd6lv8j6ed4c", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eb31y9u3sd6lv8j6ed4c.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "odnj8kez4gdhyaetgo6e", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/odnj8kez4gdhyaetgo6e.jpg", 
+            "width": 745
+        }
+    ], 
+    "slug": "cocoto-magic-circus-2", 
+    "summary": "Cocoto Magic Circus 2 is a shooting gallery game for Wii U.", 
+    "tags": [
+        268435461, 
+        536871937, 
+        536875046, 
+        536875660
+    ], 
+    "updated_at": 1518053272563, 
+    "url": "https://www.igdb.com/games/cocoto-magic-circus-2", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://cocoto.com/en/magiccircus2.php"
+        }
+    ]
+}

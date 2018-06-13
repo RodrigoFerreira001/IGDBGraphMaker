@@ -1,0 +1,70 @@
+{
+    "aggregated_rating": 42.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ntxsatguua0nqpxsierp", 
+        "height": 820, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ntxsatguua0nqpxsierp.jpg", 
+        "width": 634
+    }, 
+    "created_at": 1471986691617, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 378604800000, 
+    "games": [
+        36608, 
+        34919, 
+        40524, 
+        23175, 
+        16468, 
+        1070, 
+        2940, 
+        68324, 
+        28029, 
+        37022
+    ], 
+    "id": 22848, 
+    "keywords": [
+        166
+    ], 
+    "name": "Eliminator", 
+    "platforms": [
+        52, 
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 378604800000, 
+            "human": "1981-Dec-31", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1981
+        }, 
+        {
+            "category": 0, 
+            "date": 920160000000, 
+            "human": "1999-Feb-28", 
+            "m": 2, 
+            "platform": 7, 
+            "y": 1999
+        }
+    ], 
+    "slug": "eliminator--2", 
+    "summary": "This 1981 vector graphics arcade game is available in both two- and four-player configurations.", 
+    "tags": [
+        1, 
+        536871078
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 42.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1516718245933, 
+    "url": "https://www.igdb.com/games/eliminator--2"
+}

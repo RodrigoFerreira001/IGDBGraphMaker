@@ -1,0 +1,332 @@
+{
+    "aggregated_rating": 75.2, 
+    "aggregated_rating_count": 9, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Sonic Colours"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30bd\u30cb\u30c3\u30af \u30ab\u30e9\u30fc\u30ba"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "aoyynrbrndujai9jwvwc", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aoyynrbrndujai9jwvwc.jpg", 
+            "width": 870
+        }, 
+        {
+            "cloudinary_id": "ms9wxxlpgrmwhslwymze", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ms9wxxlpgrmwhslwymze.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "tgkciqjpxa8ixtjgldth", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tgkciqjpxa8ixtjgldth.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "d28hdfxfhttfzesb6po2", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d28hdfxfhttfzesb6po2.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "jcz13cvtlcdacd2uptk7", 
+            "height": 1300, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jcz13cvtlcdacd2uptk7.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "b3ptvergycksjth75wjo", 
+            "height": 625, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b3ptvergycksjth75wjo.jpg", 
+            "width": 1000
+        }
+    ], 
+    "category": 0, 
+    "collection": 93, 
+    "cover": {
+        "cloudinary_id": "qfafxuggpvvxkvcip103", 
+        "height": 1382, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qfafxuggpvvxkvcip103.jpg", 
+        "width": 1541
+    }, 
+    "created_at": 1372414479056, 
+    "developers": [
+        395
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is an action-platformer in which players assume the role of Sonic the Hedgehog as he zooms across fantastical landscapes collecting gold rings and power-ups. Sonic can use spin attacks to knock over several robot enemies, resulting in punching sound effects, grunts, and brief explosions. One extended boss battle involves a fight between Sonic and a giant robot enemy; explosions and close-up spin attacks accompany the fast-paced battle."
+    }, 
+    "first_release_date": 1289433600000, 
+    "franchise": 814, 
+    "franchises": [
+        814
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        55752, 
+        36926, 
+        21063, 
+        26766, 
+        47823, 
+        36868, 
+        21062, 
+        51485, 
+        26848, 
+        76723
+    ], 
+    "genres": [
+        8, 
+        10, 
+        31
+    ], 
+    "id": 2267, 
+    "keywords": [
+        296, 
+        2049, 
+        2071, 
+        2463, 
+        4459, 
+        4578, 
+        4711, 
+        4907, 
+        5727, 
+        5753, 
+        5907, 
+        6193, 
+        6818, 
+        7126, 
+        7672, 
+        8114
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 5, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Sonic Colors", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons.\r\nIt contains: Violence that is set in a cartoon, slapstick or child like setting\r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        20, 
+        5
+    ], 
+    "player_perspectives": [
+        2, 
+        4
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        1666, 
+        112, 
+        229
+    ], 
+    "rating": 78.02153517162961, 
+    "rating_count": 13, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1290038400000, 
+            "human": "2010-Nov-18", 
+            "m": 11, 
+            "platform": 20, 
+            "region": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1290038400000, 
+            "human": "2010-Nov-18", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1289865600000, 
+            "human": "2010-Nov-16", 
+            "m": 11, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1289865600000, 
+            "human": "2010-Nov-16", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1289520000000, 
+            "human": "2010-Nov-12", 
+            "m": 11, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1289520000000, 
+            "human": "2010-Nov-12", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1289433600000, 
+            "human": "2010-Nov-11", 
+            "m": 11, 
+            "platform": 20, 
+            "region": 3, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1289433600000, 
+            "human": "2010-Nov-11", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 3, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "z4wr0kdqc1ipk5yap4cp", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z4wr0kdqc1ipk5yap4cp.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "uwpog2ozx13kpptk7svf", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uwpog2ozx13kpptk7svf.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "rg1hjegdsepgbw3dhdhw", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rg1hjegdsepgbw3dhdhw.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "fjiqejvxf2btyi1bxzna", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fjiqejvxf2btyi1bxzna.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "hxq9qcggpt77li99xgqh", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hxq9qcggpt77li99xgqh.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "pd98dxybhvamlgiiwquk", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pd98dxybhvamlgiiwquk.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "jjcrw4inqi1hm1qyqw2c", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jjcrw4inqi1hm1qyqw2c.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "vejgfbeyusgschjrjkm9", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vejgfbeyusgschjrjkm9.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "gljxnvdibz8rsdhzqp1z", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gljxnvdibz8rsdhzqp1z.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "urnhnrk32rnvine2dmha", 
+            "height": 756, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/urnhnrk32rnvine2dmha.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "brgq1znhjxfjmi9ixpfp", 
+            "height": 394, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/brgq1znhjxfjmi9ixpfp.jpg", 
+            "width": 620
+        }
+    ], 
+    "slug": "sonic-colors", 
+    "storyline": "The game is centered on the protagonist Sonic the Hedgehog and his fight against the main antagonist of the Sonic series, Dr. Eggman, who has taken an alien race hostage and is using them for his evil purposes. During the game, the camera perspective switches occasionally from third person to side-scrolling. During development, Sega explained that they were delisting sub-standard games in the Sonic series and developing new titles in order to increase the value of the brand. Development included the interchanging perspective, the idea for the game to be set at an amusement park, and a unique music score. Sega revealed that they were developing the game for a wide demographic, which included both older and younger consumers. The game introduces power-ups called Wisps, which the player can use to increase attack power and reach places they cannot otherwise.", 
+    "summary": "Sonic Colors (\u30bd\u30cb\u30c3\u30af\u30ab\u30e9\u30fc\u30ba Sonikku Kar\u0101zu), titled Sonic Colours in European and Australian markets, is a platforming game in the Sonic the Hedgehog series, developed by Sonic Team and published by Sega in 2010. The game was released worldwide for the Wii and Nintendo DS in November 2010.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435466, 
+        268435487, 
+        536871208, 
+        536872961, 
+        536872983, 
+        536873375, 
+        536875371, 
+        536875490, 
+        536875623, 
+        536875819, 
+        536876639, 
+        536876665, 
+        536876819, 
+        536877105, 
+        536877730, 
+        536878038, 
+        536878584, 
+        536879026, 
+        1073741828, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 76.61076758581481, 
+    "total_rating_count": 22, 
+    "updated_at": 1527188110711, 
+    "url": "https://www.igdb.com/games/sonic-colors", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "sa6-fzXlf8c"
+        }
+    ]
+}

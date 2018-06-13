@@ -1,0 +1,150 @@
+{
+    "aggregated_rating": 52.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "nycunqobbbgmpifcyez1", 
+        "height": 264, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nycunqobbbgmpifcyez1.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1401386462544, 
+    "developers": [
+        3007
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1287446400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        37067, 
+        72739, 
+        16513, 
+        72638, 
+        28192, 
+        11711, 
+        5127, 
+        80287, 
+        2697, 
+        37148
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 7135, 
+    "keywords": [
+        488, 
+        665, 
+        1293, 
+        4137, 
+        4452, 
+        5189, 
+        5287, 
+        11122, 
+        12462
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 3, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Power Gig: Rise of the SixString", 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        3007
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1287446400000, 
+            "human": "2010-Oct-19", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1287446400000, 
+            "human": "2010-Oct-19", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wlq6jbs7mmxfzfai0jyl", 
+            "height": 1112, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wlq6jbs7mmxfzfai0jyl.jpg", 
+            "width": 1500
+        }, 
+        {
+            "cloudinary_id": "u0n9scbr5jyfaqme7rks", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u0n9scbr5jyfaqme7rks.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "a0vqcrxqsalisenr5kif", 
+            "height": 764, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a0vqcrxqsalisenr5kif.jpg", 
+            "width": 1358
+        }, 
+        {
+            "cloudinary_id": "kwe99g5c9phubro1c02g", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kwe99g5c9phubro1c02g.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xtox13xtsix4rhv7phxm", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xtox13xtsix4rhv7phxm.jpg", 
+            "width": 1200
+        }
+    ], 
+    "slug": "power-gig-rise-of-the-sixstring", 
+    "summary": "Power Gig: Rise of the SixString is a rhythm guitar focused game. While the game is similar to guitar-based games like Guitar Hero and Rock Band, Power Gig ships with a unique guitar game controller that acts as both a standalone six-stringed guitar and game controller with note-matching games. Because of the nearness of the controller and gameplay to that of a real guitar, it has attracted musicians including Eric Clapton, Dave Matthews, and Kid Rock that have shied away from music games before due to the simplicity of the button-mashing concept. The game is also distributed with the AirStrike, a drum controller that works on motion sensing.", 
+    "tags": [
+        268435463, 
+        536871400, 
+        536871577, 
+        536872205, 
+        536875049, 
+        536875364, 
+        536876101, 
+        536876199, 
+        536882034, 
+        536883374
+    ], 
+    "total_rating": 52.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1515800431466, 
+    "url": "https://www.igdb.com/games/power-gig-rise-of-the-sixstring", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "yULfb98T9pw"
+        }
+    ]
+}

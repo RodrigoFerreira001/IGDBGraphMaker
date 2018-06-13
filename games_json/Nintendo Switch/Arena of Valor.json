@@ -1,0 +1,184 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "King of Glory"
+        }, 
+        {
+            "name": "King Of Glory"
+        }, 
+        {
+            "comment": "Chinese title", 
+            "name": "\u738b\u8005\u8363\u8000"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Honor of Kings"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Strike of Kings"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "yzgsjcoewupdtf7juimt", 
+        "height": 642, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yzgsjcoewupdtf7juimt.jpg", 
+        "width": 449
+    }, 
+    "created_at": 1503472564504, 
+    "developers": [
+        13329
+    ], 
+    "first_release_date": 1502323200000, 
+    "game_modes": [
+        2
+    ], 
+    "games": [
+        36926, 
+        28028, 
+        11800, 
+        17583, 
+        26841, 
+        19698, 
+        47823, 
+        12632, 
+        5613, 
+        41052
+    ], 
+    "genres": [
+        11, 
+        12, 
+        15
+    ], 
+    "id": 55044, 
+    "keywords": [
+        148, 
+        286, 
+        296, 
+        4134, 
+        4826, 
+        12087, 
+        12165, 
+        12556
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 5, 
+            "onlinemax": 10, 
+            "platform": 34, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 5, 
+            "onlinemax": 10, 
+            "platform": 39, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Arena of Valor", 
+    "platforms": [
+        34, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 15.33333333333333, 
+    "publishers": [
+        3595
+    ], 
+    "pulse_count": 19, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1514678400000, 
+            "human": "2017", 
+            "m": 12, 
+            "platform": 130, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1502323200000, 
+            "human": "2017-Aug-10", 
+            "m": 8, 
+            "platform": 34, 
+            "region": 1, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "h5myormcfojlgatol3oj", 
+            "height": 1086, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h5myormcfojlgatol3oj.jpg", 
+            "width": 1928
+        }, 
+        {
+            "cloudinary_id": "vbqhmzudytwyzgdbakfm", 
+            "height": 1115, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vbqhmzudytwyzgdbakfm.jpg", 
+            "width": 1980
+        }
+    ], 
+    "slug": "arena-of-valor", 
+    "summary": "Experience Arena of Valor, an epic new 5v5 multiplayer online battle arena (MOBA) designed by Tencent Games! \n \nMaster Super Heroes licenced by DC and create your own team of heroes the MOBA world has never seen before! Batman, Superman, Wonder Woman, The Flash and more Super Heroes await you! DC LOGO, BATMAN and all related characters and elements \u00a9& TM DC Comics. \n \nCall on your teammates to join you in the jungle! Crush your enemies in classic 5v5 combat in real time! Draw first blood, carry your team, and become legendary in the arena!", 
+    "tags": [
+        17, 
+        268435467, 
+        268435468, 
+        268435471, 
+        536871060, 
+        536871198, 
+        536871208, 
+        536875046, 
+        536875738, 
+        536882999, 
+        536883077, 
+        536883468, 
+        1073741827
+    ], 
+    "themes": [
+        17
+    ], 
+    "updated_at": 1517839971820, 
+    "url": "https://www.igdb.com/games/arena-of-valor", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "zMMB0DdBF0w"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 12, 
+            "url": "https://play.google.com/store/apps/details?id=com.ngame.allstar.eu"
+        }, 
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/gb/app/strike-of-kings-5v5-arena-game/id1150318642?mt=8"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/ArenaofValor"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://sok.proximabeta.com/"
+        }
+    ]
+}

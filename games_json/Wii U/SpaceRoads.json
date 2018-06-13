@@ -1,0 +1,124 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "plbedvdd4xwxpzgcackf", 
+        "height": 720, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/plbedvdd4xwxpzgcackf.jpg", 
+        "width": 1280
+    }, 
+    "created_at": 1509901855668, 
+    "external": {
+        "steam": "488480"
+    }, 
+    "first_release_date": 1462406400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        23175, 
+        37022, 
+        55289, 
+        59516, 
+        25646, 
+        42080, 
+        44191, 
+        12579, 
+        25311, 
+        1221
+    ], 
+    "genres": [
+        10, 
+        31
+    ], 
+    "id": 75420, 
+    "name": "SpaceRoads", 
+    "platforms": [
+        6, 
+        14, 
+        41
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1462406400000, 
+            "human": "2016-May-05", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1510012800000, 
+            "human": "2017-Nov-07", 
+            "m": 11, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510012800000, 
+            "human": "2017-Nov-07", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tp5um6dfi0rycby2lrmc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tp5um6dfi0rycby2lrmc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "l74fu8h4rd2qqhzfvbit", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l74fu8h4rd2qqhzfvbit.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ihzfzyby8a7x5rtyl17z", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ihzfzyby8a7x5rtyl17z.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rvcb8srefh8fpzr2usi0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rvcb8srefh8fpzr2usi0.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "a3nxluextemz6v0sui1k", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a3nxluextemz6v0sui1k.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "spaceroads", 
+    "summary": "An HD remake of a classic. Hours of fun gameplay and more content to be added soon.", 
+    "tags": [
+        1, 
+        268435466, 
+        268435487
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1522378027528, 
+    "url": "https://www.igdb.com/games/spaceroads", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.wurdindustries.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/488480"
+        }
+    ]
+}

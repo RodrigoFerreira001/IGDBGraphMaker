@@ -1,0 +1,176 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "cbom0uly3e8rtulrczps", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cbom0uly3e8rtulrczps.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1495831179802, 
+    "external": {
+        "steam": "368730"
+    }, 
+    "first_release_date": 1437091200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        37022, 
+        55289, 
+        44191, 
+        34919, 
+        25646, 
+        40524, 
+        25311, 
+        23175, 
+        28277, 
+        37419
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 35289, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "No Time To Explain Remastered", 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        49, 
+        3
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        5040
+    ], 
+    "rating": 52.1426477724595, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1459209600000, 
+            "human": "2016-Mar-29", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1437091200000, 
+            "human": "2015-Jul-17", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1437091200000, 
+            "human": "2015-Jul-17", 
+            "m": 7, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1437091200000, 
+            "human": "2015-Jul-17", 
+            "m": 7, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1437091200000, 
+            "human": "2015-Jul-17", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pghbpirhqowpksgg1p7j", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pghbpirhqowpksgg1p7j.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bxcwofikou1ytsm8o08e", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bxcwofikou1ytsm8o08e.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pzkvb8puvnugp3ryo7dj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pzkvb8puvnugp3ryo7dj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bd1uo9ljlrez4n728erb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bd1uo9ljlrez4n728erb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "j0bzicjrdjfsptdu59vp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j0bzicjrdjfsptdu59vp.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "no-time-to-explain-remastered", 
+    "summary": "\"I Am You From The Future! No Time To Explain, Follow m-OH CHRIST!\" Chase your future self through time and alternate realities while fighting giant monsters, collecting hats, and eating cake! No Time To Explain Remastered is the remake of tinyBuild's debut game. Now with multiplayer!", 
+    "tags": [
+        1, 
+        268435487, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 52.1426477724595, 
+    "total_rating_count": 6, 
+    "updated_at": 1527865168440, 
+    "url": "https://www.igdb.com/games/no-time-to-explain-remastered", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://tinybuild.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/368730"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "zzfqu9x7b2mgepxkgvnp", 
+        "height": 287, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zzfqu9x7b2mgepxkgvnp.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1504811869151, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1507161600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        26766, 
+        18398, 
+        36926, 
+        36534, 
+        47823, 
+        12632, 
+        72412, 
+        59516, 
+        55289, 
+        25300
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "id": 59852, 
+    "keywords": [
+        296, 
+        1026
+    ], 
+    "name": "Symphony of Eternity", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        34, 
+        39, 
+        37
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1281
+    ], 
+    "release_dates": [
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 39
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 34
+        }, 
+        {
+            "category": 0, 
+            "date": 1507161600000, 
+            "human": "2017-Oct-05", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dde62kkwqtlkovh0ediu", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dde62kkwqtlkovh0ediu.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "qkry2hy7nh0am1f9u5jq", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qkry2hy7nh0am1f9u5jq.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "hgpdjrvcvcez4ls5skuh", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hgpdjrvcvcez4ls5skuh.jpg", 
+            "width": 346
+        }
+    ], 
+    "slug": "symphony-of-eternity", 
+    "summary": "Fantasy RPG from Kemco", 
+    "tags": [
+        268435468, 
+        268435487, 
+        536871208, 
+        536871938, 
+        1073741827
+    ], 
+    "updated_at": 1516568977164, 
+    "url": "https://www.igdb.com/games/symphony-of-eternity", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.kemco.jp/3ds/soe/en/index.html"
+        }
+    ]
+}

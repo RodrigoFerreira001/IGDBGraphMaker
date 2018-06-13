@@ -1,0 +1,100 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 2, 
+    "category": 1, 
+    "collection": 511, 
+    "created_at": 1468409346683, 
+    "developers": [
+        305, 
+        945
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1286841600000, 
+    "game": 1062, 
+    "game_engines": [
+        390
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        27266, 
+        27424, 
+        13189, 
+        25646, 
+        1276, 
+        12579, 
+        26710, 
+        68142, 
+        29525, 
+        26192
+    ], 
+    "genres": [
+        5, 
+        31
+    ], 
+    "id": 20316, 
+    "name": "Alan Wake: The Signal", 
+    "platforms": [
+        6, 
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        305, 
+        53
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1286841600000, 
+            "human": "2010-Oct-12", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1329350400000, 
+            "human": "2012-Feb-16", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2012
+        }
+    ], 
+    "slug": "alan-wake-the-signal", 
+    "tags": [
+        19, 
+        20, 
+        268435461, 
+        268435487, 
+        1073741826
+    ], 
+    "themes": [
+        19, 
+        20
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1522875312318, 
+    "url": "https://www.igdb.com/games/alan-wake-the-signal", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "lsMB5sGQF5c"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.alanwake.com/index.html"
+        }
+    ]
+}

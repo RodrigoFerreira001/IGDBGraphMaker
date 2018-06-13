@@ -1,0 +1,159 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mcvllpi2qdp4o70ejfn6", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mcvllpi2qdp4o70ejfn6.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1495889978482, 
+    "external": {
+        "steam": "330270"
+    }, 
+    "first_release_date": 1439942400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        16468, 
+        55289, 
+        36608, 
+        34919, 
+        40524, 
+        25311, 
+        72412, 
+        68324, 
+        75813, 
+        37022
+    ], 
+    "genres": [
+        12, 
+        32
+    ], 
+    "id": 36199, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Warlocks vs Shadows", 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        3
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        8254
+    ], 
+    "rating": 50.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1499731200000, 
+            "human": "2017-Jul-11", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1439942400000, 
+            "human": "2015-Aug-19", 
+            "m": 8, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439942400000, 
+            "human": "2015-Aug-19", 
+            "m": 8, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439942400000, 
+            "human": "2015-Aug-19", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vxnoqrgv49duh0cilv0s", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vxnoqrgv49duh0cilv0s.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xp1vie2jhfpppoaogrzx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xp1vie2jhfpppoaogrzx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "e6fciufdrd9tdow2lfkh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e6fciufdrd9tdow2lfkh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dkkpv0ftt3foanzfveoy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dkkpv0ftt3foanzfveoy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "udyvofsgirrp61v3ezbs", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/udyvofsgirrp61v3ezbs.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "warlocks-vs-shadows", 
+    "summary": "Slay monsters. Defeat epic bosses. Collect magical gear. Become a Warlock and save the universe.", 
+    "tags": [
+        1, 
+        268435468, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1523431895033, 
+    "url": "https://www.igdb.com/games/warlocks-vs-shadows", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.omlgames.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/330270"
+        }
+    ]
+}

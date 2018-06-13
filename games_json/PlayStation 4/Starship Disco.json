@@ -1,0 +1,143 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "wueuxds3vwyyhwkfmhph", 
+        "height": 225, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wueuxds3vwyyhwkfmhph.jpg", 
+        "width": 225
+    }, 
+    "created_at": 1495659928864, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "503690"
+    }, 
+    "first_release_date": 1481760000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25300, 
+        25311, 
+        64204, 
+        27314, 
+        68287, 
+        19448, 
+        71455, 
+        34919, 
+        36950, 
+        16513
+    ], 
+    "genres": [
+        7, 
+        32
+    ], 
+    "id": 31992, 
+    "keywords": [
+        947, 
+        970, 
+        4137, 
+        4234, 
+        4245
+    ], 
+    "name": "Starship Disco", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1482278400000, 
+            "human": "2016-Dec-21", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1481760000000, 
+            "human": "2016-Dec-15", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1484611200000, 
+            "human": "2017-Jan-17", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ccbbxoolcnysdodo8e6r", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ccbbxoolcnysdodo8e6r.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qjj73uvnjqapfajalo08", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qjj73uvnjqapfajalo08.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "zvd6xr7dmj1t3cztp3kq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zvd6xr7dmj1t3cztp3kq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kxwc4p3ktfzxzmbvkrsh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kxwc4p3ktfzxzmbvkrsh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "eyzdnrrogicj1b6paxdb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eyzdnrrogicj1b6paxdb.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "starship-disco", 
+    "summary": "Starship Disco\u2122 is a music-driven rhythm shooter with user music imports. Blast aliens to the beat in VR with 1 or 2 hands with HTC Vive or Oculus Touch controllers.", 
+    "tags": [
+        1, 
+        18, 
+        268435463, 
+        268435488, 
+        536871859, 
+        536871882, 
+        536875049, 
+        536875146, 
+        536875157
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "updated_at": 1523384153344, 
+    "url": "https://www.igdb.com/games/starship-disco", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.solusgames.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/503690"
+        }
+    ]
+}

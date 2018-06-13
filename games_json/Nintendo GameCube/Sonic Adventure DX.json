@@ -1,0 +1,129 @@
+{
+    "aggregated_rating": 57.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "obyavmraojzjb9moodrt", 
+        "height": 477, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/obyavmraojzjb9moodrt.jpg", 
+        "width": 340
+    }, 
+    "created_at": 1473197034136, 
+    "first_release_date": 1299196800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        78149, 
+        101211, 
+        37094, 
+        103054, 
+        89554, 
+        25300, 
+        26848, 
+        101176, 
+        19564, 
+        87683
+    ], 
+    "genres": [
+        8, 
+        10, 
+        31
+    ], 
+    "hypes": 1, 
+    "id": 23695, 
+    "keywords": [
+        126, 
+        524, 
+        3403, 
+        3562
+    ], 
+    "name": "Sonic Adventure DX", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        6, 
+        21
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 71.2666666666667, 
+    "rating_count": 9, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1299196800000, 
+            "human": "2011-Mar-04", 
+            "m": 3, 
+            "platform": 6, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1299196800000, 
+            "human": "2011-Mar-04", 
+            "m": 3, 
+            "platform": 21, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "po9bxirfeopmujk0vg8f", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/po9bxirfeopmujk0vg8f.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xi95ml4fa4jwm4p6tuo9", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xi95ml4fa4jwm4p6tuo9.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "pfxfvyghdgmmhjvd7vqr", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pfxfvyghdgmmhjvd7vqr.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xaxkyl22iavjpg3skxf2", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xaxkyl22iavjpg3skxf2.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "lfp854sg8evfle4lanxc", 
+            "height": 691, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lfp854sg8evfle4lanxc.jpg", 
+            "width": 920
+        }
+    ], 
+    "slug": "sonic-adventure-dx", 
+    "summary": "An ancient evil lurking within the Master Emerald has been unleashed from its slumber by the devious Dr. Eggman and is on the verge of becoming the ultimate monster using the 7 Chaos Emeralds. Only Sonic and his friends are heroic enough to put a stop to Dr. Eggman and his evil minions.", 
+    "tags": [
+        1, 
+        38, 
+        268435464, 
+        268435466, 
+        268435487, 
+        536871038, 
+        536871436, 
+        536874315, 
+        536874474
+    ], 
+    "themes": [
+        1, 
+        38
+    ], 
+    "total_rating": 64.13333333333335, 
+    "total_rating_count": 10, 
+    "updated_at": 1528746181454, 
+    "url": "https://www.igdb.com/games/sonic-adventure-dx", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/71250"
+        }
+    ]
+}

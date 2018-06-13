@@ -1,0 +1,334 @@
+{
+    "aggregated_rating": 66.7142857142857, 
+    "aggregated_rating_count": 8, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kpocgr0srmbypwu2tndg", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kpocgr0srmbypwu2tndg.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1476288733248, 
+    "developers": [
+        4380
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "-"
+    }, 
+    "external": {
+        "steam": "446100"
+    }, 
+    "first_release_date": 1467676800000, 
+    "game_engines": [
+        149
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        28552, 
+        36926, 
+        27314, 
+        26709, 
+        28856, 
+        54789, 
+        34919, 
+        51486, 
+        59849, 
+        16468
+    ], 
+    "genres": [
+        10, 
+        32
+    ], 
+    "id": 24918, 
+    "keywords": [
+        484, 
+        1820, 
+        3425, 
+        4157, 
+        4205, 
+        4357, 
+        16826, 
+        16828, 
+        16894
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 8, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Mantis Burn Racing", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons."
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 3.666666666666667, 
+    "publishers": [
+        4380
+    ], 
+    "pulse_count": 2, 
+    "rating": 79.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1476230400000, 
+            "human": "2016-Oct-12", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476230400000, 
+            "human": "2016-Oct-12", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476230400000, 
+            "human": "2016-Oct-12", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1511395200000, 
+            "human": "2017-Nov-23", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1511395200000, 
+            "human": "2017-Nov-23", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1476230400000, 
+            "human": "2016-Oct-12", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467676800000, 
+            "human": "2016-Jul-05", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476230400000, 
+            "human": "2016-Oct-12", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476230400000, 
+            "human": "2016-Oct-12", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476230400000, 
+            "human": "2016-Oct-12", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476230400000, 
+            "human": "2016-Oct-12", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hebr85g5vufnhqk1nhb0", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hebr85g5vufnhqk1nhb0.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "drm5m2nxm5okcqytnvk7", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/drm5m2nxm5okcqytnvk7.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qk5hdgejhqnw7ipvtapv", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qk5hdgejhqnw7ipvtapv.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hqhhc688gwke6vy6blut", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hqhhc688gwke6vy6blut.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "isgeeinsnxo9olftos0v", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/isgeeinsnxo9olftos0v.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "e6jzxws0bstqpjtdmezi", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e6jzxws0bstqpjtdmezi.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "vh2b2bylkcvhinjsnakg", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vh2b2bylkcvhinjsnakg.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qc3mfngsoiad57vx5c3e", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qc3mfngsoiad57vx5c3e.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xnxfgii4xmxd6sgetygd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xnxfgii4xmxd6sgetygd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zqf14vgz8ytxofljygon", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zqf14vgz8ytxofljygon.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "taztbpvr8kzqdx81sdv0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/taztbpvr8kzqdx81sdv0.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fijx8uf1lsmwi8tb4agn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fijx8uf1lsmwi8tb4agn.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "mantis-burn-racing", 
+    "summary": "The race is on in Mantis Burn Racing, where fast-paced bumper-to-bumper racing combines with intuitive, tactile gameplay and stunning visuals in one of the best-looking and most immersive top-down racers around. Drive incredible built-for-racing vehicles across highly detailed, visually stunning tracks, in high-risk, high-speed races where winning is everything. Prove your skills in an extensive career mode and take on friends with 4-player local split-screen racing and online modes for up to 8 players in \u2018one-more-go\u2019 style competitive racing. With a RPG-style upgrade system providing players with deep tactical choices and excellent replay-ability, this is racing at its rawest but most exciting!", 
+    "tags": [
+        1, 
+        268435466, 
+        268435488, 
+        536871396, 
+        536872732, 
+        536874337, 
+        536875069, 
+        536875117, 
+        536875269, 
+        536887738, 
+        536887740, 
+        536887806, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 72.85714285714285, 
+    "total_rating_count": 8, 
+    "updated_at": 1528355232417, 
+    "url": "https://www.igdb.com/games/mantis-burn-racing", 
+    "videos": [
+        {
+            "name": "Teaser", 
+            "video_id": "t0fKzNKfpEw"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "yuMBAkDnCUs"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "c9JvYmer0cM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/446100"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.voofoostudios.com/"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/VooFoo"
+        }
+    ]
+}

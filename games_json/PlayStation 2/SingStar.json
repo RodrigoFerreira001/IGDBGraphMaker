@@ -1,0 +1,118 @@
+{
+    "aggregated_rating": 76.6666666666667, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ptxvvfzo51ija9ohhfgk", 
+        "height": 2159, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ptxvvfzo51ija9ohhfgk.jpg", 
+        "width": 1527
+    }, 
+    "created_at": 1449685752678, 
+    "developers": [
+        1033
+    ], 
+    "first_release_date": 1085097600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        68287, 
+        71455, 
+        25300, 
+        36950, 
+        28029, 
+        64204, 
+        27314, 
+        25311, 
+        75021, 
+        19448
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 15091, 
+    "keywords": [
+        947, 
+        970, 
+        2052, 
+        4144
+    ], 
+    "name": "SingStar", 
+    "platforms": [
+        45, 
+        8
+    ], 
+    "player_perspectives": [
+        6
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1085097600000, 
+            "human": "2004-May-21", 
+            "m": 5, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1085097600000, 
+            "human": "2004-May-21", 
+            "m": 5, 
+            "platform": 8, 
+            "region": 3, 
+            "y": 2004
+        }
+    ], 
+    "slug": "singstar", 
+    "summary": "An Xbox Live indie game in which you control a spaceship. Slingshot around your wing men around to destroy the enemies.", 
+    "tags": [
+        1, 
+        18, 
+        40, 
+        268435463, 
+        536871859, 
+        536871882, 
+        536872964, 
+        536875056, 
+        1073741830
+    ], 
+    "themes": [
+        1, 
+        18, 
+        40
+    ], 
+    "total_rating": 76.6666666666667, 
+    "total_rating_count": 4, 
+    "updated_at": 1517270819413, 
+    "url": "https://www.igdb.com/games/singstar", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.singstar.com"
+        }
+    ]
+}

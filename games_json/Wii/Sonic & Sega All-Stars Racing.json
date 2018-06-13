@@ -1,0 +1,546 @@
+{
+    "aggregated_rating": 76.3333333333333, 
+    "aggregated_rating_count": 7, 
+    "alternative_names": [
+        {
+            "name": "Sonic & Sega All-Stars Racing with Banjo-Kazooie"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "Sonikku Ando Sega \u014cru-Sut\u0101zu R\u0113shingu"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "n689oie9dcnjislczdap", 
+            "height": 660, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n689oie9dcnjislczdap.jpg", 
+            "width": 1260
+        }
+    ], 
+    "category": 0, 
+    "collection": 93, 
+    "cover": {
+        "cloudinary_id": "shsjhpgfjqydrla8gc36", 
+        "height": 268, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/shsjhpgfjqydrla8gc36.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1391972122554, 
+    "developers": [
+        439
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "34190"
+    }, 
+    "first_release_date": 1266883200000, 
+    "franchise": 1061, 
+    "franchises": [
+        1061, 
+        814
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        2342, 
+        2174, 
+        2345, 
+        11198, 
+        2350, 
+        98, 
+        3235, 
+        1192, 
+        665, 
+        2332
+    ], 
+    "genres": [
+        10
+    ], 
+    "id": 5165, 
+    "keywords": [
+        25, 
+        57, 
+        280, 
+        296, 
+        394, 
+        612, 
+        652, 
+        658, 
+        947, 
+        1046, 
+        1075, 
+        1293, 
+        1345, 
+        1678, 
+        1682, 
+        1699, 
+        1710, 
+        1744, 
+        1783, 
+        2152, 
+        2274, 
+        2440, 
+        2841, 
+        2918, 
+        3425, 
+        3627, 
+        3831, 
+        4144, 
+        4157, 
+        4177, 
+        4178, 
+        4183, 
+        4205, 
+        4294, 
+        4324, 
+        4329, 
+        4350, 
+        4447, 
+        4450, 
+        4454, 
+        4455, 
+        4459, 
+        4477, 
+        4494, 
+        4501, 
+        4509, 
+        4627, 
+        4657, 
+        4760, 
+        4766, 
+        4803, 
+        4869, 
+        4943, 
+        4971, 
+        5043, 
+        5045, 
+        5106, 
+        5302, 
+        5394, 
+        5503, 
+        5558, 
+        5584, 
+        5640, 
+        5727, 
+        5783, 
+        5791, 
+        5876, 
+        5878, 
+        6015, 
+        6094, 
+        6185, 
+        6187, 
+        6385, 
+        6414, 
+        6670, 
+        6703, 
+        6715, 
+        6765, 
+        6767, 
+        6950, 
+        7220, 
+        7402, 
+        7550, 
+        9060, 
+        11247, 
+        11278, 
+        11394, 
+        11537, 
+        12953, 
+        13082, 
+        13214
+    ], 
+    "name": "Sonic & Sega All-Stars Racing", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        34, 
+        52, 
+        6, 
+        39, 
+        14, 
+        73, 
+        9, 
+        12, 
+        20, 
+        5
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        112, 
+        23
+    ], 
+    "rating": 77.4219166241854, 
+    "rating_count": 12, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1308787200000, 
+            "human": "2011-Jun-23", 
+            "m": 6, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1359590400000, 
+            "human": "2013-Jan-31", 
+            "m": 1, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1267142400000, 
+            "human": "2010-Feb-26", 
+            "m": 2, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1266883200000, 
+            "human": "2010-Feb-23", 
+            "m": 2, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1267142400000, 
+            "human": "2010-Feb-26", 
+            "m": 2, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1266883200000, 
+            "human": "2010-Feb-23", 
+            "m": 2, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1365033600000, 
+            "human": "2013-Apr-04", 
+            "m": 4, 
+            "platform": 14, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1267142400000, 
+            "human": "2010-Feb-26", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1266883200000, 
+            "human": "2010-Feb-23", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1266883200000, 
+            "human": "2010-Feb-23", 
+            "m": 2, 
+            "platform": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1266883200000, 
+            "human": "2010-Feb-23", 
+            "m": 2, 
+            "platform": 12, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1266883200000, 
+            "human": "2010-Feb-23", 
+            "m": 2, 
+            "platform": 9, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1266883200000, 
+            "human": "2010-Feb-23", 
+            "m": 2, 
+            "platform": 20, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1266883200000, 
+            "human": "2010-Feb-23", 
+            "m": 2, 
+            "platform": 6, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1266883200000, 
+            "human": "2010-Feb-23", 
+            "m": 2, 
+            "platform": 52, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1266883200000, 
+            "human": "2010-Feb-23", 
+            "m": 2, 
+            "platform": 39, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1266883200000, 
+            "human": "2010-Feb-23", 
+            "m": 2, 
+            "platform": 34, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1266883200000, 
+            "human": "2010-Feb-23", 
+            "m": 2, 
+            "platform": 73, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "p9fp9e6tpiyhyofjei86", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p9fp9e6tpiyhyofjei86.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "xg9ab9cyzixxdxmybpfu", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xg9ab9cyzixxdxmybpfu.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "pemmz6bfl32vdnmwcc4h", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pemmz6bfl32vdnmwcc4h.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "g2evqm8ktgwksqomb48a", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g2evqm8ktgwksqomb48a.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "xsdiesrs50x8rzvpwpot", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xsdiesrs50x8rzvpwpot.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "bi80jfln1uwhhlbcrhlg", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bi80jfln1uwhhlbcrhlg.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "xg07ptatovwbyaevhrpj", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xg07ptatovwbyaevhrpj.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "yoqv9mxnvb2ka0caulpp", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yoqv9mxnvb2ka0caulpp.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "lv9crsl3kjyp92lpeuxd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lv9crsl3kjyp92lpeuxd.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "rbz0jxeiaaicmew0rzny", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rbz0jxeiaaicmew0rzny.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "johtiv5xlwgj0lh0yzsp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/johtiv5xlwgj0lh0yzsp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vpl5htaiyfvkyzi6sw8h", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vpl5htaiyfvkyzi6sw8h.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "sonic-sega-all-stars-racing", 
+    "summary": "SONIC AND SEGA ALL-STARS RACE FOR VICTORY IN A HIGH SPEED HIGH SKILL RACETRACK SHOWDOWN! \n \nTAKE TO THE TRACK BY CAR, MONSTER TRUCK, BIKE AND EVEN AEROPLANE IN SONIC & SEGA ALL-STARS RACING. \n \nExplore stunning new circuits including Sonic Seaside Hill, Curien Mansion and Blizzard Castle as you zip around medieval castle ramparts, hurtle under lush rain forest canopies and tear through bustling city scapes in a frantic race to the finish line. Jostle against a selection of 20 challengers including Super Monkey Ball\u2019s Ai Ai, Amigo from Samba and the evil Dr. Eggman in your unique character vehicle. Stay ahead of the pack by dodging traps and launching outrageous character moves such as the invincible Super Sonic, Banana Blitz assault of monkey balls or Tails wild Tornado - set to throw any vehicle clean in the air! But if you\u2019ve been battered, beaten and broken, it\u2019s not over yet! Super-charge your vehicle with power-ups to get back in the race and be sure to stay alert for the secret short-cuts that will give you the edge to victory. \n\t\t\t\t\tParty Racing Fun - Battle it out in single player, challenge your friends in 4 player split-screen for the ultimate track racing showdown! \n\t\t\t\t\tAll Your Favorite Racers - Choose from 20 different characters from the Sonic & SEGA universe including Sonic, Tails, Aiai and Amigo. \n\t\t\t\t\tHigh Velocity Vehicles - Every character drives their own unique vehicle including sports cars, bikes, planes and even a giant banana to perform bespoke special man-oeuvres! \n\t\t\t\t\tAll-Star Moves - Need to get by a competitor? Can\u2019t overtake a racer? Then take them out with a pick-up weapon (missiles, mines and other obstacles) or one of the 20 unique character moves that allows the recipient to know who just hit them! \n\t\t\t\t\tStunning Visuals - Race over medieval castle ramparts, under lush rain forest canopies and through bustling city scapes as you battle through 27 challenging tracks from the Sonic and SEGA Universe.", 
+    "tags": [
+        35, 
+        268435466, 
+        536870937, 
+        536870969, 
+        536871192, 
+        536871208, 
+        536871306, 
+        536871524, 
+        536871564, 
+        536871570, 
+        536871859, 
+        536871958, 
+        536871987, 
+        536872205, 
+        536872257, 
+        536872590, 
+        536872594, 
+        536872611, 
+        536872622, 
+        536872656, 
+        536872695, 
+        536873064, 
+        536873186, 
+        536873352, 
+        536873753, 
+        536873830, 
+        536874337, 
+        536874539, 
+        536874743, 
+        536875056, 
+        536875069, 
+        536875089, 
+        536875090, 
+        536875095, 
+        536875117, 
+        536875206, 
+        536875236, 
+        536875241, 
+        536875262, 
+        536875359, 
+        536875362, 
+        536875366, 
+        536875367, 
+        536875371, 
+        536875389, 
+        536875406, 
+        536875413, 
+        536875421, 
+        536875539, 
+        536875569, 
+        536875672, 
+        536875678, 
+        536875715, 
+        536875781, 
+        536875855, 
+        536875883, 
+        536875955, 
+        536875957, 
+        536876018, 
+        536876214, 
+        536876306, 
+        536876415, 
+        536876470, 
+        536876496, 
+        536876552, 
+        536876639, 
+        536876695, 
+        536876703, 
+        536876788, 
+        536876790, 
+        536876927, 
+        536877006, 
+        536877097, 
+        536877099, 
+        536877297, 
+        536877326, 
+        536877582, 
+        536877615, 
+        536877627, 
+        536877677, 
+        536877679, 
+        536877862, 
+        536878132, 
+        536878314, 
+        536878462, 
+        536879972, 
+        536882159, 
+        536882190, 
+        536882306, 
+        536882449, 
+        536883865, 
+        536883994, 
+        536884126, 
+        1073741826
+    ], 
+    "themes": [
+        35
+    ], 
+    "total_rating": 76.87762497875934, 
+    "total_rating_count": 19, 
+    "updated_at": 1525446231983, 
+    "url": "https://www.igdb.com/games/sonic-sega-all-stars-racing", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "i7KIeD1tNGo"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/sonic-sega-all-stars-racing/id429208823?mt=8&uo=4"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://sonic.wikia.com/wiki/Sonic_%26_Sega_All-Stars_Racing"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Sonic_%26_Sega_All-Stars_Racing"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.sega.com/sonicracing/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/34190"
+        }
+    ]
+}

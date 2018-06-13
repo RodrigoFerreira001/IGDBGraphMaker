@@ -1,0 +1,115 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Super Futebol"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "World Cup Soccer"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "World Cup Italia '90"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7\u30b5\u30c3\u30ab\u30fc"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "xtii6s7bhps77xfitvef", 
+        "height": 370, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xtii6s7bhps77xfitvef.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1490652341477, 
+    "developers": [
+        112
+    ], 
+    "first_release_date": 617673600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        701, 
+        18681, 
+        10121, 
+        28862, 
+        54662, 
+        15851, 
+        46144, 
+        4650, 
+        4649, 
+        4648
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 27972, 
+    "keywords": [
+        26, 
+        6520, 
+        7213, 
+        14502
+    ], 
+    "name": "World Championship Soccer", 
+    "platforms": [
+        29
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        12390, 
+        112
+    ], 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 29, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 1, 
+            "date": 620611200000, 
+            "human": "1989-Sep", 
+            "m": 9, 
+            "platform": 29, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 0, 
+            "date": 617673600000, 
+            "human": "1989-Jul-29", 
+            "m": 7, 
+            "platform": 29, 
+            "region": 5, 
+            "y": 1989
+        }
+    ], 
+    "slug": "world-championship-soccer", 
+    "summary": "The game presents a top-down view of a simple version of soccer (there are no fouls, substitutions, or strategies). Players must dribble and pass the ball towards one end of the field and try to score a goal by forcing the ball into the opposing team's net.", 
+    "tags": [
+        32, 
+        268435470, 
+        536870938, 
+        536877432, 
+        536878125, 
+        536885414, 
+        1073741827
+    ], 
+    "themes": [
+        32
+    ], 
+    "updated_at": 1513072036637, 
+    "url": "https://www.igdb.com/games/world-championship-soccer"
+}

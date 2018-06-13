@@ -1,0 +1,368 @@
+{
+    "aggregated_rating": 80.8, 
+    "aggregated_rating_count": 16, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Shantae: Half-Genie Hero"
+        }, 
+        {
+            "comment": "Stylized", 
+            "name": "Shantae: \u00bd Genie Hero"
+        }
+    ], 
+    "category": 0, 
+    "collection": 1140, 
+    "cover": {
+        "cloudinary_id": "nl0xylkr12ta44sufduv", 
+        "height": 655, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nl0xylkr12ta44sufduv.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1434188337881, 
+    "developers": [
+        1021
+    ], 
+    "dlcs": [
+        76945, 
+        55176
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "253840"
+    }, 
+    "first_release_date": 1482192000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        23733, 
+        19448, 
+        24426, 
+        47823, 
+        18182, 
+        14761, 
+        26848, 
+        23689, 
+        37001, 
+        11567
+    ], 
+    "genres": [
+        8, 
+        31, 
+        32
+    ], 
+    "hypes": 2, 
+    "id": 11078, 
+    "keywords": [
+        4, 
+        296, 
+        350, 
+        426, 
+        477, 
+        1158, 
+        2049, 
+        4134, 
+        4145, 
+        4168, 
+        4224, 
+        4297, 
+        4882, 
+        4883, 
+        4925, 
+        4957, 
+        5009, 
+        5328, 
+        5379, 
+        5391, 
+        6085
+    ], 
+    "name": "Shantae: Half-Genie Hero", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters - Violence in a sporting context"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        41, 
+        46, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 6.666666666666667, 
+    "publishers": [
+        1021, 
+        2187
+    ], 
+    "pulse_count": 36, 
+    "rating": 84.2550071386319, 
+    "rating_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1496880000000, 
+            "human": "2017-Jun-08", 
+            "m": 6, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1496880000000, 
+            "human": "2017-Jun-08", 
+            "m": 6, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "y0p2wuftue2qdyec51m9", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y0p2wuftue2qdyec51m9.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "nlr7g7ukj1m4zczikyyy", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nlr7g7ukj1m4zczikyyy.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "s7vuhubvx6o89g7q1s78", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s7vuhubvx6o89g7q1s78.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "d1qhfau8xzxfbhgpfiu4", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d1qhfau8xzxfbhgpfiu4.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "jhnnibbi30zt7my3le93", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jhnnibbi30zt7my3le93.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "qnagubggq7azpghfcnag", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qnagubggq7azpghfcnag.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "orcfbbmsscqy4mvuq7nm", 
+            "height": 672, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/orcfbbmsscqy4mvuq7nm.jpg", 
+            "width": 1160
+        }, 
+        {
+            "cloudinary_id": "mbvj1nvelpzhghf0nxyg", 
+            "height": 672, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mbvj1nvelpzhghf0nxyg.jpg", 
+            "width": 1160
+        }, 
+        {
+            "cloudinary_id": "zwiz4xwfswvqoul2hml0", 
+            "height": 672, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zwiz4xwfswvqoul2hml0.jpg", 
+            "width": 1160
+        }, 
+        {
+            "cloudinary_id": "o0duy5ceojbnzww0bzpd", 
+            "height": 672, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o0duy5ceojbnzww0bzpd.jpg", 
+            "width": 1160
+        }, 
+        {
+            "cloudinary_id": "lpwzr8fhu7nddbk1qhbk", 
+            "height": 672, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lpwzr8fhu7nddbk1qhbk.jpg", 
+            "width": 1160
+        }
+    ], 
+    "slug": "shantae-half-genie-hero", 
+    "storyline": "\"Shantae is roused from a deep sleep, suddenly alert. She plunges into the moonlit forest in search of answers. In nearby Scuttle Town she discovers a mysterious trapdoor, and beyond that, a luminous subterranean cavern. A familiar voice calls out, drawing Shantae to a beautiful fountain. Touching its waters she is immediately spirited away to the fabled Genie Realm. At her feet a magical seal swells as some powerful evil seeks escape. The chamber trembles with a deep, bellowing roar and everything goes white. Shantae sits upright, back in her bed. Was it just a dream? Or a vision of things to come?\"", 
+    "summary": "Shantae embarks on her first full HD adventure! After three highly successful outings with Shantae, Shantae: Risky's Revenge, and Shantae and the Pirate's Curse, Shantae and her friends finally get a full HD console-based sequel! Boasting vivid, detailed high-definition graphics that retain the 2D hand-drawn sprites the series is known for, this newest entry in the Shantae series almost looks like a playable TV show! Presented as a stage-based 2.5D platformer with heavy exploration elements, Shantae uses her trademark Hair-Whip Attack to dispatch enemies, then takes advantage of her Belly Dance Magic to transform into 8 different forms that each have their own unique abilities and move sets. As new forms are mastered, old stages can be re-explored to unearth new items and secrets, ensuring there's plenty of content on offer for novices and platforming gurus alike. Topple the villainous Baron behind each criminal caper afflicting Sequin Land, and prepare for the ultimate showdown against Shantae's arch-nemesis: that bodacious buccaneer, Risky Boots!", 
+    "tags": [
+        1, 
+        17, 
+        27, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536870916, 
+        536871208, 
+        536871262, 
+        536871338, 
+        536871389, 
+        536872070, 
+        536872961, 
+        536875046, 
+        536875057, 
+        536875080, 
+        536875136, 
+        536875209, 
+        536875794, 
+        536875795, 
+        536875837, 
+        536875869, 
+        536875921, 
+        536876240, 
+        536876291, 
+        536876303, 
+        536876997, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17, 
+        27
+    ], 
+    "total_rating": 82.52750356931594, 
+    "total_rating_count": 23, 
+    "updated_at": 1528684239005, 
+    "url": "https://www.igdb.com/games/shantae-half-genie-hero", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "JNckNbeA4AM"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "szhhFGQ3rl0"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "lHrvcxL5Ol0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/253840"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Shantae:_Half-Genie_Hero"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://wayforward.com/games/shantae-half-genie-hero/"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://wayforward.wikia.com/wiki/Shantae:_Half-Genie_Hero"
+        }
+    ]
+}

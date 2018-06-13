@@ -1,0 +1,137 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "caomxl15lvzxwfprnwb4", 
+        "height": 262, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/caomxl15lvzxwfprnwb4.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1469281302359, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1294099200000, 
+    "games": [
+        7350, 
+        19448, 
+        19301, 
+        28113, 
+        11423, 
+        7349, 
+        54524, 
+        68287, 
+        26766, 
+        25300
+    ], 
+    "id": 21082, 
+    "keywords": [
+        589, 
+        970, 
+        1293, 
+        1623, 
+        2109, 
+        4134, 
+        4245, 
+        4283, 
+        4397, 
+        4484, 
+        4541, 
+        5304, 
+        6223
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "MicroBot", 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1294099200000, 
+            "human": "2011-Jan-04", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1294185600000, 
+            "human": "2011-Jan-05", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1297296000000, 
+            "human": "2011-Feb-10", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1296259200000, 
+            "human": "2011-Jan-29", 
+            "m": 1, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "r5fvfuu9mndrczxhp6gh", 
+            "height": 365, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r5fvfuu9mndrczxhp6gh.jpg", 
+            "width": 650
+        }
+    ], 
+    "slug": "microbot", 
+    "summary": "MicroBot is a twin-stick shooter video game developed by Naked Sky Entertainment and published by Electronic Arts. It was released on the Xbox 360 via Xbox Live Arcade on December 29, 2010 and on PlayStation 3 via the PlayStation Network on January 4, 2011. In the game the player controls a MicroBot; a microscopic robot designed to combat infections in the human body. The robot is tasked with destroying previous generation MicroBots which have become corrupted while fighting disease in the body. \n \nCritics were divided on their opinions of the game, but overall review scores were moderate. Aggregate scores averaged in the 60% range for both platforms at websites GameRankings and Metacritic. Most reviewers praised the game's visual and audio presentation. They felt that the environments were convincing as areas of the body and that the soundtrack was strong. Critics differed in opinion in regards to gameplay; many praised the addition of local cooperative play and the ability to upgrade the MicroBot with new weaponry and features, but many felt the game did not add enough new gameplay elements to the genre to keep the player interested long-term.", 
+    "tags": [
+        18, 
+        536871501, 
+        536871882, 
+        536872205, 
+        536872535, 
+        536873021, 
+        536875046, 
+        536875157, 
+        536875195, 
+        536875309, 
+        536875396, 
+        536875453, 
+        536876216, 
+        536877135
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1516076793929, 
+    "url": "https://www.igdb.com/games/microbot"
+}

@@ -1,0 +1,181 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 3226, 
+    "cover": {
+        "cloudinary_id": "vzbykm6xnhr6qmkjlji3", 
+        "height": 750, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vzbykm6xnhr6qmkjlji3.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1488488926571, 
+    "developers": [
+        9060
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1516838400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        68287, 
+        28029, 
+        36950, 
+        64204, 
+        27314, 
+        71455, 
+        11253, 
+        25300, 
+        10209, 
+        142
+    ], 
+    "genres": [
+        5, 
+        33
+    ], 
+    "id": 27526, 
+    "keywords": [
+        166, 
+        970, 
+        4796
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "platform": 130, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Space Dave!", 
+    "platforms": [
+        48, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        6017
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1516838400000, 
+            "human": "2018-Jan-25", 
+            "m": 1, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gxifp3yc66h4w6r0d0s2", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gxifp3yc66h4w6r0d0s2.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "l4fqormhixtdhoyooilz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l4fqormhixtdhoyooilz.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "m6vvflrhvzxxzdn84xgr", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m6vvflrhvzxxzdn84xgr.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "cltg23sryi4ygtuyhic6", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cltg23sryi4ygtuyhic6.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "aurer68dn2tfboi9jwnv", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aurer68dn2tfboi9jwnv.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "micuqcuslujjjwsjvphp", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/micuqcuslujjjwsjvphp.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "lknkouwvkq4wqxuu2rtb", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lknkouwvkq4wqxuu2rtb.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "x33gaszf22uau6udezhh", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x33gaszf22uau6udezhh.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "njmfpzs3u3xslwdp7rkc", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/njmfpzs3u3xslwdp7rkc.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "space-dave", 
+    "summary": "Space Dave! is a fixed shooter similar to Space Invaders. It is a spiritual successor to Woah Dave!", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435489, 
+        536871078, 
+        536871882, 
+        536875708, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 75.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1518010412318, 
+    "url": "https://www.igdb.com/games/space-dave", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Jj6Yr6bbjq4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://totallychoice.com/games/space-dave"
+        }
+    ]
+}

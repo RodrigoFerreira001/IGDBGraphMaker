@@ -1,0 +1,314 @@
+{
+    "aggregated_rating": 63.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "w8eitvkpopsng6im58mp", 
+        "height": 353, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/w8eitvkpopsng6im58mp.jpg", 
+        "width": 616
+    }, 
+    "created_at": 1444171532689, 
+    "developers": [
+        7000
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "322210"
+    }, 
+    "first_release_date": 1430352000000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        7329, 
+        10039, 
+        25646, 
+        72373, 
+        29525, 
+        44177, 
+        55752, 
+        76229, 
+        13189, 
+        68142
+    ], 
+    "genres": [
+        5, 
+        8, 
+        32
+    ], 
+    "id": 13187, 
+    "keywords": [
+        5, 
+        298, 
+        350, 
+        1025, 
+        1059, 
+        1120, 
+        1560, 
+        1669, 
+        2049, 
+        3270, 
+        3486, 
+        4148, 
+        4169, 
+        4369, 
+        4644, 
+        4974, 
+        5931, 
+        6889, 
+        9857
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Guns, Gore & Cannoli", 
+    "pegi": {
+        "rating": 4
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        7000
+    ], 
+    "pulse_count": 1, 
+    "rating": 89.78432836119961, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1443139200000, 
+            "human": "2015-Sep-25", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1513814400000, 
+            "human": "2017-Dec-21", 
+            "m": 12, 
+            "platform": 130, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1449532800000, 
+            "human": "2015-Dec-08", 
+            "m": 12, 
+            "platform": 48, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1430352000000, 
+            "human": "2015-Apr-30", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1430352000000, 
+            "human": "2015-Apr-30", 
+            "m": 4, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1443139200000, 
+            "human": "2015-Sep-25", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "uzgz8ykmddyh4hyjqqys", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uzgz8ykmddyh4hyjqqys.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ytnwb561ux6moalimb0y", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ytnwb561ux6moalimb0y.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "pvfefuosod3meda5v7g9", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pvfefuosod3meda5v7g9.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "calopqi1h37hlsklidyl", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/calopqi1h37hlsklidyl.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "vuohtn2nrldq40qj3lbw", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vuohtn2nrldq40qj3lbw.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ff35sqxnhwtid2hsrokv", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ff35sqxnhwtid2hsrokv.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rmp0iwuc9hqgpuoxt9p8", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rmp0iwuc9hqgpuoxt9p8.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rmmlgvzh5gfnisq2m9o5", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rmmlgvzh5gfnisq2m9o5.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rgvygsqjlaoz32w3x9k5", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rgvygsqjlaoz32w3x9k5.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "z0gug4nbaugdjhn08f00", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z0gug4nbaugdjhn08f00.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "aj6aggbyscflwl6q1fpo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aj6aggbyscflwl6q1fpo.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "guns-gore-and-cannoli", 
+    "storyline": "The game tells the story of Vinnie Cannoli and his mob family, set in the fictional Thugtown circa 1925, the height of prohibition. Beneath the city overrun by zombies, there's a dark story of conspiracy and betrayal. Unravel the sneaky mafia ways and government conspiracy while you try to look for your lost pal and for answers about the zombie-outbreak.", 
+    "summary": "Welcome to Thugtown circa 1920, the height of Prohibition.\nPrepare yourself for a non-stop, action-packed, completely over-the-top, fast-paced, platform game. Set against the gangster heyday of the roaring twenties. Lose yourself in an exciting, elaborate tale of the underground and underworld. Experience friendship, betrayal, vengeance, and witness first hand the rise and fall of a criminal mastermind.\nThis is survival horror, wiseguy style... Capiche?", 
+    "tags": [
+        1, 
+        19, 
+        27, 
+        268435461, 
+        268435464, 
+        268435488, 
+        536870917, 
+        536871210, 
+        536871262, 
+        536871937, 
+        536871971, 
+        536872032, 
+        536872472, 
+        536872581, 
+        536872961, 
+        536874182, 
+        536874398, 
+        536875060, 
+        536875081, 
+        536875281, 
+        536875556, 
+        536875886, 
+        536876843, 
+        536877801, 
+        536880769, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        19, 
+        27
+    ], 
+    "time_to_beat": {
+        "normally": 10800
+    }, 
+    "total_rating": 76.55883084726645, 
+    "total_rating_count": 9, 
+    "updated_at": 1528353888556, 
+    "url": "https://www.igdb.com/games/guns-gore-and-cannoli", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "_tIP8RSivbY"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/322210"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://gunsgorecannoli.com/"
+        }
+    ]
+}

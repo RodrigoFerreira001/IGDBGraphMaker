@@ -1,0 +1,242 @@
+{
+    "aggregated_rating": 62.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qlfxzzjtr0r5gyz2ppde", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qlfxzzjtr0r5gyz2ppde.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1446111888757, 
+    "developers": [
+        12671
+    ], 
+    "external": {
+        "steam": "404050"
+    }, 
+    "first_release_date": 1443744000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        71455, 
+        41828, 
+        18167, 
+        10039, 
+        68391, 
+        21429, 
+        22418, 
+        7100, 
+        65832, 
+        19333
+    ], 
+    "genres": [
+        4, 
+        25
+    ], 
+    "id": 14387, 
+    "keywords": [
+        61, 
+        107, 
+        164, 
+        547, 
+        705, 
+        982, 
+        1158, 
+        1463, 
+        2152, 
+        3776, 
+        4004, 
+        4905, 
+        5987, 
+        7511, 
+        9376
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Black & White Bushido", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        14, 
+        48, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        12671, 
+        7207
+    ], 
+    "pulse_count": 1, 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1494979200000, 
+            "human": "2017-May-17", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1494979200000, 
+            "human": "2017-May-17", 
+            "m": 5, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1494979200000, 
+            "human": "2017-May-17", 
+            "m": 5, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1494979200000, 
+            "human": "2017-May-17", 
+            "m": 5, 
+            "platform": 48, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1494979200000, 
+            "human": "2017-May-17", 
+            "m": 5, 
+            "platform": 49, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1443744000000, 
+            "human": "2015-Oct-02", 
+            "m": 10, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1443744000000, 
+            "human": "2015-Oct-02", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1443744000000, 
+            "human": "2015-Oct-02", 
+            "m": 10, 
+            "platform": 3, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bgv9o22bd2trjza8bfoa", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bgv9o22bd2trjza8bfoa.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ktamdbscsu44hvunpdvo", 
+            "height": 810, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ktamdbscsu44hvunpdvo.jpg", 
+            "width": 1436
+        }, 
+        {
+            "cloudinary_id": "kkjqblbzcc5rf4um2fiv", 
+            "height": 810, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kkjqblbzcc5rf4um2fiv.jpg", 
+            "width": 1436
+        }, 
+        {
+            "cloudinary_id": "xsspckdzzqvruuoxaycu", 
+            "height": 722, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xsspckdzzqvruuoxaycu.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zamze00zp4nreemk40mz", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zamze00zp4nreemk40mz.jpg", 
+            "width": 1437
+        }
+    ], 
+    "slug": "black-and-white-bushido", 
+    "summary": "Things are rarely ever black and white, but that\u2019s not the case in Black & White Bushido. With an original soundtrack and gorgeous, stylistic 2D visuals, you\u2019re either a light or shadow samurai facing down your opponents in a combat arena. The black and white style makes each battlefield a dangerous place, filled with hiding spots for four players to fight and hide in. It\u2019s a simple concept boiled down to an infinitely replayable set of team death match or Capture the Flag sessions. \n \nBlack & White Bushido is an arena fighting game between light and shadow samurai.", 
+    "tags": [
+        1, 
+        23, 
+        268435460, 
+        268435481, 
+        536870973, 
+        536871019, 
+        536871076, 
+        536871459, 
+        536871617, 
+        536871894, 
+        536872070, 
+        536872375, 
+        536873064, 
+        536874688, 
+        536874916, 
+        536875817, 
+        536876899, 
+        536878423, 
+        536880288, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        23
+    ], 
+    "total_rating": 56.25, 
+    "total_rating_count": 2, 
+    "updated_at": 1528351215693, 
+    "url": "https://www.igdb.com/games/black-and-white-bushido", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.bushidogame.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/404050"
+        }
+    ]
+}

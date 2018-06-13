@@ -1,0 +1,197 @@
+{
+    "aggregated_rating": 85.5, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Project Totem"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "attzyybdt2juimfmghh7", 
+        "height": 498, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/attzyybdt2juimfmghh7.jpg", 
+        "width": 416
+    }, 
+    "created_at": 1448823003616, 
+    "developers": [
+        2173
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "324140"
+    }, 
+    "first_release_date": 1418774400000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        6732, 
+        55752, 
+        10039, 
+        25646, 
+        19174, 
+        11423, 
+        19289, 
+        19934, 
+        18927, 
+        76110
+    ], 
+    "genres": [
+        8, 
+        9, 
+        32
+    ], 
+    "id": 14711, 
+    "keywords": [
+        1293, 
+        2049, 
+        4134, 
+        4148, 
+        4175, 
+        4177, 
+        4178, 
+        4890, 
+        5025, 
+        5316
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Kalimba", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1010
+    ], 
+    "rating": 80.0, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1418774400000, 
+            "human": "2014-Dec-17", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1418774400000, 
+            "human": "2014-Dec-17", 
+            "m": 12, 
+            "platform": 49, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1429660800000, 
+            "human": "2015-Apr-22", 
+            "m": 4, 
+            "platform": 6, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "besa3d9cedsjzebtgigb", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/besa3d9cedsjzebtgigb.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "sca1efp6lctu9pjlzchh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca1efp6lctu9pjlzchh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ecxsrxovtqd4owtsbb1q", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ecxsrxovtqd4owtsbb1q.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "wkqv1ibqrfkfmwyn29hc", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wkqv1ibqrfkfmwyn29hc.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "vb8ozhblhwwdtwy51rlw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vb8ozhblhwwdtwy51rlw.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "kalimba", 
+    "summary": "Jump, switch and fly your way through mind-bending subterranean puzzles in this stunning new platforming adventure from the award-winning Press Play!\u00a0", 
+    "tags": [
+        1, 
+        268435464, 
+        268435465, 
+        268435488, 
+        536872205, 
+        536872961, 
+        536875046, 
+        536875060, 
+        536875087, 
+        536875089, 
+        536875090, 
+        536875802, 
+        536875937, 
+        536876228, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 82.75, 
+    "total_rating_count": 6, 
+    "updated_at": 1528354545274, 
+    "url": "https://www.igdb.com/games/kalimba", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "f2KN82QzBuY"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://pressplay.dk/games/kalimba"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/324140"
+        }
+    ]
+}

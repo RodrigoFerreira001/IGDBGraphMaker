@@ -1,0 +1,116 @@
+{
+    "aggregated_rating": 52.5, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "oblsqzat9rev20bfzjs7", 
+        "height": 810, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/oblsqzat9rev20bfzjs7.jpg", 
+        "width": 660
+    }, 
+    "created_at": 1506518142690, 
+    "developers": [
+        14734
+    ], 
+    "first_release_date": 1521763200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19934, 
+        19174, 
+        23330, 
+        18623, 
+        55752, 
+        55106, 
+        10039, 
+        19448, 
+        23345, 
+        28154
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 69014, 
+    "keywords": [
+        117, 
+        151, 
+        2049, 
+        4134, 
+        4154, 
+        5095
+    ], 
+    "name": "Castle of Heart", 
+    "platforms": [
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.0, 
+    "pulse_count": 3, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1521763200000, 
+            "human": "2018-Mar-23", 
+            "m": 3, 
+            "platform": 130, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hcc7a4l8zrwmvt3jpps0", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hcc7a4l8zrwmvt3jpps0.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "ai602zswfllap1qqmnvq", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ai602zswfllap1qqmnvq.jpg", 
+            "width": 1024
+        }
+    ], 
+    "slug": "castle-of-heart", 
+    "summary": "Castle of Heart is a medieval action platformer by 7 Levels.", 
+    "tags": [
+        1, 
+        22, 
+        268435464, 
+        536871029, 
+        536871063, 
+        536872961, 
+        536875046, 
+        536875066, 
+        536876007, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        22
+    ], 
+    "total_rating": 66.25, 
+    "total_rating_count": 4, 
+    "updated_at": 1523917367397, 
+    "url": "https://www.igdb.com/games/castle-of-heart", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "7NIKCqo7Eco"
+        }, 
+        {
+            "name": "Teaser", 
+            "video_id": "C1QylxI73sY"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.castleofheart.com/"
+        }
+    ]
+}

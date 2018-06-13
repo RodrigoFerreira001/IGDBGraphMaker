@@ -1,0 +1,80 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 2, 
+    "category": 1, 
+    "cover": {
+        "cloudinary_id": "to2cwwvy0vsulzubpul8", 
+        "height": 430, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/to2cwwvy0vsulzubpul8.jpg", 
+        "width": 630
+    }, 
+    "created_at": 1472031706404, 
+    "first_release_date": 1304380800000, 
+    "game": 545, 
+    "games": [
+        9760, 
+        22639, 
+        22622, 
+        22616, 
+        15917, 
+        10043, 
+        43115, 
+        21642, 
+        55029, 
+        12982
+    ], 
+    "id": 22945, 
+    "name": "Call of Duty: Black Ops - Escalation", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1307577600000, 
+            "human": "2011-Jun-09", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1306972800000, 
+            "human": "2011-Jun-02", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1304380800000, 
+            "human": "2011-May-03", 
+            "m": 5, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "slug": "call-of-duty-black-ops-escalation", 
+    "tags": [
+        39
+    ], 
+    "themes": [
+        39
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1517270883149, 
+    "url": "https://www.igdb.com/games/call-of-duty-black-ops-escalation", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://callofduty.wikia.com/wiki/Escalation"
+        }
+    ]
+}

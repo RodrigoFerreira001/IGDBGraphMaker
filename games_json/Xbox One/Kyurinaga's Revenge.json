@@ -1,0 +1,165 @@
+{
+    "aggregated_rating": 25.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "rmmlau6bclofdrfrgli6", 
+        "height": 640, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rmmlau6bclofdrfrgli6.jpg", 
+        "width": 464
+    }, 
+    "created_at": 1477616179003, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "529580"
+    }, 
+    "first_release_date": 1477353600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        11423, 
+        6732, 
+        27717, 
+        28113, 
+        7350, 
+        21429, 
+        55752, 
+        19407, 
+        19082, 
+        13163
+    ], 
+    "genres": [
+        8, 
+        31, 
+        32
+    ], 
+    "id": 25308, 
+    "keywords": [
+        1158, 
+        1293, 
+        1494, 
+        2049, 
+        2493, 
+        4004, 
+        4134, 
+        4150, 
+        4151, 
+        4245
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Kyurinaga's Revenge", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "roybucbpv3jvufkbjdmh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/roybucbpv3jvufkbjdmh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kfpnabzjb2jayflydund", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kfpnabzjb2jayflydund.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qlwyyyjzfmt6mdickliz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qlwyyyjzfmt6mdickliz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hup6pr9phyzytszzl2bv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hup6pr9phyzytszzl2bv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "r5ymgbv6jckdzpsdoflf", 
+            "height": 507, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r5ymgbv6jckdzpsdoflf.jpg", 
+            "width": 902
+        }
+    ], 
+    "slug": "kyurinagas-revenge", 
+    "summary": "3D platforming with high doses of action. \nLots of challenging puzzles and frenetic combat. \nNew characters and enemies. \nPlay solo or with a friend in a local co-op mode. \nA 2D cartoonish and engaging living world, set in the Feudal Japan. \nSamurais, ninjas, ronins and more!", 
+    "tags": [
+        1, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536872070, 
+        536872205, 
+        536872406, 
+        536872961, 
+        536873405, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875063, 
+        536875157
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 52.5, 
+    "total_rating_count": 1, 
+    "updated_at": 1526730049210, 
+    "url": "https://www.igdb.com/games/kyurinagas-revenge", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.recotech.es"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/529580"
+        }
+    ]
+}

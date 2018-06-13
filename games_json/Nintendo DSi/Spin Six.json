@@ -1,0 +1,73 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bisqukomp0mfizerqcsc", 
+        "height": 218, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bisqukomp0mfizerqcsc.jpg", 
+        "width": 238
+    }, 
+    "created_at": 1517253231645, 
+    "first_release_date": 1238544000000, 
+    "id": 84385, 
+    "name": "Spin Six", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        70
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1238544000000, 
+            "human": "2009-Apr-01", 
+            "m": 4, 
+            "platform": 159, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1293753600000, 
+            "human": "2010-Dec-31", 
+            "m": 12, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1277078400000, 
+            "human": "2010-Jun-21", 
+            "m": 6, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "o3zlb7dh4pyxhe0blobf", 
+            "height": 293, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o3zlb7dh4pyxhe0blobf.jpg", 
+            "width": 196
+        }, 
+        {
+            "cloudinary_id": "tf55nduudtgeepq0wmdq", 
+            "height": 293, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tf55nduudtgeepq0wmdq.jpg", 
+            "width": 196
+        }, 
+        {
+            "cloudinary_id": "zi6pvuodpxaa91kuk4vv", 
+            "height": 293, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zi6pvuodpxaa91kuk4vv.jpg", 
+            "width": 196
+        }
+    ], 
+    "slug": "spin-six", 
+    "summary": "Spin Six is a puzzle game in which you rotate numbered panels to line them up and make them disappear. The real challenge lies in your ability to create chains of uninterrupted changing or elimination of panels and to connect many chains to score big points.", 
+    "updated_at": 1518010848916, 
+    "url": "https://www.igdb.com/games/spin-six"
+}

@@ -1,0 +1,191 @@
+{
+    "aggregated_rating": 55.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 565, 
+    "cover": {
+        "cloudinary_id": "qyelivsbrp6bxnqllurq", 
+        "height": 1024, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qyelivsbrp6bxnqllurq.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1469094893528, 
+    "external": {
+        "steam": "352900"
+    }, 
+    "first_release_date": 1439856000000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        55752, 
+        10039, 
+        68324, 
+        47823, 
+        36868, 
+        34919, 
+        51485, 
+        16468, 
+        26848, 
+        19174
+    ], 
+    "genres": [
+        8, 
+        10, 
+        32
+    ], 
+    "id": 20879, 
+    "keywords": [
+        296, 
+        589, 
+        1059, 
+        1186, 
+        2049, 
+        2071, 
+        4145, 
+        4161, 
+        6152
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Giana Sisters: Dream Runners", 
+    "platforms": [
+        45, 
+        6, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        4936
+    ], 
+    "pulse_count": 1, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1439942400000, 
+            "human": "2015-Aug-19", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439856000000, 
+            "human": "2015-Aug-18", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439856000000, 
+            "human": "2015-Aug-18", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439856000000, 
+            "human": "2015-Aug-18", 
+            "m": 8, 
+            "platform": 45, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440547200000, 
+            "human": "2015-Aug-26", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ckozfzopzklmqisaqnv7", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ckozfzopzklmqisaqnv7.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vxwhfnp69ho9cgmtaqk0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vxwhfnp69ho9cgmtaqk0.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kklne3135bofyfhic6jl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kklne3135bofyfhic6jl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dablwlrptkup7wm05jn3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dablwlrptkup7wm05jn3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cdfu1rskwp1yzouvdwo1", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cdfu1rskwp1yzouvdwo1.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "giana-sisters-dream-runners", 
+    "summary": "Race to the finish in Giana Sisters: Dream Runners, a fast-paced, head-to-head platformer for up to four players.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435466, 
+        268435488, 
+        536871208, 
+        536871501, 
+        536871971, 
+        536872098, 
+        536872961, 
+        536872983, 
+        536875057, 
+        536875073, 
+        536877064
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 57.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1528353694470, 
+    "url": "https://www.igdb.com/games/giana-sisters-dream-runners", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://blog.black-forest-games.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/352900"
+        }
+    ]
+}

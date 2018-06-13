@@ -1,0 +1,447 @@
+{
+    "aggregated_rating": 64.3333333333333, 
+    "aggregated_rating_count": 8, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "GHA"
+        }
+    ], 
+    "category": 0, 
+    "collection": 284, 
+    "cover": {
+        "cloudinary_id": "mo7jjhqrsibdiaa97h0v", 
+        "height": 320, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mo7jjhqrsibdiaa97h0v.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1374383098201, 
+    "developers": [
+        90
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1214524800000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        2676, 
+        2671, 
+        1285, 
+        2670, 
+        2669, 
+        2672, 
+        7089, 
+        7088, 
+        2674, 
+        31558
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 2673, 
+    "keywords": [
+        301, 
+        1186, 
+        1293, 
+        1333, 
+        1682, 
+        2052, 
+        2152, 
+        2543, 
+        2935, 
+        4137, 
+        4210, 
+        4211, 
+        4227, 
+        4333, 
+        4345, 
+        4353, 
+        4359, 
+        4388, 
+        4452, 
+        4544, 
+        4611, 
+        4890, 
+        4910, 
+        5029, 
+        5031, 
+        5143, 
+        5188, 
+        5189, 
+        5190, 
+        5259, 
+        5287, 
+        5354, 
+        5436, 
+        5552, 
+        5782, 
+        5887, 
+        6123, 
+        6363, 
+        6752, 
+        7159, 
+        7281, 
+        7415, 
+        7483, 
+        9333, 
+        9354, 
+        9513, 
+        10351, 
+        10686, 
+        11456, 
+        11457, 
+        12123, 
+        12191, 
+        12549, 
+        12865, 
+        13161, 
+        13595, 
+        14726
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Guitar Hero: Aerosmith", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Sexual images and/or sexual innuendo - Mild bad language"
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        9, 
+        12, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        73, 
+        66
+    ], 
+    "rating": 62.9405419205418, 
+    "rating_count": 14, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1224115200000, 
+            "human": "2008-Oct-16", 
+            "m": 10, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1214524800000, 
+            "human": "2008-Jun-27", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1214697600000, 
+            "human": "2008-Jun-29", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1223510400000, 
+            "human": "2008-Oct-09", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1225670400000, 
+            "human": "2008-Nov-03", 
+            "m": 11, 
+            "platform": 14, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1224201600000, 
+            "human": "2008-Oct-17", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1223510400000, 
+            "human": "2008-Oct-09", 
+            "m": 10, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1224115200000, 
+            "human": "2008-Oct-16", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1217980800000, 
+            "human": "2008-Aug-06", 
+            "m": 8, 
+            "platform": 5, 
+            "region": 3, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1217980800000, 
+            "human": "2008-Aug-06", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1217980800000, 
+            "human": "2008-Aug-06", 
+            "m": 8, 
+            "platform": 8, 
+            "region": 3, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1217980800000, 
+            "human": "2008-Aug-06", 
+            "m": 8, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1214697600000, 
+            "human": "2008-Jun-29", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1214697600000, 
+            "human": "2008-Jun-29", 
+            "m": 6, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1214697600000, 
+            "human": "2008-Jun-29", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1214524800000, 
+            "human": "2008-Jun-27", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1214524800000, 
+            "human": "2008-Jun-27", 
+            "m": 6, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1214524800000, 
+            "human": "2008-Jun-27", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "b9proywm5iqhgygrmtps", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b9proywm5iqhgygrmtps.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "brbtrqxjva05ptvi7at3", 
+            "height": 447, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/brbtrqxjva05ptvi7at3.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "tzqilbf8qdbqovdkmzag", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tzqilbf8qdbqovdkmzag.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "abbpkdzekipzbusz20pd", 
+            "height": 447, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/abbpkdzekipzbusz20pd.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "yaeuyrdywbzmfupyq449", 
+            "height": 447, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yaeuyrdywbzmfupyq449.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "rdqls3jden6rynqhqpod", 
+            "height": 447, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rdqls3jden6rynqhqpod.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "fqgggqcoz9zns6cxcmsh", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fqgggqcoz9zns6cxcmsh.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "dsemcza87aec7ifb3fur", 
+            "height": 447, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dsemcza87aec7ifb3fur.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "iqdhwwxsblytf8iml4di", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iqdhwwxsblytf8iml4di.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "guitar-hero-aerosmith", 
+    "summary": "Guitar Hero: Aerosmith puts the player in the shoes of \"America's Greatest Rock and Roll Band\" as they evolve from unknowns to rock superstars. In a guitar hero game dedicated to the band that is Aerosmith!", 
+    "tags": [
+        268435463, 
+        536871213, 
+        536872098, 
+        536872205, 
+        536872245, 
+        536872594, 
+        536872964, 
+        536873064, 
+        536873455, 
+        536873847, 
+        536875049, 
+        536875122, 
+        536875123, 
+        536875139, 
+        536875245, 
+        536875257, 
+        536875265, 
+        536875271, 
+        536875300, 
+        536875364, 
+        536875456, 
+        536875523, 
+        536875802, 
+        536875822, 
+        536875941, 
+        536875943, 
+        536876055, 
+        536876100, 
+        536876101, 
+        536876102, 
+        536876171, 
+        536876199, 
+        536876266, 
+        536876348, 
+        536876464, 
+        536876694, 
+        536876799, 
+        536877035, 
+        536877275, 
+        536877664, 
+        536878071, 
+        536878193, 
+        536878327, 
+        536878395, 
+        536880245, 
+        536880266, 
+        536880425, 
+        536881263, 
+        536881598, 
+        536882368, 
+        536882369, 
+        536883035, 
+        536883103, 
+        536883461, 
+        536883777, 
+        536884073, 
+        536884507, 
+        536885638, 
+        1073741825
+    ], 
+    "total_rating": 63.63693762693755, 
+    "total_rating_count": 22, 
+    "updated_at": 1528157893445, 
+    "url": "https://www.igdb.com/games/guitar-hero-aerosmith", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "dE4A-1dpqYs"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Guitar_Hero:_Aerosmith"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://guitarhero.wikia.com/wiki/Guitar_Hero:_Aerosmith"
+        }
+    ]
+}

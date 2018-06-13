@@ -1,0 +1,227 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Project Dylan"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "jsiurs9vjzcmfaiyt1zq", 
+            "height": 818, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jsiurs9vjzcmfaiyt1zq.jpg", 
+            "width": 1455
+        }, 
+        {
+            "cloudinary_id": "vp8uogxasj0cvob8iihp", 
+            "height": 818, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vp8uogxasj0cvob8iihp.jpg", 
+            "width": 1455
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "fgoxeekdfch5w69ufwpb", 
+        "height": 2588, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fgoxeekdfch5w69ufwpb.jpg", 
+        "width": 1866
+    }, 
+    "created_at": 1497124237539, 
+    "developers": [
+        2
+    ], 
+    "esrb": {
+        "rating": 1
+    }, 
+    "first_release_date": 1550793600000, 
+    "game_engines": [
+        2
+    ], 
+    "game_modes": [
+        2
+    ], 
+    "games": [
+        27011, 
+        27314, 
+        11364, 
+        27316, 
+        25300, 
+        96437, 
+        68287, 
+        37066, 
+        36832, 
+        37016
+    ], 
+    "genres": [
+        5, 
+        31
+    ], 
+    "hypes": 75, 
+    "id": 36950, 
+    "keywords": [
+        970, 
+        1026, 
+        4224, 
+        4357, 
+        5315
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Anthem", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 782.3333333333334, 
+    "publishers": [
+        1
+    ], 
+    "pulse_count": 259, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1550793600000, 
+            "human": "2019-Feb-22", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2019
+        }, 
+        {
+            "category": 0, 
+            "date": 1550793600000, 
+            "human": "2019-Feb-22", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2019
+        }, 
+        {
+            "category": 0, 
+            "date": 1550793600000, 
+            "human": "2019-Feb-22", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2019
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tp3tsdlzfkdp1hhofmb1", 
+            "height": 716, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tp3tsdlzfkdp1hhofmb1.jpg", 
+            "width": 1276
+        }, 
+        {
+            "cloudinary_id": "f1pvnnlhyqvbtstk3zbj", 
+            "height": 744, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f1pvnnlhyqvbtstk3zbj.jpg", 
+            "width": 1324
+        }, 
+        {
+            "cloudinary_id": "uols5jinxtna1w9dgxdw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uols5jinxtna1w9dgxdw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ta5m1c6vp6226kdblwge", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ta5m1c6vp6226kdblwge.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "opsyuak5nsg11p9wvqcj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/opsyuak5nsg11p9wvqcj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nknebu6mov0enphbwxib", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nknebu6mov0enphbwxib.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bwjri6c8g1n94haoztgm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bwjri6c8g1n94haoztgm.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "anthem", 
+    "summary": "Anthem is a shared-world action RPG, where players can delve into a vast landscape teeming with amazing technology and forgotten treasures. This is a world where Freelancers are called upon to defeat savage beasts, ruthless marauders, and forces plotting to conquer humanity.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435487, 
+        536871882, 
+        536871938, 
+        536875136, 
+        536875269, 
+        536876227, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "updated_at": 1528841988265, 
+    "url": "https://www.igdb.com/games/anthem", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "ZFwylDNpgFc"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "cyJMA0-3i4U"
+        }, 
+        {
+            "name": "Teaser", 
+            "video_id": "wi0Uq7QmKm4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/channel/UCIfV-AOz4jZeazVDbzgT9lQ"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/anthemgame"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/AnthemGame"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/anthemgame"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.ea.com/en-gb/games/anthem"
+        }
+    ]
+}

@@ -1,0 +1,350 @@
+{
+    "aggregated_rating": 66.6, 
+    "aggregated_rating_count": 5, 
+    "alternative_names": [
+        {
+            "comment": "Chinese title", 
+            "name": "\u35ca"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "Rorororo"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30ed\u30ed\u30ed\u30ed"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qrjrknu797scexyv0c0u", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qrjrknu797scexyv0c0u.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1485635878905, 
+    "developers": [
+        13750
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "-"
+    }, 
+    "external": {
+        "steam": "471810"
+    }, 
+    "first_release_date": 1489363200000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        18167, 
+        19934, 
+        6732, 
+        11423, 
+        19376, 
+        19301, 
+        19082, 
+        16513, 
+        18918, 
+        19290
+    ], 
+    "genres": [
+        8, 
+        9, 
+        15, 
+        32
+    ], 
+    "id": 26972, 
+    "keywords": [
+        117, 
+        575, 
+        1158, 
+        1494, 
+        2049, 
+        2875, 
+        3782, 
+        4004, 
+        4134, 
+        4150, 
+        4154, 
+        4253, 
+        4466, 
+        4698, 
+        4871, 
+        4882
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Death Squared", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons."
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        14, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 3.0, 
+    "publishers": [
+        6379, 
+        13750
+    ], 
+    "pulse_count": 3, 
+    "rating": 70.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1499904000000, 
+            "human": "2017-Jul-13", 
+            "m": 7, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489449600000, 
+            "human": "2017-Mar-14", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489449600000, 
+            "human": "2017-Mar-14", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1509580800000, 
+            "human": "2017-Nov-02", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1499904000000, 
+            "human": "2017-Jul-13", 
+            "m": 7, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489449600000, 
+            "human": "2017-Mar-14", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489449600000, 
+            "human": "2017-Mar-14", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489449600000, 
+            "human": "2017-Mar-14", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489363200000, 
+            "human": "2017-Mar-13", 
+            "m": 3, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489363200000, 
+            "human": "2017-Mar-13", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dd1v4jn5nvlklfzviily", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dd1v4jn5nvlklfzviily.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "h9pad0yuyptugxorgs49", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h9pad0yuyptugxorgs49.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "d5xx7wbdnj2tymodahpq", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d5xx7wbdnj2tymodahpq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ztkpneefijmobamfgyqw", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ztkpneefijmobamfgyqw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zzjsz0tuslixu3odb8ml", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zzjsz0tuslixu3odb8ml.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "d3yeeg1txiiubd7amkxc", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d3yeeg1txiiubd7amkxc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uuejr4nogfxk6q2nlac4", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uuejr4nogfxk6q2nlac4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fw56jrlht95pszlzqmjc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fw56jrlht95pszlzqmjc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "noiow4td5zyubjggvvkf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/noiow4td5zyubjggvvkf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "atsc1hbrjxjf24aua70r", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/atsc1hbrjxjf24aua70r.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "omgpngbx4a11is4lm6xa", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/omgpngbx4a11is4lm6xa.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pumlkhr95snlbasyrc7o", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pumlkhr95snlbasyrc7o.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "death-squared", 
+    "summary": "Death Squared is a co-op puzzle game about cooperation, communication, and robot explosions.", 
+    "tags": [
+        40, 
+        268435464, 
+        268435465, 
+        268435471, 
+        268435488, 
+        536871029, 
+        536871487, 
+        536872070, 
+        536872406, 
+        536872961, 
+        536873787, 
+        536874694, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875066, 
+        536875165, 
+        536875378, 
+        536875610, 
+        536875783, 
+        536875794, 
+        1073741827
+    ], 
+    "themes": [
+        40
+    ], 
+    "total_rating": 68.3, 
+    "total_rating_count": 6, 
+    "updated_at": 1528352311814, 
+    "url": "https://www.igdb.com/games/death-squared", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "97A1ZPSZeM4"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "6qfo33s2yAo"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "m2viPRCWZe0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 12, 
+            "url": "https://play.google.com/store/apps/details?id=com.smgstudio.deathsquared&hl=en&gl=us"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/smgstudio"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.deathsquared.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/471810"
+        }
+    ]
+}

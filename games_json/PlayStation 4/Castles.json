@@ -1,0 +1,196 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "pdidhsf6vya4rtd7bv7y", 
+        "height": 380, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pdidhsf6vya4rtd7bv7y.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1495817855460, 
+    "external": {
+        "steam": "384010"
+    }, 
+    "first_release_date": 1444348800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        11423, 
+        6732, 
+        28113, 
+        19082, 
+        18167, 
+        19407, 
+        21429, 
+        27717, 
+        7350, 
+        13163
+    ], 
+    "genres": [
+        9, 
+        32
+    ], 
+    "id": 34921, 
+    "keywords": [
+        117, 
+        151, 
+        1158, 
+        1293, 
+        1494, 
+        2875, 
+        4004, 
+        4134, 
+        4150, 
+        4177, 
+        4178, 
+        4245, 
+        4332, 
+        4347, 
+        4467, 
+        5632
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Castles", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 40.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1475625600000, 
+            "human": "2016-Oct-05", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1444348800000, 
+            "human": "2015-Oct-09", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rmpxggcxpjw37gdmavpk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rmpxggcxpjw37gdmavpk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "knmivbtuczqofwnkqafp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/knmivbtuczqofwnkqafp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jgsqe93akscevzlnkyat", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jgsqe93akscevzlnkyat.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ifoabapajvmtn3gimm59", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ifoabapajvmtn3gimm59.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wz1ndvygrwf5bykerypi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wz1ndvygrwf5bykerypi.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "castles--1", 
+    "summary": "Castles tells the story of the ambitious King Harold, whose greatest achievement will be the tower you are constructing. As the tower grows taller and taller, more and more challenges arise along with it. Unpredictable weather combined with the efforts of the jealous and vengeful King Edmund, King Harold\u2019s nemesis, may thwart your upward progress.", 
+    "tags": [
+        1, 
+        22, 
+        268435465, 
+        268435488, 
+        536871029, 
+        536871063, 
+        536872070, 
+        536872205, 
+        536872406, 
+        536873787, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875089, 
+        536875090, 
+        536875157, 
+        536875244, 
+        536875259, 
+        536875379, 
+        536876544
+    ], 
+    "themes": [
+        1, 
+        22
+    ], 
+    "total_rating": 40.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1526727068428, 
+    "url": "https://www.igdb.com/games/castles--1", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.whootgames.com/castles/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/384010"
+        }
+    ]
+}

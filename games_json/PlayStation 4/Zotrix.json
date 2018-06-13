@@ -1,0 +1,168 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "feradujwbvsivsqbkwhw", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/feradujwbvsivsqbkwhw.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1472936559305, 
+    "developers": [
+        12339
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "343280"
+    }, 
+    "first_release_date": 1437696000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25311, 
+        34919, 
+        33603, 
+        36962, 
+        16468, 
+        55888, 
+        65827, 
+        32283, 
+        18623, 
+        55289
+    ], 
+    "genres": [
+        12, 
+        13, 
+        15, 
+        32, 
+        33
+    ], 
+    "id": 23486, 
+    "keywords": [
+        166, 
+        1510
+    ], 
+    "name": "Zotrix", 
+    "platforms": [
+        45, 
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 2.666666666666667, 
+    "publishers": [
+        12340
+    ], 
+    "rating": 40.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1449532800000, 
+            "human": "2015-Dec-08", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1449532800000, 
+            "human": "2015-Dec-08", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1437696000000, 
+            "human": "2015-Jul-24", 
+            "m": 7, 
+            "platform": 6, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1449532800000, 
+            "human": "2015-Dec-08", 
+            "m": 12, 
+            "platform": 48, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ipkmvpzfs2uvv4qhqz5a", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ipkmvpzfs2uvv4qhqz5a.jpg", 
+            "width": 1360
+        }, 
+        {
+            "cloudinary_id": "zkwv3wawjboeldgr0gd5", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zkwv3wawjboeldgr0gd5.jpg", 
+            "width": 1360
+        }, 
+        {
+            "cloudinary_id": "x8ugb19drtlr5d1ad50u", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x8ugb19drtlr5d1ad50u.jpg", 
+            "width": 1360
+        }, 
+        {
+            "cloudinary_id": "rgy3qsdqhe8fouvpaz4c", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rgy3qsdqhe8fouvpaz4c.jpg", 
+            "width": 1360
+        }, 
+        {
+            "cloudinary_id": "xlla00gm1oxzkikz0nxz", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xlla00gm1oxzkikz0nxz.jpg", 
+            "width": 1024
+        }
+    ], 
+    "slug": "zotrix", 
+    "summary": "Zotrix is a modern take on the classic arcade shooter. The game introduces resource trading economy and system of upgrades between number of space stations bringing the classic experience into modern generation. Aliens are attacking and Solar Division Command needs You!", 
+    "tags": [
+        1, 
+        268435468, 
+        268435469, 
+        268435471, 
+        268435488, 
+        268435489, 
+        536871078, 
+        536872422, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 45.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1523427297939, 
+    "url": "https://www.igdb.com/games/zotrix", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "9pY3rhDduJ0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://zerobitgames.com/zotrix"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/343280"
+        }
+    ]
+}

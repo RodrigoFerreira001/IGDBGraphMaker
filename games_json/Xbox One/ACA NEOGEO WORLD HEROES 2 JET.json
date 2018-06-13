@@ -1,0 +1,169 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30a2\u30b1\u30a2\u30abNEOGEO \u30ef\u30fc\u30eb\u30c9\u30d2\u30fc\u30ed\u30fc\u30ba2 JET"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2186, 
+    "cover": {
+        "cloudinary_id": "dnyaykhnyifhagsg2lts", 
+        "height": 320, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dnyaykhnyifhagsg2lts.jpg", 
+        "width": 320
+    }, 
+    "created_at": 1512120298656, 
+    "developers": [
+        1474, 
+        5346
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "-"
+    }, 
+    "first_release_date": 1512000000000, 
+    "franchise": 1008, 
+    "franchises": [
+        1008
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        36794, 
+        41828, 
+        10039, 
+        2907, 
+        36608, 
+        36831, 
+        51485, 
+        34919, 
+        19658, 
+        76213
+    ], 
+    "genres": [
+        4, 
+        33
+    ], 
+    "id": 76576, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "ACA NEOGEO WORLD HEROES 2 JET", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence"
+    }, 
+    "platforms": [
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        5346
+    ], 
+    "pulse_count": 1, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1512000000000, 
+            "human": "2017-Nov-30", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1521676800000, 
+            "human": "2018-Mar-22", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1512000000000, 
+            "human": "2017-Nov-30", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1512000000000, 
+            "human": "2017-Nov-30", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "fe8ycwmfgeaz4us02n4j", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fe8ycwmfgeaz4us02n4j.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cjip3adzwfebhnwcs73u", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cjip3adzwfebhnwcs73u.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "y8epdlw9o7co8ribvgso", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y8epdlw9o7co8ribvgso.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "aca-neogeo-world-heroes-2-jet", 
+    "summary": "\"WORLD HEROES 2 JET is a fighting game released by SNK in 1994. \nIt is the third title in the WORLD HEROES series. Sixteen heroes, villains, and other fighters have gathered to determine who is the strongest in the world. \nWith dashes, back steps, and the addition of a counter system, you can enjoy speedy battles.\"", 
+    "tags": [
+        1, 
+        268435460, 
+        268435489, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1528350324980, 
+    "url": "https://www.igdb.com/games/aca-neogeo-world-heroes-2-jet", 
+    "version_parent": 39562, 
+    "version_title": "ACA NEOGEO", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://hamster.co.jp/american_hamster/arcadearchives/xboxone/worldheroes2jet.htm"
+        }
+    ]
+}

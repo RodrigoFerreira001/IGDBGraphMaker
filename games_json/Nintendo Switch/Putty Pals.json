@@ -1,0 +1,180 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ajiwrvga7svt35bzlfq2", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ajiwrvga7svt35bzlfq2.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1495725218256, 
+    "developers": [
+        13654
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "489110"
+    }, 
+    "first_release_date": 1487116800000, 
+    "game_modes": [
+        3
+    ], 
+    "games": [
+        55752, 
+        19934, 
+        47823, 
+        22747, 
+        11560, 
+        19174, 
+        36926, 
+        19448, 
+        51485, 
+        19290
+    ], 
+    "genres": [
+        8, 
+        31, 
+        32
+    ], 
+    "id": 32866, 
+    "keywords": [
+        117, 
+        296, 
+        2049, 
+        4134, 
+        4154
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Putty Pals", 
+    "platforms": [
+        6, 
+        14, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        13654
+    ], 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1508284800000, 
+            "human": "2017-Oct-18", 
+            "m": 10, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1487203200000, 
+            "human": "2017-Feb-16", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1487116800000, 
+            "human": "2017-Feb-15", 
+            "m": 2, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1487116800000, 
+            "human": "2017-Feb-15", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xwflkkvlqgmsuxwkntfj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xwflkkvlqgmsuxwkntfj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "l41facq1l40wpkb99a02", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l41facq1l40wpkb99a02.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lzk2dzbqfgydto8hq9jl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lzk2dzbqfgydto8hq9jl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "za3bg5eultbc6llpqaju", 
+            "height": 1077, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/za3bg5eultbc6llpqaju.jpg", 
+            "width": 1914
+        }, 
+        {
+            "cloudinary_id": "tfspoekmyd0fsol5243o", 
+            "height": 1078, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tfspoekmyd0fsol5243o.jpg", 
+            "width": 1917
+        }
+    ], 
+    "slug": "putty-pals", 
+    "summary": "Grab a friend and get squishy! Putty Pals is the ultimate co-op platformer, challenging two players to work together and overcome brain-taxing puzzles in a bright and beautiful world.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536871208, 
+        536872961, 
+        536875046, 
+        536875066, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523389296486, 
+    "url": "https://www.igdb.com/games/putty-pals", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://harmoniousgames.com/putty-pals/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/489110"
+        }
+    ]
+}

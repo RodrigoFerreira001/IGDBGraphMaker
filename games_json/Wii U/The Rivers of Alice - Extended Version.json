@@ -1,0 +1,133 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "b30fme5td1qo4kxzjh1x", 
+        "height": 370, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/b30fme5td1qo4kxzjh1x.jpg", 
+        "width": 438
+    }, 
+    "created_at": 1495790890757, 
+    "external": {
+        "steam": "411590"
+    }, 
+    "first_release_date": 1443052800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28277, 
+        63734, 
+        27266, 
+        72412, 
+        63718, 
+        37022, 
+        54998, 
+        55289, 
+        74584, 
+        44191
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 34183, 
+    "name": "The Rivers of Alice - Extended Version", 
+    "platforms": [
+        6, 
+        14, 
+        41
+    ], 
+    "popularity": 1.666666666666667, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1443657600000, 
+            "human": "2015-Oct-01", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1443052800000, 
+            "human": "2015-Sep-24", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1447632000000, 
+            "human": "2015-Nov-16", 
+            "m": 11, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1447632000000, 
+            "human": "2015-Nov-16", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "s8teg4hhf4yfpahcufvq", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s8teg4hhf4yfpahcufvq.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "dq8pjzh1tt9ywct8lajk", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dq8pjzh1tt9ywct8lajk.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "d52of9oalaistz8jlxxp", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d52of9oalaistz8jlxxp.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "b3lqmqmn0w10a2byzrmx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b3lqmqmn0w10a2byzrmx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "kwbyjacpu8iyvrdodvnd", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kwbyjacpu8iyvrdodvnd.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "the-rivers-of-alice-extended-version", 
+    "summary": "The Rivers of Alice is a classic-style, emotional, graphic adventure set in a universe of puzzles and characters from the imagination of vetusta morla. Every time Alice falls asleep, she enters a fantasy world where the player must help her face her fears.", 
+    "tags": [
+        268435487, 
+        268435488
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523406801489, 
+    "url": "https://www.igdb.com/games/the-rivers-of-alice-extended-version", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.deliriumstudios.com/presskit/sheet.php?p=The_Rivers_of_Alice"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/411590"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "h2ltyqxua7ga4ipenbyi", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/h2ltyqxua7ga4ipenbyi.jpg", 
+        "width": 353
+    }, 
+    "created_at": 1468360176686, 
+    "first_release_date": 1342656000000, 
+    "games": [
+        36608, 
+        2940, 
+        40524, 
+        34919, 
+        71581, 
+        29660, 
+        1070, 
+        23175, 
+        76438, 
+        16468
+    ], 
+    "id": 20231, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Brave: The Video Game", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 75.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1342656000000, 
+            "human": "2012-Jul-19", 
+            "m": 7, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rhcknxxbfsk0gmwnevqf", 
+            "height": 180, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rhcknxxbfsk0gmwnevqf.jpg", 
+            "width": 300
+        }
+    ], 
+    "slug": "brave-the-video-game", 
+    "summary": "Brave is an adventure game adaptation based on the film of the same name developed by Behaviour Interactive and published by Disney Interactive Studios. Actress Kelly Macdonald, who voiced M\u00e9rida in the film, reprised her role for the video game. This game was originally going to be published by THQ, but was published by Disney Interactive Studios instead.", 
+    "tags": [
+        1
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 62.5, 
+    "total_rating_count": 3, 
+    "updated_at": 1501017816312, 
+    "url": "https://www.igdb.com/games/brave-the-video-game"
+}

@@ -1,0 +1,369 @@
+{
+    "aggregated_rating": 42.2857142857143, 
+    "aggregated_rating_count": 7, 
+    "category": 0, 
+    "collection": 1516, 
+    "cover": {
+        "cloudinary_id": "vqjwkman07tzx5et23qw", 
+        "height": 1596, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vqjwkman07tzx5et23qw.jpg", 
+        "width": 1526
+    }, 
+    "created_at": 1390801400937, 
+    "developers": [
+        1021
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is an action game in which players interact with the characters and settings from the animated TV show Adventure Time. From a distant perspective, players guide characters through dungeon-like settings and battle various villains. Characters punch, kick, stomp/pound, and sometimes use swords to defeat a variety of fantastical enemies (e.g., fairies, worms, carnivorous plants, birds). Fighting sequences are \u201ccartoony\u201d though frenetic, with multiple enemies attacking characters at once. During the course of the game, players can access a sub-weapon (Poot Newt) that shoots puffs of smoke accompanied by flatulence sounds."
+    }, 
+    "first_release_date": 1384473600000, 
+    "franchise": 103, 
+    "franchises": [
+        103
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28113, 
+        6732, 
+        11423, 
+        72373, 
+        7349, 
+        19082, 
+        7350, 
+        11529, 
+        18167, 
+        19407
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 4557, 
+    "keywords": [
+        227, 
+        350, 
+        416, 
+        717, 
+        1158, 
+        1293, 
+        1381, 
+        1539, 
+        1935, 
+        2184, 
+        2228, 
+        2543, 
+        4134, 
+        4162, 
+        4245, 
+        4353, 
+        4379, 
+        4380, 
+        4450, 
+        4526, 
+        4596, 
+        4698, 
+        4699, 
+        4725, 
+        4840, 
+        4890, 
+        5157, 
+        5305, 
+        5575, 
+        5783
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Adventure Time: Explore the Dungeon Because I Don't Know!", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\nIt contains: Non realistic looking violence towards fantasy characters - Violence that is set in a cartoon, slapstick or child like setting that could be upsetting to very young children"
+    }, 
+    "platforms": [
+        6, 
+        41, 
+        9, 
+        12, 
+        37
+    ], 
+    "player_perspectives": [
+        2, 
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        248, 
+        449
+    ], 
+    "rating": 80.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1386806400000, 
+            "human": "2013-Dec-12", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384473600000, 
+            "human": "2013-Nov-15", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384473600000, 
+            "human": "2013-Nov-15", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384992000000, 
+            "human": "2013-Nov-21", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384992000000, 
+            "human": "2013-Nov-21", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1386806400000, 
+            "human": "2013-Dec-12", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1386806400000, 
+            "human": "2013-Dec-12", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1386892800000, 
+            "human": "2013-Dec-13", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "x820cxidwgslkhgx5n8c", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x820cxidwgslkhgx5n8c.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "thtk0srgkvee2swpnxlq", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/thtk0srgkvee2swpnxlq.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qeuj4ezefy7ijmub4pvn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qeuj4ezefy7ijmub4pvn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "iaw0xzco9rry4optlgdy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iaw0xzco9rry4optlgdy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uvedsx2rn0qnb42p8nxw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uvedsx2rn0qnb42p8nxw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pgz3dg9urhzera637wm0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pgz3dg9urhzera637wm0.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "h8ev9dxfappk6lj9ewnx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h8ev9dxfappk6lj9ewnx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "t8yeateky9opuzlsymro", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t8yeateky9opuzlsymro.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ns6s9ruj9inopj5ajvm1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ns6s9ruj9inopj5ajvm1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xa7mn4m2z0xei5xflwz0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xa7mn4m2z0xei5xflwz0.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wubflvjdxne9dx95tcdp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wubflvjdxne9dx95tcdp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ki2cpygyk4b1pvnurjhe", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ki2cpygyk4b1pvnurjhe.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "adventure-time-explore-the-dungeon-because-i-don-t-know", 
+    "summary": "Princess Bubblegum summons Finn and Jake to the Candy Kingdom to investigate a rash of thefts and kidnappings that have plagued her kingdom. She thinks the cause lies within her Secret Royal Dungeon, where only the nastiest monsters and criminals are locked up.", 
+    "tags": [
+        1, 
+        27, 
+        268435487, 
+        536871139, 
+        536871262, 
+        536871328, 
+        536871629, 
+        536872070, 
+        536872205, 
+        536872293, 
+        536872451, 
+        536872847, 
+        536873096, 
+        536873140, 
+        536873455, 
+        536875046, 
+        536875074, 
+        536875157, 
+        536875265, 
+        536875291, 
+        536875292, 
+        536875362, 
+        536875438, 
+        536875508, 
+        536875610, 
+        536875611, 
+        536875637, 
+        536875752, 
+        536875802, 
+        536876069, 
+        536876217, 
+        536876487, 
+        536876695, 
+        1073741826, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 61.14285714285715, 
+    "total_rating_count": 9, 
+    "updated_at": 1520000240254, 
+    "url": "https://www.igdb.com/games/adventure-time-explore-the-dungeon-because-i-don-t-know", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Xx7tNnHtpd8"
+        }
+    ]
+}

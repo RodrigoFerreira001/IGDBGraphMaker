@@ -1,0 +1,173 @@
+{
+    "aggregated_rating": 57.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "m6e2d0iosidaporpzvfq", 
+        "height": 1333, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/m6e2d0iosidaporpzvfq.jpg", 
+        "width": 900
+    }, 
+    "created_at": 1436870988320, 
+    "developers": [
+        6015
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1443657600000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        3
+    ], 
+    "games": [
+        17446, 
+        29525, 
+        27266, 
+        18167, 
+        71387, 
+        28029, 
+        8197, 
+        24369, 
+        10039, 
+        25222
+    ], 
+    "genres": [
+        5, 
+        9, 
+        33
+    ], 
+    "hypes": 1, 
+    "id": 11340, 
+    "keywords": [
+        815, 
+        1510, 
+        1623, 
+        4131, 
+        4283
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "AIPD", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.666666666666667, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1454025600000, 
+            "human": "2016-Jan-29", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 1, 
+            "date": 1443657600000, 
+            "human": "2015-Oct", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 2015
+        }, 
+        {
+            "category": 1, 
+            "date": 1443657600000, 
+            "human": "2015-Oct", 
+            "m": 10, 
+            "platform": 49, 
+            "y": 2015
+        }, 
+        {
+            "category": 1, 
+            "date": 1443657600000, 
+            "human": "2015-Oct", 
+            "m": 10, 
+            "platform": 48, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mf6hffn5ilticwjmatzb", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mf6hffn5ilticwjmatzb.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "tkhdjdbmx3dv20mvtako", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tkhdjdbmx3dv20mvtako.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "aa72jv6libsycfnkeat2", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aa72jv6libsycfnkeat2.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "xdw4hxx4lwntbimadnsj", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xdw4hxx4lwntbimadnsj.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "v9zo7fi7m1864a1kuzub", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v9zo7fi7m1864a1kuzub.jpg", 
+            "width": 1024
+        }
+    ], 
+    "slug": "aipd", 
+    "summary": "AIPD by Blazing Badger is a top-down coop twinstick shooter, where the player can design his own game mode out of 100.000 possible combinations. The visual style of AIPD is a hommage to 80\u2019s neon art styles, pioneered by games like Minestorm on the Vectrex console system or feature films like Tron.", 
+    "tags": [
+        268435461, 
+        268435465, 
+        268435489, 
+        536871727, 
+        536872422, 
+        536872535, 
+        536875043, 
+        536875195, 
+        1073741827
+    ], 
+    "total_rating": 57.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1516678416857, 
+    "url": "https://www.igdb.com/games/aipd", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "X6WHXItfr_E"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://aipd-game.com/"
+        }
+    ]
+}

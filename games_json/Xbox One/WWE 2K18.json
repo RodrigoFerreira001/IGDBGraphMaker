@@ -1,0 +1,320 @@
+{
+    "aggregated_rating": 67.5384615384615, 
+    "aggregated_rating_count": 14, 
+    "category": 0, 
+    "collection": 2958, 
+    "cover": {
+        "cloudinary_id": "qhlafqriozciovqu1hrl", 
+        "height": 1135, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qhlafqriozciovqu1hrl.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1495632532828, 
+    "developers": [
+        694, 
+        1059
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is a wrestling simulation game in which players select real-world competitors from the WWE roster, compete in matches, and progress through multiple storylines. Players can perform a variety of wrestling moves (e.g., throws, holds, grapples) as well as punch and kick opponents. Some matches allow players to use chairs, sledgehammers, and baseball bats to strike opponents. Blood sometimes appears on wrestlers' bodies/faces after being struck repeatedly by objects. Some female wrestlers wear revealing outfits that expose deep cleavage; wrestlers may also make provocative gestures (e.g., crotch chop) during matches. The dialogue contains references to beer, wine, champagne, and being drunk (e.g., \u201cSo please crack open a beer and let's celebrate!\u201d; \u201cYou still drunk from last night and wander your way into the wrong arena?\u201d). The words \"a*s,\" \"b*tch,\" and bastard can also be heard."
+    }, 
+    "external": {
+        "steam": "664430"
+    }, 
+    "first_release_date": 1508198400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        19516, 
+        26772, 
+        7846, 
+        28951, 
+        11057, 
+        6685, 
+        54524, 
+        36911, 
+        27421, 
+        7349
+    ], 
+    "genres": [
+        13, 
+        14
+    ], 
+    "hypes": 21, 
+    "id": 31558, 
+    "keywords": [
+        234, 
+        1293, 
+        1333, 
+        2543, 
+        4142, 
+        4245, 
+        4271, 
+        4272, 
+        4274, 
+        4277, 
+        4317, 
+        4345, 
+        4357, 
+        4400, 
+        4452, 
+        4625, 
+        4650, 
+        4704, 
+        4890, 
+        5909, 
+        6047, 
+        6363, 
+        6398, 
+        6502, 
+        6752, 
+        7392, 
+        7645, 
+        7647, 
+        8269
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 6, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 6, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "WWE 2K18", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence"
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        3, 
+        4
+    ], 
+    "popularity": 15.33333333333333, 
+    "publishers": [
+        1975
+    ], 
+    "pulse_count": 164, 
+    "rating": 61.7049315077894, 
+    "rating_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1508198400000, 
+            "human": "2017-Oct-17", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1508198400000, 
+            "human": "2017-Oct-17", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1508198400000, 
+            "human": "2017-Oct-17", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1512518400000, 
+            "human": "2017-Dec-06", 
+            "m": 12, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1508198400000, 
+            "human": "2017-Oct-17", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1508198400000, 
+            "human": "2017-Oct-17", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1508198400000, 
+            "human": "2017-Oct-17", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wwh2rv7juhpn655f7qtx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wwh2rv7juhpn655f7qtx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "acow6dhtcirhast2aa7y", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/acow6dhtcirhast2aa7y.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ascq1i0dfbnnmeovda6t", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ascq1i0dfbnnmeovda6t.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "frlgya4oadjjoguqqvmz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/frlgya4oadjjoguqqvmz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dow2dyn2ykkp213v6l4t", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dow2dyn2ykkp213v6l4t.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "wwe-2k18", 
+    "summary": "This latest entry in 2k Sports WWE series boasts a next generation graphics engine, the largest roster of any WWE game before it with the rosters updated gimmick sets and show stylings to closely resembles the current TV product, and the first WWE 2k only be released on current generation hardware. \n\nSeth Rollins was revealed to be the cover star, and the game's slogan is \"Be Like No One.\"", 
+    "tags": [
+        1, 
+        32, 
+        268435469, 
+        268435470, 
+        536871146, 
+        536872205, 
+        536872245, 
+        536873455, 
+        536875054, 
+        536875157, 
+        536875183, 
+        536875184, 
+        536875186, 
+        536875189, 
+        536875229, 
+        536875257, 
+        536875269, 
+        536875312, 
+        536875364, 
+        536875537, 
+        536875562, 
+        536875616, 
+        536875802, 
+        536876821, 
+        536876959, 
+        536877275, 
+        536877310, 
+        536877414, 
+        536877664, 
+        536878304, 
+        536878557, 
+        536878559, 
+        536879181, 
+        1073741828, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        32
+    ], 
+    "total_rating": 64.62169652312545, 
+    "total_rating_count": 21, 
+    "updated_at": 1528605656373, 
+    "url": "https://www.igdb.com/games/wwe-2k18", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "7ZbZfsuLXtg"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://wwe.2k.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/664430"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/WWEGames"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/WWEgames"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/WWEgames"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/WWE_2K18"
+        }
+    ]
+}

@@ -1,0 +1,404 @@
+{
+    "aggregated_rating": 79.0, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "collection": 2634, 
+    "cover": {
+        "cloudinary_id": "dkffwz2mdrxiyxoyctce", 
+        "height": 1320, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dkffwz2mdrxiyxoyctce.jpg", 
+        "width": 960
+    }, 
+    "created_at": 1408137567519, 
+    "developers": [
+        3191
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is a 2D puzzle platformer in which players help a boy use ancient technology to defeat a despotic king. Players traverse side-scrolling environments, solve puzzles, and use various tools (e.g., teleporters, electromagnets, lasers) to defeat enemy creatures. Occasional combat is highlighted by mild explosions and colorful light effects; boss battles against giant robots depict more protracted combat."
+    }, 
+    "external": {
+        "steam": "249590"
+    }, 
+    "first_release_date": 1386892800000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        6732, 
+        19174, 
+        7344, 
+        19289, 
+        54678, 
+        19448, 
+        16513, 
+        25222, 
+        18927, 
+        19376
+    ], 
+    "genres": [
+        8, 
+        9, 
+        32
+    ], 
+    "id": 7641, 
+    "keywords": [
+        117, 
+        203, 
+        272, 
+        288, 
+        544, 
+        605, 
+        906, 
+        966, 
+        1494, 
+        2049, 
+        2493, 
+        2875, 
+        4134, 
+        4148, 
+        4619, 
+        4717, 
+        4726, 
+        4931, 
+        5305, 
+        5315, 
+        5448, 
+        5584, 
+        5737
+    ], 
+    "name": "Teslagrad", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Violence that is set in a cartoon, slapstick or child like setting that could be upsetting to very young children"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        41, 
+        46, 
+        9, 
+        48, 
+        49, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        6957, 
+        6379, 
+        3191, 
+        9548
+    ], 
+    "pulse_count": 6, 
+    "rating": 74.8354008967179, 
+    "rating_count": 14, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1424995200000, 
+            "human": "2015-Feb-27", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1410393600000, 
+            "human": "2014-Sep-11", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1512604800000, 
+            "human": "2017-Dec-07", 
+            "m": 12, 
+            "platform": 130, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1457481600000, 
+            "human": "2016-Mar-09", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1417564800000, 
+            "human": "2014-Dec-03", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1512604800000, 
+            "human": "2017-Dec-07", 
+            "m": 12, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1386892800000, 
+            "human": "2013-Dec-13", 
+            "m": 12, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1510790400000, 
+            "human": "2017-Nov-16", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1386892800000, 
+            "human": "2013-Dec-13", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1417564800000, 
+            "human": "2014-Dec-03", 
+            "m": 12, 
+            "platform": 45, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1386892800000, 
+            "human": "2013-Dec-13", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1410393600000, 
+            "human": "2014-Sep-11", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1386892800000, 
+            "human": "2013-Dec-13", 
+            "m": 12, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1386892800000, 
+            "human": "2013-Dec-13", 
+            "m": 12, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1417564800000, 
+            "human": "2014-Dec-03", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1417564800000, 
+            "human": "2014-Dec-03", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1435276800000, 
+            "human": "2015-Jun-26", 
+            "m": 6, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1457481600000, 
+            "human": "2016-Mar-09", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xl1a8vqp0ebv7isezrqy", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xl1a8vqp0ebv7isezrqy.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "es0wah8dnsq7ntfozlxe", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/es0wah8dnsq7ntfozlxe.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "doltp342fy4rajyswdgr", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/doltp342fy4rajyswdgr.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "rwslhbwcgkkoauv2sh40", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rwslhbwcgkkoauv2sh40.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "ynm9vmcrdnu96nf9pqh9", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ynm9vmcrdnu96nf9pqh9.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "q8nl89kpgrutz4koccuc", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q8nl89kpgrutz4koccuc.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "eh6ucsliswv9ke8herjc", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eh6ucsliswv9ke8herjc.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "b49800xdbfxnr7z6g4aj", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b49800xdbfxnr7z6g4aj.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "f040x5bj6yctwqvu2ob3", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f040x5bj6yctwqvu2ob3.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "z4aype92807wfk68klzo", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z4aype92807wfk68klzo.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "fzgnfezrhmds2mwhhqmm", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fzgnfezrhmds2mwhhqmm.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qxrjrm2ablpasrvfsdwj", 
+            "height": 393, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qxrjrm2ablpasrvfsdwj.jpg", 
+            "width": 700
+        }
+    ], 
+    "slug": "teslagrad", 
+    "storyline": "You play as a young boy who suddenly finds himself embroiled in a long-forgotten conspiracy, involving the despotic king who has ruled the nation with an iron fist for several years.", 
+    "summary": "Teslagrad is a 2D puzzle platformer with action elements, where magnetism and other electromagnetic powers are the key to go throughout the game, and thereby discover the secrets kept in the long abandoned Tesla Tower. Gain new abilities to explore a non-linear world with more than 100 beautiful hand-drawn environments, in a steampunk-inspired vision of old Europe. Jump into an outstanding adventure told through voiceless storytelling, writing your own part. Armed with ancient Teslamancer technology and your own ingenuity and creativity, your path lies through the decrepit Tesla Tower and beyond.", 
+    "tags": [
+        18, 
+        268435464, 
+        268435465, 
+        268435488, 
+        536871029, 
+        536871115, 
+        536871184, 
+        536871200, 
+        536871456, 
+        536871517, 
+        536871818, 
+        536871878, 
+        536872406, 
+        536872961, 
+        536873405, 
+        536873787, 
+        536875046, 
+        536875060, 
+        536875531, 
+        536875629, 
+        536875638, 
+        536875843, 
+        536876217, 
+        536876227, 
+        536876360, 
+        536876496, 
+        536876649, 
+        1073741828
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 76.91770044835894, 
+    "total_rating_count": 20, 
+    "updated_at": 1523266611668, 
+    "url": "https://www.igdb.com/games/teslagrad", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "3Ti2CGLmMVc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/Teslagrad"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Teslagrad"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/249590"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://teslagrad.com"
+        }
+    ]
+}

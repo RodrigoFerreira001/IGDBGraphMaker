@@ -1,0 +1,176 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Slash Dash"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "lnvpeavxz1tsl7vg3jnu", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lnvpeavxz1tsl7vg3jnu.jpg", 
+        "width": 584
+    }, 
+    "created_at": 1439440385600, 
+    "developers": [
+        6138
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1437091200000, 
+    "game_modes": [
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        19934, 
+        19376, 
+        19448, 
+        76110, 
+        34919, 
+        19290, 
+        6732, 
+        16468, 
+        22747, 
+        19174
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 11651, 
+    "keywords": [
+        117, 
+        164, 
+        1463, 
+        1986, 
+        4134, 
+        4135, 
+        5025, 
+        5327, 
+        5379
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "SlashDash", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        6138
+    ], 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1437091200000, 
+            "human": "2015-Jul-17", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1437091200000, 
+            "human": "2015-Jul-17", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gpixugyixep0zmi1axiu", 
+            "height": 564, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gpixugyixep0zmi1axiu.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "ortcqykncjzklr9ftzyp", 
+            "height": 564, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ortcqykncjzklr9ftzyp.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "bhuvlsh5jylprc2uuqpz", 
+            "height": 565, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bhuvlsh5jylprc2uuqpz.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "ruaenenfzjxuvg0abfgf", 
+            "height": 564, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ruaenenfzjxuvg0abfgf.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "wnkia79yheznglonk6va", 
+            "height": 565, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wnkia79yheznglonk6va.jpg", 
+            "width": 1000
+        }
+    ], 
+    "slug": "slashdash", 
+    "summary": "SlashDash is an adorable ninja party playground for up to 4 players. Shoot, teleport, slash, and of course dash your way to glory across beautiful play fields in 4 inventive game modes. Fast paced and surprisingly deep, SlashDash is rewarding for trainees and Jounin alike.", 
+    "tags": [
+        1, 
+        268435488, 
+        536871029, 
+        536871076, 
+        536872375, 
+        536872898, 
+        536875046, 
+        536875047, 
+        536875937, 
+        536876239, 
+        536876291, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528357893327, 
+    "url": "https://www.igdb.com/games/slashdash", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "zsKm3QsHPCE"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.nevernautgames.com/games/#slashdash"
+        }
+    ]
+}

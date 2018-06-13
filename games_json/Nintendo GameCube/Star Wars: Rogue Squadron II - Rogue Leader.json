@@ -1,0 +1,328 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Rogue Squadron 2"
+        }, 
+        {
+            "name": "Star Wars Rogue Squadron II: Rogue Leader"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2565, 
+    "cover": {
+        "cloudinary_id": "owymvqxck6jsqjbao29o", 
+        "height": 364, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/owymvqxck6jsqjbao29o.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1390662936944, 
+    "developers": [
+        10, 
+        75
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1005264000000, 
+    "franchise": 1, 
+    "franchises": [
+        1
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        26401, 
+        166, 
+        163, 
+        12858, 
+        4182, 
+        141, 
+        1595, 
+        2113, 
+        139, 
+        168
+    ], 
+    "genres": [
+        5, 
+        13
+    ], 
+    "id": 4181, 
+    "keywords": [
+        23, 
+        24, 
+        575, 
+        947, 
+        970, 
+        992, 
+        1025, 
+        1148, 
+        1640, 
+        1710, 
+        1783, 
+        2452, 
+        3228, 
+        4142, 
+        4221, 
+        4350, 
+        4382, 
+        4523, 
+        4677, 
+        4776, 
+        4892, 
+        4923, 
+        4959, 
+        5020, 
+        5116, 
+        5157, 
+        5357, 
+        5384, 
+        5436, 
+        6282, 
+        6285, 
+        6286, 
+        6287, 
+        6288, 
+        6830, 
+        7570, 
+        7593, 
+        7639, 
+        8221, 
+        8840, 
+        8853, 
+        9529, 
+        9569, 
+        9968, 
+        10161, 
+        10162, 
+        10503, 
+        12170, 
+        12453, 
+        12906, 
+        13118, 
+        13244, 
+        14198, 
+        14199, 
+        14905, 
+        14989, 
+        15061, 
+        15062, 
+        15253, 
+        15270, 
+        15370
+    ], 
+    "name": "Star Wars: Rogue Squadron II - Rogue Leader", 
+    "platforms": [
+        21
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        10, 
+        66
+    ], 
+    "rating": 81.0717907118837, 
+    "rating_count": 15, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1020384000000, 
+            "human": "2002-May-03", 
+            "m": 5, 
+            "platform": 21, 
+            "region": 1, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1005264000000, 
+            "human": "2001-Nov-09", 
+            "m": 11, 
+            "platform": 21, 
+            "region": 5, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 1016755200000, 
+            "human": "2002-Mar-22", 
+            "m": 3, 
+            "platform": 21, 
+            "region": 2, 
+            "y": 2002
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wb4zlsf61ni0oasd4jgb", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wb4zlsf61ni0oasd4jgb.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "lrlbpclbsfsxcyoajknx", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lrlbpclbsfsxcyoajknx.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "cen3igvvoptpgrnk2njg", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cen3igvvoptpgrnk2njg.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "j9eyu0fntuj7b2qritzd", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j9eyu0fntuj7b2qritzd.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ti3iqmyanupnr1xgdbiy", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ti3iqmyanupnr1xgdbiy.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ji8dknr4dz7n4cldf1ws", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ji8dknr4dz7n4cldf1ws.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ysxvmbjdamuxceowu4ok", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ysxvmbjdamuxceowu4ok.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "adojboeovq1zvv5zyey7", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/adojboeovq1zvv5zyey7.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "wnxqxl01ezjca43igisp", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wnxqxl01ezjca43igisp.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "wdyfvuowvytlqwmacegx", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wdyfvuowvytlqwmacegx.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ny82tun6hwisa6wsmsqw", 
+            "height": 206, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ny82tun6hwisa6wsmsqw.jpg", 
+            "width": 569
+        }, 
+        {
+            "cloudinary_id": "bycnkdhnjqmnrp2wcqxa", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bycnkdhnjqmnrp2wcqxa.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "star-wars-rogue-squadron-ii-rogue-leader", 
+    "summary": "In Star Wars Rogue Squadron II: Rogue Leader you get the chance to jump into the cockpit of an X-wing and join Luke Skywalker and the Star Wars galaxy's most daring pilots as they return to face off against the Empire. \n \nAs in the original hit game for N64, you'll relive favorite Star Wars battles including the perilous Death Star trench run, a daring space attack on a Star Destroyer and the legendary battle on the ice planet Hoth. Rogue Leader features stunning, movie like visuals and immerses players in an intense action-arcade experience. \n \nAerial conflict takes place in a variety of craft such as the legendary X-wing, A-wing, and B-wing. For the first time, the game also features on-foot ground combat in missions directly based on or inspired by the original movie trilogy.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435469, 
+        536870935, 
+        536870936, 
+        536871487, 
+        536871859, 
+        536871882, 
+        536871904, 
+        536871937, 
+        536872060, 
+        536872552, 
+        536872622, 
+        536872695, 
+        536873364, 
+        536874140, 
+        536875054, 
+        536875133, 
+        536875262, 
+        536875294, 
+        536875435, 
+        536875589, 
+        536875688, 
+        536875804, 
+        536875835, 
+        536875871, 
+        536875932, 
+        536876028, 
+        536876069, 
+        536876269, 
+        536876296, 
+        536876348, 
+        536877194, 
+        536877197, 
+        536877198, 
+        536877199, 
+        536877200, 
+        536877742, 
+        536878482, 
+        536878505, 
+        536878551, 
+        536879133, 
+        536879752, 
+        536879765, 
+        536880441, 
+        536880481, 
+        536880880, 
+        536881073, 
+        536881074, 
+        536881415, 
+        536883082, 
+        536883365, 
+        536883818, 
+        536884030, 
+        536884156, 
+        536885110, 
+        536885111, 
+        536885817, 
+        536885901, 
+        536885973, 
+        536885974, 
+        536886165, 
+        536886182, 
+        536886282, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 85.53589535594185, 
+    "total_rating_count": 17, 
+    "updated_at": 1527705582611, 
+    "url": "https://www.igdb.com/games/star-wars-rogue-squadron-ii-rogue-leader", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "LcqT8g7CBX8"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Star_Wars_Rogue_Squadron_II:_Rogue_Leader"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://starwars.wikia.com/wiki/Star_Wars:_Rogue_Squadron_II:_Rogue_Leader"
+        }
+    ]
+}

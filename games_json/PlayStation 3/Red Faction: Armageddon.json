@@ -1,0 +1,450 @@
+{
+    "aggregated_rating": 75.4, 
+    "aggregated_rating_count": 10, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Red Faction 4"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "py5bcr0gmgk9xeexeln7", 
+            "height": 1040, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/py5bcr0gmgk9xeexeln7.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "prrb9d6ccustslkhejbq", 
+            "height": 630, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/prrb9d6ccustslkhejbq.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "fmjixzqpysusfrnhp9gd", 
+            "height": 620, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fmjixzqpysusfrnhp9gd.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "bx4tnutzegjzaakvhnru", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bx4tnutzegjzaakvhnru.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "zzlt0m8sumuhqcf9xqh0", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zzlt0m8sumuhqcf9xqh0.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "jas0ss268qsgg2jztajt", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jas0ss268qsgg2jztajt.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "mhcrwhndm2o5lojfgekh", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mhcrwhndm2o5lojfgekh.jpg", 
+            "width": 950
+        }
+    ], 
+    "category": 0, 
+    "collection": 100, 
+    "cover": {
+        "cloudinary_id": "qkrm5vu7smbkfupnumag", 
+        "height": 837, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qkrm5vu7smbkfupnumag.jpg", 
+        "width": 591
+    }, 
+    "created_at": 1310739764000, 
+    "developers": [
+        507
+    ], 
+    "dlcs": [
+        78455
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "This is a third-person shooter in which players assume the role of a guerilla soldier who engages in combat missions against aliens and an apocalyptic cult on Mars. Players use plasma guns, rocket launchers, machine-gun turrets, and explosives to shoot and kill alien creatures and human soldiers. Battles are highlighted by realistic gunfire, large explosions, and cries of pain from injured characters. Blood-splatter effects frequently occur when enemies are hit; some enemies explode into pieces when killed\u2014body parts and large bloodstains are depicted on the ground. Players also have the ability to inflict damage on enemies that have been killed. The words \"f**k\" and \"sh*t\" can be heard in the dialogue."
+    }, 
+    "external": {
+        "steam": "55110"
+    }, 
+    "first_release_date": 1307404800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        7350, 
+        547, 
+        26401, 
+        7351, 
+        28204, 
+        27421, 
+        1011, 
+        11156, 
+        6732, 
+        494
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 528, 
+    "keywords": [
+        3, 
+        25, 
+        167, 
+        970, 
+        1025, 
+        1120, 
+        1158, 
+        1293, 
+        1333, 
+        1507, 
+        1527, 
+        1971, 
+        2044, 
+        2230, 
+        3563, 
+        3627, 
+        3831, 
+        4004, 
+        4134, 
+        4135, 
+        4150, 
+        4151, 
+        4169, 
+        4178, 
+        4245, 
+        4287, 
+        4393, 
+        4423, 
+        4446, 
+        4484, 
+        4525, 
+        4541, 
+        4571, 
+        4572, 
+        4580, 
+        4588, 
+        4609, 
+        4681, 
+        4698, 
+        4712, 
+        4770, 
+        4779, 
+        4869, 
+        4870, 
+        4890, 
+        4896, 
+        4927, 
+        5025, 
+        5029, 
+        5112, 
+        5116, 
+        5257, 
+        5289, 
+        5349, 
+        5452, 
+        5453, 
+        5609, 
+        5625, 
+        5633, 
+        5651, 
+        5775, 
+        5783, 
+        5790, 
+        5791, 
+        5814, 
+        5905, 
+        5909, 
+        5942, 
+        5943, 
+        5945, 
+        6022, 
+        6036, 
+        6076, 
+        6237, 
+        6391, 
+        6398, 
+        6894, 
+        7006, 
+        7114, 
+        7369, 
+        7405, 
+        7654, 
+        8857, 
+        9312, 
+        9951, 
+        10031, 
+        10214, 
+        12381, 
+        12462, 
+        13445, 
+        13446, 
+        13447, 
+        13448, 
+        13449
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Red Faction: Armageddon", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        197, 
+        416
+    ], 
+    "pulse_count": 1, 
+    "rating": 73.1399700508514, 
+    "rating_count": 26, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1307577600000, 
+            "human": "2011-Jun-09", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1307664000000, 
+            "human": "2011-Jun-10", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1307404800000, 
+            "human": "2011-Jun-07", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1307404800000, 
+            "human": "2011-Jun-07", 
+            "m": 6, 
+            "platform": 6, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1307404800000, 
+            "human": "2011-Jun-07", 
+            "m": 6, 
+            "platform": 9, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1307404800000, 
+            "human": "2011-Jun-07", 
+            "m": 6, 
+            "platform": 12, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "inbu6zcrgu62jr4xrgx2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/inbu6zcrgu62jr4xrgx2.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hvnedkejznz52cs2jzn3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hvnedkejznz52cs2jzn3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kxknvzylrc5ahg6tspek", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kxknvzylrc5ahg6tspek.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lzsi3c9ghfnhs3k1jbxw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lzsi3c9ghfnhs3k1jbxw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cpwibjrs14v3zamqm5ro", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cpwibjrs14v3zamqm5ro.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "red-faction-armageddon", 
+    "storyline": "Half a century after the Red Faction resistance and their Marauder allies freed Mars from the brutal Earth Defense Force, harmony on Mars is again threatened but this time by a lethal force shrouded in mystery. \n \nWhen the massive Terraformer that supplies Mars with its Earth-like air and weather is destroyed, the atmosphere turns to chaos, super-tornados and lightning storms engulf the planet. To survive, the Colonists flee to the underground mines and build a network of habitable caves. \n \nFive years later, Darius Mason, grandson of Martian Revolution heroes Alec Mason and Samanya, runs a lucrative business from Bastion, underground hub of Colonist activity. Mining, scavenging, mercenary work--if the job is dangerous, Darius is your man. Few sane people now venture to the ravaged surface, aside from contractors like Darius and the smugglers who run goods between the settlements. \n \nWhen Darius is tricked into reopening a mysterious shaft in an old Marauder temple, he releases a long-dormant evil and unleashes Armageddon on Mars. As Colonist and Marauder settlements are torn asunder, only Darius and the Red Faction can save mankind. The battle will take them across the storm-blasted planet--and below it, to the very heart of the unspeakable threat", 
+    "summary": "Red Faction: Armageddon is a third-person shooter video game developed by Volition and published by THQ. It is the fourth installment in the Red Faction series. The game takes place on the planet Mars. It is set in the year 2175, fifty years after the events of Red Faction: Guerrilla.", 
+    "tags": [
+        1, 
+        18, 
+        19, 
+        38, 
+        268435461, 
+        536870915, 
+        536870937, 
+        536871079, 
+        536871882, 
+        536871937, 
+        536872032, 
+        536872070, 
+        536872205, 
+        536872245, 
+        536872419, 
+        536872439, 
+        536872883, 
+        536872956, 
+        536873142, 
+        536874475, 
+        536874539, 
+        536874743, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875062, 
+        536875063, 
+        536875081, 
+        536875090, 
+        536875157, 
+        536875199, 
+        536875305, 
+        536875335, 
+        536875358, 
+        536875396, 
+        536875437, 
+        536875453, 
+        536875483, 
+        536875484, 
+        536875492, 
+        536875500, 
+        536875521, 
+        536875593, 
+        536875610, 
+        536875624, 
+        536875682, 
+        536875691, 
+        536875781, 
+        536875782, 
+        536875802, 
+        536875808, 
+        536875839, 
+        536875937, 
+        536875941, 
+        536876024, 
+        536876028, 
+        536876169, 
+        536876201, 
+        536876261, 
+        536876364, 
+        536876365, 
+        536876521, 
+        536876537, 
+        536876545, 
+        536876563, 
+        536876687, 
+        536876695, 
+        536876702, 
+        536876703, 
+        536876726, 
+        536876817, 
+        536876821, 
+        536876854, 
+        536876855, 
+        536876857, 
+        536876934, 
+        536876948, 
+        536876988, 
+        536877149, 
+        536877303, 
+        536877310, 
+        536877806, 
+        536877918, 
+        536878026, 
+        536878281, 
+        536878317, 
+        536878566, 
+        536879769, 
+        536880224, 
+        536880863, 
+        536880943, 
+        536881126, 
+        536883293, 
+        536883374, 
+        536884357, 
+        536884358, 
+        536884359, 
+        536884360, 
+        536884361, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18, 
+        19, 
+        38
+    ], 
+    "time_to_beat": {
+        "normally": 61200
+    }, 
+    "total_rating": 74.26998502542571, 
+    "total_rating_count": 36, 
+    "updated_at": 1528422424402, 
+    "url": "https://www.igdb.com/games/red-faction-armageddon", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "XjxMuMOH08s"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.redfaction.com/"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Red_Faction:_Armageddon"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/55110"
+        }
+    ]
+}

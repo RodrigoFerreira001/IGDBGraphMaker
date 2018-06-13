@@ -1,0 +1,107 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Acronym", 
+            "name": "Street Fighter V 2017 - Deluxe Edition"
+        }, 
+        {
+            "comment": "Acronym", 
+            "name": "Street Fighter V 2017 Deluxe Edition"
+        }, 
+        {
+            "comment": "Acronym", 
+            "name": "Street Fighter V - 2017 Deluxe Edition"
+        }, 
+        {
+            "comment": "Acronym", 
+            "name": "Street Fighter V - Deluxe Edition"
+        }
+    ], 
+    "category": 3, 
+    "collection": 219, 
+    "cover": {
+        "cloudinary_id": "orua9xurkgvgalt07a0u", 
+        "height": 392, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/orua9xurkgvgalt07a0u.jpg", 
+        "width": 280
+    }, 
+    "created_at": 1501611908871, 
+    "developers": [
+        37
+    ], 
+    "first_release_date": 1482278400000, 
+    "franchise": 792, 
+    "franchises": [
+        792
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        2907, 
+        10039, 
+        36794, 
+        36608, 
+        74155, 
+        34919, 
+        19658, 
+        1235, 
+        40524, 
+        75089
+    ], 
+    "genres": [
+        4
+    ], 
+    "id": 53678, 
+    "name": "Street Fighter V: 2017 Deluxe Edition", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        37
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1482278400000, 
+            "human": "2016-Dec-21", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1482278400000, 
+            "human": "2016-Dec-21", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "slug": "street-fighter-v-2017-deluxe-edition", 
+    "tags": [
+        1, 
+        268435460, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1509819875131, 
+    "url": "https://www.igdb.com/games/street-fighter-v-2017-deluxe-edition", 
+    "version_parent": 8258, 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/bundle/2271/Street_Fighter_V_2017_Deluxe_Edition"
+        }
+    ]
+}

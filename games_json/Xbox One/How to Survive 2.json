@@ -1,0 +1,189 @@
+{
+    "aggregated_rating": 80.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 1733, 
+    "cover": {
+        "cloudinary_id": "o3bzfnogudnqmiew6tpr", 
+        "height": 435, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/o3bzfnogudnqmiew6tpr.jpg", 
+        "width": 700
+    }, 
+    "created_at": 1444280006172, 
+    "developers": [
+        3077
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "360170"
+    }, 
+    "first_release_date": 1473292800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        59516, 
+        44076, 
+        25646, 
+        26145, 
+        26192, 
+        68142, 
+        12579, 
+        25300, 
+        7329, 
+        13189
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "id": 13210, 
+    "keywords": [
+        5, 
+        69, 
+        510, 
+        1120, 
+        5379
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "How to Survive 2", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        445
+    ], 
+    "pulse_count": 1, 
+    "rating": 56.9324105264793, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1486339200000, 
+            "human": "2017-Feb-06", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1486944000000, 
+            "human": "2017-Feb-13", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1473292800000, 
+            "human": "2016-Sep-08", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rryesolgkfd9oo5uywsf", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rryesolgkfd9oo5uywsf.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "mn9wvgsdgqjfibyh992f", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mn9wvgsdgqjfibyh992f.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "j6akjfj58gmlqtrsj7pk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j6akjfj58gmlqtrsj7pk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dcq4xvhisqzewly92pze", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dcq4xvhisqzewly92pze.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hcfz9qaejxptbisyhp8v", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hcfz9qaejxptbisyhp8v.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "how-to-survive-2", 
+    "summary": "Dead or Alive? Make up your mind, stranger. We don\u2019t like that undead business here in Louisiana\u2026 Survive solo or with friends as you look to fulfill your basic needs of food, water and shelter, crafting your own tools and weapons while you secure your camp and face flesh hungry zombies.", 
+    "tags": [
+        1, 
+        19, 
+        21, 
+        268435468, 
+        268435487, 
+        536870917, 
+        536870981, 
+        536871422, 
+        536872032, 
+        536876291, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        19, 
+        21
+    ], 
+    "total_rating": 68.6328719299063, 
+    "total_rating_count": 6, 
+    "updated_at": 1528354204888, 
+    "url": "https://www.igdb.com/games/how-to-survive-2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "xEnTIRup3Cs"
+        }
+    ]
+}

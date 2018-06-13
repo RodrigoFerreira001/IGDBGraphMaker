@@ -1,0 +1,390 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Spaceward Ho! 4"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Space Harrier 2"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "p07vfvvjtdgqyohbxvmo", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p07vfvvjtdgqyohbxvmo.jpg", 
+            "width": 1024
+        }
+    ], 
+    "category": 0, 
+    "collection": 1718, 
+    "cover": {
+        "cloudinary_id": "muuskcmqhmyacigt4owj", 
+        "height": 2100, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/muuskcmqhmyacigt4owj.jpg", 
+        "width": 1534
+    }, 
+    "created_at": 1390776187084, 
+    "developers": [
+        11739
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "34279"
+    }, 
+    "first_release_date": 594086400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19350, 
+        19301, 
+        11582, 
+        19934, 
+        9789, 
+        7046, 
+        11550, 
+        72373, 
+        25311, 
+        29173
+    ], 
+    "genres": [
+        5, 
+        13, 
+        15, 
+        33
+    ], 
+    "id": 4498, 
+    "keywords": [
+        126, 
+        166, 
+        227, 
+        504, 
+        589, 
+        872, 
+        947, 
+        970, 
+        1057, 
+        1148, 
+        1158, 
+        1705, 
+        2071, 
+        2109, 
+        2152, 
+        2388, 
+        3486, 
+        3782, 
+        3794, 
+        3831, 
+        3833, 
+        4135, 
+        4163, 
+        4164, 
+        4165, 
+        4169, 
+        4287, 
+        4303, 
+        4522, 
+        4523, 
+        4525, 
+        4697, 
+        4910, 
+        5022, 
+        5030, 
+        5208, 
+        5384, 
+        5419, 
+        5479, 
+        5722, 
+        5814, 
+        6230, 
+        6767, 
+        7092, 
+        8853, 
+        9312, 
+        11434, 
+        14502
+    ], 
+    "name": "Space Harrier II", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        29, 
+        52, 
+        63, 
+        16, 
+        15, 
+        26, 
+        25, 
+        5
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        10080, 
+        11739
+    ], 
+    "pulse_count": 1, 
+    "rating": 62.849663880893, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1165017600000, 
+            "human": "2006-Dec-02", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1166745600000, 
+            "human": "2006-Dec-22", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1166400000000, 
+            "human": "2006-Dec-18", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 25, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 16, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 0, 
+            "date": 619056000000, 
+            "human": "1989-Aug-14", 
+            "m": 8, 
+            "platform": 29, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 0, 
+            "date": 594086400000, 
+            "human": "1988-Oct-29", 
+            "m": 10, 
+            "platform": 29, 
+            "region": 5, 
+            "y": 1988
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qa8zxfncp8gzb0qoocpv", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qa8zxfncp8gzb0qoocpv.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "zi1uk7ub2giq9bqwygkd", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zi1uk7ub2giq9bqwygkd.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "dy3181skeez85mu1qak2", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dy3181skeez85mu1qak2.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "rydfxkdnbb1aunkf9cou", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rydfxkdnbb1aunkf9cou.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "wq7kclgmfxoigfsemmjt", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wq7kclgmfxoigfsemmjt.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "adomh4ondfabt4kggqco", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/adomh4ondfabt4kggqco.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "mpemnhcacnixupjdqqc7", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mpemnhcacnixupjdqqc7.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "vxmem3ztru4o4kii6aln", 
+            "height": 370, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vxmem3ztru4o4kii6aln.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "i4z5ydkdqpxvi5tkrihp", 
+            "height": 370, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i4z5ydkdqpxvi5tkrihp.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "nr8nlvjc3joc3vw4aixn", 
+            "height": 370, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nr8nlvjc3joc3vw4aixn.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "gxtih9ufy9vydeifvhmt", 
+            "height": 370, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gxtih9ufy9vydeifvhmt.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "xsun5pjp8q0kt7mjmjez", 
+            "height": 370, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xsun5pjp8q0kt7mjmjez.jpg", 
+            "width": 500
+        }
+    ], 
+    "slug": "space-harrier-ii", 
+    "summary": "A call for help comes from deep in the universe. Fantasyland has been taken over by destructive forces. Quick on the scene is Space Harrier\u2122 equipped with his laser, who must attempt to outwit and outmanoeuvre the hoards and prevent Fantasyland from being blown into oblivion!", 
+    "tags": [
+        1, 
+        18, 
+        41, 
+        268435461, 
+        268435469, 
+        268435471, 
+        268435489, 
+        536871038, 
+        536871078, 
+        536871139, 
+        536871416, 
+        536871501, 
+        536871784, 
+        536871859, 
+        536871882, 
+        536871969, 
+        536872060, 
+        536872070, 
+        536872617, 
+        536872983, 
+        536873021, 
+        536873064, 
+        536873300, 
+        536874398, 
+        536874694, 
+        536874706, 
+        536874743, 
+        536874745, 
+        536875047, 
+        536875075, 
+        536875076, 
+        536875077, 
+        536875081, 
+        536875199, 
+        536875215, 
+        536875434, 
+        536875435, 
+        536875437, 
+        536875609, 
+        536875822, 
+        536875934, 
+        536875942, 
+        536876120, 
+        536876296, 
+        536876331, 
+        536876391, 
+        536876634, 
+        536876726, 
+        536877142, 
+        536877679, 
+        536878004, 
+        536879765, 
+        536880224, 
+        536882346, 
+        536885414, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18, 
+        41
+    ], 
+    "total_rating": 62.849663880893, 
+    "total_rating_count": 3, 
+    "updated_at": 1524743008891, 
+    "url": "https://www.igdb.com/games/space-harrier-ii", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.sega.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/34279"
+        }
+    ]
+}

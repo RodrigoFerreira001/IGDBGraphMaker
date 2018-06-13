@@ -1,0 +1,299 @@
+{
+    "aggregated_rating": 55.0, 
+    "aggregated_rating_count": 4, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Shin Sangoku Musou 6"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "eewrq6nkupqndn5y5kwe", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eewrq6nkupqndn5y5kwe.jpg", 
+            "width": 1000
+        }
+    ], 
+    "category": 0, 
+    "collection": 550, 
+    "cover": {
+        "cloudinary_id": "slpwpriozxjodttzq9mo", 
+        "height": 310, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/slpwpriozxjodttzq9mo.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1400550628247, 
+    "developers": [
+        1394
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1299715200000, 
+    "franchise": 126, 
+    "franchises": [
+        126
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        26841, 
+        12571, 
+        848, 
+        6983, 
+        21429, 
+        19560, 
+        2368, 
+        6958, 
+        19407, 
+        36911
+    ], 
+    "genres": [
+        25
+    ], 
+    "id": 6832, 
+    "keywords": [
+        227, 
+        301, 
+        389, 
+        594, 
+        1293, 
+        2071, 
+        2414, 
+        2561, 
+        4134, 
+        4155, 
+        4179, 
+        4245, 
+        4250, 
+        4390, 
+        4392, 
+        4576, 
+        4611, 
+        4622, 
+        4776, 
+        4866, 
+        4897, 
+        4979, 
+        5029, 
+        5144, 
+        5320, 
+        5361, 
+        5498, 
+        5575, 
+        5646, 
+        5702, 
+        5783, 
+        5791, 
+        5792, 
+        5905, 
+        5941, 
+        6081, 
+        6120, 
+        6151, 
+        6389, 
+        6537, 
+        6784, 
+        7010, 
+        7122, 
+        7306, 
+        7568, 
+        7650, 
+        9208, 
+        9209, 
+        9637, 
+        9779, 
+        9887, 
+        9888, 
+        12421
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dynasty Warriors 7", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        630
+    ], 
+    "rating": 81.62689804772229, 
+    "rating_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1301011200000, 
+            "human": "2011-Mar-25", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1300752000000, 
+            "human": "2011-Mar-22", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1299715200000, 
+            "human": "2011-Mar-10", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1299715200000, 
+            "human": "2011-Mar-10", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1331251200000, 
+            "human": "2012-Mar-09", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1301356800000, 
+            "human": "2011-Mar-29", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301529600000, 
+            "human": "2011-Mar-31", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301529600000, 
+            "human": "2011-Mar-31", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1302220800000, 
+            "human": "2011-Apr-08", 
+            "m": 4, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2011
+        }
+    ], 
+    "slug": "dynasty-warriors-7", 
+    "summary": "In the new Story Mode, follow the ascent and fall of heroes. In Dynasty Warriors 7, experience a new Story Mode and follow the captivating story of our Kingdoms battling for rule of China. Experience the individual tales of the Shu, Wu, Wei and the new Jin kingdomes as they shape China from the warring chaos at the end of the Later Han period to the division of the Land into Three Kingdoms. Take your faction through this key point in history and tell the story of the Dynasty that rose to seize power and unify the country once again. Immerce yourself in the epic scale of each Kingdom's story, viewing events from the eyes of a different character in each stage. Now is your chance to live through an intense historical drama of greetings and goodbyes, friendships, feuds and rivalries.", 
+    "tags": [
+        1, 
+        17, 
+        22, 
+        39, 
+        268435481, 
+        536871139, 
+        536871213, 
+        536871301, 
+        536871506, 
+        536872205, 
+        536872983, 
+        536873326, 
+        536873473, 
+        536875046, 
+        536875067, 
+        536875091, 
+        536875157, 
+        536875162, 
+        536875302, 
+        536875304, 
+        536875488, 
+        536875523, 
+        536875534, 
+        536875688, 
+        536875778, 
+        536875809, 
+        536875891, 
+        536875941, 
+        536876056, 
+        536876232, 
+        536876273, 
+        536876410, 
+        536876487, 
+        536876558, 
+        536876614, 
+        536876695, 
+        536876703, 
+        536876704, 
+        536876817, 
+        536876853, 
+        536876993, 
+        536877032, 
+        536877063, 
+        536877301, 
+        536877449, 
+        536877696, 
+        536877922, 
+        536878034, 
+        536878218, 
+        536878480, 
+        536878562, 
+        536880120, 
+        536880121, 
+        536880549, 
+        536880691, 
+        536880799, 
+        536880800, 
+        536883333, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        22, 
+        39
+    ], 
+    "total_rating": 68.31344902386115, 
+    "total_rating_count": 11, 
+    "updated_at": 1525266823185, 
+    "url": "https://www.igdb.com/games/dynasty-warriors-7"
+}

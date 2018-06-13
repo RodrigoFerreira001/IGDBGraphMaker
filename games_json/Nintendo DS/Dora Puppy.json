@@ -1,0 +1,90 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ewar90zawavxru52ulgp", 
+        "height": 213, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ewar90zawavxru52ulgp.jpg", 
+        "width": 236
+    }, 
+    "created_at": 1414712081116, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1262217600000, 
+    "franchise": 202, 
+    "franchises": [
+        202
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        44242, 
+        28465, 
+        34919, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        43130, 
+        28277, 
+        75102
+    ], 
+    "genres": [
+        13
+    ], 
+    "id": 7976, 
+    "keywords": [
+        690, 
+        1287
+    ], 
+    "name": "Dora Puppy", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2001
+    ], 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1262217600000, 
+            "human": "2009", 
+            "m": 12, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 2, 
+            "date": 1262217600000, 
+            "human": "2009", 
+            "m": 12, 
+            "platform": 20, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 2, 
+            "date": 1293753600000, 
+            "human": "2010", 
+            "m": 12, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2010
+        }
+    ], 
+    "slug": "dora-puppy", 
+    "tags": [
+        268435469, 
+        536871602, 
+        536872199
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1472132015720, 
+    "url": "https://www.igdb.com/games/dora-puppy"
+}

@@ -1,0 +1,119 @@
+{
+    "aggregated_rating": 50.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 804, 
+    "cover": {
+        "cloudinary_id": "r4yelwyorgoxdunr8r6s", 
+        "height": 906, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/r4yelwyorgoxdunr8r6s.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1465056835086, 
+    "developers": [
+        1012
+    ], 
+    "first_release_date": 1123113600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        28029, 
+        76246, 
+        19341, 
+        10039, 
+        32902, 
+        68287, 
+        68142, 
+        28751, 
+        54639, 
+        36950
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 19410, 
+    "keywords": [
+        1149, 
+        1448
+    ], 
+    "name": "Armored Core: Last Raven", 
+    "platforms": [
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1566
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1123113600000, 
+            "human": "2005-Aug-04", 
+            "m": 8, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1150156800000, 
+            "human": "2006-Jun-13", 
+            "m": 6, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1161820800000, 
+            "human": "2006-Oct-26", 
+            "m": 10, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "m0gdj3j5vlq2dq5alv9j", 
+            "height": 368, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m0gdj3j5vlq2dq5alv9j.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "armored-core-last-raven", 
+    "summary": "Two powerful groups, the Alliance and the Vertex, are fighting for world dominance and victory hinges upon the \"Raven\" pilots. You are a Raven, an elite mech warrior who must choose sides between the fighting powers. Ravens face the ultimate decision in the fight for survival, either to fiercely defend their chosen side or fight alone and face the wrath of all Ravens.", 
+    "tags": [
+        1, 
+        268435461, 
+        536872061, 
+        536872360, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 50.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1500542904842, 
+    "url": "https://www.igdb.com/games/armored-core-last-raven", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Armored_Core:_Last_Raven"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://armoredcore.wikia.com/wiki/Armored_Core:_Last_Raven"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.armoredcore.net/top/pc/aclineup_ACLR.html"
+        }
+    ]
+}

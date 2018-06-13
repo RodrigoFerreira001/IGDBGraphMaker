@@ -1,0 +1,79 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "esv3sbzckhozekyaabwv", 
+        "height": 318, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/esv3sbzckhozekyaabwv.jpg", 
+        "width": 350
+    }, 
+    "created_at": 1517342879586, 
+    "first_release_date": 1135209600000, 
+    "id": 84855, 
+    "name": "Shanghai DS", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        251
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1135209600000, 
+            "human": "2005-Dec-22", 
+            "m": 12, 
+            "platform": 20, 
+            "region": 5, 
+            "y": 2005
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "iwopbkawvl8npvpsawwj", 
+            "height": 225, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iwopbkawvl8npvpsawwj.jpg", 
+            "width": 150
+        }, 
+        {
+            "cloudinary_id": "h1wouka7d5t3ojcakzta", 
+            "height": 225, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h1wouka7d5t3ojcakzta.jpg", 
+            "width": 150
+        }, 
+        {
+            "cloudinary_id": "i6tkini8tckwtxwx9pzy", 
+            "height": 225, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i6tkini8tckwtxwx9pzy.jpg", 
+            "width": 150
+        }, 
+        {
+            "cloudinary_id": "naahi4l4de87twuminvr", 
+            "height": 225, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/naahi4l4de87twuminvr.jpg", 
+            "width": 150
+        }, 
+        {
+            "cloudinary_id": "w9mgy88rsaethnksoj72", 
+            "height": 225, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w9mgy88rsaethnksoj72.jpg", 
+            "width": 150
+        }, 
+        {
+            "cloudinary_id": "gysmrafgcctiazwcuutx", 
+            "height": 225, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gysmrafgcctiazwcuutx.jpg", 
+            "width": 150
+        }
+    ], 
+    "slug": "shanghai-ds", 
+    "summary": "A Shanghai game by Sunsoft, only released in Japan", 
+    "updated_at": 1518008069779, 
+    "url": "https://www.igdb.com/games/shanghai-ds", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.success-corp.co.jp/software/ds/shanghai/index.html"
+        }
+    ]
+}

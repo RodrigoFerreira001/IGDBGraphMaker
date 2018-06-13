@@ -1,0 +1,415 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "name": "\u3055\u308f\u308b \u30e1\u30a4\u30c9\u30a4\u30f3\u30ef\u30ea\u30aa"
+        }
+    ], 
+    "category": 0, 
+    "collection": 336, 
+    "cover": {
+        "cloudinary_id": "o3sb3qroyxs3mno4wje4", 
+        "height": 1358, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/o3sb3qroyxs3mno4wje4.jpg", 
+        "width": 1500
+    }, 
+    "created_at": 1352042009128, 
+    "developers": [
+        2674, 
+        765
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 1101945600000, 
+    "franchise": 24, 
+    "franchises": [
+        24
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        1703, 
+        1706, 
+        12517, 
+        28113, 
+        2909, 
+        11238, 
+        28213, 
+        19082, 
+        72373, 
+        26758
+    ], 
+    "genres": [
+        2, 
+        9, 
+        33
+    ], 
+    "id": 1705, 
+    "keywords": [
+        3, 
+        57, 
+        67, 
+        238, 
+        274, 
+        350, 
+        488, 
+        623, 
+        732, 
+        758, 
+        760, 
+        1299, 
+        1699, 
+        1726, 
+        1783, 
+        1935, 
+        2069, 
+        2152, 
+        2337, 
+        2678, 
+        2875, 
+        2966, 
+        4134, 
+        4182, 
+        4213, 
+        4218, 
+        4293, 
+        4320, 
+        4328, 
+        4329, 
+        4337, 
+        4350, 
+        4392, 
+        4474, 
+        4480, 
+        4510, 
+        4522, 
+        4552, 
+        4622, 
+        4695, 
+        4735, 
+        4750, 
+        4764, 
+        4797, 
+        4958, 
+        5164, 
+        5170, 
+        5171, 
+        5216, 
+        5287, 
+        5408, 
+        5543, 
+        5659, 
+        5664, 
+        5739, 
+        6134, 
+        6164, 
+        6177, 
+        6368, 
+        6393, 
+        6404, 
+        6491, 
+        6512, 
+        6616, 
+        6802, 
+        7310, 
+        8198, 
+        9184, 
+        9197, 
+        10440, 
+        10735, 
+        10740, 
+        11228, 
+        12351, 
+        12450, 
+        13110
+    ], 
+    "name": "WarioWare: Touched!", 
+    "platforms": [
+        41, 
+        47, 
+        20
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        70
+    ], 
+    "rating": 77.7085928993276, 
+    "rating_count": 10, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1428537600000, 
+            "human": "2015-Apr-09", 
+            "m": 4, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1427932800000, 
+            "human": "2015-Apr-02", 
+            "m": 4, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429056000000, 
+            "human": "2015-Apr-15", 
+            "m": 4, 
+            "platform": 47, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1428537600000, 
+            "human": "2015-Apr-09", 
+            "m": 4, 
+            "platform": 47, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1427932800000, 
+            "human": "2015-Apr-02", 
+            "m": 4, 
+            "platform": 47, 
+            "region": 3, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1427932800000, 
+            "human": "2015-Apr-02", 
+            "m": 4, 
+            "platform": 47, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1110499200000, 
+            "human": "2005-Mar-11", 
+            "m": 3, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1109203200000, 
+            "human": "2005-Feb-24", 
+            "m": 2, 
+            "platform": 20, 
+            "region": 3, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1108339200000, 
+            "human": "2005-Feb-14", 
+            "m": 2, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1101945600000, 
+            "human": "2004-Dec-02", 
+            "m": 12, 
+            "platform": 20, 
+            "region": 5, 
+            "y": 2004
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "uz0xif8nmvzlrl4jx9uc", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uz0xif8nmvzlrl4jx9uc.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "idkf6i9iq5otzwvzia6r", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/idkf6i9iq5otzwvzia6r.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "tnc9khfx82nwudix30p2", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tnc9khfx82nwudix30p2.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "lqzkj0wm2oxgdwbe6byn", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lqzkj0wm2oxgdwbe6byn.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "xpwupvviut1g1xk00qoz", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xpwupvviut1g1xk00qoz.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "s95qyamaquhxkm9tqdxc", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s95qyamaquhxkm9tqdxc.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "zumn11eole8nwhvo7h9d", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zumn11eole8nwhvo7h9d.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "wqeidx4ygxvubpsry1a6", 
+            "height": 823, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wqeidx4ygxvubpsry1a6.jpg", 
+            "width": 539
+        }, 
+        {
+            "cloudinary_id": "edavvrpjaccnkncgcoff", 
+            "height": 823, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/edavvrpjaccnkncgcoff.jpg", 
+            "width": 539
+        }, 
+        {
+            "cloudinary_id": "ujakosl4ru51tss78bnn", 
+            "height": 823, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ujakosl4ru51tss78bnn.jpg", 
+            "width": 539
+        }, 
+        {
+            "cloudinary_id": "a6ahgaut4w07aji13lod", 
+            "height": 823, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a6ahgaut4w07aji13lod.jpg", 
+            "width": 539
+        }, 
+        {
+            "cloudinary_id": "x0bjnrwbe8sxoloxswo7", 
+            "height": 823, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x0bjnrwbe8sxoloxswo7.jpg", 
+            "width": 539
+        }
+    ], 
+    "slug": "warioware-touched", 
+    "summary": "Wario makes his debut on the Nintendo DS with hundreds of all-new minigames. Now you must complete your goals by using the touch screen and a stylus. Tap, scratch, and rub your stylus on the touch screen to play minigames that have you do everything from milking a cow and drawing a mustache to hurling stars at evil ninjas. You can even play some minigames by blowing into the DS's built-in microphone. The more minigames you clear, the more characters and items you unlock.", 
+    "tags": [
+        1, 
+        27, 
+        268435458, 
+        268435465, 
+        268435489, 
+        536870915, 
+        536870969, 
+        536870979, 
+        536871150, 
+        536871186, 
+        536871262, 
+        536871400, 
+        536871535, 
+        536871644, 
+        536871670, 
+        536871672, 
+        536872211, 
+        536872611, 
+        536872638, 
+        536872695, 
+        536872847, 
+        536872981, 
+        536873064, 
+        536873249, 
+        536873590, 
+        536873787, 
+        536873878, 
+        536875046, 
+        536875094, 
+        536875125, 
+        536875130, 
+        536875205, 
+        536875232, 
+        536875240, 
+        536875241, 
+        536875249, 
+        536875262, 
+        536875304, 
+        536875386, 
+        536875392, 
+        536875422, 
+        536875434, 
+        536875464, 
+        536875534, 
+        536875607, 
+        536875647, 
+        536875662, 
+        536875676, 
+        536875709, 
+        536875870, 
+        536876076, 
+        536876082, 
+        536876083, 
+        536876128, 
+        536876199, 
+        536876320, 
+        536876455, 
+        536876571, 
+        536876576, 
+        536876651, 
+        536877046, 
+        536877076, 
+        536877089, 
+        536877280, 
+        536877305, 
+        536877316, 
+        536877403, 
+        536877424, 
+        536877528, 
+        536877714, 
+        536878222, 
+        536879110, 
+        536880096, 
+        536880109, 
+        536881352, 
+        536881647, 
+        536881652, 
+        536882140, 
+        536883263, 
+        536883362, 
+        536884022, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 73.85429644966379, 
+    "total_rating_count": 12, 
+    "updated_at": 1518019556924, 
+    "url": "https://www.igdb.com/games/warioware-touched", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/WarioWare:_Touched!"
+        }, 
+        {
+            "category": 2, 
+            "url": "https://www.mariowiki.com/WarioWare:_Touched!"
+        }
+    ]
+}

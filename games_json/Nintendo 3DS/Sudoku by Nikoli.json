@@ -1,0 +1,73 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "nznyotfea637xftxh4fn", 
+        "height": 240, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nznyotfea637xftxh4fn.jpg", 
+        "width": 400
+    }, 
+    "created_at": 1517404420845, 
+    "first_release_date": 1336608000000, 
+    "id": 85409, 
+    "name": "Sudoku by Nikoli", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1376524800000, 
+            "human": "2013-Aug-15", 
+            "m": 8, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1336608000000, 
+            "human": "2012-May-10", 
+            "m": 5, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "fbmkqjhtgfk6pdohu37v", 
+            "height": 412, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fbmkqjhtgfk6pdohu37v.jpg", 
+            "width": 340
+        }, 
+        {
+            "cloudinary_id": "i6iaptzzt14v3n0ssdix", 
+            "height": 412, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i6iaptzzt14v3n0ssdix.jpg", 
+            "width": 340
+        }, 
+        {
+            "cloudinary_id": "dpr6b4275igvjtc3oktz", 
+            "height": 412, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dpr6b4275igvjtc3oktz.jpg", 
+            "width": 340
+        }, 
+        {
+            "cloudinary_id": "jeilhom2cccxzlh9cwu0", 
+            "height": 412, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jeilhom2cccxzlh9cwu0.jpg", 
+            "width": 340
+        }, 
+        {
+            "cloudinary_id": "bzkem64n7cnhdluo9uvq", 
+            "height": 412, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bzkem64n7cnhdluo9uvq.jpg", 
+            "width": 340
+        }
+    ], 
+    "slug": "sudoku-by-nikoli", 
+    "summary": "50 Sudoku questions are collected. Sudoku is the most famous puzzle in the world.", 
+    "updated_at": 1518012522663, 
+    "url": "https://www.igdb.com/games/sudoku-by-nikoli"
+}

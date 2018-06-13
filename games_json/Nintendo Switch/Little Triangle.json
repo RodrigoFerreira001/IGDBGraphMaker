@@ -1,0 +1,192 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "xo5uxrpxxtxt74zs9kmr", 
+        "height": 225, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xo5uxrpxxtxt74zs9kmr.jpg", 
+        "width": 254
+    }, 
+    "created_at": 1495372924338, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "575050"
+    }, 
+    "first_release_date": 1484870400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        55752, 
+        25311, 
+        25646, 
+        55289, 
+        47823, 
+        25300, 
+        37022, 
+        54999, 
+        34919, 
+        51485
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 29985, 
+    "keywords": [
+        1059, 
+        3461, 
+        4386, 
+        4484, 
+        4777, 
+        4790, 
+        4890, 
+        16829, 
+        16833, 
+        16834, 
+        16835, 
+        16840
+    ], 
+    "name": "Little Triangle", 
+    "platforms": [
+        6, 
+        14, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "pulse_count": 2, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1517961600000, 
+            "human": "2018-Feb-07", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 130, 
+            "region": 1
+        }, 
+        {
+            "category": 0, 
+            "date": 1519862400000, 
+            "human": "2018-Mar-01", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1519862400000, 
+            "human": "2018-Mar-01", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 5, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1484870400000, 
+            "human": "2017-Jan-20", 
+            "m": 1, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1484870400000, 
+            "human": "2017-Jan-20", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "aj6gafrdldelex387vfj", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aj6gafrdldelex387vfj.jpg", 
+            "width": 1366
+        }, 
+        {
+            "cloudinary_id": "ydsrfey0t4gfpxc72cu9", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ydsrfey0t4gfpxc72cu9.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qu0yn9y8u3llhmkmvsys", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qu0yn9y8u3llhmkmvsys.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ua56iyfcshm0xvykoveb", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ua56iyfcshm0xvykoveb.jpg", 
+            "width": 1366
+        }, 
+        {
+            "cloudinary_id": "v9hx1nqpocdspnjtw1oa", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v9hx1nqpocdspnjtw1oa.jpg", 
+            "width": 1366
+        }
+    ], 
+    "slug": "little-triangle", 
+    "status": 4, 
+    "summary": "The game targets to be one of the best hardcore platformers ever. If you are worried that a good hardcore game will take you too long to finish, you can try the \"casual\" mode in Little Triangle where you have some additional lives. With the same level design as the hardcore mode, you will still find the fun in the challenges with much less pressure. If you only love highly challenging hardcore platformers but cannot find new ones, please check the \"hardcore\" mode of Little Triangle and the difficult level is just right for you.", 
+    "tags": [
+        1, 
+        268435487, 
+        268435488, 
+        536871971, 
+        536874373, 
+        536875298, 
+        536875396, 
+        536875689, 
+        536875702, 
+        536875802, 
+        536887741, 
+        536887745, 
+        536887746, 
+        536887747, 
+        536887752, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1522068747136, 
+    "url": "https://www.igdb.com/games/little-triangle", 
+    "websites": [
+        {
+            "category": 5, 
+            "url": "https://twitter.com/_LittleTriangle"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/LittleTriangleGame"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.littletrianglegame.com/"
+        }
+    ]
+}

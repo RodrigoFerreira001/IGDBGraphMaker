@@ -1,0 +1,414 @@
+{
+    "aggregated_rating": 67.9166666666667, 
+    "aggregated_rating_count": 13, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Sniper Elite 3"
+        }
+    ], 
+    "category": 0, 
+    "collection": 559, 
+    "cover": {
+        "cloudinary_id": "sjplc7gvquaqq6cbsjgf", 
+        "height": 1500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sjplc7gvquaqq6cbsjgf.jpg", 
+        "width": 1063
+    }, 
+    "created_at": 1419780908023, 
+    "developers": [
+        318
+    ], 
+    "dlcs": [
+        10876, 
+        10875, 
+        10346, 
+        10874
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "This is a third-person shooter in which players assume the role of a US Army sniper during World War II. From first- and third-person perspectives, players use machine guns, scoped rifles, trip mines, and grenades to kill enemy soldiers and complete mission objectives. Players employ stealth tactics to dispatch enemies from various ranges (e.g., crouching behind rubble to take a shot; sneaking up and stabbing enemies). Firefights are highlighted by screams of pain, realistic gunfire, explosions, and large splashes of blood. Performing accurate shots sometimes triggers a \u201ckill cam,\u201d which follows the bullet in slow motion to its intended target. These sequences depict X-ray views of enemies' bones, ligaments, and organs shattering or bursting apart. The word \u201csh*t\u201d can be heard in the dialogue."
+    }, 
+    "external": {
+        "steam": "238090"
+    }, 
+    "first_release_date": 1403568000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        6732, 
+        3078, 
+        11423, 
+        7350, 
+        27421, 
+        3025, 
+        28204, 
+        7360, 
+        7323, 
+        36813
+    ], 
+    "genres": [
+        5, 
+        13, 
+        24, 
+        31
+    ], 
+    "id": 8366, 
+    "keywords": [
+        19, 
+        124, 
+        276, 
+        594, 
+        1025, 
+        1107, 
+        1148, 
+        1158, 
+        1219, 
+        1293, 
+        1345, 
+        1494, 
+        2071, 
+        2141, 
+        3831, 
+        3988, 
+        4004, 
+        4134, 
+        4135, 
+        4150, 
+        4151, 
+        4169, 
+        4225, 
+        4484, 
+        4525, 
+        4543, 
+        4579, 
+        4580, 
+        4614, 
+        4681, 
+        4698, 
+        4711, 
+        4783, 
+        4869, 
+        4896, 
+        4901, 
+        4904, 
+        5195, 
+        5304, 
+        5327, 
+        5349, 
+        5909, 
+        5987, 
+        5999, 
+        6197, 
+        6214, 
+        6240, 
+        6254, 
+        6327, 
+        6373, 
+        6737, 
+        6739, 
+        7053, 
+        7091, 
+        7113, 
+        7354, 
+        7397, 
+        7498, 
+        7499, 
+        7500
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Sniper Elite III", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence - \r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        445, 
+        318
+    ], 
+    "pulse_count": 1, 
+    "rating": 70.8909371638255, 
+    "rating_count": 34, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403740800000, 
+            "human": "2014-Jun-26", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403827200000, 
+            "human": "2014-Jun-27", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403827200000, 
+            "human": "2014-Jun-27", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403827200000, 
+            "human": "2014-Jun-27", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403827200000, 
+            "human": "2014-Jun-27", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403827200000, 
+            "human": "2014-Jun-27", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403827200000, 
+            "human": "2014-Jun-27", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1404172800000, 
+            "human": "2014-Jul-01", 
+            "m": 7, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1404172800000, 
+            "human": "2014-Jul-01", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ptureujysqm9s55rnzvr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ptureujysqm9s55rnzvr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "m82bznmythcjm6ka2kic", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m82bznmythcjm6ka2kic.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dxmmt1owbznhb16crrgz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dxmmt1owbznhb16crrgz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "p90jqxaiystxsklzuqra", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p90jqxaiystxsklzuqra.jpg", 
+            "width": 1822
+        }, 
+        {
+            "cloudinary_id": "e7mglih4ucsrfhnkgb2b", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e7mglih4ucsrfhnkgb2b.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "sniper-elite-iii", 
+    "summary": "Observe. Plan. Execute. Adapt. The latest chapter in the award-winning series, SNIPER ELITE 3 takes players to the unforgiving yet exotic terrain of North Africa in a savage conflict against Germany\u2019s infamous Afrika Korps. \n \nStalk your targets through the twisting canyons, lush oases and ancient cities of the Western Desert in the deadly rush to sabotage a Nazi super-weapons programme that could end Allied resistance for good. \n \nUse stealth, planning and execution to hunt your targets \u2013 whether human or machine. From signature long distance kills, to melee takedowns, distractions and explosive traps, you are as deadly up close as you are from afar. \n \nIt must end here. You are the turning point. Because one bullet can change history...", 
+    "tags": [
+        1, 
+        22, 
+        23, 
+        39, 
+        268435461, 
+        268435469, 
+        268435480, 
+        268435487, 
+        536870931, 
+        536871036, 
+        536871188, 
+        536871506, 
+        536871937, 
+        536872019, 
+        536872060, 
+        536872070, 
+        536872131, 
+        536872205, 
+        536872257, 
+        536872406, 
+        536872983, 
+        536873053, 
+        536874743, 
+        536874900, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875062, 
+        536875063, 
+        536875081, 
+        536875137, 
+        536875396, 
+        536875437, 
+        536875455, 
+        536875491, 
+        536875492, 
+        536875526, 
+        536875593, 
+        536875610, 
+        536875623, 
+        536875695, 
+        536875781, 
+        536875808, 
+        536875813, 
+        536875816, 
+        536876107, 
+        536876216, 
+        536876239, 
+        536876261, 
+        536876821, 
+        536876899, 
+        536876911, 
+        536877109, 
+        536877126, 
+        536877152, 
+        536877166, 
+        536877239, 
+        536877285, 
+        536877649, 
+        536877651, 
+        536877965, 
+        536878003, 
+        536878025, 
+        536878266, 
+        536878309, 
+        536878410, 
+        536878411, 
+        536878412, 
+        1073741825, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        22, 
+        23, 
+        39
+    ], 
+    "total_rating": 69.4038019152461, 
+    "total_rating_count": 47, 
+    "updated_at": 1526545017718, 
+    "url": "https://www.igdb.com/games/sniper-elite-iii", 
+    "videos": [
+        {
+            "name": "Teaser", 
+            "video_id": "PBb6fHhxtAc"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "nsHcLZGQ81s"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "UgTLk8duMNU"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/238090"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/sniperelite"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://facebook.com/sniperelitegame"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Sniper_Elite_III"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.rebellion.co.uk/games/sniper-elite-3"
+        }
+    ]
+}

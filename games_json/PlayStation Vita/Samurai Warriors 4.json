@@ -1,0 +1,285 @@
+{
+    "aggregated_rating": 80.8333333333333, 
+    "aggregated_rating_count": 8, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u6226\u56fd\u7121\u53cc4"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "qleb6wznabvopu0eykbg", 
+            "height": 1040, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qleb6wznabvopu0eykbg.jpg", 
+            "width": 1260
+        }
+    ], 
+    "category": 0, 
+    "collection": 763, 
+    "cover": {
+        "cloudinary_id": "ydphqv117g0skbfiweix", 
+        "height": 747, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ydphqv117g0skbfiweix.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1402160095714, 
+    "developers": [
+        1394
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is an action game in which players assume the role of an officer who must fend off hordes of enemy soldiers to complete mission objectives. Players use swords, staffs, spears, blades, and guns to kill enemies in various battlefield environments. Combat can become frenetic at times; battles are highlighted by sword-clanging sounds and cries of pain as enemies are flung around the battlefield when struck. Some female characters are depicted in revealing outfits, and a handful of special moves focus on their cleavage or buttocks. During the course of the game, wine and celebratory drinks are briefly referenced in the dialogue (e.g., \u201cI can hold my drink, so you've got a long night ahead!\u201d);one sequence depicts a character drinking alcohol. Another sequence depicts a man smoking a pipe."
+    }, 
+    "first_release_date": 1395273600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        28380, 
+        37088, 
+        16468, 
+        26769, 
+        12571, 
+        6985, 
+        76888, 
+        51464, 
+        47823, 
+        26391
+    ], 
+    "genres": [
+        25
+    ], 
+    "id": 7290, 
+    "keywords": [
+        164, 
+        253, 
+        1531, 
+        1532, 
+        2071, 
+        4155, 
+        5315, 
+        5328, 
+        5574, 
+        6389, 
+        8888
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Samurai Warriors 4", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence\r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        45, 
+        46, 
+        9, 
+        48
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        858
+    ], 
+    "pulse_count": 1, 
+    "rating": 74.69995488043321, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1414108800000, 
+            "human": "2014-Oct-24", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1413849600000, 
+            "human": "2014-Oct-21", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1395273600000, 
+            "human": "2014-Mar-20", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1413849600000, 
+            "human": "2014-Oct-21", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414108800000, 
+            "human": "2014-Oct-24", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1395273600000, 
+            "human": "2014-Mar-20", 
+            "m": 3, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1413849600000, 
+            "human": "2014-Oct-21", 
+            "m": 10, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414108800000, 
+            "human": "2014-Oct-24", 
+            "m": 10, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1409788800000, 
+            "human": "2014-Sep-04", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1413849600000, 
+            "human": "2014-Oct-21", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414108800000, 
+            "human": "2014-Oct-24", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hnhfix5eejyzlwgagto7", 
+            "height": 394, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hnhfix5eejyzlwgagto7.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "wi3fcappsukovod7akco", 
+            "height": 394, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wi3fcappsukovod7akco.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "vlzdzczhksdqhbdbsdlr", 
+            "height": 400, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vlzdzczhksdqhbdbsdlr.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "nnjtrul1wreshxngdn6j", 
+            "height": 394, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nnjtrul1wreshxngdn6j.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "ap2ns7t4ubytxql3gxxn", 
+            "height": 394, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ap2ns7t4ubytxql3gxxn.jpg", 
+            "width": 700
+        }
+    ], 
+    "slug": "samurai-warriors-4", 
+    "summary": "Samurai Warriors 4 is a hack and slash game, and sequel to Samurai Warriors 3. The game was made to celebrate the tenth anniversary of the series. The game features a character-switching feature, similar to the spin-off, Samurai Warriors: Chronicles, with which players can take two characters into battles simultaneously, and freely switch between the two. Two new moves, \"Hyper Attacks\" and \"Rage Mode\" are featured in this game: Hyper Attacks is a secondary moveset available to all characters that allows the player to sweep through and clear out crowd of enemies with a dashing animation, although it is useless against enemy officers, as they will either deflect it or are otherwise immune against it. Rage Mode renders the player invincible for a period of time, and also enhances the player's attacks as well as empowering their Muso attack by using the Spirit Gauge. Duels are featured, which occur when player-controlled characters meet with enemy officers under specific conditions.", 
+    "tags": [
+        1, 
+        17, 
+        22, 
+        268435481, 
+        536871076, 
+        536871165, 
+        536872443, 
+        536872444, 
+        536872983, 
+        536875067, 
+        536876227, 
+        536876240, 
+        536876486, 
+        536877301, 
+        536879800, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        22
+    ], 
+    "total_rating": 77.76664410688326, 
+    "total_rating_count": 11, 
+    "updated_at": 1525446238015, 
+    "url": "https://www.igdb.com/games/samurai-warriors-4", 
+    "videos": [
+        {
+            "name": "Story Trailer", 
+            "video_id": "pQyoQj0eoZo"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "QDPoaDjT2DM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.samuraiwarriors4.eu/"
+        }
+    ]
+}

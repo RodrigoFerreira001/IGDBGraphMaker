@@ -1,0 +1,146 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 4, 
+    "category": 1, 
+    "collection": 135, 
+    "cover": {
+        "cloudinary_id": "vxqpj9jmx8jrkamcvf6m", 
+        "height": 1024, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vxqpj9jmx8jrkamcvf6m.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1491340145732, 
+    "developers": [
+        4223
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1474934400000, 
+    "game": 8260, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        236, 
+        36792, 
+        23719, 
+        26163, 
+        1221, 
+        14605, 
+        37088, 
+        26848, 
+        47823, 
+        43130
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 28064, 
+    "name": "King's Quest - Chapter 4: Snow Place Like Home", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        24
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1474934400000, 
+            "human": "2016-Sep-27", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1474934400000, 
+            "human": "2016-Sep-27", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1474934400000, 
+            "human": "2016-Sep-27", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1474934400000, 
+            "human": "2016-Sep-27", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1474934400000, 
+            "human": "2016-Sep-27", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "slug": "kings-quest-chapter-4-snow-place-like-home", 
+    "summary": "In his latest adventure, King Graham recounts the time he had to rescue Prince Alexander from Queen Icebella's Frozen Castle.", 
+    "tags": [
+        17, 
+        268435487
+    ], 
+    "themes": [
+        17
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 4, 
+    "updated_at": 1491513415482, 
+    "url": "https://www.igdb.com/games/kings-quest-chapter-4-snow-place-like-home", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "eXBgsmByjA4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/373490"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://gaming.youtube.com/game/UC9E3raw6cUQ_t0mB-DvoU_A"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://kingsquest.wikia.com/wiki/Chapter_IV:_Snow_Place_Like_Home"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.sierra.com/kingsquest"
+        }
+    ]
+}

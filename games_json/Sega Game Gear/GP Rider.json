@@ -1,0 +1,54 @@
+{
+    "category": 0, 
+    "created_at": 1498464929709, 
+    "first_release_date": 644284800000, 
+    "games": [
+        23314, 
+        18699, 
+        76259, 
+        103018, 
+        101535, 
+        101205, 
+        101142, 
+        101087, 
+        100902, 
+        100844
+    ], 
+    "genres": [
+        10
+    ], 
+    "id": 39904, 
+    "name": "GP Rider", 
+    "platforms": [
+        52, 
+        35
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 725760000000, 
+            "human": "1992", 
+            "m": 12, 
+            "platform": 35, 
+            "region": 1, 
+            "y": 1992
+        }, 
+        {
+            "category": 0, 
+            "date": 644284800000, 
+            "human": "1990-Jun-02", 
+            "m": 6, 
+            "platform": 52, 
+            "region": 8, 
+            "y": 1990
+        }
+    ], 
+    "slug": "gp-rider", 
+    "summary": "A motocycle racing game from Sega.", 
+    "tags": [
+        268435466
+    ], 
+    "updated_at": 1511769310224, 
+    "url": "https://www.igdb.com/games/gp-rider"
+}

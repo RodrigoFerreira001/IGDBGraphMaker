@@ -1,0 +1,90 @@
+{
+    "aggregated_rating": 68.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "j0fsajjzjxjh36tfmymj", 
+        "height": 1762, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/j0fsajjzjxjh36tfmymj.jpg", 
+        "width": 1527
+    }, 
+    "created_at": 1469307314180, 
+    "first_release_date": 1167264000000, 
+    "games": [
+        90688, 
+        96090, 
+        23314, 
+        81145, 
+        96476, 
+        18699, 
+        103018, 
+        101172, 
+        102122, 
+        75694
+    ], 
+    "genres": [
+        10, 
+        14
+    ], 
+    "id": 21397, 
+    "name": "Formula One Championship Edition", 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1167264000000, 
+            "human": "2006-Dec-28", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1174608000000, 
+            "human": "2007-Mar-23", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1173830400000, 
+            "human": "2007-Mar-14", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1174953600000, 
+            "human": "2007-Mar-27", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xmthqcsz70kjn4tuewsm", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xmthqcsz70kjn4tuewsm.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "formula-one-championship-edition", 
+    "tags": [
+        268435466, 
+        268435470
+    ], 
+    "total_rating": 68.3333333333333, 
+    "total_rating_count": 3, 
+    "updated_at": 1528888487898, 
+    "url": "https://www.igdb.com/games/formula-one-championship-edition"
+}

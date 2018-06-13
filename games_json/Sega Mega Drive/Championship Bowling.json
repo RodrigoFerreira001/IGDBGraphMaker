@@ -1,0 +1,74 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ojggsa4qy92fc4bubnbl", 
+        "height": 1145, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ojggsa4qy92fc4bubnbl.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1390774697191, 
+    "first_release_date": 725846400000, 
+    "games": [
+        79412, 
+        41330, 
+        37110, 
+        21802, 
+        71864, 
+        72431, 
+        57643, 
+        41661, 
+        32945, 
+        23782
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 4408, 
+    "keywords": [
+        299, 
+        4443, 
+        4667
+    ], 
+    "name": "Championship Bowling", 
+    "platforms": [
+        29
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 729648000000, 
+            "human": "1993-Feb-14", 
+            "m": 2, 
+            "platform": 29, 
+            "region": 2, 
+            "y": 1993
+        }, 
+        {
+            "category": 1, 
+            "date": 725846400000, 
+            "human": "1993-Jan", 
+            "m": 1, 
+            "platform": 29, 
+            "y": 1993
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "t9mxk5cseggvvhat4di1", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t9mxk5cseggvvhat4di1.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "championship-bowling", 
+    "summary": "The object of the game is the same as a regular game of bowling; score the highest to win. The game utilizes factors such as left or right-handedness, spin, power and weight of the ball which can affect the outcome of a throw.", 
+    "tags": [
+        268435470, 
+        536871211, 
+        536875355, 
+        536875579
+    ], 
+    "updated_at": 1517270755024, 
+    "url": "https://www.igdb.com/games/championship-bowling"
+}

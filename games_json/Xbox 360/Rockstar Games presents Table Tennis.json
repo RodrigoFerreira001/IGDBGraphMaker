@@ -1,0 +1,198 @@
+{
+    "aggregated_rating": 82.5, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Rockstar Table Tennis"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "h324ebzffz3tsvgvplex", 
+        "height": 776, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/h324ebzffz3tsvgvplex.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1373229271343, 
+    "developers": [
+        364
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1148342400000, 
+    "game_engines": [
+        26
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        54662, 
+        18623, 
+        22425, 
+        44242, 
+        22470, 
+        29173, 
+        31558, 
+        26145, 
+        54524, 
+        19516
+    ], 
+    "genres": [
+        13, 
+        14
+    ], 
+    "id": 2541, 
+    "keywords": [
+        374, 
+        1148, 
+        1166, 
+        1293, 
+        1440, 
+        1712, 
+        1761, 
+        2803, 
+        4438, 
+        4544, 
+        4625, 
+        4890, 
+        5029, 
+        5783, 
+        5791, 
+        5850, 
+        6036, 
+        6087, 
+        8820, 
+        9529, 
+        11209, 
+        11634, 
+        13544
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Rockstar Games presents Table Tennis", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        12, 
+        5
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        29, 
+        139
+    ], 
+    "rating": 89.88798470103751, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1192579200000, 
+            "human": "2007-Oct-17", 
+            "m": 10, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1148342400000, 
+            "human": "2006-May-23", 
+            "m": 5, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "m4feifsnceslqbtbk6jk", 
+            "height": 449, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m4feifsnceslqbtbk6jk.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "lc7h70yzqbx0asvblg5p", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lc7h70yzqbx0asvblg5p.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zg61ygffe6is8lvtvmsp", 
+            "height": 338, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zg61ygffe6is8lvtvmsp.jpg", 
+            "width": 450
+        }
+    ], 
+    "slug": "rockstar-games-presents-table-tennis", 
+    "summary": "A ping pong game from the creators of Grand Theft Auto and Manhunt.", 
+    "tags": [
+        32, 
+        268435469, 
+        268435470, 
+        536871286, 
+        536872060, 
+        536872078, 
+        536872205, 
+        536872352, 
+        536872624, 
+        536872673, 
+        536873715, 
+        536875350, 
+        536875456, 
+        536875537, 
+        536875802, 
+        536875941, 
+        536876695, 
+        536876703, 
+        536876762, 
+        536876948, 
+        536876999, 
+        536879732, 
+        536880441, 
+        536882121, 
+        536882546, 
+        536884456, 
+        1073741826
+    ], 
+    "themes": [
+        32
+    ], 
+    "total_rating": 86.19399235051876, 
+    "total_rating_count": 9, 
+    "updated_at": 1525456003632, 
+    "url": "https://www.igdb.com/games/rockstar-games-presents-table-tennis", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "kL5UQgULz_U"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.rockstargames.com/tabletennis/"
+        }
+    ]
+}

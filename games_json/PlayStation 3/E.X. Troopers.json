@@ -1,0 +1,61 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30a8\u30af\u30b9\u30c8\u30eb\u30fc\u30d1\u30fc\u30ba"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jdmd3yubjfealaqps9bn", 
+        "height": 1082, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jdmd3yubjfealaqps9bn.jpg", 
+        "width": 1022
+    }, 
+    "created_at": 1481407167128, 
+    "first_release_date": 1353542400000, 
+    "id": 26384, 
+    "name": "E.X. Troopers", 
+    "platforms": [
+        9, 
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        37
+    ], 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1353542400000, 
+            "human": "2012-Nov-22", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1353542400000, 
+            "human": "2012-Nov-22", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2012
+        }
+    ], 
+    "slug": "ex-troopers", 
+    "summary": "An offshoot of the Lost Planet franchise, EX Troopers is an action game focused as much on character dynamics in a pilot school as it is on alien-blasting action.", 
+    "total_rating": 90.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1518057959530, 
+    "url": "https://www.igdb.com/games/ex-troopers", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.capcom.co.jp/ext/"
+        }
+    ]
+}

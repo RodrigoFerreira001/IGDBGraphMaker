@@ -1,0 +1,65 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "g7bqdtvsuynzwisx06hk", 
+        "height": 771, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/g7bqdtvsuynzwisx06hk.jpg", 
+        "width": 540
+    }, 
+    "created_at": 1463603788096, 
+    "developers": [
+        907, 
+        1208
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1037059200000, 
+    "games": [
+        14605, 
+        51485, 
+        26848, 
+        27239, 
+        1124, 
+        43130, 
+        17469, 
+        23175, 
+        28277, 
+        19289
+    ], 
+    "genres": [
+        8, 
+        31
+    ], 
+    "id": 19248, 
+    "name": "Treasure Planet", 
+    "platforms": [
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        95
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1037059200000, 
+            "human": "2002-Nov-12", 
+            "m": 11, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2002
+        }
+    ], 
+    "slug": "treasure-planet", 
+    "tags": [
+        268435464, 
+        268435487
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1517270589007, 
+    "url": "https://www.igdb.com/games/treasure-planet"
+}

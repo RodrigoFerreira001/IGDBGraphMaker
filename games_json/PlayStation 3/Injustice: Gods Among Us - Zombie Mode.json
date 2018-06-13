@@ -1,0 +1,41 @@
+{
+    "category": 1, 
+    "cover": {
+        "cloudinary_id": "bczpnxnqasqywxkcjng7", 
+        "height": 835, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bczpnxnqasqywxkcjng7.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1509982935815, 
+    "first_release_date": 1371513600000, 
+    "game": 1918, 
+    "id": 75455, 
+    "name": "Injustice: Gods Among Us - Zombie Mode", 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "popularity": 2.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1371513600000, 
+            "human": "2013-Jun-18", 
+            "m": 6, 
+            "platform": 9, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1371513600000, 
+            "human": "2013-Jun-18", 
+            "m": 6, 
+            "platform": 12, 
+            "y": 2013
+        }
+    ], 
+    "slug": "injustice-gods-among-us-zombie-mode", 
+    "summary": "Turn every character in the game into the undead with Zombie Mode!", 
+    "updated_at": 1509991840307, 
+    "url": "https://www.igdb.com/games/injustice-gods-among-us-zombie-mode"
+}

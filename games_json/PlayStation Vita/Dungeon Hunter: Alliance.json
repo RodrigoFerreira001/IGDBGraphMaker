@@ -1,0 +1,118 @@
+{
+    "aggregated_rating": 50.6666666666667, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "nzb0cs3ajlpag3ceq8ws", 
+        "height": 655, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nzb0cs3ajlpag3ceq8ws.jpg", 
+        "width": 781
+    }, 
+    "created_at": 1469285506623, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1302048000000, 
+    "id": 21140, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 46, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dungeon Hunter: Alliance", 
+    "platforms": [
+        46, 
+        9
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        61
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1315872000000, 
+            "human": "2011-Sep-13", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1302048000000, 
+            "human": "2011-Apr-06", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1302566400000, 
+            "human": "2011-Apr-12", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1331683200000, 
+            "human": "2012-Mar-14", 
+            "m": 3, 
+            "platform": 46, 
+            "region": 8, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pcaqry4hamykviz9e7hl", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pcaqry4hamykviz9e7hl.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rrdpxlxy8xcg3s0pyik6", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rrdpxlxy8xcg3s0pyik6.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zfc5eghvou3op3pq2qsh", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zfc5eghvou3op3pq2qsh.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "vyxidyb6xlzhrmm77y3c", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vyxidyb6xlzhrmm77y3c.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jakqtsaosvajsquzlrjk", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jakqtsaosvajsquzlrjk.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "dungeon-hunter-alliance", 
+    "summary": "Dungeon Hunter: Alliance is a hack and slash action role-playing video game developed and publishd by Gameloft in 2011. The game is a sequel to the 2009 iPhone game Dungeon Hunter, with the addition of a multiplayer mode and support for the PlayStation Move controller.[1]", 
+    "total_rating": 50.6666666666667, 
+    "total_rating_count": 3, 
+    "updated_at": 1524619798457, 
+    "url": "https://www.igdb.com/games/dungeon-hunter-alliance"
+}

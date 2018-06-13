@@ -1,0 +1,176 @@
+{
+    "aggregated_rating": 72.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "rtmjugwvztdrm3mhtjvw", 
+        "height": 1024, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rtmjugwvztdrm3mhtjvw.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1455282074060, 
+    "developers": [
+        2852
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "external": {
+        "steam": "322950"
+    }, 
+    "first_release_date": 1435968000000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        32283, 
+        18623, 
+        29173, 
+        25311, 
+        21642, 
+        55308
+    ], 
+    "genres": [
+        13, 
+        14, 
+        15, 
+        16, 
+        32
+    ], 
+    "id": 17840, 
+    "keywords": [
+        1158, 
+        1333, 
+        3171
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 8, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Pure Hold'em", 
+    "platforms": [
+        45, 
+        6, 
+        49
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        4380
+    ], 
+    "pulse_count": 1, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1440115200000, 
+            "human": "2015-Aug-21", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439856000000, 
+            "human": "2015-Aug-18", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439856000000, 
+            "human": "2015-Aug-18", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1435968000000, 
+            "human": "2015-Jul-04", 
+            "m": 7, 
+            "platform": 6, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "svebhuyxy9jsmlxiif4q", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/svebhuyxy9jsmlxiif4q.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "iowmk0ey7gxelebjwdkc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iowmk0ey7gxelebjwdkc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "siaeoqbdgihn5j2trfti", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/siaeoqbdgihn5j2trfti.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "oi4wvlytoqddfukrh9dh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oi4wvlytoqddfukrh9dh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gepk1ardgjmckjylfh80", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gepk1ardgjmckjylfh80.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "pure-holdem", 
+    "summary": "Step onto the casino floor, where playing big could mean winning big. Split across 6 different tables, each requiring more skill and determination than the last, Pure Hold\u2019em brings all the excitement of the high stakes casino to the convenience of your couch.", 
+    "tags": [
+        268435469, 
+        268435470, 
+        268435471, 
+        268435472, 
+        268435488, 
+        536872070, 
+        536872245, 
+        536874083
+    ], 
+    "total_rating": 66.25, 
+    "total_rating_count": 2, 
+    "updated_at": 1528356848113, 
+    "url": "https://www.igdb.com/games/pure-holdem", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.ripstone.com/pure-holdem.php"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/322950"
+        }
+    ]
+}

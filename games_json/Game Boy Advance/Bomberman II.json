@@ -1,0 +1,263 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Bomberman 2"
+        }, 
+        {
+            "comment": "European Title", 
+            "name": "Dynablaster"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30dc\u30f3\u30d0\u30fc\u30de\u30f3II"
+        }
+    ], 
+    "category": 0, 
+    "collection": 549, 
+    "cover": {
+        "cloudinary_id": "mqh2juyourxck3x82oem", 
+        "height": 303, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mqh2juyourxck3x82oem.jpg", 
+        "width": 220
+    }, 
+    "created_at": 1389023134615, 
+    "developers": [
+        864
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 678067200000, 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        25222, 
+        25646, 
+        3445, 
+        26223, 
+        60044, 
+        28856, 
+        14047, 
+        37094, 
+        28380, 
+        29525
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 3447, 
+    "keywords": [
+        126, 
+        501, 
+        687, 
+        960, 
+        1600, 
+        2071, 
+        2875, 
+        3079, 
+        3831, 
+        4164, 
+        4350, 
+        5136
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinemax": 3, 
+            "onlinecoop": false, 
+            "platform": 99, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Bomberman II", 
+    "platforms": [
+        24, 
+        20, 
+        18
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1277, 
+        864
+    ], 
+    "rating": 81.9281024373597, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1228348800000, 
+            "human": "2008-Dec-04", 
+            "m": 12, 
+            "platform": 20, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1234483200000, 
+            "human": "2009-Feb-13", 
+            "m": 2, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1135209600000, 
+            "human": "2005-Dec-22", 
+            "m": 12, 
+            "platform": 24, 
+            "region": 5, 
+            "y": 2005
+        }, 
+        {
+            "category": 2, 
+            "date": 757296000000, 
+            "human": "1993", 
+            "m": 12, 
+            "platform": 18, 
+            "region": 2, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 678067200000, 
+            "human": "1991-Jun-28", 
+            "m": 6, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1991
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "m69pivlkcrwk7uwt4hlm", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m69pivlkcrwk7uwt4hlm.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "kdms15gtbklniwiq8o9g", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kdms15gtbklniwiq8o9g.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "cppms3dfk68bgwgom3zt", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cppms3dfk68bgwgom3zt.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "wgu4ysdkhifywk2b8vah", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wgu4ysdkhifywk2b8vah.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ldbm7iaejbr0xfkb2nxb", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ldbm7iaejbr0xfkb2nxb.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "atfskjd93rlh1pjatgq8", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/atfskjd93rlh1pjatgq8.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "esnle5eyz2q1e31xxtxf", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/esnle5eyz2q1e31xxtxf.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "uf9fuufdcvk15jgtpij8", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uf9fuufdcvk15jgtpij8.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "eibnyaemois9o1dcaewi", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eibnyaemois9o1dcaewi.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "vyh4zkjibugercrmlje4", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vyh4zkjibugercrmlje4.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "sv0yngwtts1l9ejnz5bx", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sv0yngwtts1l9ejnz5bx.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ibl7s4i8ljbpmbnsh9pf", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ibl7s4i8ljbpmbnsh9pf.jpg", 
+            "width": 512
+        }
+    ], 
+    "slug": "bomberman-ii", 
+    "storyline": "The player controls White Bomberman, who is framed for the terrible crimes committed by Black Bomberman. After being accused of robbing a bank, White Bomberman is thrown in jail. The player must navigate White Bomberman through a series of puzzles to escape his prison cell and bring Black Bomberman to justice.", 
+    "summary": "Bomberman II follows the popular NES game Bomberman, incorporating a number of new features to the series. The game maintained the classic Bomberman game-type, requiring the player to navigate a maze of blocks using bombs to make a path. It added a two-player and three-player mode, and had a more developed storyline. The game was developed by Hudson Soft and released on the Family Computer and the NES. It was marketed as Dynablaster in Europe.", 
+    "tags": [
+        1, 
+        268435465, 
+        536871038, 
+        536871413, 
+        536871599, 
+        536871872, 
+        536872512, 
+        536872983, 
+        536873787, 
+        536873991, 
+        536874743, 
+        536875076, 
+        536875262, 
+        536876048, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.96405121867986, 
+    "total_rating_count": 9, 
+    "updated_at": 1518050433248, 
+    "url": "https://www.igdb.com/games/bomberman-ii", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "7K6Ktv6G_j0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Bomberman_II"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://bomberman.wikia.com/wiki/Bomberman_II"
+        }
+    ]
+}

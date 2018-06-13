@@ -1,0 +1,71 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "pq1l84g28rnimi24oadc", 
+        "height": 1600, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pq1l84g28rnimi24oadc.jpg", 
+        "width": 1600
+    }, 
+    "created_at": 1517392359008, 
+    "first_release_date": 1394668800000, 
+    "id": 85009, 
+    "name": "Bubble Pop World", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.0, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1396483200000, 
+            "human": "2014-Apr-03", 
+            "m": 4, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1394668800000, 
+            "human": "2014-Mar-13", 
+            "m": 3, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "duebuesunxmrhdgo5glo", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/duebuesunxmrhdgo5glo.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "ytvtuxaer4ya7fuhdyhd", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ytvtuxaer4ya7fuhdyhd.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "nmfcksvyavn4j8ocgtmd", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nmfcksvyavn4j8ocgtmd.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "kaitcscq5l6ecs5gorof", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kaitcscq5l6ecs5gorof.jpg", 
+            "width": 400
+        }
+    ], 
+    "slug": "bubble-pop-world", 
+    "summary": "Bubble Pop World is a 3D match-three game in which you pop bubbles with the same colors.", 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1518051238557, 
+    "url": "https://www.igdb.com/games/bubble-pop-world"
+}

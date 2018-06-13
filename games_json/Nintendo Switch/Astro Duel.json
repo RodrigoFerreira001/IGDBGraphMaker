@@ -1,0 +1,139 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "xj3tqibyyh2m76w7obcj", 
+        "height": 720, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xj3tqibyyh2m76w7obcj.jpg", 
+        "width": 1280
+    }, 
+    "created_at": 1495758419163, 
+    "external": {
+        "steam": "429690"
+    }, 
+    "first_release_date": 1456099200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        34919, 
+        40524, 
+        16468, 
+        68324, 
+        37022, 
+        76438, 
+        55289, 
+        25640, 
+        32902, 
+        25646
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 33856, 
+    "keywords": [
+        166
+    ], 
+    "name": "Astro Duel", 
+    "platforms": [
+        6, 
+        14, 
+        130
+    ], 
+    "popularity": 1.0, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1496102400000, 
+            "human": "2017-May-30", 
+            "m": 5, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1456099200000, 
+            "human": "2016-Feb-22", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1456099200000, 
+            "human": "2016-Feb-22", 
+            "m": 2, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1456099200000, 
+            "human": "2016-Feb-22", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "h2sms3vfom2pmakgrctj", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h2sms3vfom2pmakgrctj.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "uovc9khvgudxffajjpmn", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uovc9khvgudxffajjpmn.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ttiydy9lf6texa9vmgtx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ttiydy9lf6texa9vmgtx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "gsevreoccf40xtk0cgal", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gsevreoccf40xtk0cgal.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nr35il3oxlscs9sasiwt", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nr35il3oxlscs9sasiwt.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "astro-duel", 
+    "summary": "Astro Duel is a competitive local multiplayer party game. Rounds are quick and death is sudden. Blast your friends using asteroid-style ships. Run over their helpless bodies for good measure.", 
+    "tags": [
+        1, 
+        268435488, 
+        536871078
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523401758494, 
+    "url": "https://www.igdb.com/games/astro-duel", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://astroduel.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/429690"
+        }
+    ]
+}

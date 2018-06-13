@@ -1,0 +1,185 @@
+{
+    "aggregated_rating": 68.3333333333333, 
+    "aggregated_rating_count": 7, 
+    "artworks": [
+        {
+            "cloudinary_id": "lzwxkyuhs1w2dhbv1v7u", 
+            "height": 1582, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lzwxkyuhs1w2dhbv1v7u.jpg", 
+            "width": 2050
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "cstx2vx8rwqf4dbv9hcx", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cstx2vx8rwqf4dbv9hcx.jpg", 
+        "width": 200
+    }, 
+    "created_at": 1499353628571, 
+    "developers": [
+        6054
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "301840"
+    }, 
+    "first_release_date": 1525392000000, 
+    "game_engines": [
+        439
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        47823, 
+        16468, 
+        23733, 
+        37419, 
+        78149, 
+        26848, 
+        24426, 
+        55289, 
+        68324, 
+        27316
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "hypes": 2, 
+    "id": 44122, 
+    "keywords": [
+        296, 
+        368, 
+        1967, 
+        3326
+    ], 
+    "name": "City of Brass", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 13.33333333333333, 
+    "pulse_count": 33, 
+    "rating": 70.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1525392000000, 
+            "human": "2018-May-04", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1525392000000, 
+            "human": "2018-May-04", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1525392000000, 
+            "human": "2018-May-04", 
+            "m": 5, 
+            "platform": 6, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ozosnjsmcvtqitmnb3nk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ozosnjsmcvtqitmnb3nk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dvpus6n8qutevkpydkte", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dvpus6n8qutevkpydkte.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tj0tqpyq3qfe4zkapg2m", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tj0tqpyq3qfe4zkapg2m.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "j3dw4pyiya377heucvhb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j3dw4pyiya377heucvhb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rd9px5cajjpzotr7ebcu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rd9px5cajjpzotr7ebcu.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "city-of-brass", 
+    "summary": "Armed with scimitar and versatile whip, lash, slash, trick and trap \nyour way through the City of Brass, a first-person rogue-lite of treasure, snares and ghoulish foes.", 
+    "tags": [
+        1, 
+        17, 
+        268435487, 
+        268435488, 
+        536871208, 
+        536871280, 
+        536872879, 
+        536874238, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 69.16666666666666, 
+    "total_rating_count": 9, 
+    "updated_at": 1528894324571, 
+    "url": "https://www.igdb.com/games/city-of-brass", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "4nnN_9ftIHQ"
+        }, 
+        {
+            "name": "Gameplay Trailer", 
+            "video_id": "9fTz6W7nuZA"
+        }, 
+        {
+            "name": "Cinematic Trailer", 
+            "video_id": "KTKbilCw4ZM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/City_of_Brass_(video_game)"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/301840"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.cityofbrassgame.com/"
+        }
+    ]
+}

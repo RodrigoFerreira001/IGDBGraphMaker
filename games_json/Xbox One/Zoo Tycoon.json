@@ -1,0 +1,195 @@
+{
+    "aggregated_rating": 62.5, 
+    "aggregated_rating_count": 5, 
+    "category": 0, 
+    "collection": 1555, 
+    "cover": {
+        "cloudinary_id": "hflidb0vuxvgtd7phth1", 
+        "height": 294, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hflidb0vuxvgtd7phth1.jpg", 
+        "width": 215
+    }, 
+    "created_at": 1459357405981, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1385078400000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        29173, 
+        55590, 
+        9789, 
+        19847, 
+        55689, 
+        19934, 
+        9199, 
+        18623, 
+        19301, 
+        44076
+    ], 
+    "genres": [
+        11, 
+        13, 
+        15
+    ], 
+    "id": 18538, 
+    "keywords": [
+        379, 
+        534, 
+        994, 
+        1148, 
+        1403, 
+        1671, 
+        2314, 
+        2672, 
+        3782, 
+        4357, 
+        4525, 
+        4890, 
+        5025, 
+        5306, 
+        5348, 
+        5685, 
+        5783, 
+        6291
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Zoo Tycoon", 
+    "platforms": [
+        12, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 53.6626385261167, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1385078400000, 
+            "human": "2013-Nov-22", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385078400000, 
+            "human": "2013-Nov-22", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385078400000, 
+            "human": "2013-Nov-22", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "inqnq70w8dlir88xdvep", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/inqnq70w8dlir88xdvep.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tri6aiqxn3rbbsazlwh0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tri6aiqxn3rbbsazlwh0.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "urulyzvrylydsjfsooct", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/urulyzvrylydsjfsooct.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zczipquj9zl1hvhv9dls", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zczipquj9zl1hvhv9dls.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xqvrstqayjl8vtpqxbvd", 
+            "height": 300, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xqvrstqayjl8vtpqxbvd.jpg", 
+            "width": 966
+        }
+    ], 
+    "slug": "zoo-tycoon--1", 
+    "summary": "Zoo Tycoon is a business simulation video game developed by Frontier Developments and published by Microsoft Studios. The game was released on 22 November 2013 for Xbox One and Xbox 360.", 
+    "tags": [
+        34, 
+        35, 
+        268435467, 
+        268435469, 
+        268435471, 
+        536871291, 
+        536871446, 
+        536871906, 
+        536872060, 
+        536872315, 
+        536872583, 
+        536873226, 
+        536873584, 
+        536874694, 
+        536875269, 
+        536875437, 
+        536875802, 
+        536875937, 
+        536876218, 
+        536876260, 
+        536876597, 
+        536876695, 
+        536877203
+    ], 
+    "themes": [
+        34, 
+        35
+    ], 
+    "total_rating": 58.08131926305835, 
+    "total_rating_count": 8, 
+    "updated_at": 1517270707574, 
+    "url": "https://www.igdb.com/games/zoo-tycoon--1", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Qd5b7RYWua8"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Zoo_Tycoon_(2013_video_game)"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.xbox.com/en-GB/xbox-one/games/Zoo-Tycoon"
+        }
+    ]
+}

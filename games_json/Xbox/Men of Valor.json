@@ -1,0 +1,257 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 4, 
+    "alternative_names": [
+        {
+            "comment": "Chinese title", 
+            "name": "\u8d8a\u6218\u82f1\u8c6a"
+        }, 
+        {
+            "comment": "Working title", 
+            "name": "Men of Valor: Vietnam"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "l6anxgnv9n9dtwkfz9lk", 
+        "height": 308, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/l6anxgnv9n9dtwkfz9lk.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1396661407613, 
+    "developers": [
+        309
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "411330"
+    }, 
+    "first_release_date": 1098144000000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        28204, 
+        326, 
+        26401, 
+        17446, 
+        36594, 
+        36781, 
+        27314, 
+        1310, 
+        1316, 
+        15536
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 5913, 
+    "keywords": [
+        301, 
+        453, 
+        466, 
+        563, 
+        634, 
+        1025, 
+        1107, 
+        3831, 
+        4210, 
+        4287, 
+        4330, 
+        4345, 
+        4359, 
+        4446, 
+        4611, 
+        4613, 
+        4713, 
+        4890, 
+        5309, 
+        5483, 
+        5775, 
+        6374, 
+        6581, 
+        6599, 
+        6693, 
+        6829, 
+        7025, 
+        7621, 
+        9023, 
+        9813, 
+        10368, 
+        10602, 
+        11966, 
+        12123, 
+        12279, 
+        13110, 
+        13115
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 11, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Men of Valor", 
+    "platforms": [
+        6, 
+        11
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        147, 
+        24
+    ], 
+    "rating": 60.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1098144000000, 
+            "human": "2004-Oct-19", 
+            "m": 10, 
+            "platform": 11, 
+            "region": 2, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1099008000000, 
+            "human": "2004-Oct-29", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1099612800000, 
+            "human": "2004-Nov-05", 
+            "m": 11, 
+            "platform": 11, 
+            "region": 1, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1100217600000, 
+            "human": "2004-Nov-12", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2004
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gywneedbsuu4pes3ecce", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gywneedbsuu4pes3ecce.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pqy98flfqrie7bnmryjj", 
+            "height": 1052, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pqy98flfqrie7bnmryjj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qquwcwfijlns1vadyfyn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qquwcwfijlns1vadyfyn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "sw8vlgkfq9wxgurtgfyt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sw8vlgkfq9wxgurtgfyt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xoatdlxk72kn7s8crle5", 
+            "height": 1052, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xoatdlxk72kn7s8crle5.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "men-of-valor", 
+    "summary": "Vietnam, 1965. You are Dean Shepard, a \"cherry\" to the 'Nam with zero war experience other than standard boot camp training at Parris Island, SC. Along with your platoon, you will fight the NVA and the Vietcong in true historic locales and battles.", 
+    "tags": [
+        1, 
+        22, 
+        39, 
+        268435461, 
+        536871213, 
+        536871365, 
+        536871378, 
+        536871475, 
+        536871546, 
+        536871937, 
+        536872019, 
+        536874743, 
+        536875122, 
+        536875199, 
+        536875242, 
+        536875257, 
+        536875271, 
+        536875358, 
+        536875523, 
+        536875525, 
+        536875625, 
+        536875802, 
+        536876221, 
+        536876395, 
+        536876687, 
+        536877286, 
+        536877493, 
+        536877511, 
+        536877605, 
+        536877741, 
+        536877937, 
+        536878533, 
+        536879935, 
+        536880725, 
+        536881280, 
+        536881514, 
+        536882878, 
+        536883035, 
+        536883191, 
+        536884022, 
+        536884027, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        22, 
+        39
+    ], 
+    "total_rating": 62.5, 
+    "total_rating_count": 5, 
+    "updated_at": 1526843442889, 
+    "url": "https://www.igdb.com/games/men-of-valor", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/411330"
+        }
+    ]
+}

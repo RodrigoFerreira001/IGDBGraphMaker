@@ -1,0 +1,404 @@
+{
+    "aggregated_rating": 81.3636363636364, 
+    "aggregated_rating_count": 14, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Disney Infinity 3.0: Play Without Limits"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Disney Infinity Star Wars (3.0 Edition)"
+        }
+    ], 
+    "category": 0, 
+    "collection": 1490, 
+    "cover": {
+        "cloudinary_id": "bcbdtpmszfrchsgd1mjz", 
+        "height": 450, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bcbdtpmszfrchsgd1mjz.jpg", 
+        "width": 322
+    }, 
+    "created_at": 1434202908827, 
+    "developers": [
+        1309
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is an action-adventure game in which players control toy versions of Star Wars and Disney characters through game worlds made of toys. As players traverse open-world environments, they use an assortment of \u201ccartoony\u201d weapons, such as laser blasters and light sabers, to defeat fantastical toy characters (e.g., robots and enemy villains). Battles are sometimes accompanied by explosions, laser fire, and slow-motion effects; enemies break apart into toy pieces and disappear when defeated. In some sequences, players pilot spacecraft or use laser turrets to shoot down enemy ships.\r\n\r\nOnline Interactions Not Rated by the ESRB"
+    }, 
+    "first_release_date": 1440720000000, 
+    "franchise": 26, 
+    "franchises": [
+        26, 
+        124, 
+        1
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        47823, 
+        19565, 
+        14763, 
+        37062, 
+        11364, 
+        25076, 
+        23175, 
+        25300, 
+        19561, 
+        75235
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 11083, 
+    "keywords": [
+        14, 
+        588, 
+        1033, 
+        1075, 
+        2071, 
+        2387, 
+        3540, 
+        4181, 
+        4677, 
+        4796, 
+        4926, 
+        4935, 
+        5014, 
+        5343, 
+        5792, 
+        6227, 
+        6285, 
+        6286, 
+        9475, 
+        10503
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 41, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Disney Infinity 3.0", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\n\r\nIt contains: Non realistic looking violence towards fantasy characters - Violence that is set in a cartoon, slapstick or child like setting that could be upsetting to very young children - Pictures or sounds likely to be scary to young children - Violence that is not shown but is implied"
+    }, 
+    "platforms": [
+        34, 
+        6, 
+        39, 
+        41, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        10, 
+        426
+    ], 
+    "pulse_count": 6, 
+    "rating": 79.63012023481001, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1440892800000, 
+            "human": "2015-Aug-30", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440720000000, 
+            "human": "2015-Aug-28", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440720000000, 
+            "human": "2015-Aug-28", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440720000000, 
+            "human": "2015-Aug-28", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440720000000, 
+            "human": "2015-Aug-28", 
+            "m": 8, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440720000000, 
+            "human": "2015-Aug-28", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440720000000, 
+            "human": "2015-Aug-28", 
+            "m": 8, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440720000000, 
+            "human": "2015-Aug-28", 
+            "m": 8, 
+            "platform": 39, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440720000000, 
+            "human": "2015-Aug-28", 
+            "m": 8, 
+            "platform": 34, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440892800000, 
+            "human": "2015-Aug-30", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440892800000, 
+            "human": "2015-Aug-30", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440892800000, 
+            "human": "2015-Aug-30", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440892800000, 
+            "human": "2015-Aug-30", 
+            "m": 8, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440892800000, 
+            "human": "2015-Aug-30", 
+            "m": 8, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440892800000, 
+            "human": "2015-Aug-30", 
+            "m": 8, 
+            "platform": 39, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440892800000, 
+            "human": "2015-Aug-30", 
+            "m": 8, 
+            "platform": 34, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ck6htyzlxawfcoxe4w5y", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ck6htyzlxawfcoxe4w5y.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "i6piumrlfwjgriplreps", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i6piumrlfwjgriplreps.jpg", 
+            "width": 725
+        }, 
+        {
+            "cloudinary_id": "jfrs4mxg1dnpmwlhh0k3", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jfrs4mxg1dnpmwlhh0k3.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "yiqpi4ou7nfswrpkhy1p", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yiqpi4ou7nfswrpkhy1p.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "v5uhnjlxm173wguevtbg", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v5uhnjlxm173wguevtbg.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "wflj8k94jr1oeq1x86oc", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wflj8k94jr1oeq1x86oc.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "epvvk8rol69bdfhsg8bu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/epvvk8rol69bdfhsg8bu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "i7cbxcbxspppbxze5ezn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i7cbxcbxspppbxze5ezn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jjqvensu5lmfracy7sst", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jjqvensu5lmfracy7sst.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "flrcqpqtvnojjzrlrxtx", 
+            "height": 844, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/flrcqpqtvnojjzrlrxtx.jpg", 
+            "width": 1500
+        }, 
+        {
+            "cloudinary_id": "xrm3ijdodkx8pv9ggpc4", 
+            "height": 1006, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xrm3ijdodkx8pv9ggpc4.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "disney-infinity-3-dot-0", 
+    "summary": "Disney Infinity 3.0 Edition now welcomes Star Wars\u2122 to the ever-growing collection of Marvel, Disney and Disney\u2022Pixar characters, stories and worlds. Together new heroes can join forces with characters from previous editions and embark on adventures as big as your imagination in the 3.0 Toy Box!", 
+    "tags": [
+        1, 
+        33, 
+        35, 
+        268435487, 
+        536870926, 
+        536871500, 
+        536871945, 
+        536871987, 
+        536872983, 
+        536873299, 
+        536874452, 
+        536875093, 
+        536875589, 
+        536875708, 
+        536875838, 
+        536875847, 
+        536875926, 
+        536876255, 
+        536876704, 
+        536877139, 
+        536877197, 
+        536877198, 
+        536880387, 
+        536881415
+    ], 
+    "themes": [
+        1, 
+        33, 
+        35
+    ], 
+    "total_rating": 80.4968782992232, 
+    "total_rating_count": 18, 
+    "updated_at": 1528352523579, 
+    "url": "https://www.igdb.com/games/disney-infinity-3-dot-0", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "Y6ZWkJRJyEw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/541670"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://starwars.wikia.com/wiki/Disney_Infinity_3.0"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Disney_Infinity_3.0"
+        }
+    ]
+}

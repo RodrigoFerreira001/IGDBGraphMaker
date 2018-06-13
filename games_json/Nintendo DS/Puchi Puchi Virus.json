@@ -1,0 +1,46 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "created_at": 1469234545715, 
+    "first_release_date": 1245369600000, 
+    "genres": [
+        9
+    ], 
+    "id": 21053, 
+    "name": "Puchi Puchi Virus", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1245369600000, 
+            "human": "2009-Jun-19", 
+            "m": 6, 
+            "platform": 20, 
+            "region": 8, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tv4wofjoke9adm5zhpzp", 
+            "height": 529, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tv4wofjoke9adm5zhpzp.jpg", 
+            "width": 353
+        }
+    ], 
+    "slug": "puchi-puchi-virus", 
+    "total_rating": 80.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1500366261044, 
+    "url": "https://www.igdb.com/games/puchi-puchi-virus", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Puchi_Puchi_Virus"
+        }
+    ]
+}

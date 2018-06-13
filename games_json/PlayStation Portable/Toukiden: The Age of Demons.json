@@ -1,0 +1,237 @@
+{
+    "aggregated_rating": 77.8571428571429, 
+    "aggregated_rating_count": 7, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u8a0e\u9b3c\u4f1d T\u014dkiden"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "jnfedrncilk0lbqpm0w0", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jnfedrncilk0lbqpm0w0.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "s1crijhdmqsgauxajvck", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s1crijhdmqsgauxajvck.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "rjg4a110dcttunfinz5x", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rjg4a110dcttunfinz5x.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "t4duuxtvlxqwx93iwomo", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t4duuxtvlxqwx93iwomo.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "ndfkafzvbup0zq11p8fz", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ndfkafzvbup0zq11p8fz.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "fscsemddsysnhvf4thvo", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fscsemddsysnhvf4thvo.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "x1cuzt3hv0fkohxvpq7p", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x1cuzt3hv0fkohxvpq7p.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "ufttjqmwabnfh0x0scby", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ufttjqmwabnfh0x0scby.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "ncpdoiht6cigksqicl3d", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ncpdoiht6cigksqicl3d.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "wi6uvz71leetubd9vdmk", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wi6uvz71leetubd9vdmk.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "dkzfarjlbibjxqabrtso", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dkzfarjlbibjxqabrtso.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "gdemdrryauiiasu2ebob", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gdemdrryauiiasu2ebob.jpg", 
+            "width": 1260
+        }
+    ], 
+    "category": 0, 
+    "collection": 1163, 
+    "cover": {
+        "cloudinary_id": "egbbflhqlvuoyf9zt781", 
+        "height": 1369, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/egbbflhqlvuoyf9zt781.jpg", 
+        "width": 1174
+    }, 
+    "created_at": 1421511094093, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1372291200000, 
+    "games": [
+        36608, 
+        16468, 
+        59516, 
+        55289, 
+        25311, 
+        28010, 
+        37088, 
+        47823, 
+        12632, 
+        25300
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 8658, 
+    "keywords": [
+        4845, 
+        5328, 
+        7386, 
+        9992
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 46, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Toukiden: The Age of Demons", 
+    "platforms": [
+        46, 
+        38
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        858
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1392076800000, 
+            "human": "2014-Feb-11", 
+            "m": 2, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1372291200000, 
+            "human": "2013-Jun-27", 
+            "m": 6, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1392336000000, 
+            "human": "2014-Feb-14", 
+            "m": 2, 
+            "platform": 38, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1392336000000, 
+            "human": "2014-Feb-14", 
+            "m": 2, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "noq8husgeb6hycjxy574", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/noq8husgeb6hycjxy574.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "vzxezkxakcrdfyv6meq7", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vzxezkxakcrdfyv6meq7.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "t6rh33ayxrxcwomyzjr6", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t6rh33ayxrxcwomyzjr6.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "rhqfte1b51m7tg6yxgow", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rhqfte1b51m7tg6yxgow.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "zexhjgn0l5hxpwqvieqd", 
+            "height": 300, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zexhjgn0l5hxpwqvieqd.jpg", 
+            "width": 966
+        }
+    ], 
+    "slug": "toukiden-the-age-of-demons", 
+    "summary": "An expansive fantasy world influenced by historical and traditional Japanese elements. This new franchise casts players in the role of the demon-fighting warrior, known as a Slayer. Starting from the Utakata Village headquarters where they will accept quests, players will venture out to battle monstrous and deadly Oni (demons) before they destroy all of humanity. Players can select party members from a supporting cast of characters, or join together with up to three other players through ad-hoc mode.", 
+    "tags": [
+        1, 
+        268435468, 
+        536875757, 
+        536876240, 
+        536878298, 
+        536880904
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 77.8571428571429, 
+    "total_rating_count": 7, 
+    "updated_at": 1525634984314, 
+    "url": "https://www.igdb.com/games/toukiden-the-age-of-demons", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.tecmokoeiamerica.com/toukiden/"
+        }
+    ]
+}

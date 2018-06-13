@@ -1,0 +1,88 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qtgqoitepbqboszprnt6", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qtgqoitepbqboszprnt6.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1516353936667, 
+    "first_release_date": 1495152000000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "id": 82444, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 2, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Mayan Death Robots: Arena", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 1.0, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1495152000000, 
+            "human": "2017-May-19", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "awipj825sxebp4uxb2cb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/awipj825sxebp4uxb2cb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nk51iuc02uvbght3lmy6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nk51iuc02uvbght3lmy6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gevx1iid1xx0g9a2nn5v", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gevx1iid1xx0g9a2nn5v.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "now90jmpax9mbbhuwmeu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/now90jmpax9mbbhuwmeu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "y7ue0jc18cx9ybol7y7g", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y7ue0jc18cx9ybol7y7g.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "mayan-death-robots-arena", 
+    "summary": "Mayan Death Robots reinvents the artillery genre in a Mayan setting invaded by alien killing machines. Pick a robot from the roster and enter the arena to destroy your opponent's power core. Aim your weapon before the timer runs out, but don't be distracted by the pretty scenery: when the rockets start flying, you already need to plan your next move! Will you choose to move your robot to a better vantage point, or will you build defenses to keep your opponent from landing a killing blow?", 
+    "total_rating": 80.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1526730644960, 
+    "url": "https://www.igdb.com/games/mayan-death-robots-arena"
+}

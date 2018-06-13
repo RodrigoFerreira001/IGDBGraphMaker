@@ -1,0 +1,136 @@
+{
+    "aggregated_rating": 30.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "rt7o9uyyez5hebonqzj8", 
+        "height": 403, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rt7o9uyyez5hebonqzj8.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1468630272817, 
+    "first_release_date": 1274659200000, 
+    "franchise": 825, 
+    "franchises": [
+        825
+    ], 
+    "games": [
+        14605, 
+        17469, 
+        75586, 
+        25130, 
+        43130, 
+        23175, 
+        28277, 
+        63734, 
+        29646, 
+        27266
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 20411, 
+    "name": "Actual Crimes: Jack the Ripper", 
+    "platforms": [
+        38, 
+        159
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        7441
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1277424000000, 
+            "human": "2010-Jun-25", 
+            "m": 6, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1274659200000, 
+            "human": "2010-May-24", 
+            "m": 5, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1288915200000, 
+            "human": "2010-Nov-05", 
+            "m": 11, 
+            "platform": 38, 
+            "region": 8, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bhlkrdqslpgmilzzsohb", 
+            "height": 293, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bhlkrdqslpgmilzzsohb.jpg", 
+            "width": 196
+        }, 
+        {
+            "cloudinary_id": "iefo8w7tx6b5j7c8otoq", 
+            "height": 293, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iefo8w7tx6b5j7c8otoq.jpg", 
+            "width": 196
+        }, 
+        {
+            "cloudinary_id": "avu9pqapzt7oydyqrey2", 
+            "height": 293, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/avu9pqapzt7oydyqrey2.jpg", 
+            "width": 196
+        }, 
+        {
+            "cloudinary_id": "sqxbgb5mpjbwereubjab", 
+            "height": 293, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sqxbgb5mpjbwereubjab.jpg", 
+            "width": 196
+        }, 
+        {
+            "cloudinary_id": "yijhxrstlgliqcz5mgas", 
+            "height": 293, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yijhxrstlgliqcz5mgas.jpg", 
+            "width": 196
+        }, 
+        {
+            "cloudinary_id": "pwhwivyku5x4eymmgxam", 
+            "height": 293, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pwhwivyku5x4eymmgxam.jpg", 
+            "width": 196
+        }, 
+        {
+            "cloudinary_id": "a77y5t9iopd4cr5hzaam", 
+            "height": 293, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a77y5t9iopd4cr5hzaam.jpg", 
+            "width": 196
+        }, 
+        {
+            "cloudinary_id": "dhyie5zsnmcxkdfd82nt", 
+            "height": 293, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dhyie5zsnmcxkdfd82nt.jpg", 
+            "width": 196
+        }
+    ], 
+    "slug": "actual-crimes-jack-the-ripper", 
+    "summary": "Travel back to 1880s London to help Scotland Yard's detectives solve the crime of the century. Visit world-famous landmarks such as Piccadilly Circus and Buckingham Palace. Search crime scenes and solve mini puzzles in your hunt for clues.", 
+    "tags": [
+        268435487
+    ], 
+    "total_rating": 30.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1518081902436, 
+    "url": "https://www.igdb.com/games/actual-crimes-jack-the-ripper", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.realcrimesjacktheripper.com/"
+        }
+    ]
+}

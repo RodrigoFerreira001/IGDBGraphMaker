@@ -1,0 +1,104 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "txt1naj4xsyykyhkqoai", 
+        "height": 960, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/txt1naj4xsyykyhkqoai.jpg", 
+        "width": 955
+    }, 
+    "created_at": 1500021855826, 
+    "first_release_date": 1027728000000, 
+    "games": [
+        75962, 
+        46815, 
+        75964, 
+        75858, 
+        75857, 
+        75853, 
+        68609, 
+        55058, 
+        50726, 
+        50704
+    ], 
+    "genres": [
+        4
+    ], 
+    "id": 49415, 
+    "name": "Medabots AX: Metabee Version", 
+    "platforms": [
+        41, 
+        24
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        716
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1456358400000, 
+            "human": "2016-Feb-25", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1446768000000, 
+            "human": "2015-Nov-06", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1027728000000, 
+            "human": "2002-Jul-27", 
+            "m": 7, 
+            "platform": 24, 
+            "region": 8, 
+            "y": 2002
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gc8t3aabdnhedzrjww4x", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gc8t3aabdnhedzrjww4x.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "vq3f2rfuvrcs2z9wf7g9", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vq3f2rfuvrcs2z9wf7g9.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "uul4fpidn3zsz0lae7ga", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uul4fpidn3zsz0lae7ga.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "y6zrqqztj40ga5lrng9k", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y6zrqqztj40ga5lrng9k.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "zxy0eoz5fthkjbfwk7fs", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zxy0eoz5fthkjbfwk7fs.jpg", 
+            "width": 758
+        }
+    ], 
+    "slug": "medabots-ax-metabee-version", 
+    "summary": "Medabots AX is a 2D fighting game based on Medarot G, released only in North America. There were two versions released, Metabee and Rokusho.", 
+    "tags": [
+        268435460
+    ], 
+    "updated_at": 1518071502315, 
+    "url": "https://www.igdb.com/games/medabots-ax-metabee-version"
+}

@@ -1,0 +1,138 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "zuookstfzos7bi8tlxng", 
+        "height": 720, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zuookstfzos7bi8tlxng.jpg", 
+        "width": 1280
+    }, 
+    "created_at": 1515757992335, 
+    "developers": [
+        2952
+    ], 
+    "external": {
+        "steam": "626610"
+    }, 
+    "first_release_date": 1520294400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        44242, 
+        28465, 
+        34919, 
+        40470, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        75102, 
+        43130
+    ], 
+    "genres": [
+        10, 
+        13
+    ], 
+    "id": 81220, 
+    "name": "TT Isle of Man", 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        1803
+    ], 
+    "pulse_count": 3, 
+    "rating": 60.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1520294400000, 
+            "human": "2018-Mar-06", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1520294400000, 
+            "human": "2018-Mar-06", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qesyy9d8m3cltohhlklb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qesyy9d8m3cltohhlklb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wgjc0x3y0qulmxhaevh1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wgjc0x3y0qulmxhaevh1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "su0cqxsmzvnfi2kd5s63", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/su0cqxsmzvnfi2kd5s63.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "r2tpyrunyfsu7akqavkc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r2tpyrunyfsu7akqavkc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "brdiefnfvdf5aj4zq3c5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/brdiefnfvdf5aj4zq3c5.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "tt-isle-of-man", 
+    "summary": "For bikers, there are two types of speed races: the Isle of Man TT and the rest. No race is more difficult. Take up the challenge of the legendary Snaefell Mountain course: all 37.73 miles faithfully reproduced with the champions and their bikes.", 
+    "tags": [
+        268435466, 
+        268435469
+    ], 
+    "total_rating": 55.0, 
+    "total_rating_count": 4, 
+    "updated_at": 1525180886425, 
+    "url": "https://www.igdb.com/games/tt-isle-of-man", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "cnh1ORoCisA"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "AdRPLXQzLhA"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "Fb0yVZrWIr0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.iomtt-thegame.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/626610"
+        }
+    ]
+}

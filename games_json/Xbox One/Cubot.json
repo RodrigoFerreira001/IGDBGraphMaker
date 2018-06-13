@@ -1,0 +1,162 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mr1bgh9mdqyesnjwtprq", 
+        "height": 1024, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mr1bgh9mdqyesnjwtprq.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1495886852047, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "340280"
+    }, 
+    "first_release_date": 1420675200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25222, 
+        18167, 
+        26223, 
+        27266, 
+        60044, 
+        14047, 
+        25646, 
+        54678, 
+        20329, 
+        26239
+    ], 
+    "genres": [
+        9, 
+        32
+    ], 
+    "id": 36000, 
+    "keywords": [
+        1152, 
+        1395, 
+        1495, 
+        2109, 
+        2875, 
+        4004, 
+        4626, 
+        4789, 
+        5419, 
+        5802
+    ], 
+    "name": "Cubot", 
+    "platforms": [
+        6, 
+        14, 
+        49, 
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        5272
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1452211200000, 
+            "human": "2016-Jan-08", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1420675200000, 
+            "human": "2015-Jan-08", 
+            "m": 1, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1420675200000, 
+            "human": "2015-Jan-08", 
+            "m": 1, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1420675200000, 
+            "human": "2015-Jan-08", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "powedv6yodwstm54jnwp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/powedv6yodwstm54jnwp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hrykvoodvo3ehr3nyprj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hrykvoodvo3ehr3nyprj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bkz9fqg6abq57veecnpg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bkz9fqg6abq57veecnpg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "usyt3nzxwtg4ser24ll5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/usyt3nzxwtg4ser24ll5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gyffqppdkgn3mlqjsd8s", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gyffqppdkgn3mlqjsd8s.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "cubot", 
+    "summary": "At first sight, Cubot is a puzzle-game with a minimalist gameplay, just move color cubes towards tiles of the same color. It's really easy, but it will be a torture for your mind to complete all levels of the game because the apparent simplicity of the game is in contradiction with the complexity of the level-design. Moreover, an important point in the gameplay is if you have multiple cubes, they move simultaneously !", 
+    "tags": [
+        268435465, 
+        268435488, 
+        536872064, 
+        536872307, 
+        536872407, 
+        536873021, 
+        536873787, 
+        536874916, 
+        536875538, 
+        536875701, 
+        536876331, 
+        536876714
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523428610966, 
+    "url": "https://www.igdb.com/games/cubot", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://games.nicoplv.com/cubot"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/340280"
+        }
+    ]
+}

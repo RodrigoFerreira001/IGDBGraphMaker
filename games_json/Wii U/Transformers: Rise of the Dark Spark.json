@@ -1,0 +1,507 @@
+{
+    "aggregated_rating": 47.8571428571429, 
+    "aggregated_rating_count": 7, 
+    "category": 0, 
+    "collection": 3197, 
+    "cover": {
+        "cloudinary_id": "w459v4vdaiwkxnujds1k", 
+        "height": 960, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/w459v4vdaiwkxnujds1k.jpg", 
+        "width": 920
+    }, 
+    "created_at": 1453194530274, 
+    "developers": [
+        66
+    ], 
+    "external": {
+        "steam": "245760"
+    }, 
+    "first_release_date": 1398988800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        26401, 
+        536, 
+        19441, 
+        2114, 
+        3025, 
+        2031, 
+        539, 
+        109, 
+        7046, 
+        7342
+    ], 
+    "genres": [
+        5, 
+        15
+    ], 
+    "id": 16583, 
+    "keywords": [
+        67, 
+        301, 
+        415, 
+        575, 
+        594, 
+        795, 
+        872, 
+        970, 
+        1025, 
+        1098, 
+        1158, 
+        1186, 
+        1293, 
+        1333, 
+        1423, 
+        1440, 
+        1599, 
+        1705, 
+        1783, 
+        1821, 
+        2242, 
+        2296, 
+        2537, 
+        3782, 
+        3794, 
+        3831, 
+        3912, 
+        3994, 
+        4004, 
+        4134, 
+        4135, 
+        4142, 
+        4143, 
+        4146, 
+        4147, 
+        4161, 
+        4163, 
+        4171, 
+        4177, 
+        4215, 
+        4239, 
+        4248, 
+        4284, 
+        4287, 
+        4345, 
+        4359, 
+        4374, 
+        4452, 
+        4525, 
+        4576, 
+        4580, 
+        4590, 
+        4611, 
+        4681, 
+        4711, 
+        4738, 
+        4777, 
+        4783, 
+        4831, 
+        4834, 
+        4843, 
+        4866, 
+        4869, 
+        4891, 
+        4892, 
+        4897, 
+        4910, 
+        4956, 
+        5045, 
+        5309, 
+        5361, 
+        5511, 
+        5590, 
+        5660, 
+        5736, 
+        5754, 
+        5896, 
+        5899, 
+        5941, 
+        6007, 
+        6075, 
+        6215, 
+        6262, 
+        6264, 
+        6269, 
+        6374, 
+        6375, 
+        6376, 
+        10968
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Transformers: Rise of the Dark Spark", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        41, 
+        9, 
+        48, 
+        12, 
+        49, 
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        223
+    ], 
+    "pulse_count": 1, 
+    "rating": 85.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403827200000, 
+            "human": "2014-Jun-27", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403827200000, 
+            "human": "2014-Jun-27", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 49, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 12, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 41, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 48, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 9, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 37, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398988800000, 
+            "human": "2014-May-02", 
+            "m": 5, 
+            "platform": 6, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "thf2s3e1xssrfvs2qwbk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/thf2s3e1xssrfvs2qwbk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ul6y1csu26izrqqdueki", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ul6y1csu26izrqqdueki.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "umytqo4tlb3r1sppnu3o", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/umytqo4tlb3r1sppnu3o.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ldflju2gvz1jjj33armx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ldflju2gvz1jjj33armx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "b926fkfai43m82rf83x7", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b926fkfai43m82rf83x7.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uotrlirq8cklm5wonjn0", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uotrlirq8cklm5wonjn0.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nqxjxbm4oqqo0fgidlpw", 
+            "height": 874, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nqxjxbm4oqqo0fgidlpw.jpg", 
+            "width": 1558
+        }, 
+        {
+            "cloudinary_id": "h85pg5rx3cvdwr0pl1mi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h85pg5rx3cvdwr0pl1mi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zkotwibjyolvum9pg4yz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zkotwibjyolvum9pg4yz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "damtjtzeprjlyewngcvz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/damtjtzeprjlyewngcvz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ho45q0lqxohkakevej9m", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ho45q0lqxohkakevej9m.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fbn4biaqkgyrvc4qnbv6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fbn4biaqkgyrvc4qnbv6.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "transformers-rise-of-the-dark-spark--1", 
+    "summary": "Play as your favorite characters from both the 4th TRANSFORMERS movie and Cybertron universes!", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435471, 
+        536870979, 
+        536871213, 
+        536871327, 
+        536871487, 
+        536871506, 
+        536871707, 
+        536871784, 
+        536871882, 
+        536871937, 
+        536872010, 
+        536872070, 
+        536872098, 
+        536872205, 
+        536872245, 
+        536872335, 
+        536872352, 
+        536872511, 
+        536872617, 
+        536872695, 
+        536872733, 
+        536873154, 
+        536873208, 
+        536873449, 
+        536874694, 
+        536874706, 
+        536874743, 
+        536874824, 
+        536874906, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875054, 
+        536875055, 
+        536875058, 
+        536875059, 
+        536875073, 
+        536875075, 
+        536875083, 
+        536875089, 
+        536875127, 
+        536875151, 
+        536875160, 
+        536875196, 
+        536875199, 
+        536875257, 
+        536875271, 
+        536875286, 
+        536875364, 
+        536875437, 
+        536875488, 
+        536875492, 
+        536875502, 
+        536875523, 
+        536875593, 
+        536875623, 
+        536875650, 
+        536875689, 
+        536875695, 
+        536875743, 
+        536875746, 
+        536875755, 
+        536875778, 
+        536875781, 
+        536875803, 
+        536875804, 
+        536875809, 
+        536875822, 
+        536875868, 
+        536875957, 
+        536876221, 
+        536876273, 
+        536876423, 
+        536876502, 
+        536876572, 
+        536876648, 
+        536876666, 
+        536876808, 
+        536876811, 
+        536876853, 
+        536876919, 
+        536876987, 
+        536877127, 
+        536877174, 
+        536877176, 
+        536877181, 
+        536877286, 
+        536877287, 
+        536877288, 
+        536881880
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 66.42857142857144, 
+    "total_rating_count": 7, 
+    "updated_at": 1520274523559, 
+    "url": "https://www.igdb.com/games/transformers-rise-of-the-dark-spark--1", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "6gw8O8BSnFQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Transformers:_Rise_of_the_Dark_Spark"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.transformersgame.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/245760"
+        }
+    ]
+}

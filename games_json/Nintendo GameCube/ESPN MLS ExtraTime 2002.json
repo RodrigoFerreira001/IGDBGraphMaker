@@ -1,0 +1,106 @@
+{
+    "aggregated_rating": 63.5, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "name": "ESPN MLS ExtraTime"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "um56hl3xzhwzyquh1oax", 
+        "height": 362, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/um56hl3xzhwzyquh1oax.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1390199042187, 
+    "developers": [
+        129
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 987379200000, 
+    "franchise": 197, 
+    "franchises": [
+        197
+    ], 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        18681, 
+        15851, 
+        14713, 
+        54662, 
+        15041, 
+        57738, 
+        701, 
+        55153, 
+        13395, 
+        13394
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 3906, 
+    "keywords": [
+        26, 
+        27
+    ], 
+    "name": "ESPN MLS ExtraTime 2002", 
+    "platforms": [
+        11, 
+        21, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        129
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1017014400000, 
+            "human": "2002-Mar-25", 
+            "m": 3, 
+            "platform": 21, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 987379200000, 
+            "human": "2001-Apr-16", 
+            "m": 4, 
+            "platform": 8, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 1017187200000, 
+            "human": "2002-Mar-27", 
+            "m": 3, 
+            "platform": 11, 
+            "y": 2002
+        }
+    ], 
+    "slug": "espn-mls-extratime-2002", 
+    "tags": [
+        1, 
+        268435470, 
+        536870938, 
+        536870939, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 63.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1500386938395, 
+    "url": "https://www.igdb.com/games/espn-mls-extratime-2002"
+}

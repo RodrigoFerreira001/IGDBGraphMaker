@@ -1,0 +1,67 @@
+{
+    "category": 0, 
+    "created_at": 1499868896671, 
+    "esrb": {
+        "rating": 1
+    }, 
+    "first_release_date": 1443916800000, 
+    "games": [
+        36608, 
+        2940, 
+        40524, 
+        34919, 
+        71581, 
+        29660, 
+        1070, 
+        23175, 
+        76438, 
+        16468
+    ], 
+    "id": 47482, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Caladrius", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1443916800000, 
+            "human": "2015-Oct-04", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "slug": "caladrius", 
+    "summary": "Caladrius is an Action game, developed and published by Moss, which was released in Japan in 2013.", 
+    "tags": [
+        1
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1501017751866, 
+    "url": "https://www.igdb.com/games/caladrius"
+}

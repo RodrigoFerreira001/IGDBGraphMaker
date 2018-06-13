@@ -1,0 +1,91 @@
+{
+    "aggregated_rating": 20.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "c1rebgxvls6a047uke1k", 
+        "height": 320, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/c1rebgxvls6a047uke1k.jpg", 
+        "width": 225
+    }, 
+    "created_at": 1396316215820, 
+    "developers": [
+        2089
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1150848000000, 
+    "franchise": 269, 
+    "franchises": [
+        269
+    ], 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        80406, 
+        77450, 
+        67310, 
+        41231, 
+        40206, 
+        15507, 
+        14337, 
+        5215, 
+        4732, 
+        4673
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 5724, 
+    "keywords": [
+        299
+    ], 
+    "name": "AMF Xtreme Bowling 2006", 
+    "platforms": [
+        11, 
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        28
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1150848000000, 
+            "human": "2006-Jun-21", 
+            "m": 6, 
+            "platform": 11, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1150848000000, 
+            "human": "2006-Jun-21", 
+            "m": 6, 
+            "platform": 8, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ue7wauf3gszh7kqkmugu", 
+            "height": 324, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ue7wauf3gszh7kqkmugu.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "amf-xtreme-bowling-2006", 
+    "summary": "Experience the excitement of a night at the lanes with AMF Xtreme Bowling 2006. With six different gameplay modes, nine different enviornments and customizable character creation, the competition is always fresh and fun. Great to play alone or with a group of friends.", 
+    "tags": [
+        268435470, 
+        536871211
+    ], 
+    "total_rating": 20.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1500285764652, 
+    "url": "https://www.igdb.com/games/amf-xtreme-bowling-2006"
+}

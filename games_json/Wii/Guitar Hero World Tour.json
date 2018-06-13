@@ -1,0 +1,535 @@
+{
+    "aggregated_rating": 82.5, 
+    "aggregated_rating_count": 6, 
+    "alternative_names": [
+        {
+            "name": "Guitar Hero 4"
+        }
+    ], 
+    "category": 0, 
+    "collection": 284, 
+    "cover": {
+        "cloudinary_id": "gbngdhdwarlyxqmlhqcp", 
+        "height": 320, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gbngdhdwarlyxqmlhqcp.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1374382214481, 
+    "developers": [
+        90
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "Guitar Hero World Tour is a music and rhythm simulation game in which players can perform songs with on-screen avatars. Song lyrics contain moderate profanity (e.g., \"bastards\" and \"punk a*s\") as well as references to violence, drugs, and sexuality. Players can customize various aspects of the avatars' appearances and equipment. Some of the drumhead and guitar artwork depict women in provocative poses and outfits (e.g., an image of a succubus with cleavage and panties, silhouetted \"mud-flap\" images of women on guitars)."
+    }, 
+    "first_release_date": 1224979200000, 
+    "game_engines": [
+        466
+    ], 
+    "game_modes": [
+        1, 
+        3, 
+        4
+    ], 
+    "games": [
+        2672, 
+        2670, 
+        2671, 
+        2692, 
+        2685, 
+        1285, 
+        2629, 
+        2673, 
+        2676, 
+        7088
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 2669, 
+    "keywords": [
+        301, 
+        488, 
+        665, 
+        715, 
+        757, 
+        1152, 
+        1186, 
+        1293, 
+        1333, 
+        2052, 
+        2071, 
+        2152, 
+        2153, 
+        2543, 
+        2935, 
+        3224, 
+        3486, 
+        4137, 
+        4210, 
+        4211, 
+        4245, 
+        4272, 
+        4273, 
+        4333, 
+        4345, 
+        4353, 
+        4359, 
+        4400, 
+        4410, 
+        4452, 
+        4544, 
+        4574, 
+        4698, 
+        4699, 
+        4823, 
+        4839, 
+        4854, 
+        4869, 
+        4910, 
+        5029, 
+        5031, 
+        5143, 
+        5188, 
+        5189, 
+        5190, 
+        5287, 
+        5354, 
+        5436, 
+        5523, 
+        5552, 
+        5586, 
+        5654, 
+        5705, 
+        5727, 
+        5787, 
+        5791, 
+        5850, 
+        5887, 
+        5905, 
+        6114, 
+        6123, 
+        6196, 
+        6275, 
+        6363, 
+        6578, 
+        6752, 
+        7041, 
+        7159, 
+        7281, 
+        7310, 
+        7327, 
+        7369, 
+        9333, 
+        9354, 
+        9404, 
+        9936, 
+        10098, 
+        10351, 
+        10686, 
+        11456, 
+        11457, 
+        11458, 
+        12191, 
+        12549, 
+        12681, 
+        12865, 
+        12867, 
+        12901, 
+        13076, 
+        13477
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Guitar Hero World Tour", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Mild bad language"
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        9, 
+        12, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        73, 
+        66
+    ], 
+    "rating": 72.7188062973804, 
+    "rating_count": 36, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1224979200000, 
+            "human": "2008-Oct-26", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1226016000000, 
+            "human": "2008-Nov-07", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1247616000000, 
+            "human": "2009-Jul-15", 
+            "m": 7, 
+            "platform": 14, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1247616000000, 
+            "human": "2009-Jul-15", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1248566400000, 
+            "human": "2009-Jul-26", 
+            "m": 7, 
+            "platform": 14, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1248566400000, 
+            "human": "2009-Jul-26", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1226448000000, 
+            "human": "2008-Nov-12", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 3, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1226448000000, 
+            "human": "2008-Nov-12", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1226448000000, 
+            "human": "2008-Nov-12", 
+            "m": 11, 
+            "platform": 8, 
+            "region": 3, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1226448000000, 
+            "human": "2008-Nov-12", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1226016000000, 
+            "human": "2008-Nov-07", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1227225600000, 
+            "human": "2008-Nov-21", 
+            "m": 11, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1226016000000, 
+            "human": "2008-Nov-07", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1224979200000, 
+            "human": "2008-Oct-26", 
+            "m": 10, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1224979200000, 
+            "human": "2008-Oct-26", 
+            "m": 10, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1224979200000, 
+            "human": "2008-Oct-26", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tze1jhlr4rdiqphp8dvo", 
+            "height": 447, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tze1jhlr4rdiqphp8dvo.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "jmemtt44hm8yukitcrob", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jmemtt44hm8yukitcrob.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "dybby1cskwjgsg96duep", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dybby1cskwjgsg96duep.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "surulrndlihh5qz0q45s", 
+            "height": 447, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/surulrndlihh5qz0q45s.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "kousvkau3ymagkuswd3k", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kousvkau3ymagkuswd3k.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xyeqhjfdguldxgtslkki", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xyeqhjfdguldxgtslkki.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qhrl9ippucwuiimecvhl", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qhrl9ippucwuiimecvhl.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qplbsh3gc8ccelxdqvbz", 
+            "height": 447, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qplbsh3gc8ccelxdqvbz.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "qrvwr7esv21rjjw4edup", 
+            "height": 447, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qrvwr7esv21rjjw4edup.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "qcws7uyso2dxtlahr0fk", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qcws7uyso2dxtlahr0fk.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ds3atp7wxnmjrmfuognz", 
+            "height": 449, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ds3atp7wxnmjrmfuognz.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "hqbvcz3vrxbqnisu0ztv", 
+            "height": 180, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hqbvcz3vrxbqnisu0ztv.jpg", 
+            "width": 300
+        }
+    ], 
+    "slug": "guitar-hero-world-tour", 
+    "summary": "Guitar Hero: World Tour is the fourth main game in the series and brings a major change to the concept. Following the release of Rock Band that built on the Guitar Hero concept but added additional instruments, World Tour introduces these as well to allow players to play together simultaneously as a real band. Next to the guitar that was the main peripheral for the previous titles, the bundled edition of the game adds a microphone for the vocal parts and drums for percussion. Just like the previous game, the guitar tracks are split up for the lead and bass. The lyrics and the vocal pitch is shown near the top of the screen, while the bottom part is split up for bass guitar, lead guitar and drums, each with a separate set of notes that need to be hit to correctly play the part.", 
+    "tags": [
+        268435463, 
+        536871213, 
+        536871400, 
+        536871577, 
+        536871627, 
+        536871669, 
+        536872064, 
+        536872098, 
+        536872205, 
+        536872245, 
+        536872964, 
+        536872983, 
+        536873064, 
+        536873065, 
+        536873455, 
+        536873847, 
+        536874136, 
+        536874398, 
+        536875049, 
+        536875122, 
+        536875123, 
+        536875157, 
+        536875184, 
+        536875185, 
+        536875245, 
+        536875257, 
+        536875265, 
+        536875271, 
+        536875312, 
+        536875322, 
+        536875364, 
+        536875456, 
+        536875486, 
+        536875610, 
+        536875611, 
+        536875735, 
+        536875751, 
+        536875766, 
+        536875781, 
+        536875822, 
+        536875941, 
+        536875943, 
+        536876055, 
+        536876100, 
+        536876101, 
+        536876102, 
+        536876199, 
+        536876266, 
+        536876348, 
+        536876435, 
+        536876464, 
+        536876498, 
+        536876566, 
+        536876617, 
+        536876639, 
+        536876699, 
+        536876703, 
+        536876762, 
+        536876799, 
+        536876817, 
+        536877026, 
+        536877035, 
+        536877108, 
+        536877187, 
+        536877275, 
+        536877490, 
+        536877664, 
+        536877953, 
+        536878071, 
+        536878193, 
+        536878222, 
+        536878239, 
+        536878281, 
+        536880245, 
+        536880266, 
+        536880316, 
+        536880848, 
+        536881010, 
+        536881263, 
+        536881598, 
+        536882368, 
+        536882369, 
+        536882370, 
+        536883103, 
+        536883461, 
+        536883593, 
+        536883777, 
+        536883779, 
+        536883813, 
+        536883988, 
+        536884389, 
+        1073741825
+    ], 
+    "total_rating": 77.6094031486902, 
+    "total_rating_count": 42, 
+    "updated_at": 1528350135094, 
+    "url": "https://www.igdb.com/games/guitar-hero-world-tour", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "wsWdDhIofMk"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "u7W_zAZ4VYQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Guitar_Hero_World_Tour"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://guitarhero.wikia.com/wiki/Guitar_Hero_World_Tour"
+        }
+    ]
+}

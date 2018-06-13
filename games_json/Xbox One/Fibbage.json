@@ -1,0 +1,181 @@
+{
+    "aggregated_rating": 91.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "name": "Fibbage: The Hilarious Bluffing Party Game"
+        }
+    ], 
+    "category": 0, 
+    "collection": 3057, 
+    "cover": {
+        "cloudinary_id": "ynt09czwltnsj78w0lnp", 
+        "height": 294, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ynt09czwltnsj78w0lnp.jpg", 
+        "width": 215
+    }, 
+    "created_at": 1411922999692, 
+    "developers": [
+        3697
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1408579200000, 
+    "game_modes": [
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        11588, 
+        19083, 
+        28213, 
+        19082, 
+        25217, 
+        28113, 
+        11529, 
+        18387, 
+        74498, 
+        7181
+    ], 
+    "genres": [
+        26
+    ], 
+    "hypes": 1, 
+    "id": 7782, 
+    "keywords": [
+        350, 
+        1024, 
+        1230, 
+        2601, 
+        4139, 
+        4361
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 8, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Fibbage", 
+    "platforms": [
+        45, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        5
+    ], 
+    "popularity": 8.0, 
+    "publishers": [
+        3697
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1408579200000, 
+            "human": "2014-Aug-21", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410825600000, 
+            "human": "2014-Sep-16", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410825600000, 
+            "human": "2014-Sep-16", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gaxzcqo5l3m8si498tgi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gaxzcqo5l3m8si498tgi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dyszeuccgz8xqsw5xglk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dyszeuccgz8xqsw5xglk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cgsty6hbk9emo2tdx4d4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cgsty6hbk9emo2tdx4d4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bbvcj780pxpynid85jro", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bbvcj780pxpynid85jro.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xn4v3cxqmpwuuuokqlrr", 
+            "height": 330, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xn4v3cxqmpwuuuokqlrr.jpg", 
+            "width": 612
+        }
+    ], 
+    "slug": "fibbage", 
+    "summary": "Fibbage is the lying, bluffing, fib-till-you-win trivia party game from the makers of YOU DON\u2019T KNOW JACK! Play with 2-8 players!", 
+    "tags": [
+        27, 
+        40, 
+        268435482, 
+        536871262, 
+        536871936, 
+        536872142, 
+        536873513, 
+        536875051, 
+        536875273, 
+        1073741829
+    ], 
+    "themes": [
+        27, 
+        40
+    ], 
+    "total_rating": 85.5, 
+    "total_rating_count": 1, 
+    "updated_at": 1528353270763, 
+    "url": "https://www.igdb.com/games/fibbage", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "LMfARsNf9VY"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://jackboxgames.com/app/fibbage/"
+        }
+    ]
+}

@@ -1,0 +1,405 @@
+{
+    "aggregated_rating": 86.0, 
+    "aggregated_rating_count": 9, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Madden NFL 2011"
+        }
+    ], 
+    "category": 0, 
+    "collection": 192, 
+    "cover": {
+        "cloudinary_id": "yeayzg2ktenkgh4ec6gw", 
+        "height": 247, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yeayzg2ktenkgh4ec6gw.jpg", 
+        "width": 200
+    }, 
+    "created_at": 1391702891479, 
+    "developers": [
+        555, 
+        277
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1281398400000, 
+    "franchise": 224, 
+    "franchises": [
+        224
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        4985, 
+        28706, 
+        4984, 
+        4983, 
+        5906, 
+        4381, 
+        777, 
+        778, 
+        2746, 
+        776
+    ], 
+    "genres": [
+        13, 
+        14
+    ], 
+    "id": 4986, 
+    "keywords": [
+        26, 
+        27, 
+        32, 
+        33, 
+        394, 
+        994, 
+        1148, 
+        1166, 
+        1293, 
+        1333, 
+        1710, 
+        2362, 
+        2438, 
+        4134, 
+        4142, 
+        4226, 
+        4228, 
+        4245, 
+        4274, 
+        4353, 
+        4390, 
+        4452, 
+        4509, 
+        4650, 
+        4747, 
+        4756, 
+        4823, 
+        4837, 
+        4839, 
+        4907, 
+        5029, 
+        5267, 
+        5278, 
+        5430, 
+        5573, 
+        5807, 
+        5909, 
+        6376, 
+        6576, 
+        6774, 
+        7041, 
+        7114, 
+        7179, 
+        7180, 
+        7181, 
+        7199, 
+        7213, 
+        7369, 
+        8160, 
+        8208, 
+        8209, 
+        8210, 
+        8305, 
+        8736, 
+        8737, 
+        8738, 
+        8739, 
+        8740, 
+        8741, 
+        8742, 
+        8743, 
+        8744, 
+        8745, 
+        8746, 
+        8747, 
+        8748, 
+        8756, 
+        8757, 
+        8758, 
+        8761, 
+        8962, 
+        9075, 
+        9360, 
+        9927, 
+        10015, 
+        12462, 
+        12919
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 3, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Madden NFL 11", 
+    "platforms": [
+        39, 
+        9, 
+        38, 
+        12, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        454
+    ], 
+    "rating": 85.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1281398400000, 
+            "human": "2010-Aug-10", 
+            "m": 8, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1281398400000, 
+            "human": "2010-Aug-10", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1281657600000, 
+            "human": "2010-Aug-13", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1281398400000, 
+            "human": "2010-Aug-10", 
+            "m": 8, 
+            "platform": 8, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1281398400000, 
+            "human": "2010-Aug-10", 
+            "m": 8, 
+            "platform": 9, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1281398400000, 
+            "human": "2010-Aug-10", 
+            "m": 8, 
+            "platform": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1281398400000, 
+            "human": "2010-Aug-10", 
+            "m": 8, 
+            "platform": 12, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1281398400000, 
+            "human": "2010-Aug-10", 
+            "m": 8, 
+            "platform": 39, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1281398400000, 
+            "human": "2010-Aug-10", 
+            "m": 8, 
+            "platform": 38, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "fgn6bcf2ev7v1amjyrfm", 
+            "height": 2397, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fgn6bcf2ev7v1amjyrfm.jpg", 
+            "width": 4256
+        }, 
+        {
+            "cloudinary_id": "lasgth8m571rdr5haxiw", 
+            "height": 2397, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lasgth8m571rdr5haxiw.jpg", 
+            "width": 4256
+        }, 
+        {
+            "cloudinary_id": "wnnpin1hqfr7e7znpbpz", 
+            "height": 2397, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wnnpin1hqfr7e7znpbpz.jpg", 
+            "width": 4256
+        }, 
+        {
+            "cloudinary_id": "cun3quxgyvnwnffhusjx", 
+            "height": 1081, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cun3quxgyvnwnffhusjx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jkk1tzaon0xikklz6jko", 
+            "height": 1081, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jkk1tzaon0xikklz6jko.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pmzxzewgqlgvblguw1gj", 
+            "height": 1081, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pmzxzewgqlgvblguw1gj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "n7e3mz30rbzhd12sjlej", 
+            "height": 1081, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n7e3mz30rbzhd12sjlej.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "j0rvlidy7osbytq6etuv", 
+            "height": 1081, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j0rvlidy7osbytq6etuv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xittjuqmiwykqvawxiug", 
+            "height": 1081, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xittjuqmiwykqvawxiug.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rdfgsexj0nt2pegabkn7", 
+            "height": 1081, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rdfgsexj0nt2pegabkn7.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zxzirztp67tmvw7g3tlo", 
+            "height": 1081, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zxzirztp67tmvw7g3tlo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rwd7svheqwlfmzhxnxcw", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rwd7svheqwlfmzhxnxcw.jpg", 
+            "width": 800
+        }
+    ], 
+    "slug": "madden-nfl-11", 
+    "summary": "Madden NFL 11 re-energizes the game of football with a fun and exhilarating experience to ignite the passion of every NFL fan. Whether you\u2019re rekindling an old rivalry, putting your spin on the best moments of 2009, or building the ultimate dynasty in Franchise mode, Madden NFL 11 makes every day feel like Sunday. Experience the passion for football shared by Gus Johnson and Cris Collinsworth as they call the action on the field. Fight for fumbles, design your own plays, and feel what it's like to be an NFL superstar with Madden NFL 11, the ultimate NFL experience on PlayStation Portable.", 
+    "tags": [
+        268435469, 
+        268435470, 
+        536870938, 
+        536870939, 
+        536870944, 
+        536870945, 
+        536871306, 
+        536871906, 
+        536872060, 
+        536872078, 
+        536872205, 
+        536872245, 
+        536872622, 
+        536873274, 
+        536873350, 
+        536875046, 
+        536875054, 
+        536875138, 
+        536875140, 
+        536875157, 
+        536875186, 
+        536875265, 
+        536875302, 
+        536875364, 
+        536875421, 
+        536875562, 
+        536875659, 
+        536875668, 
+        536875735, 
+        536875749, 
+        536875751, 
+        536875819, 
+        536875941, 
+        536876179, 
+        536876190, 
+        536876342, 
+        536876485, 
+        536876719, 
+        536876821, 
+        536877288, 
+        536877488, 
+        536877686, 
+        536877953, 
+        536878026, 
+        536878091, 
+        536878092, 
+        536878093, 
+        536878111, 
+        536878125, 
+        536878281, 
+        536879072, 
+        536879120, 
+        536879121, 
+        536879122, 
+        536879217, 
+        536879648, 
+        536879649, 
+        536879650, 
+        536879651, 
+        536879652, 
+        536879653, 
+        536879654, 
+        536879655, 
+        536879656, 
+        536879657, 
+        536879658, 
+        536879659, 
+        536879660, 
+        536879668, 
+        536879669, 
+        536879670, 
+        536879673, 
+        536879874, 
+        536879987, 
+        536880272, 
+        536880839, 
+        536880927, 
+        536883374, 
+        536883831, 
+        1073741826
+    ], 
+    "total_rating": 85.5, 
+    "total_rating_count": 11, 
+    "updated_at": 1518070056862, 
+    "url": "https://www.igdb.com/games/madden-nfl-11"
+}

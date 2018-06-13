@@ -1,0 +1,82 @@
+{
+    "aggregated_rating": 74.75, 
+    "aggregated_rating_count": 4, 
+    "category": 1, 
+    "collection": 68, 
+    "cover": {
+        "cloudinary_id": "q9wbhsfcvnl1uf1uhjpd", 
+        "height": 600, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/q9wbhsfcvnl1uf1uhjpd.jpg", 
+        "width": 440
+    }, 
+    "created_at": 1430341731419, 
+    "first_release_date": 1398124800000, 
+    "franchise": 5, 
+    "franchises": [
+        5
+    ], 
+    "game": 2003, 
+    "game_engines": [
+        6
+    ], 
+    "id": 10028, 
+    "name": "Batman: Arkham Origins - Cold, Cold Heart", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "popularity": 2.333333333333333, 
+    "rating": 75.9304437982962, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1398124800000, 
+            "human": "2014-Apr-22", 
+            "m": 4, 
+            "platform": 6, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398124800000, 
+            "human": "2014-Apr-22", 
+            "m": 4, 
+            "platform": 9, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398124800000, 
+            "human": "2014-Apr-22", 
+            "m": 4, 
+            "platform": 12, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xs7mycwb8meblb2m5juk", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xs7mycwb8meblb2m5juk.jpg", 
+            "width": 1200
+        }
+    ], 
+    "slug": "batman-arkham-origins-cold-cold-heart", 
+    "summary": "Return to Gotham City to ring in the New Year, Arkham Origins style. When the CEO of GothCorp is kidnapped, by Mr. Freeze, Batman sets out to bring him to justice. Along the way, he will uncover the tragic history of his new enemy, prompting our hero to attempt the impossible: save the victim AND the villain.", 
+    "total_rating": 75.3402218991481, 
+    "total_rating_count": 10, 
+    "updated_at": 1517270704999, 
+    "url": "https://www.igdb.com/games/batman-arkham-origins-cold-cold-heart", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "LgIsWcDvYZQ"
+        }, 
+        {
+            "name": "Teaser", 
+            "video_id": "bFM9eMLsBsI"
+        }
+    ]
+}

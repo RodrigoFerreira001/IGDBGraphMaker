@@ -1,0 +1,65 @@
+{
+    "category": 1, 
+    "cover": {
+        "cloudinary_id": "ucu0nk4ncg1yovlalxoa", 
+        "height": 483, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ucu0nk4ncg1yovlalxoa.jpg", 
+        "width": 749
+    }, 
+    "created_at": 1472195509812, 
+    "first_release_date": 1470700800000, 
+    "game": 7360, 
+    "id": 23176, 
+    "name": "Tom Clancy's Rainbow Six Siege: Operation Skull Rain", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "popularity": 1.666666666666667, 
+    "pulse_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1470700800000, 
+            "human": "2016-Aug-09", 
+            "m": 8, 
+            "platform": 6, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1470700800000, 
+            "human": "2016-Aug-09", 
+            "m": 8, 
+            "platform": 49, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1470700800000, 
+            "human": "2016-Aug-09", 
+            "m": 8, 
+            "platform": 48, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "fo5cnbtifaoku8yckefu", 
+            "height": 910, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fo5cnbtifaoku8yckefu.jpg", 
+            "width": 1680
+        }
+    ], 
+    "slug": "tom-clancys-rainbow-six-siege-operation-skull-rain", 
+    "summary": "Operation Skull Rain is the third expansion released for Tom Clancy's Rainbow Six Siege. It added two new Operators from the Brazilian BOPE CTU and new map Favelas.", 
+    "updated_at": 1517271056475, 
+    "url": "https://www.igdb.com/games/tom-clancys-rainbow-six-siege-operation-skull-rain", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "kr3TXTH3_1A"
+        }
+    ]
+}

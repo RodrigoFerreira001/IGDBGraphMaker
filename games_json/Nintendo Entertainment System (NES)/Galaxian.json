@@ -1,0 +1,336 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "name": "\u30ae\u30e3\u30e9\u30af\u30b7\u30a2\u30f3 (Gyarakushian)"
+        }
+    ], 
+    "category": 0, 
+    "collection": 3307, 
+    "cover": {
+        "cloudinary_id": "vpqeloulji2z3xksyaeg", 
+        "height": 2246, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vpqeloulji2z3xksyaeg.jpg", 
+        "width": 1636
+    }, 
+    "created_at": 1390886935717, 
+    "developers": [
+        11315
+    ], 
+    "first_release_date": 307584000000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        2751, 
+        68287, 
+        36950, 
+        16513, 
+        19301, 
+        27314, 
+        19448, 
+        7350, 
+        7349, 
+        11550
+    ], 
+    "genres": [
+        5, 
+        33
+    ], 
+    "id": 4614, 
+    "keywords": [
+        3, 
+        137, 
+        166, 
+        947, 
+        970, 
+        1440, 
+        1739, 
+        2152, 
+        2274, 
+        3079, 
+        3486, 
+        3833, 
+        4134, 
+        4163, 
+        4446, 
+        4523, 
+        4754, 
+        4967, 
+        4990, 
+        5093, 
+        5116, 
+        5208, 
+        5479, 
+        5630, 
+        5745, 
+        5967, 
+        6018, 
+        6041, 
+        6137, 
+        6365, 
+        6727, 
+        9407, 
+        11566, 
+        14126
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Galaxian", 
+    "platforms": [
+        71, 
+        68, 
+        52, 
+        66, 
+        59, 
+        13, 
+        65, 
+        75, 
+        152, 
+        125, 
+        15, 
+        26, 
+        77, 
+        18, 
+        27
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        2067, 
+        10178, 
+        1121, 
+        82, 
+        11315, 
+        566
+    ], 
+    "rating": 87.182109883816, 
+    "rating_count": 9, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 152, 
+            "region": 5, 
+            "y": 1985
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 71, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 77, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 0, 
+            "date": 439084800000, 
+            "human": "1983-Dec-01", 
+            "m": 12, 
+            "platform": 125, 
+            "region": 5, 
+            "y": 1983
+        }, 
+        {
+            "category": 0, 
+            "date": 444355200000, 
+            "human": "1984-Jan-31", 
+            "m": 1, 
+            "platform": 27, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 68, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 410140800000, 
+            "human": "1982", 
+            "m": 12, 
+            "platform": 65, 
+            "region": 2, 
+            "y": 1982
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 59, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 75, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 410140800000, 
+            "human": "1982", 
+            "m": 12, 
+            "platform": 66, 
+            "region": 2, 
+            "y": 1982
+        }, 
+        {
+            "category": 1, 
+            "date": 307584000000, 
+            "human": "1979-Oct", 
+            "m": 10, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1979
+        }, 
+        {
+            "category": 0, 
+            "date": 463363200000, 
+            "human": "1984-Sep-07", 
+            "m": 9, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1984
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ubsn8i5agg4fdvuqnjxz", 
+            "height": 1024, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ubsn8i5agg4fdvuqnjxz.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xlqnqtzp5xisvonqb2pa", 
+            "height": 1024, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xlqnqtzp5xisvonqb2pa.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "galaxian", 
+    "summary": "Galaxian is a shooter arcade game developed by Namco in 1979. It was released by Namco in Japan and a few months later by Midway Games in North America. The game was developed to compete with Taito Corporation's Space Invaders, released a year earlier, and featured a similar space theme. The player controls a space ship in the bottom part of the screen and shoots at enemies descending from the top of the screen. \n \n \nThe game was received very well by the public and has continued to be a game with a competitive community to this day. It was followed by a successful sequel called Galaga in 1981 and two less known sequels called Gaplus in 1984 and Galaga '88 in 1987. Galaxian was one of the most popular games in the golden age of arcade video games.", 
+    "tags": [
+        18, 
+        268435461, 
+        268435489, 
+        536870915, 
+        536871049, 
+        536871078, 
+        536871859, 
+        536871882, 
+        536872352, 
+        536872651, 
+        536873064, 
+        536873186, 
+        536873991, 
+        536874398, 
+        536874745, 
+        536875046, 
+        536875075, 
+        536875358, 
+        536875435, 
+        536875666, 
+        536875879, 
+        536875902, 
+        536876005, 
+        536876028, 
+        536876120, 
+        536876391, 
+        536876542, 
+        536876657, 
+        536876879, 
+        536876930, 
+        536876953, 
+        536877049, 
+        536877277, 
+        536877639, 
+        536880319, 
+        536882478, 
+        536885038, 
+        1073741827
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 88.591054941908, 
+    "total_rating_count": 10, 
+    "updated_at": 1523194206982, 
+    "url": "https://www.igdb.com/games/galaxian", 
+    "videos": [
+        {
+            "name": "VR", 
+            "video_id": "e21nFQaoHMg"
+        }, 
+        {
+            "name": "VR", 
+            "video_id": "85ZyE98Oi8k"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 5017, 
+    "cover": {
+        "cloudinary_id": "uyo4wgh5i85cgpbunipc", 
+        "height": 250, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uyo4wgh5i85cgpbunipc.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1398210564228, 
+    "developers": [
+        901
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1006300800000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        28751, 
+        28552, 
+        27314, 
+        10039, 
+        17446, 
+        29525, 
+        28029, 
+        68287, 
+        36718, 
+        36950
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 6396, 
+    "keywords": [
+        453, 
+        1219, 
+        1299, 
+        4142, 
+        4178, 
+        4347, 
+        4382, 
+        4384, 
+        4446, 
+        4571, 
+        4579, 
+        4662, 
+        5185, 
+        6238, 
+        7527
+    ], 
+    "name": "Ecks vs. Sever", 
+    "platforms": [
+        24
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        189, 
+        2794
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1006300800000, 
+            "human": "2001-Nov-21", 
+            "m": 11, 
+            "platform": 24, 
+            "y": 2001
+        }
+    ], 
+    "slug": "ecks-vs-sever", 
+    "summary": "At the beginning of the game, players choose which character, Ecks or Sever, they wish to control. Both characters' plots intertwine and are given different level designs for each of their missions. \n \nGameplay is similar to other early FPSs such as Doom in that all of the graphics for enemies and weapons are 2D sprites in a 3D setting.", 
+    "tags": [
+        1, 
+        268435461, 
+        536871365, 
+        536872131, 
+        536872211, 
+        536875054, 
+        536875090, 
+        536875259, 
+        536875294, 
+        536875296, 
+        536875358, 
+        536875483, 
+        536875491, 
+        536875574, 
+        536876097, 
+        536877150, 
+        536878439, 
+        1073741825
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1515647014209, 
+    "url": "https://www.igdb.com/games/ecks-vs-sever"
+}

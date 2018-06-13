@@ -1,0 +1,109 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Soukoban"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u5009\u5eab\u756a"
+        }
+    ], 
+    "category": 0, 
+    "collection": 1055, 
+    "cover": {
+        "cloudinary_id": "tunibtpkpqxkogiko4sh", 
+        "height": 218, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tunibtpkpqxkogiko4sh.jpg", 
+        "width": 220
+    }, 
+    "created_at": 1411959026655, 
+    "developers": [
+        3706
+    ], 
+    "first_release_date": 620611200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        29173, 
+        55036, 
+        23345, 
+        55590, 
+        19376, 
+        18167, 
+        19934, 
+        76731, 
+        9199, 
+        9760
+    ], 
+    "genres": [
+        9, 
+        15
+    ], 
+    "id": 7799, 
+    "keywords": [
+        966, 
+        1705, 
+        3782, 
+        4031
+    ], 
+    "name": "Boxxle", 
+    "platforms": [
+        35, 
+        33
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        3707
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 620611200000, 
+            "human": "1989-Sep-01", 
+            "m": 9, 
+            "platform": 33, 
+            "region": 5, 
+            "y": 1989
+        }, 
+        {
+            "category": 1, 
+            "date": 633830400000, 
+            "human": "1990-Feb", 
+            "m": 2, 
+            "platform": 33, 
+            "region": 2, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 33, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 0, 
+            "date": 661219200000, 
+            "human": "1990-Dec-15", 
+            "m": 12, 
+            "platform": 35, 
+            "y": 1990
+        }
+    ], 
+    "slug": "boxxle", 
+    "summary": "The player must maneuver boxes in a warehouse in order to make enough money to woo his desired girlfriend.", 
+    "tags": [
+        268435465, 
+        268435471, 
+        536871878, 
+        536872617, 
+        536874694, 
+        536874943
+    ], 
+    "updated_at": 1513071414756, 
+    "url": "https://www.igdb.com/games/boxxle"
+}

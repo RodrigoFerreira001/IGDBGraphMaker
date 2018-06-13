@@ -1,0 +1,177 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bzdhlahespio2a4iqyux", 
+        "height": 147, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bzdhlahespio2a4iqyux.jpg", 
+        "width": 700
+    }, 
+    "created_at": 1453371048192, 
+    "developers": [
+        8182
+    ], 
+    "external": {
+        "steam": "246880"
+    }, 
+    "first_release_date": 1401840000000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        28751, 
+        10039, 
+        68287, 
+        34919, 
+        32902, 
+        16468, 
+        18088, 
+        36718, 
+        54639, 
+        28029
+    ], 
+    "genres": [
+        5, 
+        32
+    ], 
+    "id": 16626, 
+    "keywords": [
+        1, 
+        1025, 
+        2493, 
+        4259, 
+        5378
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Recruits", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        8182
+    ], 
+    "pulse_count": 1, 
+    "rating": 40.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1401840000000, 
+            "human": "2014-Jun-04", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 49, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "kmlnptpaarnrlsqss3jx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kmlnptpaarnrlsqss3jx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bwsyctmjohn8cow6dy1o", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bwsyctmjohn8cow6dy1o.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "z0ug3jsipizc1qjyczqz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z0ug3jsipizc1qjyczqz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fmg4lzuyyd87dkkvlnlu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fmg4lzuyyd87dkkvlnlu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ncephrfrdka5v8vylhfy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ncephrfrdka5v8vylhfy.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "recruits", 
+    "status": 4, 
+    "summary": "Recruits is a brutal fast paced top down shooter that puts the lives of countless amounts of soldiers in your command. Lead your men to victory and see them progress through the ranks, show them defeat and they will be lost forever.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435488, 
+        536870913, 
+        536871937, 
+        536873405, 
+        536875171, 
+        536876290, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 40.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1527087265718, 
+    "url": "https://www.igdb.com/games/recruits", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "pNcZhrWItSM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/246880"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.recruitsgame.com"
+        }, 
+        {
+            "category": 5, 
+            "url": "http://www.twitter.com/commotiongame"
+        }, 
+        {
+            "category": 4, 
+            "url": "http://www.facebook.com/commotiongames"
+        }
+    ]
+}

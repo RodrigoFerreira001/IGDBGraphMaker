@@ -1,0 +1,162 @@
+{
+    "aggregated_rating": 81.75, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 1327, 
+    "cover": {
+        "cloudinary_id": "cq6jpmqi3mgfc3nxozqg", 
+        "height": 177, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cq6jpmqi3mgfc3nxozqg.jpg", 
+        "width": 778
+    }, 
+    "created_at": 1468634136812, 
+    "first_release_date": 1319500800000, 
+    "games": [
+        68287, 
+        26766, 
+        36950, 
+        7350, 
+        27314, 
+        19448, 
+        19301, 
+        11156, 
+        142, 
+        64204
+    ], 
+    "genres": [
+        5, 
+        9
+    ], 
+    "id": 20445, 
+    "keywords": [
+        970, 
+        1025, 
+        1059, 
+        2152, 
+        2875, 
+        4134, 
+        4239, 
+        4245, 
+        4282, 
+        4465, 
+        5523, 
+        7159, 
+        9298, 
+        9951
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "PixelJunk SideScroller", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        2933
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1320883200000, 
+            "human": "2011-Nov-10", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1319500800000, 
+            "human": "2011-Oct-25", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1319587200000, 
+            "human": "2011-Oct-26", 
+            "m": 10, 
+            "platform": 9, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "e1oihcsvw7lomq810p6k", 
+            "height": 390, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e1oihcsvw7lomq810p6k.jpg", 
+            "width": 690
+        }, 
+        {
+            "cloudinary_id": "owtnjqycegnksjhvmtxg", 
+            "height": 390, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/owtnjqycegnksjhvmtxg.jpg", 
+            "width": 690
+        }, 
+        {
+            "cloudinary_id": "xqw6sgi6rowl2kayatvc", 
+            "height": 390, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xqw6sgi6rowl2kayatvc.jpg", 
+            "width": 690
+        }, 
+        {
+            "cloudinary_id": "imxaw6holf0qq3zf4auy", 
+            "height": 390, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/imxaw6holf0qq3zf4auy.jpg", 
+            "width": 690
+        }, 
+        {
+            "cloudinary_id": "zmzja4kktihck0x6y6gn", 
+            "height": 366, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zmzja4kktihck0x6y6gn.jpg", 
+            "width": 650
+        }
+    ], 
+    "slug": "pixeljunk-sidescroller", 
+    "summary": "PixelJunk SideScroller is a side-scrolling shoot 'em up game developed by Q-Games for the PlayStation 3 as part of the PixelJunk series. It was released on the PlayStation Store on 25 October 2011 in North America[1] and 26 October 2011 in Europe.[2] Visually, it is designed to resemble old vector-based games and is based on the \"Road to Dawn\" bonus stage in PixelJunk Shooter 2.[2]", 
+    "tags": [
+        18, 
+        268435461, 
+        268435465, 
+        536871882, 
+        536871937, 
+        536871971, 
+        536873064, 
+        536873787, 
+        536875046, 
+        536875151, 
+        536875157, 
+        536875194, 
+        536875377, 
+        536876435, 
+        536878071, 
+        536880210, 
+        536880863
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 81.75, 
+    "total_rating_count": 4, 
+    "updated_at": 1521022477985, 
+    "url": "https://www.igdb.com/games/pixeljunk-sidescroller"
+}

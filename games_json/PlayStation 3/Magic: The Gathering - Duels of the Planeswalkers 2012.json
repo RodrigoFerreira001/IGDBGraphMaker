@@ -1,0 +1,265 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Magic 2012"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Duels of the Planeswalkers 2012"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2221, 
+    "cover": {
+        "cloudinary_id": "varmbzdzag5iumggxa5s", 
+        "height": 600, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/varmbzdzag5iumggxa5s.jpg", 
+        "width": 501
+    }, 
+    "created_at": 1452846185024, 
+    "developers": [
+        8950
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "49470"
+    }, 
+    "first_release_date": 1304380800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        11423, 
+        11529, 
+        18645, 
+        19082, 
+        19407, 
+        18167, 
+        21429, 
+        28113, 
+        7350, 
+        6732
+    ], 
+    "genres": [
+        15, 
+        16
+    ], 
+    "id": 16173, 
+    "keywords": [
+        147, 
+        226, 
+        296, 
+        301, 
+        332, 
+        420, 
+        584, 
+        966, 
+        1158, 
+        1228, 
+        1293, 
+        3171, 
+        3782, 
+        4004, 
+        4134, 
+        4135, 
+        4142, 
+        4150, 
+        4214, 
+        4215, 
+        4245, 
+        4270, 
+        4404, 
+        4412, 
+        4674, 
+        4676, 
+        4698, 
+        4890, 
+        5124, 
+        5633, 
+        5790, 
+        6074, 
+        6653, 
+        7032, 
+        11208, 
+        11782, 
+        12189
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 45, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 3, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012", 
+    "platforms": [
+        6, 
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1023
+    ], 
+    "rating": 80.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1308009600000, 
+            "human": "2011-Jun-14", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1308096000000, 
+            "human": "2011-Jun-15", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1309910400000, 
+            "human": "2011-Jul-06", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1304380800000, 
+            "human": "2011-May-03", 
+            "m": 5, 
+            "platform": 6, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "kaqcwmf1zkvhvzckj5od", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kaqcwmf1zkvhvzckj5od.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qpv7hcnduowu83hs0lqa", 
+            "height": 718, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qpv7hcnduowu83hs0lqa.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ng4xpwhj800tcxz3jykq", 
+            "height": 717, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ng4xpwhj800tcxz3jykq.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nkw12cjqj66f4wgu7ldd", 
+            "height": 721, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nkw12cjqj66f4wgu7ldd.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "mn0levgpic1twonjyxid", 
+            "height": 203, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mn0levgpic1twonjyxid.jpg", 
+            "width": 360
+        }
+    ], 
+    "slug": "magic-the-gathering-duels-of-the-planeswalkers-2012", 
+    "summary": "All-new and redesigned, Magic: The Gathering \u2014 Duels of the Planeswalkers 2012 takes last year\u2019s massive hit game to even greater heights with better graphics, more options, and new challenges!", 
+    "tags": [
+        268435471, 
+        268435472, 
+        536871059, 
+        536871138, 
+        536871208, 
+        536871213, 
+        536871244, 
+        536871332, 
+        536871496, 
+        536871878, 
+        536872070, 
+        536872140, 
+        536872205, 
+        536874083, 
+        536874694, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875054, 
+        536875062, 
+        536875126, 
+        536875127, 
+        536875157, 
+        536875182, 
+        536875316, 
+        536875324, 
+        536875586, 
+        536875588, 
+        536875610, 
+        536875802, 
+        536876036, 
+        536876545, 
+        536876702, 
+        536876986, 
+        536877565, 
+        536877944, 
+        536882120, 
+        536882694, 
+        536883101
+    ], 
+    "total_rating": 77.5, 
+    "total_rating_count": 5, 
+    "updated_at": 1523277063075, 
+    "url": "https://www.igdb.com/games/magic-the-gathering-duels-of-the-planeswalkers-2012", 
+    "websites": [
+        {
+            "category": 5, 
+            "url": "https://twitter.com/Magic_Duels"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.wizards.com/magic/digital/duelsoftheplaneswalkers.aspx"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/49470"
+        }
+    ]
+}

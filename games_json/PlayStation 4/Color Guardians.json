@@ -1,0 +1,185 @@
+{
+    "aggregated_rating": 62.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "dipsj980kl5hpdkokakl", 
+        "height": 374, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dipsj980kl5hpdkokakl.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1467964910661, 
+    "external": {
+        "steam": "336840"
+    }, 
+    "first_release_date": 1431388800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        6732, 
+        68324, 
+        47823, 
+        11423, 
+        34919, 
+        27717, 
+        21429, 
+        16468, 
+        55752, 
+        19407
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 19947, 
+    "keywords": [
+        296, 
+        589, 
+        1494, 
+        2118, 
+        4004, 
+        4148, 
+        4150, 
+        4726, 
+        5259, 
+        5610, 
+        6035, 
+        6145
+    ], 
+    "name": "Color Guardians", 
+    "platforms": [
+        45, 
+        6, 
+        14, 
+        48
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        8315
+    ], 
+    "rating": 79.2581547522833, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1431475200000, 
+            "human": "2015-May-13", 
+            "m": 5, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1431388800000, 
+            "human": "2015-May-12", 
+            "m": 5, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1431388800000, 
+            "human": "2015-May-12", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1433376000000, 
+            "human": "2015-Jun-04", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1431388800000, 
+            "human": "2015-May-12", 
+            "m": 5, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1431388800000, 
+            "human": "2015-May-12", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rwc3zrbsqmwsdwzwecbn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rwc3zrbsqmwsdwzwecbn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "aclfbmp4qgpbdoqqesqb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aclfbmp4qgpbdoqqesqb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "z1zfsfcmvlowwksnpcba", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z1zfsfcmvlowwksnpcba.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "sewywobcvnlqu5hj2c3e", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sewywobcvnlqu5hj2c3e.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lmyzelw0mz0c1gmgrflq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lmyzelw0mz0c1gmgrflq.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "color-guardians", 
+    "summary": "Color Guardians is an exciting fast action side scrolling game that combines quick thinking with frantic gameplay into a hard to master challenge! Switching colors and collecting items, all while avoiding obstacles will surely test your reflexes!", 
+    "tags": [
+        1, 
+        268435488, 
+        536871208, 
+        536871501, 
+        536872406, 
+        536873030, 
+        536874916, 
+        536875060, 
+        536875062, 
+        536875638, 
+        536876171, 
+        536876522, 
+        536876947, 
+        536877057
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.79574404280831, 
+    "total_rating_count": 7, 
+    "updated_at": 1523429855993, 
+    "url": "https://www.igdb.com/games/color-guardians", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.colorguardians.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/336840"
+        }
+    ]
+}

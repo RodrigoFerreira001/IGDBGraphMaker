@@ -1,0 +1,128 @@
+{
+    "aggregated_rating": 64.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 2230, 
+    "cover": {
+        "cloudinary_id": "x6e5ig72xycwhus1kket", 
+        "height": 720, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/x6e5ig72xycwhus1kket.jpg", 
+        "width": 1280
+    }, 
+    "created_at": 1467994031850, 
+    "first_release_date": 1410825600000, 
+    "game_modes": [
+        2
+    ], 
+    "id": 20059, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "KickBeat: Special Edition", 
+    "platforms": [
+        45, 
+        41, 
+        49
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        453
+    ], 
+    "rating": 67.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1410998400000, 
+            "human": "2014-Sep-18", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410825600000, 
+            "human": "2014-Sep-16", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1411689600000, 
+            "human": "2014-Sep-26", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410912000000, 
+            "human": "2014-Sep-17", 
+            "m": 9, 
+            "platform": 45, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hxkqmz0hoze3qhrhfnrj", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hxkqmz0hoze3qhrhfnrj.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "fhwole2bjdczvibn2cvl", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fhwole2bjdczvibn2cvl.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "g2gqxqnmngj6rkzl5ic3", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g2gqxqnmngj6rkzl5ic3.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "g6wvtrxuahau0xyfgvpl", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g6wvtrxuahau0xyfgvpl.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "wwh8wmzckc0gqrjrygvt", 
+            "height": 350, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wwh8wmzckc0gqrjrygvt.jpg", 
+            "width": 618
+        }
+    ], 
+    "slug": "kickbeat-special-edition", 
+    "summary": "KickBeat \u2013 Special Edition offers up a full-length single-player campaign, beautifully hand-drawn animations and a strikingly unique art style.", 
+    "total_rating": 65.5, 
+    "total_rating_count": 3, 
+    "updated_at": 1528354585215, 
+    "url": "https://www.igdb.com/games/kickbeat-special-edition", 
+    "version_parent": 7683, 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://kickbeat.com/"
+        }
+    ]
+}

@@ -1,0 +1,284 @@
+{
+    "aggregated_rating": 80.5714285714286, 
+    "aggregated_rating_count": 7, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "x7iuflsuxj9meyhqyprq", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/x7iuflsuxj9meyhqyprq.jpg", 
+        "width": 1920
+    }, 
+    "created_at": 1466062832144, 
+    "developers": [
+        10124
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "277390"
+    }, 
+    "first_release_date": 1468281600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        19934, 
+        19290, 
+        19376, 
+        17583, 
+        11253, 
+        25311, 
+        65832, 
+        22690, 
+        19174, 
+        19448
+    ], 
+    "genres": [
+        11, 
+        14, 
+        15, 
+        32
+    ], 
+    "id": 19607, 
+    "keywords": [
+        117, 
+        126, 
+        166, 
+        1166, 
+        1471, 
+        1495, 
+        1677, 
+        4134, 
+        4796, 
+        4871, 
+        5316, 
+        5327
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 6, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 6, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "VIDEOBALL", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        48, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2121
+    ], 
+    "pulse_count": 1, 
+    "rating": 60.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1468368000000, 
+            "human": "2016-Jul-13", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 45, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 48, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 49, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 6, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 14, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 3, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 92, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "z7mptvrdwwyyeleauxtq", 
+            "height": 1090, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z7mptvrdwwyyeleauxtq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "k8d5g8ppjexupql7jkg6", 
+            "height": 1090, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k8d5g8ppjexupql7jkg6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "w8y0as2xmhkv59g84w8c", 
+            "height": 1090, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w8y0as2xmhkv59g84w8c.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bspgl1hb66j8lmhthh9a", 
+            "height": 1090, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bspgl1hb66j8lmhthh9a.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rcxc8usak37e8jbwtad8", 
+            "height": 1090, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rcxc8usak37e8jbwtad8.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "videoball", 
+    "summary": "VIDEOBALL is a sport everyone can play. VIDEOBALL is simple enough for a party. VIDEOBALL is deep enough for the best party ever. VIDEOBALL combines our favorite elements of arcade shooting games, modern first-person shooters, and modern real-time strategy games with the depth of soccer, basketball, hockey, football, and rugby. In VIDEOBALL you maneuver a player using directional buttons or either of your controller's analog sticks. Press any button or pull any trigger to project a triangle. Only triangles can push balls. Triangles also stun players on impact. Hold any button to charge bigger triangles. Bigger triangles push harder. Push balls into the opposing goal to score points. Hold a button long enough to build a defensive square. Shoot defensive squares to destroy them.", 
+    "tags": [
+        1, 
+        268435467, 
+        268435470, 
+        268435471, 
+        268435488, 
+        536871029, 
+        536871038, 
+        536871078, 
+        536872078, 
+        536872383, 
+        536872407, 
+        536872589, 
+        536875046, 
+        536875708, 
+        536875783, 
+        536876228, 
+        536876239, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.2857142857143, 
+    "total_rating_count": 8, 
+    "updated_at": 1528359910570, 
+    "url": "https://www.igdb.com/games/videoball", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "dUxJspLDWdw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/277390"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://videoball.net"
+        }
+    ]
+}

@@ -1,0 +1,333 @@
+{
+    "aggregated_rating": 81.6190476190476, 
+    "aggregated_rating_count": 24, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30c9\u30e9\u30b4\u30f3\u30af\u30a8\u30b9\u30c8\u30d3\u30eb\u30c0\u30fc\u30ba \u30a2\u30ec\u30d5\u30ac\u30eb\u30c9\u3092\u5fa9\u6d3b\u305b\u3088"
+        }, 
+        {
+            "name": "Dragon Quest Builders: Alefgard o Fukkatsu Niseyo"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "ipnq1cvxcaeyf2wr9ftx", 
+            "height": 2829, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ipnq1cvxcaeyf2wr9ftx.jpg", 
+            "width": 2000
+        }, 
+        {
+            "cloudinary_id": "q62rrctqzhkzsab2plt1", 
+            "height": 1414, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q62rrctqzhkzsab2plt1.jpg", 
+            "width": 1000
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "nnhi92aonfqtrk8099sg", 
+        "height": 1697, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nnhi92aonfqtrk8099sg.jpg", 
+        "width": 1200
+    }, 
+    "created_at": 1474480757334, 
+    "developers": [
+        26
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is an action role-playing game in which players assume the role of a hero who must rebuild the world using the power of creation. Players traverse environments, gather and combine raw materials, build structures, and engage in combat against attacking monsters (e.g., skeletons, golems, dragons). Players use swords, hammers, and bombs to defeat enemies; most attacks cause enemies to burst/fall apart on the battlefield before disappearing. One enemy creature (\u201cbloody hand\u201d) is depicted as a hand covered in red slime. The game also contains some suggestive text/dialogue (e.g., \u201cScandalous Swimsuit: Racy red swimwear for those who like to show some skin\u201d and \u201cWhen night falls, do the two of you retire to the same room to spend some special time together.\u201d). During the course of the game, players can acquire or craft a \u201cbeer barrel\u201d item. The words \"damn\" and \"hell\" appear in text/dialogue."
+    }, 
+    "first_release_date": 1453939200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        47823, 
+        23733, 
+        55092, 
+        11169, 
+        11567, 
+        11364, 
+        19560, 
+        17001, 
+        17583, 
+        11560
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "hypes": 1, 
+    "id": 24069, 
+    "keywords": [
+        247, 
+        296, 
+        510, 
+        1033, 
+        1395, 
+        1682, 
+        1905, 
+        2365, 
+        2427, 
+        2790, 
+        4134, 
+        4401, 
+        4882, 
+        4883, 
+        6284, 
+        14051, 
+        14052, 
+        14055
+    ], 
+    "name": "Dragon Quest Builders", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Non realistic looking violence towards fantasy characters"
+    }, 
+    "platforms": [
+        46, 
+        9, 
+        48, 
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        26
+    ], 
+    "pulse_count": 48, 
+    "rating": 79.794753315305, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1518134400000, 
+            "human": "2018-Feb-09", 
+            "m": 2, 
+            "platform": 130, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1518134400000, 
+            "human": "2018-Feb-09", 
+            "m": 2, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1519862400000, 
+            "human": "2018-Mar-01", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 5, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1453939200000, 
+            "human": "2016-Jan-28", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453939200000, 
+            "human": "2016-Jan-28", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453939200000, 
+            "human": "2016-Jan-28", 
+            "m": 1, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476403200000, 
+            "human": "2016-Oct-14", 
+            "m": 10, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476403200000, 
+            "human": "2016-Oct-14", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dalmjr7qywocy5uoa8rr", 
+            "height": 1134, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dalmjr7qywocy5uoa8rr.jpg", 
+            "width": 2016
+        }, 
+        {
+            "cloudinary_id": "l4h1q6ksttkuu1ocuuuc", 
+            "height": 1134, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l4h1q6ksttkuu1ocuuuc.jpg", 
+            "width": 2016
+        }, 
+        {
+            "cloudinary_id": "fndzelhgixokrlyfr3zh", 
+            "height": 1134, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fndzelhgixokrlyfr3zh.jpg", 
+            "width": 2016
+        }, 
+        {
+            "cloudinary_id": "ddenv287btjokz7d9pwd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ddenv287btjokz7d9pwd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cl7tw2hmo8b3yq838z6s", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cl7tw2hmo8b3yq838z6s.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vwa5y0vzy4wwm9gahegv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vwa5y0vzy4wwm9gahegv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "usz7sgqftyorx4dtpa63", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/usz7sgqftyorx4dtpa63.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ue5dcjhoxacthfmsacx3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ue5dcjhoxacthfmsacx3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "by0hfgq6nnt1ivprot8i", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/by0hfgq6nnt1ivprot8i.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "g0yaqm8aagxehfckd6uq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g0yaqm8aagxehfckd6uq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "etepyqqptegfwxfnroii", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/etepyqqptegfwxfnroii.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rfpj8aueaakk7lwwmvd5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rfpj8aueaakk7lwwmvd5.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "dragon-quest-builders", 
+    "storyline": "\"Generations ago, the realm of Alefgard was plunged into darkness by the terrible and treacherous Dragonlord, ruler of all monsters. Mankind was robbed of the power to build and forced to wander the ruins of their former home, scrounging and scavenging in the dust to survive. \n \nNow it\u2019s up to you, a Legendary Builder chosen by the Goddess herself, to return the power of creation to the people and rebuild Alefgard. Only when the wonder of imagination has been returned will mankind be able to overthrow the evil Dragonlord once and for all!\"", 
+    "summary": "\"Dragon Quest Builders is a sandbox action RPG where your imagination is the limit! Everything plays out in real time and the world is made entirely of blocks (although it may not look that blocky) and you can use these blocks to build pretty much whatever you want. Building is easy and can be done in three steps: \n \n 1. Plan what you\u2019re going to build! \n 2. Gather your resources! \n 3. Begin construction and create your masterpiece! \n \nThere is an overarching main storyline to follow in Dragon Quest Builders so if you want a narrative to get attached to and pull you through, that\u2019s in there too. It wouldn\u2019t be a Dragon Quest game without one after all! Oh and there\u2019s plenty of quirky side quests and NPCs to give you that full RPG experience, just with the additional sandbox gameplay and monsters to battle as well.\"", 
+    "tags": [
+        1, 
+        17, 
+        33, 
+        268435468, 
+        268435487, 
+        536871159, 
+        536871208, 
+        536871422, 
+        536871945, 
+        536872307, 
+        536872594, 
+        536872817, 
+        536873277, 
+        536873339, 
+        536873702, 
+        536875046, 
+        536875313, 
+        536875794, 
+        536875795, 
+        536877196, 
+        536884963, 
+        536884964, 
+        536884967, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        33
+    ], 
+    "total_rating": 80.7069004671763, 
+    "total_rating_count": 27, 
+    "updated_at": 1528822345896, 
+    "url": "https://www.igdb.com/games/dragon-quest-builders", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "_iSRidjaAWw"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "NBQ3V4Geb1Q"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://dragonquest-game.com/builders/us/"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Dragon_Quest_Builders"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://dragon-quest.org/wiki/Dragon_Quest_Builders"
+        }
+    ]
+}

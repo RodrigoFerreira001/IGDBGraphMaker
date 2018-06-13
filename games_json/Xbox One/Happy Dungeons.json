@@ -1,0 +1,148 @@
+{
+    "category": 0, 
+    "collection": 3915, 
+    "cover": {
+        "cloudinary_id": "vo2ist4air26r36ggoyu", 
+        "height": 418, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vo2ist4air26r36ggoyu.jpg", 
+        "width": 350
+    }, 
+    "created_at": 1501328893827, 
+    "first_release_date": 1475539200000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        68324, 
+        12632, 
+        27209, 
+        36926, 
+        74793, 
+        36608, 
+        47823, 
+        34919, 
+        26766, 
+        36950
+    ], 
+    "id": 52238, 
+    "keywords": [
+        296, 
+        1026
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Happy Dungeons", 
+    "platforms": [
+        45, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "pulse_count": 4, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1475625600000, 
+            "human": "2016-Oct-05", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1475539200000, 
+            "human": "2016-Oct-04", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1505174400000, 
+            "human": "2017-Sep-12", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505174400000, 
+            "human": "2017-Sep-12", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "i2ieckcc1h1jlapa0jij", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i2ieckcc1h1jlapa0jij.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "flal8r5lebb5xvgmzec6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/flal8r5lebb5xvgmzec6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lb2eu8serqbpqrpdzfur", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lb2eu8serqbpqrpdzfur.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rcg1obssvrtkdsl6do3v", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rcg1obssvrtkdsl6do3v.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "daxtlmws2u3xfntimujx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/daxtlmws2u3xfntimujx.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "happy-dungeons", 
+    "summary": "Sequel to the Hit game Happy Wars. A game that shift's away from competitive action to a more cooperative play hack-and-slash dungeon-crawler.", 
+    "tags": [
+        1, 
+        536871208, 
+        536871938
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1527087351923, 
+    "url": "https://www.igdb.com/games/happy-dungeons", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.happydungeons.net/"
+        }
+    ]
+}

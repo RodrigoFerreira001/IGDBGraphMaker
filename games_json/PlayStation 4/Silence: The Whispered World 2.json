@@ -1,0 +1,314 @@
+{
+    "aggregated_rating": 77.5, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "name": "Silence"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "z53ma4pbbuisciwnynqh", 
+            "height": 710, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z53ma4pbbuisciwnynqh.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "w3tvvxplg1plydo742qh", 
+            "height": 710, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w3tvvxplg1plydo742qh.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "b1qxwl9ry2fsw46fbyce", 
+            "height": 710, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b1qxwl9ry2fsw46fbyce.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "ayaqfpihtxwpsqzj95tf", 
+            "height": 710, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ayaqfpihtxwpsqzj95tf.jpg", 
+            "width": 1260
+        }
+    ], 
+    "category": 0, 
+    "collection": 1552, 
+    "cover": {
+        "cloudinary_id": "u8ajostn0f8smmtkdl1y", 
+        "height": 989, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/u8ajostn0f8smmtkdl1y.jpg", 
+        "width": 700
+    }, 
+    "created_at": 1438865714499, 
+    "developers": [
+        2248
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "314790"
+    }, 
+    "first_release_date": 1479168000000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        6732, 
+        11423, 
+        8968, 
+        13189, 
+        11214, 
+        13163, 
+        19448, 
+        18167, 
+        25222, 
+        21429
+    ], 
+    "genres": [
+        2, 
+        31, 
+        32
+    ], 
+    "hypes": 3, 
+    "id": 11561, 
+    "keywords": [
+        296, 
+        1027, 
+        1098, 
+        1158, 
+        1494, 
+        1710, 
+        2841, 
+        3227, 
+        4004, 
+        4145, 
+        4150, 
+        4169, 
+        4345, 
+        4356, 
+        4428, 
+        4619, 
+        4634, 
+        4725, 
+        4738, 
+        4788, 
+        4831, 
+        4882, 
+        4890, 
+        6391, 
+        6472, 
+        6512
+    ], 
+    "name": "Silence: The Whispered World 2", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Realistic looking violence towards non human looking characters - Mild bad language - Violence causing minor injury only"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        48, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        2248
+    ], 
+    "pulse_count": 1, 
+    "rating": 79.3079344961386, 
+    "rating_count": 8, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1481241600000, 
+            "human": "2016-Dec-09", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479168000000, 
+            "human": "2016-Nov-15", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479168000000, 
+            "human": "2016-Nov-15", 
+            "m": 11, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479168000000, 
+            "human": "2016-Nov-15", 
+            "m": 11, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479168000000, 
+            "human": "2016-Nov-15", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479168000000, 
+            "human": "2016-Nov-15", 
+            "m": 11, 
+            "platform": 49, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479168000000, 
+            "human": "2016-Nov-15", 
+            "m": 11, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "cfepgz9zdhupdsa3lm7y", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cfepgz9zdhupdsa3lm7y.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "k3v6tfvhjuxu6hmyawjc", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k3v6tfvhjuxu6hmyawjc.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ywjvvlwsuwupvy4lr1pj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ywjvvlwsuwupvy4lr1pj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "z1gujiwqicy9qlck4wg8", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z1gujiwqicy9qlck4wg8.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "h2wq0r8he2xevba4zlle", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h2wq0r8he2xevba4zlle.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "silence-the-whispered-world-2", 
+    "storyline": "Noah, a 16 year old boy and his little sister Renie take shelter in a bunker during an air raid where they find a passage to the fantastic dreamscape of Silence \u2013 to the Whispered World.\nBut even here, war ravages the land. Dark creatures lurk everywhere and devour anyone who crosses their path. Only a small band of rebels still resists. The two siblings are caught in the turmoil of the ongoing battle and to survive, they need to rely on the one thing that let them brave any danger: their love for each other.", 
+    "summary": "With completely new 3D visuals, The game will take players back to Silence, a world made of dreams. We accompany Noah, a teenager, who lost his little sister Renie in the hazardous real world and now hopes to find her again in Silence.\n\nApart from an emotionally investing yet humorous story, adventure-fans can look forward to a reunion with old friends and many new features.", 
+    "tags": [
+        17, 
+        31, 
+        268435458, 
+        268435487, 
+        268435488, 
+        536871208, 
+        536871939, 
+        536872010, 
+        536872070, 
+        536872406, 
+        536872622, 
+        536873753, 
+        536874139, 
+        536874916, 
+        536875057, 
+        536875062, 
+        536875081, 
+        536875257, 
+        536875268, 
+        536875340, 
+        536875531, 
+        536875546, 
+        536875637, 
+        536875650, 
+        536875700, 
+        536875743, 
+        536875794, 
+        536875802, 
+        536877303, 
+        536877384, 
+        536877424, 
+        1073741828
+    ], 
+    "themes": [
+        17, 
+        31
+    ], 
+    "total_rating": 78.4039672480693, 
+    "total_rating_count": 11, 
+    "updated_at": 1528357804336, 
+    "url": "https://www.igdb.com/games/silence-the-whispered-world-2", 
+    "videos": [
+        {
+            "name": "Cinematic Trailer", 
+            "video_id": "Xh3y_C7alUQ"
+        }, 
+        {
+            "name": "Gamescom 2016 Trailer", 
+            "video_id": "z_Gg-ZH0gbY"
+        }, 
+        {
+            "name": "Release Trailer", 
+            "video_id": "0spJ3DKkd5M"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/314790"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.daedalic.de/"
+        }
+    ]
+}

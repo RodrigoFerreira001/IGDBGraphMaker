@@ -1,0 +1,365 @@
+{
+    "aggregated_rating": 88.5, 
+    "aggregated_rating_count": 5, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "ME"
+        }, 
+        {
+            "name": "Mass Effect 1"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "jxdnvd31xywwiqxcaglw", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jxdnvd31xywwiqxcaglw.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "d2934hujhpxctflfltzq", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d2934hujhpxctflfltzq.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "nh2tkxayf39zfaruit9e", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nh2tkxayf39zfaruit9e.jpg", 
+            "width": 740
+        }, 
+        {
+            "cloudinary_id": "wczuww84ig3xokezjt2r", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wczuww84ig3xokezjt2r.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "vb9tamxnu0i3bifinpkv", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vb9tamxnu0i3bifinpkv.jpg", 
+            "width": 1000
+        }
+    ], 
+    "category": 0, 
+    "collection": 25, 
+    "cover": {
+        "cloudinary_id": "kueaxhiqdwrosfhqspn1", 
+        "height": 2150, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kueaxhiqdwrosfhqspn1.jpg", 
+        "width": 1506
+    }, 
+    "created_at": 1298019627000, 
+    "developers": [
+        222, 
+        2
+    ], 
+    "dlcs": [
+        13784, 
+        13781
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": ""
+    }, 
+    "external": {
+        "steam": "17460"
+    }, 
+    "first_release_date": 1195516800000, 
+    "game_engines": [
+        351
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        75, 
+        36950, 
+        78, 
+        19448, 
+        1595, 
+        11364, 
+        25300, 
+        498, 
+        90099, 
+        68287
+    ], 
+    "genres": [
+        5, 
+        12
+    ], 
+    "hypes": 2, 
+    "id": 73, 
+    "keywords": [
+        3, 
+        562, 
+        563, 
+        846, 
+        947, 
+        970, 
+        1025, 
+        1026, 
+        1714, 
+        1886, 
+        1887, 
+        1971, 
+        4145, 
+        4369, 
+        4387, 
+        4428, 
+        4468, 
+        4520, 
+        4852, 
+        4884, 
+        4888, 
+        4907, 
+        4918, 
+        4977, 
+        5323, 
+        5391, 
+        5633, 
+        5939, 
+        6075, 
+        6250, 
+        6323, 
+        6812, 
+        7451, 
+        8840, 
+        9131, 
+        9455, 
+        10519, 
+        11999, 
+        12888, 
+        12891, 
+        13348, 
+        14301
+    ], 
+    "name": "Mass Effect", 
+    "pegi": {
+        "rating": 5
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 15.66666666666667, 
+    "publishers": [
+        53, 
+        1
+    ], 
+    "pulse_count": 42, 
+    "rating": 87.7170543025145, 
+    "rating_count": 772, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1354665600000, 
+            "human": "2012-Dec-05", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1354579200000, 
+            "human": "2012-Dec-04", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1354665600000, 
+            "human": "2012-Dec-05", 
+            "m": 12, 
+            "platform": 45, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1354579200000, 
+            "human": "2012-Dec-04", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1354838400000, 
+            "human": "2012-Dec-07", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1195516800000, 
+            "human": "2007-Nov-20", 
+            "m": 11, 
+            "platform": 12, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1211932800000, 
+            "human": "2008-May-28", 
+            "m": 5, 
+            "platform": 6, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1354579200000, 
+            "human": "2012-Dec-04", 
+            "m": 12, 
+            "platform": 9, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "r3uwmc94irofukfk6odw", 
+            "height": 810, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r3uwmc94irofukfk6odw.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "hatacbd1inqmu5cavj7z", 
+            "height": 809, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hatacbd1inqmu5cavj7z.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "feadbwfkxgfbuy7ohnu5", 
+            "height": 810, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/feadbwfkxgfbuy7ohnu5.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "mcoa62ivpynxt9jnx3ys", 
+            "height": 810, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mcoa62ivpynxt9jnx3ys.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "onndes2gzmquz0e8rpli", 
+            "height": 810, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/onndes2gzmquz0e8rpli.jpg", 
+            "width": 1440
+        }
+    ], 
+    "slug": "mass-effect", 
+    "summary": "What starts as a routine mission to an agrarian outpost quickly becomes the opening salvo in an epic war. As the newly appointed Executive Officer of the SSV Normandy, you'll assemble and lead an elite squad of heroes into battle after heart-pounding battle. Each decision you make will impact not only your fate, but the destiny of the entire galaxy in the Mass Effect trilogy. \n \nKey Features: \n \nIncredible, interactive storytelling. Create and customize your own character, from Commander Shepard's appearance and skills to a personalized arsenal. Unleash devastating abilities as you command and train. Your decisions will control the outcome of each mission, your relationships with your crew and ultimately the entire war. \n \nAn amazing universe to explore. From the massive Citadel to the harsh, radioactive landscape of the Krogan home world \u2013 the incredible breadth of the Mass Effect universe will blow you away. Travel to the farthest outposts aboard the SSV Normandy, the most technologically advanced ship in the galaxy. You'll follow the clues left by ancient civilizations, discover hidden bases with fantastic new tech and lead your hand-picked crew into explosive alien battles. \n \nEdge-of-your-seat excitement meets strategic combat. Find the perfect combination of squad-mates and weapons for each battle if you want to lead them to victory. Sun-Tzu's advice remains as pertinent in 2183 as it is today \u2013 know your enemy. You'll need different tactics for a squad of enemies with devastating biotic attacks than a heavily armored Geth Colossus so choose your teams wisely.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435468, 
+        536870915, 
+        536871474, 
+        536871475, 
+        536871758, 
+        536871859, 
+        536871882, 
+        536871937, 
+        536871938, 
+        536872626, 
+        536872798, 
+        536872799, 
+        536872883, 
+        536875057, 
+        536875281, 
+        536875299, 
+        536875340, 
+        536875380, 
+        536875432, 
+        536875764, 
+        536875796, 
+        536875800, 
+        536875819, 
+        536875830, 
+        536875889, 
+        536876235, 
+        536876303, 
+        536876545, 
+        536876851, 
+        536876987, 
+        536877162, 
+        536877235, 
+        536877724, 
+        536878363, 
+        536879752, 
+        536880043, 
+        536880367, 
+        536881431, 
+        536882911, 
+        536883800, 
+        536883803, 
+        536884260, 
+        536885213, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "time_to_beat": {
+        "completely": 190995, 
+        "hastly": 57860, 
+        "normally": 113862
+    }, 
+    "total_rating": 88.10852715125725, 
+    "total_rating_count": 777, 
+    "updated_at": 1528746324214, 
+    "url": "https://www.igdb.com/games/mass-effect", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "-_6ZMr2bMco"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://masseffect.bioware.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/17460"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/biowaremasseffect"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/masseffect"
+        }, 
+        {
+            "category": 6, 
+            "url": "https://www.twitch.tv/masseffect"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/masseffect"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Mass_Effect_(video_game)"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://masseffect.wikia.com/wiki/Mass_Effect_Wiki"
+        }
+    ]
+}

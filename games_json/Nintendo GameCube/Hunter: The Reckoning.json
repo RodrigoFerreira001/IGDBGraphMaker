@@ -1,0 +1,176 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 850, 
+    "cover": {
+        "cloudinary_id": "by4vvvktjejnom3a1qp5", 
+        "height": 359, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/by4vvvktjejnom3a1qp5.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1390267103537, 
+    "developers": [
+        392
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1021939200000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        7329, 
+        44076, 
+        36926, 
+        1907, 
+        26766, 
+        25300, 
+        25646, 
+        19333, 
+        1911, 
+        11567
+    ], 
+    "genres": [
+        4, 
+        12, 
+        25, 
+        31
+    ], 
+    "id": 3950, 
+    "keywords": [
+        211, 
+        226, 
+        227, 
+        301, 
+        558, 
+        1026, 
+        1120, 
+        1779, 
+        2264, 
+        2679, 
+        3270, 
+        4345, 
+        4486, 
+        4508, 
+        4543, 
+        4571, 
+        4572, 
+        4660, 
+        4698, 
+        5120, 
+        5308, 
+        5389, 
+        5794, 
+        6445, 
+        7184, 
+        7406, 
+        7447, 
+        13117, 
+        13295
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 11, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Hunter: The Reckoning", 
+    "platforms": [
+        11, 
+        21
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        5
+    ], 
+    "rating": 60.2307243362639, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1037577600000, 
+            "human": "2002-Nov-18", 
+            "m": 11, 
+            "platform": 21, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1021939200000, 
+            "human": "2002-May-21", 
+            "m": 5, 
+            "platform": 11, 
+            "y": 2002
+        }
+    ], 
+    "slug": "hunter-the-reckoning", 
+    "summary": "Set in White Wolf's World of Darkness, Hunter: The Reckoning lets you take the role of one of four different hunters--Deuce, a biker ex-con; Father Cortez, a prison chaplain; Kassandra, a raver chick; and Samantha, a tough ex-cop. Armed with a variety of fearsome weaponry--ranging from axes to shotguns--you'll battle it out with hordes of supernatural enemies. Intense action combined with multiplayer support brings the true spirit of Hunter: The Reckoning to life.", 
+    "tags": [
+        1, 
+        19, 
+        268435460, 
+        268435468, 
+        268435481, 
+        268435487, 
+        536871123, 
+        536871138, 
+        536871139, 
+        536871213, 
+        536871470, 
+        536871938, 
+        536872032, 
+        536872691, 
+        536873176, 
+        536873591, 
+        536874182, 
+        536875257, 
+        536875398, 
+        536875420, 
+        536875455, 
+        536875483, 
+        536875484, 
+        536875572, 
+        536875610, 
+        536876032, 
+        536876220, 
+        536876301, 
+        536876706, 
+        536877357, 
+        536878096, 
+        536878318, 
+        536878359, 
+        536884029, 
+        536884207, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        19
+    ], 
+    "total_rating": 65.11536216813195, 
+    "total_rating_count": 7, 
+    "updated_at": 1517271228385, 
+    "url": "https://www.igdb.com/games/hunter-the-reckoning", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "LUOLkivDeI4"
+        }
+    ]
+}

@@ -1,0 +1,371 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "TWW"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Zelda no Densetsu: Kaze no Takuto"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Zelda no Densetsu: Kaze no Takt"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "\u30bc\u30eb\u30c0\u306e\u4f1d\u8aac \u98a8\u306e\u30bf\u30af\u30c8"
+        }, 
+        {
+            "comment": "Chinese title", 
+            "name": "\u585e\u5c14\u8fbe\u4f20\u8bf4\uff1a\u98ce\u4e4b\u6756"
+        }, 
+        {
+            "name": "\u8428\u5c14\u8fbe\u4f20\u8bf4\uff1a\u98ce\u4e4b\u5f8b\u52a8"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "sgy5eiamgv12llzyw7av", 
+            "height": 593, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sgy5eiamgv12llzyw7av.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "jf3kjwrdq0hsa3djax5v", 
+            "height": 568, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jf3kjwrdq0hsa3djax5v.jpg", 
+            "width": 468
+        }, 
+        {
+            "cloudinary_id": "ymlkwbev1llknhdfr8ap", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ymlkwbev1llknhdfr8ap.jpg", 
+            "width": 730
+        }, 
+        {
+            "cloudinary_id": "nqujfvlda7lg7bhk7xrq", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nqujfvlda7lg7bhk7xrq.jpg", 
+            "width": 830
+        }, 
+        {
+            "cloudinary_id": "djon9zpxguuja5yrh03t", 
+            "height": 700, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/djon9zpxguuja5yrh03t.jpg", 
+            "width": 855
+        }, 
+        {
+            "cloudinary_id": "ximl1kesbrv6oobedhvo", 
+            "height": 373, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ximl1kesbrv6oobedhvo.jpg", 
+            "width": 468
+        }, 
+        {
+            "cloudinary_id": "wef4enpnzcbylqce8pzb", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wef4enpnzcbylqce8pzb.jpg", 
+            "width": 566
+        }, 
+        {
+            "cloudinary_id": "qvqg3rierhydwgbsi1rc", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qvqg3rierhydwgbsi1rc.jpg", 
+            "width": 670
+        }, 
+        {
+            "cloudinary_id": "i7k5nlgcqgpahxwy1vgj", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i7k5nlgcqgpahxwy1vgj.jpg", 
+            "width": 750
+        }
+    ], 
+    "category": 0, 
+    "collection": 106, 
+    "cover": {
+        "cloudinary_id": "zar9nzpsizzlaxtpbzam", 
+        "height": 1000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zar9nzpsizzlaxtpbzam.jpg", 
+        "width": 823
+    }, 
+    "created_at": 1326378880515, 
+    "developers": [
+        421
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1039737600000, 
+    "franchise": 596, 
+    "franchises": [
+        596
+    ], 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        47823, 
+        2276, 
+        1030, 
+        55092, 
+        11169, 
+        28168, 
+        23733, 
+        24426, 
+        11567, 
+        27092
+    ], 
+    "genres": [
+        8, 
+        9, 
+        12, 
+        31
+    ], 
+    "id": 1033, 
+    "keywords": [
+        203, 
+        296, 
+        337, 
+        505, 
+        701, 
+        779, 
+        1033, 
+        1181, 
+        1632, 
+        1975, 
+        2102, 
+        2452, 
+        2472, 
+        4161, 
+        4428, 
+        4578, 
+        4625, 
+        4769, 
+        4885, 
+        5856, 
+        6202, 
+        6531, 
+        6820, 
+        6821, 
+        7048, 
+        7218, 
+        7226, 
+        7230, 
+        7323, 
+        7595, 
+        8194, 
+        9201, 
+        9207, 
+        9213, 
+        9214, 
+        9624
+    ], 
+    "name": "The Legend of Zelda: The Wind Waker", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "Non realistic looking violence towards human characters"
+    }, 
+    "platforms": [
+        21
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 10.66666666666667, 
+    "publishers": [
+        70
+    ], 
+    "pulse_count": 3, 
+    "rating": 87.43942485159019, 
+    "rating_count": 269, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1052265600000, 
+            "human": "2003-May-07", 
+            "m": 5, 
+            "platform": 21, 
+            "region": 3, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1048464000000, 
+            "human": "2003-Mar-24", 
+            "m": 3, 
+            "platform": 21, 
+            "region": 2, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1051833600000, 
+            "human": "2003-May-02", 
+            "m": 5, 
+            "platform": 21, 
+            "region": 1, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1039737600000, 
+            "human": "2002-Dec-13", 
+            "m": 12, 
+            "platform": 21, 
+            "region": 5, 
+            "y": 2002
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "drqn6wdohkixmipkw31e", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/drqn6wdohkixmipkw31e.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "hddjnlyisgcdkpnm5d4o", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hddjnlyisgcdkpnm5d4o.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "amvufqgm5qq7ltaiafqk", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/amvufqgm5qq7ltaiafqk.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "okf6clwb9ffhaoq9fews", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/okf6clwb9ffhaoq9fews.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "zier3h3caoq2eltyinkw", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zier3h3caoq2eltyinkw.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ynzswmpweefbtwtha06u", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ynzswmpweefbtwtha06u.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "nwice9glgbdjniaruq1p", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nwice9glgbdjniaruq1p.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "etlgyqorutdzw8ngsgjk", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/etlgyqorutdzw8ngsgjk.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ebwuqqnejzrqejxzabkh", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ebwuqqnejzrqejxzabkh.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "tbld0yzxgnp9fihfpmor", 
+            "height": 960, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tbld0yzxgnp9fihfpmor.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "oxz5x9z7sytu9rivhyae", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oxz5x9z7sytu9rivhyae.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "lhtbcizqkxkzujndit81", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lhtbcizqkxkzujndit81.jpg", 
+            "width": 1024
+        }
+    ], 
+    "slug": "the-legend-of-zelda-the-wind-waker", 
+    "summary": "The Legend of Zelda: The Wind Waker is the 10th sequel of the Legend of Zelda action-adventure series. It's the first game of the series to be set on a group of islands in the sea. Therefore, many of Link's actions base on sailing and travelling from island to island, making a baton for controlling the wind the key item of the game. \n \nWind Waker is the first game of the Series with a cel-shaded graphic style. Since fans expected a Zelda game with realistic graphics like being shown at the Space World in 2000, the cel-shading look was critisized and discussed controversial for being too cartoonish.", 
+    "tags": [
+        1, 
+        17, 
+        268435464, 
+        268435465, 
+        268435468, 
+        268435487, 
+        536871115, 
+        536871208, 
+        536871249, 
+        536871417, 
+        536871613, 
+        536871691, 
+        536871945, 
+        536872093, 
+        536872544, 
+        536872887, 
+        536873014, 
+        536873364, 
+        536873384, 
+        536875073, 
+        536875340, 
+        536875490, 
+        536875537, 
+        536875681, 
+        536875797, 
+        536876768, 
+        536877114, 
+        536877443, 
+        536877732, 
+        536877733, 
+        536877960, 
+        536878130, 
+        536878138, 
+        536878142, 
+        536878235, 
+        536878507, 
+        536879106, 
+        536880113, 
+        536880119, 
+        536880125, 
+        536880126, 
+        536880536, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "time_to_beat": {
+        "completely": 108000, 
+        "normally": 117820
+    }, 
+    "total_rating": 88.7197124257951, 
+    "total_rating_count": 270, 
+    "updated_at": 1528298482415, 
+    "url": "https://www.igdb.com/games/the-legend-of-zelda-the-wind-waker", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "RxMos9muPYQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://zelda.wikia.com/wiki/The_Legend_of_Zelda:_The_Wind_Waker"
+        }
+    ]
+}

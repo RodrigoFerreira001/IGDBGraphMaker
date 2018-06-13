@@ -1,0 +1,56 @@
+{
+    "aggregated_rating": 77.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "created_at": 1469816769176, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1212451200000, 
+    "id": 21809, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Schizoid", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1212451200000, 
+            "human": "2008-Jun-03", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lwrpnv8s9dgsa14xmu14", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lwrpnv8s9dgsa14xmu14.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "schizoid", 
+    "total_rating": 77.3333333333333, 
+    "total_rating_count": 3, 
+    "updated_at": 1501068137519, 
+    "url": "https://www.igdb.com/games/schizoid"
+}

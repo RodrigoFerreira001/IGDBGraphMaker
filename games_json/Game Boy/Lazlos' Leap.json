@@ -1,0 +1,69 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Solitaire"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vhgq7d9ljo9ohmn3x2bb", 
+        "height": 639, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vhgq7d9ljo9ohmn3x2bb.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1504874318968, 
+    "first_release_date": 709516800000, 
+    "games": [
+        60044, 
+        25222, 
+        14047, 
+        19222, 
+        41348, 
+        26223, 
+        10225, 
+        27266, 
+        83207, 
+        83155
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 61363, 
+    "keywords": [
+        2875
+    ], 
+    "name": "Lazlos' Leap", 
+    "platforms": [
+        33
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 720489600000, 
+            "human": "1992-Oct-31", 
+            "m": 10, 
+            "platform": 33, 
+            "region": 2, 
+            "y": 1992
+        }, 
+        {
+            "category": 0, 
+            "date": 709516800000, 
+            "human": "1992-Jun-26", 
+            "m": 6, 
+            "platform": 33, 
+            "region": 5, 
+            "y": 1992
+        }
+    ], 
+    "slug": "lazlos-leap", 
+    "summary": "Lazlos' Leap is a puzzle game, purported to have been designed by one Professor Lazlos, a \"mathematician and Game Boy player\". In Japan, it was released with the ultra-simple title \"Solitaire\".", 
+    "tags": [
+        268435465, 
+        536873787
+    ], 
+    "updated_at": 1516697197181, 
+    "url": "https://www.igdb.com/games/lazlos-leap"
+}

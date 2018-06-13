@@ -1,0 +1,322 @@
+{
+    "aggregated_rating": 45.8333333333333, 
+    "aggregated_rating_count": 7, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "gpdko0d9gdngify2mvyx", 
+        "height": 326, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gpdko0d9gdngify2mvyx.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1391187812263, 
+    "developers": [
+        1295, 
+        1254
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1187654400000, 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        28113, 
+        11423, 
+        54524, 
+        10121, 
+        27081, 
+        13163, 
+        22690, 
+        28951, 
+        71864, 
+        26748
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 4731, 
+    "keywords": [
+        299, 
+        1166, 
+        1293, 
+        4134, 
+        4245, 
+        4437, 
+        4443, 
+        4667, 
+        5348, 
+        10919, 
+        12462, 
+        13083
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Brunswick Pro Bowling", 
+    "platforms": [
+        39, 
+        41, 
+        9, 
+        38, 
+        48, 
+        12, 
+        49, 
+        37, 
+        5, 
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        667, 
+        445
+    ], 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1187654400000, 
+            "human": "2007-Aug-21", 
+            "m": 8, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1190332800000, 
+            "human": "2007-Sep-21", 
+            "m": 9, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1187654400000, 
+            "human": "2007-Aug-21", 
+            "m": 8, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1448582400000, 
+            "human": "2015-Nov-27", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1302220800000, 
+            "human": "2011-Apr-08", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1282348800000, 
+            "human": "2010-Aug-21", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1451260800000, 
+            "human": "2015-Dec-28", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448323200000, 
+            "human": "2015-Nov-24", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1188259200000, 
+            "human": "2007-Aug-28", 
+            "m": 8, 
+            "platform": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1188259200000, 
+            "human": "2007-Aug-28", 
+            "m": 8, 
+            "platform": 8, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1188259200000, 
+            "human": "2007-Aug-28", 
+            "m": 8, 
+            "platform": 38, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1188259200000, 
+            "human": "2007-Aug-28", 
+            "m": 8, 
+            "platform": 39, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1285113600000, 
+            "human": "2010-Sep-22", 
+            "m": 9, 
+            "platform": 9, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1292457600000, 
+            "human": "2010-Dec-16", 
+            "m": 12, 
+            "platform": 12, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1317081600000, 
+            "human": "2011-Sep-27", 
+            "m": 9, 
+            "platform": 37, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "u5ctgfu8mfhxwg5m4sfz", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u5ctgfu8mfhxwg5m4sfz.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "cohljtwiocwthiw36akr", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cohljtwiocwthiw36akr.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "zu4jzz4mwbyfeugrncga", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zu4jzz4mwbyfeugrncga.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "vqojagh5vbmqcncdnrer", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vqojagh5vbmqcncdnrer.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "pgkpyazukcmk37rwc9sr", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pgkpyazukcmk37rwc9sr.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "nigr5gghp33rsp0y9xbv", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nigr5gghp33rsp0y9xbv.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "xmkphhykwnhcsbuezwcm", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xmkphhykwnhcsbuezwcm.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "nlmzaci6emqwut3ivu2z", 
+            "height": 347, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nlmzaci6emqwut3ivu2z.jpg", 
+            "width": 616
+        }, 
+        {
+            "cloudinary_id": "agzaccthlc4ustvmnz4y", 
+            "height": 330, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/agzaccthlc4ustvmnz4y.jpg", 
+            "width": 588
+        }, 
+        {
+            "cloudinary_id": "jts4wglocftgu5ihba2u", 
+            "height": 347, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jts4wglocftgu5ihba2u.jpg", 
+            "width": 616
+        }, 
+        {
+            "cloudinary_id": "nbtwgonq2tqtxqikm3y1", 
+            "height": 330, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nbtwgonq2tqtxqikm3y1.jpg", 
+            "width": 588
+        }, 
+        {
+            "cloudinary_id": "jf9vs27xvjrccjszeldn", 
+            "height": 281, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jf9vs27xvjrccjszeldn.jpg", 
+            "width": 500
+        }
+    ], 
+    "slug": "brunswick-pro-bowling", 
+    "summary": "Work your way from an amateur to a true professional Brunswick Pro Champion. Featuring real-time changing lane conditions for the player to master during the course of a match, authentic Brunswick bowling products to improve your character's performance, and ten different environments to choose from.", 
+    "tags": [
+        268435470, 
+        536871211, 
+        536872078, 
+        536872205, 
+        536875046, 
+        536875157, 
+        536875349, 
+        536875355, 
+        536875579, 
+        536876260, 
+        536881831, 
+        536883374, 
+        536883995
+    ], 
+    "total_rating": 47.91666666666665, 
+    "total_rating_count": 7, 
+    "updated_at": 1528351521733, 
+    "url": "https://www.igdb.com/games/brunswick-pro-bowling", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.cravegames.com/BrunswickProBowling/"
+        }
+    ]
+}

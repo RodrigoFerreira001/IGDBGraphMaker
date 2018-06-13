@@ -1,0 +1,49 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "rova7x9r1bktbz1xntm3", 
+        "height": 511, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rova7x9r1bktbz1xntm3.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1517395464334, 
+    "first_release_date": 1441843200000, 
+    "id": 85162, 
+    "name": "Funky Physics", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        15436
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1441843200000, 
+            "human": "2015-Sep-10", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xr5mq7wq3pzhy7tlbwzc", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xr5mq7wq3pzhy7tlbwzc.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "pg42s24uuj0jpgpl73sl", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pg42s24uuj0jpgpl73sl.jpg", 
+            "width": 745
+        }
+    ], 
+    "slug": "funky-physics", 
+    "summary": "In this simple yet challenging physics-based game your goal is to remove all the green blocks from the screen.", 
+    "updated_at": 1525615014334, 
+    "url": "https://www.igdb.com/games/funky-physics"
+}

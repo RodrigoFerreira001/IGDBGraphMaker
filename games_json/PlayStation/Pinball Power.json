@@ -1,0 +1,87 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "American Arcade"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "lpmwk8a5uvy46hbkfuic", 
+        "height": 241, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lpmwk8a5uvy46hbkfuic.jpg", 
+        "width": 170
+    }, 
+    "created_at": 1499161429477, 
+    "first_release_date": 968284800000, 
+    "games": [
+        18467, 
+        4266, 
+        65065, 
+        64477, 
+        52654, 
+        37205, 
+        80629, 
+        80374, 
+        79237, 
+        78404
+    ], 
+    "genres": [
+        30
+    ], 
+    "id": 43740, 
+    "keywords": [
+        934, 
+        4456, 
+        4500
+    ], 
+    "name": "Pinball Power", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        7, 
+        8
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1068422400000, 
+            "human": "2003-Nov-10", 
+            "m": 11, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 968284800000, 
+            "human": "2000-Sep-07", 
+            "m": 9, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 970358400000, 
+            "human": "2000-Oct-01", 
+            "m": 10, 
+            "platform": 7, 
+            "region": 8, 
+            "y": 2000
+        }
+    ], 
+    "slug": "pinball-power", 
+    "summary": "[SLES_02922] \nMedieval pinball action with lots of tables and lots of power-ups. \nWork your way through the dark ages, win battles and complete quests using just your pinball skills. Collect new power-ups and weapons as you go", 
+    "tags": [
+        268435486, 
+        536871846, 
+        536875167, 
+        536875368, 
+        536875412
+    ], 
+    "updated_at": 1516764095406, 
+    "url": "https://www.igdb.com/games/pinball-power"
+}

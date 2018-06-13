@@ -1,0 +1,179 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kac9cy97bcgonjo0wmel", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kac9cy97bcgonjo0wmel.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1504736513495, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1432166400000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        54524, 
+        65489, 
+        65085, 
+        64859, 
+        62802, 
+        20232, 
+        20120, 
+        16513, 
+        28113, 
+        36660
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 58946, 
+    "keywords": [
+        1293, 
+        4134, 
+        4137
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 6, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Baila Latino", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        41, 
+        48, 
+        49
+    ], 
+    "popularity": 1.666666666666667, 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1432166400000, 
+            "human": "2015-May-21", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1471392000000, 
+            "human": "2016-Aug-17", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1494892800000, 
+            "human": "2017-May-16", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1432771200000, 
+            "human": "2015-May-28", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "smrqb6wrs9cutvd5wszo", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/smrqb6wrs9cutvd5wszo.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "pptdatepd5ct0uhsugmp", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pptdatepd5ct0uhsugmp.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "xjnt56oxhumyn8z8ulno", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xjnt56oxhumyn8z8ulno.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "karedypz8ial6a8febuu", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/karedypz8ial6a8febuu.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "mve5ya9z8psrhtf4gwyz", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mve5ya9z8psrhtf4gwyz.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "zgoav3tcrdgpmt1dnehr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zgoav3tcrdgpmt1dnehr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "o42ukmpdspybh2yheswu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o42ukmpdspybh2yheswu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "achjzybmpwp1hrwfba6s", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/achjzybmpwp1hrwfba6s.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ksewaule5pxa928uryqt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ksewaule5pxa928uryqt.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "baila-latino", 
+    "summary": "A music game with a Latin music theme.", 
+    "tags": [
+        268435463, 
+        536872205, 
+        536875046, 
+        536875049
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1526726319807, 
+    "url": "https://www.igdb.com/games/baila-latino", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.oxygenemedia.it/baila-latino"
+        }
+    ]
+}

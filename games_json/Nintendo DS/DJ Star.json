@@ -1,0 +1,83 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "k1gwinwgmngyyrurdqgc", 
+        "height": 450, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/k1gwinwgmngyyrurdqgc.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1469298221165, 
+    "first_release_date": 1253145600000, 
+    "id": 21243, 
+    "name": "DJ Star", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        423
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1253145600000, 
+            "human": "2009-Sep-17", 
+            "m": 9, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vfzxiwdwgjrofwq6awoo", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vfzxiwdwgjrofwq6awoo.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "gzehe46nhe4ihdayldcf", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gzehe46nhe4ihdayldcf.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "vhbpqrv8rzgtvgks4ocu", 
+            "height": 330, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vhbpqrv8rzgtvgks4ocu.jpg", 
+            "width": 222
+        }, 
+        {
+            "cloudinary_id": "dcqibopz7yytartsun86", 
+            "height": 330, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dcqibopz7yytartsun86.jpg", 
+            "width": 225
+        }, 
+        {
+            "cloudinary_id": "e0sk15r3iqrxnhuuohq8", 
+            "height": 330, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e0sk15r3iqrxnhuuohq8.jpg", 
+            "width": 222
+        }, 
+        {
+            "cloudinary_id": "k5q00vk6r0ue5czmwkwu", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k5q00vk6r0ue5czmwkwu.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "dj-star", 
+    "summary": "You're a star on the International Nightclub Circuit! Mix and create tracks to become the most famous DJ on the planet. Fill the dance floors with your music and make yourself known in the world's biggest nightclubs: London, Paris, Berlin and Miami!", 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1518056111731, 
+    "url": "https://www.igdb.com/games/dj-star", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://djstar.deepsilver.com"
+        }
+    ]
+}

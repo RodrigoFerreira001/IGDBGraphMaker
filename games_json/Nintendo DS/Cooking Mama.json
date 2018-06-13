@@ -1,0 +1,287 @@
+{
+    "aggregated_rating": 68.5, 
+    "aggregated_rating_count": 4, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30af\u30c3\u30ad\u30f3\u30b0 \u30de\u30de"
+        }
+    ], 
+    "category": 0, 
+    "collection": 707, 
+    "cover": {
+        "cloudinary_id": "cyxtnsjcuqwjynwnicu4", 
+        "height": 197, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cyxtnsjcuqwjynwnicu4.jpg", 
+        "width": 220
+    }, 
+    "created_at": 1382289621845, 
+    "developers": [
+        1438, 
+        1440
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1143072000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        3064, 
+        3061, 
+        3062, 
+        22406, 
+        19847, 
+        19785, 
+        11238, 
+        18433, 
+        22425, 
+        18623
+    ], 
+    "genres": [
+        13
+    ], 
+    "id": 3060, 
+    "keywords": [
+        78, 
+        274, 
+        594, 
+        658, 
+        758, 
+        770, 
+        1148, 
+        1299, 
+        2069, 
+        4145, 
+        4182, 
+        4328, 
+        4420, 
+        4483, 
+        4510, 
+        4629, 
+        4708, 
+        5501, 
+        5505, 
+        5544, 
+        5661, 
+        5932, 
+        6393, 
+        6396, 
+        6436, 
+        6826, 
+        6901, 
+        6971, 
+        6986, 
+        7005, 
+        7140, 
+        7147, 
+        7214, 
+        7382, 
+        7547, 
+        8259, 
+        9402, 
+        9498, 
+        9936, 
+        10211, 
+        10440, 
+        10754, 
+        12516, 
+        16284
+    ], 
+    "name": "Cooking Mama", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        39, 
+        20
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        700, 
+        1440, 
+        445
+    ], 
+    "rating": 60.0, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1235606400000, 
+            "human": "2009-Feb-26", 
+            "m": 2, 
+            "platform": 39, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1158019200000, 
+            "human": "2006-Sep-12", 
+            "m": 9, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1143072000000, 
+            "human": "2006-Mar-23", 
+            "m": 3, 
+            "platform": 20, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1165449600000, 
+            "human": "2006-Dec-07", 
+            "m": 12, 
+            "platform": 20, 
+            "region": 3, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1165536000000, 
+            "human": "2006-Dec-08", 
+            "m": 12, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pycb3vgtadzzl46logvw", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pycb3vgtadzzl46logvw.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "kxec1llcvij84rryxz9v", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kxec1llcvij84rryxz9v.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "es7fedstxzwtvedsgbrk", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/es7fedstxzwtvedsgbrk.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "j5o72wlye8tohoxm9qou", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j5o72wlye8tohoxm9qou.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "phil9sssqcyrhi2yi086", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/phil9sssqcyrhi2yi086.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ypqj5wz2mhkbda29huot", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ypqj5wz2mhkbda29huot.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "wi6e2z3dt24qdwy9r03d", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wi6e2z3dt24qdwy9r03d.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "dixexcz6eczttj84uos9", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dixexcz6eczttj84uos9.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "nzjjkxgwkoxds1jzflbi", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nzjjkxgwkoxds1jzflbi.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "s27r3ubsujvktq6nrjiv", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s27r3ubsujvktq6nrjiv.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ktsxgb2eskdpvljjrp3p", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ktsxgb2eskdpvljjrp3p.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "pryjkfkgpucm5bpakpph", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pryjkfkgpucm5bpakpph.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "cooking-mama", 
+    "summary": "The gameplay structure consists of the player progressing through a series of short minigames. The game features a total of 96 different dishes. \n \nEach minigame represents a different activity in the meal preparation, such as mixing, frying, or chopping the provided ingredients. The minigame mechanics themselves range from quickly drawing parallel lines in order to chop items, to a rhythm game where ingredients are added to a skillet or the heat is adjusted at precisely the right time. In many cases, players must look at the top screen of the DS for guidance on what to do next and then perform the task on the bottom screen. If the player makes a serious blunder or time expires without sufficient progress being made, that step in the cooking process is considered a failure. When this happens, a graphic of an angry \"Mama\" with flames erupting from her eyes is displayed, along with the caption \"Don't worry, Mama will fix it!\".", 
+    "tags": [
+        268435469, 
+        536870990, 
+        536871186, 
+        536871506, 
+        536871570, 
+        536871670, 
+        536871682, 
+        536872060, 
+        536872211, 
+        536872981, 
+        536875057, 
+        536875094, 
+        536875240, 
+        536875332, 
+        536875395, 
+        536875422, 
+        536875541, 
+        536875620, 
+        536876413, 
+        536876417, 
+        536876456, 
+        536876573, 
+        536876844, 
+        536877305, 
+        536877308, 
+        536877348, 
+        536877738, 
+        536877813, 
+        536877883, 
+        536877898, 
+        536877917, 
+        536878052, 
+        536878059, 
+        536878126, 
+        536878294, 
+        536878459, 
+        536879171, 
+        536880314, 
+        536880410, 
+        536880848, 
+        536881123, 
+        536881352, 
+        536881666, 
+        536883428, 
+        536887196
+    ], 
+    "total_rating": 64.25, 
+    "total_rating_count": 7, 
+    "updated_at": 1524788707592, 
+    "url": "https://www.igdb.com/games/cooking-mama", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.cookingmama.com/"
+        }
+    ]
+}

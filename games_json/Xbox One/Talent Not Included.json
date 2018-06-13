@@ -1,0 +1,187 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "euzq9patrdmqzxfscmpu", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/euzq9patrdmqzxfscmpu.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1495717287965, 
+    "developers": [
+        6970
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "485260"
+    }, 
+    "first_release_date": 1472428800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        11423, 
+        6732, 
+        76110, 
+        28113, 
+        27717, 
+        21429, 
+        19407, 
+        19934, 
+        19082, 
+        16513
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 32469, 
+    "keywords": [
+        117, 
+        1158, 
+        1293, 
+        1494, 
+        4004, 
+        4134, 
+        4150, 
+        4151
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Talent Not Included", 
+    "platforms": [
+        6, 
+        14, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1491350400000, 
+            "human": "2017-Apr-05", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1472428800000, 
+            "human": "2016-Aug-29", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472515200000, 
+            "human": "2016-Aug-30", 
+            "m": 8, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472515200000, 
+            "human": "2016-Aug-30", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "g629gryufcm4kshpotgu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g629gryufcm4kshpotgu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "x36kpom3nujhn4m6vwrg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x36kpom3nujhn4m6vwrg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ol5uih6vm4eznmafkf33", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ol5uih6vm4eznmafkf33.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "b0rym7zyq3wllgu8w1ni", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b0rym7zyq3wllgu8w1ni.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ikwhoyxyam35cbxcqutn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ikwhoyxyam35cbxcqutn.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "talent-not-included", 
+    "summary": "Set in the fantasy land of Notthatmuchfurther, Talent Not Included tells the story of three actors, ready for anything, in order to give the performance of their life even if that means facing mechanical soldiers, animals, hardheaded monsters as well as rotating cylinders at their feet. Break a leg, you'll need it !", 
+    "tags": [
+        1, 
+        268435488, 
+        536871029, 
+        536872070, 
+        536872205, 
+        536872406, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875063
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1528358602396, 
+    "url": "https://www.igdb.com/games/talent-not-included", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/485260"
+        }
+    ]
+}

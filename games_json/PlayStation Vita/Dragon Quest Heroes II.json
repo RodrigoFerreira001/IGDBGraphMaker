@@ -1,0 +1,222 @@
+{
+    "aggregated_rating": 81.0714285714286, 
+    "aggregated_rating_count": 15, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30c9\u30e9\u30b4\u30f3\u30af\u30a8\u30b9\u30c8\u30d2\u30fc\u30ed\u30fc\u30baII \u53cc\u5b50\u306e\u738b\u3068\u4e88\u8a00\u306e\u7d42\u308f\u308a"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "Dragon Quest Heroes II: Futago no Ou to Yogen no Owari"
+        }, 
+        {
+            "name": "Dragon Quest Heroes II: Twin Kings and the Prophecy's End"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "lkpzko9uw8xodqt80ghp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lkpzko9uw8xodqt80ghp.jpg", 
+            "width": 1920
+        }
+    ], 
+    "category": 0, 
+    "collection": 2442, 
+    "cover": {
+        "cloudinary_id": "sw0b4fxeolgtinccg2jd", 
+        "height": 7131, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sw0b4fxeolgtinccg2jd.jpg", 
+        "width": 5728
+    }, 
+    "created_at": 1481266472960, 
+    "developers": [
+        1394, 
+        2161, 
+        11740
+    ], 
+    "esrb": {
+        "rating": 1
+    }, 
+    "external": {
+        "steam": "574050"
+    }, 
+    "first_release_date": 1464307200000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        47823, 
+        28380, 
+        16468, 
+        37088, 
+        26766, 
+        12632, 
+        59516, 
+        36926, 
+        1221, 
+        55289
+    ], 
+    "genres": [
+        12, 
+        25, 
+        31
+    ], 
+    "id": 26341, 
+    "keywords": [
+        296, 
+        1682, 
+        2071
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dragon Quest Heroes II", 
+    "platforms": [
+        46, 
+        9, 
+        48
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        26
+    ], 
+    "pulse_count": 26, 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1493337600000, 
+            "human": "2017-Apr-28", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1493078400000, 
+            "human": "2017-Apr-25", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1464307200000, 
+            "human": "2016-May-27", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464307200000, 
+            "human": "2016-May-27", 
+            "m": 5, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464307200000, 
+            "human": "2016-May-27", 
+            "m": 5, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "v9fr26benteljmzavupx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v9fr26benteljmzavupx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xl92m2pfjytcjeaw8a2m", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xl92m2pfjytcjeaw8a2m.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mw8tvyhdniesex500eka", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mw8tvyhdniesex500eka.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "g6l9pnmlg39x5homrvat", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g6l9pnmlg39x5homrvat.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pvi8aloexyjkmquacavm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pvi8aloexyjkmquacavm.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "dragon-quest-heroes-ii", 
+    "summary": "\"DRAGON QUEST HEROES II is a hack-and-slash, field-roaming Action RPG that sends players on a new adventure to restore order in a once peaceful world filled with hordes of monsters and battles of epic proportions. Up to 4 players can band together in cooperative multiplayer to conquer swarms of enemies and defeat challenging boss monsters. \n \nThere is also a cast of many playable characters each with unique moves and abilities \u2013 including a host of familiar faces from the DRAGON QUEST series and four brand new heroes that must team up to defeat an unknown threat looming over the Seven Realms!\"", 
+    "tags": [
+        1, 
+        17, 
+        268435468, 
+        268435481, 
+        268435487, 
+        536871208, 
+        536872594, 
+        536872983, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 65.5357142857143, 
+    "total_rating_count": 15, 
+    "updated_at": 1524667607679, 
+    "url": "https://www.igdb.com/games/dragon-quest-heroes-ii", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "I1vUazmiL5U"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/574050"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://dragonquest.com/"
+        }
+    ]
+}

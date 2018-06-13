@@ -1,0 +1,107 @@
+{
+    "aggregated_rating": 30.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "yuddmwx6xerq4jiqqex4", 
+        "height": 765, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yuddmwx6xerq4jiqqex4.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1468175818225, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1314921600000, 
+    "games": [
+        6685, 
+        19516, 
+        31558, 
+        42589, 
+        72120, 
+        28951, 
+        6051, 
+        49054, 
+        47522, 
+        37486
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 20163, 
+    "keywords": [
+        234, 
+        1293, 
+        4142, 
+        4227, 
+        4271, 
+        5348, 
+        5691, 
+        6092, 
+        7369, 
+        8780, 
+        9951
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Hulk Hogan's Main Event", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 75.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1314921600000, 
+            "human": "2011-Sep-02", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "sgx5bufmczb4ety9g3vt", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sgx5bufmczb4ety9g3vt.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "hulk-hogans-main-event", 
+    "summary": "Features iconic Wrestling Superstar Hulk Hogan.", 
+    "tags": [
+        268435470, 
+        536871146, 
+        536872205, 
+        536875054, 
+        536875139, 
+        536875183, 
+        536876260, 
+        536876603, 
+        536877004, 
+        536878281, 
+        536879692, 
+        536880863
+    ], 
+    "total_rating": 52.5, 
+    "total_rating_count": 1, 
+    "updated_at": 1515845189075, 
+    "url": "https://www.igdb.com/games/hulk-hogans-main-event"
+}

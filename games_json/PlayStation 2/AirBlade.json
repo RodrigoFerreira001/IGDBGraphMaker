@@ -1,0 +1,129 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "nvuguei8itcvxxrnpaom", 
+        "height": 186, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nvuguei8itcvxxrnpaom.jpg", 
+        "width": 130
+    }, 
+    "created_at": 1417440334107, 
+    "developers": [
+        347
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1005264000000, 
+    "game_engines": [
+        41
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        11253, 
+        25311, 
+        19301, 
+        23212, 
+        40470, 
+        68287, 
+        25300, 
+        36950, 
+        9789, 
+        19934
+    ], 
+    "genres": [
+        10, 
+        13, 
+        14, 
+        33
+    ], 
+    "id": 8231, 
+    "keywords": [
+        635, 
+        923, 
+        969, 
+        970, 
+        971, 
+        1148, 
+        1166, 
+        1330, 
+        3336, 
+        4157, 
+        5354, 
+        10435
+    ], 
+    "name": "AirBlade", 
+    "platforms": [
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        263, 
+        334
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1005264000000, 
+            "human": "2001-Nov-09", 
+            "m": 11, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 1012176000000, 
+            "human": "2002-Jan-28", 
+            "m": 1, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2002
+        }
+    ], 
+    "slug": "airblade", 
+    "summary": "AirBlade takes place in the near future as a man named Oscar has developed a perpetual energy source that will revolutionize the world, however, the GCP Corporation has discovered it as well and fears that it will hurt the company which is heavily invested in the oil companies. Desperate, they kidnap Oscar in an attempt to silence him, but before he is captured, he gives his friend Ethan a prototype hoverboard called the AirBlade.", 
+    "tags": [
+        1, 
+        18, 
+        268435466, 
+        268435469, 
+        268435470, 
+        268435489, 
+        536871547, 
+        536871835, 
+        536871881, 
+        536871882, 
+        536871883, 
+        536872060, 
+        536872078, 
+        536872242, 
+        536874248, 
+        536875069, 
+        536876266, 
+        536881347, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1527816676264, 
+    "url": "https://www.igdb.com/games/airblade", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://en.wikipedia.org/wiki/AirBlade"
+        }
+    ]
+}

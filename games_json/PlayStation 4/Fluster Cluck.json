@@ -1,0 +1,118 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "luu1sxzdlkn1imhpqhuo", 
+        "height": 512, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/luu1sxzdlkn1imhpqhuo.jpg", 
+        "width": 512
+    }, 
+    "created_at": 1501328069176, 
+    "first_release_date": 1413849600000, 
+    "games": [
+        67061, 
+        23531, 
+        70748, 
+        67943, 
+        66543, 
+        66509, 
+        64879, 
+        64093, 
+        60468, 
+        74813
+    ], 
+    "id": 52210, 
+    "keywords": [
+        1623, 
+        4283
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Fluster Cluck", 
+    "platforms": [
+        45, 
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1413849600000, 
+            "human": "2014-Oct-21", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1413936000000, 
+            "human": "2014-Oct-22", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1413849600000, 
+            "human": "2014-Oct-21", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "nkfd2zp3y6qcmz9htufp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nkfd2zp3y6qcmz9htufp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "azntszs68aaat9xq4jr6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/azntszs68aaat9xq4jr6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gvcahaz3xlggricvafho", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gvcahaz3xlggricvafho.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fkulrsztclnyda7bi8ht", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fkulrsztclnyda7bi8ht.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "m47wa6v83gbjnftttazs", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m47wa6v83gbjnftttazs.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "fluster-cluck", 
+    "summary": "Local multiplayer game involving chickens for PS4.", 
+    "tags": [
+        536872535, 
+        536875195
+    ], 
+    "updated_at": 1516687212146, 
+    "url": "https://www.igdb.com/games/fluster-cluck"
+}

@@ -1,0 +1,381 @@
+{
+    "category": 0, 
+    "collection": 1601, 
+    "cover": {
+        "cloudinary_id": "e5kf5whqwgdch9zopxt8", 
+        "height": 640, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/e5kf5whqwgdch9zopxt8.jpg", 
+        "width": 522
+    }, 
+    "created_at": 1400234472184, 
+    "developers": [
+        1440
+    ], 
+    "first_release_date": 599529600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        665, 
+        3772, 
+        14363, 
+        11198, 
+        36662, 
+        28856, 
+        19539, 
+        19934, 
+        26709, 
+        28379
+    ], 
+    "genres": [
+        10, 
+        33
+    ], 
+    "id": 6802, 
+    "keywords": [
+        25, 
+        427, 
+        594, 
+        1191, 
+        1669, 
+        1783, 
+        3425, 
+        3627, 
+        3831, 
+        3898, 
+        4157, 
+        4205, 
+        4242, 
+        4522, 
+        4803, 
+        5020, 
+        5030, 
+        5436, 
+        5525, 
+        6070, 
+        6539, 
+        7650, 
+        8263, 
+        8272, 
+        8281, 
+        9846, 
+        11260, 
+        11263, 
+        11266, 
+        15707
+    ], 
+    "name": "Chase H.Q.", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        52, 
+        63, 
+        35, 
+        86, 
+        118, 
+        16, 
+        121, 
+        15, 
+        26, 
+        25, 
+        33, 
+        5, 
+        18, 
+        64, 
+        27
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        13562, 
+        13104, 
+        1271, 
+        1440
+    ], 
+    "rating": 65.66836565469791, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1219708800000, 
+            "human": "2008-Aug-26", 
+            "m": 8, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1220572800000, 
+            "human": "2008-Sep-05", 
+            "m": 9, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1217203200000, 
+            "human": "2008-Jul-28", 
+            "m": 7, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 2, 
+            "date": 694137600000, 
+            "human": "1991", 
+            "m": 12, 
+            "platform": 118, 
+            "region": 5, 
+            "y": 1991
+        }, 
+        {
+            "category": 0, 
+            "date": 717897600000, 
+            "human": "1992-Oct-01", 
+            "m": 10, 
+            "platform": 121, 
+            "region": 5, 
+            "y": 1992
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 694137600000, 
+            "human": "1991", 
+            "m": 12, 
+            "platform": 64, 
+            "region": 1, 
+            "y": 1991
+        }, 
+        {
+            "category": 0, 
+            "date": 668390400000, 
+            "human": "1991-Mar-08", 
+            "m": 3, 
+            "platform": 35, 
+            "region": 5, 
+            "y": 1991
+        }, 
+        {
+            "category": 0, 
+            "date": 629078400000, 
+            "human": "1989-Dec-08", 
+            "m": 12, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1989
+        }, 
+        {
+            "category": 0, 
+            "date": 660009600000, 
+            "human": "1990-Dec-01", 
+            "m": 12, 
+            "platform": 33, 
+            "region": 2, 
+            "y": 1990
+        }, 
+        {
+            "category": 0, 
+            "date": 633312000000, 
+            "human": "1990-Jan-26", 
+            "m": 1, 
+            "platform": 86, 
+            "region": 5, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 27, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 25, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 16, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1988
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xryn8qakjxkiqgqytazl", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xryn8qakjxkiqgqytazl.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "cpypqy6wzmnff3jtadi0", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cpypqy6wzmnff3jtadi0.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "awlg9g5diyq2epulkaas", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/awlg9g5diyq2epulkaas.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "o3dqoombv9r8g9edxpfk", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o3dqoombv9r8g9edxpfk.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "npmuuiqxbldnf8qvhqiq", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/npmuuiqxbldnf8qvhqiq.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "zptbuypc1pzqala6cwdy", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zptbuypc1pzqala6cwdy.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "aym8wur2p831pxaaynrd", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aym8wur2p831pxaaynrd.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "rm8ghw7v1szo4ltuob6f", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rm8ghw7v1szo4ltuob6f.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "vfkxmyjk8movorud1vef", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vfkxmyjk8movorud1vef.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ir6drqnaorndfzrhnut3", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ir6drqnaorndfzrhnut3.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "h0yyoue9vgh54eut3sje", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h0yyoue9vgh54eut3sje.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "chase-h-q", 
+    "storyline": "The player assumes the role of a police officer named Tony Gibson, member of the \"Chase Special Investigation Department.\" Along with his partner, Raymond Broady, he must stop fleeing criminals in high-speed pursuits.", 
+    "summary": "At the start of each level the player is informed who they are pursuing, a great distance away: They must apprehend the criminal before their time limit expires. The criminal's car is constantly moving away, so if the player repeatedly crashes or drives too slowly, the criminal will escape. At some points during the game the road splits, and the correct turn must be taken, otherwise it will take longer to catch the criminal. When their vehicle is reached, the time limit is extended; the vehicle must be rammed a number of times until the criminal is forced to stop, then is arrested. \n \nThe game includes five levels. As both the initial time limit to reach the criminal and the time extension to ram the criminal are just 60 seconds, the game is very short - a player who is able to finish the game on one credit will enjoy at most ten minutes of game-play. \n \nInterestingly enough when Nancy at Chase HQ (at the start of every level) calls on the radio the frequency is always 144.X (various)Mhz. This is actually the 2-meter band of amateur or ham radio frequencies. \n \nAlthough superficially similar in technology to Sega's Outrun, Chase HQ features significant technical advancements over that title in the presentation of perspective, hills and track splits.", 
+    "tags": [
+        1, 
+        268435466, 
+        268435489, 
+        536870937, 
+        536871339, 
+        536871506, 
+        536872103, 
+        536872581, 
+        536872695, 
+        536874337, 
+        536874539, 
+        536874743, 
+        536874810, 
+        536875069, 
+        536875117, 
+        536875154, 
+        536875434, 
+        536875715, 
+        536875932, 
+        536875942, 
+        536876348, 
+        536876437, 
+        536876982, 
+        536877451, 
+        536878562, 
+        536879175, 
+        536879184, 
+        536879193, 
+        536880758, 
+        536882172, 
+        536882175, 
+        536882178, 
+        536886619, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 65.66836565469791, 
+    "total_rating_count": 4, 
+    "updated_at": 1518052505271, 
+    "url": "https://www.igdb.com/games/chase-h-q", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "3-QvpB1cIow"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://en.wikipedia.org/wiki/Chase_H.Q."
+        }
+    ]
+}

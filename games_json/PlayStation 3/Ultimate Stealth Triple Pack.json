@@ -1,0 +1,92 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jmf0cv9q6suj3tifrovp", 
+        "height": 734, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jmf0cv9q6suj3tifrovp.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1504455165818, 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1414713600000, 
+    "games": [
+        55678, 
+        36608, 
+        34919, 
+        19934, 
+        16468, 
+        23175, 
+        40524, 
+        59516, 
+        28029, 
+        68324
+    ], 
+    "id": 56723, 
+    "keywords": [
+        132, 
+        960, 
+        1669
+    ], 
+    "name": "Ultimate Stealth Triple Pack", 
+    "pegi": {
+        "rating": 5
+    }, 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1427760000000, 
+            "human": "2015-Mar-31", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1414713600000, 
+            "human": "2014-Oct-31", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1427760000000, 
+            "human": "2015-Mar-31", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1414713600000, 
+            "human": "2014-Oct-31", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2014
+        }
+    ], 
+    "slug": "ultimate-stealth-triple-pack", 
+    "summary": "Three \"stealth\" themed games from Square Enix, on a single disc.", 
+    "tags": [
+        1, 
+        536871044, 
+        536871872, 
+        536872581
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1516598599585, 
+    "url": "https://www.igdb.com/games/ultimate-stealth-triple-pack"
+}

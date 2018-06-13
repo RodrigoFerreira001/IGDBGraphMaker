@@ -1,0 +1,132 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "artworks": [
+        {
+            "cloudinary_id": "t4esonyrmjvw06ptz0nr", 
+            "height": 750, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t4esonyrmjvw06ptz0nr.jpg", 
+            "width": 580
+        }, 
+        {
+            "cloudinary_id": "zqsussewmkeb0cuxjz4l", 
+            "height": 750, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zqsussewmkeb0cuxjz4l.jpg", 
+            "width": 525
+        }, 
+        {
+            "cloudinary_id": "i1zca7vorstdk057lqsr", 
+            "height": 660, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i1zca7vorstdk057lqsr.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "c5kyexvkpuiezc9lfpeh", 
+            "height": 690, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c5kyexvkpuiezc9lfpeh.jpg", 
+            "width": 530
+        }, 
+        {
+            "cloudinary_id": "a8bxmcicojce45mhofvg", 
+            "height": 685, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a8bxmcicojce45mhofvg.jpg", 
+            "width": 540
+        }, 
+        {
+            "cloudinary_id": "g7oidpv514fx8ufpaszi", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g7oidpv514fx8ufpaszi.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "bdnhui89ss43wfzag3el", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bdnhui89ss43wfzag3el.jpg", 
+            "width": 600
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "itklng2hkzxw7senzroe", 
+        "height": 1000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/itklng2hkzxw7senzroe.jpg", 
+        "width": 714
+    }, 
+    "created_at": 1463149628440, 
+    "developers": [
+        1983, 
+        1913
+    ], 
+    "first_release_date": 1106784000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        36608, 
+        28010, 
+        16468, 
+        19567, 
+        57372, 
+        12632, 
+        55289, 
+        59516, 
+        25311, 
+        49414
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 19160, 
+    "keywords": [
+        78
+    ], 
+    "name": "Radiata Stories", 
+    "platforms": [
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        26
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1106784000000, 
+            "human": "2005-Jan-27", 
+            "m": 1, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1125878400000, 
+            "human": "2005-Sep-05", 
+            "m": 9, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2005
+        }
+    ], 
+    "slug": "radiata-stories", 
+    "summary": "Radiata Stories is a fantasy role-playing game set in a world where humans and fairies have peacefully coexisted. Now a war has broken out, and you must guide two young protagonists in a mission to save Radiata from destruction. Combat features a real-time link system in which multiple characters can combine abilities to form more powerful attacks. Radiata Stories also features an interactive environment and more than 175 characters that you can recruit to join and help you on your quest.", 
+    "tags": [
+        1, 
+        268435468, 
+        536870990
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1525435608311, 
+    "url": "https://www.igdb.com/games/radiata-stories", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "pWwzum7H4Jg"
+        }
+    ]
+}

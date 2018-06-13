@@ -1,0 +1,557 @@
+{
+    "category": 0, 
+    "collection": 2813, 
+    "cover": {
+        "cloudinary_id": "fvvjot97a8ia4xwzjy3i", 
+        "height": 494, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvvjot97a8ia4xwzjy3i.jpg", 
+        "width": 352
+    }, 
+    "created_at": 1374117156736, 
+    "developers": [
+        1440
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 536371200000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        55752, 
+        7344, 
+        6732, 
+        26758, 
+        18822, 
+        21063, 
+        21062, 
+        117, 
+        17583, 
+        9174
+    ], 
+    "genres": [
+        8, 
+        9, 
+        15, 
+        33
+    ], 
+    "id": 2630, 
+    "keywords": [
+        137, 
+        288, 
+        296, 
+        332, 
+        382, 
+        394, 
+        960, 
+        1046, 
+        1180, 
+        1299, 
+        1313, 
+        2049, 
+        2071, 
+        2152, 
+        2385, 
+        2678, 
+        2875, 
+        3079, 
+        3486, 
+        4134, 
+        4161, 
+        4164, 
+        4300, 
+        4522, 
+        4577, 
+        4698, 
+        4754, 
+        4855, 
+        4879, 
+        4991, 
+        5011, 
+        5022, 
+        5404, 
+        5436, 
+        6059, 
+        6077, 
+        7280, 
+        7406, 
+        7527, 
+        8110, 
+        9507, 
+        10077, 
+        10402, 
+        15079
+    ], 
+    "name": "Bubble Bobble", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        5, 
+        13, 
+        15, 
+        16, 
+        18, 
+        25, 
+        26, 
+        27, 
+        33, 
+        35, 
+        37, 
+        41, 
+        47, 
+        51, 
+        52, 
+        63, 
+        64, 
+        75, 
+        118, 
+        121
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        10317, 
+        13104, 
+        1440, 
+        1375, 
+        112
+    ], 
+    "pulse_count": 1, 
+    "rating": 72.2647898601079, 
+    "rating_count": 30, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1390953600000, 
+            "human": "2014-Jan-29", 
+            "m": 1, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1381881600000, 
+            "human": "2013-Oct-16", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1210636800000, 
+            "human": "2008-May-13", 
+            "m": 5, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1195776000000, 
+            "human": "2007-Nov-23", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1199059200000, 
+            "human": "2007-Dec-31", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 118, 
+            "region": 5, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 16, 
+            "region": 1, 
+            "y": 1987
+        }, 
+        {
+            "category": 0, 
+            "date": 636940800000, 
+            "human": "1990-Mar-09", 
+            "m": 3, 
+            "platform": 121, 
+            "region": 5, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 75, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 1, 
+            "date": 594345600000, 
+            "human": "1988-Nov", 
+            "m": 11, 
+            "platform": 18, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 656899200000, 
+            "human": "1990-Oct-26", 
+            "m": 10, 
+            "platform": 18, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 0, 
+            "date": 1195776000000, 
+            "human": "2007-Nov-23", 
+            "m": 11, 
+            "platform": 47, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1195776000000, 
+            "human": "2007-Nov-23", 
+            "m": 11, 
+            "platform": 47, 
+            "region": 3, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1199059200000, 
+            "human": "2007-Dec-31", 
+            "m": 12, 
+            "platform": 47, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1210636800000, 
+            "human": "2008-May-13", 
+            "m": 5, 
+            "platform": 47, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 1, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 2, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 2, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1986
+        }, 
+        {
+            "category": 0, 
+            "date": 660528000000, 
+            "human": "1990-Dec-07", 
+            "m": 12, 
+            "platform": 33, 
+            "region": 5, 
+            "y": 1990
+        }, 
+        {
+            "category": 1, 
+            "date": 667785600000, 
+            "human": "1991-Mar", 
+            "m": 3, 
+            "platform": 33, 
+            "region": 2, 
+            "y": 1991
+        }, 
+        {
+            "category": 1, 
+            "date": 667785600000, 
+            "human": "1991-Mar", 
+            "m": 3, 
+            "platform": 33, 
+            "region": 1, 
+            "y": 1991
+        }, 
+        {
+            "category": 2, 
+            "date": 757296000000, 
+            "human": "1993", 
+            "m": 12, 
+            "platform": 33, 
+            "region": 3, 
+            "y": 1993
+        }, 
+        {
+            "category": 2, 
+            "date": 788832000000, 
+            "human": "1994", 
+            "m": 12, 
+            "platform": 35, 
+            "region": 2, 
+            "y": 1994
+        }, 
+        {
+            "category": 0, 
+            "date": 583804800000, 
+            "human": "1988-Jul-02", 
+            "m": 7, 
+            "platform": 64, 
+            "region": 5, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 725760000000, 
+            "human": "1992", 
+            "m": 12, 
+            "platform": 64, 
+            "region": 1, 
+            "y": 1992
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 27, 
+            "region": 5, 
+            "y": 1987
+        }, 
+        {
+            "category": 0, 
+            "date": 562550400000, 
+            "human": "1987-Oct-30", 
+            "m": 10, 
+            "platform": 51, 
+            "region": 5, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 1, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 25, 
+            "region": 1, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1987
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mt1zroz24hnrwjknwbfj", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mt1zroz24hnrwjknwbfj.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "n6unyxywlkusdefoe5r3", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n6unyxywlkusdefoe5r3.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "bbxwhe1mxpq8bfgfycmn", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bbxwhe1mxpq8bfgfycmn.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "avybmp2qwtkubc8hjf41", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/avybmp2qwtkubc8hjf41.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "wrgbgz3gucehxwhvls33", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wrgbgz3gucehxwhvls33.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "qemagzsoyl3f35nm8ugl", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qemagzsoyl3f35nm8ugl.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "hwbgrtxakeodkfwzlppe", 
+            "height": 750, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hwbgrtxakeodkfwzlppe.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "el9zsctos0tamlhg2aat", 
+            "height": 506, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/el9zsctos0tamlhg2aat.jpg", 
+            "width": 540
+        }, 
+        {
+            "cloudinary_id": "nckph4earsembk75t6mi", 
+            "height": 506, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nckph4earsembk75t6mi.jpg", 
+            "width": 540
+        }, 
+        {
+            "cloudinary_id": "t7oo9mhc4yeodrutksgu", 
+            "height": 506, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t7oo9mhc4yeodrutksgu.jpg", 
+            "width": 540
+        }
+    ], 
+    "slug": "bubble-bobble", 
+    "summary": "In the game, each player controls one of the two Bubble Dragons, Bub and Bob. The player can move along platforms, as well as jump to those above and to the side, similar to most platform games. \n \nThe player can also blow bubbles. These can trap enemies, who are defeated if the bubble is then burst by the player's spiny back. Bubbles that contain enemies can be popped at the same time resulting in different foods being projected around the level. Each enemy trapped in a bubble equates to a different food. Food is consumed and transferred to points (an increasing scale of 1000 points is awarded for each enemy burst in tandem with another meaning: one enemy burst equals one food item worth 1000 points, two enemies burst equals two food items worth 1000 and 2000 points, three enemies burst equals three food items worth 1000, 2000 and 4000 points, and so on), which results in earning lives. These same bubbles also float for a time before bursting, and can be jumped on, allowing access to otherwise inaccessible areas. Players progress to the next level once all enemies on the current level are defeated. \n \nEnemies turn \"angry\" \u2014 becoming pink-colored and moving faster \u2014 if they are the last enemy remaining, escape from a bubble after being left too long or a certain amount of time has been spent on the current level. A monster will also become angry if either player collects a skull (the only negative item in the game), and the monster is hit by the resulting comet crossing the screen (however, this is a rare occurrence). \n \nAfter a further time limit expires, an additional invincible enemy appears for each player, actively chasing them using only vertical and horizontal movements. These do not need to be defeated to complete the level, and disappear once a player's life is lost. \n \nContact with enemies and their projectiles (rocks, lasers, fireballs, etc.) results in death.", 
+    "tags": [
+        1, 
+        17, 
+        35, 
+        268435464, 
+        268435465, 
+        268435471, 
+        268435489, 
+        536871049, 
+        536871200, 
+        536871208, 
+        536871244, 
+        536871294, 
+        536871306, 
+        536871872, 
+        536871958, 
+        536872092, 
+        536872211, 
+        536872225, 
+        536872961, 
+        536872983, 
+        536873064, 
+        536873297, 
+        536873590, 
+        536873787, 
+        536873991, 
+        536874398, 
+        536875046, 
+        536875073, 
+        536875076, 
+        536875212, 
+        536875434, 
+        536875489, 
+        536875610, 
+        536875666, 
+        536875767, 
+        536875791, 
+        536875903, 
+        536875923, 
+        536875934, 
+        536876316, 
+        536876348, 
+        536876971, 
+        536876989, 
+        536878192, 
+        536878318, 
+        536878439, 
+        536879022, 
+        536880419, 
+        536880989, 
+        536881314, 
+        536885991, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17, 
+        35
+    ], 
+    "total_rating": 72.2647898601079, 
+    "total_rating_count": 30, 
+    "updated_at": 1523283633688, 
+    "url": "https://www.igdb.com/games/bubble-bobble", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "ZVLcmx7kW7s"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://en.wikipedia.org/wiki/Bubble_Bobble"
+        }
+    ]
+}

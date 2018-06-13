@@ -1,0 +1,281 @@
+{
+    "aggregated_rating": 78.3333333333333, 
+    "aggregated_rating_count": 8, 
+    "category": 0, 
+    "collection": 200, 
+    "cover": {
+        "cloudinary_id": "hdkgcffz825chcl39a2w", 
+        "height": 1133, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hdkgcffz825chcl39a2w.jpg", 
+        "width": 913
+    }, 
+    "created_at": 1381650346350, 
+    "developers": [
+        277
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "In this hockey simulation game, players can select teams from NHL rosters and play realistically depicted games of hockey. During the course of each match, players may initiate brief fistfights: the perspective shifts to isolate two players throwing punches and grabbing one another until the fight is broken up."
+    }, 
+    "first_release_date": 1378771200000, 
+    "franchise": 220, 
+    "franchises": [
+        220
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        2986, 
+        5069, 
+        5381, 
+        45121, 
+        5070, 
+        5405, 
+        815, 
+        954, 
+        5826, 
+        8841
+    ], 
+    "genres": [
+        13, 
+        14
+    ], 
+    "id": 3003, 
+    "keywords": [
+        44, 
+        455, 
+        456, 
+        1148, 
+        1166, 
+        2543, 
+        4134, 
+        4221, 
+        4245, 
+        4322, 
+        4561, 
+        4562, 
+        4563, 
+        4650, 
+        5783, 
+        6576, 
+        7251, 
+        7252, 
+        7253, 
+        7254, 
+        7255, 
+        7256, 
+        7257, 
+        7258, 
+        7259, 
+        7260, 
+        7261, 
+        7262, 
+        7263, 
+        7264, 
+        7265, 
+        7266, 
+        7267, 
+        7268, 
+        7269, 
+        7270, 
+        7271, 
+        7272, 
+        7273, 
+        7274, 
+        7275, 
+        7276, 
+        7277, 
+        7278, 
+        7279
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "NHL 14", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Violence in a sporting context\r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        2, 
+        3
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        454
+    ], 
+    "rating": 90.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1379030400000, 
+            "human": "2013-Sep-13", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1379030400000, 
+            "human": "2013-Sep-13", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1378944000000, 
+            "human": "2013-Sep-12", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1378944000000, 
+            "human": "2013-Sep-12", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1378771200000, 
+            "human": "2013-Sep-10", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1378771200000, 
+            "human": "2013-Sep-10", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "t4aau3jsv6zxkxqmndvn", 
+            "height": 369, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t4aau3jsv6zxkxqmndvn.jpg", 
+            "width": 656
+        }, 
+        {
+            "cloudinary_id": "v0n8hon43dajzfvyrplm", 
+            "height": 369, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v0n8hon43dajzfvyrplm.jpg", 
+            "width": 656
+        }, 
+        {
+            "cloudinary_id": "mmt1hmzqxkcygizq4ipn", 
+            "height": 428, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mmt1hmzqxkcygizq4ipn.jpg", 
+            "width": 760
+        }
+    ], 
+    "slug": "nhl-14", 
+    "summary": "Summary: Unlock the highest level of hockey aggression, speed and skill. Deliver hits with the NHL\u00ae Collision Physics, built from FIFA\u2019s Player Impact Engine. Drop your gloves with the new Enforcer Engine, powered by EA SPORTS\u2122 Fight Night technology. Dangle defenders with new One-Touch Dekes and expd experience enhanced speed and control with the second season of True Performance Skating.", 
+    "tags": [
+        32, 
+        268435469, 
+        268435470, 
+        536870956, 
+        536871367, 
+        536871368, 
+        536872060, 
+        536872078, 
+        536873455, 
+        536875046, 
+        536875133, 
+        536875157, 
+        536875234, 
+        536875473, 
+        536875474, 
+        536875475, 
+        536875562, 
+        536876695, 
+        536877488, 
+        536878163, 
+        536878164, 
+        536878165, 
+        536878166, 
+        536878167, 
+        536878168, 
+        536878169, 
+        536878170, 
+        536878171, 
+        536878172, 
+        536878173, 
+        536878174, 
+        536878175, 
+        536878176, 
+        536878177, 
+        536878178, 
+        536878179, 
+        536878180, 
+        536878181, 
+        536878182, 
+        536878183, 
+        536878184, 
+        536878185, 
+        536878186, 
+        536878187, 
+        536878188, 
+        536878189, 
+        536878190, 
+        536878191, 
+        1073741827, 
+        1073741826
+    ], 
+    "themes": [
+        32
+    ], 
+    "total_rating": 84.16666666666666, 
+    "total_rating_count": 9, 
+    "updated_at": 1516737939714, 
+    "url": "https://www.igdb.com/games/nhl-14", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "DRdHDI4f2IM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/NHL_14"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.easports.com/nhl"
+        }
+    ]
+}

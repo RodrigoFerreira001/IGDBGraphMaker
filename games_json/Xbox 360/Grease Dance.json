@@ -1,0 +1,105 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "smjlwmibhxu7haovxckc", 
+        "height": 623, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/smjlwmibhxu7haovxckc.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1468359445940, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1322179200000, 
+    "games": [
+        28113, 
+        11423, 
+        54524, 
+        16513, 
+        34720, 
+        20214, 
+        37067, 
+        13163, 
+        36911, 
+        19082
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 20218, 
+    "keywords": [
+        757, 
+        1293, 
+        1699, 
+        2052, 
+        2152, 
+        4134, 
+        4137, 
+        4142, 
+        4245, 
+        4359, 
+        4382, 
+        4437, 
+        5348, 
+        5783
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Grease Dance", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.0, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1322179200000, 
+            "human": "2011-Nov-25", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "slug": "grease-dance", 
+    "summary": "Gas up Greased Lightnin' and get your hand jive ready, you're about to visit Rydell High! Star in one of the most beloved movie-musicals of all-time as you perform the songs from Grease. Sing and dance to 15 favorites like \"Summer Nights,\" \"Greased Lightnin',\" and \"We Go Together,\" complete with the real on-screen choreography.", 
+    "tags": [
+        268435463, 
+        536871669, 
+        536872205, 
+        536872611, 
+        536872964, 
+        536873064, 
+        536875046, 
+        536875049, 
+        536875054, 
+        536875157, 
+        536875271, 
+        536875294, 
+        536875349, 
+        536876260, 
+        536876695
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1515855380986, 
+    "url": "https://www.igdb.com/games/grease-dance"
+}

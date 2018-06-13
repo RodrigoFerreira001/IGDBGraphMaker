@@ -1,0 +1,106 @@
+{
+    "category": 0, 
+    "collection": 3820, 
+    "cover": {
+        "cloudinary_id": "qhh2u7gcm9xxcdwvlfba", 
+        "height": 1135, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qhh2u7gcm9xxcdwvlfba.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1499955729643, 
+    "developers": [
+        5105
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 602294400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19934, 
+        76731, 
+        29173, 
+        25311, 
+        55036, 
+        23345, 
+        19376, 
+        55590, 
+        25640, 
+        65832
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 48141, 
+    "keywords": [
+        67, 
+        966, 
+        1507, 
+        3782, 
+        4472, 
+        5293, 
+        5436
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinemax": 1, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Crystal Mines", 
+    "platforms": [
+        18
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 602294400000, 
+            "human": "1989-Feb-01", 
+            "m": 2, 
+            "platform": 18, 
+            "region": 8, 
+            "y": 1989
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "f3louu81movpl3qln6hj", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f3louu81movpl3qln6hj.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "crystal-mines", 
+    "summary": "You control a CM-205 mining robot, your goal is to retrieve \"Starla\" crystals from various mines on a remote planet. Using the robot you need to locate your quota of crystals while avoiding the many dangers present in the mines, including lava, rock slides, and unfriendly creatures. The robot is equipped with explosives to help reach remote locations in the mine, or destroy any creatures getting in the way (be careful with explosives, you could set off a rock slide and crush the robot!) Once your crystal quota is met, quickly locate the exit and move on to the next, more challenging mine. Crystal Mines is part action and part strategy. There is a time limit to locate the crystals in each mine, plus avoiding falling rocks and monsters will keep you on your toes, but before long you will need to figure out how to locate crystals by properly removing obstructions and navigating tricky mazes.", 
+    "tags": [
+        1, 
+        268435471, 
+        536870979, 
+        536871878, 
+        536872419, 
+        536874694, 
+        536875384, 
+        536876205, 
+        536876348
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1527194089809, 
+    "url": "https://www.igdb.com/games/crystal-mines", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "RrFHhfppWfg"
+        }
+    ]
+}

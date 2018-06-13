@@ -1,0 +1,57 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "created_at": 1469820906892, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1180656000000, 
+    "id": 21869, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Root Beer Tapper", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1180656000000, 
+            "human": "2007-Jun-01", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "e2weqaukylukxoue2x6r", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e2weqaukylukxoue2x6r.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "root-beer-tapper", 
+    "summary": "Tapper, also known as Root Beer Tapper, is a 1983 arcade game released by Bally Midway. The goal of the game is to serve beer (or root beer) and collect empty mugs and tips.", 
+    "total_rating": 60.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1501067528862, 
+    "url": "https://www.igdb.com/games/root-beer-tapper"
+}

@@ -1,0 +1,156 @@
+{
+    "aggregated_rating": 76.6666666666667, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "howcwj3ca9xubxxrgftc", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/howcwj3ca9xubxxrgftc.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1469314015100, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1182816000000, 
+    "games": [
+        19934, 
+        19376, 
+        18167, 
+        55752, 
+        19174, 
+        6732, 
+        19301, 
+        76216, 
+        18918, 
+        11423
+    ], 
+    "genres": [
+        8, 
+        9, 
+        15
+    ], 
+    "id": 21522, 
+    "keywords": [
+        1132, 
+        2049, 
+        2875, 
+        3782, 
+        4134, 
+        4143, 
+        4553, 
+        4758, 
+        4760, 
+        4975, 
+        5450, 
+        9382, 
+        13083
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Switchball", 
+    "platforms": [
+        45, 
+        6, 
+        36, 
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1265846400000, 
+            "human": "2010-Feb-11", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1253145600000, 
+            "human": "2009-Sep-17", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1182816000000, 
+            "human": "2007-Jun-26", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1194393600000, 
+            "human": "2007-Nov-07", 
+            "m": 11, 
+            "platform": 36, 
+            "region": 8, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1252281600000, 
+            "human": "2009-Sep-07", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 8, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zhuggv9ralczldo6nn80", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zhuggv9ralczldo6nn80.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "switchball", 
+    "summary": "Have a ball with the PlayStation\u00ae3 computer entertainment system! Travel as a transformable ball through five worlds and 30 levels of stunning 3-D mazes. Journey your way through traps, puzzles and challenges suspended in the sky, earning PlayStation\u00ae3 system trophies as you go! Play as a single player, or try Race and Co-op multiplayer modes to compete with your friends! \n \nFeatures: \n\u2022\t30 single-player levels in five worlds \n\u2022\tTimed leaderboard levels \n\u2022\tJump, Dash and Magnetic power ups to help you on your adventure \n\u2022\t12 unique PSN trophies \n\u2022\tRace and Co-op multiplayer modes", 
+    "tags": [
+        1, 
+        268435464, 
+        268435465, 
+        268435471, 
+        536872044, 
+        536872961, 
+        536873787, 
+        536874694, 
+        536875046, 
+        536875055, 
+        536875465, 
+        536875670, 
+        536875672, 
+        536875887, 
+        536876362, 
+        536880294, 
+        536883995
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 76.6666666666667, 
+    "total_rating_count": 3, 
+    "updated_at": 1516089011898, 
+    "url": "https://www.igdb.com/games/switchball"
+}

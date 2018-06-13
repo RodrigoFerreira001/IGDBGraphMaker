@@ -1,0 +1,256 @@
+{
+    "aggregated_rating": 89.0909090909091, 
+    "aggregated_rating_count": 12, 
+    "category": 3, 
+    "collection": 1286, 
+    "cover": {
+        "cloudinary_id": "fyezsezv6a0nv1z61rte", 
+        "height": 544, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fyezsezv6a0nv1z61rte.jpg", 
+        "width": 960
+    }, 
+    "created_at": 1477938493192, 
+    "developers": [
+        1217
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "477740"
+    }, 
+    "first_release_date": 1490313600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        54678, 
+        18167, 
+        54699, 
+        12198, 
+        15830, 
+        13189, 
+        29525, 
+        25222, 
+        25646, 
+        7350
+    ], 
+    "genres": [
+        9, 
+        31
+    ], 
+    "hypes": 4, 
+    "id": 25343, 
+    "keywords": [
+        78, 
+        94, 
+        131, 
+        283, 
+        939, 
+        960, 
+        970, 
+        1027, 
+        1120, 
+        1293, 
+        1313, 
+        1684, 
+        1697, 
+        1914, 
+        2085, 
+        2426, 
+        2453, 
+        2875, 
+        4287, 
+        4311, 
+        4508, 
+        6070
+    ], 
+    "name": "Zero Escape: The Nonary Games", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence - Strong language"
+    }, 
+    "platforms": [
+        6, 
+        46, 
+        48
+    ], 
+    "player_perspectives": [
+        1, 
+        5
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        2103, 
+        1217
+    ], 
+    "pulse_count": 13, 
+    "rating": 80.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1513296000000, 
+            "human": "2017-Dec-15", 
+            "m": 12, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1490313600000, 
+            "human": "2017-Mar-24", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1490313600000, 
+            "human": "2017-Mar-24", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1490313600000, 
+            "human": "2017-Mar-24", 
+            "m": 3, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1490313600000, 
+            "human": "2017-Mar-24", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1492041600000, 
+            "human": "2017-Apr-13", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1492041600000, 
+            "human": "2017-Apr-13", 
+            "m": 4, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gsub2rvpmimj1bdqwuv6", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gsub2rvpmimj1bdqwuv6.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "zkhzycdj3gxcw5yvczir", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zkhzycdj3gxcw5yvczir.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "icxvkhcuztycpnklz014", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/icxvkhcuztycpnklz014.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ovjg0dedhfaemzrhhxg1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ovjg0dedhfaemzrhhxg1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "thzo3y0zzv5h2xgdo9jd", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/thzo3y0zzv5h2xgdo9jd.jpg", 
+            "width": 960
+        }
+    ], 
+    "slug": "zero-escape-the-nonary-games", 
+    "storyline": "\"Kidnapped and taken to an unfamiliar location, nine people find themselves forced to participate in a diabolical Nonary Game by an enigmatic mastermind called Zero. Why were they there? Why were they chosen to put their lives on the line as part of a dangerous life and death game? Who can be trusted? Tensions rise as the situation becomes more and more dire, and the nine strangers must figure out how to escape before they wind up dead.\"", 
+    "summary": "Two spine-tingling Nonary Games \n- Zero welcomes you to take part in both the Nonary Game and the Nonary Game: Ambidex Edition as the award-winning escape-the-room visual novels Nine Hours, Nine Persons, Nine Doors (999) and its sequel, Virtue\u2019s Last Reward (VLR), are together for the first time. \n \nA remastered and revamped Nine Hours \n- The well-received classic Nintendo DS game 999 has been updated with hi-res graphics and a variety of new features including both Japanese and English voice acting! \n \nSeek a way out \n- Search for clues within numerous locked rooms and solve mind-bending puzzles in order to escape. VLR even has two difficulty settings for more of a challenge. \n- Fascinating theories and pseudo science ideas abound along the twisting, turning journey to uncover who Zero is, why everyone was kidnapped, and the shocking connection between the Nonary Games.", 
+    "tags": [
+        18, 
+        19, 
+        20, 
+        43, 
+        268435465, 
+        268435487, 
+        536870990, 
+        536871006, 
+        536871043, 
+        536871195, 
+        536871851, 
+        536871872, 
+        536871882, 
+        536871939, 
+        536872032, 
+        536872205, 
+        536872225, 
+        536872596, 
+        536872609, 
+        536872826, 
+        536872997, 
+        536873338, 
+        536873365, 
+        536873787, 
+        536875199, 
+        536875223, 
+        536875420, 
+        536876982, 
+        1073741825, 
+        1073741829
+    ], 
+    "themes": [
+        18, 
+        19, 
+        20, 
+        43
+    ], 
+    "total_rating": 84.54545454545455, 
+    "total_rating_count": 14, 
+    "updated_at": 1524514495497, 
+    "url": "https://www.igdb.com/games/zero-escape-the-nonary-games", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "EKgwrm_7Zsc"
+        }, 
+        {
+            "name": "Teaser", 
+            "video_id": "UhIRoAnJ80s"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/477740"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://zeroescape.wikia.com/wiki/Zero_Escape:_The_Nonary_Games"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://thenonarygames.com/"
+        }
+    ]
+}

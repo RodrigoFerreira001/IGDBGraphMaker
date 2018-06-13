@@ -1,0 +1,109 @@
+{
+    "aggregated_rating": 27.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "q7arxrizvegsexm9eye4", 
+        "height": 540, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/q7arxrizvegsexm9eye4.jpg", 
+        "width": 960
+    }, 
+    "created_at": 1467965403243, 
+    "first_release_date": 1439251200000, 
+    "games": [
+        55752, 
+        54524, 
+        28113, 
+        28154, 
+        11423, 
+        21429, 
+        19174, 
+        18927, 
+        13163, 
+        27367
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 19950, 
+    "keywords": [
+        296, 
+        1293, 
+        2049, 
+        4134, 
+        4245, 
+        5348
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Commander Cherry's Puzzled Journey", 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1439251200000, 
+            "human": "2015-Aug-11", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1470873600000, 
+            "human": "2016-Aug-11", 
+            "m": 8, 
+            "platform": 48, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1470873600000, 
+            "human": "2016-Aug-11", 
+            "m": 8, 
+            "platform": 49, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "szchjosz8kv5bi6wbfqj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/szchjosz8kv5bi6wbfqj.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "commander-cherrys-puzzled-journey", 
+    "summary": "TAKE A PHOTO OF YOUR BODY YOU CAN WALK ON! Welcome aboard, cadet! Help Commander Cherry on his adventure and get creative with your body! You play the game using Kinect and a gamepad simultaneously. Play solo or coop with a friend! La versione scaricabile di questo gioco supporta inglese. The downloadable version of this game supports English..", 
+    "tags": [
+        268435464, 
+        536871208, 
+        536872205, 
+        536872961, 
+        536875046, 
+        536875157, 
+        536876260
+    ], 
+    "total_rating": 27.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1516689799169, 
+    "url": "https://www.igdb.com/games/commander-cherrys-puzzled-journey"
+}

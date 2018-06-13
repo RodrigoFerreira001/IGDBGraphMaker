@@ -1,0 +1,416 @@
+{
+    "aggregated_rating": 86.8235294117647, 
+    "aggregated_rating_count": 17, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Final Fantasy X|X-2 HD Remaster"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Final Fantasy X HD Collection"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "FFX HD Collection"
+        }, 
+        {
+            "comment": "Acronym", 
+            "name": "FFX/X-2"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "doqngxjembefxojzygkp", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/doqngxjembefxojzygkp.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "pqtojcup2ywow1xy3i5d", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pqtojcup2ywow1xy3i5d.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "dzsts1tx6if9uppr56ml", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dzsts1tx6if9uppr56ml.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "ylidribhj2b7q7qebquw", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ylidribhj2b7q7qebquw.jpg", 
+            "width": 632
+        }, 
+        {
+            "cloudinary_id": "veydms442vglgzoqgo0s", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/veydms442vglgzoqgo0s.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "gqcwzs1mdq9eyl0wugm8", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gqcwzs1mdq9eyl0wugm8.jpg", 
+            "width": 600
+        }
+    ], 
+    "category": 3, 
+    "collection": 39, 
+    "cover": {
+        "cloudinary_id": "wqko0y5esfznaw7lfnpv", 
+        "height": 360, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wqko0y5esfznaw7lfnpv.jpg", 
+        "width": 275
+    }, 
+    "created_at": 1445459459913, 
+    "developers": [
+        26, 
+        794
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "359870"
+    }, 
+    "first_release_date": 1388016000000, 
+    "franchise": 4, 
+    "franchises": [
+        4
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        1887, 
+        26766, 
+        2933, 
+        4756, 
+        11214, 
+        78, 
+        12632, 
+        36534, 
+        13558, 
+        36926
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 14144, 
+    "keywords": [
+        296, 
+        563, 
+        960, 
+        1026, 
+        1714, 
+        2071, 
+        2242, 
+        2472, 
+        4134, 
+        4369, 
+        4514, 
+        4911, 
+        4983, 
+        4998, 
+        5095, 
+        5299, 
+        5305, 
+        5307, 
+        5314, 
+        5323, 
+        5328, 
+        5329, 
+        5330, 
+        5394, 
+        5411, 
+        5417, 
+        5574, 
+        5735, 
+        5738, 
+        5904, 
+        5905, 
+        5938, 
+        5963, 
+        5989, 
+        6070, 
+        6117, 
+        6372, 
+        6391, 
+        6648, 
+        6686, 
+        7072, 
+        7112, 
+        7185, 
+        7215, 
+        7467, 
+        7468, 
+        7469, 
+        7470, 
+        7471, 
+        7472
+    ], 
+    "name": "Final Fantasy X/X-2 HD Remaster", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        46, 
+        9, 
+        48
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 4.0, 
+    "publishers": [
+        45, 
+        26
+    ], 
+    "pulse_count": 5, 
+    "rating": 83.8922008640982, 
+    "rating_count": 21, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1431648000000, 
+            "human": "2015-May-15", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1431388800000, 
+            "human": "2015-May-12", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1463011200000, 
+            "human": "2016-May-12", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1388016000000, 
+            "human": "2013-Dec-26", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1388016000000, 
+            "human": "2013-Dec-26", 
+            "m": 12, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1395100800000, 
+            "human": "2014-Mar-18", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1395100800000, 
+            "human": "2014-Mar-18", 
+            "m": 3, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1395273600000, 
+            "human": "2014-Mar-20", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1395273600000, 
+            "human": "2014-Mar-20", 
+            "m": 3, 
+            "platform": 46, 
+            "region": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1395360000000, 
+            "human": "2014-Mar-21", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1395360000000, 
+            "human": "2014-Mar-21", 
+            "m": 3, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1431561600000, 
+            "human": "2015-May-14", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1431561600000, 
+            "human": "2015-May-14", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 3, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "prt10q9ztfruqzb1mz9k", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/prt10q9ztfruqzb1mz9k.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "s4tjo77zukbr7jyy74wd", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s4tjo77zukbr7jyy74wd.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "lze9q779z8gem1m8e6qq", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lze9q779z8gem1m8e6qq.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "lxie62my5j08mlt445td", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lxie62my5j08mlt445td.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "lgpjhd1o1bt0ankuzc74", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lgpjhd1o1bt0ankuzc74.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "final-fantasy-x-slash-x-2-hd-remaster", 
+    "storyline": "The story begins with the main protagonist, Tidus, waiting with his allies outside the ruins of an ancient city. Tidus narrates the events that led to the present, spanning most of the game's storyline. It begins in Tidus's home city, the high-tech metropolis of Zanarkand, where he is a renowned star of the underwater sport blitzball. During a blitzball tournament, the city is attacked by an immense creature which Auron, a man not originally from Zanarkand, calls \"Sin\". Sin destroys Zanarkand, taking Tidus and Auron to the world of Spira. \nUpon arriving in Spira, Tidus is rescued by Al Bhed salvagers in the area. Upon asking him where he is from, one of them, Rikku, tells him that Sin destroyed Zanarkand 1,000 years ago. After Sin attacks again, Tidus is separated from the divers and drifts to the tropical island of Besaid, where he meets Wakka, captain of the local blitzball team.Wakka introduces Tidus to Yuna, a young summoner about to go on a pilgrimage to obtain the Final Aeon and defeat Sin; and her guardians, Lulu and Kimahri. Meanwhile, Tidus joins to help Wakka in the upcoming blitzball tournament to find a way back home. The party travels across Spira to gather aeons, defending against attacks by Sin and its \"offspring\"\u2014fiends called Sinspawn. After the tournament, they are joined by Auron, who convinces Tidus to become Yuna's guardian. He reveals to Tidus that Yuna's father, Lord Braska; Tidus's father, Jecht; and himself made the same pilgrimage to defeat Sin ten years ago. Tidus thought his father had died at sea ten years earlier. Following another attack from Sin, they are joined by Rikku, later revealed to be Yuna's cousin. \nWhen the party arrives in the city of Guadosalam, the leader of the Guado, Seymour Guado, proposes to Yuna, saying that it will ease Spira's sorrow. At Macalania Temple, the group sees a message from Seymour's father Jyscal, who declares he was killed by his son, who now aims to destroy Spira. The group reunites with Yuna to engage Seymour in battle, killing him;[36] soon afterward, Sin attacks, separating Yuna from the others. While searching for her on Bikanel Island, the homeland of the Al Bhed where they had surfaced, Tidus has an emotional breakdown when he learns that summoners die after summoning the Final Aeon, leading to his desire to find a way to defeat Sin while keeping Yuna alive. The group finds Yuna in Bevelle, where she is being forced to marry the unsent Seymour. They crash the wedding and escape with Yuna. The group is captured at the Bevelle temple, and are ordered to stand trial. After escaping from their sentence, the group heads towards the ruins of Zanarkand, seen in the introduction of the game. \nOn the way there, Tidus learns that he, Jecht, and the Zanarkand they hail from are summoned entities akin to aeons based on the original Zanarkand and its people. Long ago, the original Zanarkand battled Bevelle in a machina war, in which the former was defeated. Zanarkand's survivors became \"fayth\" so that they could use their memories of Zanarkand to create a new city in their image, removed from the reality of Spira. One thousand years after its creation, the fayth have become exhausted from \"dreaming\" their Zanarkand, but are unable to stop due to Sin's influence. \nOnce they reach Zanarkand, Yunalesca\u2014the first summoner to defeat Sin and unsent ever since\u2014tells the group that the Final Aeon is created from the fayth of one close to the summoner. After defeating Sin, the Final Aeon kills the summoner and transforms into a new Sin, which has caused its cycle of rebirth to continue. Yuna decides against using the Final Aeon, due to the futile sacrifices it carries and the fact that Sin would still be reborn. Disappointed by their resolution, Yunalesca tries to kill Tidus' group, but she is defeated and vanishes, ending hope of ever attaining the Final Aeon. After the fight, the group learns that Yu Yevon, a summoner who lost his humanity and mind, is behind Sin's cycle of rebirth. This leads the group to infiltrate Sin's body to battle Seymour and Jecht's imprisoned spirits. With Sin's hosts defeated, Tidus' group battles and defeats Yu Yevon. Sin's cycle of rebirth ends, and the spirits of Spira's fayth are freed from their imprisonment. Auron, revealed to be unsent, goes to the Farplane, having died years ago after confronting Yunalesca. Just then, Dream Zanarkand and Tidus disappear, now that the freed fayth stopped the summoning. Afterward, in a speech to the citizens of Spira, Yuna resolves to help rebuild their world now that it is free of Sin. In a post-credits scene, Tidus awakens under water. He then swims towards the ocean surface, and the screen fades to white.", 
+    "summary": "The HD remaster covers both Final Fantasy X and its sequel Final Fantasy X-2. The first game follows the journey of the teenager Tidus who is transported to the world of Spira after an encounter with a creature known as Sin. He becomes one of the guardians of the summoner Yuna, protecting her on a pilgrimage to defeat Sin and finding out how the creature is linked to Tidus' and Yuna's late fathers.[7][8] Gameplay relies on the Conditional Turn-Based Battle system that allows for swapping party members in mid-combat. Characters are leveled up by means of the Sphere Grid on which the player may choose a specific skill to learn or attribute to improve.[9] The second game is set two years after the events of X and features Yuna as a treasure hunter in search of spheres leading her to Tidus.[10] It reintroduces the series' classic job system in the form of the Garment Grid: jobs can be acquired as dresspheres, costumes that give the player characters different abilities, throughout the game and may be changed in battle.[11] X-2 includes multiple minigames such as Sphere Break and blitzball, the latter of which also featured prominently in X.[12] \nWhile the majority of the gameplay for X and X-2 remains unchanged, the games have undergone an extensive graphical update and a large amount of the music for X has been rearranged. All regional releases contain content from the International versions: X has the expert Sphere Grid and several optional bosses, while X-2 comes with extra dresspheres and new minigames. The Creature Creator system was added, whereby players can capture enemy monsters and certain non-player characters (NPCs) to train them and to have them fight alongside the party in battle, similar to the Pok\u00e9mon series: these captured allies can also be fought and strengthened in a coliseum. Lastly, X-2 includes the \"Last Mission\" extra dungeon that plays in the style of a roguelike 3D game, having a grid-based layout across which the characters move and take on enemies. Layouts are generated randomly and each opponent is allowed as many turns as the player has taken. As in the main game, the player characters can equip jobs in the form of dresspheres. Dialogue between the protagonists changes depending on which ending the player achieved in X-2. The Eternal Calm movie that bridges the gap between X and X-2 is included in the collection as well.[4][13][14][15][16][17] The collection allows for cross-platform saving between the PlayStation 3 (PS3) and PlayStation Vita versions and both games have full trophy support.[14][18] \nFinal Fantasy X: Will is an original audio drama included in the release, playing during the ending credits.[19] It features multiple characters from the games, alongside two new characters: the narrator Chuami and her companion Kurgum.[20] In the story, the two are sent to summon Yuna to investigate a mysterious phenomenon known as \"Beckoning\", where the dead are being called back into existence. On their journey, they encounter a reborn Sin, who has apparently been beckoned.[21][22] Over the course of the story, it is revealed that Tidus is suffering from some kind of weakness,[23] and that Yuna and he appear to have broken up and Yuna is seeing someone else.[24] The drama ends with Yuna preparing to face Sin again and Tidus, despite his weakness, deciding to follow her.", 
+    "tags": [
+        17, 
+        268435468, 
+        536871208, 
+        536871475, 
+        536871872, 
+        536871938, 
+        536872626, 
+        536872983, 
+        536873154, 
+        536873384, 
+        536875046, 
+        536875281, 
+        536875426, 
+        536875823, 
+        536875895, 
+        536875910, 
+        536876007, 
+        536876211, 
+        536876217, 
+        536876219, 
+        536876226, 
+        536876235, 
+        536876240, 
+        536876241, 
+        536876242, 
+        536876306, 
+        536876323, 
+        536876329, 
+        536876486, 
+        536876647, 
+        536876650, 
+        536876816, 
+        536876817, 
+        536876850, 
+        536876875, 
+        536876901, 
+        536876982, 
+        536877029, 
+        536877284, 
+        536877303, 
+        536877560, 
+        536877598, 
+        536877984, 
+        536878024, 
+        536878097, 
+        536878127, 
+        536878379, 
+        536878380, 
+        536878381, 
+        536878382, 
+        536878383, 
+        536878384, 
+        1073741826
+    ], 
+    "themes": [
+        17
+    ], 
+    "total_rating": 85.35786513793144, 
+    "total_rating_count": 38, 
+    "updated_at": 1526366497236, 
+    "url": "https://www.igdb.com/games/final-fantasy-x-slash-x-2-hd-remaster", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Dc1A8hzXOMQ"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "NSOiY055lkw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/359870"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/FinalFantasyX"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.finalfantasyxhd.com/"
+        }
+    ]
+}

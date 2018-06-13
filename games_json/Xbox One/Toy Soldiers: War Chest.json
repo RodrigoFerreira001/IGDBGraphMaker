@@ -1,0 +1,255 @@
+{
+    "aggregated_rating": 58.75, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 1277, 
+    "cover": {
+        "cloudinary_id": "dzj4tm7uhzyqemlsb8ex", 
+        "height": 325, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dzj4tm7uhzyqemlsb8ex.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1449842519702, 
+    "developers": [
+        5528
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "external": {
+        "steam": "276770"
+    }, 
+    "first_release_date": 1439251200000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        36594, 
+        55029, 
+        22399, 
+        12982, 
+        17583, 
+        39257, 
+        8773, 
+        6985, 
+        640, 
+        37059
+    ], 
+    "genres": [
+        5, 
+        11, 
+        15
+    ], 
+    "id": 15187, 
+    "keywords": [
+        296, 
+        822, 
+        1471, 
+        4345, 
+        5177, 
+        5316, 
+        5615, 
+        6252
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Toy Soldiers: War Chest", 
+    "platforms": [
+        45, 
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        7041
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1439251200000, 
+            "human": "2015-Aug-11", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439856000000, 
+            "human": "2015-Aug-18", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439251200000, 
+            "human": "2015-Aug-11", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439251200000, 
+            "human": "2015-Aug-11", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439856000000, 
+            "human": "2015-Aug-18", 
+            "m": 8, 
+            "platform": 45, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439251200000, 
+            "human": "2015-Aug-11", 
+            "m": 8, 
+            "platform": 48, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439251200000, 
+            "human": "2015-Aug-11", 
+            "m": 8, 
+            "platform": 49, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439251200000, 
+            "human": "2015-Aug-11", 
+            "m": 8, 
+            "platform": 6, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xrf70abmqdn1qapivlza", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xrf70abmqdn1qapivlza.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "t9cg77afgxwlpi08qq26", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t9cg77afgxwlpi08qq26.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "iagjhjli3xrmrnbdio1m", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iagjhjli3xrmrnbdio1m.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "svsz8qaulwkyr7zeh72k", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/svsz8qaulwkyr7zeh72k.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fpp7tlvur3ryxfshwp1e", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fpp7tlvur3ryxfshwp1e.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "toy-soldiers-war-chest", 
+    "summary": "Toy Soldiers: War Chest is similar to the previous games where players prevent enemy units from reaching the toybox by building and upgrading turrets. In War Chest, turrets can be improved by upgrading armor, fire rate and damage separately. The enemy AI is improved as well. For example destroying a bridge will cause ground units to take a different path to the toybox. Certain units have the ability to heal nearby units and some will focus on destroying any placed turrets.\n\nBarrages and playable units from Toy Soldiers: Cold War returns with a few changes. Instead of earning killstreaks or destroying a specially marked enemy unit, the game uses a bar that fills up when killing enemy units. When the bar is filled to a certain amount, a special ability can used to call in barrages or spawn a hero unit such a zeppelin that performs a bombing run.\n\nThe game features 4 highly customizable armies (8 in Hall of Fame Edition). Players can choose which turrets to deploy, barrages and modify the hero's arsenal. As the game progresses, new customization options will become available.\n\nThe Hall of Fame Edition features four additional licensed armies based on fictional characters. This includes Duke and Cobra Commander from G.I. Joe, Ezio Auditore da Firenze from Assassin's Creed and He-Man from Masters of the Universe. The characters can be purchased separately or as a bundle on the standard version.", 
+    "tags": [
+        1, 
+        39, 
+        268435461, 
+        268435467, 
+        268435471, 
+        536871208, 
+        536871734, 
+        536872383, 
+        536875257, 
+        536876089, 
+        536876228, 
+        536876527, 
+        536877164, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        39
+    ], 
+    "total_rating": 69.375, 
+    "total_rating_count": 4, 
+    "updated_at": 1528359579069, 
+    "url": "https://www.igdb.com/games/toy-soldiers-war-chest", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Hoqa0DQIEDs"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "tIfU0cyX4jg"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "aVZW0c795Cg"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/276770"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.toysoldierswarchest.com"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qux487o7hdafidlhxg2c", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qux487o7hdafidlhxg2c.jpg", 
+        "width": 1280
+    }, 
+    "created_at": 1504993847015, 
+    "first_release_date": 1391558400000, 
+    "games": [
+        19934, 
+        22747, 
+        68324, 
+        23330, 
+        19376, 
+        19448, 
+        76110, 
+        47823, 
+        12632, 
+        55092
+    ], 
+    "id": 61874, 
+    "keywords": [
+        117, 
+        296, 
+        2388, 
+        4134, 
+        5327
+    ], 
+    "name": "Buddy & Me", 
+    "platforms": [
+        34, 
+        41
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1391558400000, 
+            "human": "2014-Feb-05", 
+            "m": 2, 
+            "platform": 34, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1469059200000, 
+            "human": "2016-Jul-21", 
+            "m": 7, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "slug": "buddy-and-me", 
+    "summary": "Buddy & Me is an endless runner set in a boy's dream world.", 
+    "tags": [
+        1, 
+        536871029, 
+        536871208, 
+        536873300, 
+        536875046, 
+        536876239
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1516706103948, 
+    "url": "https://www.igdb.com/games/buddy-and-me"
+}

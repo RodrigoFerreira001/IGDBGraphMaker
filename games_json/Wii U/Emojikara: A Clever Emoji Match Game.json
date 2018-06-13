@@ -1,0 +1,80 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "v2byh6nrygd3znlniaxt", 
+        "height": 134, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/v2byh6nrygd3znlniaxt.jpg", 
+        "width": 140
+    }, 
+    "created_at": 1504728270255, 
+    "first_release_date": 1457308800000, 
+    "games": [
+        60044, 
+        25222, 
+        14047, 
+        19222, 
+        41348, 
+        26223, 
+        10225, 
+        27266, 
+        83207, 
+        83155
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 58681, 
+    "keywords": [
+        2875
+    ], 
+    "name": "Emojikara: A Clever Emoji Match Game", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1457308800000, 
+            "human": "2016-Mar-07", 
+            "m": 3, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ui2xfcz2swowumakjxyn", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ui2xfcz2swowumakjxyn.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "t6apvpwtqoh8xknsq3vd", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t6apvpwtqoh8xknsq3vd.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "wkexh0qhd1v3ybyejfup", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wkexh0qhd1v3ybyejfup.jpg", 
+            "width": 745
+        }
+    ], 
+    "slug": "emojikara-a-clever-emoji-match-game", 
+    "summary": "Match 3 with emojis!", 
+    "tags": [
+        268435465, 
+        536873787
+    ], 
+    "updated_at": 1518058431750, 
+    "url": "https://www.igdb.com/games/emojikara-a-clever-emoji-match-game", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.intropygames.com/emojikara/"
+        }
+    ]
+}

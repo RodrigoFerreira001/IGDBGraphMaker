@@ -1,0 +1,140 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 682, 
+    "cover": {
+        "cloudinary_id": "rbsab6keif31l6pwqkr6", 
+        "height": 1247, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rbsab6keif31l6pwqkr6.jpg", 
+        "width": 1125
+    }, 
+    "created_at": 1519083157369, 
+    "first_release_date": 1522281600000, 
+    "franchise": 1238, 
+    "franchises": [
+        1238, 
+        1237, 
+        1236, 
+        1235, 
+        820, 
+        1234
+    ], 
+    "games": [
+        25311, 
+        96437, 
+        19567, 
+        54996, 
+        26846, 
+        90099, 
+        76397, 
+        18811, 
+        86269, 
+        13196
+    ], 
+    "genres": [
+        12, 
+        13, 
+        16
+    ], 
+    "id": 87796, 
+    "keywords": [
+        78, 
+        1448
+    ], 
+    "name": "Super Robot Wars X", 
+    "platforms": [
+        46, 
+        48
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.0, 
+    "pulse_count": 12, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1524700800000, 
+            "human": "2018-Apr-26", 
+            "m": 4, 
+            "platform": 46, 
+            "region": 7, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1524700800000, 
+            "human": "2018-Apr-26", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 7, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1522281600000, 
+            "human": "2018-Mar-29", 
+            "m": 3, 
+            "platform": 46, 
+            "region": 6, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1522281600000, 
+            "human": "2018-Mar-29", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 6, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1522281600000, 
+            "human": "2018-Mar-29", 
+            "m": 3, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1522281600000, 
+            "human": "2018-Mar-29", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2018
+        }
+    ], 
+    "slug": "super-robot-wars-x", 
+    "tags": [
+        18, 
+        268435468, 
+        268435469, 
+        268435472, 
+        536870990, 
+        536872360, 
+        1073741827
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 75.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528886753913, 
+    "url": "https://www.igdb.com/games/super-robot-wars-x", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "JA-Uqv4BNC0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://srwx.suparobo.jp/"
+        }
+    ]
+}

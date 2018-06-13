@@ -1,0 +1,392 @@
+{
+    "aggregated_rating": 68.6666666666667, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "iszuar92zetoohbdxgx7", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iszuar92zetoohbdxgx7.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1427975283850, 
+    "developers": [
+        2345, 
+        6563
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "288060"
+    }, 
+    "first_release_date": 1400284800000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        18167, 
+        54678, 
+        17354, 
+        11423, 
+        9174, 
+        6732, 
+        13189, 
+        25222, 
+        25646, 
+        19448
+    ], 
+    "genres": [
+        9, 
+        31, 
+        32
+    ], 
+    "id": 9369, 
+    "keywords": [
+        16, 
+        117, 
+        283, 
+        594, 
+        962, 
+        1027, 
+        1059, 
+        1120, 
+        1158, 
+        1494, 
+        2875, 
+        2966, 
+        4004, 
+        4134, 
+        4135, 
+        4138, 
+        4145, 
+        4304, 
+        4317, 
+        4363, 
+        4375, 
+        4418, 
+        4432, 
+        4594, 
+        4625, 
+        4663, 
+        4848, 
+        5197, 
+        5378, 
+        5421, 
+        5427, 
+        5714, 
+        7596
+    ], 
+    "name": "Whispering Willows", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        34, 
+        45, 
+        6, 
+        39, 
+        92, 
+        14, 
+        41, 
+        46, 
+        48, 
+        72, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        2, 
+        4
+    ], 
+    "popularity": 3.666666666666667, 
+    "publishers": [
+        2345, 
+        6563, 
+        6564
+    ], 
+    "rating": 80.0, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1444262400000, 
+            "human": "2015-Oct-08", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1444262400000, 
+            "human": "2015-Oct-08", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1404777600000, 
+            "human": "2014-Jul-08", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1435622400000, 
+            "human": "2015-Jun-30", 
+            "m": 6, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1435622400000, 
+            "human": "2015-Jun-30", 
+            "m": 6, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1400284800000, 
+            "human": "2014-May-17", 
+            "m": 5, 
+            "platform": 72, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1404864000000, 
+            "human": "2014-Jul-09", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1404864000000, 
+            "human": "2014-Jul-09", 
+            "m": 7, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1404864000000, 
+            "human": "2014-Jul-09", 
+            "m": 7, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1435622400000, 
+            "human": "2015-Jun-30", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1435622400000, 
+            "human": "2015-Jun-30", 
+            "m": 6, 
+            "platform": 46, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440547200000, 
+            "human": "2015-Aug-26", 
+            "m": 8, 
+            "platform": 34, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440547200000, 
+            "human": "2015-Aug-26", 
+            "m": 8, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1440720000000, 
+            "human": "2015-Aug-28", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 6, 
+            "date": 1451520000000, 
+            "human": "2015-Q4", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1404864000000, 
+            "human": "2014-Jul-09", 
+            "m": 7, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "towenofnrjasxqfjvag4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/towenofnrjasxqfjvag4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qbugavergc2ngko3h43z", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qbugavergc2ngko3h43z.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uzkvcfjs1v5y8wd93hqj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uzkvcfjs1v5y8wd93hqj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "f31eehcrdh8ydzmdoxej", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f31eehcrdh8ydzmdoxej.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "p980gk2t6nnw02qj2t95", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p980gk2t6nnw02qj2t95.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xmc24bc1khmb3etjjovi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xmc24bc1khmb3etjjovi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "q2bdl4gcccacpifjswlp", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q2bdl4gcccacpifjswlp.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "bivqcunwswwnubhqlpoa", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bivqcunwswwnubhqlpoa.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zhffy4hyznmv0mthiiuu", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zhffy4hyznmv0mthiiuu.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "msd0kbkrtqznrvlwanw5", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/msd0kbkrtqznrvlwanw5.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rnxc244bvbojop8yl3kq", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rnxc244bvbojop8yl3kq.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "whispering-willows", 
+    "summary": "Young Elena Elkhorn embarks on a harrowing journey to find her missing father and discover the secrets of the Willows Mansion. Aiding her journey is a unique amulet, she received from her father, which allows her to astral project her spirit into a ghostly-realm and communicate with the dead. Play as Elena to find her missing father, use your astral projection to solves the mansion\u2019s tricks and puzzles, help the lingering souls and discover so much more in Whispering Willows.", 
+    "tags": [
+        19, 
+        268435465, 
+        268435487, 
+        268435488, 
+        536870928, 
+        536871029, 
+        536871195, 
+        536871506, 
+        536871874, 
+        536871939, 
+        536871971, 
+        536872032, 
+        536872070, 
+        536872406, 
+        536873787, 
+        536873878, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875050, 
+        536875057, 
+        536875216, 
+        536875229, 
+        536875275, 
+        536875287, 
+        536875330, 
+        536875344, 
+        536875506, 
+        536875537, 
+        536875575, 
+        536875760, 
+        536876109, 
+        536876290, 
+        536876333, 
+        536876339, 
+        536876626, 
+        536878508, 
+        1073741828, 
+        1073741826
+    ], 
+    "themes": [
+        19
+    ], 
+    "total_rating": 74.33333333333334, 
+    "total_rating_count": 6, 
+    "updated_at": 1523258251190, 
+    "url": "https://www.igdb.com/games/whispering-willows", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "CFJBiLrX2Ck"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/288060"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.akuparagames.com/game/whispering-willows"
+        }
+    ]
+}

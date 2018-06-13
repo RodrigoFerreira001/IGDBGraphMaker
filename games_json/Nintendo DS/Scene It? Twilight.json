@@ -1,0 +1,141 @@
+{
+    "aggregated_rating": 55.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 762, 
+    "cover": {
+        "cloudinary_id": "jfolpsuzibn3qqs3qll3", 
+        "height": 360, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jfolpsuzibn3qqs3qll3.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1391878485656, 
+    "developers": [
+        2275
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1259020800000, 
+    "franchise": 338, 
+    "franchises": [
+        338
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        25217, 
+        11588, 
+        19083, 
+        28213, 
+        69474, 
+        66155, 
+        7782, 
+        19082, 
+        6521, 
+        7181
+    ], 
+    "genres": [
+        26
+    ], 
+    "id": 5142, 
+    "keywords": [
+        211, 
+        296, 
+        1638, 
+        2601, 
+        4139, 
+        4142, 
+        4228, 
+        4719, 
+        4919, 
+        5730
+    ], 
+    "name": "Scene It? Twilight", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        20, 
+        5
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        129
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1259020800000, 
+            "human": "2009-Nov-24", 
+            "m": 11, 
+            "platform": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1259020800000, 
+            "human": "2009-Nov-24", 
+            "m": 11, 
+            "platform": 6, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1259020800000, 
+            "human": "2009-Nov-24", 
+            "m": 11, 
+            "platform": 20, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "grrkpkffit1ge64itrxm", 
+            "height": 640, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/grrkpkffit1ge64itrxm.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "sdv7ocunj3kw5ss2edae", 
+            "height": 640, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sdv7ocunj3kw5ss2edae.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "u9qxpsj66h2uhciekqdg", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u9qxpsj66h2uhciekqdg.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "scene-it-twilight", 
+    "summary": "Scene It? Twilight is an entry in the Scene It? series that focuses strictly on the Twilight universe.", 
+    "tags": [
+        268435482, 
+        536871123, 
+        536871208, 
+        536872550, 
+        536873513, 
+        536875051, 
+        536875054, 
+        536875140, 
+        536875631, 
+        536875831, 
+        536876642
+    ], 
+    "total_rating": 55.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1515786595320, 
+    "url": "https://www.igdb.com/games/scene-it-twilight", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "PZ92L-P_jb8"
+        }
+    ]
+}

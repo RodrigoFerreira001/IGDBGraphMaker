@@ -1,0 +1,118 @@
+{
+    "aggregated_rating": 78.5, 
+    "aggregated_rating_count": 5, 
+    "category": 1, 
+    "cover": {
+        "cloudinary_id": "twnub5fvt8py6eoxyi8l", 
+        "height": 1671, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/twnub5fvt8py6eoxyi8l.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1478617551478, 
+    "developers": [
+        7912
+    ], 
+    "first_release_date": 1497830400000, 
+    "game": 8965, 
+    "id": 25651, 
+    "name": "Darkest Dungeon: The Crimson Court", 
+    "platforms": [
+        6, 
+        39, 
+        92, 
+        14, 
+        46, 
+        48, 
+        3
+    ], 
+    "popularity": 5.333333333333333, 
+    "publishers": [
+        7912
+    ], 
+    "pulse_count": 26, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1514678400000, 
+            "human": "2017", 
+            "m": 12, 
+            "platform": 39, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1503360000000, 
+            "human": "2017-Aug-22", 
+            "m": 8, 
+            "platform": 46, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1503360000000, 
+            "human": "2017-Aug-22", 
+            "m": 8, 
+            "platform": 48, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1497830400000, 
+            "human": "2017-Jun-19", 
+            "m": 6, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1497830400000, 
+            "human": "2017-Jun-19", 
+            "m": 6, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1497830400000, 
+            "human": "2017-Jun-19", 
+            "m": 6, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1497830400000, 
+            "human": "2017-Jun-19", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qnacgkc1sa8qwtdmoz7m", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qnacgkc1sa8qwtdmoz7m.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "darkest-dungeon-the-crimson-court", 
+    "total_rating": 78.5, 
+    "total_rating_count": 5, 
+    "updated_at": 1523988427026, 
+    "url": "https://www.igdb.com/games/darkest-dungeon-the-crimson-court", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/580100/Darkest_Dungeon_The_Crimson_Court"
+        }, 
+        {
+            "category": 2, 
+            "url": "https://darkestdungeon.gamepedia.com/The_Crimson_Court_(DLC)"
+        }
+    ]
+}

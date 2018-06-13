@@ -1,0 +1,164 @@
+{
+    "aggregated_rating": 81.75, 
+    "aggregated_rating_count": 5, 
+    "category": 0, 
+    "collection": 293, 
+    "cover": {
+        "cloudinary_id": "offd89obwzxdq9avzpk2", 
+        "height": 1885, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/offd89obwzxdq9avzpk2.jpg", 
+        "width": 1533
+    }, 
+    "created_at": 1348912964774, 
+    "developers": [
+        280
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1182729600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        68142, 
+        28029, 
+        76246, 
+        19341, 
+        25646, 
+        10039, 
+        76229, 
+        32902, 
+        68287, 
+        12579
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 1347, 
+    "keywords": [
+        470
+    ], 
+    "name": "The Darkness", 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 2.0, 
+    "rating": 79.9898416316873, 
+    "rating_count": 28, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1214438400000, 
+            "human": "2008-Jun-26", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1185062400000, 
+            "human": "2007-Jul-22", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182729600000, 
+            "human": "2007-Jun-25", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182729600000, 
+            "human": "2007-Jun-25", 
+            "m": 6, 
+            "platform": 12, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182729600000, 
+            "human": "2007-Jun-25", 
+            "m": 6, 
+            "platform": 9, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "amcdwkmb0mgbtywoehvw", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/amcdwkmb0mgbtywoehvw.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "itkyyv4uhwhmhavebdi7", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/itkyyv4uhwhmhavebdi7.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jmogtadfrexfrzo10vfi", 
+            "height": 718, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jmogtadfrexfrzo10vfi.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "srxkurw9day4zaqxh0fc", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/srxkurw9day4zaqxh0fc.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zu4znzxbosrs5zcbqcxn", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zu4znzxbosrs5zcbqcxn.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "the-darkness", 
+    "summary": "The Darkness features a distinct blend of dark modern crime drama and supernatural horror with intense first person non-linear gameplay. The game is a dynamic first person shooter that allows players to call upon the forces of the evil underworld as they fight in gritty, urban environments.", 
+    "tags": [
+        1, 
+        19, 
+        268435461, 
+        536871382, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        19
+    ], 
+    "time_to_beat": {
+        "completely": 57600, 
+        "normally": 36000
+    }, 
+    "total_rating": 80.86992081584364, 
+    "total_rating_count": 33, 
+    "updated_at": 1528606421966, 
+    "url": "https://www.igdb.com/games/the-darkness", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "-USei-9KaUk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.2kgames.com/thedarkness/local.htm"
+        }
+    ]
+}

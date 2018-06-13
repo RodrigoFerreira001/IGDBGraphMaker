@@ -1,0 +1,75 @@
+{
+    "aggregated_rating": 26.6666666666667, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "fvxtaatulttzotlp8hm7", 
+        "height": 225, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvxtaatulttzotlp8hm7.jpg", 
+        "width": 225
+    }, 
+    "created_at": 1477075884033, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1476316800000, 
+    "games": [
+        28751, 
+        27314, 
+        28029, 
+        17446, 
+        29525, 
+        76246, 
+        19341, 
+        80632, 
+        28552, 
+        36718
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 25108, 
+    "keywords": [
+        453, 
+        4234
+    ], 
+    "name": "Ace Banana", 
+    "platforms": [
+        48
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.666666666666667, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1476316800000, 
+            "human": "2016-Oct-13", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tcuvlbkfftg4dkgy0mqb", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tcuvlbkfftg4dkgy0mqb.jpg", 
+            "width": 960
+        }
+    ], 
+    "slug": "ace-banana", 
+    "summary": "A Shooting Gallery-style game, players must take up their bow and protect their banana stash against waves of monkeys coming to get them.", 
+    "tags": [
+        268435461, 
+        536871365, 
+        536875146, 
+        1073741825
+    ], 
+    "total_rating": 26.6666666666667, 
+    "total_rating_count": 3, 
+    "updated_at": 1516612226881, 
+    "url": "https://www.igdb.com/games/ace-banana"
+}

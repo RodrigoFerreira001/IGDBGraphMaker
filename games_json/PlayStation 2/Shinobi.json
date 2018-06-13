@@ -1,0 +1,85 @@
+{
+    "aggregated_rating": 30.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 512, 
+    "cover": {
+        "cloudinary_id": "nt87tjynflovdmtlyz1o", 
+        "height": 2156, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nt87tjynflovdmtlyz1o.jpg", 
+        "width": 1532
+    }, 
+    "created_at": 1431265448814, 
+    "developers": [
+        2038
+    ], 
+    "first_release_date": 1036886400000, 
+    "games": [
+        36608, 
+        2940, 
+        40524, 
+        34919, 
+        71581, 
+        29660, 
+        1070, 
+        23175, 
+        76438, 
+        16468
+    ], 
+    "id": 10223, 
+    "name": "Shinobi", 
+    "platforms": [
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1036886400000, 
+            "human": "2002-Nov-10", 
+            "m": 11, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1039046400000, 
+            "human": "2002-Dec-05", 
+            "m": 12, 
+            "platform": 8, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1052956800000, 
+            "human": "2003-May-15", 
+            "m": 5, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2003
+        }
+    ], 
+    "slug": "shinobi--1", 
+    "summary": "The 3D revival of the classic Sega franchise", 
+    "tags": [
+        1, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 30.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1527704666466, 
+    "url": "https://www.igdb.com/games/shinobi--1", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Shinobi_(2002_video_game)"
+        }
+    ]
+}

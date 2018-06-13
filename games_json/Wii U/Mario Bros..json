@@ -1,0 +1,477 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Arcade Archives: Mario Bros."
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30de\u30ea\u30aa\u30d6\u30e9\u30b6\u30fc\u30ba"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2960, 
+    "cover": {
+        "cloudinary_id": "k72rncu6357fmlevus3t", 
+        "height": 312, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/k72rncu6357fmlevus3t.jpg", 
+        "width": 222
+    }, 
+    "created_at": 1383259606739, 
+    "developers": [
+        70
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 426988800000, 
+    "franchise": 24, 
+    "franchises": [
+        24
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        358, 
+        26758, 
+        1068, 
+        117, 
+        1078, 
+        1067, 
+        55752, 
+        1968, 
+        4598, 
+        6705
+    ], 
+    "genres": [
+        8, 
+        33
+    ], 
+    "id": 3105, 
+    "keywords": [
+        137, 
+        1186, 
+        1682, 
+        1705, 
+        2049, 
+        2152, 
+        2759, 
+        4161, 
+        4218, 
+        4288, 
+        4293, 
+        4353, 
+        4373, 
+        4374, 
+        4450, 
+        4484, 
+        4522, 
+        4678, 
+        4694, 
+        4698, 
+        4754, 
+        4760, 
+        4779, 
+        4827, 
+        4918, 
+        4958, 
+        4990, 
+        5171, 
+        5208, 
+        5303, 
+        5359, 
+        5442, 
+        5634, 
+        5672, 
+        5806, 
+        6040, 
+        6152, 
+        6163, 
+        6168, 
+        6177, 
+        6204, 
+        6365, 
+        6384, 
+        6647, 
+        7694, 
+        7696, 
+        8239, 
+        8894, 
+        9194, 
+        9195, 
+        10091, 
+        10147, 
+        10211, 
+        10402, 
+        11378, 
+        11566, 
+        11925, 
+        14195
+    ], 
+    "name": "Mario Bros.", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        52, 
+        60, 
+        66, 
+        59, 
+        65, 
+        41, 
+        125, 
+        15, 
+        26, 
+        24, 
+        25, 
+        37, 
+        5, 
+        18
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        13776, 
+        190, 
+        2406, 
+        70, 
+        1271
+    ], 
+    "pulse_count": 2, 
+    "rating": 77.4219561317755, 
+    "rating_count": 27, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1371686400000, 
+            "human": "2013-Jun-20", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1371686400000, 
+            "human": "2013-Jun-20", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1391040000000, 
+            "human": "2014-Jan-30", 
+            "m": 1, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1389312000000, 
+            "human": "2014-Jan-10", 
+            "m": 1, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1165881600000, 
+            "human": "2006-Dec-12", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1165536000000, 
+            "human": "2006-Dec-08", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 444441600000, 
+            "human": "1984-Feb-01", 
+            "m": 2, 
+            "platform": 125, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 1, 
+            "date": 517968000000, 
+            "human": "1986-Jun", 
+            "m": 6, 
+            "platform": 18, 
+            "region": 2, 
+            "y": 1986
+        }, 
+        {
+            "category": 0, 
+            "date": 431913600000, 
+            "human": "1983-Sep-09", 
+            "m": 9, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1983
+        }, 
+        {
+            "category": 0, 
+            "date": 525916800000, 
+            "human": "1986-Sep-01", 
+            "m": 9, 
+            "platform": 18, 
+            "region": 1, 
+            "y": 1986
+        }, 
+        {
+            "category": 0, 
+            "date": 426988800000, 
+            "human": "1983-Jul-14", 
+            "m": 7, 
+            "platform": 52, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 60, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 25, 
+            "region": 1, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 59, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 66, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 65, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 1, 
+            "y": 1987
+        }, 
+        {
+            "category": 0, 
+            "date": 1036972800000, 
+            "human": "2002-Nov-11", 
+            "m": 11, 
+            "platform": 24, 
+            "region": 2, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1367971200000, 
+            "human": "2013-May-08", 
+            "m": 5, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1987
+        }, 
+        {
+            "category": 0, 
+            "date": 1163894400000, 
+            "human": "2006-Nov-19", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1369785600000, 
+            "human": "2013-May-29", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tif4tqjhzmtrx25wrftv", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tif4tqjhzmtrx25wrftv.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "a8mtgzilhj8vjxfbmghq", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a8mtgzilhj8vjxfbmghq.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "la2qgat95mpepkvnsiiv", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/la2qgat95mpepkvnsiiv.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "xhwekp9lengl7x4vrtwv", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xhwekp9lengl7x4vrtwv.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "brilbmvakv8oly6mzuuo", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/brilbmvakv8oly6mzuuo.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ttzhk5p9ppqijlblkleg", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ttzhk5p9ppqijlblkleg.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "cfuyxrg7i9rqu7tocilq", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cfuyxrg7i9rqu7tocilq.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "kpve7bzmfls2rtwbur5x", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kpve7bzmfls2rtwbur5x.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "a82cfmqfsec5oyampa1m", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a82cfmqfsec5oyampa1m.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "mario-bros", 
+    "summary": "Mario Bros. is an arcade game published and developed by Nintendo in 1983. It was developed by Shigeru Miyamoto. \n \nMario Bros. features two plumbers, Mario and Luigi, having to investigate the sewers of New York after strange creatures have been appearing down there. The objective of the game is to defeat all of the enemies in each phase. The mechanics of Mario Bros. involve only running and jumping. Unlike future Mario games, players cannot jump on enemies and squash them, unless they were already turned on their back. Each phase is a series of platforms with four pipes at each corner of the screen (in the old version along with an object called a \"POW\" block in the center). Both sides of every phase feature a mechanism that allows the player to go off-screen to the left and appear on the right and vice versa. \nThe player gains points by defeating multiple enemies consecutively and can participate in a bonus round to gain more points. Enemies are defeated by kicking them over once they have been flipped on their back. This is accomplished by hitting the platform the enemy is on directly beneath them. If the player allows too much time to pass after doing this, the enemy will flip itself back over, changing in color and increasing speed. Each phase has a certain number of enemies, with the final enemy immediately changing color and increasing its speed to maximum. There are three enemies in all: the Shellcreeper, which simply walks around; the Sidestepper, which requires two hits to flip over; and the Fighter Fly, which moves by jumping and can only be flipped when it is touching a platform. Players may also make use of the above-mentioned \"POW\" block, which flips any enemy touching a platform or the floor when a player hits it from below. This item can be used three times before it disappears. Coins appear whenever enemies are defeated and may be collected for bonus points. \nAs the game progresses, elements are added to increase the difficulty. Fireballs either bounce around the screen or travel directly from one side to the other, and Slipices can freeze platforms, causing Mario and Luigi to skid. In addition, icicles start to form under the platforms and fall loose. Bonus rounds give the players a chance to score extra points by collecting coins without having to deal with enemies; the \"POW\" block regenerates itself on each of these screens.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435489, 
+        536871049, 
+        536872098, 
+        536872594, 
+        536872617, 
+        536872961, 
+        536873064, 
+        536873671, 
+        536875073, 
+        536875130, 
+        536875200, 
+        536875205, 
+        536875265, 
+        536875285, 
+        536875286, 
+        536875362, 
+        536875396, 
+        536875434, 
+        536875590, 
+        536875606, 
+        536875610, 
+        536875666, 
+        536875672, 
+        536875691, 
+        536875739, 
+        536875830, 
+        536875870, 
+        536875902, 
+        536876083, 
+        536876120, 
+        536876215, 
+        536876271, 
+        536876354, 
+        536876546, 
+        536876584, 
+        536876718, 
+        536876952, 
+        536877064, 
+        536877075, 
+        536877080, 
+        536877089, 
+        536877116, 
+        536877277, 
+        536877296, 
+        536877559, 
+        536878606, 
+        536878608, 
+        536879151, 
+        536879806, 
+        536880106, 
+        536880107, 
+        536881003, 
+        536881059, 
+        536881123, 
+        536881314, 
+        536882290, 
+        536882478, 
+        536882837, 
+        536885107, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 77.4219561317755, 
+    "total_rating_count": 27, 
+    "updated_at": 1525473070031, 
+    "url": "https://www.igdb.com/games/mario-bros"
+}

@@ -1,0 +1,563 @@
+{
+    "aggregated_rating": 45.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "J\u016b\u014dki"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Juuouki"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "3D J\u016b\u014dki"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "3D Juuouki"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "3D Altered Beast"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2300, 
+    "cover": {
+        "cloudinary_id": "s4sb9fhddx31kd7rfhcq", 
+        "height": 307, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/s4sb9fhddx31kd7rfhcq.jpg", 
+        "width": 220
+    }, 
+    "created_at": 1373991410689, 
+    "developers": [
+        10180
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "34281"
+    }, 
+    "first_release_date": 586396800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        21062, 
+        7344, 
+        27421, 
+        7329, 
+        6732, 
+        6958, 
+        9061, 
+        21429, 
+        23198, 
+        19407
+    ], 
+    "genres": [
+        8, 
+        25
+    ], 
+    "id": 2604, 
+    "keywords": [
+        126, 
+        296, 
+        332, 
+        381, 
+        382, 
+        383, 
+        558, 
+        982, 
+        1059, 
+        1127, 
+        1158, 
+        1293, 
+        1320, 
+        1705, 
+        1716, 
+        2049, 
+        2167, 
+        2951, 
+        3486, 
+        4134, 
+        4135, 
+        4143, 
+        4144, 
+        4155, 
+        4162, 
+        4166, 
+        4169, 
+        4296, 
+        4353, 
+        4396, 
+        4486, 
+        4522, 
+        4523, 
+        4541, 
+        4551, 
+        4560, 
+        4583, 
+        4614, 
+        4698, 
+        4726, 
+        4890, 
+        4959, 
+        5300, 
+        5436, 
+        5453, 
+        5525, 
+        5594, 
+        5633, 
+        5673, 
+        5676, 
+        5814, 
+        6522, 
+        6767, 
+        6843, 
+        7018, 
+        7235, 
+        7424, 
+        7641, 
+        8285, 
+        9130, 
+        9305, 
+        9315, 
+        10097, 
+        10623, 
+        10919, 
+        11434, 
+        11535, 
+        11765, 
+        13115, 
+        14006, 
+        14502
+    ], 
+    "name": "Altered Beast", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        29, 
+        52, 
+        63, 
+        45, 
+        86, 
+        39, 
+        92, 
+        36, 
+        13, 
+        16, 
+        15, 
+        26, 
+        25, 
+        47, 
+        5, 
+        18, 
+        64, 
+        27
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 3.0, 
+    "publishers": [
+        12755, 
+        13377, 
+        11739, 
+        66
+    ], 
+    "pulse_count": 1, 
+    "rating": 64.1482004905762, 
+    "rating_count": 33, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1254096000000, 
+            "human": "2009-Sep-28", 
+            "m": 9, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245974400000, 
+            "human": "2009-Jun-26", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1243900800000, 
+            "human": "2009-Jun-02", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 0, 
+            "date": 622425600000, 
+            "human": "1989-Sep-22", 
+            "m": 9, 
+            "platform": 86, 
+            "region": 5, 
+            "y": 1989
+        }, 
+        {
+            "category": 0, 
+            "date": 645840000000, 
+            "human": "1990-Jun-20", 
+            "m": 6, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 27, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 25, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 16, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 0, 
+            "date": 1315267200000, 
+            "human": "2011-Sep-06", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1292371200000, 
+            "human": "2010-Dec-15", 
+            "m": 12, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1244592000000, 
+            "human": "2009-Jun-10", 
+            "m": 6, 
+            "platform": 36, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 64, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 0, 
+            "date": 586396800000, 
+            "human": "1988-Aug-01", 
+            "m": 8, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 1275350400000, 
+            "human": "2010-Jun-01", 
+            "m": 6, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 659923200000, 
+            "human": "1990-Nov-30", 
+            "m": 11, 
+            "platform": 29, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 0, 
+            "date": 587520000000, 
+            "human": "1988-Aug-14", 
+            "m": 8, 
+            "platform": 29, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 596592000000, 
+            "human": "1988-Nov-27", 
+            "m": 11, 
+            "platform": 29, 
+            "region": 5, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 1163894400000, 
+            "human": "2006-Nov-19", 
+            "m": 11, 
+            "platform": 47, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hd4ynv1wm33upzaamrme", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hd4ynv1wm33upzaamrme.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "wxcqscejdudti9mevozu", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wxcqscejdudti9mevozu.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "yikjrwcp25hs4cvhl2rh", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yikjrwcp25hs4cvhl2rh.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "vgwj1cuuzfpksnopdoun", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vgwj1cuuzfpksnopdoun.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "rgi56wppjax6uyznoj3d", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rgi56wppjax6uyznoj3d.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "l7egwn92exvqxqihrtii", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l7egwn92exvqxqihrtii.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "zw2glmfsmqpiplvevthn", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zw2glmfsmqpiplvevthn.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "vtlhfdns3rjjdvl4mxhu", 
+            "height": 370, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vtlhfdns3rjjdvl4mxhu.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "tbzuwigixfgztnoqpudo", 
+            "height": 370, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tbzuwigixfgztnoqpudo.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "vhqdmh85lztldctpucpb", 
+            "height": 320, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vhqdmh85lztldctpucpb.jpg", 
+            "width": 480
+        }, 
+        {
+            "cloudinary_id": "mmtjq8nfwvhrjtscei7n", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mmtjq8nfwvhrjtscei7n.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ylhhtzgxtht6ahnjq86z", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ylhhtzgxtht6ahnjq86z.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "altered-beast", 
+    "storyline": "A Roman centurion who had died in battle is resurrected from the dead by Zeus. The centurion is ordered by Zeus to save his daughter Athena from a Demon God called Neff in the Underworld. To become able to withstand the perils, the warrior gets the ability to absorb spirit balls which transform him into an Altered Beast, a part animal, part human creature of formidable force. Between each level are small animations giving the player glimpses of Athena's peril. He first travels through the graveyard fighting past zombies and winged demons. The centurion becomes a werewolf in order to fight Neff in the form of Aggar. The centurion defeats him, but Neff escapes. \nThe centurion travels through the Underworld where he fights through giant leeches, Chinese dragon-headed rattlesnakes, and ferocious Chicken Stingers (resembling the ones from Golden Axe). The centurion turns into a humanoid thunder dragon in order to fight Neff in the form of Octeyes. The centurion defeats him, but Neff escapes. \nThe centurion travels through the Cavern of Souls where he fights through Cave Needles (which resemble giant ants), turtle/snail hybrids, and zombies known as Grave Masters. The centurion turns into a humanoid bear in order to fight Neff in the form of Mouldy Snail. The centurion defeats him, but Neff escapes. \nThe centurion arrives at Neff's palace where he fights through zombies, Chicken Stingers, and Hammer Demons. The centurion turns into a humanoid tiger in order to fight Neff in the form of Crocodile Worm. The centurion defeats him, but Neff escapes. \nAfter the centurion arrives in Dis, he fights through winged demons, Goat Men, Boar Men, saw fishes, and purple Unicorn Men to get to Neff. When the centurion confronts Neff, the centurion becomes a golden werewolf while Neff transforms into a Rhinoceros-Man. After he is defeated, a blue bird comes out of the ground and transforms back to Athena. Afterwards she is shown holding arms with her lycanthropic hero, thanking him for rescuing her. \nIn the original arcade, the end credits are interspersed with images of actors in costumes for the different characters and monsters of the game, implying the whole game was a film production.[2]", 
+    "summary": "Unleash metamorphic power. \"Awaken, dead warrior!\" cries Zeus, God of Thunder. And you rise. Called upon to live again, you kick, punch, grapple and tear at the inhuman and monstrous flesh of horrible, dangerous underworld henchmen out to do you wrong. Savagely intent upon rescuing Athena, daughter of Zeus, from the demon god Neff, you stalk the bowels of Hades and beyond. \n \nWhat you are now you will not be. You are the Altered Beast - bestowed with five formidable forces of transformation - each more ferocious, more overwhelming, than the last. By battling, conquering and capturing spirit balls, your metamorphic powers will grow. But to what end? \n \nThe final confrontation. Your triumph over crocodile worms, hammer demons and grave masters brings on the horror of Neff himself. But boldness and cunning will be rewarded - in the ultimate Altered Beast! \n \nTransformation is the ultimate power.", 
+    "tags": [
+        1, 
+        17, 
+        21, 
+        22, 
+        268435464, 
+        268435481, 
+        536871038, 
+        536871208, 
+        536871244, 
+        536871293, 
+        536871294, 
+        536871295, 
+        536871470, 
+        536871894, 
+        536871971, 
+        536872039, 
+        536872070, 
+        536872205, 
+        536872232, 
+        536872617, 
+        536872628, 
+        536872961, 
+        536873079, 
+        536873863, 
+        536874398, 
+        536875046, 
+        536875047, 
+        536875055, 
+        536875056, 
+        536875067, 
+        536875074, 
+        536875078, 
+        536875081, 
+        536875208, 
+        536875265, 
+        536875308, 
+        536875398, 
+        536875434, 
+        536875435, 
+        536875453, 
+        536875463, 
+        536875472, 
+        536875495, 
+        536875526, 
+        536875610, 
+        536875638, 
+        536875802, 
+        536875871, 
+        536876212, 
+        536876348, 
+        536876365, 
+        536876437, 
+        536876506, 
+        536876545, 
+        536876585, 
+        536876588, 
+        536876726, 
+        536877434, 
+        536877679, 
+        536877755, 
+        536877930, 
+        536878147, 
+        536878336, 
+        536878553, 
+        536879197, 
+        536880042, 
+        536880217, 
+        536880227, 
+        536881009, 
+        536881535, 
+        536881831, 
+        536882346, 
+        536882447, 
+        536882677, 
+        536884027, 
+        536884918, 
+        536885414, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17, 
+        21, 
+        22
+    ], 
+    "total_rating": 54.5741002452881, 
+    "total_rating_count": 35, 
+    "updated_at": 1528476333490, 
+    "url": "https://www.igdb.com/games/altered-beast", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "A57GZEJlxrc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.sega.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/34281"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://en.wikipedia.org/wiki/Altered_Beast"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 2, 
+    "artworks": [
+        {
+            "cloudinary_id": "ugc1mfpqjqmodbnyk2ih", 
+            "height": 931, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ugc1mfpqjqmodbnyk2ih.jpg", 
+            "width": 772
+        }
+    ], 
+    "category": 0, 
+    "collection": 3212, 
+    "cover": {
+        "cloudinary_id": "rsxvcaswe7u943uvlstn", 
+        "height": 876, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rsxvcaswe7u943uvlstn.jpg", 
+        "width": 614
+    }, 
+    "created_at": 1472931779934, 
+    "developers": [
+        5222
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1291680000000, 
+    "franchise": 476, 
+    "franchises": [
+        476
+    ], 
+    "games": [
+        23175, 
+        47823, 
+        25300, 
+        59516, 
+        55289, 
+        37022, 
+        25646, 
+        76098, 
+        25311, 
+        36856
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 23380, 
+    "keywords": [
+        1033, 
+        4142, 
+        4176, 
+        4382
+    ], 
+    "name": "Yogi Bear: The Video Game", 
+    "platforms": [
+        20, 
+        5
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        5222
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1291680000000, 
+            "human": "2010-Dec-07", 
+            "m": 12, 
+            "platform": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1291680000000, 
+            "human": "2010-Dec-07", 
+            "m": 12, 
+            "platform": 20, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "me1pczcekkytxbo9rrn2", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/me1pczcekkytxbo9rrn2.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "guct4abpaojjeqy6vtgg", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/guct4abpaojjeqy6vtgg.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "kvfaujbug0qyebn6bwst", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kvfaujbug0qyebn6bwst.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "g1m2vdkewznqwgtp3u9w", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g1m2vdkewznqwgtp3u9w.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "yogi-bear-the-video-game", 
+    "summary": "The 100th Anniversary of Jellystone Park is fast approaching - and land developers want to shut it down! Based on Warner Bros. Studios live-action CG animated feature film Yogi Bear, Yogi Bear: The Video Game lets players become \"smarter than the average bear\" while exploring the park as Yogi. Belly slide, zip-line, bungee, and sneak through majestic levels, all the while rescuing protected animals and finding a way to save Jellystone Park from shutting down forever!", 
+    "tags": [
+        1, 
+        268435487, 
+        536871945, 
+        536875054, 
+        536875088, 
+        536875294
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1524809104291, 
+    "url": "https://www.igdb.com/games/yogi-bear-the-video-game", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "TF4L2mKuSCI"
+        }
+    ]
+}

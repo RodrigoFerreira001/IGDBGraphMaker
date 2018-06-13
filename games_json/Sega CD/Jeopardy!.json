@@ -1,0 +1,126 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 3425, 
+    "cover": {
+        "cloudinary_id": "tzywwgv1rh34iwzxvyr3", 
+        "height": 192, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tzywwgv1rh34iwzxvyr3.jpg", 
+        "width": 263
+    }, 
+    "created_at": 1388970687356, 
+    "developers": [
+        1019
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 788832000000, 
+    "franchise": 152, 
+    "franchises": [
+        152
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19082, 
+        25217, 
+        78873, 
+        54524, 
+        11588, 
+        28213, 
+        11529, 
+        31561, 
+        69474, 
+        28113
+    ], 
+    "genres": [
+        13, 
+        26
+    ], 
+    "id": 3396, 
+    "keywords": [
+        772, 
+        1293, 
+        1333, 
+        2601, 
+        2604, 
+        4134, 
+        4139, 
+        4142, 
+        4245, 
+        4379, 
+        4514, 
+        4544, 
+        4720, 
+        5783, 
+        9939
+    ], 
+    "name": "Jeopardy!", 
+    "platforms": [
+        4, 
+        9, 
+        78
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        139
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 788832000000, 
+            "human": "1994-Dec-31", 
+            "m": 12, 
+            "platform": 78, 
+            "region": 2, 
+            "y": 1994
+        }, 
+        {
+            "category": 0, 
+            "date": 1221091200000, 
+            "human": "2008-Sep-11", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 888364800000, 
+            "human": "1998-Feb-25", 
+            "m": 2, 
+            "platform": 4, 
+            "y": 1998
+        }
+    ], 
+    "slug": "jeopardy", 
+    "summary": "Game.com's version of the game show Jeopardy!, by GameTek.", 
+    "tags": [
+        268435469, 
+        268435482, 
+        536871684, 
+        536872205, 
+        536872245, 
+        536873513, 
+        536873516, 
+        536875046, 
+        536875051, 
+        536875054, 
+        536875157, 
+        536875291, 
+        536875426, 
+        536875456, 
+        536875632, 
+        536876695, 
+        536880851
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1517270873702, 
+    "url": "https://www.igdb.com/games/jeopardy"
+}

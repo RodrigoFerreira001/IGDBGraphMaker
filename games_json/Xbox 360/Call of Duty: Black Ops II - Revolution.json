@@ -1,0 +1,71 @@
+{
+    "aggregated_rating": 73.3333333333333, 
+    "aggregated_rating_count": 4, 
+    "category": 1, 
+    "collection": 1956, 
+    "cover": {
+        "cloudinary_id": "s1u5v3avhi0ldmnqz1et", 
+        "height": 409, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/s1u5v3avhi0ldmnqz1et.jpg", 
+        "width": 615
+    }, 
+    "created_at": 1468175302258, 
+    "first_release_date": 1359417600000, 
+    "game": 1122, 
+    "id": 20153, 
+    "name": "Call of Duty: Black Ops II - Revolution", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1362009600000, 
+            "human": "2013-Feb-28", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1362009600000, 
+            "human": "2013-Feb-28", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1359417600000, 
+            "human": "2013-Jan-29", 
+            "m": 1, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jr6nla2uhxqg5raxtkl3", 
+            "height": 506, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jr6nla2uhxqg5raxtkl3.jpg", 
+            "width": 900
+        }
+    ], 
+    "slug": "call-of-duty-black-ops-ii-revolution", 
+    "total_rating": 73.3333333333333, 
+    "total_rating_count": 4, 
+    "updated_at": 1493745508461, 
+    "url": "https://www.igdb.com/games/call-of-duty-black-ops-ii-revolution", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://callofduty.wikia.com/wiki/Revolution_(DLC)"
+        }
+    ]
+}

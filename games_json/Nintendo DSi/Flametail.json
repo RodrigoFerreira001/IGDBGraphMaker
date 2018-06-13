@@ -1,0 +1,79 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Trailblaze: Puzzle Incinerator (EU), Moyasu Puzzle Flametail (JPN)"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "x7h1vjy6ul4ciflmswzq", 
+        "height": 200, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/x7h1vjy6ul4ciflmswzq.jpg", 
+        "width": 195
+    }, 
+    "created_at": 1517395209091, 
+    "first_release_date": 1264550400000, 
+    "id": 85146, 
+    "name": "Flametail", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        70
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1264550400000, 
+            "human": "2010-Jan-27", 
+            "m": 1, 
+            "platform": 159, 
+            "region": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1284076800000, 
+            "human": "2010-Sep-10", 
+            "m": 9, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1275868800000, 
+            "human": "2010-Jun-07", 
+            "m": 6, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bfze87skh4gotbgwruzd", 
+            "height": 272, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bfze87skh4gotbgwruzd.jpg", 
+            "width": 408
+        }, 
+        {
+            "cloudinary_id": "vt3diu6majibs55lpc9g", 
+            "height": 272, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vt3diu6majibs55lpc9g.jpg", 
+            "width": 408
+        }, 
+        {
+            "cloudinary_id": "sewweonguo1xudxhb217", 
+            "height": 272, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sewweonguo1xudxhb217.jpg", 
+            "width": 408
+        }
+    ], 
+    "slug": "flametail", 
+    "summary": "The year is 2099, and the solar system is littered with space junk.", 
+    "updated_at": 1518060666305, 
+    "url": "https://www.igdb.com/games/flametail"
+}

@@ -1,0 +1,181 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "medwlnngpdn5kfxfbvot", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/medwlnngpdn5kfxfbvot.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1429218474979, 
+    "developers": [
+        5269
+    ], 
+    "external": {
+        "steam": "311480"
+    }, 
+    "first_release_date": 1406246400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        55752, 
+        16468, 
+        47823, 
+        36926, 
+        12632, 
+        26848, 
+        27209, 
+        10039, 
+        68324, 
+        22747
+    ], 
+    "genres": [
+        8, 
+        32
+    ], 
+    "id": 9808, 
+    "keywords": [
+        174, 
+        288, 
+        296, 
+        416, 
+        1026, 
+        2049
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Vertical Drop Heroes HD", 
+    "platforms": [
+        6, 
+        14, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        5257
+    ], 
+    "rating": 90.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1487289600000, 
+            "human": "2017-Feb-17", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1406246400000, 
+            "human": "2014-Jul-25", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1406246400000, 
+            "human": "2014-Jul-25", 
+            "m": 7, 
+            "platform": 14, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pjr5l4w70efixo6edw1j", 
+            "height": 337, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pjr5l4w70efixo6edw1j.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "dru84kmek6peget5jppb", 
+            "height": 337, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dru84kmek6peget5jppb.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "lbkezbhugossp8bj0s7t", 
+            "height": 337, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lbkezbhugossp8bj0s7t.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "e3p89wrbxj88pvja2xys", 
+            "height": 337, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e3p89wrbxj88pvja2xys.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "eq7elx1bpcervfmkzt0x", 
+            "height": 337, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eq7elx1bpcervfmkzt0x.jpg", 
+            "width": 600
+        }
+    ], 
+    "slug": "vertical-drop-heroes-hd", 
+    "summary": "Vertical Drop Heroes is a procedural platformer RPG hybrid with roguelike elements, where your hero adventures through randomly generated stages. Armed with a variety of skills and traits, you must use your cunning and reflexes to survive the dangers of each stage, until you face the final boss and uncover the truth behind the game!", 
+    "tags": [
+        1, 
+        17, 
+        268435464, 
+        268435488, 
+        536871086, 
+        536871200, 
+        536871208, 
+        536871328, 
+        536871938, 
+        536872961, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 82.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1523252033383, 
+    "url": "https://www.igdb.com/games/vertical-drop-heroes-hd", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "ZqBCQnzSPpM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/311480"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://nerdook-productions.com/"
+        }
+    ]
+}

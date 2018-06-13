@@ -1,0 +1,347 @@
+{
+    "aggregated_rating": 78.5, 
+    "aggregated_rating_count": 4, 
+    "alternative_names": [
+        {
+            "comment": "3DS title", 
+            "name": "Runbow Pocket"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qwp1gj6giu4urgonk20h", 
+        "height": 724, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qwp1gj6giu4urgonk20h.jpg", 
+        "width": 575
+    }, 
+    "created_at": 1434500687297, 
+    "developers": [
+        5913
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is a side-scrolling platformer game in which players complete various objectives (e.g., reach trophy, collect coins, defeat enemies) in the fastest time possible. Along the way, players can hop or dash at enemies to defeat them, causing them to disappear amid puffs of smoke."
+    }, 
+    "external": {
+        "steam": "464650"
+    }, 
+    "first_release_date": 1440633600000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        6732, 
+        18387, 
+        55752, 
+        117, 
+        26848, 
+        36868, 
+        18822, 
+        7444, 
+        65832, 
+        76098
+    ], 
+    "genres": [
+        8, 
+        10, 
+        31, 
+        32
+    ], 
+    "id": 11215, 
+    "keywords": [
+        350, 
+        1297, 
+        1333, 
+        1495, 
+        1587, 
+        2049, 
+        4239, 
+        4541, 
+        4544, 
+        4706, 
+        4842, 
+        4882, 
+        4883, 
+        4931, 
+        4932, 
+        4933, 
+        4989, 
+        5025, 
+        5114, 
+        5343, 
+        5379, 
+        5632, 
+        6129, 
+        6200, 
+        7223
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Runbow", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons."
+    }, 
+    "platforms": [
+        6, 
+        41, 
+        48, 
+        137, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        3010, 
+        5913, 
+        11638
+    ], 
+    "pulse_count": 7, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1528934400000, 
+            "human": "2018-Jun-14", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1528934400000, 
+            "human": "2018-Jun-14", 
+            "m": 6, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1497916800000, 
+            "human": "2017-Jun-20", 
+            "m": 6, 
+            "platform": 137, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1500163200000, 
+            "human": "2017-Jul-16", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1440633600000, 
+            "human": "2015-Aug-27", 
+            "m": 8, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1441238400000, 
+            "human": "2015-Sep-03", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1479427200000, 
+            "human": "2016-Nov-18", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1445558400000, 
+            "human": "2015-Oct-23", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 3, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448409600000, 
+            "human": "2015-Nov-25", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wo1pffsadcshcyncvdmy", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wo1pffsadcshcyncvdmy.jpg", 
+            "width": 1279
+        }, 
+        {
+            "cloudinary_id": "yrzirahfjwopbeebo4yz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yrzirahfjwopbeebo4yz.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "uecvapj8ke0znhx544lf", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uecvapj8ke0znhx544lf.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "f4j2oqoc8cv9ojqhb5nz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f4j2oqoc8cv9ojqhb5nz.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hxgvpdsgh5yavlceiggy", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hxgvpdsgh5yavlceiggy.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "tadgsi6nhri6pbzcr69m", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tadgsi6nhri6pbzcr69m.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xpufdqfaosjqz42ko2af", 
+            "height": 563, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xpufdqfaosjqz42ko2af.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "xkfspwnuhkphuel8xhfo", 
+            "height": 563, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xkfspwnuhkphuel8xhfo.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "hh4towsiuupb2qnnj2uv", 
+            "height": 563, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hh4towsiuupb2qnnj2uv.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "uzdw5ftxkpteiakvh3a5", 
+            "height": 563, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uzdw5ftxkpteiakvh3a5.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "boy7z6pdbudpviedpvws", 
+            "height": 563, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/boy7z6pdbudpviedpvws.jpg", 
+            "width": 1000
+        }
+    ], 
+    "slug": "runbow", 
+    "summary": "Runbow is an action party game with a unique art style and a never-before seen colour mechanic that will keep you running back for more. Platforms and obstacles appear and disappear as the background colour changes, so if you can\u2019t see something, it doesn\u2019t exist. Whether you're playing alone or with friends, Runbow is fast, frantic, and a lot of fun. \n \nPlayers can race against each other in The Runbow Run, or go head to head in a number of different modes including King of the Hill and Arena to name a few. Use the Wii U GamePad to become the malevolent ColourMaster controlling the colours and the obstacles in the level, or tackle our toughest game mode, The Bowhemoth, a 30+ minute platforming challenge that will put the patience and skill of even the toughest players to the test. \n \nIf dozens of game modes, hundreds of unlockable costumes, and a crazy, colourful gaming challenge sounds like fun, then you better get ready to Runbow!", 
+    "tags": [
+        1, 
+        27, 
+        268435464, 
+        268435466, 
+        268435487, 
+        268435488, 
+        536871262, 
+        536872209, 
+        536872245, 
+        536872407, 
+        536872499, 
+        536872961, 
+        536875151, 
+        536875453, 
+        536875456, 
+        536875618, 
+        536875754, 
+        536875794, 
+        536875795, 
+        536875843, 
+        536875844, 
+        536875845, 
+        536875901, 
+        536875937, 
+        536876026, 
+        536876255, 
+        536876291, 
+        536876544, 
+        536877041, 
+        536877112, 
+        536878135, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 74.25, 
+    "total_rating_count": 4, 
+    "updated_at": 1528621268752, 
+    "url": "https://www.igdb.com/games/runbow", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "9swcTlJYB1k"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "Slkt8Faxt5E"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "gaeIUJKAMwA"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/464650"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.runbowgame.com"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Runbow"
+        }
+    ]
+}

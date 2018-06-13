@@ -1,0 +1,82 @@
+{
+    "aggregated_rating": 37.5, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "cphrribpozagyahgo780", 
+        "height": 272, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cphrribpozagyahgo780.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1392064160883, 
+    "developers": [
+        4
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1213660800000, 
+    "franchise": 354, 
+    "franchises": [
+        354
+    ], 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        23314, 
+        18699, 
+        76259, 
+        103018, 
+        101535, 
+        101205, 
+        101142, 
+        101087, 
+        100902, 
+        100844
+    ], 
+    "genres": [
+        10
+    ], 
+    "id": 5259, 
+    "name": "Wacky Races: Crash and Dash", 
+    "platforms": [
+        20, 
+        5
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        4
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1213660800000, 
+            "human": "2008-Jun-17", 
+            "m": 6, 
+            "platform": 20, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1213660800000, 
+            "human": "2008-Jun-17", 
+            "m": 6, 
+            "platform": 5, 
+            "y": 2008
+        }
+    ], 
+    "slug": "wacky-races-crash-and-dash", 
+    "tags": [
+        268435466, 
+        1073741826
+    ], 
+    "total_rating": 37.5, 
+    "total_rating_count": 4, 
+    "updated_at": 1474468908607, 
+    "url": "https://www.igdb.com/games/wacky-races-crash-and-dash"
+}

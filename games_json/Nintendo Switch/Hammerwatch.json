@@ -1,0 +1,319 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "yjurklljcudpynxevkh7", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yjurklljcudpynxevkh7.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1414362982284, 
+    "developers": [
+        3839, 
+        3840, 
+        3841
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "239070"
+    }, 
+    "first_release_date": 1376265600000, 
+    "game_engines": [
+        84
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        47823, 
+        6732, 
+        25300, 
+        21429, 
+        19448, 
+        11423, 
+        36926, 
+        18822, 
+        55092, 
+        3277
+    ], 
+    "genres": [
+        12, 
+        25, 
+        31, 
+        32
+    ], 
+    "id": 7891, 
+    "keywords": [
+        117, 
+        296, 
+        301, 
+        478, 
+        1026, 
+        1027, 
+        1033, 
+        1158, 
+        1333, 
+        1494, 
+        2180, 
+        2493, 
+        3831, 
+        4004, 
+        4134, 
+        4135, 
+        4346, 
+        4388, 
+        4544, 
+        4612, 
+        4619, 
+        4698, 
+        4777, 
+        4989, 
+        5029, 
+        5040, 
+        5354, 
+        5578, 
+        6074, 
+        16827
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": true, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Hammerwatch", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        49, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        4602, 
+        3839
+    ], 
+    "pulse_count": 1, 
+    "rating": 54.9330820640815, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1513296000000, 
+            "human": "2017-Dec-15", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513987200000, 
+            "human": "2017-Dec-23", 
+            "m": 12, 
+            "platform": 130, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1376265600000, 
+            "human": "2013-Aug-12", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1376265600000, 
+            "human": "2013-Aug-12", 
+            "m": 8, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1376265600000, 
+            "human": "2013-Aug-12", 
+            "m": 8, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ghmkltr0rzkumdamceyt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ghmkltr0rzkumdamceyt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nh0hq01xg26i0aycl1pc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nh0hq01xg26i0aycl1pc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zqxfjipui6upvivgbd9i", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zqxfjipui6upvivgbd9i.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dtwkgebuoibvig2e5xjx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dtwkgebuoibvig2e5xjx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "l27rvfxn7qcypzj6tnjp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l27rvfxn7qcypzj6tnjp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rqkzqtzm6imidsacq147", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rqkzqtzm6imidsacq147.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dto1skqmyspe8szn0pcb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dto1skqmyspe8szn0pcb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "f1e8ilj7dttqkdismwud", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f1e8ilj7dttqkdismwud.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ptdndeirbpjih1tmktkh", 
+            "height": 349, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ptdndeirbpjih1tmktkh.jpg", 
+            "width": 620
+        }, 
+        {
+            "cloudinary_id": "t0xjhmaainypwbfedh7w", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t0xjhmaainypwbfedh7w.jpg", 
+            "width": 427
+        }, 
+        {
+            "cloudinary_id": "jdy2qdyzy91z0ppg23q7", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jdy2qdyzy91z0ppg23q7.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "hammerwatch", 
+    "summary": "Hammerwatch is an hack and slash action adventure, set in a fantasy pixel art environment! Play solo or co-op in this adventure from bottom to top of Castle Hammerwatch! Kill hordes of enemies with varied looks and features through four unique environments with traps, hidden secrets and puzzles!", 
+    "tags": [
+        1, 
+        17, 
+        268435468, 
+        268435481, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536871208, 
+        536871213, 
+        536871390, 
+        536871938, 
+        536871939, 
+        536871945, 
+        536872070, 
+        536872245, 
+        536872406, 
+        536873092, 
+        536873405, 
+        536874743, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875258, 
+        536875300, 
+        536875456, 
+        536875524, 
+        536875531, 
+        536875610, 
+        536875689, 
+        536875901, 
+        536875941, 
+        536875952, 
+        536876266, 
+        536876490, 
+        536876986, 
+        536887739, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 62.46654103204075, 
+    "total_rating_count": 7, 
+    "updated_at": 1528354001854, 
+    "url": "https://www.igdb.com/games/hammerwatch", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "n9aGEzxogqY"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "HInl-LToyB4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/239070"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://www.hammerwatch.com/"
+        }
+    ]
+}

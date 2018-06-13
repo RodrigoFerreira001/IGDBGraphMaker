@@ -1,0 +1,184 @@
+{
+    "aggregated_rating": 92.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 2181, 
+    "cover": {
+        "cloudinary_id": "v1neusiivc1y2qownfnf", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/v1neusiivc1y2qownfnf.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1455282207415, 
+    "developers": [
+        4461
+    ], 
+    "external": {
+        "steam": "326520"
+    }, 
+    "first_release_date": 1443916800000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25222, 
+        60044, 
+        14047, 
+        26223, 
+        27266, 
+        19222, 
+        8197, 
+        25646, 
+        236, 
+        54678
+    ], 
+    "genres": [
+        7, 
+        9
+    ], 
+    "id": 17907, 
+    "keywords": [
+        426, 
+        2875
+    ], 
+    "name": "Chime Sharp", 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        9114, 
+        4460
+    ], 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1487894400000, 
+            "human": "2017-Feb-24", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1468886400000, 
+            "human": "2016-Jul-19", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1487635200000, 
+            "human": "2017-Feb-21", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1443916800000, 
+            "human": "2015-Oct-04", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1443916800000, 
+            "human": "2015-Oct-04", 
+            "m": 10, 
+            "platform": 14, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1443916800000, 
+            "human": "2015-Oct-04", 
+            "m": 10, 
+            "platform": 3, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ihliarrnpu7tcpltnw5x", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ihliarrnpu7tcpltnw5x.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "qfjkvluohqwtiq2g2g8d", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qfjkvluohqwtiq2g2g8d.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "vmda3xrloe3u8vfuaxzq", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vmda3xrloe3u8vfuaxzq.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "xcp3pezmlgr5ltcuqdrz", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xcp3pezmlgr5ltcuqdrz.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "vyrtpzergcninactkkej", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vyrtpzergcninactkkej.jpg", 
+            "width": 1919
+        }
+    ], 
+    "slug": "chime-sharp", 
+    "status": 4, 
+    "summary": "Place pieces, paint the board, make music. Chime Sharp is an sequel to 2009's Chime, a music puzzle game with an addictive, ambient heartbeat. You tessellate shapes to cover a grid, while a beatline reads those shapes as notes. As you cover the board the music builds to a beautiful crescendo of your own design. The only way to discover Chime is to play it, but if you want a glimpse, consider what it might feel like to cross Tetris, a music sequencer and a hypnotic dream about your favourite pop song.", 
+    "tags": [
+        32, 
+        268435463, 
+        268435465, 
+        536871338, 
+        536873787, 
+        1073741828
+    ], 
+    "themes": [
+        32
+    ], 
+    "total_rating": 81.25, 
+    "total_rating_count": 2, 
+    "updated_at": 1523432995170, 
+    "url": "https://www.igdb.com/games/chime-sharp", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "9aSGeZ8gZ0A"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/326520"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://chimesharp.com"
+        }
+    ]
+}

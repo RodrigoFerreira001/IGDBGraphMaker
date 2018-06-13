@@ -1,0 +1,126 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "Space Invaders X"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ltpzeguqw2qqff2ch9qf", 
+        "height": 468, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ltpzeguqw2qqff2ch9qf.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1456847993521, 
+    "developers": [
+        1817
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 938649600000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        46892, 
+        41258, 
+        76246, 
+        19341, 
+        28029, 
+        32902, 
+        97018, 
+        96550, 
+        93794, 
+        88910
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 18133, 
+    "name": "Space Invaders", 
+    "platforms": [
+        4, 
+        7
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        66
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 943920000000, 
+            "human": "1999-Nov-30", 
+            "m": 11, 
+            "platform": 4, 
+            "region": 2, 
+            "y": 1999
+        }, 
+        {
+            "category": 0, 
+            "date": 938649600000, 
+            "human": "1999-Sep-30", 
+            "m": 9, 
+            "platform": 7, 
+            "region": 2, 
+            "y": 1999
+        }, 
+        {
+            "category": 0, 
+            "date": 938649600000, 
+            "human": "1999-Sep-30", 
+            "m": 9, 
+            "platform": 7, 
+            "region": 1, 
+            "y": 1999
+        }, 
+        {
+            "category": 0, 
+            "date": 950745600000, 
+            "human": "2000-Feb-17", 
+            "m": 2, 
+            "platform": 7, 
+            "region": 5, 
+            "y": 2000
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "m52sx8hfdmqfxehrotj9", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m52sx8hfdmqfxehrotj9.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "p7s72gsqmlncd8cxozw1", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p7s72gsqmlncd8cxozw1.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "space-invaders--1", 
+    "summary": "Space Invaders is a game in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at descending aliens. \nThe aim is to defeat five rows of eleven aliens\u2014some versions feature different numbers\u2014that move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon. As more aliens are defeated, the aliens' movement and the game's music both speed up.", 
+    "tags": [
+        268435461, 
+        1073741826
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1517270901662, 
+    "url": "https://www.igdb.com/games/space-invaders--1", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "eiiEqss2ofs"
+        }
+    ]
+}

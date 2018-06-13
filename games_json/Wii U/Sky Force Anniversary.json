@@ -1,0 +1,256 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Sky Force 2014"
+        }
+    ], 
+    "category": 0, 
+    "collection": 5162, 
+    "cover": {
+        "cloudinary_id": "wjgf2i05mrso8wl0pk3m", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wjgf2i05mrso8wl0pk3m.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1430520275698, 
+    "developers": [
+        5368
+    ], 
+    "external": {
+        "steam": "355050"
+    }, 
+    "first_release_date": 1401926400000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        11423, 
+        6732, 
+        7350, 
+        28113, 
+        19407, 
+        27717, 
+        21429, 
+        19082, 
+        76110, 
+        10039
+    ], 
+    "genres": [
+        5, 
+        32
+    ], 
+    "id": 10030, 
+    "keywords": [
+        21, 
+        166, 
+        613, 
+        947, 
+        1158, 
+        1293, 
+        1494, 
+        4004, 
+        4134, 
+        4150, 
+        4151
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Sky Force Anniversary", 
+    "platforms": [
+        34, 
+        6, 
+        39, 
+        41, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 3.0, 
+    "publishers": [
+        5368
+    ], 
+    "rating": 83.27965434099261, 
+    "rating_count": 9, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1489622400000, 
+            "human": "2017-Mar-16", 
+            "m": 3, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489622400000, 
+            "human": "2017-Mar-16", 
+            "m": 3, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1481241600000, 
+            "human": "2016-Dec-09", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1430352000000, 
+            "human": "2015-Apr-30", 
+            "m": 4, 
+            "platform": 6, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1401926400000, 
+            "human": "2014-Jun-05", 
+            "m": 6, 
+            "platform": 39, 
+            "y": 2014
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 34
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zcbkpixhg9jioyxqqcwa", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zcbkpixhg9jioyxqqcwa.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "bbjqeev9fk9fvbeg8gl2", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bbjqeev9fk9fvbeg8gl2.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "rzuuk4l9l6c5wvmr5yj5", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rzuuk4l9l6c5wvmr5yj5.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "prlq1f9c6s1jebzxxriq", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/prlq1f9c6s1jebzxxriq.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "nasy703u9yhknojpoyys", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nasy703u9yhknojpoyys.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "xnzfoabv4zroxk7dmn52", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xnzfoabv4zroxk7dmn52.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "titkubyovtuwxsrrp1ys", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/titkubyovtuwxsrrp1ys.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dsqzok7rm4qnquhlyxga", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dsqzok7rm4qnquhlyxga.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tmydkq9rib3jywxvrzrb", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tmydkq9rib3jywxvrzrb.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "j6a9mdefbrsshqfs7nqf", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j6a9mdefbrsshqfs7nqf.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "rm6u306czbndahoeuovb", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rm6u306czbndahoeuovb.jpg", 
+            "width": 1600
+        }
+    ], 
+    "slug": "sky-force-anniversary", 
+    "summary": "Legendary shoot-'em-up makes its way on the PCs! Abundant explosions, truly epic boss fights and beautifully crafted 3D environments are here to keep you entertained. Sky Force Anniversary offers single player experience and local cooperative mode for 2 players.", 
+    "tags": [
+        1, 
+        39, 
+        268435461, 
+        268435488, 
+        536870933, 
+        536871078, 
+        536871525, 
+        536871859, 
+        536872070, 
+        536872205, 
+        536872406, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875063, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        39
+    ], 
+    "time_to_beat": {
+        "completely": 54000
+    }, 
+    "total_rating": 81.6398271704963, 
+    "total_rating_count": 10, 
+    "updated_at": 1528357823782, 
+    "url": "https://www.igdb.com/games/sky-force-anniversary", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "V0OA98wh1m0"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "0dIcWOEY310"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "hutyt3zrvdiemwm7blsj", 
+        "height": 148, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hutyt3zrvdiemwm7blsj.jpg", 
+        "width": 165
+    }, 
+    "created_at": 1505349736050, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1251244800000, 
+    "games": [
+        61750, 
+        58302, 
+        55079, 
+        44927, 
+        43928, 
+        40605, 
+        40172, 
+        14305, 
+        14304, 
+        46820
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 67110, 
+    "keywords": [
+        2016
+    ], 
+    "name": "Jazzy Billiards", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        2103
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1251244800000, 
+            "human": "2009-Aug-26", 
+            "m": 8, 
+            "platform": 159, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1283472000000, 
+            "human": "2010-Sep-03", 
+            "m": 9, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1263168000000, 
+            "human": "2010-Jan-11", 
+            "m": 1, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hzcukcl9obqzdi0ulioo", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hzcukcl9obqzdi0ulioo.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "inwdfyb2ns3lhghzsi3p", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/inwdfyb2ns3lhghzsi3p.jpg", 
+            "width": 272
+        }
+    ], 
+    "slug": "jazzy-billiards", 
+    "summary": "A 9-ball pool game from Arc System Works", 
+    "tags": [
+        268435470, 
+        536872928
+    ], 
+    "updated_at": 1518066373827, 
+    "url": "https://www.igdb.com/games/jazzy-billiards"
+}

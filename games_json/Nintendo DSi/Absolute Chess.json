@@ -1,0 +1,73 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "eqfffodf7kzpabxvmilg", 
+        "height": 160, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/eqfffodf7kzpabxvmilg.jpg", 
+        "width": 165
+    }, 
+    "created_at": 1508004488532, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1281312000000, 
+    "games": [
+        11588, 
+        25217, 
+        19083, 
+        83156, 
+        83138, 
+        82912, 
+        79822, 
+        79478, 
+        78654, 
+        78592
+    ], 
+    "genres": [
+        26
+    ], 
+    "id": 74418, 
+    "keywords": [
+        2601, 
+        4139
+    ], 
+    "name": "Absolute Chess", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1281312000000, 
+            "human": "2010-Aug-09", 
+            "m": 8, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hl38roriznqk2u53opc4", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hl38roriznqk2u53opc4.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "rkeplnyrobgmqs3ygoj7", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rkeplnyrobgmqs3ygoj7.jpg", 
+            "width": 272
+        }
+    ], 
+    "slug": "absolute-chess", 
+    "summary": "Chess for DsiWare", 
+    "tags": [
+        268435482, 
+        536873513, 
+        536875051
+    ], 
+    "updated_at": 1518045149454, 
+    "url": "https://www.igdb.com/games/absolute-chess"
+}

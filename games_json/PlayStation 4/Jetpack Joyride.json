@@ -1,0 +1,384 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Machine Gun Jetpack"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "obqytp2pc70ejpxuyolo", 
+        "height": 294, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/obqytp2pc70ejpxuyolo.jpg", 
+        "width": 215
+    }, 
+    "created_at": 1423338821488, 
+    "developers": [
+        891, 
+        2431
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1314835200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28113, 
+        7350, 
+        6732, 
+        19448, 
+        7349, 
+        19174, 
+        72373, 
+        19082, 
+        25300, 
+        11529
+    ], 
+    "genres": [
+        8, 
+        33
+    ], 
+    "id": 8978, 
+    "keywords": [
+        57, 
+        163, 
+        237, 
+        350, 
+        594, 
+        970, 
+        1293, 
+        2388, 
+        3741, 
+        4134, 
+        4177, 
+        4218, 
+        4245, 
+        4355, 
+        4388, 
+        4410, 
+        4435, 
+        4444, 
+        4510, 
+        4620, 
+        4890, 
+        4939, 
+        5005, 
+        5328, 
+        5360, 
+        5510, 
+        7292, 
+        7403, 
+        11168, 
+        11782
+    ], 
+    "name": "Jetpack Joyride", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters"
+    }, 
+    "platforms": [
+        74, 
+        34, 
+        45, 
+        6, 
+        39, 
+        73, 
+        82, 
+        46, 
+        9, 
+        38, 
+        48
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        891, 
+        4753, 
+        2431
+    ], 
+    "pulse_count": 1, 
+    "rating": 77.1590977646762, 
+    "rating_count": 17, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1353456000000, 
+            "human": "2012-Nov-21", 
+            "m": 11, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1353369600000, 
+            "human": "2012-Nov-20", 
+            "m": 11, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1314835200000, 
+            "human": "2011-Sep-01", 
+            "m": 9, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1336694400000, 
+            "human": "2012-May-11", 
+            "m": 5, 
+            "platform": 82, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1348790400000, 
+            "human": "2012-Sep-28", 
+            "m": 9, 
+            "platform": 34, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1353369600000, 
+            "human": "2012-Nov-20", 
+            "m": 11, 
+            "platform": 38, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1353456000000, 
+            "human": "2012-Nov-21", 
+            "m": 11, 
+            "platform": 38, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1355356800000, 
+            "human": "2012-Dec-13", 
+            "m": 12, 
+            "platform": 73, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1356048000000, 
+            "human": "2012-Dec-21", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1356912000000, 
+            "human": "2012-Dec-31", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1370390400000, 
+            "human": "2013-Jun-05", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1370390400000, 
+            "human": "2013-Jun-05", 
+            "m": 6, 
+            "platform": 74, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1356048000000, 
+            "human": "2012-Dec-21", 
+            "m": 12, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1356912000000, 
+            "human": "2012-Dec-31", 
+            "m": 12, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1461628800000, 
+            "human": "2016-Apr-26", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "fkrhhgkepy2zwvgynvzr", 
+            "height": 414, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fkrhhgkepy2zwvgynvzr.jpg", 
+            "width": 552
+        }, 
+        {
+            "cloudinary_id": "l9j1nz5aagy9bndtascv", 
+            "height": 414, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l9j1nz5aagy9bndtascv.jpg", 
+            "width": 552
+        }, 
+        {
+            "cloudinary_id": "vgotrv6tesdkmjhdfno6", 
+            "height": 228, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vgotrv6tesdkmjhdfno6.jpg", 
+            "width": 406
+        }, 
+        {
+            "cloudinary_id": "wqqmusxqardlyshrewkk", 
+            "height": 228, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wqqmusxqardlyshrewkk.jpg", 
+            "width": 406
+        }, 
+        {
+            "cloudinary_id": "gasypzdpws9q137fhgzd", 
+            "height": 228, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gasypzdpws9q137fhgzd.jpg", 
+            "width": 406
+        }, 
+        {
+            "cloudinary_id": "x11b9hxjks67b4ef43ug", 
+            "height": 228, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x11b9hxjks67b4ef43ug.jpg", 
+            "width": 406
+        }, 
+        {
+            "cloudinary_id": "spag2fr3evmkiphxqcnl", 
+            "height": 228, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/spag2fr3evmkiphxqcnl.jpg", 
+            "width": 406
+        }, 
+        {
+            "cloudinary_id": "mf7je6hlqq69me1ihwoe", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mf7je6hlqq69me1ihwoe.jpg", 
+            "width": 1281
+        }, 
+        {
+            "cloudinary_id": "c0eto5yfid8ykomcpctt", 
+            "height": 719, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c0eto5yfid8ykomcpctt.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "sposv3myly4mbvgkecf9", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sposv3myly4mbvgkecf9.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "o7cbtukpxw1dfluz1epj", 
+            "height": 721, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o7cbtukpxw1dfluz1epj.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "yzlxzt4jclitlhrtzr3z", 
+            "height": 721, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yzlxzt4jclitlhrtzr3z.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "jetpack-joyride", 
+    "storyline": "Join Barry Steakfries as he breaks in to a secret laboratory to commandeer the experimental jetpacks from the clutches of science evildoers.", 
+    "summary": "Jetpack Joyride is a 2011 side-scrolling endless runner/action video game created by Chief Creative Officer Luke Muscat at Halfbrick Studios. Originally released for iOS devices on the App Store on September 1, 2011, the game has since been ported to many other systems. \n \nThe game features the same protagonist as Monster Dash, Barry Steakfries, who the player controls as he steals a jet pack from a top-secret laboratory. The game has been met with very favorable reviews, and has won numerous awards.", 
+    "tags": [
+        1, 
+        18, 
+        27, 
+        268435464, 
+        268435489, 
+        536870969, 
+        536871075, 
+        536871149, 
+        536871262, 
+        536871506, 
+        536871882, 
+        536872205, 
+        536873300, 
+        536874653, 
+        536875046, 
+        536875089, 
+        536875130, 
+        536875157, 
+        536875267, 
+        536875300, 
+        536875322, 
+        536875347, 
+        536875356, 
+        536875422, 
+        536875532, 
+        536875802, 
+        536875851, 
+        536875917, 
+        536876240, 
+        536876272, 
+        536876422, 
+        536878204, 
+        536878315, 
+        536882080, 
+        536882694, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18, 
+        27
+    ], 
+    "total_rating": 68.5795488823381, 
+    "total_rating_count": 19, 
+    "updated_at": 1526589439320, 
+    "url": "https://www.igdb.com/games/jetpack-joyride", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Jzxi8nid9BQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/jetpack-joyride/id457446957?mt=8&uo=4"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://jetpackjoyride.wikia.com/wiki/Jetpack_Joyride_Wiki"
+        }
+    ]
+}

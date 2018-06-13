@@ -1,0 +1,321 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 3140, 
+    "cover": {
+        "cloudinary_id": "xcmwluuppursaxicogoh", 
+        "height": 1880, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xcmwluuppursaxicogoh.jpg", 
+        "width": 1529
+    }, 
+    "created_at": 1467995592784, 
+    "developers": [
+        448
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "369230"
+    }, 
+    "first_release_date": 1448496000000, 
+    "franchise": 324, 
+    "franchises": [
+        324
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        65832, 
+        72373, 
+        18387, 
+        51464, 
+        36911, 
+        36868, 
+        28113, 
+        2558, 
+        22418, 
+        10039
+    ], 
+    "genres": [
+        4
+    ], 
+    "id": 20089, 
+    "keywords": [
+        61, 
+        107, 
+        350, 
+        1158, 
+        1716, 
+        1985, 
+        2759, 
+        4142, 
+        4162, 
+        4170, 
+        4219, 
+        4292, 
+        4314, 
+        4382, 
+        4393, 
+        4532, 
+        4683, 
+        4685, 
+        4692, 
+        4869, 
+        5701, 
+        5744, 
+        7375, 
+        7379, 
+        8906, 
+        9117, 
+        9641
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Kung Fu Panda: Showdown of Legendary Legends", 
+    "platforms": [
+        6, 
+        92, 
+        41, 
+        9, 
+        48, 
+        12, 
+        49, 
+        37
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        1737
+    ], 
+    "rating": 75.0, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1448928000000, 
+            "human": "2015-Dec-01", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448496000000, 
+            "human": "2015-Nov-26", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448496000000, 
+            "human": "2015-Nov-26", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448928000000, 
+            "human": "2015-Dec-01", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448928000000, 
+            "human": "2015-Dec-01", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448928000000, 
+            "human": "2015-Dec-01", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448928000000, 
+            "human": "2015-Dec-01", 
+            "m": 12, 
+            "platform": 37, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448928000000, 
+            "human": "2015-Dec-01", 
+            "m": 12, 
+            "platform": 48, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448928000000, 
+            "human": "2015-Dec-01", 
+            "m": 12, 
+            "platform": 41, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448928000000, 
+            "human": "2015-Dec-01", 
+            "m": 12, 
+            "platform": 49, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1452038400000, 
+            "human": "2016-Jan-06", 
+            "m": 1, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1448928000000, 
+            "human": "2015-Dec-01", 
+            "m": 12, 
+            "platform": 9, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448928000000, 
+            "human": "2015-Dec-01", 
+            "m": 12, 
+            "platform": 12, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448928000000, 
+            "human": "2015-Dec-01", 
+            "m": 12, 
+            "platform": 6, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "iewdyd0igeijkoof8jb3", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iewdyd0igeijkoof8jb3.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "dhqofq7dwbjgjqmicnem", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dhqofq7dwbjgjqmicnem.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gaajdesmvzfplgfxiwls", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gaajdesmvzfplgfxiwls.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "phlbyfcov47gvamuxgfq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/phlbyfcov47gvamuxgfq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "n2cmabsqza79plgyubyh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n2cmabsqza79plgyubyh.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "kung-fu-panda-showdown-of-legendary-legends", 
+    "summary": "The lovable martial arts panda bear, Po, and his many friends and adversaries in the Valley of Peace will face off in the ultimate martial arts challenge ... the first-ever Kung Fu Panda: Showdown of Legendary Legends! Kung Fu Panda: Showdown of Legendary Legends will bring fans a fresh and fist-pumping way to experience DreamWorks Animation's beloved franchise with explosive, fast-as-lightning action! With a variety of challenging multiplayer levels, familiar film locations and 20 playable fan-favorite Kung Fu Panda characters, the game will appeal to gamers who like their brawler games served up with a side of laughter.", 
+    "tags": [
+        1, 
+        27, 
+        268435460, 
+        536870973, 
+        536871019, 
+        536871262, 
+        536872070, 
+        536872628, 
+        536872897, 
+        536873671, 
+        536875054, 
+        536875074, 
+        536875082, 
+        536875131, 
+        536875204, 
+        536875226, 
+        536875294, 
+        536875305, 
+        536875444, 
+        536875595, 
+        536875597, 
+        536875604, 
+        536875781, 
+        536876613, 
+        536876656, 
+        536878287, 
+        536878291, 
+        536879818, 
+        536880029, 
+        536880553
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 67.5, 
+    "total_rating_count": 4, 
+    "updated_at": 1528354722783, 
+    "url": "https://www.igdb.com/games/kung-fu-panda-showdown-of-legendary-legends", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "jBmfDAg16yQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.littleorbit.com/kung-fu-panda-showdown-of-legendary-legends.html"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/369230"
+        }
+    ]
+}

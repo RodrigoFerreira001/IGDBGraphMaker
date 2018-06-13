@@ -1,0 +1,434 @@
+{
+    "aggregated_rating": 68.8888888888889, 
+    "aggregated_rating_count": 11, 
+    "category": 0, 
+    "collection": 322, 
+    "cover": {
+        "cloudinary_id": "iew79ym4nxmmjfsziu5n", 
+        "height": 2161, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iew79ym4nxmmjfsziu5n.jpg", 
+        "width": 1516
+    }, 
+    "created_at": 1350222494738, 
+    "developers": [
+        741, 
+        72, 
+        319
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1350432000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        12597, 
+        7202, 
+        1352, 
+        6705, 
+        2909, 
+        7346, 
+        5082, 
+        37030, 
+        37137, 
+        7386
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 1586, 
+    "keywords": [
+        16, 
+        151, 
+        227, 
+        274, 
+        296, 
+        906, 
+        966, 
+        1033, 
+        1186, 
+        1395, 
+        1710, 
+        2049, 
+        2992, 
+        3222, 
+        3227, 
+        4031, 
+        4219, 
+        4245, 
+        4249, 
+        4284, 
+        4287, 
+        4350, 
+        4393, 
+        4418, 
+        4419, 
+        4450, 
+        4484, 
+        4523, 
+        4525, 
+        4612, 
+        4694, 
+        4698, 
+        4717, 
+        4727, 
+        4787, 
+        4931, 
+        5001, 
+        5013, 
+        5014, 
+        5040, 
+        5099, 
+        5116, 
+        5122, 
+        5157, 
+        5193, 
+        5265, 
+        5300, 
+        5358, 
+        5365, 
+        5387, 
+        5515, 
+        5518, 
+        5562, 
+        5578, 
+        5584, 
+        5600, 
+        5799, 
+        5969, 
+        6035, 
+        6114, 
+        6653, 
+        6664, 
+        6675, 
+        7061, 
+        7149, 
+        7403, 
+        7503, 
+        7558, 
+        8670, 
+        8989, 
+        9268, 
+        11146
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 37, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Skylanders: Giants", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        41, 
+        9, 
+        12, 
+        37, 
+        5
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        2298, 
+        26, 
+        66
+    ], 
+    "rating": 70.105679451296, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1353196800000, 
+            "human": "2012-Nov-18", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1354233600000, 
+            "human": "2012-Nov-30", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1350604800000, 
+            "human": "2012-Oct-19", 
+            "m": 10, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1350777600000, 
+            "human": "2012-Oct-21", 
+            "m": 10, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1350604800000, 
+            "human": "2012-Oct-19", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1350777600000, 
+            "human": "2012-Oct-21", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1350432000000, 
+            "human": "2012-Oct-17", 
+            "m": 10, 
+            "platform": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1350432000000, 
+            "human": "2012-Oct-17", 
+            "m": 10, 
+            "platform": 12, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1350432000000, 
+            "human": "2012-Oct-17", 
+            "m": 10, 
+            "platform": 37, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1350432000000, 
+            "human": "2012-Oct-17", 
+            "m": 10, 
+            "platform": 9, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1353196800000, 
+            "human": "2012-Nov-18", 
+            "m": 11, 
+            "platform": 41, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ujmiebjrjjok5w8rr5gx", 
+            "height": 872, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ujmiebjrjjok5w8rr5gx.jpg", 
+            "width": 1224
+        }, 
+        {
+            "cloudinary_id": "h88s2es9jpm5uvmvhjmp", 
+            "height": 872, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h88s2es9jpm5uvmvhjmp.jpg", 
+            "width": 1224
+        }, 
+        {
+            "cloudinary_id": "vzyvlwbuyqavw3pbaxto", 
+            "height": 872, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vzyvlwbuyqavw3pbaxto.jpg", 
+            "width": 1224
+        }, 
+        {
+            "cloudinary_id": "v6qtjpwa1eehvjqmqj9o", 
+            "height": 872, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v6qtjpwa1eehvjqmqj9o.jpg", 
+            "width": 1224
+        }, 
+        {
+            "cloudinary_id": "af3thjrrd2gmkrenehzb", 
+            "height": 872, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/af3thjrrd2gmkrenehzb.jpg", 
+            "width": 1224
+        }, 
+        {
+            "cloudinary_id": "xy5dufhouksxef1nl1ys", 
+            "height": 499, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xy5dufhouksxef1nl1ys.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "zui0l2zwcgsaueiuru7g", 
+            "height": 445, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zui0l2zwcgsaueiuru7g.jpg", 
+            "width": 624
+        }, 
+        {
+            "cloudinary_id": "ax6zh0ca0dpai750zult", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ax6zh0ca0dpai750zult.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "kuizgok9cdfdnprszql4", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kuizgok9cdfdnprszql4.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "wnkgjoa1alyuiard9idx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wnkgjoa1alyuiard9idx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jwumyiw87qaqttprb32g", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jwumyiw87qaqttprb32g.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "z6o8zuqs6vwfrbudnpso", 
+            "height": 348, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z6o8zuqs6vwfrbudnpso.jpg", 
+            "width": 618
+        }
+    ], 
+    "slug": "skylanders-giants", 
+    "summary": "Skylanders: Giants is a 2012 video game in the Skylanders series, a direct sequel to the 2011 game Skylanders: Spyro's Adventure and features the voices of Kevin Michael Richardson, Greg Ellis, Peter Lurie, Steve Blum, Dave Wittenberg, Carlos Alazraqui, Kevin Sorbo, Bobcat Goldthwait, Patrick Seitz and Julie Nathanson. It is the game before Skylanders: Swap Force. As the title suggests, it features larger Skylanders known as \"Giants\", along with other new gameplay mechanics. It was released on October 17, 2012 in Australia, on October 19, 2012 in Europe, on October 21, 2012 in North America,[6] and on November 22, 2012 in Brazil by Neoplay.[7] It has also been released on the Wii U as a launch title in North America, Europe and Australia.[8][9] This is the final Skylanders game to be owned by Vivendi before Activision became an independent company on July 25, 2013.", 
+    "tags": [
+        1, 
+        22, 
+        268435464, 
+        536870928, 
+        536871063, 
+        536871139, 
+        536871186, 
+        536871208, 
+        536871818, 
+        536871878, 
+        536871945, 
+        536872098, 
+        536872307, 
+        536872622, 
+        536872961, 
+        536873904, 
+        536874134, 
+        536874139, 
+        536874943, 
+        536875131, 
+        536875157, 
+        536875161, 
+        536875196, 
+        536875199, 
+        536875262, 
+        536875305, 
+        536875330, 
+        536875331, 
+        536875362, 
+        536875396, 
+        536875435, 
+        536875437, 
+        536875524, 
+        536875606, 
+        536875610, 
+        536875629, 
+        536875639, 
+        536875699, 
+        536875843, 
+        536875913, 
+        536875925, 
+        536875926, 
+        536875952, 
+        536876011, 
+        536876028, 
+        536876034, 
+        536876069, 
+        536876105, 
+        536876177, 
+        536876212, 
+        536876270, 
+        536876277, 
+        536876299, 
+        536876427, 
+        536876430, 
+        536876474, 
+        536876490, 
+        536876496, 
+        536876512, 
+        536876711, 
+        536876881, 
+        536876947, 
+        536877026, 
+        536877565, 
+        536877576, 
+        536877587, 
+        536877973, 
+        536878061, 
+        536878315, 
+        536878415, 
+        536878470, 
+        536879582, 
+        536879901, 
+        536880180, 
+        536882058, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        22
+    ], 
+    "total_rating": 69.49728417009246, 
+    "total_rating_count": 15, 
+    "updated_at": 1518009087807, 
+    "url": "https://www.igdb.com/games/skylanders-giants", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "DUMFF7ekbvw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Skylanders:_Giants"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://skylandersgiants.wikia.com/wiki/Skylanders:_Giants_Wiki"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.skylanders.com/fi/video-games/skylanders-giants"
+        }
+    ]
+}

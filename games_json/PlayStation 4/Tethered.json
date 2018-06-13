@@ -1,0 +1,215 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vuyhgamrftrjli0brxks", 
+        "height": 158, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vuyhgamrftrjli0brxks.jpg", 
+        "width": 318
+    }, 
+    "created_at": 1477904465113, 
+    "developers": [
+        11413
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "431120"
+    }, 
+    "first_release_date": 1477353600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        23345, 
+        18623, 
+        18167, 
+        19934, 
+        29173, 
+        25311, 
+        25222, 
+        25646, 
+        19376, 
+        19301
+    ], 
+    "genres": [
+        9, 
+        15, 
+        32
+    ], 
+    "id": 25336, 
+    "keywords": [
+        115, 
+        151, 
+        1994, 
+        2619, 
+        2875, 
+        3782, 
+        4131, 
+        4234, 
+        4832
+    ], 
+    "name": "Tethered", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only."
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        11413
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1488153600000, 
+            "human": "2017-Feb-27", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 48, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "cw2cq6sgyzpejz0arlnl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cw2cq6sgyzpejz0arlnl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "a0il66n6nr49fi0nyvmc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a0il66n6nr49fi0nyvmc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "anqt1oqiwlyqum5tqvfo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/anqt1oqiwlyqum5tqvfo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "a69hdpby8j43jwnotwfi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a69hdpby8j43jwnotwfi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "alg9qtinze4k0d41mbm4", 
+            "height": 432, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/alg9qtinze4k0d41mbm4.jpg", 
+            "width": 768
+        }
+    ], 
+    "slug": "tethered", 
+    "summary": "In a magical sky borne world, assume the role of a powerful Spirit Guardian charged with restoring life and balance. Command the Peeps, your loyal servants, to feed, fight, build, and sacrifice themselves for the greater good in a quest to release your entombed brethren.", 
+    "tags": [
+        1, 
+        22, 
+        268435465, 
+        268435471, 
+        268435488, 
+        536871027, 
+        536871063, 
+        536872906, 
+        536873531, 
+        536873787, 
+        536874694, 
+        536875043, 
+        536875146, 
+        536875744, 
+        1073741831
+    ], 
+    "themes": [
+        1, 
+        22
+    ], 
+    "total_rating": 77.5, 
+    "total_rating_count": 4, 
+    "updated_at": 1523401584302, 
+    "url": "https://www.igdb.com/games/tethered", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "kMpDTzQ9aTM"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "GQzy7A0ugqE"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "ph0dNsg7ebI"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.secretsorcery.com/tethered"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/431120"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/tetheredgame"
+        }
+    ]
+}

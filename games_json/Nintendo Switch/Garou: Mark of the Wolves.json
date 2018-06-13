@@ -1,0 +1,322 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "name": "Fatal Fury: Mark of the Wolves"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "e1khmnr45zi9ctfl1js7", 
+            "height": 625, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e1khmnr45zi9ctfl1js7.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "tei4zpi8bfo0i7hmvlwo", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tei4zpi8bfo0i7hmvlwo.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "mq3rmb3uhwi81yezjtbl", 
+            "height": 850, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mq3rmb3uhwi81yezjtbl.jpg", 
+            "width": 650
+        }
+    ], 
+    "category": 0, 
+    "collection": 791, 
+    "cover": {
+        "cloudinary_id": "nmwdnhatwln9waqdp08j", 
+        "height": 1350, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nmwdnhatwln9waqdp08j.jpg", 
+        "width": 1362
+    }, 
+    "created_at": 1432516191633, 
+    "developers": [
+        2582
+    ], 
+    "external": {
+        "steam": "366240"
+    }, 
+    "first_release_date": 917308800000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        36794, 
+        41828, 
+        10039, 
+        2907, 
+        36608, 
+        36831, 
+        51485, 
+        34919, 
+        19658, 
+        76213
+    ], 
+    "genres": [
+        4, 
+        33
+    ], 
+    "id": 10605, 
+    "name": "Garou: Mark of the Wolves", 
+    "platforms": [
+        34, 
+        80, 
+        52, 
+        39, 
+        36, 
+        46, 
+        79, 
+        48, 
+        130, 
+        23, 
+        8
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        2582
+    ], 
+    "pulse_count": 8, 
+    "rating": 50.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1494460800000, 
+            "human": "2017-May-11", 
+            "m": 5, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1494460800000, 
+            "human": "2017-May-11", 
+            "m": 5, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 917308800000, 
+            "human": "1999-Jan-26", 
+            "m": 1, 
+            "platform": 79, 
+            "region": 2, 
+            "y": 1999
+        }, 
+        {
+            "category": 0, 
+            "date": 917308800000, 
+            "human": "1999-Jan-26", 
+            "m": 1, 
+            "platform": 79, 
+            "region": 5, 
+            "y": 1999
+        }, 
+        {
+            "category": 0, 
+            "date": 943574400000, 
+            "human": "1999-Nov-26", 
+            "m": 11, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1999
+        }, 
+        {
+            "category": 0, 
+            "date": 951523200000, 
+            "human": "2000-Feb-26", 
+            "m": 2, 
+            "platform": 80, 
+            "region": 5, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 951523200000, 
+            "human": "2000-Feb-26", 
+            "m": 2, 
+            "platform": 80, 
+            "region": 2, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 1001548800000, 
+            "human": "2001-Sep-27", 
+            "m": 9, 
+            "platform": 23, 
+            "region": 5, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 1006473600000, 
+            "human": "2001-Nov-23", 
+            "m": 11, 
+            "platform": 23, 
+            "region": 2, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 1120089600000, 
+            "human": "2005-Jun-30", 
+            "m": 6, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1423958400000, 
+            "human": "2015-Feb-15", 
+            "m": 2, 
+            "platform": 36, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424304000000, 
+            "human": "2015-Feb-19", 
+            "m": 2, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424304000000, 
+            "human": "2015-Feb-19", 
+            "m": 2, 
+            "platform": 34, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1480723200000, 
+            "human": "2016-Dec-03", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1480723200000, 
+            "human": "2016-Dec-03", 
+            "m": 12, 
+            "platform": 46, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xurqy6hw05svegiya8q7", 
+            "height": 712, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xurqy6hw05svegiya8q7.jpg", 
+            "width": 918
+        }, 
+        {
+            "cloudinary_id": "hnhlnuvgw0a10nwr2xdk", 
+            "height": 712, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hnhlnuvgw0a10nwr2xdk.jpg", 
+            "width": 918
+        }, 
+        {
+            "cloudinary_id": "whlhjnkuqkdbghrwt9v2", 
+            "height": 712, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/whlhjnkuqkdbghrwt9v2.jpg", 
+            "width": 918
+        }, 
+        {
+            "cloudinary_id": "vita0wdlhigqrq8umgkn", 
+            "height": 712, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vita0wdlhigqrq8umgkn.jpg", 
+            "width": 918
+        }, 
+        {
+            "cloudinary_id": "wcf67inx7dgq76zsybre", 
+            "height": 712, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wcf67inx7dgq76zsybre.jpg", 
+            "width": 918
+        }, 
+        {
+            "cloudinary_id": "vbaaorqbx8lokpaofvqy", 
+            "height": 712, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vbaaorqbx8lokpaofvqy.jpg", 
+            "width": 918
+        }, 
+        {
+            "cloudinary_id": "tdr2voacyaqbfkzclgaj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tdr2voacyaqbfkzclgaj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gllxuyj92l4bhpgbdbbc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gllxuyj92l4bhpgbdbbc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ngpyuexix6wdivbhrhmj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ngpyuexix6wdivbhrhmj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hargla8rkvixrflp38is", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hargla8rkvixrflp38is.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zhk0frll8garhb7bl7zw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zhk0frll8garhb7bl7zw.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "garou-mark-of-the-wolves", 
+    "summary": "If you thought you'd seen the last of the incredible Garou: Mark of The Wolves series, you were sorely mistaken. Join classic brawlers and fresh finds (there are 11 new additions in all) for the fighting experience of the decade. The game's three unique modes of play include Offensive, Defensive, and Tactical, and there are plenty of Super Moves and Hidden Abilities to unlock. The realm of 2D fighting has rarely been this exciting, and it gets even more addicting when you play against a friend.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435489, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1525180851878, 
+    "url": "https://www.igdb.com/games/garou-mark-of-the-wolves", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "MW3MYzuskZM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/366240"
+        }
+    ]
+}

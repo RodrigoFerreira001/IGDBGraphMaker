@@ -1,0 +1,346 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "name": "Ben 10 Omniverse"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2968, 
+    "cover": {
+        "cloudinary_id": "k9t7tsshkijo3h3rl04k", 
+        "height": 3757, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/k9t7tsshkijo3h3rl04k.jpg", 
+        "width": 3600
+    }, 
+    "created_at": 1374957618108, 
+    "developers": [
+        1128, 
+        448
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is an action-adventure game in which players assume the role of Ben Tennyson, a teenager who must transform into various alien entities to defeat an evil villain. As players run and jump through levels, they engage in frequent hand-to-hand combat with other alien creatures. Players punch, kick, and use special attacks (e.g., fireballs, energy blasts) to defeat nearby enemies, resulting in colorful light bursts as creatures take damage; some battle sequences are accompanied by slow-motion effects. During one cutscene, an injured insect-like enemy emits splashes of green liquid as it retreats from battle."
+    }, 
+    "first_release_date": 1352764800000, 
+    "franchise": 101, 
+    "franchises": [
+        101
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        25300, 
+        19448, 
+        7350, 
+        7349, 
+        36950, 
+        71455, 
+        11567, 
+        27314, 
+        19301, 
+        25311
+    ], 
+    "genres": [
+        25, 
+        31
+    ], 
+    "id": 2800, 
+    "keywords": [
+        3, 
+        970, 
+        997, 
+        1033, 
+        1293, 
+        3017, 
+        4134, 
+        4142, 
+        4245, 
+        4359, 
+        4379, 
+        4523, 
+        4698, 
+        4717, 
+        5575, 
+        5584, 
+        5783, 
+        7503
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 41, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Ben 10: Omniverse", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters"
+    }, 
+    "platforms": [
+        41, 
+        9, 
+        12, 
+        20, 
+        37, 
+        5
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        4342, 
+        449
+    ], 
+    "rating": 75.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1352764800000, 
+            "human": "2012-Nov-13", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1354233600000, 
+            "human": "2012-Nov-30", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1354233600000, 
+            "human": "2012-Nov-30", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1354233600000, 
+            "human": "2012-Nov-30", 
+            "m": 11, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1354233600000, 
+            "human": "2012-Nov-30", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1354233600000, 
+            "human": "2012-Nov-30", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1354233600000, 
+            "human": "2012-Nov-30", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1352764800000, 
+            "human": "2012-Nov-13", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1352764800000, 
+            "human": "2012-Nov-13", 
+            "m": 11, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1352764800000, 
+            "human": "2012-Nov-13", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1352764800000, 
+            "human": "2012-Nov-13", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1352764800000, 
+            "human": "2012-Nov-13", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jlcjekkzzbtuznm4wxev", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jlcjekkzzbtuznm4wxev.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "p0nphrjyjvfynqtworlh", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p0nphrjyjvfynqtworlh.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "tofyny8augnmbi8pcsjf", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tofyny8augnmbi8pcsjf.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hgygils4yfubspjftwwr", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hgygils4yfubspjftwwr.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zng3iwimhfk6rrnfcacs", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zng3iwimhfk6rrnfcacs.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jsbe9uzmarb79tltvvny", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jsbe9uzmarb79tltvvny.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ejnvofawupnxnecvxkyc", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ejnvofawupnxnecvxkyc.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "efc64ucoch1cmroadpnz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/efc64ucoch1cmroadpnz.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hz5eooaiwpuw1vf68com", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hz5eooaiwpuw1vf68com.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zej6okesgq6iiahyjob1", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zej6okesgq6iiahyjob1.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "u9zrmojrftfntnj4ovz4", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u9zrmojrftfntnj4ovz4.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "z895l6jwa6qcbcuod4l4", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z895l6jwa6qcbcuod4l4.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "ben-10-omniverse", 
+    "summary": "Ben 10: Omniverse is the only video game based on the highly-anticipated, Cartoon Network TV series, Ben 10: Omniverse. The brand-new show spans two time periods between Young and Teen Ben Tennyson, and introduces a hero sidekick, Rook. \nIn the new action game, players can play as both Young and Teen Ben, switch forms between 13 playable alien heroes, including new aliens like Bloxx and Gravattack, and fight in an assortment of action-packed levels throughout the subterranean alien city of Undertown and other show-inspired locales.", 
+    "tags": [
+        1, 
+        18, 
+        268435481, 
+        268435487, 
+        536870915, 
+        536871882, 
+        536871909, 
+        536871945, 
+        536872205, 
+        536873929, 
+        536875046, 
+        536875054, 
+        536875157, 
+        536875271, 
+        536875291, 
+        536875435, 
+        536875610, 
+        536875629, 
+        536876487, 
+        536876496, 
+        536876695, 
+        536878415, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 72.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1518049052058, 
+    "url": "https://www.igdb.com/games/ben-10-omniverse", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "YDL_WwDYLJk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Ben_10:_Omniverse_%28video_game%29"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://ben10.wikia.com/wiki/Ben_10:_Omniverse_%28Video_Game%29"
+        }
+    ]
+}

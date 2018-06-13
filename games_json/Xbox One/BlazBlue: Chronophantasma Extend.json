@@ -1,0 +1,137 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "oel4k29ovjjuzucrmykn", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/oel4k29ovjjuzucrmykn.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1495805676340, 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "external": {
+        "steam": "388750"
+    }, 
+    "first_release_date": 1435622400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        36608, 
+        2940, 
+        40524, 
+        34919, 
+        71581, 
+        29660, 
+        1070, 
+        23175, 
+        76438, 
+        16468
+    ], 
+    "id": 34812, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 8, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "BlazBlue: Chronophantasma Extend", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        8944
+    ], 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1435622400000, 
+            "human": "2015-Jun-30", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1456876800000, 
+            "human": "2016-Mar-02", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rbbff9xbf7qsr5gcinhd", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rbbff9xbf7qsr5gcinhd.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "bjhedvyu7bqtlshrynvo", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bjhedvyu7bqtlshrynvo.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "h36h4talnesax7r7yeyf", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h36h4talnesax7r7yeyf.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ud7lysbjnulvnhzjlvr1", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ud7lysbjnulvnhzjlvr1.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "w7r7n81a8nqf7i43aerw", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w7r7n81a8nqf7i43aerw.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "blazblue-chronophantasma-extend", 
+    "summary": "'BlazBlue: Chronophantasma Extend' is the sixth installment of the BlazBlue series, a combination of 2D fighting action game and visual novel.", 
+    "tags": [
+        1
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1528351283670, 
+    "url": "https://www.igdb.com/games/blazblue-chronophantasma-extend", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://h2games.co.kr/bbcpex/pc/en"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/388750"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ubp4topdxibuhzp93mho", 
+        "height": 1370, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ubp4topdxibuhzp93mho.jpg", 
+        "width": 1529
+    }, 
+    "created_at": 1469314562967, 
+    "first_release_date": 1182211200000, 
+    "games": [
+        23175, 
+        37022, 
+        55289, 
+        42080, 
+        59516, 
+        44191, 
+        12579, 
+        25646, 
+        25311, 
+        1221
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 21536, 
+    "name": "Transformers: Autobots and Decepticons", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        66
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1184889600000, 
+            "human": "2007-Jul-20", 
+            "m": 7, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182211200000, 
+            "human": "2007-Jun-19", 
+            "m": 6, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1184803200000, 
+            "human": "2007-Jul-19", 
+            "m": 7, 
+            "platform": 20, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tlnfwbgshgbb87wulv6p", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tlnfwbgshgbb87wulv6p.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "transformers-autobots-and-decepticons", 
+    "summary": "Transformers Autobots is a video game based on fictional alien robots, Transformers. This version follows the plot of the 2007 live action film Transformers.[1] Most prominently, while the Autobots version has missions in the Arctic, the Decepticons version contain desert missions taking place in a Qatar military base.[2]", 
+    "tags": [
+        1, 
+        268435487
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1518017956860, 
+    "url": "https://www.igdb.com/games/transformers-autobots-and-decepticons", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.transformersgame.com/"
+        }
+    ]
+}

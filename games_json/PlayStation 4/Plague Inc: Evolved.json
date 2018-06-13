@@ -1,0 +1,228 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 1028, 
+    "cover": {
+        "cloudinary_id": "oyd2utpp9lozxdbv2fap", 
+        "height": 543, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/oyd2utpp9lozxdbv2fap.jpg", 
+        "width": 1401
+    }, 
+    "created_at": 1407872006419, 
+    "developers": [
+        957
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "246620"
+    }, 
+    "first_release_date": 1442534400000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        11423, 
+        19934, 
+        19376, 
+        6732, 
+        19290, 
+        29173, 
+        16513, 
+        19301, 
+        18918, 
+        55590
+    ], 
+    "genres": [
+        13, 
+        15, 
+        24, 
+        32
+    ], 
+    "hypes": 2, 
+    "id": 7601, 
+    "keywords": [
+        117, 
+        159, 
+        228, 
+        1148, 
+        1158, 
+        1408, 
+        1471, 
+        1494, 
+        3782, 
+        4004, 
+        4134, 
+        4138, 
+        4148, 
+        4150, 
+        4151, 
+        4178, 
+        4332, 
+        4347, 
+        4445, 
+        4609
+    ], 
+    "name": "Plague Inc: Evolved", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Pictures or sounds likely to be scary to young children"
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        3, 
+        5
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        957
+    ], 
+    "pulse_count": 1, 
+    "rating": 82.6859557536978, 
+    "rating_count": 15, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1442534400000, 
+            "human": "2015-Sep-18", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1464652800000, 
+            "human": "2016-May-31", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1455753600000, 
+            "human": "2016-Feb-18", 
+            "m": 2, 
+            "platform": 14, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1455753600000, 
+            "human": "2016-Feb-18", 
+            "m": 2, 
+            "platform": 3, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1455753600000, 
+            "human": "2016-Feb-18", 
+            "m": 2, 
+            "platform": 6, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1455753600000, 
+            "human": "2016-Feb-18", 
+            "m": 2, 
+            "platform": 49, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464652800000, 
+            "human": "2016-May-31", 
+            "m": 5, 
+            "platform": 48, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xs1jrk56gxohfdpzrx1d", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xs1jrk56gxohfdpzrx1d.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ffd2ud0nv4i0ssqxsxub", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ffd2ud0nv4i0ssqxsxub.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "q4aupgzrl6ten1b5a769", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q4aupgzrl6ten1b5a769.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ke9dqltepz38atbnrmak", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ke9dqltepz38atbnrmak.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dwmxx0ky9fzbscmletph", 
+            "height": 987, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dwmxx0ky9fzbscmletph.jpg", 
+            "width": 1754
+        }
+    ], 
+    "slug": "plague-inc-evolved", 
+    "summary": "Plague Inc: Evolved is a unique mix of high strategy and terrifyingly realistic simulation. Your pathogen has just infected 'Patient Zero' - now you must bring about the end of human history by evolving a deadly, global Plague whilst adapting against everything humanity can do to defend itself.", 
+    "tags": [
+        268435469, 
+        268435471, 
+        268435480, 
+        268435488, 
+        536871029, 
+        536871071, 
+        536871140, 
+        536872060, 
+        536872070, 
+        536872320, 
+        536872383, 
+        536872406, 
+        536874694, 
+        536874916, 
+        536875046, 
+        536875050, 
+        536875060, 
+        536875062, 
+        536875063, 
+        536875090, 
+        536875244, 
+        536875259, 
+        536875357, 
+        536875521, 
+        1073741827, 
+        1073741829
+    ], 
+    "total_rating": 81.34297787684889, 
+    "total_rating_count": 18, 
+    "updated_at": 1523267164248, 
+    "url": "https://www.igdb.com/games/plague-inc-evolved", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Jdjfja4etYw"
+        }
+    ]
+}

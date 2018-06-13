@@ -1,0 +1,98 @@
+{
+    "aggregated_rating": 65.6666666666667, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "x18juoept792dswel8l8", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/x18juoept792dswel8l8.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1401159482785, 
+    "developers": [
+        1930
+    ], 
+    "first_release_date": 1139529600000, 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        23314, 
+        6154, 
+        6153, 
+        18699, 
+        10039, 
+        51142, 
+        4915, 
+        76259, 
+        36794, 
+        40470
+    ], 
+    "genres": [
+        4, 
+        10
+    ], 
+    "id": 6998, 
+    "keywords": [
+        25
+    ], 
+    "name": "Full Auto", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        112
+    ], 
+    "rating": 80.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1139529600000, 
+            "human": "2006-Feb-10", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1139875200000, 
+            "human": "2006-Feb-14", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1159401600000, 
+            "human": "2006-Sep-28", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "i8jezgexb3xd3j3lkgqr", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i8jezgexb3xd3j3lkgqr.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "full-auto", 
+    "tags": [
+        268435460, 
+        268435466, 
+        536870937
+    ], 
+    "total_rating": 72.83333333333334, 
+    "total_rating_count": 5, 
+    "updated_at": 1528340583506, 
+    "url": "https://www.igdb.com/games/full-auto"
+}

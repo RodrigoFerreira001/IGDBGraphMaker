@@ -1,0 +1,154 @@
+{
+    "aggregated_rating": 74.6, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 46, 
+    "cover": {
+        "cloudinary_id": "f9qg80vdtshycepf9qmy", 
+        "height": 981, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/f9qg80vdtshycepf9qmy.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1300495376000, 
+    "developers": [
+        108
+    ], 
+    "external": {
+        "steam": "3020"
+    }, 
+    "first_release_date": 1157587200000, 
+    "game_engines": [
+        78
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        103281, 
+        103298, 
+        103292, 
+        103301, 
+        103020, 
+        83727, 
+        83728, 
+        28029, 
+        32902, 
+        84013
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 429, 
+    "name": "Call Of Juarez", 
+    "pegi": {
+        "rating": 5
+    }, 
+    "platforms": [
+        6, 
+        12
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        104, 
+        110, 
+        373
+    ], 
+    "pulse_count": 3, 
+    "rating": 76.6999764598971, 
+    "rating_count": 36, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1157587200000, 
+            "human": "2006-Sep-07", 
+            "m": 9, 
+            "platform": 6, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1181001600000, 
+            "human": "2007-Jun-05", 
+            "m": 6, 
+            "platform": 12, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wgku7465l58l5doc0kxg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wgku7465l58l5doc0kxg.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "gpncp1fe9ymjf8kxzck5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gpncp1fe9ymjf8kxzck5.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "cnpibasjgwwxskcslmmh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cnpibasjgwwxskcslmmh.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "jr88kjteztqcbmubzusi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jr88kjteztqcbmubzusi.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "zyfjzpmisfip8pjy9zav", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zyfjzpmisfip8pjy9zav.jpg", 
+            "width": 1440
+        }
+    ], 
+    "slug": "call-of-juarez", 
+    "summary": "Call of Juarez is an epic adventure western themed FPS game. The player alternately assumes the roles of two distinct, antagonistic characters: a sneaking fugitive Billy and his hunter the reverend Ray. Apart from the highly interesting, emotional and psychological aspect of the link between the two", 
+    "tags": [
+        1, 
+        268435461, 
+        1073741825
+    ], 
+    "themes": [
+        1
+    ], 
+    "time_to_beat": {
+        "normally": 32700
+    }, 
+    "total_rating": 75.64998822994855, 
+    "total_rating_count": 40, 
+    "updated_at": 1528728513020, 
+    "url": "https://www.igdb.com/games/call-of-juarez", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "bY4kpOQh3p0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://callofjuarez.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/3020"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Call_of_Juarez"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://callofjuarez.wikia.com/wiki/Project_McCall,_the_Call_of_Juarez_Wiki"
+        }
+    ]
+}

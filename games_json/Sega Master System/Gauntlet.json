@@ -1,0 +1,350 @@
+{
+    "aggregated_rating": 77.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 607, 
+    "cover": {
+        "cloudinary_id": "zfuftanzlr4yvkq7dedr", 
+        "height": 289, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zfuftanzlr4yvkq7dedr.jpg", 
+        "width": 222
+    }, 
+    "created_at": 1389100908770, 
+    "developers": [
+        1746
+    ], 
+    "dlcs": [
+        37164
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 473385600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        7329, 
+        2909, 
+        27421, 
+        26841, 
+        1911, 
+        2368, 
+        5082, 
+        26769, 
+        1081, 
+        2155
+    ], 
+    "genres": [
+        25, 
+        33
+    ], 
+    "id": 3502, 
+    "keywords": [
+        16, 
+        96, 
+        147, 
+        151, 
+        226, 
+        227, 
+        296, 
+        301, 
+        389, 
+        558, 
+        592, 
+        687, 
+        1186, 
+        1293, 
+        1320, 
+        1513, 
+        1651, 
+        1705, 
+        4163, 
+        4300, 
+        4302, 
+        4346, 
+        4353, 
+        4362, 
+        4392, 
+        4418, 
+        4419, 
+        4523, 
+        4573, 
+        4678, 
+        4698, 
+        4699, 
+        4727, 
+        4787, 
+        4879, 
+        4891, 
+        4958, 
+        4959, 
+        5093, 
+        5095, 
+        5436, 
+        5450, 
+        5467, 
+        5501, 
+        5578, 
+        7280, 
+        7447, 
+        7461, 
+        7527, 
+        8928, 
+        9843, 
+        9929, 
+        10135, 
+        10147, 
+        10211, 
+        12970
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Gauntlet", 
+    "platforms": [
+        52, 
+        63, 
+        115, 
+        14, 
+        13, 
+        65, 
+        75, 
+        15, 
+        26, 
+        25, 
+        64, 
+        27
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1746, 
+        11247, 
+        227
+    ], 
+    "rating": 69.7982149801392, 
+    "rating_count": 9, 
+    "release_dates": [
+        {
+            "category": 1, 
+            "date": 473385600000, 
+            "human": "1985-Jan", 
+            "m": 1, 
+            "platform": 52, 
+            "region": 2, 
+            "y": 1985
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 14, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 25, 
+            "region": 1, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 115, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 65, 
+            "region": 1, 
+            "y": 1985
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 1, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 27, 
+            "region": 1, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 2, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 75, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 64, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1986
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pgyffbo6ledhatogmbun", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pgyffbo6ledhatogmbun.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "gauntlet", 
+    "summary": "The players, up to four at once in the arcade version, select among four playable fantasy-based characters; Thor the Warrior, Merlin the Wizard, Thyra the Valkyrie, or Questor the Elf. Each character has his or her own unique strength and weaknesses. For example, the Warrior is strongest in hand-to-hand combat, the Wizard has the most powerful magic, the Valkyrie has the best armour and the Elf is the fastest in movement. \n \nUpon selecting a playable character, the gameplay is set within a series of top-down, third-person perspective mazes where the object is to find and touch the designated exit in every level. An assortment of special items can be located in each level that increase player's character's health, unlock doors, gain more points and magical potions that can destroy all of the enemies on screen. \nThe enemies are an assortment of fantasy-based monsters, including ghosts, grunts, demons, lobbers, sorcerers and thieves. Each enters the level through specific generators, which can be destroyed. While there are no bosses in the game, the most dangerous enemy is \"Death\", who can not only drain a character's health, but is difficult to destroy. \nAs the game progresses, higher levels of skill are needed to reach the exit, with success often depending on the willingness of the players to cooperate by sharing food and luring monsters into places where they can be engaged and slaughtered more conveniently. While contact with enemies reduces the player's health, it also slowly drains on its own, thus creating a time limit. When a character's health reaches zero, that character dies. The character can be revived in place with full health by spending a game credit (i.e. inserting a coin) within a certain short time window after it died. This allows even the least proficient players to keep playing indefinitely, if they are willing to keep inserting coins.", 
+    "tags": [
+        1, 
+        17, 
+        22, 
+        268435481, 
+        268435489, 
+        536870928, 
+        536871008, 
+        536871059, 
+        536871063, 
+        536871138, 
+        536871139, 
+        536871208, 
+        536871213, 
+        536871301, 
+        536871470, 
+        536871504, 
+        536871599, 
+        536872098, 
+        536872205, 
+        536872232, 
+        536872425, 
+        536872563, 
+        536872617, 
+        536875075, 
+        536875212, 
+        536875214, 
+        536875258, 
+        536875265, 
+        536875274, 
+        536875304, 
+        536875330, 
+        536875331, 
+        536875435, 
+        536875485, 
+        536875590, 
+        536875610, 
+        536875611, 
+        536875639, 
+        536875699, 
+        536875791, 
+        536875803, 
+        536875870, 
+        536875871, 
+        536876005, 
+        536876007, 
+        536876348, 
+        536876362, 
+        536876379, 
+        536876413, 
+        536876490, 
+        536878192, 
+        536878359, 
+        536878373, 
+        536878439, 
+        536879840, 
+        536880755, 
+        536880841, 
+        536881047, 
+        536881059, 
+        536881123, 
+        536883882, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        17, 
+        22
+    ], 
+    "total_rating": 73.56577415673625, 
+    "total_rating_count": 12, 
+    "updated_at": 1517271107688, 
+    "url": "https://www.igdb.com/games/gauntlet", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "94gY2QiyDVg"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://en.wikipedia.org/wiki/Gauntlet_(1985_video_game)"
+        }
+    ]
+}

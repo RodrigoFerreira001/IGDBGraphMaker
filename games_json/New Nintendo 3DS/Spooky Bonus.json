@@ -1,0 +1,125 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "v2d6e0raaq7kpzxzlsbl", 
+        "height": 287, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/v2d6e0raaq7kpzxzlsbl.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1495805659360, 
+    "external": {
+        "steam": "388450"
+    }, 
+    "first_release_date": 1444867200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        36608, 
+        2940, 
+        40524, 
+        34919, 
+        71581, 
+        29660, 
+        1070, 
+        23175, 
+        76438, 
+        16468
+    ], 
+    "id": 34804, 
+    "name": "Spooky Bonus", 
+    "platforms": [
+        6, 
+        14, 
+        137
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        9524
+    ], 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1492041600000, 
+            "human": "2017-Apr-13", 
+            "m": 4, 
+            "platform": 137, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1444867200000, 
+            "human": "2015-Oct-15", 
+            "m": 10, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1444867200000, 
+            "human": "2015-Oct-15", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "g1mkaosf5lxtnpsmqvk2", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g1mkaosf5lxtnpsmqvk2.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "o7c3hsnafm3o8brespix", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o7c3hsnafm3o8brespix.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "aekw2qqggydwfvsctws6", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aekw2qqggydwfvsctws6.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "dgyk5ruyajmhcfseah9f", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dgyk5ruyajmhcfseah9f.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "dc7ljrsj8jawwvkffp5w", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dc7ljrsj8jawwvkffp5w.jpg", 
+            "width": 1024
+        }
+    ], 
+    "slug": "spooky-bonus", 
+    "summary": "Uncover dark forces emanating from the heart of Old Town, and grab spooky accessories for your front yard makeover, too! You\u2019ll be spellbound by this adorably ghoulish horror-themed puzzle game.", 
+    "tags": [
+        1
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1522077644248, 
+    "url": "https://www.igdb.com/games/spooky-bonus", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.spookybonus.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/388450"
+        }
+    ]
+}

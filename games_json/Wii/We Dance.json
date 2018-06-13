@@ -1,0 +1,74 @@
+{
+    "aggregated_rating": 30.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "k7bqzsojyj9ikj5gweno", 
+        "height": 838, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/k7bqzsojyj9ikj5gweno.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1468842743143, 
+    "first_release_date": 1315008000000, 
+    "id": 20580, 
+    "name": "We Dance", 
+    "platforms": [
+        5
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1315008000000, 
+            "human": "2011-Sep-03", 
+            "m": 9, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bg1ioizotzqhidtscjby", 
+            "height": 456, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bg1ioizotzqhidtscjby.jpg", 
+            "width": 685
+        }, 
+        {
+            "cloudinary_id": "epb8vljvjsjjhcurrtax", 
+            "height": 456, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/epb8vljvjsjjhcurrtax.jpg", 
+            "width": 685
+        }, 
+        {
+            "cloudinary_id": "vhmtf0sch4utzmyljgpy", 
+            "height": 456, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vhmtf0sch4utzmyljgpy.jpg", 
+            "width": 685
+        }, 
+        {
+            "cloudinary_id": "uakl1pj7rotizcu6wkh9", 
+            "height": 456, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uakl1pj7rotizcu6wkh9.jpg", 
+            "width": 685
+        }, 
+        {
+            "cloudinary_id": "cm8ylzgoejcshrhywvmc", 
+            "height": 385, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cm8ylzgoejcshrhywvmc.jpg", 
+            "width": 655
+        }
+    ], 
+    "slug": "we-dance", 
+    "summary": "We Dance\u00ae, exclusively for Wii\u2122, is the ultimate dance party game for up to four players.", 
+    "total_rating": 30.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1518019747658, 
+    "url": "https://www.igdb.com/games/we-dance", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.wedancegame.com/"
+        }
+    ]
+}

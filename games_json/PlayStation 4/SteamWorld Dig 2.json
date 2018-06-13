@@ -1,0 +1,414 @@
+{
+    "aggregated_rating": 88.7777777777778, 
+    "aggregated_rating_count": 11, 
+    "artworks": [
+        {
+            "cloudinary_id": "mcqwqb2is7fwwy8ftct9", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mcqwqb2is7fwwy8ftct9.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "lllvexbmp2nmg50z3uh2", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lllvexbmp2nmg50z3uh2.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "ffiiqdcgawxesh8rmrqc", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ffiiqdcgawxesh8rmrqc.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "bhdccwxasmg5nvdfsynz", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bhdccwxasmg5nvdfsynz.jpg", 
+            "width": 3840
+        }
+    ], 
+    "category": 0, 
+    "collection": 1937, 
+    "cover": {
+        "cloudinary_id": "v2dbynvhjqwnumko4ffl", 
+        "height": 326, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/v2dbynvhjqwnumko4ffl.jpg", 
+        "width": 231
+    }, 
+    "created_at": 1488305391259, 
+    "developers": [
+        2542
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "571310"
+    }, 
+    "first_release_date": 1505952000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19448, 
+        3019, 
+        6732, 
+        18822, 
+        25300, 
+        23689, 
+        14593, 
+        19934, 
+        7344, 
+        5772
+    ], 
+    "genres": [
+        8, 
+        31, 
+        32
+    ], 
+    "hypes": 3, 
+    "id": 27433, 
+    "keywords": [
+        9, 
+        117, 
+        163, 
+        301, 
+        477, 
+        575, 
+        906, 
+        1033, 
+        1059, 
+        1098, 
+        1158, 
+        1735, 
+        2049, 
+        2071, 
+        2177, 
+        3413, 
+        3486, 
+        3833, 
+        4130, 
+        4134, 
+        4145, 
+        4154, 
+        4197, 
+        4273, 
+        4284, 
+        4317, 
+        4344, 
+        4397, 
+        4430, 
+        4476, 
+        4544, 
+        4711, 
+        4781, 
+        4848, 
+        4991, 
+        5121, 
+        5446, 
+        5672, 
+        8199, 
+        10153
+    ], 
+    "name": "SteamWorld Dig 2", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Non realistic looking violence towards fantasy characters"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        46, 
+        48, 
+        3, 
+        37, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 9.0, 
+    "publishers": [
+        2542
+    ], 
+    "pulse_count": 69, 
+    "rating": 84.8671423925501, 
+    "rating_count": 16, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1519257600000, 
+            "human": "2018-Feb-22", 
+            "m": 2, 
+            "platform": 37, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1506384000000, 
+            "human": "2017-Sep-26", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506384000000, 
+            "human": "2017-Sep-26", 
+            "m": 9, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506470400000, 
+            "human": "2017-Sep-27", 
+            "m": 9, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506470400000, 
+            "human": "2017-Sep-27", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506384000000, 
+            "human": "2017-Sep-26", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506038400000, 
+            "human": "2017-Sep-22", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506038400000, 
+            "human": "2017-Sep-22", 
+            "m": 9, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506038400000, 
+            "human": "2017-Sep-22", 
+            "m": 9, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506038400000, 
+            "human": "2017-Sep-22", 
+            "m": 9, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506384000000, 
+            "human": "2017-Sep-26", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505952000000, 
+            "human": "2017-Sep-21", 
+            "m": 9, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qhecapc2shl0677p3jfi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qhecapc2shl0677p3jfi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hlhhgsefjbrire0qieh8", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hlhhgsefjbrire0qieh8.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pkmacd8pw6tnojs1fymv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pkmacd8pw6tnojs1fymv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cmcyoxzv2wppzzb0oo7e", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cmcyoxzv2wppzzb0oo7e.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ouq4vt9pf8u27krrgwgi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ouq4vt9pf8u27krrgwgi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hmwmitx2fn1d5pmsoeig", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hmwmitx2fn1d5pmsoeig.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ornmrselt2u2zy6ug3ep", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ornmrselt2u2zy6ug3ep.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ywp2nqkdzxqa2ftukezb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ywp2nqkdzxqa2ftukezb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "c7uyp6wdl4d70enjfwwp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c7uyp6wdl4d70enjfwwp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "o6agkukb9xo7edaqpm5q", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o6agkukb9xo7edaqpm5q.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "c8lgtznfdcxm867xxyyv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c8lgtznfdcxm867xxyyv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "t8ulqfbirdn2ye5dsyzu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t8ulqfbirdn2ye5dsyzu.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "steamworld-dig-2", 
+    "storyline": "\"In search of her lost friend, a lone steambot and her unlikely companion must dig deep, gain riches and explore an underworld riddled with danger. But time is running short\u2026\"", 
+    "summary": "SteamWorld Dig 2 takes you on a platform mining adventure forged in Metroidvania flames. When an old trading town is struck by mysterious earthquakes, it\u2019s up to a lone steambot and her unlikely companion to uncover what trembling terrors lie beneath. \n \nDig your way underground and explore vivid worlds riddled with treasure, secrets and traps. \n \nCombat dangerous enemies at every turn of the underworld\u2019s twisted paths, including shadowy creatures and the haunted remains of an ancient electrical threat. \n \nUpgrade your gear to forge deeper into the earth and take on bigger challenges. \n \nSwing across large chasms with your Hookshot and fly through caves with the Jet Engine! \n \nAnd finally, learn the truth about your long lost friend\u2026", 
+    "tags": [
+        1, 
+        18, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536870921, 
+        536871029, 
+        536871075, 
+        536871213, 
+        536871389, 
+        536871487, 
+        536871818, 
+        536871945, 
+        536871971, 
+        536872010, 
+        536872070, 
+        536872647, 
+        536872961, 
+        536872983, 
+        536873089, 
+        536874325, 
+        536874398, 
+        536874745, 
+        536875042, 
+        536875046, 
+        536875057, 
+        536875066, 
+        536875109, 
+        536875185, 
+        536875196, 
+        536875229, 
+        536875256, 
+        536875309, 
+        536875342, 
+        536875388, 
+        536875456, 
+        536875623, 
+        536875693, 
+        536875760, 
+        536875903, 
+        536876033, 
+        536876358, 
+        536876584, 
+        536879111, 
+        536881065, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 86.82246008516395, 
+    "total_rating_count": 27, 
+    "updated_at": 1527251805450, 
+    "url": "https://www.igdb.com/games/steamworld-dig-2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "rXIipox7U5Y"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "eoBtT4djX-k"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/571310"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/SteamWorld_Dig_2"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://steamworld.wikia.com/wiki/SteamWorld_Dig_2"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/ImageForm"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://imageform.se/game/steamworld-dig-2/"
+        }
+    ]
+}

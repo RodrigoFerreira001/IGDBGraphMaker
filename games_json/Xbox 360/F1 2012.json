@@ -1,0 +1,375 @@
+{
+    "aggregated_rating": 76.5, 
+    "aggregated_rating_count": 6, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Formula One 2012"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Formula 1 2012"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Formula 1 2012Formula One 2012"
+        }
+    ], 
+    "category": 0, 
+    "collection": 819, 
+    "cover": {
+        "cloudinary_id": "rja7oeysycybarke05ba", 
+        "height": 912, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rja7oeysycybarke05ba.jpg", 
+        "width": 873
+    }, 
+    "created_at": 1348924163919, 
+    "developers": [
+        2340
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is a racing simulation game in which players drive Formula One cars through multi-season careers on real-world tracks. Players can also upgrade their vehicles, review standings, and race against former F1 champions."
+    }, 
+    "external": {
+        "steam": "208500"
+    }, 
+    "first_release_date": 1347840000000, 
+    "game_engines": [
+        99
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        5586, 
+        1374, 
+        28951, 
+        1375, 
+        11423, 
+        26709, 
+        8303, 
+        14363, 
+        8301, 
+        8302
+    ], 
+    "genres": [
+        10, 
+        13, 
+        14
+    ], 
+    "id": 1373, 
+    "keywords": [
+        155, 
+        484, 
+        620, 
+        1148, 
+        1158, 
+        1744, 
+        3425, 
+        4004, 
+        4134, 
+        4142, 
+        4150, 
+        4157, 
+        4180, 
+        4205, 
+        4245, 
+        4520, 
+        4650, 
+        4681, 
+        4984, 
+        5043, 
+        5211, 
+        5783, 
+        5786, 
+        5837, 
+        5860, 
+        5861, 
+        5862, 
+        5863, 
+        5864, 
+        5865, 
+        5866, 
+        5867, 
+        5868, 
+        5869, 
+        5870, 
+        5871, 
+        5872, 
+        5873, 
+        5874, 
+        5875, 
+        5876, 
+        5877, 
+        5878, 
+        5879, 
+        5880, 
+        5881, 
+        5882, 
+        5883, 
+        5885, 
+        7503, 
+        10919, 
+        11470, 
+        11471
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "F1 2012", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons.\r\r\nIt contains: This game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        115, 
+        23
+    ], 
+    "rating": 67.40835996472269, 
+    "rating_count": 13, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1348185600000, 
+            "human": "2012-Sep-21", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1347840000000, 
+            "human": "2012-Sep-17", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1347926400000, 
+            "human": "2012-Sep-18", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1347926400000, 
+            "human": "2012-Sep-18", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1355961600000, 
+            "human": "2012-Dec-20", 
+            "m": 12, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1348099200000, 
+            "human": "2012-Sep-20", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1348099200000, 
+            "human": "2012-Sep-20", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1348185600000, 
+            "human": "2012-Sep-21", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1349308800000, 
+            "human": "2012-Oct-04", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1349308800000, 
+            "human": "2012-Oct-04", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hiyhiiazvbpn4zwvpgg5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hiyhiiazvbpn4zwvpgg5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "q7jrb0adwfm2hrzpxhti", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q7jrb0adwfm2hrzpxhti.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hovb6dx4kqlfp9tzl9if", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hovb6dx4kqlfp9tzl9if.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ztr5guqekzlhk4wlkzpy", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ztr5guqekzlhk4wlkzpy.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jingrkw3h72ii8ujsmu9", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jingrkw3h72ii8ujsmu9.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "f1-2012", 
+    "summary": "As well as the new young driver test mode, F1 2012 features a new \"Champions Mode\", in which the six World Champions competing in the 2012 season \u2014 Kimi R\u00e4ikk\u00f6nen, Lewis Hamilton, Jenson Button, Sebastian Vettel, Fernando Alonso and Michael Schumacher \u2014 will be styled after traditional end-of-level video gaming bosses, with the player challenged to beat them while racing in conditions that suit each driver. \nAnother new mode introduced, is the \"Season Challenge\" mode. Feedback given to Codemasters was that players only played the game when they had a few hours to play. In response, Codemasters brought in this mode so that players could simply play for a short amount of time. In this mode the player will start as a team lower down the field, and over a ten race season the player will move teams mid-season, depending on their ability to beat rival drivers and objectives. \nCodemasters also introduced \"One-Shot Qualifying\", whereby a player has a single lap to qualify for the race. The three stage knock out session is still an option, however the single 20 minute session is no longer available in career mode. There is no longer an option to include all three practice sessions in a race weekend, but instead only a single hour session is available.", 
+    "tags": [
+        32, 
+        268435466, 
+        268435469, 
+        268435470, 
+        536871067, 
+        536871396, 
+        536871532, 
+        536872060, 
+        536872070, 
+        536872656, 
+        536874337, 
+        536874916, 
+        536875046, 
+        536875054, 
+        536875062, 
+        536875069, 
+        536875092, 
+        536875117, 
+        536875157, 
+        536875432, 
+        536875562, 
+        536875593, 
+        536875896, 
+        536875955, 
+        536876123, 
+        536876695, 
+        536876698, 
+        536876749, 
+        536876772, 
+        536876773, 
+        536876774, 
+        536876775, 
+        536876776, 
+        536876777, 
+        536876778, 
+        536876779, 
+        536876780, 
+        536876781, 
+        536876782, 
+        536876783, 
+        536876784, 
+        536876785, 
+        536876786, 
+        536876787, 
+        536876788, 
+        536876789, 
+        536876790, 
+        536876791, 
+        536876792, 
+        536876793, 
+        536876794, 
+        536876795, 
+        536876797, 
+        536878415, 
+        536881831, 
+        536882382, 
+        536882383, 
+        1073741825, 
+        1073741826
+    ], 
+    "themes": [
+        32
+    ], 
+    "total_rating": 71.95417998236135, 
+    "total_rating_count": 19, 
+    "updated_at": 1523822396912, 
+    "url": "https://www.igdb.com/games/f1-2012", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "TJzEIfaiz2E"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.formula1-game.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/208500"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/F1_2012_(video_game)"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://f1.wikia.com/wiki/F1_2012_(video_game)"
+        }
+    ]
+}

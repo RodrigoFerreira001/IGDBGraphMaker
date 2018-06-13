@@ -1,0 +1,42 @@
+{
+    "category": 0, 
+    "created_at": 1500640537312, 
+    "first_release_date": 1312329600000, 
+    "id": 51624, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Radiant Silvergun", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1312329600000, 
+            "human": "2011-Aug-03", 
+            "m": 8, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "slug": "radiant-silvergun--1", 
+    "summary": "Radiant Silvergun is a SHMUP where style and skill is as important as your ability to dodge bullets.", 
+    "updated_at": 1501003696089, 
+    "url": "https://www.igdb.com/games/radiant-silvergun--1"
+}

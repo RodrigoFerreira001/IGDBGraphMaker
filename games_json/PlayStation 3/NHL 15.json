@@ -1,0 +1,289 @@
+{
+    "aggregated_rating": 62.2222222222222, 
+    "aggregated_rating_count": 9, 
+    "category": 0, 
+    "collection": 200, 
+    "cover": {
+        "cloudinary_id": "jpbevdkvcs505grtzdp3", 
+        "height": 1318, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jpbevdkvcs505grtzdp3.jpg", 
+        "width": 930
+    }, 
+    "created_at": 1402348404840, 
+    "developers": [
+        277
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "In this hockey simulation game, players can select teams from NHL rosters and play realistically depicted games of hockey. During the course of each match, players may initiate brief fistfights: the perspective shifts to isolate two players throwing punches and grabbing at one another until the fight is broken up."
+    }, 
+    "first_release_date": 1410220800000, 
+    "franchise": 220, 
+    "franchises": [
+        220
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        44242, 
+        54662, 
+        18623, 
+        22470, 
+        29173, 
+        22425, 
+        26145, 
+        36847, 
+        55590, 
+        55689
+    ], 
+    "genres": [
+        13, 
+        14
+    ], 
+    "hypes": 1, 
+    "id": 7324, 
+    "keywords": [
+        44, 
+        1148, 
+        1166, 
+        1307, 
+        6576, 
+        7251, 
+        7255, 
+        7257
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "NHL 15", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Violence in a sporting context\r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        45, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        454
+    ], 
+    "rating": 75.1257416138991, 
+    "rating_count": 8, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1410220800000, 
+            "human": "2014-Sep-09", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410480000000, 
+            "human": "2014-Sep-12", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410220800000, 
+            "human": "2014-Sep-09", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410480000000, 
+            "human": "2014-Sep-12", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410480000000, 
+            "human": "2014-Sep-12", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410480000000, 
+            "human": "2014-Sep-12", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410393600000, 
+            "human": "2014-Sep-11", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410393600000, 
+            "human": "2014-Sep-11", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410393600000, 
+            "human": "2014-Sep-11", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410393600000, 
+            "human": "2014-Sep-11", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410220800000, 
+            "human": "2014-Sep-09", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410220800000, 
+            "human": "2014-Sep-09", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410220800000, 
+            "human": "2014-Sep-09", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "oucjquwnogmevnielssm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oucjquwnogmevnielssm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "c7qrp9alpqnj2usbr8aq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c7qrp9alpqnj2usbr8aq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "q6napiov1jlvqvklpceu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q6napiov1jlvqvklpceu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qwd9okk6ovfxoeakcmth", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qwd9okk6ovfxoeakcmth.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vmdllt9gnobpsabna1mc", 
+            "height": 844, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vmdllt9gnobpsabna1mc.jpg", 
+            "width": 1500
+        }
+    ], 
+    "slug": "nhl-15", 
+    "summary": "12 PLAYER NHL COLLISION PHYSICS \nFor the first time in any sports game, real-world physics affects every player through every on-ice collision with the new 12 Player NHL \u00ae Collision Physics. Utilizing the power of the next generation consoles, and building off the critically-acclaimed NHL Collision Physics system, every player on the ice is governed by physics at all times. Feel the hard-hitting chaos of NHL hockey through true-to-life secondary collisions, net scrambles and player pileups, capturing the desperation of every shift. \n \nREAL PUCK PHYSICS \nThe puck is one of the most complex items in the game to authentically replicate and it finally gets its due in NHL 15. Completely rebuilt puck physics result in a more realistic feel to every puck interaction. Everything on the ice, including the ice surface itself, is live which leads to the unpredictable and authentic puck spins, rolls and bounces seen in a real NHL game. \n \nAUTHENTIC PLAYER & EQUIPMENT MODELS \nThe Next Generation Hockey Player has been rebuilt from the ice up. Now player models have three distinct layers - the body, equipment, and jersey. Each layer interacts independently, making every contact with the puck or other players even more realistic. Dynamic Cloth technology adds an extra layer of realism as it reacts to the player\u2019s movement as they explode up the ice, helping bring the speed of the game to life. \n \nUNPRECEDENTED PLAYER LIKENESS \nPowered by the same technology that brought the most realistic representation of the athlete to EA SPORTS UFC, NHL 15 delivers groundbreaking player likeness, emotion and animation. From the strides a player takes to get up the ice to the emotion on their face after scoring a game winning goal, the players are as real as they\u2019ve ever been. \n \nSUPERSTAR SKILL STICK \nNow all the tools of an NHL superstar are in your hands. The revolutionary Skill Stick has evolved to give even more control to the player. Protect the puck, receive passes without breaking stride, and discover an arsenal of sweet new dekes, all with an intuitive right stick control scheme that is easy to use but packed with depth. \n \nAUTHENTIC ARENAS \nThere is no feeling like being there, and we are giving you the best seats in the house. The power of the next-gen consoles finally allows the NHL franchise to capture every detail of an NHL arena. Unique arena elements from 19,000+ seat capacities to lighting and player entrance tunnels are captured with a level of detail not possible on the previous generation. Now those home games will truly feel like home. \n \nNEW COMMENTARY TEAM \nNew voices for a new generation. NHL 15 welcomes the NBC Sports commentary team of Mike 'Doc' Emrick and Eddie Olczyk to the broadcast booth. TSN analyst Ray Ferraro will provide game insights at ice level. Combined with Real Life Broadcast Integration that will feature real-world pre-game video commentary with Doc and Eddie set against in-game visuals, NHL 15 takes a revolutionary step forward in sports videogames; where the lines between the real world of sport broadcast and the game are blurred. \n \nNBC SPORTS GAME DAY PRESENTATION \nThe most realistic broadcast package in a video game to-date is possible because of a new partnership with NBC Sports. Set the scene with the NHL on NBC crew welcoming you to the city during the game intros and immerse yourself in an experience that matches what you see on television with NHL on NBC graphics and branding. \n \nLIVING CROWDS \nNHL 15 sets a new standard in videogames with over 9,000 individual crowd models with 4x the animations of previous generations. Take a look through the glass and you\u2019ll see fans hold up signs with your name on them, costume wearing superfans, or even sections full of team rivals rooting against you. Feel their behavior change after dropping the gloves, landing a big hit, or scoring a clutch goal. The crowd is alive. \n \nVISION AI \nAn elevated level of player intelligence, Vision AI features evolved awareness with players reading and reacting to potential plays. Scoring area recognition, pass anticipation, and enhanced team breakouts all improve the flow of the game.", 
+    "tags": [
+        32, 
+        268435469, 
+        268435470, 
+        536870956, 
+        536872060, 
+        536872078, 
+        536872219, 
+        536877488, 
+        536878163, 
+        536878167, 
+        536878169, 
+        1073741827
+    ], 
+    "themes": [
+        32
+    ], 
+    "total_rating": 68.67398191806065, 
+    "total_rating_count": 17, 
+    "updated_at": 1516702865189, 
+    "url": "https://www.igdb.com/games/nhl-15", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "0jEgFzpsPMA"
+        }, 
+        {
+            "name": "Gamescom Trailer", 
+            "video_id": "SPds2-s7DTA"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/NHL_15"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.easports.com/de/nhl"
+        }
+    ]
+}

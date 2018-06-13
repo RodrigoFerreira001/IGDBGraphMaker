@@ -1,0 +1,97 @@
+{
+    "aggregated_rating": 83.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "created_at": 1496305950325, 
+    "developers": [
+        1956, 
+        2252
+    ], 
+    "first_release_date": 1503532800000, 
+    "games": [
+        49414, 
+        25636, 
+        28080, 
+        21842, 
+        103020, 
+        36608, 
+        18862, 
+        35737, 
+        75851, 
+        47472
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 36610, 
+    "name": "Megadimension Neptunia VIIR", 
+    "platforms": [
+        48
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        10024
+    ], 
+    "pulse_count": 29, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1525996800000, 
+            "human": "2018-May-11", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1525737600000, 
+            "human": "2018-May-08", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1503532800000, 
+            "human": "2017-Aug-24", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ht9gfzuefgoac9efuip7", 
+            "height": 416, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ht9gfzuefgoac9efuip7.jpg", 
+            "width": 740
+        }
+    ], 
+    "slug": "megadimension-neptunia-viir", 
+    "tags": [
+        268435468, 
+        1073741831
+    ], 
+    "total_rating": 83.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528769606284, 
+    "url": "https://www.igdb.com/games/megadimension-neptunia-viir", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "loP2QxzJffA"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://ideafintl.com/nep-v2r/"
+        }
+    ]
+}

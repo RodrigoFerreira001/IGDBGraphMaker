@@ -1,0 +1,76 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "gtsggb3g4rmmyjbdikmc", 
+        "height": 512, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gtsggb3g4rmmyjbdikmc.jpg", 
+        "width": 512
+    }, 
+    "created_at": 1517407340606, 
+    "first_release_date": 1443657600000, 
+    "id": 85481, 
+    "name": "VoxelMaker", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        14908
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1449705600000, 
+            "human": "2015-Dec-10", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1443657600000, 
+            "human": "2015-Oct-01", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dyscjtxsxijor102cg2x", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dyscjtxsxijor102cg2x.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "woouhahfcvc61i8lzxog", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/woouhahfcvc61i8lzxog.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xdmqdt7mluu6ivzwivx2", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xdmqdt7mluu6ivzwivx2.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "vvvwzxq87srlnevlc9do", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vvvwzxq87srlnevlc9do.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "cosukfttwlpnsgoynsgx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cosukfttwlpnsgoynsgx.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "voxelmaker", 
+    "summary": "With VoxelMaker you have both 3D canvas and camera in your hands: be inspired and create!", 
+    "updated_at": 1519369090682, 
+    "url": "https://www.igdb.com/games/voxelmaker"
+}

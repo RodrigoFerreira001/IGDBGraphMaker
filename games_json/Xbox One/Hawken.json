@@ -1,0 +1,342 @@
+{
+    "aggregated_rating": 45.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ybhlxizvjbs83ejkowj5", 
+        "height": 747, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ybhlxizvjbs83ejkowj5.jpg", 
+        "width": 584
+    }, 
+    "created_at": 1349599879207, 
+    "developers": [
+        2736, 
+        7557
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is a first-person shooter in which players pilot mechanized battle suits (i.e., mechs) in a sci-fi universe. Players can customize their battle suits with machine guns, rocket launchers, lasers, and explosives for use in frenetic multiplayer combat modes (e.g., Team Deathmatch, Siege). Players generally target and kill rival team members around futuristic battle arenas and city landscape environments. Battles are highlighted by realistic gunfire, large explosions, and screen-cracking effects; damaged battle suits burst into fiery wreckage/scattered debris when destroyed."
+    }, 
+    "external": {
+        "steam": "271290"
+    }, 
+    "first_release_date": 1355270400000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        27314, 
+        28751, 
+        68287, 
+        7350, 
+        26401, 
+        11253, 
+        36950, 
+        7843, 
+        1595, 
+        1265
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 1405, 
+    "keywords": [
+        1, 
+        21, 
+        25, 
+        92, 
+        167, 
+        453, 
+        563, 
+        795, 
+        970, 
+        1025, 
+        1494, 
+        1739, 
+        1821, 
+        2152, 
+        2385, 
+        3627, 
+        3831, 
+        4161, 
+        4259, 
+        4330, 
+        4346, 
+        4350, 
+        4391, 
+        4393, 
+        4572, 
+        4661, 
+        4973, 
+        4975, 
+        4985, 
+        5305, 
+        5306, 
+        5333, 
+        5350, 
+        5371, 
+        5384, 
+        5503, 
+        5609, 
+        5660, 
+        6120, 
+        6373, 
+        6589, 
+        6868, 
+        6990, 
+        7303, 
+        7403, 
+        7405, 
+        7503, 
+        9320, 
+        9530, 
+        9951
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 6, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 12, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Hawken", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1, 
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2737, 
+        7557, 
+        445
+    ], 
+    "pulse_count": 7, 
+    "rating": 54.2889012827663, 
+    "rating_count": 5, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1467331200000, 
+            "human": "2016-Jul-01", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467936000000, 
+            "human": "2016-Jul-08", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467936000000, 
+            "human": "2016-Jul-08", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1355270400000, 
+            "human": "2012-Dec-12", 
+            "m": 12, 
+            "platform": 6, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1467331200000, 
+            "human": "2016-Jul-01", 
+            "m": 7, 
+            "platform": 49, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467936000000, 
+            "human": "2016-Jul-08", 
+            "m": 7, 
+            "platform": 48, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "aznbmtoeh67xytuudqbb", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aznbmtoeh67xytuudqbb.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "masvs5ecdftfzpscb3yb", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/masvs5ecdftfzpscb3yb.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "m4p7luzax4vmxogat63o", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m4p7luzax4vmxogat63o.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "wom0ybcupfhqkdazrgel", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wom0ybcupfhqkdazrgel.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uvsagpoc7g5b4ucatetv", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uvsagpoc7g5b4ucatetv.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "hawken", 
+    "status": 4, 
+    "summary": "War is a Machine Pilot hulking death machines and use massive weaponry to destroy your foes in fast-paced FPS gameplay.\n\nHawken is a multiplayer first person shooter that places you inside a mechanized war machine on the battlefield of a dystopian world. With tactical, fast-paced gameplay in customizable and upgradable mechs across multiple competitive modes, Hawken is explosively fun.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        536870913, 
+        536870933, 
+        536870937, 
+        536871004, 
+        536871079, 
+        536871365, 
+        536871475, 
+        536871707, 
+        536871882, 
+        536871937, 
+        536872406, 
+        536872651, 
+        536872733, 
+        536873064, 
+        536873297, 
+        536874539, 
+        536874743, 
+        536875073, 
+        536875171, 
+        536875242, 
+        536875258, 
+        536875262, 
+        536875303, 
+        536875305, 
+        536875484, 
+        536875573, 
+        536875885, 
+        536875887, 
+        536875897, 
+        536876217, 
+        536876218, 
+        536876245, 
+        536876262, 
+        536876283, 
+        536876296, 
+        536876415, 
+        536876521, 
+        536876572, 
+        536877032, 
+        536877285, 
+        536877501, 
+        536877780, 
+        536877902, 
+        536878215, 
+        536878315, 
+        536878317, 
+        536878415, 
+        536880232, 
+        536880442, 
+        536880863, 
+        1073741825, 
+        1073741831
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 49.64445064138315, 
+    "total_rating_count": 7, 
+    "updated_at": 1528354101829, 
+    "url": "https://www.igdb.com/games/hawken", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Zm7gEDhrPfk"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "udEAEARD-Fo"
+        }, 
+        {
+            "name": "E3 2016 Trailer", 
+            "video_id": "KtwJGd_Fos8"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/271290"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.playhawken.com/"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Hawken_(video_game)"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://hawken.wikia.com/wiki/Hawken_Wiki"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/PlayHAWKEN"
+        }
+    ]
+}

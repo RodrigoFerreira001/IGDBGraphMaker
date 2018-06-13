@@ -1,0 +1,64 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 2266, 
+    "cover": {
+        "cloudinary_id": "x3b8ahxdjcqta5nbqe5y", 
+        "height": 179, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/x3b8ahxdjcqta5nbqe5y.jpg", 
+        "width": 530
+    }, 
+    "created_at": 1469405571464, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1267574400000, 
+    "id": 21578, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Zeno Clash: Ultimate Edition", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1267574400000, 
+            "human": "2010-Mar-03", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "sag2zllx1dvvwdvnfuuq", 
+            "height": 333, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sag2zllx1dvvwdvnfuuq.jpg", 
+            "width": 592
+        }
+    ], 
+    "slug": "zeno-clash-ultimate-edition", 
+    "summary": "A first-person action/fighting game set in a punk fantasy world, players assume the role of Ghat, the son of a creature called Father-Mother whose children make up the strongest clan in the city of Halstedom. Ghat escapes from his family and sets out on journery across the land with his female companion Deadra, discovering more of the world and his past along the way.", 
+    "total_rating": 80.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1501068300303, 
+    "url": "https://www.igdb.com/games/zeno-clash-ultimate-edition"
+}

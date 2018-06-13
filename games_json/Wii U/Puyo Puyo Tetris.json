@@ -1,0 +1,332 @@
+{
+    "aggregated_rating": 84.4166666666667, 
+    "aggregated_rating_count": 15, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "\u3077\u3088\u3077\u3088\u2122\u30c6\u30c8\u30ea\u30b9\u00ae"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u3077\u3088\u3077\u3088\u30c6\u30c8\u30ea\u30b9"
+        }
+    ], 
+    "category": 0, 
+    "collection": 754, 
+    "cover": {
+        "cloudinary_id": "wetzrgzw2ehzaannvvgz", 
+        "height": 264, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wetzrgzw2ehzaannvvgz.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1400733856192, 
+    "developers": [
+        395
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is a puzzle game in which players battle others by lining up blocks and matching small creatures called Puyos. Players earn points and progress through battles by clearing their areas of blocks/lines, and Puyos. When players create lines and matches of Puyos, short animations depict opponents being conked on the head by falling objects and emitting short yelps. The game includes some suggestive material and innuendo in the dialogue (e.g., \"Finally, you and I are going to score together!...Um...you mean we're gonna rack up SCORES...battling?\"; \"I prefer you to scream my name when we're together\"; \"[H]e and I are definitely not sleeping together.\")."
+    }, 
+    "external": {
+        "steam": "546050"
+    }, 
+    "first_release_date": 1391644800000, 
+    "franchise": 79, 
+    "franchises": [
+        79
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        8197, 
+        25311, 
+        25222, 
+        25646, 
+        18167, 
+        76216, 
+        25640, 
+        19934, 
+        26769, 
+        26223
+    ], 
+    "genres": [
+        9, 
+        15
+    ], 
+    "id": 6866, 
+    "keywords": [
+        1075, 
+        2875, 
+        4245, 
+        4467, 
+        4523, 
+        4945, 
+        6463, 
+        8207
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Puyo Puyo Tetris", 
+    "platforms": [
+        6, 
+        41, 
+        46, 
+        9, 
+        48, 
+        49, 
+        37, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        112
+    ], 
+    "pulse_count": 32, 
+    "rating": 80.06716197662969, 
+    "rating_count": 5, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1488499200000, 
+            "human": "2017-Mar-03", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1493337600000, 
+            "human": "2017-Apr-28", 
+            "m": 4, 
+            "platform": 130, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1519689600000, 
+            "human": "2018-Feb-27", 
+            "m": 2, 
+            "platform": 6, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1391644800000, 
+            "human": "2014-Feb-06", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1493337600000, 
+            "human": "2017-Apr-28", 
+            "m": 4, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1493337600000, 
+            "human": "2017-Apr-28", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1493078400000, 
+            "human": "2017-Apr-25", 
+            "m": 4, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1493078400000, 
+            "human": "2017-Apr-25", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1391644800000, 
+            "human": "2014-Feb-06", 
+            "m": 2, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1391644800000, 
+            "human": "2014-Feb-06", 
+            "m": 2, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1391644800000, 
+            "human": "2014-Feb-06", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1417651200000, 
+            "human": "2014-Dec-04", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1417651200000, 
+            "human": "2014-Dec-04", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 5, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mccwrferqko2q6hchwgo", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mccwrferqko2q6hchwgo.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "zdpdb8tuakws12wyxyps", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zdpdb8tuakws12wyxyps.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "jflmgplictbvvptcnui0", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jflmgplictbvvptcnui0.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "xcs9dnilvfkl6wvaalwf", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xcs9dnilvfkl6wvaalwf.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "eua7exn8iqbqiw9bejhv", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eua7exn8iqbqiw9bejhv.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "vs4oeqdz5fw5mwgwdsgg", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vs4oeqdz5fw5mwgwdsgg.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "qc69vafnkenlq9jnp6ki", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qc69vafnkenlq9jnp6ki.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "yfqizlh0lzddelo4nq59", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yfqizlh0lzddelo4nq59.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "wr9jgf2gt2atrx6kjcc7", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wr9jgf2gt2atrx6kjcc7.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "fvllcs0ao8adtyd8q0vz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvllcs0ao8adtyd8q0vz.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "oirfctekwgmimkje2hn8", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oirfctekwgmimkje2hn8.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nkauqnryqidc3sen5qyd", 
+            "height": 349, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nkauqnryqidc3sen5qyd.jpg", 
+            "width": 620
+        }
+    ], 
+    "slug": "puyo-puyo-tetris", 
+    "summary": "\"Two puzzle game juggernauts collide as Tetris, one of the largest-selling and recognized brands in gaming history, and Puyo Puyo from SEGA have combined to create a fun-to-play, fast-paced, competitive party game like no other! The game has tons of different styles of gameplay \u2013 from the single-player Adventure and Challenge modes to the ferocious competition of the up-to-four player Arcade modes. There's plenty of Tetris/Puyo variety, even an in-game Shop where players can unlock new characters, new skins for Puyos and Tetriminos, new backgrounds and more.\"", 
+    "tags": [
+        1, 
+        35, 
+        268435465, 
+        268435471, 
+        536871987, 
+        536873787, 
+        536875157, 
+        536875379, 
+        536875435, 
+        536875857, 
+        536877375, 
+        536879119, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        35
+    ], 
+    "total_rating": 82.2419143216482, 
+    "total_rating_count": 20, 
+    "updated_at": 1523370976014, 
+    "url": "https://www.igdb.com/games/puyo-puyo-tetris", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "7zes476D3lA"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "_aTHyxFtdxo"
+        }
+    ]
+}

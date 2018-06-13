@@ -1,0 +1,100 @@
+{
+    "alternative_names": [
+        {
+            "name": "City Racer"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "e3tpdpxryn9nesf5hqt1", 
+        "height": 361, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/e3tpdpxryn9nesf5hqt1.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1390154179259, 
+    "developers": [
+        104
+    ], 
+    "first_release_date": 1048809600000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        36608, 
+        34919, 
+        40524, 
+        28004, 
+        23314, 
+        23175, 
+        28856, 
+        16468, 
+        1070, 
+        2940
+    ], 
+    "genres": [
+        10
+    ], 
+    "id": 3858, 
+    "name": "Downtown Run", 
+    "platforms": [
+        6, 
+        21, 
+        55, 
+        8
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        104
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1051574400000, 
+            "human": "2003-Apr-29", 
+            "m": 4, 
+            "platform": 21, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1048809600000, 
+            "human": "2003-Mar-28", 
+            "m": 3, 
+            "platform": 8, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1048809600000, 
+            "human": "2003-Mar-28", 
+            "m": 3, 
+            "platform": 6, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1058400000000, 
+            "human": "2003-Jul-17", 
+            "m": 7, 
+            "platform": 55, 
+            "y": 2003
+        }
+    ], 
+    "slug": "downtown-run", 
+    "tags": [
+        1, 
+        268435466, 
+        1073741825, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1517270868454, 
+    "url": "https://www.igdb.com/games/downtown-run"
+}

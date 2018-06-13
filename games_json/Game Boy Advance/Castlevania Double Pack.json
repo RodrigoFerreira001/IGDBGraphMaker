@@ -1,0 +1,83 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "PC Seleccion Espanola de Futbol Eurocopa '96"
+        }
+    ], 
+    "category": 3, 
+    "collection": 65, 
+    "cover": {
+        "cloudinary_id": "a7rfzspqvhtlkqbrrhjo", 
+        "height": 642, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/a7rfzspqvhtlkqbrrhjo.jpg", 
+        "width": 494
+    }, 
+    "created_at": 1471337266118, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1136937600000, 
+    "games": [
+        44242, 
+        54662, 
+        18623, 
+        22470, 
+        29173, 
+        22425, 
+        26145, 
+        55590, 
+        55689, 
+        23867
+    ], 
+    "genres": [
+        13, 
+        14
+    ], 
+    "id": 22575, 
+    "keywords": [
+        296, 
+        960, 
+        1033, 
+        1148, 
+        1166, 
+        4239
+    ], 
+    "name": "Castlevania Double Pack", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        24
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1136937600000, 
+            "human": "2006-Jan-11", 
+            "m": 1, 
+            "platform": 24, 
+            "region": 2, 
+            "y": 2006
+        }
+    ], 
+    "slug": "castlevania-double-pack", 
+    "summary": "Compiles both Harmony of Dissonance and Aria of Sorrow on one Game Boy Advance cartridge.", 
+    "tags": [
+        268435469, 
+        268435470, 
+        536871208, 
+        536871872, 
+        536871945, 
+        536872060, 
+        536872078, 
+        536875151
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1516687165550, 
+    "url": "https://www.igdb.com/games/castlevania-double-pack"
+}

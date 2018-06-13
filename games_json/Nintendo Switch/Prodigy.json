@@ -1,0 +1,111 @@
+{
+    "category": 0, 
+    "created_at": 1494582089330, 
+    "external": {
+        "steam": "626550"
+    }, 
+    "first_release_date": 1491004800000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        25311, 
+        55289, 
+        59516, 
+        36608, 
+        1221, 
+        16468, 
+        23175, 
+        37088, 
+        47823, 
+        72412
+    ], 
+    "genres": [
+        12, 
+        15, 
+        31
+    ], 
+    "id": 28652, 
+    "name": "Prodigy", 
+    "platforms": [
+        6, 
+        130
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        4741
+    ], 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 130
+        }, 
+        {
+            "category": 1, 
+            "date": 1491004800000, 
+            "human": "2017-Apr", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pgi7vligxcqf5eyjfbcu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pgi7vligxcqf5eyjfbcu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lszbx4buofgko6fi3j1t", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lszbx4buofgko6fi3j1t.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ixfetnuk03fxzmdtjzkw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ixfetnuk03fxzmdtjzkw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ngyx222ygvajhfp6borj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ngyx222ygvajhfp6borj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wvbf6pabxleakqbevtek", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wvbf6pabxleakqbevtek.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "prodigy", 
+    "status": 4, 
+    "summary": "Prodigy is a head to head tactical role playing game with mixed turn based and real time multiplayer action, pitting your heroes against those of your friends or online opponent with match-making and ranked play. A deep tactical game system makes the game complex and interesting at its core because of several possibilities and combinations between characters and their powers, yet easy to learn and understand.", 
+    "tags": [
+        1, 
+        268435468, 
+        268435471, 
+        268435487
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523348677418, 
+    "url": "https://www.igdb.com/games/prodigy", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/626550"
+        }
+    ]
+}

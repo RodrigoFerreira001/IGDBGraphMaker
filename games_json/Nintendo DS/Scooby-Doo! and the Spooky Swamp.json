@@ -1,0 +1,231 @@
+{
+    "aggregated_rating": 58.6666666666667, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 3290, 
+    "cover": {
+        "cloudinary_id": "gtlj16ebxlnxrcx3cjjh", 
+        "height": 267, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gtlj16ebxlnxrcx3cjjh.jpg", 
+        "width": 189
+    }, 
+    "created_at": 1391878669795, 
+    "developers": [
+        690
+    ], 
+    "esrb": {
+        "rating": 1
+    }, 
+    "first_release_date": 1284422400000, 
+    "franchise": 117, 
+    "franchises": [
+        117
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25646, 
+        26914, 
+        76098, 
+        7329, 
+        51464, 
+        13189, 
+        44076, 
+        23175, 
+        44177, 
+        29525
+    ], 
+    "id": 5143, 
+    "keywords": [
+        16, 
+        350, 
+        637, 
+        1033, 
+        1120, 
+        1935, 
+        3227, 
+        4142, 
+        4266, 
+        4654, 
+        5194, 
+        7153, 
+        10333
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 5, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Scooby-Doo! and the Spooky Swamp", 
+    "platforms": [
+        6, 
+        20, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        50
+    ], 
+    "rating": 47.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1287100800000, 
+            "human": "2010-Oct-15", 
+            "m": 10, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1284422400000, 
+            "human": "2010-Sep-14", 
+            "m": 9, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1287100800000, 
+            "human": "2010-Oct-15", 
+            "m": 10, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1284422400000, 
+            "human": "2010-Sep-14", 
+            "m": 9, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1284422400000, 
+            "human": "2010-Sep-14", 
+            "m": 9, 
+            "platform": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1284422400000, 
+            "human": "2010-Sep-14", 
+            "m": 9, 
+            "platform": 20, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1284422400000, 
+            "human": "2010-Sep-14", 
+            "m": 9, 
+            "platform": 8, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1284422400000, 
+            "human": "2010-Sep-14", 
+            "m": 9, 
+            "platform": 6, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hixgxmveyx2tmsvyhv3h", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hixgxmveyx2tmsvyhv3h.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "aq7xjbflvf05hainiz8z", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aq7xjbflvf05hainiz8z.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "qejp9aiyxuraiym4ayui", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qejp9aiyxuraiym4ayui.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "y0c3tsmcmdahgntqbtbg", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y0c3tsmcmdahgntqbtbg.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "hfhs6qsfmslbjztoyuzn", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hfhs6qsfmslbjztoyuzn.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "p6ajrk4ni0cxgeg84t3y", 
+            "height": 365, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p6ajrk4ni0cxgeg84t3y.jpg", 
+            "width": 650
+        }
+    ], 
+    "slug": "scooby-doo-and-the-spooky-swamp", 
+    "summary": "* Venture, explore and investigae across three huge new open worlds  * New brain-teasing puzzles test your mystery solving skills and new monster enemies and epic boss battles!  * Use cool gadgets and tools to help solve mysteries, uncover treasure and help in your investigations  * Create your own custom look and enhance your abilities using unique accessories and clothing items", 
+    "tags": [
+        1, 
+        19, 
+        27, 
+        536870928, 
+        536871262, 
+        536871549, 
+        536871945, 
+        536872032, 
+        536872847, 
+        536874139, 
+        536875054, 
+        536875178, 
+        536875566, 
+        536876106, 
+        536878065, 
+        536881245, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        19, 
+        27
+    ], 
+    "total_rating": 52.83333333333335, 
+    "total_rating_count": 4, 
+    "updated_at": 1518007464580, 
+    "url": "https://www.igdb.com/games/scooby-doo-and-the-spooky-swamp", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.scoobydoovideogames.com/"
+        }
+    ]
+}

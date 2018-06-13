@@ -1,0 +1,205 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Apache"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mut8bqnqlzoyfe2jzrvx", 
+        "height": 1311, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mut8bqnqlzoyfe2jzrvx.jpg", 
+        "width": 1064
+    }, 
+    "created_at": 1387231118196, 
+    "developers": [
+        1018
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1289865600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        19934, 
+        54524, 
+        22425, 
+        7360, 
+        8036, 
+        19290, 
+        15536, 
+        28751, 
+        19301, 
+        25657
+    ], 
+    "genres": [
+        13, 
+        24
+    ], 
+    "id": 3233, 
+    "keywords": [
+        1, 
+        21, 
+        31, 
+        36, 
+        56, 
+        992, 
+        1148, 
+        1293, 
+        1333, 
+        1739, 
+        4134, 
+        4149, 
+        4245, 
+        4259, 
+        4359, 
+        4661, 
+        4698, 
+        5333, 
+        5528, 
+        5783, 
+        6387, 
+        6922, 
+        7108, 
+        9845, 
+        10919, 
+        11809
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Apache: Air Assault", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        66
+    ], 
+    "rating": 80.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1289865600000, 
+            "human": "2010-Nov-16", 
+            "m": 11, 
+            "platform": 6, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1289865600000, 
+            "human": "2010-Nov-16", 
+            "m": 11, 
+            "platform": 12, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1289865600000, 
+            "human": "2010-Nov-16", 
+            "m": 11, 
+            "platform": 9, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rml5be4z1e33nwhazqxl", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rml5be4z1e33nwhazqxl.jpg", 
+            "width": 1024
+        }
+    ], 
+    "slug": "apache-air-assault-24a49449-c450-4802-9f1b-ad292a998155", 
+    "summary": "Apache: Air Assault features more than 16 multi-stage missions involving air and ground strike operations off the coast of Africa, the mountains of the Middle East and the jungles of Central America, each meticulously created using high resolution map data from real-world satellite photography. Apache helicopters are some of the most sophisticated combat aircraft on the planet - the player gets to fly multiple variations of them, each with their own extreme firepower and highly-detailed damage modeling.", 
+    "tags": [
+        1, 
+        39, 
+        268435469, 
+        268435480, 
+        536870913, 
+        536870933, 
+        536870943, 
+        536870948, 
+        536870968, 
+        536871904, 
+        536872060, 
+        536872205, 
+        536872245, 
+        536872651, 
+        536875046, 
+        536875061, 
+        536875157, 
+        536875171, 
+        536875271, 
+        536875573, 
+        536875610, 
+        536876245, 
+        536876440, 
+        536876695, 
+        536877299, 
+        536877834, 
+        536878020, 
+        536880757, 
+        536881831, 
+        536882721, 
+        1073741825, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        39
+    ], 
+    "total_rating": 77.5, 
+    "total_rating_count": 3, 
+    "updated_at": 1517270680683, 
+    "url": "https://www.igdb.com/games/apache-air-assault-24a49449-c450-4802-9f1b-ad292a998155", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://apache-game.com/en"
+        }
+    ]
+}

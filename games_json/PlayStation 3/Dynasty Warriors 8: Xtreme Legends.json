@@ -1,0 +1,133 @@
+{
+    "aggregated_rating": 65.1666666666667, 
+    "aggregated_rating_count": 6, 
+    "artworks": [
+        {
+            "cloudinary_id": "nm4c4dmmbr9fqv5op37m", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nm4c4dmmbr9fqv5op37m.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "tltno9hg0uoqni5s6qjz", 
+            "height": 890, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tltno9hg0uoqni5s6qjz.jpg", 
+            "width": 1260
+        }
+    ], 
+    "category": 2, 
+    "collection": 550, 
+    "cover": {
+        "cloudinary_id": "irhltk72qroalyqpq4eh", 
+        "height": 410, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/irhltk72qroalyqpq4eh.jpg", 
+        "width": 388
+    }, 
+    "created_at": 1431567037629, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1385596800000, 
+    "game": 6976, 
+    "games": [
+        19407, 
+        21429, 
+        47823, 
+        37088, 
+        12632, 
+        6732, 
+        76110, 
+        55092, 
+        27209, 
+        16468
+    ], 
+    "id": 10267, 
+    "keywords": [
+        296, 
+        389, 
+        1158, 
+        2543, 
+        4004, 
+        4134, 
+        4155, 
+        5328, 
+        5498, 
+        5574
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dynasty Warriors 8: Xtreme Legends", 
+    "platforms": [
+        6, 
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1385596800000, 
+            "human": "2013-Nov-28", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1402617600000, 
+            "human": "2014-Jun-13", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "oy609ql1iw9lyfnsmgiq", 
+            "height": 348, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oy609ql1iw9lyfnsmgiq.jpg", 
+            "width": 618
+        }
+    ], 
+    "slug": "dynasty-warriors-8-xtreme-legends", 
+    "summary": "Dynasty Warriors 8: Xtreme Legends introduces entirely new levels of fun to the refreshing gameplay vanquishing swarms of enemies with mighty warriors found in \"Dynasty Warriors 8.\"\n\nIn story mode, where you can immerse yourself in the vivid tales of the Romance of the Three Kingdoms, it is now possible to play as the mighty warrior \"Lu Bu,\" and embark on a journey that depicts his way of life. Additionally, many new hypothetical scenarios to existing Romance of the Three Kingdoms battles have been added, as well as new playable characters, weapons types, growth/speedrun elements, and more! What's more, a revamped Ambition Mode and completely new Challenge Mode offer whole new ways to enjoy the Dynasty Warriors 8 universe.", 
+    "tags": [
+        1, 
+        17, 
+        22, 
+        536871208, 
+        536871301, 
+        536872070, 
+        536873455, 
+        536874916, 
+        536875046, 
+        536875067, 
+        536876240, 
+        536876410, 
+        536876486
+    ], 
+    "themes": [
+        1, 
+        17, 
+        22
+    ], 
+    "total_rating": 65.1666666666667, 
+    "total_rating_count": 6, 
+    "updated_at": 1525266822197, 
+    "url": "https://www.igdb.com/games/dynasty-warriors-8-xtreme-legends"
+}

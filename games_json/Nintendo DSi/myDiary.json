@@ -1,0 +1,67 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qcyl2xlohfsjgjiqnhsv", 
+        "height": 184, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qcyl2xlohfsjgjiqnhsv.jpg", 
+        "width": 185
+    }, 
+    "created_at": 1517338099638, 
+    "first_release_date": 1284681600000, 
+    "id": 84706, 
+    "name": "myDiary", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1284681600000, 
+            "human": "2010-Sep-17", 
+            "m": 9, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1296432000000, 
+            "human": "2011-Jan-31", 
+            "m": 1, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "kfu5b8ie2hlz1zos7yuj", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kfu5b8ie2hlz1zos7yuj.jpg", 
+            "width": 384
+        }, 
+        {
+            "cloudinary_id": "qzmymy2p8zbrq24snpiq", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qzmymy2p8zbrq24snpiq.jpg", 
+            "width": 384
+        }, 
+        {
+            "cloudinary_id": "x1tii7zztkobuz4x3yo5", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x1tii7zztkobuz4x3yo5.jpg", 
+            "width": 384
+        }, 
+        {
+            "cloudinary_id": "wuscemg9wlbfvg3dstge", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wuscemg9wlbfvg3dstge.jpg", 
+            "width": 384
+        }
+    ], 
+    "slug": "mydiary", 
+    "summary": "myDiary allows users to organise their lives by keeping track of appointments, making daily journal entries and even setting daily alarms. It also features icons to indicate the time, volume and current battery level.", 
+    "updated_at": 1518074558640, 
+    "url": "https://www.igdb.com/games/mydiary"
+}

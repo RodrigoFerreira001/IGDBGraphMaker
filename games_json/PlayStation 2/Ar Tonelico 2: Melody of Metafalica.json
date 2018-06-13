@@ -1,0 +1,155 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 3, 
+    "artworks": [
+        {
+            "cloudinary_id": "josfnb0lr74cujhkyhdt", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/josfnb0lr74cujhkyhdt.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "pgjbbktrtgkw9v85pyw7", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pgjbbktrtgkw9v85pyw7.jpg", 
+            "width": 770
+        }, 
+        {
+            "cloudinary_id": "p6jwlh8frebhhxbmxzn3", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p6jwlh8frebhhxbmxzn3.jpg", 
+            "width": 730
+        }, 
+        {
+            "cloudinary_id": "gll1wa4ase8zf7xou7r2", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gll1wa4ase8zf7xou7r2.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "noiwa4pxbfpf7lllrwjt", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/noiwa4pxbfpf7lllrwjt.jpg", 
+            "width": 650
+        }, 
+        {
+            "cloudinary_id": "u2ktvaqwwrl95viofae0", 
+            "height": 880, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u2ktvaqwwrl95viofae0.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "uhk5lw5hwqufgvcwxsyn", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uhk5lw5hwqufgvcwxsyn.jpg", 
+            "width": 780
+        }, 
+        {
+            "cloudinary_id": "zjn64xaflfpmbn3f3pp2", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zjn64xaflfpmbn3f3pp2.jpg", 
+            "width": 700
+        }
+    ], 
+    "category": 0, 
+    "collection": 983, 
+    "cover": {
+        "cloudinary_id": "vnmg0wrgktamz2jlbfwb", 
+        "height": 1127, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vnmg0wrgktamz2jlbfwb.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1469300693267, 
+    "first_release_date": 1193270400000, 
+    "franchise": 882, 
+    "franchises": [
+        882
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        12632, 
+        16468, 
+        36534, 
+        21538, 
+        13196, 
+        36792, 
+        26163, 
+        19698, 
+        11667, 
+        28010
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 21285, 
+    "keywords": [
+        521, 
+        2808, 
+        2886, 
+        2887, 
+        2899, 
+        2901, 
+        2903
+    ], 
+    "name": "Ar Tonelico 2: Melody of Metafalica", 
+    "platforms": [
+        8
+    ], 
+    "popularity": 4.0, 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1232409600000, 
+            "human": "2009-Jan-20", 
+            "m": 1, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1193270400000, 
+            "human": "2007-Oct-25", 
+            "m": 10, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "h50pesgsupwplgzeaozx", 
+            "height": 336, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h50pesgsupwplgzeaozx.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "ar-tonelico-2-melody-of-metafalica", 
+    "tags": [
+        17, 
+        268435468, 
+        536871433, 
+        536873720, 
+        536873798, 
+        536873799, 
+        536873811, 
+        536873813, 
+        536873815
+    ], 
+    "themes": [
+        17
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1524475558198, 
+    "url": "https://www.igdb.com/games/ar-tonelico-2-melody-of-metafalica", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://artonelico.wikia.com/wiki/The_EXA_PICO_Universe_Wiki"
+        }
+    ]
+}

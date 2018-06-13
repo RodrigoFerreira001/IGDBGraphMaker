@@ -1,0 +1,236 @@
+{
+    "aggregated_rating": 74.7333333333333, 
+    "aggregated_rating_count": 19, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ap9slqdtwpfhkpbybpvr", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ap9slqdtwpfhkpbybpvr.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1464336582822, 
+    "developers": [
+        11674
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "473690"
+    }, 
+    "first_release_date": 1503964800000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        36926, 
+        47823, 
+        25300, 
+        55289, 
+        25311, 
+        36534, 
+        16999, 
+        26766, 
+        11169, 
+        22747
+    ], 
+    "genres": [
+        4, 
+        12, 
+        31, 
+        32
+    ], 
+    "hypes": 16, 
+    "id": 19333, 
+    "keywords": [
+        61, 
+        227, 
+        296, 
+        1026, 
+        4131, 
+        4224, 
+        4768, 
+        5857
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 3, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Absolver", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 33.0, 
+    "publishers": [
+        634
+    ], 
+    "pulse_count": 64, 
+    "rating": 57.70060970593349, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 48, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 6, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ckiklyczcz4jmy0vwdhk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ckiklyczcz4jmy0vwdhk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ktie2qe47erztcnvtbdn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ktie2qe47erztcnvtbdn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "q7u4llyr8bschtuxymsr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q7u4llyr8bschtuxymsr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fuswuvic8bgbbqh9ayjk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fuswuvic8bgbbqh9ayjk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fp4wpkw79ley2aze6tgt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fp4wpkw79ley2aze6tgt.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "absolver", 
+    "summary": "Absolver is an online multiplayer combat RPG where players are placed behind the mask of a Prospect under control of the Guides, the new rulers of the fallen Adal Empire, who have placed you here to determine your worth in joining their elite corps of Absolvers.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435468, 
+        268435487, 
+        268435488, 
+        536870973, 
+        536871139, 
+        536871208, 
+        536871938, 
+        536875043, 
+        536875136, 
+        536875680, 
+        536876769, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 66.2169715196334, 
+    "total_rating_count": 23, 
+    "updated_at": 1523391913841, 
+    "url": "https://www.igdb.com/games/absolver", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "FGAsK1YKbk8"
+        }, 
+        {
+            "name": "Friends and Foes Trailer", 
+            "video_id": "Iowi03bJprA"
+        }, 
+        {
+            "name": "Character Customization Trailer", 
+            "video_id": "NInYx0YbHLE"
+        }, 
+        {
+            "name": "Weapons and Powers Trailer", 
+            "video_id": "d5b-4BJ7pfY"
+        }, 
+        {
+            "name": "Stagger Combat Style Trailer", 
+            "video_id": "dS3M8tQtIks"
+        }, 
+        {
+            "name": "Combat Overview Trailer", 
+            "video_id": "nAmI6LmS1YU"
+        }, 
+        {
+            "name": "Developer Gameplay Commentary", 
+            "video_id": "0-uWUd5ANg4"
+        }, 
+        {
+            "name": "Reveal Trailer", 
+            "video_id": "CmOFc5k1nmk"
+        }, 
+        {
+            "name": "PSX 2016 Trailer", 
+            "video_id": "o2s7D2iSLuI"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.absolvergame.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/473690"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/absolver"
+        }
+    ]
+}

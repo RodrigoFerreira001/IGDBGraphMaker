@@ -1,0 +1,75 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "yxzblhthxihexhfsgz1t", 
+        "height": 372, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yxzblhthxihexhfsgz1t.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1453282553071, 
+    "first_release_date": 430790400000, 
+    "games": [
+        11588, 
+        28213, 
+        25217, 
+        19083, 
+        37987, 
+        37797, 
+        37796, 
+        19082, 
+        37980, 
+        37794
+    ], 
+    "genres": [
+        14, 
+        26
+    ], 
+    "id": 16609, 
+    "keywords": [
+        2601, 
+        4134, 
+        4139, 
+        4559
+    ], 
+    "name": "Gomoku Narabe Renju", 
+    "platforms": [
+        99, 
+        18
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        70
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 433468800000, 
+            "human": "1983-Sep-27", 
+            "m": 9, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1983
+        }, 
+        {
+            "category": 0, 
+            "date": 430790400000, 
+            "human": "1983-Aug-27", 
+            "m": 8, 
+            "platform": 99, 
+            "region": 5, 
+            "y": 1983
+        }
+    ], 
+    "slug": "gomoku-narabe-renju", 
+    "summary": "A board game simulation for the Famicom. The goal is to line up five pieces in a row. \n \nGomoku Narabe Renju is a video game simulation of a traditional Eastern board game that uses the board and pieces from the popular board game Go. It plays a lot like the American board game Connect Four, in which the goal is to line up a series of five tiles horizontally, vertically or diagonally before the other player can do the same. Two players take it in turns to place a single Go tile on the board, attempting to craft their own lines while strategically placing tiles that blocks the opponent from finishing theirs. \n \nWhile the normal board game is simply referred to as \"Gomoku Narabe\" (Five Pieces in a Row, occasionally translated as Gobang), the Renju modifier is an additional rule that makes it harder for the player with the black pieces to win. Because the black player always begins each game (like how the white player always begins each game of Chess), this additional rule is thought to even the playing field. The rule is that the black player will lose if they build a line of six or more pieces: this counts as going \"overlong\" and counts as a loss. \n \nGomoku Narabe Renju is the joint-fourth video game ever released on the Famicom, and the joint-first original game produced for the system (the previous three - Donkey Kong, Donkey Kong Jr. and Popeye - were all ports of Arcade games). It was released the same day (August 27th, 1983) as the Famicom version of Mahjong, another board game adaptation.", 
+    "tags": [
+        268435470, 
+        268435482, 
+        536873513, 
+        536875046, 
+        536875051, 
+        536875471
+    ], 
+    "updated_at": 1517270709580, 
+    "url": "https://www.igdb.com/games/gomoku-narabe-renju"
+}

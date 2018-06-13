@@ -1,0 +1,91 @@
+{
+    "aggregated_rating": 40.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "us5qssgyivymswqpmysw", 
+        "height": 281, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/us5qssgyivymswqpmysw.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1469282043781, 
+    "first_release_date": 1289260800000, 
+    "games": [
+        55752, 
+        10039, 
+        68324, 
+        1070, 
+        47823, 
+        26766, 
+        36926, 
+        76723, 
+        12632, 
+        19174
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 21085, 
+    "keywords": [
+        166, 
+        296, 
+        589, 
+        2049, 
+        4239, 
+        5175, 
+        12363
+    ], 
+    "name": "Crescent Pale Mist", 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1289347200000, 
+            "human": "2010-Nov-10", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1289260800000, 
+            "human": "2010-Nov-09", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mxtsstvknqbaoolne4qw", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mxtsstvknqbaoolne4qw.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "crescent-pale-mist", 
+    "summary": "Platforming/Action/SHMUP released by Rockin' Android on the PlayStation Network on November 9th, 2010.", 
+    "tags": [
+        1, 
+        268435464, 
+        536871078, 
+        536871208, 
+        536871501, 
+        536872961, 
+        536875151, 
+        536876087, 
+        536883275
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 40.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1516063157360, 
+    "url": "https://www.igdb.com/games/crescent-pale-mist"
+}

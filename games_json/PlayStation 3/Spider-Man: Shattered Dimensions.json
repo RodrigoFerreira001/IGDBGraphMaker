@@ -1,0 +1,379 @@
+{
+    "aggregated_rating": 74.0, 
+    "aggregated_rating_count": 13, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "SpidermanSpidermanSpidermanSpiderman"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "vxuwiozj9s6fmsgo2xwr", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vxuwiozj9s6fmsgo2xwr.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "lpmckmeigugci0o18sot", 
+            "height": 550, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lpmckmeigugci0o18sot.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "fvrywavendbkexkudvnr", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvrywavendbkexkudvnr.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "at1kixmf1psgb4djo0om", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/at1kixmf1psgb4djo0om.jpg", 
+            "width": 940
+        }, 
+        {
+            "cloudinary_id": "dvg0auu7j6taooduttih", 
+            "height": 1380, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dvg0auu7j6taooduttih.jpg", 
+            "width": 850
+        }
+    ], 
+    "category": 0, 
+    "collection": 108, 
+    "cover": {
+        "cloudinary_id": "nbixvehhjztx4gpjitzu", 
+        "height": 797, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nbixvehhjztx4gpjitzu.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1317711993000, 
+    "developers": [
+        432, 
+        62
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1283817600000, 
+    "franchise": 124, 
+    "franchises": [
+        124, 
+        151
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        55752, 
+        5503, 
+        501, 
+        11156, 
+        21063, 
+        117, 
+        26766, 
+        19565, 
+        21062, 
+        25300
+    ], 
+    "genres": [
+        8, 
+        31
+    ], 
+    "id": 553, 
+    "keywords": [
+        14, 
+        132, 
+        296, 
+        970, 
+        1186, 
+        1193, 
+        1219, 
+        1293, 
+        1440, 
+        1669, 
+        2049, 
+        2387, 
+        3540, 
+        4142, 
+        4161, 
+        4245, 
+        4266, 
+        4297, 
+        4310, 
+        4359, 
+        4398, 
+        4525, 
+        4541, 
+        4673, 
+        4805, 
+        4902, 
+        4907, 
+        5209, 
+        5570, 
+        5581, 
+        5754, 
+        5783, 
+        5791, 
+        5938, 
+        5940, 
+        6340, 
+        6503, 
+        6625, 
+        7334, 
+        7369, 
+        8854, 
+        9448, 
+        11447, 
+        12813, 
+        12814
+    ], 
+    "name": "Spider-Man: Shattered Dimensions", 
+    "platforms": [
+        6, 
+        9, 
+        12, 
+        20, 
+        5
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        66
+    ], 
+    "pulse_count": 1, 
+    "rating": 76.0891093272138, 
+    "rating_count": 18, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1284076800000, 
+            "human": "2010-Sep-10", 
+            "m": 9, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1283817600000, 
+            "human": "2010-Sep-07", 
+            "m": 9, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1284076800000, 
+            "human": "2010-Sep-10", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1283817600000, 
+            "human": "2010-Sep-07", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1283817600000, 
+            "human": "2010-Sep-07", 
+            "m": 9, 
+            "platform": 20, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1283817600000, 
+            "human": "2010-Sep-07", 
+            "m": 9, 
+            "platform": 9, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1283817600000, 
+            "human": "2010-Sep-07", 
+            "m": 9, 
+            "platform": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1283817600000, 
+            "human": "2010-Sep-07", 
+            "m": 9, 
+            "platform": 12, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1290643200000, 
+            "human": "2010-Nov-25", 
+            "m": 11, 
+            "platform": 6, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hymce0qhbitqx7j4gle1", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hymce0qhbitqx7j4gle1.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "yfixbalpawxjp27z5p2n", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yfixbalpawxjp27z5p2n.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "wfoble1el61orunec2yk", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wfoble1el61orunec2yk.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "au9njr51cyc65i1kulfz", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/au9njr51cyc65i1kulfz.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "c6sawpyd0xfxdlfotgdm", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c6sawpyd0xfxdlfotgdm.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "zxmmuuwzvqooxmkv0jgb", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zxmmuuwzvqooxmkv0jgb.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "mdkhg5pfygklr9wnbn9s", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mdkhg5pfygklr9wnbn9s.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "covv30lpi5jsyxfu2got", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/covv30lpi5jsyxfu2got.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "eg62itrv2j6srii11f2o", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eg62itrv2j6srii11f2o.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "m4dpw9lzc1j7jcx4o861", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m4dpw9lzc1j7jcx4o861.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "qwfe5zs2yc5uw50venug", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qwfe5zs2yc5uw50venug.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "jreflkxz5vxixuecitl2", 
+            "height": 366, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jreflkxz5vxixuecitl2.jpg", 
+            "width": 650
+        }
+    ], 
+    "slug": "spider-man-shattered-dimensions", 
+    "summary": "Spider-Man: Shattered Dimensions blends together the many alternate universes of the world-famous webslinger with four unique takes on Spider-Man's history in comics. In the game, Spider-Man attempts to retrieve a piece of a tablet that's been scattered across multiple parallel dimensions, and in doing so he crosses over to storylines famous to comic book aficionados as variant tellings (including The Amazing Spider-Man, Spider-Man 2099, Spider-Man Noir & Ultimate Spider-Man) of the Spider-Man mythology.", 
+    "tags": [
+        1, 
+        18, 
+        23, 
+        268435464, 
+        268435487, 
+        536870926, 
+        536871044, 
+        536871208, 
+        536871882, 
+        536872098, 
+        536872105, 
+        536872131, 
+        536872205, 
+        536872352, 
+        536872581, 
+        536872961, 
+        536873299, 
+        536874452, 
+        536875054, 
+        536875073, 
+        536875157, 
+        536875178, 
+        536875209, 
+        536875222, 
+        536875271, 
+        536875310, 
+        536875437, 
+        536875453, 
+        536875585, 
+        536875717, 
+        536875814, 
+        536875819, 
+        536876121, 
+        536876482, 
+        536876493, 
+        536876666, 
+        536876695, 
+        536876703, 
+        536876850, 
+        536876852, 
+        536877252, 
+        536877415, 
+        536877537, 
+        536878246, 
+        536878281, 
+        536879766, 
+        536880360, 
+        536882359, 
+        536883725, 
+        536883726, 
+        1073741825, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18, 
+        23
+    ], 
+    "total_rating": 75.0445546636069, 
+    "total_rating_count": 31, 
+    "updated_at": 1525457811099, 
+    "url": "https://www.igdb.com/games/spider-man-shattered-dimensions", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "90BmP93b1pQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://spidermandimensions.marvel.com/"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "aggregated_rating": 82.4, 
+    "aggregated_rating_count": 5, 
+    "category": 0, 
+    "collection": 2656, 
+    "cover": {
+        "cloudinary_id": "ae3klarrggr6inozagcj", 
+        "height": 950, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ae3klarrggr6inozagcj.jpg", 
+        "width": 690
+    }, 
+    "created_at": 1455281730799, 
+    "developers": [
+        8900
+    ], 
+    "external": {
+        "steam": "314070"
+    }, 
+    "first_release_date": 1436054400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        28465, 
+        34919, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        28277, 
+        32283, 
+        44087, 
+        55715
+    ], 
+    "genres": [
+        13, 
+        14, 
+        32
+    ], 
+    "id": 17648, 
+    "keywords": [
+        20
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Super Mega Baseball: Extra Innings", 
+    "platforms": [
+        6, 
+        9, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        8900
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1439510400000, 
+            "human": "2015-Aug-14", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1455580800000, 
+            "human": "2016-Feb-16", 
+            "m": 2, 
+            "platform": 9, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1446681600000, 
+            "human": "2015-Nov-05", 
+            "m": 11, 
+            "platform": 48, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439510400000, 
+            "human": "2015-Aug-14", 
+            "m": 8, 
+            "platform": 49, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1436054400000, 
+            "human": "2015-Jul-05", 
+            "m": 7, 
+            "platform": 6, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "sn0zgwetmf1414wtlfhw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sn0zgwetmf1414wtlfhw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ddlsus0itw3ahaqy01pb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ddlsus0itw3ahaqy01pb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "oykgk0yqeiri2zwgttht", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oykgk0yqeiri2zwgttht.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vesdsp5h5yahpncg6qhi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vesdsp5h5yahpncg6qhi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "k3hej9oyd1vbzhu9uosn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k3hej9oyd1vbzhu9uosn.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "super-mega-baseball-extra-innings", 
+    "summary": "Tight controls and a smooth learning curve will have you knocking it out of the park in no time in this awesome arcade baseball simulator. Polygon\u2019s 2014 Sports Game of the Year.", 
+    "tags": [
+        268435469, 
+        268435470, 
+        268435488, 
+        536870932, 
+        1073741826
+    ], 
+    "total_rating": 81.2, 
+    "total_rating_count": 5, 
+    "updated_at": 1528358474428, 
+    "url": "https://www.igdb.com/games/super-mega-baseball-extra-innings", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "uybKWmuG7dk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://supermegabaseball.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/314070"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "aggregated_rating": 72.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ibi2qqz7mzrowenrdk8h", 
+        "height": 260, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ibi2qqz7mzrowenrdk8h.jpg", 
+        "width": 217
+    }, 
+    "created_at": 1472031785475, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1296691200000, 
+    "games": [
+        19448, 
+        11423, 
+        55803, 
+        13163, 
+        29730, 
+        55935, 
+        13189, 
+        17001, 
+        28380, 
+        22425
+    ], 
+    "genres": [
+        25, 
+        31
+    ], 
+    "id": 22947, 
+    "keywords": [
+        78, 
+        982, 
+        1027, 
+        1293, 
+        1986, 
+        4134, 
+        4145, 
+        4239, 
+        4525, 
+        4698, 
+        5325, 
+        5354, 
+        5450, 
+        7369, 
+        7387, 
+        8975, 
+        11208, 
+        12991
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Islands of Wakfu", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1296691200000, 
+            "human": "2011-Feb-03", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "slug": "islands-of-wakfu", 
+    "summary": "Islands of Wakfu, its 1st offering for the latest generation of game consoles. Islands of Wakfu, which is the most recent addition to ANKAMA\u2019s crossmedia universe, retains DOFUS and Wakfu\u2019s graphic touch, but adds the feel of an animated cartoon.", 
+    "tags": [
+        268435481, 
+        268435487, 
+        536870990, 
+        536871894, 
+        536871939, 
+        536872205, 
+        536872898, 
+        536875046, 
+        536875057, 
+        536875151, 
+        536875437, 
+        536875610, 
+        536876237, 
+        536876266, 
+        536876362, 
+        536878281, 
+        536878299, 
+        536879887, 
+        536882120, 
+        536883903
+    ], 
+    "total_rating": 72.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1515757481340, 
+    "url": "https://www.igdb.com/games/islands-of-wakfu"
+}

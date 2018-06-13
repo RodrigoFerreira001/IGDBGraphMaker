@@ -1,0 +1,61 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "gf148q7t7bvgpdvd5yri", 
+        "height": 326, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gf148q7t7bvgpdvd5yri.jpg", 
+        "width": 362
+    }, 
+    "created_at": 1517397704160, 
+    "first_release_date": 1340236800000, 
+    "id": 85255, 
+    "name": "Lola's Fruit Shop Sudoku", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1340841600000, 
+            "human": "2012-Jun-28", 
+            "m": 6, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1340236800000, 
+            "human": "2012-Jun-21", 
+            "m": 6, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "x23v6j3j4qpucagvojwh", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x23v6j3j4qpucagvojwh.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "ucxzcl2m3tg64rqbdyvb", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ucxzcl2m3tg64rqbdyvb.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "kxpo5ha0syaz8hbzcbgo", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kxpo5ha0syaz8hbzcbgo.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "lolas-fruit-shop-sudoku", 
+    "summary": "Lola Panda does it again \u2013 making it fun to develop logical thinking!", 
+    "updated_at": 1518069585026, 
+    "url": "https://www.igdb.com/games/lolas-fruit-shop-sudoku"
+}

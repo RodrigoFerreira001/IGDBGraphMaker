@@ -1,0 +1,409 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Diablo 3: Reaper of Souls - Ultimate Evil Edition"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Diablo 3: Ultimate Evil Edition"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Diablo III: Reaper of Souls - Ultimate Evil Edition"
+        }, 
+        {
+            "name": "Diablo III - Ultimate Evil Edition"
+        }
+    ], 
+    "category": 4, 
+    "collection": 24, 
+    "cover": {
+        "cloudinary_id": "hzuk3rgitj3foa5ojeg6", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hzuk3rgitj3foa5ojeg6.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1499868526176, 
+    "developers": [
+        51
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1408406400000, 
+    "game": 120, 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        1907, 
+        120, 
+        1593, 
+        1911, 
+        23198, 
+        7329, 
+        7334, 
+        18822, 
+        6452, 
+        7346
+    ], 
+    "genres": [
+        12, 
+        15, 
+        25, 
+        31
+    ], 
+    "id": 47452, 
+    "keywords": [
+        16, 
+        147, 
+        296, 
+        332, 
+        510, 
+        584, 
+        701, 
+        816, 
+        960, 
+        1026, 
+        1102, 
+        1120, 
+        1422, 
+        1513, 
+        1735, 
+        1986, 
+        2002, 
+        2381, 
+        2910, 
+        3203, 
+        4179, 
+        4245, 
+        4257, 
+        4282, 
+        4284, 
+        4351, 
+        4357, 
+        4389, 
+        4486, 
+        4488, 
+        4543, 
+        4545, 
+        4584, 
+        4699, 
+        4826, 
+        4843, 
+        4852, 
+        4866, 
+        4877, 
+        4878, 
+        4918, 
+        4942, 
+        4956, 
+        5022, 
+        5029, 
+        5040, 
+        5095, 
+        5115, 
+        5124, 
+        5308, 
+        5315, 
+        5316, 
+        5317, 
+        5320, 
+        5321, 
+        5323, 
+        5327, 
+        5369, 
+        5600, 
+        5694, 
+        5695, 
+        5792, 
+        5818, 
+        5988, 
+        6253, 
+        6295, 
+        6541, 
+        6543, 
+        6648, 
+        6656, 
+        6682, 
+        7096, 
+        7133, 
+        7160, 
+        7161, 
+        7163, 
+        7509, 
+        7611, 
+        8158, 
+        8242, 
+        9555, 
+        9737, 
+        10210, 
+        11511, 
+        11572, 
+        13048, 
+        16826
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 4, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Diablo III: Reaper of Souls - Ultimate Evil Edition", 
+    "pegi": {
+        "rating": 4
+    }, 
+    "platforms": [
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        51
+    ], 
+    "rating": 83.39130703486919, 
+    "rating_count": 5, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "e3nsg4bqdqguqpp4imbr", 
+            "height": 396, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e3nsg4bqdqguqpp4imbr.jpg", 
+            "width": 704
+        }, 
+        {
+            "cloudinary_id": "p8mq5i9zzdllskolp7b1", 
+            "height": 396, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p8mq5i9zzdllskolp7b1.jpg", 
+            "width": 704
+        }, 
+        {
+            "cloudinary_id": "vu5bekeqzrfoavn8tzmt", 
+            "height": 396, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vu5bekeqzrfoavn8tzmt.jpg", 
+            "width": 704
+        }, 
+        {
+            "cloudinary_id": "tzahl68ngiqj8ubn9erm", 
+            "height": 396, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tzahl68ngiqj8ubn9erm.jpg", 
+            "width": 704
+        }
+    ], 
+    "slug": "diablo-iii-reaper-of-souls-ultimate-evil-edition", 
+    "summary": "Xbox 360 players can experience the full adventure of Blizzard\u2019s epic action RPG, Diablo III, as the Diablo III: Ultimate Evil Edition includes the expansion pack Reaper of Souls! Bringing the world of Diablo back to Xboxgamers, this edition of Diablo III features special four-player co-op features. With the wireless controller and a custom-designed console interface, players will be outfitted with touch pad functionality and new social features as they engage in pulse-pounding combat with hordes of monsters and acquire items of incredible power. \n \nDiablo III picks up the story twenty years after the events of Diablo II. Mephisto, Diablo, and Baal have been defeated, but the Worldstone, which once shielded the inhabitants of the world of Sanctuary from the forces of both Heaven and Hell, has been destroyed, and evil once again stirs in Tristram. Take on the role of one of six powerful character classes -- Barbarian, Demon Hunter, Monk, Witch Doctor, Wizard, or the all-new Crusader -- and embark on a dark journey through Acts I-V to save the world of Sanctuary from ancient and sinister forces. Players will acquire powerful items, spells, and abilities as they explore new and familiar areas of Sanctuary and battle hordes of demons to safeguard the world from the horrors that have arisen.", 
+    "tags": [
+        1, 
+        17, 
+        19, 
+        268435468, 
+        268435471, 
+        268435481, 
+        268435487, 
+        536870928, 
+        536871059, 
+        536871208, 
+        536871244, 
+        536871422, 
+        536871496, 
+        536871613, 
+        536871728, 
+        536871872, 
+        536871938, 
+        536872014, 
+        536872032, 
+        536872334, 
+        536872425, 
+        536872647, 
+        536872898, 
+        536872914, 
+        536873293, 
+        536873822, 
+        536874115, 
+        536875091, 
+        536875157, 
+        536875169, 
+        536875194, 
+        536875196, 
+        536875263, 
+        536875269, 
+        536875301, 
+        536875398, 
+        536875400, 
+        536875455, 
+        536875457, 
+        536875496, 
+        536875611, 
+        536875738, 
+        536875755, 
+        536875764, 
+        536875778, 
+        536875789, 
+        536875790, 
+        536875830, 
+        536875854, 
+        536875868, 
+        536875934, 
+        536875941, 
+        536875952, 
+        536876007, 
+        536876027, 
+        536876036, 
+        536876220, 
+        536876227, 
+        536876228, 
+        536876229, 
+        536876232, 
+        536876233, 
+        536876235, 
+        536876239, 
+        536876281, 
+        536876512, 
+        536876606, 
+        536876607, 
+        536876704, 
+        536876730, 
+        536876900, 
+        536877165, 
+        536877207, 
+        536877453, 
+        536877455, 
+        536877560, 
+        536877568, 
+        536877594, 
+        536878008, 
+        536878045, 
+        536878072, 
+        536878073, 
+        536878075, 
+        536878421, 
+        536878523, 
+        536879070, 
+        536879154, 
+        536880467, 
+        536880649, 
+        536881122, 
+        536882423, 
+        536882484, 
+        536883960, 
+        536887738, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        17, 
+        19
+    ], 
+    "total_rating": 83.39130703486919, 
+    "total_rating_count": 5, 
+    "updated_at": 1527692692621, 
+    "url": "https://www.igdb.com/games/diablo-iii-reaper-of-souls-ultimate-evil-edition", 
+    "version_parent": 3182, 
+    "version_title": "Ultimate Evil Edition", 
+    "videos": [
+        {
+            "name": "Teaser", 
+            "video_id": "zGp5dkJdi0w"
+        }, 
+        {
+            "name": "Cinematic", 
+            "video_id": "Cb7QJwQ58T0"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "yT4TucaLkyY"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/diablo"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Diablo_III:_Reaper_of_Souls"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://us.battle.net/d3/en/"
+        }
+    ]
+}

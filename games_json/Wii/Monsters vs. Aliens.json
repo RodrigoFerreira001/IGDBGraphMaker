@@ -1,0 +1,183 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "poyrndgsb3dluaychnbv", 
+        "height": 319, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/poyrndgsb3dluaychnbv.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1391722894191, 
+    "developers": [
+        432, 
+        1326
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1237852800000, 
+    "franchise": 330, 
+    "franchises": [
+        330
+    ], 
+    "game_modes": [
+        1, 
+        3, 
+        4
+    ], 
+    "games": [
+        23175, 
+        47823, 
+        25300, 
+        36856, 
+        59516, 
+        7349, 
+        17001, 
+        25311, 
+        1936, 
+        25646
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 5021, 
+    "keywords": [
+        3, 
+        686, 
+        1033, 
+        1186, 
+        1293, 
+        1563, 
+        4142, 
+        4162, 
+        4353, 
+        4380, 
+        4382, 
+        4492, 
+        4525, 
+        4678, 
+        4843
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Monsters vs. Aliens", 
+    "platforms": [
+        6, 
+        9, 
+        12, 
+        20, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        66
+    ], 
+    "rating": 75.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1237852800000, 
+            "human": "2009-Mar-24", 
+            "m": 3, 
+            "platform": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1237852800000, 
+            "human": "2009-Mar-24", 
+            "m": 3, 
+            "platform": 6, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1237852800000, 
+            "human": "2009-Mar-24", 
+            "m": 3, 
+            "platform": 8, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1237852800000, 
+            "human": "2009-Mar-24", 
+            "m": 3, 
+            "platform": 9, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1237852800000, 
+            "human": "2009-Mar-24", 
+            "m": 3, 
+            "platform": 12, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1237852800000, 
+            "human": "2009-Mar-24", 
+            "m": 3, 
+            "platform": 20, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xauu5tfx3vxdbeijtzjm", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xauu5tfx3vxdbeijtzjm.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "monsters-vs-aliens", 
+    "summary": "Monsters vs. Aliens is a 2009 video game based on the film with the same name. The game was released on March 24, 2009 on Microsoft Windows, PlayStation 3, Xbox 360, Nintendo DS, PlayStation 2, and Wii. \n \nThe game, developed by Beenox on all platforms except the Nintendo DS which was developed by Amaze Entertainment, allows users to play through scenes from the movie as Ginormica, B.O.B., and The Missing Link, and features drop-in/out co-op. \n \nA significant feature has Reese Witherspoon, Seth Rogen, Will Arnett, and Rainn Wilson reprising their roles from the movie, however Hugh Laurie & Kiefer Sutherland do not, they are replaced by James Horan & Fred Tatasciore respectively. \n \nThis is the last DreamWorks Animation game to be released for PlayStation 2. \n \nIt is also the last DreamWorks Animation game to be developed by Beenox.", 
+    "tags": [
+        1, 
+        268435487, 
+        536870915, 
+        536871598, 
+        536871945, 
+        536872098, 
+        536872205, 
+        536872475, 
+        536875054, 
+        536875074, 
+        536875265, 
+        536875292, 
+        536875294, 
+        536875404, 
+        536875437, 
+        536875590, 
+        536875755, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1515742402590, 
+    "url": "https://www.igdb.com/games/monsters-vs-aliens"
+}

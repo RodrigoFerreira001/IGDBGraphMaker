@@ -1,0 +1,448 @@
+{
+    "aggregated_rating": 82.0, 
+    "aggregated_rating_count": 11, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Oddworld: Abe's Oddysee HD"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Oddworld: Abe's Oddysee New and Tasty"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Oddworld: Abe's Oddysee New 'n Tasty"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Oddworld: Abe's Oddysee New n' Tasty"
+        }, 
+        {
+            "name": "Abe's Oddysee HD"
+        }, 
+        {
+            "name": "Oddworld: Abe's Oddysee \u2013 New 'n' Tasty!"
+        }
+    ], 
+    "category": 0, 
+    "collection": 223, 
+    "cover": {
+        "cloudinary_id": "tczuyb3dop9u9eihnhbj", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tczuyb3dop9u9eihnhbj.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1394316158804, 
+    "developers": [
+        728
+    ], 
+    "dlcs": [
+        26110
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "314660"
+    }, 
+    "first_release_date": 1405987200000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        6732, 
+        72373, 
+        55752, 
+        7344, 
+        18822, 
+        7329, 
+        18167, 
+        19448, 
+        25311, 
+        25300
+    ], 
+    "genres": [
+        8, 
+        9, 
+        31, 
+        32
+    ], 
+    "hypes": 3, 
+    "id": 5552, 
+    "keywords": [
+        296, 
+        350, 
+        589, 
+        939, 
+        1507, 
+        1886, 
+        2049, 
+        3061, 
+        4035, 
+        4134, 
+        4148, 
+        4169, 
+        4345, 
+        4359, 
+        4446, 
+        4481, 
+        4626, 
+        4870, 
+        5210, 
+        5315, 
+        5379, 
+        5638, 
+        5775, 
+        6393, 
+        6396, 
+        7059, 
+        9956, 
+        9957, 
+        9958, 
+        9959
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Oddworld: New 'n' Tasty", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Realistic looking violence towards non human looking characters - Mild bad language"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        39, 
+        14, 
+        41, 
+        46, 
+        9, 
+        48, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        727
+    ], 
+    "pulse_count": 3, 
+    "rating": 75.9378183472115, 
+    "rating_count": 18, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1513209600000, 
+            "human": "2017-Dec-14", 
+            "m": 12, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1455148800000, 
+            "human": "2016-Feb-11", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1455148800000, 
+            "human": "2016-Feb-11", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1427414400000, 
+            "human": "2015-Mar-27", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1406073600000, 
+            "human": "2014-Jul-23", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1405987200000, 
+            "human": "2014-Jul-22", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1405987200000, 
+            "human": "2014-Jul-22", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1406073600000, 
+            "human": "2014-Jul-23", 
+            "m": 7, 
+            "platform": 45, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1405987200000, 
+            "human": "2014-Jul-22", 
+            "m": 7, 
+            "platform": 48, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1424822400000, 
+            "human": "2015-Feb-25", 
+            "m": 2, 
+            "platform": 6, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424822400000, 
+            "human": "2015-Feb-25", 
+            "m": 2, 
+            "platform": 14, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424822400000, 
+            "human": "2015-Feb-25", 
+            "m": 2, 
+            "platform": 3, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1455148800000, 
+            "human": "2016-Feb-11", 
+            "m": 2, 
+            "platform": 41, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1429574400000, 
+            "human": "2015-Apr-21", 
+            "m": 4, 
+            "platform": 9, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1453161600000, 
+            "human": "2016-Jan-19", 
+            "m": 1, 
+            "platform": 46, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1427414400000, 
+            "human": "2015-Mar-27", 
+            "m": 3, 
+            "platform": 49, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "co7fh7mxgacvpb90ietg", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7fh7mxgacvpb90ietg.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "bcnwmdjpneqsdyilegmy", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bcnwmdjpneqsdyilegmy.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "qashvmrl9dnoryawmaas", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qashvmrl9dnoryawmaas.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "uop517csd5gs66d44z7w", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uop517csd5gs66d44z7w.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "nb3b71vtpny9ilvkjerr", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nb3b71vtpny9ilvkjerr.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "srxuv3eya0glowp9mirm", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/srxuv3eya0glowp9mirm.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "ivrk9d74lrazasxglmzi", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ivrk9d74lrazasxglmzi.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qgz7tegce2f3obrqdbkx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qgz7tegce2f3obrqdbkx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ontbrxv0uqtefb1ofu8q", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ontbrxv0uqtefb1ofu8q.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "p58z995e0s6ecbeoslvm", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p58z995e0s6ecbeoslvm.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "miyalyfjkllz4asbjsdz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/miyalyfjkllz4asbjsdz.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "oddworld-new-n-tasty", 
+    "storyline": "A mudokon chosen by the fickle finger of fate, Abe was a first class Floor-Waxer for RuptureFarms who was catapulted into a life of adventure. Late one night he overheard plans from his boss, Molluck the Glukkon, to turn Abe and his fellow Mudokons into Tasty Treats as a final effort to rescue Molluck's failing meatpacking empire!Can Abe change the fate of thousands and rescue the Mudokons? Can he escape the dark recesses of RuptureFarms and the desolate, uninviting, and downright terrifying surrounding environment?Lead our unlikely hero on his mission because if he doesn\u2019t make it\u2026 Abe\u2019s back on the menu!", 
+    "summary": "Explore ancient ruins, dodge carnivorous beasts and avoid trigger-happy hunting parties as Abe, the original Oddworld hero in this lovingly re-crafted take on PlayStation\u00ae classic Abe's Oddysee. Once a happy floor waxer in Oddworld's biggest meat processing plant, Abe stumbles across his boss's secret plan to turn the factory's slave labor force into the latest in the RuptureFarms Tasty Treats line of novelty meat snacks. Abe now has to save his own skin from the grinders even if simply escaping the flesh farm is only the start of his Oddysee. Many dangers await Abe on his journey to discover his people's heritage. Built from the ground up, enjoy breathtaking visuals, enhanced audio and improved, deeper gameplay as New 'n' Tasty reignites the original Oddworld game using the latest next-generation technology.", 
+    "tags": [
+        1, 
+        18, 
+        23, 
+        27, 
+        268435464, 
+        268435465, 
+        268435487, 
+        268435488, 
+        536871208, 
+        536871262, 
+        536871501, 
+        536871851, 
+        536872419, 
+        536872798, 
+        536872961, 
+        536873973, 
+        536874947, 
+        536875046, 
+        536875060, 
+        536875081, 
+        536875257, 
+        536875271, 
+        536875358, 
+        536875393, 
+        536875538, 
+        536875782, 
+        536876122, 
+        536876227, 
+        536876291, 
+        536876550, 
+        536876687, 
+        536877305, 
+        536877308, 
+        536877971, 
+        536880868, 
+        536880869, 
+        536880870, 
+        536880871, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18, 
+        23, 
+        27
+    ], 
+    "total_rating": 78.96890917360575, 
+    "total_rating_count": 29, 
+    "updated_at": 1528430968212, 
+    "url": "https://www.igdb.com/games/oddworld-new-n-tasty", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "wdIsVgAOoRQ"
+        }, 
+        {
+            "name": "Story Trailer", 
+            "video_id": "kk5u4X2zZeQ"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "-zUDSee0_Do"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/oddworld-new-n-tasty/id1090133581?mt=8&uo=4"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/314660"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.oddworld.com/"
+        }
+    ]
+}

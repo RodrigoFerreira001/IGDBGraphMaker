@@ -1,0 +1,123 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "f6f9huv3smpacycgowfg", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/f6f9huv3smpacycgowfg.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1462590214246, 
+    "external": {
+        "steam": "463290"
+    }, 
+    "first_release_date": 1462147200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19376, 
+        18918, 
+        19448, 
+        19290, 
+        25211, 
+        19934, 
+        19301, 
+        76110, 
+        11176, 
+        22747
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 19042, 
+    "keywords": [
+        117, 
+        4131, 
+        4134, 
+        4234, 
+        4253
+    ], 
+    "name": "Kismet", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        11035
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1476316800000, 
+            "human": "2016-Oct-13", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1462147200000, 
+            "human": "2016-May-02", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mvdq0zrzdismtmfclle5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mvdq0zrzdismtmfclle5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qbz0jhwgnlin5uhogdbw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qbz0jhwgnlin5uhogdbw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qpjkkvxx9ehzwtg4y5ei", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qpjkkvxx9ehzwtg4y5ei.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kfi5gpyffydke3lfxnvw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kfi5gpyffydke3lfxnvw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ma0hzlnysod1vprxkkam", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ma0hzlnysod1vprxkkam.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "kismet", 
+    "summary": "Kismet is a daily VR fortune-teller experience inspired by the mystic arts of tarot and astrology, brought to life in a beautifully detailed, handmade, Gothic style.", 
+    "tags": [
+        268435488, 
+        536871029, 
+        536875043, 
+        536875046, 
+        536875146, 
+        536875165, 
+        1073741831
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1523394494832, 
+    "url": "https://www.igdb.com/games/kismet"
+}

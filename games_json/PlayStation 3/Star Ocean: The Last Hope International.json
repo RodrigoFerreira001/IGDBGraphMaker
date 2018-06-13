@@ -1,0 +1,119 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 973, 
+    "cover": {
+        "cloudinary_id": "ltftegadsn9wls4glzli", 
+        "height": 737, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ltftegadsn9wls4glzli.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1469802770612, 
+    "developers": [
+        1983
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1265241600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        90099, 
+        103020, 
+        49414, 
+        25311, 
+        27922, 
+        25636, 
+        36608, 
+        12632, 
+        103286, 
+        18811
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 21750, 
+    "keywords": [
+        521
+    ], 
+    "name": "Star Ocean: The Last Hope International", 
+    "platforms": [
+        9
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.666666666666667, 
+    "publishers": [
+        26
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1265241600000, 
+            "human": "2010-Feb-04", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1265673600000, 
+            "human": "2010-Feb-09", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1265932800000, 
+            "human": "2010-Feb-12", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1265932800000, 
+            "human": "2010-Feb-12", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qttwqmdozkcv9bhevivc", 
+            "height": 180, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qttwqmdozkcv9bhevivc.jpg", 
+            "width": 300
+        }
+    ], 
+    "slug": "star-ocean-the-last-hope-international", 
+    "tags": [
+        18, 
+        268435468, 
+        536871433, 
+        1073741826
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 4, 
+    "updated_at": 1528780727839, 
+    "url": "https://www.igdb.com/games/star-ocean-the-last-hope-international", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "ucQBvE7NRAo"
+        }
+    ]
+}

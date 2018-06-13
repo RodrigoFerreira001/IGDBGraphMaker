@@ -1,0 +1,217 @@
+{
+    "aggregated_rating": 60.8333333333333, 
+    "aggregated_rating_count": 8, 
+    "category": 0, 
+    "collection": 372, 
+    "cover": {
+        "cloudinary_id": "ofwgwlpbepxye6otuwvk", 
+        "height": 720, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ofwgwlpbepxye6otuwvk.jpg", 
+        "width": 1280
+    }, 
+    "created_at": 1429217522021, 
+    "developers": [
+        7212
+    ], 
+    "external": {
+        "steam": "238370"
+    }, 
+    "first_release_date": 1432598400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        47823, 
+        26766, 
+        36926, 
+        7329, 
+        37088, 
+        12632, 
+        28380, 
+        16468, 
+        36534, 
+        59516
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "id": 9807, 
+    "keywords": [
+        296, 
+        350, 
+        547, 
+        815, 
+        2071, 
+        4609, 
+        4726, 
+        5315, 
+        5316, 
+        5317, 
+        5845
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": true, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Magicka 2", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        517
+    ], 
+    "pulse_count": 1, 
+    "rating": 74.7510919889844, 
+    "rating_count": 15, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1432684800000, 
+            "human": "2015-May-27", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1432598400000, 
+            "human": "2015-May-26", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1432684800000, 
+            "human": "2015-May-27", 
+            "m": 5, 
+            "platform": 48, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1432598400000, 
+            "human": "2015-May-26", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "btxv2f7ialx9d5hymdq5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/btxv2f7ialx9d5hymdq5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "x7axkjra8zipt3j8rdjv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x7axkjra8zipt3j8rdjv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "swe6g7ooc6wgnbpvunix", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/swe6g7ooc6wgnbpvunix.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dks8mmnwhbtqvu7tii7m", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dks8mmnwhbtqvu7tii7m.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pg6rvl999dydno3y1ssb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pg6rvl999dydno3y1ssb.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "magicka-2", 
+    "summary": "The world\u2019s most irreverent co-op action adventure returns! To rid the world of evil, again, up to four Wizards, and their guide Vlad, will traverse Midg\u00e5rd armed with the next iteration of the famous Magicka dynamic spellcasting system, as players reprise their roles as the most overpowered, unpredictably funny Wizards ever known to fantasy!", 
+    "tags": [
+        1, 
+        17, 
+        27, 
+        268435468, 
+        268435487, 
+        536871208, 
+        536871262, 
+        536871459, 
+        536871727, 
+        536872983, 
+        536875521, 
+        536875638, 
+        536876227, 
+        536876228, 
+        536876229, 
+        536876757, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        17, 
+        27
+    ], 
+    "total_rating": 67.79221266115886, 
+    "total_rating_count": 23, 
+    "updated_at": 1528389553609, 
+    "url": "https://www.igdb.com/games/magicka-2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "CNODcpGnxVY"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "-ehtQ5F4L_U"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "uvGbZamcaOQ"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "tLqkAFnm-c0"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "cDj6bjvDiY0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/238370"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.magicka2.com"
+        }
+    ]
+}

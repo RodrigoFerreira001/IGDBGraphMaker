@@ -1,0 +1,72 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 3, 
+    "category": 1, 
+    "collection": 1956, 
+    "cover": {
+        "cloudinary_id": "ciulxvnbg6yru39lk2o5", 
+        "height": 1999, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ciulxvnbg6yru39lk2o5.jpg", 
+        "width": 1579
+    }, 
+    "created_at": 1471273470535, 
+    "first_release_date": 1314057600000, 
+    "game": 545, 
+    "id": 22553, 
+    "name": "Call of Duty: Black Ops - Rezurrection", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1316649600000, 
+            "human": "2011-Sep-22", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1316649600000, 
+            "human": "2011-Sep-22", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1314057600000, 
+            "human": "2011-Aug-23", 
+            "m": 8, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dceqqlsev82dy6uldgbp", 
+            "height": 189, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dceqqlsev82dy6uldgbp.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "call-of-duty-black-ops-rezurrection", 
+    "summary": "Rezurrection is the last Call of Duty: Black Ops DLC.", 
+    "total_rating": 50.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1493745506984, 
+    "url": "https://www.igdb.com/games/call-of-duty-black-ops-rezurrection", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://callofduty.wikia.com/wiki/Rezurrection"
+        }
+    ]
+}

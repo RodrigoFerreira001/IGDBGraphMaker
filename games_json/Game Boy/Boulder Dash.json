@@ -1,0 +1,435 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30d0\u30eb\u30c0\u30fc\u30c0\u30c3\u30b7\u30e5 Barud\u0101 Dasshu"
+        }
+    ], 
+    "category": 0, 
+    "collection": 1756, 
+    "cover": {
+        "cloudinary_id": "gzxrzll1ed53rjjqt0vi", 
+        "height": 2210, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gzxrzll1ed53rjjqt0vi.jpg", 
+        "width": 1519
+    }, 
+    "created_at": 1443115573617, 
+    "developers": [
+        13305, 
+        4886
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 465436800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        12943, 
+        26217, 
+        6732, 
+        51485, 
+        78733, 
+        10039, 
+        37094, 
+        7344, 
+        25222, 
+        25646
+    ], 
+    "genres": [
+        8, 
+        9, 
+        33
+    ], 
+    "id": 12942, 
+    "keywords": [
+        126, 
+        137, 
+        501, 
+        966, 
+        1846, 
+        2177, 
+        2875, 
+        3835, 
+        4134, 
+        4401, 
+        4431, 
+        4476, 
+        4522, 
+        4778, 
+        5093, 
+        5293, 
+        5436, 
+        5855, 
+        7658
+    ], 
+    "name": "Boulder Dash", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        68, 
+        34, 
+        52, 
+        63, 
+        6, 
+        134, 
+        39, 
+        69, 
+        13, 
+        65, 
+        75, 
+        152, 
+        125, 
+        15, 
+        26, 
+        25, 
+        33, 
+        5, 
+        18, 
+        27
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.666666666666667, 
+    "publishers": [
+        10329, 
+        4076, 
+        13305, 
+        4886, 
+        9512, 
+        2523, 
+        1, 
+        4290, 
+        10940, 
+        2678, 
+        10941
+    ], 
+    "rating": 80.13324455333571, 
+    "rating_count": 8, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1221782400000, 
+            "human": "2008-Sep-19", 
+            "m": 9, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1243814400000, 
+            "human": "2009-Jun-01", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 468115200000, 
+            "human": "1984-Nov-01", 
+            "m": 11, 
+            "platform": 152, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 0, 
+            "date": 465436800000, 
+            "human": "1984-Oct-01", 
+            "m": 10, 
+            "platform": 125, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 134, 
+            "region": 1, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 1390262400000, 
+            "human": "2014-Jan-21", 
+            "m": 1, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1390262400000, 
+            "human": "2014-Jan-21", 
+            "m": 1, 
+            "platform": 34, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1474675200000, 
+            "human": "2016-Sep-24", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 25, 
+            "region": 1, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 75, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 65, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 2, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 69, 
+            "region": 1, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 68, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 0, 
+            "date": 653875200000, 
+            "human": "1990-Sep-21", 
+            "m": 9, 
+            "platform": 33, 
+            "region": 5, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 27, 
+            "region": 2, 
+            "y": 1985
+        }, 
+        {
+            "category": 0, 
+            "date": 638150400000, 
+            "human": "1990-Mar-23", 
+            "m": 3, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 2, 
+            "y": 1984
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jtqcwwpx6l8ukawczkgs", 
+            "height": 198, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jtqcwwpx6l8ukawczkgs.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "rdd9qaqjutxa5ytuyw9f", 
+            "height": 198, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rdd9qaqjutxa5ytuyw9f.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "urmczgtay5fdzeahlqbv", 
+            "height": 198, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/urmczgtay5fdzeahlqbv.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "yeoyff3in2uqfncl4pht", 
+            "height": 198, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yeoyff3in2uqfncl4pht.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "p0xwvt93x3ff8togc8sx", 
+            "height": 198, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p0xwvt93x3ff8togc8sx.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "f4hmawf4bwnunb8fuv2k", 
+            "height": 198, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f4hmawf4bwnunb8fuv2k.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "i09vlxvleee8s09tktco", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i09vlxvleee8s09tktco.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "ktbyxt2xiditdilrkkui", 
+            "height": 200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ktbyxt2xiditdilrkkui.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "okxipajqhfrygdjjzhdu", 
+            "height": 200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/okxipajqhfrygdjjzhdu.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "mk85bge7azmgl5mgxdgt", 
+            "height": 200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mk85bge7azmgl5mgxdgt.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "boulder-dash", 
+    "storyline": "The game's protagonist, named \"Rockford\", must dig through caves collecting gems and diamonds and reach the exit within a specified time limit, while avoiding various types of dangerous creatures as well as obstacles like falling rocks and the constant danger of being crushed or trapped by an avalanche, or killed by an underground explosion.", 
+    "summary": "Boulder Dash was originally released in 1984 for Atari 8-bit computers. It was developed and published by First Star Software, and spawned a series of sequels, re-releases, and spinoffs. It also did a great deal to establish and influence the mining genre of video games, which can be seen in modern games such as Minecraft, Spelunky, and Terraria. \n The game is still available as a freemium mobile title developed by SoMa Play Inc for Android and iOS.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435465, 
+        268435489, 
+        536871038, 
+        536871049, 
+        536871413, 
+        536871878, 
+        536872758, 
+        536873089, 
+        536873787, 
+        536874747, 
+        536875046, 
+        536875313, 
+        536875343, 
+        536875388, 
+        536875434, 
+        536875690, 
+        536876005, 
+        536876205, 
+        536876348, 
+        536876767, 
+        536878570, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.06662227666786, 
+    "total_rating_count": 9, 
+    "updated_at": 1525457800858, 
+    "url": "https://www.igdb.com/games/boulder-dash", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "FiEVfa1OK_o"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/502320/Boulder_Dash__30th_Anniversary"
+        }, 
+        {
+            "category": 12, 
+            "url": "https://play.google.com/store/apps/details?id=com.tapstargames.boulderdash30&hl=en"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/Boulder-Dash-Atari-278177410341"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Boulder_Dash"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://gaming.wikia.com/wiki/Boulder_Dash"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://boulder-dash.com/"
+        }
+    ]
+}

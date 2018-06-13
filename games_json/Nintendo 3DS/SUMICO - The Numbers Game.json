@@ -1,0 +1,120 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "lyu20axywryip6uphan3", 
+        "height": 848, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lyu20axywryip6uphan3.jpg", 
+        "width": 1200
+    }, 
+    "created_at": 1495818556326, 
+    "external": {
+        "steam": "383190"
+    }, 
+    "first_release_date": 1418860800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28465, 
+        40524, 
+        34919, 
+        33603, 
+        36962, 
+        55888, 
+        44087, 
+        65827, 
+        28277, 
+        32283
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 34952, 
+    "name": "SUMICO - The Numbers Game", 
+    "platforms": [
+        6, 
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        12184
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1422489600000, 
+            "human": "2015-Jan-29", 
+            "m": 1, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1418860800000, 
+            "human": "2014-Dec-18", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1435881600000, 
+            "human": "2015-Jul-03", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dmcii61mtekzrlelryda", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dmcii61mtekzrlelryda.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "es5uhyix2bb5rg9um2ue", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/es5uhyix2bb5rg9um2ue.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "x9obv4qbdclo7tvr2m5a", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x9obv4qbdclo7tvr2m5a.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zu3suw7o5lwyidhu9zji", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zu3suw7o5lwyidhu9zji.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "sad9ivnwpcr8qj1dlmse", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sad9ivnwpcr8qj1dlmse.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "sumico-the-numbers-game", 
+    "summary": "Sumico is a very original number puzzle game. It challenges you with fun but deep gameplay. The game features 84 handmade levels and an Endless Mode which you can style to your liking. Enjoy!", 
+    "tags": [
+        268435488
+    ], 
+    "updated_at": 1522079689517, 
+    "url": "https://www.igdb.com/games/sumico-the-numbers-game", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.playsumico.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/383190"
+        }
+    ]
+}

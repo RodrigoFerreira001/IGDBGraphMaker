@@ -1,0 +1,110 @@
+{
+    "aggregated_rating": 63.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 1008, 
+    "cover": {
+        "cloudinary_id": "zdbajz3h5bwdfcylr5bd", 
+        "height": 1285, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zdbajz3h5bwdfcylr5bd.jpg", 
+        "width": 733
+    }, 
+    "created_at": 1471252815212, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1114300800000, 
+    "games": [
+        36926, 
+        26766, 
+        25300, 
+        12632, 
+        36950, 
+        19333, 
+        27209, 
+        12571, 
+        17583, 
+        54842
+    ], 
+    "id": 22508, 
+    "keywords": [
+        227, 
+        389, 
+        1026, 
+        2199, 
+        4399, 
+        4460, 
+        4497, 
+        4523, 
+        4543, 
+        4727, 
+        4866, 
+        4878, 
+        5328, 
+        5370
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 38, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Untold Legends: Brotherhood of the Blade", 
+    "platforms": [
+        38
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1114300800000, 
+            "human": "2005-Apr-24", 
+            "m": 4, 
+            "platform": 38, 
+            "region": 8, 
+            "y": 2005
+        }
+    ], 
+    "slug": "untold-legends-brotherhood-of-the-blade", 
+    "summary": "Untold Legends is a hack'n'slash game for the PSP.", 
+    "tags": [
+        1, 
+        536871139, 
+        536871301, 
+        536871938, 
+        536873111, 
+        536875311, 
+        536875372, 
+        536875409, 
+        536875435, 
+        536875455, 
+        536875639, 
+        536875778, 
+        536875790, 
+        536876240, 
+        536876282
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 63.3333333333333, 
+    "total_rating_count": 3, 
+    "updated_at": 1524618094781, 
+    "url": "https://www.igdb.com/games/untold-legends-brotherhood-of-the-blade", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Untold_Legends:_Brotherhood_of_the_Blade"
+        }
+    ]
+}

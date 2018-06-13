@@ -1,0 +1,193 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qpqkjvpxivydc8uxpzno", 
+        "height": 377, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qpqkjvpxivydc8uxpzno.jpg", 
+        "width": 670
+    }, 
+    "created_at": 1481346231769, 
+    "developers": [
+        10312
+    ], 
+    "external": {
+        "steam": "548340"
+    }, 
+    "first_release_date": 1470787200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        18387, 
+        25222, 
+        25646, 
+        18167, 
+        72373, 
+        76098, 
+        54678, 
+        65832, 
+        11588, 
+        7329
+    ], 
+    "genres": [
+        9, 
+        32
+    ], 
+    "id": 26370, 
+    "keywords": [
+        301, 
+        350, 
+        365, 
+        1333, 
+        1684, 
+        1783, 
+        2875, 
+        3919, 
+        4239, 
+        4461, 
+        4525, 
+        4661, 
+        4765, 
+        4891, 
+        5320, 
+        5526, 
+        5650, 
+        5652, 
+        9375
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Abode", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        10312
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1470787200000, 
+            "human": "2016-Aug-10", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1480550400000, 
+            "human": "2016-Dec-01", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ahgw3f6m3czrjspuetzl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ahgw3f6m3czrjspuetzl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hfqkmbeegbwb6h0ujvth", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hfqkmbeegbwb6h0ujvth.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "o2s6d6zors6jmtazgwup", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o2s6d6zors6jmtazgwup.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xdfupccyiv1bsmqyej8b", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xdfupccyiv1bsmqyej8b.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kaihqgmfsj8gysfah7yn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kaihqgmfsj8gysfah7yn.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "abode", 
+    "summary": "In Abode you'll visit a Sci-fi noir apartment. Inspired by \"escape the room\" games. \nYou will pick up, inspect, open, repair or utilize objects or furniture in the room in order to unveil all its secrets.", 
+    "tags": [
+        1, 
+        27, 
+        268435465, 
+        268435488, 
+        536871213, 
+        536871262, 
+        536871277, 
+        536872245, 
+        536872596, 
+        536872695, 
+        536873787, 
+        536874831, 
+        536875151, 
+        536875373, 
+        536875437, 
+        536875573, 
+        536875677, 
+        536875803, 
+        536876232, 
+        536876438, 
+        536876562, 
+        536876564, 
+        536880287, 
+        1073741831
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1528350512559, 
+    "url": "https://www.igdb.com/games/abode", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "DltMo1S98j4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/548340"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.overflowgames.se/"
+        }
+    ]
+}

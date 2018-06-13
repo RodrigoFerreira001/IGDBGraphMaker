@@ -1,0 +1,134 @@
+{
+    "aggregated_rating": 72.5, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 592, 
+    "cover": {
+        "cloudinary_id": "hvsvc39ktb99rl6mxetj", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hvsvc39ktb99rl6mxetj.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1404014309787, 
+    "developers": [
+        1033
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1237507200000, 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        52829, 
+        43488, 
+        3306, 
+        43483, 
+        15193, 
+        15190, 
+        15176, 
+        15175, 
+        15177, 
+        15168
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 7456, 
+    "keywords": [
+        498, 
+        757, 
+        2152, 
+        4137, 
+        4227, 
+        4228, 
+        4839, 
+        4977, 
+        5189, 
+        5287, 
+        12953, 
+        13122
+    ], 
+    "name": "SingStar Queen", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        9, 
+        8
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        334
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1250553600000, 
+            "human": "2009-Aug-18", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1237507200000, 
+            "human": "2009-Mar-20", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1237507200000, 
+            "human": "2009-Mar-20", 
+            "m": 3, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1249344000000, 
+            "human": "2009-Aug-04", 
+            "m": 8, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "eojgayerosi9ypsjhlg8", 
+            "height": 265, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eojgayerosi9ypsjhlg8.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "singstar-queen", 
+    "summary": "SingStar: Queen is a SingStar title featuring songs by the band Queen.", 
+    "tags": [
+        268435463, 
+        536871410, 
+        536871669, 
+        536873064, 
+        536875049, 
+        536875139, 
+        536875140, 
+        536875751, 
+        536875889, 
+        536876101, 
+        536876199, 
+        536883865, 
+        536884034
+    ], 
+    "total_rating": 72.5, 
+    "total_rating_count": 4, 
+    "updated_at": 1517270821568, 
+    "url": "https://www.igdb.com/games/singstar-queen"
+}

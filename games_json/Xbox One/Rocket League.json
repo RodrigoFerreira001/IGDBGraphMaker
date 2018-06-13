@@ -1,0 +1,510 @@
+{
+    "aggregated_rating": 89.0, 
+    "aggregated_rating_count": 19, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "\u30ed\u30b1\u30c3\u30c8\u30ea\u30fc\u30b0"
+        }
+    ], 
+    "category": 0, 
+    "collection": 4455, 
+    "cover": {
+        "cloudinary_id": "edkpgyqgfsxyiby9pyj5", 
+        "height": 811, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/edkpgyqgfsxyiby9pyj5.jpg", 
+        "width": 579
+    }, 
+    "created_at": 1434476876328, 
+    "developers": [
+        711
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is an action-racing game in which players drive futuristic cars to play games of soccer. Players attempt to score the most goals as they compete in a variety of game modes (e.g., Season, Exhibition, Training). One song contains lyrics that reference tobacco (e.g., \u201cI've been dining on coffee and cigarettes\u201d)."
+    }, 
+    "external": {
+        "steam": "252950"
+    }, 
+    "first_release_date": 1436227200000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        7333, 
+        3772, 
+        25076, 
+        1905, 
+        19564, 
+        28856, 
+        27081, 
+        14920, 
+        11156, 
+        25657
+    ], 
+    "genres": [
+        10, 
+        14, 
+        32
+    ], 
+    "hypes": 2, 
+    "id": 11198, 
+    "keywords": [
+        25, 
+        26, 
+        27, 
+        58, 
+        103, 
+        309, 
+        1333, 
+        1655, 
+        1783, 
+        2071, 
+        2180, 
+        2362, 
+        3425, 
+        3627, 
+        3912, 
+        4004, 
+        4135, 
+        4157, 
+        4205, 
+        4210, 
+        4276, 
+        4332, 
+        4357, 
+        4386, 
+        4400, 
+        4450, 
+        4521, 
+        4541, 
+        4561, 
+        4647, 
+        4726, 
+        4756, 
+        4838, 
+        4869, 
+        4890, 
+        4893, 
+        4911, 
+        5318, 
+        5343, 
+        5437, 
+        5460, 
+        5507, 
+        5558, 
+        6201, 
+        6520, 
+        6527, 
+        6912, 
+        7026, 
+        7071, 
+        7178, 
+        7372, 
+        8306, 
+        9075, 
+        9360, 
+        9513, 
+        9853, 
+        10185, 
+        11108, 
+        12087, 
+        12114, 
+        12556, 
+        14051, 
+        15074, 
+        15077, 
+        15078, 
+        16716
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 8, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Rocket League", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons.\r\nIt contains: This game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        48, 
+        49, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 21.0, 
+    "publishers": [
+        711
+    ], 
+    "pulse_count": 361, 
+    "rating": 83.9820687188314, 
+    "rating_count": 236, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1455667200000, 
+            "human": "2016-Feb-17", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467676800000, 
+            "human": "2016-Jul-05", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466726400000, 
+            "human": "2016-Jun-24", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1436227200000, 
+            "human": "2015-Jul-07", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1436227200000, 
+            "human": "2015-Jul-07", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1446595200000, 
+            "human": "2015-Nov-04", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1510617600000, 
+            "human": "2017-Nov-14", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1473292800000, 
+            "human": "2016-Sep-08", 
+            "m": 9, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1473292800000, 
+            "human": "2016-Sep-08", 
+            "m": 9, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1473292800000, 
+            "human": "2016-Sep-08", 
+            "m": 9, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1436227200000, 
+            "human": "2015-Jul-07", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1436227200000, 
+            "human": "2015-Jul-07", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1455667200000, 
+            "human": "2016-Feb-17", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qehejfbfvynrmjvnmxua", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qehejfbfvynrmjvnmxua.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "obxqkxqtfhpvgd4wkb24", 
+            "height": 880, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/obxqkxqtfhpvgd4wkb24.jpg", 
+            "width": 1650
+        }, 
+        {
+            "cloudinary_id": "zrosrzhc8qxivegbqyl6", 
+            "height": 880, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zrosrzhc8qxivegbqyl6.jpg", 
+            "width": 1650
+        }, 
+        {
+            "cloudinary_id": "k8pr0aobdo3mquapdirk", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k8pr0aobdo3mquapdirk.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "k1hcu9flbu0tvheine15", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k1hcu9flbu0tvheine15.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "czksik7zl3tzb72jafhw", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/czksik7zl3tzb72jafhw.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "kky41w6g87pnw8omnoff", 
+            "height": 844, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kky41w6g87pnw8omnoff.jpg", 
+            "width": 1500
+        }, 
+        {
+            "cloudinary_id": "ygepetru87ka9nzqowr6", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ygepetru87ka9nzqowr6.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "w23nbjchdt6ulfxws9nt", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w23nbjchdt6ulfxws9nt.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "zbk8r9mm9bb56duk5tjp", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zbk8r9mm9bb56duk5tjp.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "ipnuinh71ny8bcblibgq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ipnuinh71ny8bcblibgq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "x2ebxdsn5kfjcnjbo7q2", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x2ebxdsn5kfjcnjbo7q2.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "rocket-league", 
+    "summary": "Soccer meets racing once again in our long-awaited, MP-focused sequel to Supersonic Acrobatic Rocket-Powered Battle-Cars! \n \nA futuristic Sports-Action game, Rocket League, equips players with booster-rigged vehicles that can be crashed into balls for incredible goals or epic saves across multiple, highly-detailed arenas. Using an advanced physics system to simulate realistic interactions, Rocket League relies on mass and momentum to give players a complete sense of intuitive control in this unbelievable, high-octane re-imagining of association football.", 
+    "tags": [
+        1, 
+        18, 
+        268435466, 
+        268435470, 
+        268435488, 
+        536870937, 
+        536870938, 
+        536870939, 
+        536870970, 
+        536871015, 
+        536871221, 
+        536872245, 
+        536872567, 
+        536872695, 
+        536872983, 
+        536873092, 
+        536873274, 
+        536874337, 
+        536874539, 
+        536874824, 
+        536874916, 
+        536875047, 
+        536875069, 
+        536875117, 
+        536875122, 
+        536875188, 
+        536875244, 
+        536875269, 
+        536875298, 
+        536875312, 
+        536875362, 
+        536875433, 
+        536875453, 
+        536875473, 
+        536875559, 
+        536875638, 
+        536875668, 
+        536875750, 
+        536875781, 
+        536875802, 
+        536875805, 
+        536875823, 
+        536876230, 
+        536876255, 
+        536876349, 
+        536876372, 
+        536876419, 
+        536876470, 
+        536877113, 
+        536877432, 
+        536877439, 
+        536877824, 
+        536877938, 
+        536877983, 
+        536878090, 
+        536878284, 
+        536879218, 
+        536879987, 
+        536880272, 
+        536880425, 
+        536880765, 
+        536881097, 
+        536882020, 
+        536882999, 
+        536883026, 
+        536883468, 
+        536884963, 
+        536885986, 
+        536885989, 
+        536885990, 
+        536887628, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 86.49103435941569, 
+    "total_rating_count": 255, 
+    "updated_at": 1528753906099, 
+    "url": "https://www.igdb.com/games/rocket-league", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "o5YyUA525tI"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "r4iT0yZEwk8"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "kmZn0NIMVg8"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "7iz-dQifR7Q"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.rocketleague.com/"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/RocketLeagueGame"
+        }, 
+        {
+            "category": 6, 
+            "url": "https://www.twitch.tv/directory/game/Rocket%20League"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Rocket_League"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://rocketleague.wikia.com/wiki/Rocket_League_Wikia"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/252950"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/RocketLeague"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/RocketLeague"
+        }
+    ]
+}

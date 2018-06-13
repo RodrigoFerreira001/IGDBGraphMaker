@@ -1,0 +1,135 @@
+{
+    "aggregated_rating": 47.75, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "yefc4mqkar1oxw7oohto", 
+        "height": 262, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yefc4mqkar1oxw7oohto.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1469304431967, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1201996800000, 
+    "games": [
+        18167, 
+        17354, 
+        7344, 
+        54678, 
+        25222, 
+        6732, 
+        9174, 
+        13163, 
+        16992, 
+        26223
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 21354, 
+    "keywords": [
+        67, 
+        575, 
+        594, 
+        966, 
+        1293, 
+        1375, 
+        1395, 
+        1931, 
+        2875, 
+        3061, 
+        4134, 
+        4135, 
+        4350, 
+        4359, 
+        4449, 
+        5005, 
+        5116, 
+        5173, 
+        5421, 
+        5449, 
+        5450, 
+        5764, 
+        5783, 
+        6921, 
+        11549, 
+        12971
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "TiQal", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1201996800000, 
+            "human": "2008-Feb-03", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "e6r2liazjdb8ayxcq2yn", 
+            "height": 265, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e6r2liazjdb8ayxcq2yn.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "tiqal", 
+    "summary": "Tinker is an isometric puzzle game released originally as part of the Windows Vista Ultimate Extras program, then re-released and upgraded as a free Games For Windows - LIVE title for their Games On Demand service.", 
+    "tags": [
+        268435465, 
+        536870979, 
+        536871487, 
+        536871506, 
+        536871878, 
+        536872205, 
+        536872287, 
+        536872307, 
+        536872843, 
+        536873787, 
+        536873973, 
+        536875046, 
+        536875047, 
+        536875262, 
+        536875271, 
+        536875361, 
+        536875917, 
+        536876028, 
+        536876085, 
+        536876333, 
+        536876361, 
+        536876362, 
+        536876676, 
+        536876695, 
+        536877833, 
+        536882461, 
+        536883883
+    ], 
+    "total_rating": 47.75, 
+    "total_rating_count": 4, 
+    "updated_at": 1515704395462, 
+    "url": "https://www.igdb.com/games/tiqal"
+}

@@ -1,0 +1,118 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 2425, 
+    "cover": {
+        "cloudinary_id": "haagyk0t08asfxxosjdm", 
+        "height": 389, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/haagyk0t08asfxxosjdm.jpg", 
+        "width": 385
+    }, 
+    "created_at": 1470131400891, 
+    "developers": [
+        2165
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 945820800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        18623, 
+        29173, 
+        25311, 
+        19934, 
+        55689, 
+        21642, 
+        55590, 
+        44242, 
+        34919, 
+        9760
+    ], 
+    "genres": [
+        13, 
+        15
+    ], 
+    "id": 22008, 
+    "keywords": [
+        1148, 
+        1821, 
+        1827
+    ], 
+    "name": "Panzer Front", 
+    "platforms": [
+        7, 
+        23
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1566, 
+        4468
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 945820800000, 
+            "human": "1999-Dec-22", 
+            "m": 12, 
+            "platform": 23, 
+            "region": 5, 
+            "y": 1999
+        }, 
+        {
+            "category": 0, 
+            "date": 945820800000, 
+            "human": "1999-Dec-22", 
+            "m": 12, 
+            "platform": 7, 
+            "region": 5, 
+            "y": 1999
+        }, 
+        {
+            "category": 0, 
+            "date": 987465600000, 
+            "human": "2001-Apr-17", 
+            "m": 4, 
+            "platform": 7, 
+            "region": 1, 
+            "y": 2001
+        }, 
+        {
+            "category": 1, 
+            "date": 999302400000, 
+            "human": "2001-Sep", 
+            "m": 9, 
+            "platform": 7, 
+            "region": 2, 
+            "y": 2001
+        }
+    ], 
+    "slug": "panzer-front", 
+    "summary": "Set in various theaters of World War II, this tank sim pits Russian, German, and American armor against each other in a series of missions designed to test both strategizing and twitching abilities, albeit with a heavy emphasis on the former. The game offers two main modes, Tank Select and Tactics. Tank Select is an arcade-style mode, with exaggerated tank capabilities and basic missions, most revolving around killing whatever moves. Tactics offers a selection of 28 different maps with a variety of terrain, opposition, and victory conditions. The missions are almost evenly divided between Russian, American, and German missions, but secondary factors mix things up so thoroughly that the different capabilities of each army's tanks are only a small drop in the bucket full of strategic factors you have to consider.", 
+    "tags": [
+        1, 
+        39, 
+        268435469, 
+        268435471, 
+        536872060, 
+        536872733, 
+        536872739
+    ], 
+    "themes": [
+        1, 
+        39
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1517271030865, 
+    "url": "https://www.igdb.com/games/panzer-front", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Panzer_Front"
+        }
+    ]
+}

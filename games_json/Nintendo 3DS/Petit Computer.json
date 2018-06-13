@@ -1,0 +1,83 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "SmileBASIC"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "tugnzls7sd8msughwkbe", 
+        "height": 408, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tugnzls7sd8msughwkbe.jpg", 
+        "width": 538
+    }, 
+    "created_at": 1505215804978, 
+    "developers": [
+        15626
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1416355200000, 
+    "games": [
+        66008, 
+        64501, 
+        64500, 
+        73189, 
+        68249, 
+        34218, 
+        73162, 
+        64992, 
+        62506, 
+        51185
+    ], 
+    "id": 64865, 
+    "keywords": [
+        534, 
+        3224, 
+        4134
+    ], 
+    "name": "Petit Computer", 
+    "platforms": [
+        159, 
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        15626
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1416355200000, 
+            "human": "2014-Nov-19", 
+            "m": 11, 
+            "platform": 159, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1416355200000, 
+            "human": "2014-Nov-19", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2014
+        }
+    ], 
+    "slug": "petit-computer", 
+    "summary": "A DSiWare title that allows you to program in BASIC and share your creations.", 
+    "tags": [
+        34, 
+        536871446, 
+        536874136, 
+        536875046
+    ], 
+    "themes": [
+        34
+    ], 
+    "updated_at": 1527968247228, 
+    "url": "https://www.igdb.com/games/petit-computer"
+}

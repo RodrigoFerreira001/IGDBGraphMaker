@@ -1,0 +1,52 @@
+{
+    "category": 0, 
+    "created_at": 1499867314184, 
+    "first_release_date": 1273104000000, 
+    "id": 47448, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "RayStorm HD", 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1273104000000, 
+            "human": "2010-May-06", 
+            "m": 5, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1275696000000, 
+            "human": "2010-Jun-05", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2010
+        }
+    ], 
+    "slug": "raystorm-hd", 
+    "summary": "The classic shooting game returns with the original gameplay and newly updated graphics in RAYSTORM HD. You control the R-GRAY, a fighter plane equipped with a lock-on laser system, and battle your way through eight stages. A variety of game modes includes Arcade Mode and Extra Mode, with four selectable planes including the untested new R-GEAR. Rankings can be registered, and replay data can be uploaded and downloaded online.", 
+    "updated_at": 1516082898099, 
+    "url": "https://www.igdb.com/games/raystorm-hd"
+}

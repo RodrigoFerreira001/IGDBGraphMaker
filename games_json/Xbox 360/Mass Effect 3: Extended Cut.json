@@ -1,0 +1,65 @@
+{
+    "category": 1, 
+    "collection": 25, 
+    "created_at": 1513547446437, 
+    "developers": [
+        2
+    ], 
+    "first_release_date": 1341360000000, 
+    "game": 75, 
+    "id": 78460, 
+    "name": "Mass Effect 3: Extended Cut", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        1
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1341360000000, 
+            "human": "2012-Jul-04", 
+            "m": 7, 
+            "platform": 12, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1341360000000, 
+            "human": "2012-Jul-04", 
+            "m": 7, 
+            "platform": 9, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1341360000000, 
+            "human": "2012-Jul-04", 
+            "m": 7, 
+            "platform": 6, 
+            "y": 2012
+        }
+    ], 
+    "slug": "mass-effect-3-extended-cut", 
+    "summary": "The Extended Cut downloadable content adds to and modifies the ending of Mass Effect 3, in response to fan feedback.", 
+    "updated_at": 1525111881600, 
+    "url": "https://www.igdb.com/games/mass-effect-3-extended-cut", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Mass_Effect_3"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://masseffect.wikia.com/wiki/Mass_Effect_3:_Extended_Cut"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://masseffect.bioware.com/"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "aggregated_rating": 74.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "cdbnhk1o9isnsmx6ygvv", 
+        "height": 909, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cdbnhk1o9isnsmx6ygvv.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1469803248619, 
+    "first_release_date": 1267488000000, 
+    "games": [
+        49414, 
+        25636, 
+        21842, 
+        28080, 
+        36608, 
+        18862, 
+        75102, 
+        23913, 
+        47472, 
+        44922
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 21761, 
+    "name": "White Knight Chronicles: International Edition", 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1267488000000, 
+            "human": "2010-Mar-02", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "yfsq8zo0l9qtdodfqfiw", 
+            "height": 338, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yfsq8zo0l9qtdodfqfiw.jpg", 
+            "width": 600
+        }
+    ], 
+    "slug": "white-knight-chronicles-international-edition", 
+    "tags": [
+        268435468
+    ], 
+    "total_rating": 74.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1500555727479, 
+    "url": "https://www.igdb.com/games/white-knight-chronicles-international-edition"
+}

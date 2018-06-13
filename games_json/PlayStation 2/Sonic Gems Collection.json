@@ -1,0 +1,101 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 2156, 
+    "cover": {
+        "cloudinary_id": "nyf9ufxxqsixek31r9dd", 
+        "height": 2156, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nyf9ufxxqsixek31r9dd.jpg", 
+        "width": 1533
+    }, 
+    "created_at": 1471252922719, 
+    "first_release_date": 1123718400000, 
+    "games": [
+        10039, 
+        101172, 
+        1070, 
+        103288, 
+        1073, 
+        28856, 
+        1626, 
+        103281, 
+        84013, 
+        103298
+    ], 
+    "genres": [
+        4, 
+        8, 
+        10
+    ], 
+    "id": 22510, 
+    "name": "Sonic Gems Collection", 
+    "platforms": [
+        21, 
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 81.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1128038400000, 
+            "human": "2005-Sep-30", 
+            "m": 9, 
+            "platform": 21, 
+            "region": 1, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1124150400000, 
+            "human": "2005-Aug-16", 
+            "m": 8, 
+            "platform": 21, 
+            "region": 2, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1123718400000, 
+            "human": "2005-Aug-11", 
+            "m": 8, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1128038400000, 
+            "human": "2005-Sep-30", 
+            "m": 9, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1126828800000, 
+            "human": "2005-Sep-16", 
+            "m": 9, 
+            "platform": 21, 
+            "region": 8, 
+            "y": 2005
+        }
+    ], 
+    "slug": "sonic-gems-collection", 
+    "tags": [
+        1, 
+        268435460, 
+        268435464, 
+        268435466
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 75.5, 
+    "total_rating_count": 3, 
+    "updated_at": 1528879726035, 
+    "url": "https://www.igdb.com/games/sonic-gems-collection"
+}

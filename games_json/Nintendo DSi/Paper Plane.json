@@ -1,0 +1,77 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Paper Airplane Chase (US title)"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "tf7e99zivsxfctjdshyt", 
+        "height": 200, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tf7e99zivsxfctjdshyt.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1517399626396, 
+    "first_release_date": 1230076800000, 
+    "id": 85325, 
+    "name": "Paper Plane", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        70
+    ], 
+    "rating": 75.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1230076800000, 
+            "human": "2008-Dec-24", 
+            "m": 12, 
+            "platform": 159, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1238716800000, 
+            "human": "2009-Apr-03", 
+            "m": 4, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1240790400000, 
+            "human": "2009-Apr-27", 
+            "m": 4, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "insfjogbrwaflkpstmkv", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/insfjogbrwaflkpstmkv.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "qk7y4azzc8yvrymuimu3", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qk7y4azzc8yvrymuimu3.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "paper-plane", 
+    "summary": "Spread your wings with this irresistibly simple action game for one or two players! Simply manoeuvre the paper plane through a winding course - and don't collide with the obstacles. But that's easier said than done!", 
+    "total_rating": 75.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1518077420650, 
+    "url": "https://www.igdb.com/games/paper-plane"
+}

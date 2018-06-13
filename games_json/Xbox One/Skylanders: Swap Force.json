@@ -1,0 +1,340 @@
+{
+    "aggregated_rating": 82.5333333333333, 
+    "aggregated_rating_count": 17, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Skylanders 3"
+        }
+    ], 
+    "category": 0, 
+    "collection": 322, 
+    "cover": {
+        "cloudinary_id": "eadzv4w9kd9dpvx5ppyd", 
+        "height": 271, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/eadzv4w9kd9dpvx5ppyd.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1391916845647, 
+    "developers": [
+        72, 
+        432, 
+        319
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1381622400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        55752, 
+        10039, 
+        36926, 
+        47823, 
+        68324, 
+        12632, 
+        1070, 
+        27209, 
+        51485, 
+        26848
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 5159, 
+    "keywords": [
+        296, 
+        4717, 
+        4931, 
+        5014, 
+        5306, 
+        6031, 
+        6664, 
+        6720, 
+        6721, 
+        6722, 
+        6723, 
+        7558, 
+        8192
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 5, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Skylanders: Swap Force", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        41, 
+        9, 
+        48, 
+        12, 
+        49, 
+        37, 
+        5
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        66
+    ], 
+    "rating": 85.5977501522588, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1382054400000, 
+            "human": "2013-Oct-18", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1381622400000, 
+            "human": "2013-Oct-13", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1382054400000, 
+            "human": "2013-Oct-18", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1381622400000, 
+            "human": "2013-Oct-13", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385683200000, 
+            "human": "2013-Nov-29", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384473600000, 
+            "human": "2013-Nov-15", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1382054400000, 
+            "human": "2013-Oct-18", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1381622400000, 
+            "human": "2013-Oct-13", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1381622400000, 
+            "human": "2013-Oct-13", 
+            "m": 10, 
+            "platform": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1381622400000, 
+            "human": "2013-Oct-13", 
+            "m": 10, 
+            "platform": 41, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1381622400000, 
+            "human": "2013-Oct-13", 
+            "m": 10, 
+            "platform": 37, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1381622400000, 
+            "human": "2013-Oct-13", 
+            "m": 10, 
+            "platform": 9, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1381622400000, 
+            "human": "2013-Oct-13", 
+            "m": 10, 
+            "platform": 12, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384473600000, 
+            "human": "2013-Nov-15", 
+            "m": 11, 
+            "platform": 48, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385078400000, 
+            "human": "2013-Nov-22", 
+            "m": 11, 
+            "platform": 49, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "whd4fryctyut0of0lflw", 
+            "height": 1536, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/whd4fryctyut0of0lflw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mafuqmwmzrr8xndduqga", 
+            "height": 759, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mafuqmwmzrr8xndduqga.jpg", 
+            "width": 949
+        }, 
+        {
+            "cloudinary_id": "dgfblyoytihlik6wvbk1", 
+            "height": 759, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dgfblyoytihlik6wvbk1.jpg", 
+            "width": 949
+        }, 
+        {
+            "cloudinary_id": "fvtjxrfc7ovdqahvpquw", 
+            "height": 759, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvtjxrfc7ovdqahvpquw.jpg", 
+            "width": 949
+        }, 
+        {
+            "cloudinary_id": "a9vulbil7beieiqjxkdd", 
+            "height": 1536, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a9vulbil7beieiqjxkdd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jnuuljlgi3ars2k89u48", 
+            "height": 759, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jnuuljlgi3ars2k89u48.jpg", 
+            "width": 949
+        }, 
+        {
+            "cloudinary_id": "s6u9smo1wh3vkdibgg9w", 
+            "height": 1536, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s6u9smo1wh3vkdibgg9w.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rsozr4mzzrah5uosuvyq", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rsozr4mzzrah5uosuvyq.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "fa6n6z2gskol4s0ttibe", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fa6n6z2gskol4s0ttibe.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "fhucsy3tujteluf8e6sv", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fhucsy3tujteluf8e6sv.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qq5xgzalgqjdguueh1j2", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qq5xgzalgqjdguueh1j2.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "fpnipzeoirpqlzbztg2r", 
+            "height": 348, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fpnipzeoirpqlzbztg2r.jpg", 
+            "width": 618
+        }
+    ], 
+    "slug": "skylanders-swap-force", 
+    "summary": "Skylanders: Swap Force is a platformer video game developed by Vicarious Visions and published by Activision. It is the third main game in the Skylanders video game and toy franchise, following 2012's Skylanders: Giants, which was a direct sequel to 2011's Skylanders: Spyro's Adventure (the spin-off of The Legend of Spyro series). It is the game before Skylanders: Trap Team and features the voices of John DiMaggio, Jess Harnell, Audrey Wasilewski, Richard Tatum, David Sobolov, Josh Keaton, Keythe Farley, Dave Wittenberg, Joey Camen, Gregg Berger, Troy Baker and Robin Atkin Downes. \n \nIt is the first Skylanders game to be released in North America before other regions, unlike the previous two games where Australia got the installments first. It is also the first Skylanders game not to be owned by Vivendi.", 
+    "tags": [
+        1, 
+        268435464, 
+        536871208, 
+        536875629, 
+        536875843, 
+        536875926, 
+        536876218, 
+        536876943, 
+        536877576, 
+        536877632, 
+        536877633, 
+        536877634, 
+        536877635, 
+        536878470, 
+        536879104, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 84.06554174279606, 
+    "total_rating_count": 21, 
+    "updated_at": 1518009154473, 
+    "url": "https://www.igdb.com/games/skylanders-swap-force", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Skylanders:_Swap_Force"
+        }
+    ]
+}

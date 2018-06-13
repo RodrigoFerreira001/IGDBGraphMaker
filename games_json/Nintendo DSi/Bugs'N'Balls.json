@@ -1,0 +1,70 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "irp2jscxihdcj3vxbzzm", 
+        "height": 117, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/irp2jscxihdcj3vxbzzm.jpg", 
+        "width": 165
+    }, 
+    "created_at": 1517392350044, 
+    "first_release_date": 1317254400000, 
+    "id": 85007, 
+    "name": "Bugs'N'Balls", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        3913
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1321488000000, 
+            "human": "2011-Nov-17", 
+            "m": 11, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317254400000, 
+            "human": "2011-Sep-29", 
+            "m": 9, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "cf5sqi0wfhruop2abc8m", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cf5sqi0wfhruop2abc8m.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "mewoxkukeu749vnaghrk", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mewoxkukeu749vnaghrk.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ykqsli4xndeycnekwxyn", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ykqsli4xndeycnekwxyn.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "tuoiljx03e4zc8gryl88", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tuoiljx03e4zc8gryl88.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "bugsnballs", 
+    "summary": "Bugs'N'Balls is the most played game in the Bug's World.", 
+    "updated_at": 1518051275276, 
+    "url": "https://www.igdb.com/games/bugsnballs"
+}

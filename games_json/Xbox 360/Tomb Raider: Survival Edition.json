@@ -1,0 +1,93 @@
+{
+    "category": 0, 
+    "collection": 183, 
+    "cover": {
+        "cloudinary_id": "ijzfe7kkjrg7glleveil", 
+        "height": 713, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ijzfe7kkjrg7glleveil.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1501616162422, 
+    "first_release_date": 1362441600000, 
+    "franchise": 279, 
+    "franchises": [
+        279
+    ], 
+    "games": [
+        59516, 
+        24369, 
+        25646, 
+        10039, 
+        68287, 
+        12579, 
+        37094, 
+        68142, 
+        26192, 
+        968
+    ], 
+    "genres": [
+        5, 
+        8, 
+        9, 
+        31
+    ], 
+    "id": 53817, 
+    "name": "Tomb Raider: Survival Edition", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1362441600000, 
+            "human": "2013-Mar-05", 
+            "m": 3, 
+            "platform": 6, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1362441600000, 
+            "human": "2013-Mar-05", 
+            "m": 3, 
+            "platform": 12, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1362441600000, 
+            "human": "2013-Mar-05", 
+            "m": 3, 
+            "platform": 9, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lh77am7yto0hpmgdpclz", 
+            "height": 261, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lh77am7yto0hpmgdpclz.jpg", 
+            "width": 522
+        }
+    ], 
+    "slug": "tomb-raider-survival-edition", 
+    "tags": [
+        1, 
+        21, 
+        268435461, 
+        268435464, 
+        268435465, 
+        268435487
+    ], 
+    "themes": [
+        1, 
+        21
+    ], 
+    "updated_at": 1515493909982, 
+    "url": "https://www.igdb.com/games/tomb-raider-survival-edition", 
+    "version_parent": 1164, 
+    "version_title": "Survival Edition"
+}

@@ -1,0 +1,147 @@
+{
+    "aggregated_rating": 20.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 694, 
+    "cover": {
+        "cloudinary_id": "ibjneamflsvougzytgw2", 
+        "height": 263, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ibjneamflsvougzytgw2.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1469228037822, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1362441600000, 
+    "games": [
+        6732, 
+        71455, 
+        21429, 
+        27421, 
+        7202, 
+        36911, 
+        19934, 
+        1907, 
+        55752, 
+        12571
+    ], 
+    "genres": [
+        25
+    ], 
+    "id": 21001, 
+    "keywords": [
+        21, 
+        61, 
+        301, 
+        982, 
+        1293, 
+        3922, 
+        4134, 
+        4161, 
+        4332, 
+        4446, 
+        4576, 
+        4611, 
+        4738, 
+        5354, 
+        5502, 
+        5559, 
+        5663, 
+        6064, 
+        6101, 
+        6381, 
+        7031, 
+        9970
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Double Dragon II: Wander of the Dragons", 
+    "platforms": [
+        36, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1365120000000, 
+            "human": "2013-Apr-05", 
+            "m": 4, 
+            "platform": 36, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1362441600000, 
+            "human": "2013-Mar-05", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2013
+        }
+    ], 
+    "slug": "double-dragon-ii-wander-of-the-dragons", 
+    "summary": "Double Dragon II: Wander of the Dragons is a Korean remake of the original Double Dragon II arcade game. It features all-new 3D graphics as well as Versus and Survival modes.", 
+    "tags": [
+        1, 
+        268435481, 
+        536870933, 
+        536870973, 
+        536871213, 
+        536871894, 
+        536872205, 
+        536874834, 
+        536875046, 
+        536875073, 
+        536875244, 
+        536875358, 
+        536875488, 
+        536875523, 
+        536875650, 
+        536876266, 
+        536876414, 
+        536876471, 
+        536876575, 
+        536876976, 
+        536877013, 
+        536877293, 
+        536877943, 
+        536880882
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 20.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1516759456381, 
+    "url": "https://www.igdb.com/games/double-dragon-ii-wander-of-the-dragons"
+}

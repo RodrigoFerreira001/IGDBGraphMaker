@@ -1,0 +1,62 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "z4krr28ase65vmweagzc", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/z4krr28ase65vmweagzc.jpg", 
+        "width": 346
+    }, 
+    "created_at": 1468538955788, 
+    "first_release_date": 1185408000000, 
+    "games": [
+        11362, 
+        73075, 
+        9760, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        2015, 
+        32283, 
+        33383
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 20371, 
+    "name": "The Adventures of Darwin", 
+    "platforms": [
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1185408000000, 
+            "human": "2007-Jul-26", 
+            "m": 7, 
+            "platform": 8, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "sfzteoa4vfdwckoycdsi", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sfzteoa4vfdwckoycdsi.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "the-adventures-of-darwin", 
+    "summary": "In this strategy game , you become the leader of a prehistoric village. Your goal is to advance your socity by hunting and increasing your numbers. The game has three difficulty settings.", 
+    "tags": [
+        268435471
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1500547507181, 
+    "url": "https://www.igdb.com/games/the-adventures-of-darwin"
+}

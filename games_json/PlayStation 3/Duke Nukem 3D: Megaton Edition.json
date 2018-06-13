@@ -1,0 +1,157 @@
+{
+    "aggregated_rating": 71.6666666666667, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 64, 
+    "cover": {
+        "cloudinary_id": "wumk1jpm6smim9jgy4jb", 
+        "height": 353, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wumk1jpm6smim9jgy4jb.jpg", 
+        "width": 616
+    }, 
+    "created_at": 1469049424477, 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1359849600000, 
+    "games": [
+        28029, 
+        68287, 
+        36950, 
+        76722, 
+        76246, 
+        19341, 
+        306, 
+        64204, 
+        17522, 
+        10039
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 20868, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 8, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Duke Nukem 3D: Megaton Edition", 
+    "platforms": [
+        45, 
+        6, 
+        9
+    ], 
+    "popularity": 2.666666666666667, 
+    "publishers": [
+        634
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1420588800000, 
+            "human": "2015-Jan-07", 
+            "m": 1, 
+            "platform": 9, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1420502400000, 
+            "human": "2015-Jan-06", 
+            "m": 1, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1359849600000, 
+            "human": "2013-Feb-03", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vxsiix5wl0qwhbnsyxwk", 
+            "height": 303, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vxsiix5wl0qwhbnsyxwk.jpg", 
+            "width": 538
+        }, 
+        {
+            "cloudinary_id": "v1apauiibzusbmuzwm90", 
+            "height": 303, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v1apauiibzusbmuzwm90.jpg", 
+            "width": 538
+        }, 
+        {
+            "cloudinary_id": "apalvz3uyeipiy0jsgyk", 
+            "height": 303, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/apalvz3uyeipiy0jsgyk.jpg", 
+            "width": 538
+        }, 
+        {
+            "cloudinary_id": "o90l9y4jf8gfembsezia", 
+            "height": 697, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o90l9y4jf8gfembsezia.jpg", 
+            "width": 1243
+        }, 
+        {
+            "cloudinary_id": "uxwtb6zzbl7gldzxflvl", 
+            "height": 255, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uxwtb6zzbl7gldzxflvl.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "duke-nukem-3d-megaton-edition", 
+    "summary": "Duke Nukem 3D: Megaton Edition is the definitive compilation of the landmark first-person shooter that includes enhanced versions of Duke Nukem 3D: Atomic Edition and three unique expansion packs as well as the original version of the classic game. The iconic Duke Nukem battles it out against a slew of alien foes in the original four episode \\\"Atomic Edition\\\" single-player campaign and three over-the-top expansion packs that take the loudmouthed hero to a tropical paradise, a winter wonderland, and even Washington D.C. Duke Nukem 3D: Megaton Edition features polished OpenGL visuals, native compatibility with modern PC and Mac computers, Steam Achievements, and Steam Cloud support. Duke Nukem 3D: Megaton Edition will continue to receive feature updates including Steamworks-enabled online multiplayer, new achievements and integration of additional Duke Nukem 3D expansion packs.", 
+    "tags": [
+        1, 
+        18, 
+        27, 
+        268435461
+    ], 
+    "themes": [
+        1, 
+        18, 
+        27
+    ], 
+    "total_rating": 71.6666666666667, 
+    "total_rating_count": 3, 
+    "updated_at": 1525266811583, 
+    "url": "https://www.igdb.com/games/duke-nukem-3d-megaton-edition", 
+    "version_parent": 342, 
+    "version_title": "Megaton Edition", 
+    "websites": [
+        {
+            "category": 14, 
+            "url": "https://www.reddit.com/r/dukenukem"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.devolverdigital.com/games/view/duke-nukem-3d"
+        }
+    ]
+}

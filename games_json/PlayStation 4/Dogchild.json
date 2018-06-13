@@ -1,0 +1,66 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "upfx2h2hgpzehebjk3dq", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/upfx2h2hgpzehebjk3dq.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1504737356928, 
+    "first_release_date": 1450915200000, 
+    "games": [
+        36608, 
+        34919, 
+        40524, 
+        23175, 
+        16468, 
+        1070, 
+        2940, 
+        68324, 
+        28029, 
+        37022
+    ], 
+    "id": 59062, 
+    "keywords": [
+        5023
+    ], 
+    "name": "Dogchild", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1450915200000, 
+            "human": "2015-Dec-24", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1452470400000, 
+            "human": "2016-Jan-11", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "slug": "dogchild", 
+    "summary": "A game about the youth Tarpak and his dog Taro.", 
+    "tags": [
+        1, 
+        536875935
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1516647610487, 
+    "url": "https://www.igdb.com/games/dogchild"
+}

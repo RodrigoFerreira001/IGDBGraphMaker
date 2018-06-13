@@ -1,0 +1,71 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jyicalbhpixmzsovmspm", 
+        "height": 1000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jyicalbhpixmzsovmspm.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1504271284302, 
+    "first_release_date": 1471478400000, 
+    "id": 56100, 
+    "name": "Brick Race", 
+    "platforms": [
+        41, 
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1485993600000, 
+            "human": "2017-Feb-02", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1471478400000, 
+            "human": "2016-Aug-18", 
+            "m": 8, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1471478400000, 
+            "human": "2016-Aug-18", 
+            "m": 8, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jopw3qttpnsivhrqob8a", 
+            "height": 427, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jopw3qttpnsivhrqob8a.jpg", 
+            "width": 356
+        }, 
+        {
+            "cloudinary_id": "vpzj85tv5mddscwonk74", 
+            "height": 427, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vpzj85tv5mddscwonk74.jpg", 
+            "width": 356
+        }, 
+        {
+            "cloudinary_id": "yklryzr2xylaycwsrahu", 
+            "height": 427, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yklryzr2xylaycwsrahu.jpg", 
+            "width": 356
+        }
+    ], 
+    "slug": "brick-race", 
+    "summary": "Time to RACE!", 
+    "updated_at": 1518051063537, 
+    "url": "https://www.igdb.com/games/brick-race"
+}

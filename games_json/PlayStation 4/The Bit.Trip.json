@@ -1,0 +1,70 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 2444, 
+    "cover": {
+        "cloudinary_id": "ozbe8bgbmml4z0d91bpq", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ozbe8bgbmml4z0d91bpq.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1468175196483, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1449273600000, 
+    "games": [
+        80612, 
+        58476, 
+        60044, 
+        76110, 
+        19376, 
+        28213, 
+        80452, 
+        80400, 
+        80266, 
+        80197
+    ], 
+    "id": 20152, 
+    "keywords": [
+        960, 
+        1495, 
+        4134
+    ], 
+    "name": "The Bit.Trip", 
+    "platforms": [
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1449273600000, 
+            "human": "2015-Dec-05", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qrpr1axsbau3lb9f4sbj", 
+            "height": 400, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qrpr1axsbau3lb9f4sbj.jpg", 
+            "width": 1200
+        }
+    ], 
+    "slug": "the-bit-dot-trip", 
+    "summary": "A collection of the six original Bit.Trip games for the PS3, PS4, and Vita.", 
+    "tags": [
+        536871872, 
+        536872407, 
+        536875046
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1516652333974, 
+    "url": "https://www.igdb.com/games/the-bit-dot-trip"
+}

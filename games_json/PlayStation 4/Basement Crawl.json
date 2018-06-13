@@ -1,0 +1,103 @@
+{
+    "aggregated_rating": 26.6666666666667, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "lf4oqeyzsqoottgmjzok", 
+        "height": 1024, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lf4oqeyzsqoottgmjzok.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1467883042790, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1390953600000, 
+    "games": [
+        27266, 
+        28154, 
+        13189, 
+        17001, 
+        25646, 
+        483, 
+        28112, 
+        18387, 
+        54678, 
+        19376
+    ], 
+    "id": 19916, 
+    "keywords": [
+        1333, 
+        4134, 
+        4239
+    ], 
+    "name": "Basement Crawl", 
+    "platforms": [
+        45, 
+        48
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        4598
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1393286400000, 
+            "human": "2014-Feb-25", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1390953600000, 
+            "human": "2014-Jan-29", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1393286400000, 
+            "human": "2014-Feb-25", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1393372800000, 
+            "human": "2014-Feb-26", 
+            "m": 2, 
+            "platform": 45, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lw80keovuem9rcjvxss0", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lw80keovuem9rcjvxss0.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "basement-crawl", 
+    "summary": "Weird PS4 title from Bloober Team.", 
+    "tags": [
+        19, 
+        536872245, 
+        536875046, 
+        536875151
+    ], 
+    "themes": [
+        19
+    ], 
+    "total_rating": 26.6666666666667, 
+    "total_rating_count": 3, 
+    "updated_at": 1520948357399, 
+    "url": "https://www.igdb.com/games/basement-crawl"
+}

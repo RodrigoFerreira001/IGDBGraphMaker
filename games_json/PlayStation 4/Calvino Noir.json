@@ -1,0 +1,136 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qstcp2xygly4f5dqjy2w", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qstcp2xygly4f5dqjy2w.jpg", 
+        "width": 1920
+    }, 
+    "created_at": 1455281839484, 
+    "developers": [
+        8961
+    ], 
+    "external": {
+        "steam": "316890"
+    }, 
+    "first_release_date": 1435968000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        13189, 
+        25222, 
+        55803, 
+        41895, 
+        27266, 
+        28277, 
+        63734, 
+        72412, 
+        55289, 
+        63718
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 17713, 
+    "keywords": [
+        1027, 
+        5570
+    ], 
+    "name": "Calvino Noir", 
+    "platforms": [
+        6, 
+        14, 
+        48
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        8961
+    ], 
+    "rating": 60.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1440460800000, 
+            "human": "2015-Aug-25", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1435968000000, 
+            "human": "2015-Jul-04", 
+            "m": 7, 
+            "platform": 6, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1435968000000, 
+            "human": "2015-Jul-04", 
+            "m": 7, 
+            "platform": 14, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "nst90begzpx27ilpywr5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nst90begzpx27ilpywr5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "loavt5pbxgivgf7cqhow", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/loavt5pbxgivgf7cqhow.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "n5wddmoegxguhlqvp7bi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n5wddmoegxguhlqvp7bi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "l5n1pibschch44syv8jy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l5n1pibschch44syv8jy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dtksy0ji6vf7wyjmunrx", 
+            "height": 348, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dtksy0ji6vf7wyjmunrx.jpg", 
+            "width": 620
+        }
+    ], 
+    "slug": "calvino-noir", 
+    "summary": "The film noir stealth game. Calvino Noir is the exploratory, sneaking adventure through the 1930s European criminal underworld. Architecture meets Noir as you become unwillingly entangled in a revolutionist plot. Sneak through sewers, across rooftops, and past guards in this dark and mysterious journey.", 
+    "tags": [
+        268435487, 
+        268435488, 
+        536871939, 
+        536876482
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1523435593482, 
+    "url": "https://www.igdb.com/games/calvino-noir", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://calvinonoir.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/316890"
+        }
+    ]
+}

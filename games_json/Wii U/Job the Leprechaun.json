@@ -1,0 +1,141 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "x3okp2hktfy7qo87uxfh", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/x3okp2hktfy7qo87uxfh.jpg", 
+        "width": 1080
+    }, 
+    "created_at": 1495813917280, 
+    "external": {
+        "steam": "386420"
+    }, 
+    "first_release_date": 1438300800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28465, 
+        40524, 
+        34919, 
+        33603, 
+        36962, 
+        55888, 
+        44087, 
+        65827, 
+        28277, 
+        32283
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 34849, 
+    "name": "Job the Leprechaun", 
+    "platforms": [
+        6, 
+        14, 
+        41, 
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1450310400000, 
+            "human": "2015-Dec-17", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1442966400000, 
+            "human": "2015-Sep-23", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1438300800000, 
+            "human": "2015-Jul-31", 
+            "m": 7, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1438300800000, 
+            "human": "2015-Jul-31", 
+            "m": 7, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1438300800000, 
+            "human": "2015-Jul-31", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mjfcexhu3zlmh3vhdqby", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mjfcexhu3zlmh3vhdqby.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ptap0dr6ygyjjciehr4r", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ptap0dr6ygyjjciehr4r.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uh41yivrbimewytosjh1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uh41yivrbimewytosjh1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "czvx84anpuxoz9ed90mg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/czvx84anpuxoz9ed90mg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "sa7bqt11j2vvg8pdkwid", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sa7bqt11j2vvg8pdkwid.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "job-the-leprechaun", 
+    "summary": "Help Job the Leprechaun to rescue his friend Eri in this retro style Platformer Game.", 
+    "tags": [
+        268435488
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523413230898, 
+    "url": "https://www.igdb.com/games/job-the-leprechaun", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://herrerogames.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/386420"
+        }
+    ]
+}

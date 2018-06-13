@@ -1,0 +1,355 @@
+{
+    "aggregated_rating": 68.5714285714286, 
+    "aggregated_rating_count": 7, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "grhxqjjzpum9rxtrdocn", 
+        "height": 892, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/grhxqjjzpum9rxtrdocn.jpg", 
+        "width": 1600
+    }, 
+    "created_at": 1465744546544, 
+    "developers": [
+        10301
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "284240"
+    }, 
+    "first_release_date": 1480550400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        9730, 
+        86657, 
+        5601, 
+        11233, 
+        54678, 
+        9727, 
+        9655, 
+        19448, 
+        17354, 
+        11270
+    ], 
+    "genres": [
+        9, 
+        31, 
+        32
+    ], 
+    "hypes": 2, 
+    "id": 19518, 
+    "keywords": [
+        72, 
+        488, 
+        665, 
+        1027, 
+        1068, 
+        1158, 
+        1507, 
+        2542, 
+        2992, 
+        4134, 
+        4138, 
+        4162, 
+        4196, 
+        4199, 
+        4219, 
+        4287, 
+        4330, 
+        4342, 
+        4363, 
+        4375, 
+        4414, 
+        4526, 
+        4541, 
+        4579, 
+        4589, 
+        4594, 
+        4609, 
+        4619, 
+        4626, 
+        4628, 
+        4630, 
+        4727, 
+        5137, 
+        5222, 
+        5272, 
+        5274, 
+        5362, 
+        5363, 
+        5366, 
+        5446, 
+        5513, 
+        5520, 
+        5522, 
+        5549, 
+        5616, 
+        5617, 
+        5753, 
+        5821, 
+        5982, 
+        6119, 
+        6261, 
+        6401, 
+        6419, 
+        6428, 
+        6434, 
+        6627, 
+        6633, 
+        6675, 
+        6676, 
+        6923, 
+        6935, 
+        7188, 
+        7514, 
+        7672, 
+        7680, 
+        8114, 
+        8115, 
+        8679, 
+        9093, 
+        9094, 
+        9095, 
+        9096, 
+        9097, 
+        9098, 
+        9099, 
+        9100, 
+        9101, 
+        11555
+    ], 
+    "name": "Maize", 
+    "platforms": [
+        45, 
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 5.333333333333333, 
+    "pulse_count": 9, 
+    "rating": 80.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1505174400000, 
+            "human": "2017-Sep-12", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505174400000, 
+            "human": "2017-Sep-12", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1480550400000, 
+            "human": "2016-Dec-01", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1505088000000, 
+            "human": "2017-Sep-11", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505174400000, 
+            "human": "2017-Sep-12", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1480550400000, 
+            "human": "2016-Dec-01", 
+            "m": 12, 
+            "platform": 6, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "fwtsi62g4l41hwulnrdn", 
+            "height": 1842, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fwtsi62g4l41hwulnrdn.jpg", 
+            "width": 3051
+        }, 
+        {
+            "cloudinary_id": "bhh1g4vykmeof55rebfz", 
+            "height": 1842, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bhh1g4vykmeof55rebfz.jpg", 
+            "width": 3051
+        }, 
+        {
+            "cloudinary_id": "igmxuwwj3degong4rqz8", 
+            "height": 1842, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/igmxuwwj3degong4rqz8.jpg", 
+            "width": 3051
+        }, 
+        {
+            "cloudinary_id": "f3wjikpyahjencm8z3df", 
+            "height": 1842, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f3wjikpyahjencm8z3df.jpg", 
+            "width": 3051
+        }, 
+        {
+            "cloudinary_id": "enui9xazzx1cwiplxivl", 
+            "height": 1842, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/enui9xazzx1cwiplxivl.jpg", 
+            "width": 3051
+        }
+    ], 
+    "slug": "maize", 
+    "summary": "Channeling elements of Monty Python and the funnier episodes of the X-Files, Maize is an absurdist, first-person adventure with a cornucopia of highbrow puzzles to solve, talking oddities to meet, and mysteries to be harvested.", 
+    "tags": [
+        18, 
+        27, 
+        43, 
+        268435465, 
+        268435487, 
+        268435488, 
+        536870984, 
+        536871400, 
+        536871577, 
+        536871939, 
+        536871980, 
+        536872070, 
+        536872419, 
+        536873454, 
+        536873904, 
+        536875046, 
+        536875050, 
+        536875074, 
+        536875108, 
+        536875111, 
+        536875131, 
+        536875199, 
+        536875242, 
+        536875254, 
+        536875275, 
+        536875287, 
+        536875326, 
+        536875438, 
+        536875453, 
+        536875491, 
+        536875501, 
+        536875506, 
+        536875521, 
+        536875531, 
+        536875538, 
+        536875540, 
+        536875542, 
+        536875639, 
+        536876049, 
+        536876134, 
+        536876184, 
+        536876186, 
+        536876274, 
+        536876275, 
+        536876278, 
+        536876358, 
+        536876425, 
+        536876432, 
+        536876434, 
+        536876461, 
+        536876528, 
+        536876529, 
+        536876665, 
+        536876733, 
+        536876894, 
+        536877031, 
+        536877173, 
+        536877313, 
+        536877331, 
+        536877340, 
+        536877346, 
+        536877539, 
+        536877545, 
+        536877587, 
+        536877588, 
+        536877835, 
+        536877847, 
+        536878100, 
+        536878426, 
+        536878584, 
+        536878592, 
+        536879026, 
+        536879027, 
+        536879591, 
+        536880005, 
+        536880006, 
+        536880007, 
+        536880008, 
+        536880009, 
+        536880010, 
+        536880011, 
+        536880012, 
+        536880013, 
+        536882467, 
+        1073741825
+    ], 
+    "themes": [
+        18, 
+        27, 
+        43
+    ], 
+    "total_rating": 74.2857142857143, 
+    "total_rating_count": 8, 
+    "updated_at": 1528894374543, 
+    "url": "https://www.igdb.com/games/maize", 
+    "videos": [
+        {
+            "name": "Announcement Trailer", 
+            "video_id": "QtBHj6x6oUI"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "xp6JhgghBb4"
+        }, 
+        {
+            "name": "Meet Vladdy Trailer", 
+            "video_id": "ddgNdHTR20Q"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/284240"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.MaizeTheGame.com"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/finishlinegames"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/FinishLineGames"
+        }
+    ]
+}

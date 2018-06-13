@@ -1,0 +1,153 @@
+{
+    "aggregated_rating": 85.0, 
+    "aggregated_rating_count": 1, 
+    "category": 1, 
+    "collection": 2251, 
+    "cover": {
+        "cloudinary_id": "vcjszu6bl7s72p5s52g1", 
+        "height": 211, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vcjszu6bl7s72p5s52g1.jpg", 
+        "width": 593
+    }, 
+    "created_at": 1468445496461, 
+    "developers": [
+        1006
+    ], 
+    "first_release_date": 1403568000000, 
+    "game": 6007, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        28029, 
+        76246, 
+        19341, 
+        10039, 
+        32902, 
+        68287, 
+        68142, 
+        28751, 
+        10209, 
+        51485
+    ], 
+    "genres": [
+        5, 
+        33
+    ], 
+    "id": 20327, 
+    "keywords": [
+        166
+    ], 
+    "name": "Resogun: Heroes", 
+    "platforms": [
+        45, 
+        48
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        4897
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1403654400000, 
+            "human": "2014-Jun-25", 
+            "m": 6, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403568000000, 
+            "human": "2014-Jun-24", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403654400000, 
+            "human": "2014-Jun-25", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "spdsgnmkaqpr8fznaidr", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/spdsgnmkaqpr8fznaidr.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "g0jhvmgj6kwp1xorjbka", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g0jhvmgj6kwp1xorjbka.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "sfib9qmaargbgrdiekos", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sfib9qmaargbgrdiekos.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tqqumkjoznhodfrtym10", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tqqumkjoznhodfrtym10.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "hbjrz1s5xvweebnwulri", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hbjrz1s5xvweebnwulri.jpg", 
+            "width": 1600
+        }
+    ], 
+    "slug": "resogun-heroes", 
+    "summary": "Survival Mode is RESOGUN turned up to 11 \u2013 you only have a single life to last as long as you can. However, a few things have changed to improve the odds in your favour.\n\nParachuting into the level frequently, humans can be immediately collected to power up weapons and give you the edge with perks like improved shield, Clock (turbo speed), overcharged weapons and much more. Add those to your boost, overdrive and guns and you\u2019re a true force to be reckoned with.\n\nIn addition to this we have a couple of extra things to keep you pushing forward against the waves.\n\nFallen Heroes: These are holograms of your ship placed on a timeline representing your best performance to date. Do better and the Fallen Hero will activate \u2013 if collected, it will improve your shield and weapons to aid your survival.\nMonuments: Nothing pushes you like beating your friends! In Survival we place Monuments representing your friends (or global) scores around you. Beat the score to destroy the monument as you move up the leaderboards to glory.\nIn Demolition you take the fight armed only with a wrecking ball powered by proximity bombs. No other weapons, boost or overdrive here. Be careful though, as the wrecking ball will fly off around the stage destroying everything it hits\u2026 including you!", 
+    "tags": [
+        1, 
+        268435461, 
+        268435489, 
+        536871078, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 85.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1517270604723, 
+    "url": "https://www.igdb.com/games/resogun-heroes", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "pMHwyAyaHGM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.housemarque.com/games/resogun/"
+        }
+    ]
+}

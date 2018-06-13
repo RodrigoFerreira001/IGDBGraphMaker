@@ -1,0 +1,182 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "hjaw00zxmnadvno6hdku", 
+        "height": 720, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hjaw00zxmnadvno6hdku.jpg", 
+        "width": 672
+    }, 
+    "created_at": 1474293194187, 
+    "developers": [
+        10964
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1441670400000, 
+    "games": [
+        27266, 
+        19289, 
+        25222, 
+        25646, 
+        236, 
+        27725, 
+        37094, 
+        26239, 
+        51978, 
+        51485
+    ], 
+    "genres": [
+        8, 
+        9, 
+        31
+    ], 
+    "id": 24042, 
+    "keywords": [
+        1118
+    ], 
+    "name": "Leo's Fortune HD Edition", 
+    "platforms": [
+        34, 
+        6, 
+        39, 
+        14, 
+        48, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        10965
+    ], 
+    "rating": 90.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1448409600000, 
+            "human": "2015-Nov-25", 
+            "m": 11, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1441670400000, 
+            "human": "2015-Sep-08", 
+            "m": 9, 
+            "platform": 6, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1441670400000, 
+            "human": "2015-Sep-08", 
+            "m": 9, 
+            "platform": 14, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1441670400000, 
+            "human": "2015-Sep-08", 
+            "m": 9, 
+            "platform": 48, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1441670400000, 
+            "human": "2015-Sep-08", 
+            "m": 9, 
+            "platform": 49, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1441670400000, 
+            "human": "2015-Sep-08", 
+            "m": 9, 
+            "platform": 39, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1441670400000, 
+            "human": "2015-Sep-08", 
+            "m": 9, 
+            "platform": 34, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "usqa1xxrbtxvob8ehqym", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/usqa1xxrbtxvob8ehqym.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "ah5r8gvci1ahvzdqbdke", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ah5r8gvci1ahvzdqbdke.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "ecassclku8n1zikszso9", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ecassclku8n1zikszso9.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "wged90yigh9okybjyahd", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wged90yigh9okybjyahd.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "qaibrome25mrrjqumbva", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qaibrome25mrrjqumbva.jpg", 
+            "width": 800
+        }
+    ], 
+    "slug": "leos-fortune-hd-edition", 
+    "summary": "Leo\u2019s Fortune is an award-winning platform adventure game where you hunt down the cunning and mysterious thief that stole your gold. Beautifully hand-crafted levels bring the story of Leo to life in this epic adventure.", 
+    "tags": [
+        40, 
+        268435464, 
+        268435465, 
+        268435487, 
+        536872030
+    ], 
+    "themes": [
+        40
+    ], 
+    "total_rating": 75.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1524752187103, 
+    "url": "https://www.igdb.com/games/leos-fortune-hd-edition", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "SH9KnEgPsXc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.leosfortune.com/"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/leosfortune"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/leosfortune"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "aggregated_rating": 55.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "yy1gpmdrrmd2qbm3zybn", 
+        "height": 262, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yy1gpmdrrmd2qbm3zybn.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1468363551769, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1204761600000, 
+    "games": [
+        26766, 
+        68287, 
+        25300, 
+        36950, 
+        71455, 
+        27314, 
+        19448, 
+        19301, 
+        19350, 
+        23212
+    ], 
+    "id": 20273, 
+    "keywords": [
+        201, 
+        947, 
+        970, 
+        1623, 
+        4246, 
+        4283, 
+        4446, 
+        4869, 
+        4890, 
+        5331, 
+        5450, 
+        5503, 
+        5526, 
+        13083
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Rocketmen: Axis of Evil", 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1209081600000, 
+            "human": "2008-Apr-25", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1204761600000, 
+            "human": "2008-Mar-06", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1207353600000, 
+            "human": "2008-Apr-05", 
+            "m": 4, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jie4p5otslomllazivv3", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jie4p5otslomllazivv3.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "rocketmen-axis-of-evil", 
+    "summary": "Rocketmen: Axis of Evil is a downloadable top-down shooter developed by A.C.R.O.N.Y.M. Games, Eyerisk Studios and published by Capcom for the PlayStation 3 and Xbox 360. The game is based on the constructible strategy game called Rocketmen from WizKids. It supports 1-4 person cooperative play either online or offline.", 
+    "tags": [
+        18, 
+        536871113, 
+        536871859, 
+        536871882, 
+        536872535, 
+        536875158, 
+        536875195, 
+        536875358, 
+        536875781, 
+        536875802, 
+        536876243, 
+        536876362, 
+        536876415, 
+        536876438, 
+        536883995
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 55.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1520002974974, 
+    "url": "https://www.igdb.com/games/rocketmen-axis-of-evil"
+}

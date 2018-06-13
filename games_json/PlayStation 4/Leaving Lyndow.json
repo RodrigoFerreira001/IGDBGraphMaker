@@ -1,0 +1,160 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "des8hid9xr7hvabrln1o", 
+        "height": 512, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/des8hid9xr7hvabrln1o.jpg", 
+        "width": 512
+    }, 
+    "created_at": 1487035987412, 
+    "developers": [
+        8776
+    ], 
+    "external": {
+        "steam": "585840"
+    }, 
+    "first_release_date": 1486512000000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        27266, 
+        28277, 
+        19289, 
+        63734, 
+        72412, 
+        13189, 
+        55289, 
+        63718, 
+        37022, 
+        25222
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 27139, 
+    "keywords": [
+        962, 
+        1493, 
+        1697, 
+        2493
+    ], 
+    "name": "Leaving Lyndow", 
+    "platforms": [
+        45, 
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        8776
+    ], 
+    "pulse_count": 2, 
+    "rating": 80.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1501113600000, 
+            "human": "2017-Jul-27", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1500940800000, 
+            "human": "2017-Jul-25", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1486512000000, 
+            "human": "2017-Feb-08", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bnms5cpxhimrygvaoo3i", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bnms5cpxhimrygvaoo3i.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "imk0rcw0et4h8ef60jsg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/imk0rcw0et4h8ef60jsg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tvkuyzoiqqisiolk0rnr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tvkuyzoiqqisiolk0rnr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "eb6biqdoafaahodg2j13", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eb6biqdoafaahodg2j13.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "g2hgcdnyb9ejyfwzibes", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g2hgcdnyb9ejyfwzibes.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "leaving-lyndow", 
+    "summary": "Leaving Lyndow is a short, first-person exploration adventure game, set in the Eastshade universe. It's Clara's last day on the island where she grew up. With high honors, she's graduated and fulfilled her childhood dream of joining the Guild of Maritime Exploration. She needs to complete preparations, visit her favorite places, and say her goodbyes before leaving on a journey she may not return from. *dangerous journey not included*", 
+    "tags": [
+        268435487, 
+        268435488, 
+        536871874, 
+        536872405, 
+        536872609, 
+        536873405, 
+        1073741825
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1523359174770, 
+    "url": "https://www.igdb.com/games/leaving-lyndow", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "jTYiaY2DI5Q"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "-QOhu4iklCU"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/585840"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.eastshade.com/leaving-lyndow/"
+        }
+    ]
+}

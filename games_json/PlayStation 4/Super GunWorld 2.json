@@ -1,0 +1,128 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qkufghfenw4wsmf5yjyc", 
+        "height": 698, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qkufghfenw4wsmf5yjyc.jpg", 
+        "width": 584
+    }, 
+    "created_at": 1487538272196, 
+    "external": {
+        "steam": "514220"
+    }, 
+    "first_release_date": 1471392000000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        55289, 
+        47823, 
+        25300, 
+        25311, 
+        16468, 
+        23175, 
+        55752, 
+        59516, 
+        51485, 
+        72412
+    ], 
+    "genres": [
+        8, 
+        12, 
+        31, 
+        32
+    ], 
+    "id": 27300, 
+    "keywords": [
+        1033, 
+        2049
+    ], 
+    "name": "Super GunWorld 2", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        10616
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1486425600000, 
+            "human": "2017-Feb-07", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1471392000000, 
+            "human": "2016-Aug-17", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "szgwwn5gg1uo86cgpjal", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/szgwwn5gg1uo86cgpjal.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qpejfaz7mcwl7snurnrm", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qpejfaz7mcwl7snurnrm.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "sg8skfei3rdpvj4bq4lm", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sg8skfei3rdpvj4bq4lm.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qxfztvql3bwfla7a7tch", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qxfztvql3bwfla7a7tch.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "i5yzmbufxnshbewpwemo", 
+            "height": 376, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i5yzmbufxnshbewpwemo.jpg", 
+            "width": 670
+        }
+    ], 
+    "slug": "super-gunworld-2", 
+    "summary": "Plant seeds, grow guns, level up and collect gear in this platformer/RPG hybrid.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435468, 
+        268435487, 
+        268435488, 
+        536871945, 
+        536872961
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1523380693257, 
+    "url": "https://www.igdb.com/games/super-gunworld-2", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/514220"
+        }
+    ]
+}

@@ -1,0 +1,373 @@
+{
+    "aggregated_rating": 68.4444444444444, 
+    "aggregated_rating_count": 21, 
+    "category": 0, 
+    "collection": 4191, 
+    "cover": {
+        "cloudinary_id": "zkrhtnqtufpmvhg1w3wf", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zkrhtnqtufpmvhg1w3wf.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1370941120394, 
+    "developers": [
+        94
+    ], 
+    "dlcs": [
+        26201, 
+        19869, 
+        18161, 
+        20470, 
+        23293, 
+        26404
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is a first/third-person shooter set within the events of the Star Wars saga. Players select between one of two opposing factions (Rebels and Imperials) battling for control throughout different worlds. Players use blasters, pulse cannons, rocket launchers, and thermal detonators to defeat enemy soldiers and armored vehicles. Battles are frenetic and accompanied by large explosions, laser-fire effects, and cries of pain. In some game modes, players pilot/ride a variety of vehicles and use lasers/missiles to defeat enemies. One character performs a Force Choke against soldiers, temporarily lifting them off the ground as they react with a choking-like gesture.\r\n\r\nOnline Interactions Not Rated by the ESRB"
+    }, 
+    "first_release_date": 1447718400000, 
+    "franchise": 1, 
+    "franchises": [
+        1
+    ], 
+    "game_engines": [
+        2
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        26401, 
+        7349, 
+        11253, 
+        7360, 
+        11156, 
+        73, 
+        68287, 
+        36950, 
+        6732, 
+        7331
+    ], 
+    "genres": [
+        5
+    ], 
+    "hypes": 89, 
+    "id": 2113, 
+    "keywords": [
+        3, 
+        563, 
+        967, 
+        970, 
+        1025, 
+        1293, 
+        1333, 
+        1637, 
+        1971, 
+        2543, 
+        3831, 
+        4134, 
+        4221, 
+        4234, 
+        4245, 
+        4282, 
+        4520, 
+        4677, 
+        4768, 
+        4796, 
+        4890, 
+        4895, 
+        4901, 
+        4907, 
+        4918, 
+        4924, 
+        4929, 
+        4936, 
+        5315, 
+        5318, 
+        5343, 
+        5345, 
+        5357, 
+        5379, 
+        5417, 
+        6197, 
+        6245, 
+        6278, 
+        6279, 
+        6280, 
+        6281, 
+        6282, 
+        6283, 
+        6284, 
+        6285, 
+        6286, 
+        6287, 
+        6288, 
+        6289
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Star Wars Battlefront", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\n\r\nIt contains: Realistic looking violence"
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 19.0, 
+    "publishers": [
+        1
+    ], 
+    "pulse_count": 65, 
+    "rating": 71.3236243806638, 
+    "rating_count": 150, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1447718400000, 
+            "human": "2015-Nov-17", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1447718400000, 
+            "human": "2015-Nov-17", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1447718400000, 
+            "human": "2015-Nov-17", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1447891200000, 
+            "human": "2015-Nov-19", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1447891200000, 
+            "human": "2015-Nov-19", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 3, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1447891200000, 
+            "human": "2015-Nov-19", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 3, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1447977600000, 
+            "human": "2015-Nov-20", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1447977600000, 
+            "human": "2015-Nov-20", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1447977600000, 
+            "human": "2015-Nov-20", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hqqy1bqm4h5bhyfmff7p", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hqqy1bqm4h5bhyfmff7p.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "aszlnl2sbk0lgpuextwo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aszlnl2sbk0lgpuextwo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ao7ucz0yosbyvsrncym7", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ao7ucz0yosbyvsrncym7.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kcjv9mhevpmzadowfwga", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kcjv9mhevpmzadowfwga.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "obhcy7ndrtie7jukbqqx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/obhcy7ndrtie7jukbqqx.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "star-wars-battlefront--1", 
+    "summary": "In 2004, the original Star Wars: Battlefront came onto the scene and took gamers \u2013 and Star Wars fans \u2013 by surprise. It was an ambitious action shooter that gave players the opportunity to step into the shoes of their favorite Star Wars characters, pilot quintessential Star Wars vehicles, and relive classic Star Wars battles. \n \nFast forward nearly 10 years and gamers still have many of those same Star Wars gaming fantasies \u2013 but now they wish to experience those larger-than-life battles in magnificent high definition, with all of the amazing special effects, vehicle physics and gameplay intensity that the next-generation has to offer. \n \nStar Wars Battlefront, developed by DICE on Frostbite 3, will surprise and delight fans yet again with a new experience inside this beloved universe made with our signature DICE craftsmanship and commitment to excellence.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        536870915, 
+        536871475, 
+        536871879, 
+        536871882, 
+        536871937, 
+        536872205, 
+        536872245, 
+        536872549, 
+        536872883, 
+        536873455, 
+        536874743, 
+        536875046, 
+        536875133, 
+        536875146, 
+        536875157, 
+        536875194, 
+        536875432, 
+        536875589, 
+        536875680, 
+        536875708, 
+        536875802, 
+        536875807, 
+        536875813, 
+        536875819, 
+        536875830, 
+        536875836, 
+        536875841, 
+        536875848, 
+        536876227, 
+        536876230, 
+        536876255, 
+        536876257, 
+        536876269, 
+        536876291, 
+        536876329, 
+        536877109, 
+        536877157, 
+        536877190, 
+        536877191, 
+        536877192, 
+        536877193, 
+        536877194, 
+        536877195, 
+        536877196, 
+        536877197, 
+        536877198, 
+        536877199, 
+        536877200, 
+        536877201, 
+        1073741826, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 69.8840344125541, 
+    "total_rating_count": 171, 
+    "updated_at": 1528432450686, 
+    "url": "https://www.igdb.com/games/star-wars-battlefront--1", 
+    "videos": [
+        {
+            "name": "Fighter Squadron Trailer", 
+            "video_id": "6_FCXCpZWYU"
+        }, 
+        {
+            "name": "E3 2015 Co-Op Missions Gameplay", 
+            "video_id": "lg_ht2GfQJU"
+        }, 
+        {
+            "name": "Reveal Trailer", 
+            "video_id": "eNy9LIZscXA"
+        }, 
+        {
+            "name": "Paris Games Week 2015 Trailer", 
+            "video_id": "QV47USNZk1Y"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/EAStarWars"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/EAStarWars"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/EAStarWars"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://starwars.wikia.com/wiki/Star_Wars_Battlefront"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/EAStarWars"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game)"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.ea.com/ca/star-wars-battlefront"
+        }
+    ]
+}

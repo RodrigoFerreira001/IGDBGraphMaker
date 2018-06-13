@@ -1,0 +1,151 @@
+{
+    "aggregated_rating": 72.5, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "collection": 127, 
+    "cover": {
+        "cloudinary_id": "nj3cztf7xtyx1ltcx8gc", 
+        "height": 781, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nj3cztf7xtyx1ltcx8gc.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1429743554520, 
+    "developers": [
+        398
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1068163200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        36594, 
+        9760, 
+        27220, 
+        1850, 
+        1847, 
+        1844, 
+        76229, 
+        28029, 
+        13196, 
+        17446
+    ], 
+    "genres": [
+        5, 
+        24
+    ], 
+    "id": 9891, 
+    "name": "Tom Clancy's Rainbow Six 3", 
+    "platforms": [
+        11, 
+        21, 
+        8
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.666666666666667, 
+    "rating": 62.872961775733, 
+    "rating_count": 5, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1080086400000, 
+            "human": "2004-Mar-24", 
+            "m": 3, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1080259200000, 
+            "human": "2004-Mar-26", 
+            "m": 3, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1113091200000, 
+            "human": "2005-Apr-10", 
+            "m": 4, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1068595200000, 
+            "human": "2003-Nov-12", 
+            "m": 11, 
+            "platform": 11, 
+            "region": 2, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1068163200000, 
+            "human": "2003-Nov-07", 
+            "m": 11, 
+            "platform": 11, 
+            "region": 1, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1089244800000, 
+            "human": "2004-Jul-08", 
+            "m": 7, 
+            "platform": 11, 
+            "region": 5, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1087430400000, 
+            "human": "2004-Jun-17", 
+            "m": 6, 
+            "platform": 21, 
+            "region": 2, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1088121600000, 
+            "human": "2004-Jun-25", 
+            "m": 6, 
+            "platform": 21, 
+            "region": 1, 
+            "y": 2004
+        }
+    ], 
+    "slug": "tom-clancys-rainbow-six-3", 
+    "storyline": "\"When a terrorist plot threatens to tilt the balance of peace between the United States and Saudi Arabia, team Rainbow is the only answer. Execute your missions with deadly force and precise tactics in order to protect the innocent and ensure peace.\"", 
+    "summary": "Team Rainbow faces the hidden global forces of a new and secretive foe; command Rainbow in a race against time in locations around the world.", 
+    "tags": [
+        39, 
+        268435461, 
+        268435480, 
+        1073741825
+    ], 
+    "themes": [
+        39
+    ], 
+    "total_rating": 67.6864808878665, 
+    "total_rating_count": 11, 
+    "updated_at": 1527973591522, 
+    "url": "https://www.igdb.com/games/tom-clancys-rainbow-six-3", 
+    "version_parent": 908, 
+    "version_title": "Console version", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "HsDW6qHTcs8"
+        }
+    ]
+}

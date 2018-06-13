@@ -1,0 +1,94 @@
+{
+    "aggregated_rating": 73.2, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "collection": 783, 
+    "cover": {
+        "cloudinary_id": "i0yx8tmscqhim4afmhx1", 
+        "height": 278, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/i0yx8tmscqhim4afmhx1.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1469227990015, 
+    "first_release_date": 1361836800000, 
+    "games": [
+        23175, 
+        37022, 
+        55289, 
+        42080, 
+        59516, 
+        44191, 
+        12579, 
+        25646, 
+        25311, 
+        1221
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 21000, 
+    "name": "Ninja Gaiden Sigma 2 Plus", 
+    "platforms": [
+        46
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1362009600000, 
+            "human": "2013-Feb-28", 
+            "m": 2, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1361836800000, 
+            "human": "2013-Feb-26", 
+            "m": 2, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1362096000000, 
+            "human": "2013-Mar-01", 
+            "m": 3, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1364256000000, 
+            "human": "2013-Mar-26", 
+            "m": 3, 
+            "platform": 46, 
+            "region": 8, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "puoiigm5mlnvtbchj92a", 
+            "height": 368, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/puoiigm5mlnvtbchj92a.jpg", 
+            "width": 650
+        }
+    ], 
+    "slug": "ninja-gaiden-sigma-2-plus", 
+    "summary": "Ninja Gaiden \u03a32 gets updated with amazing graphics, brutal violence, and all-new gameplay challenges!", 
+    "tags": [
+        1, 
+        268435487
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 73.2, 
+    "total_rating_count": 6, 
+    "updated_at": 1507409771079, 
+    "url": "https://www.igdb.com/games/ninja-gaiden-sigma-2-plus"
+}

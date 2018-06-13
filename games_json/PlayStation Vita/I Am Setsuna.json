@@ -1,0 +1,364 @@
+{
+    "aggregated_rating": 75.5555555555556, 
+    "aggregated_rating_count": 29, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Project Setsuna"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Ikenie to Yuki no Setsuna"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u3044\u3051\u306b\u3048\u3068\u96ea\u306e\u30bb\u30c4\u30ca"
+        }, 
+        {
+            "name": "Setsuna of Sacrifice and Snow"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "nivtkuwyhs536ou2m9sm", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nivtkuwyhs536ou2m9sm.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "lwio6v4gxdjy6nfmdt8x", 
+            "height": 707, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lwio6v4gxdjy6nfmdt8x.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "qvhgjscdc1o3t8yjaoqw", 
+            "height": 513, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qvhgjscdc1o3t8yjaoqw.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "bfpbsvosu1zajjxts3hi", 
+            "height": 708, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bfpbsvosu1zajjxts3hi.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "vhrb0hrjo6jqcrj2rwlr", 
+            "height": 9355, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vhrb0hrjo6jqcrj2rwlr.jpg", 
+            "width": 6615
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qwrv3hpaivxj9rz1akyv", 
+        "height": 544, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qwrv3hpaivxj9rz1akyv.jpg", 
+        "width": 499
+    }, 
+    "created_at": 1461332430717, 
+    "developers": [
+        7066
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "441830"
+    }, 
+    "first_release_date": 1455753600000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        11214, 
+        36534, 
+        6732, 
+        12632, 
+        25921, 
+        13558, 
+        11567, 
+        55092, 
+        17583, 
+        18822
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "hypes": 1, 
+    "id": 18861, 
+    "keywords": [
+        78, 
+        226, 
+        296, 
+        521, 
+        594, 
+        1026, 
+        1158, 
+        1208, 
+        1494, 
+        1528, 
+        1705, 
+        1921, 
+        2085, 
+        2202, 
+        2399, 
+        2426, 
+        2500, 
+        3898, 
+        4004, 
+        4134, 
+        4145, 
+        4388, 
+        4523, 
+        4849, 
+        4871, 
+        4883, 
+        5343
+    ], 
+    "name": "I Am Setsuna", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\n\r\n\r\nIt contains: Non realistic looking violence towards fantasy characters -"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        46, 
+        48, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        5670, 
+        26
+    ], 
+    "pulse_count": 27, 
+    "rating": 79.9927431421091, 
+    "rating_count": 8, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1488499200000, 
+            "human": "2017-Mar-03", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1468886400000, 
+            "human": "2016-Jul-19", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468886400000, 
+            "human": "2016-Jul-19", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1455753600000, 
+            "human": "2016-Feb-18", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1488499200000, 
+            "human": "2017-Mar-03", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1455753600000, 
+            "human": "2016-Feb-18", 
+            "m": 2, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468886400000, 
+            "human": "2016-Jul-19", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468886400000, 
+            "human": "2016-Jul-19", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ve6mhuv69bsvryni3hfc", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ve6mhuv69bsvryni3hfc.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "glw0pbkafwqntoopjgih", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/glw0pbkafwqntoopjgih.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "axblvb3ydtjnpo9wq2l7", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/axblvb3ydtjnpo9wq2l7.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "xb3rh8spz5omgf631wqm", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xb3rh8spz5omgf631wqm.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "fkh0jsqsiajwbgctyvdr", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fkh0jsqsiajwbgctyvdr.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "co9v41gswvpgbgvl2seq", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9v41gswvpgbgvl2seq.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "eatmq11aup8f5tblec71", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eatmq11aup8f5tblec71.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "gi9nspc7mdgf5ml5syv6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gi9nspc7mdgf5ml5syv6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qmlebcgfhzmlqo62jjsq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qmlebcgfhzmlqo62jjsq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bpjw9lwacshladda5qzk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bpjw9lwacshladda5qzk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ur3wfk27pn22xkztfsv3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ur3wfk27pn22xkztfsv3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pe1elagllkflnpx5w6br", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pe1elagllkflnpx5w6br.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "i-am-setsuna", 
+    "storyline": "\"The island had a custom. \nTo maintain peace, once a decade, a sacrifice was offered to a fiend on the island. However, one year, the fiend grew violent before the next sacrifice was due. Those living on the island were afraid and tried to calm the fiend by offering a sacrifice; Setsuna, chosen because of her powers of enchantment. Setsuna must leave with her safeguards for the farthest land, where the ceremony of sacrifice will be held.\"", 
+    "summary": "I Am Setsuna introduces the authentic JRPG style of yesteryear to PlayStation\u00ae4 and Steam! Journey with Setsuna as she prepares to make the ultimate sacrifice and save the people of her land. A powerfully nostalgic experience, blending a classic style of story-telling, battle system and gameplay.", 
+    "tags": [
+        17, 
+        31, 
+        268435468, 
+        268435487, 
+        536870990, 
+        536871138, 
+        536871208, 
+        536871433, 
+        536871506, 
+        536871938, 
+        536872070, 
+        536872120, 
+        536872406, 
+        536872440, 
+        536872617, 
+        536872833, 
+        536872997, 
+        536873114, 
+        536873311, 
+        536873338, 
+        536873412, 
+        536874810, 
+        536874916, 
+        536875046, 
+        536875057, 
+        536875300, 
+        536875435, 
+        536875761, 
+        536875783, 
+        536875795, 
+        536876255, 
+        1073741827
+    ], 
+    "themes": [
+        17, 
+        31
+    ], 
+    "total_rating": 77.77414934883235, 
+    "total_rating_count": 37, 
+    "updated_at": 1526040605899, 
+    "url": "https://www.igdb.com/games/i-am-setsuna", 
+    "videos": [
+        {
+            "name": "Teaser", 
+            "video_id": "5Aeigc_bjFA"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "4txT2EicrHE"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/441830"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.iamsetsuna.com/"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/I_Am_Setsuna"
+        }
+    ]
+}

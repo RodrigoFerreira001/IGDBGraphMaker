@@ -1,0 +1,103 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "xzrcclweboghwpielsta", 
+        "height": 281, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xzrcclweboghwpielsta.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1505048899639, 
+    "first_release_date": 1374105600000, 
+    "games": [
+        79412, 
+        43892, 
+        41330, 
+        37110, 
+        21802, 
+        4408, 
+        80406, 
+        77450, 
+        67310, 
+        41231
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 62273, 
+    "keywords": [
+        299, 
+        4443
+    ], 
+    "name": "Undead Bowling", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1414627200000, 
+            "human": "2014-Oct-30", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1374105600000, 
+            "human": "2013-Jul-18", 
+            "m": 7, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dgxa3cqxpj7zuju3wpv0", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dgxa3cqxpj7zuju3wpv0.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "cpe0sshy5jkoexfcr16c", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cpe0sshy5jkoexfcr16c.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "kaugzuqw1v0dewinautg", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kaugzuqw1v0dewinautg.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "rgv4ojo7tvlwbljzxgmv", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rgv4ojo7tvlwbljzxgmv.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "dhecxjyphcy3wcg3wjrx", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dhecxjyphcy3wcg3wjrx.jpg", 
+            "width": 400
+        }
+    ], 
+    "slug": "undead-bowling", 
+    "summary": "Using a bowling ball to bowl down zombies that approaching the screen.", 
+    "tags": [
+        268435470, 
+        536871211, 
+        536875355
+    ], 
+    "updated_at": 1518018641002, 
+    "url": "https://www.igdb.com/games/undead-bowling", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.gstyle-games.com/en/3ds/undeadbowling/"
+        }
+    ]
+}

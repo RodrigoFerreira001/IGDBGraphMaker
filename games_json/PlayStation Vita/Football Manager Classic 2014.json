@@ -1,0 +1,74 @@
+{
+    "aggregated_rating": 40.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jn4wduenru3slwhnvil1", 
+        "height": 1481, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jn4wduenru3slwhnvil1.jpg", 
+        "width": 1169
+    }, 
+    "created_at": 1469141560725, 
+    "first_release_date": 1397174400000, 
+    "id": 20943, 
+    "name": "Football Manager Classic 2014", 
+    "platforms": [
+        46
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1397174400000, 
+            "human": "2014-Apr-11", 
+            "m": 4, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lujvhlf4tw8uq7nv6fvx", 
+            "height": 541, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lujvhlf4tw8uq7nv6fvx.jpg", 
+            "width": 959
+        }, 
+        {
+            "cloudinary_id": "wvlmg9rtasvuxffhqa6h", 
+            "height": 541, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wvlmg9rtasvuxffhqa6h.jpg", 
+            "width": 957
+        }, 
+        {
+            "cloudinary_id": "iuuojicjs4tniowr63ra", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iuuojicjs4tniowr63ra.jpg", 
+            "width": 958
+        }, 
+        {
+            "cloudinary_id": "a2mygx1skcfsa1if93bm", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a2mygx1skcfsa1if93bm.jpg", 
+            "width": 958
+        }, 
+        {
+            "cloudinary_id": "bpmsvdxyivfgetiomncz", 
+            "height": 539, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bpmsvdxyivfgetiomncz.jpg", 
+            "width": 957
+        }
+    ], 
+    "slug": "football-manager-classic-2014", 
+    "summary": "Football management simulation for PS Vita.", 
+    "total_rating": 40.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1501872526321, 
+    "url": "https://www.igdb.com/games/football-manager-classic-2014", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.footballmanager.com"
+        }
+    ]
+}

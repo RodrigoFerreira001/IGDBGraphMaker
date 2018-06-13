@@ -1,0 +1,174 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u307f\u3093\u306a\u3067\u307e\u3082\u3063\u3066\u9a0e\u58eb\uff5e\u59eb\u306e\u30c8\u30ad\u30e1\u30ad\u3089\u3077\u305d\u3067\u3043\uff5e"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "Minna de Mamotte Knight ~Hime no Tokimeki Rhapsody~"
+        }, 
+        {
+            "name": "Protect Me Knight 2"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2363, 
+    "cover": {
+        "cloudinary_id": "n2xmqlok3njntzqxxtac", 
+        "height": 487, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/n2xmqlok3njntzqxxtac.jpg", 
+        "width": 625
+    }, 
+    "created_at": 1471081869053, 
+    "developers": [
+        1568
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1469059200000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        47823, 
+        25311, 
+        36926, 
+        25300, 
+        12632, 
+        36608, 
+        9760, 
+        16468, 
+        17583, 
+        55092
+    ], 
+    "genres": [
+        12, 
+        15
+    ], 
+    "id": 22461, 
+    "keywords": [
+        77, 
+        126, 
+        171, 
+        296, 
+        1033
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 37, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Gotta Protectors", 
+    "platforms": [
+        37
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1568
+    ], 
+    "pulse_count": 1, 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1469059200000, 
+            "human": "2016-Jul-21", 
+            "m": 7, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ltouem3cbc3fy3r2n9hr", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ltouem3cbc3fy3r2n9hr.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "jd9yozuxcda6ofntz6s7", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jd9yozuxcda6ofntz6s7.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "zhwju4b5dznbbespo4jx", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zhwju4b5dznbbespo4jx.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "onsckzb3yotfvdxtzgxx", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/onsckzb3yotfvdxtzgxx.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "blxyxmasctutcszc3ikz", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/blxyxmasctutcszc3ikz.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "ftksoytvcffwhgphtr6y", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ftksoytvcffwhgphtr6y.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "gotta-protectors", 
+    "summary": "\"Gotta Protector is a cooperative Action, Tower Defense game.\nYou become a hero and battle against a bunch of monsters!\nTrain them, Get items and powers! Protect your princess!\n\nFeatures\n- Good old 8-bit style retro visual world!\n- There are 6 classes. Train them and get unique skills!\n- 100 stages and 4 difficulties each!\n- Co-op with 4 players!\n- Construct your own maps and share them via QR codes!\"", 
+    "tags": [
+        1, 
+        39, 
+        268435468, 
+        268435471, 
+        536870989, 
+        536871038, 
+        536871083, 
+        536871208, 
+        536871945, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        39
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1518063193034, 
+    "url": "https://www.igdb.com/games/gotta-protectors", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "zhycEgKcO5Q"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.ancient.co.jp/~game/gotta_protectors/"
+        }
+    ]
+}

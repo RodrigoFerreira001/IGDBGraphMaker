@@ -1,0 +1,92 @@
+{
+    "aggregated_rating": 72.5, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kpt2supbir7alagmuldg", 
+        "height": 560, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kpt2supbir7alagmuldg.jpg", 
+        "width": 467
+    }, 
+    "created_at": 1469285347363, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1261008000000, 
+    "games": [
+        25222, 
+        18167, 
+        76110, 
+        54678, 
+        60044, 
+        26223, 
+        14047, 
+        13163, 
+        6732, 
+        9174
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 21139, 
+    "keywords": [
+        966, 
+        1158, 
+        2875, 
+        4134, 
+        4135, 
+        5633, 
+        5653, 
+        12953
+    ], 
+    "name": "Puzzlegeddon", 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1277251200000, 
+            "human": "2010-Jun-23", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1261008000000, 
+            "human": "2009-Dec-17", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "md6jjkhlmsnktrdebrbm", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/md6jjkhlmsnktrdebrbm.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "puzzlegeddon", 
+    "summary": "Puzzle Geddon a puzzle brawler", 
+    "tags": [
+        268435465, 
+        536871878, 
+        536872070, 
+        536873787, 
+        536875046, 
+        536875047, 
+        536876545, 
+        536876565, 
+        536883865
+    ], 
+    "total_rating": 72.5, 
+    "total_rating_count": 3, 
+    "updated_at": 1516082199972, 
+    "url": "https://www.igdb.com/games/puzzlegeddon"
+}

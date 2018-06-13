@@ -1,0 +1,176 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kwijwtnswlwwzaxc9c2k", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kwijwtnswlwwzaxc9c2k.jpg", 
+        "width": 1920
+    }, 
+    "created_at": 1446033198039, 
+    "developers": [
+        4774
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "294000"
+    }, 
+    "first_release_date": 1447632000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        19934, 
+        19290, 
+        18623, 
+        19174, 
+        19448, 
+        23345, 
+        19376, 
+        6732, 
+        14760, 
+        11560
+    ], 
+    "genres": [
+        25, 
+        32, 
+        33
+    ], 
+    "id": 14380, 
+    "keywords": [
+        117, 
+        151, 
+        1299, 
+        1463, 
+        4134, 
+        4144, 
+        4871, 
+        4990, 
+        5025, 
+        5095, 
+        5316, 
+        5327, 
+        5379
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 8, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 8, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Knight Squad", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 2.0, 
+    "rating": 70.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1447632000000, 
+            "human": "2015-Nov-16", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1447632000000, 
+            "human": "2015-Nov-16", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "cbjv78tceolfl2rmsfp1", 
+            "height": 981, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cbjv78tceolfl2rmsfp1.jpg", 
+            "width": 1750
+        }, 
+        {
+            "cloudinary_id": "oli9zh4rfcfsstgmgftv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oli9zh4rfcfsstgmgftv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "k5kyeyalzbima63mf0ny", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k5kyeyalzbima63mf0ny.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hwzap8qevdmbgidl5hsf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hwzap8qevdmbgidl5hsf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nglrln0thysj7kgszyjy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nglrln0thysj7kgszyjy.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "knight-squad", 
+    "summary": "Knight Squad is a 1 to 8 player game that can be described as SNES era Bomberman meets Gauntlet. Play as a knight in the arena and defeat your opponents using epic weapons and power ups. Challenge your friends in the Versus mode or play as a team as you complete the challenges on each floor of Destiny's Tower.", 
+    "tags": [
+        1, 
+        22, 
+        268435481, 
+        268435488, 
+        268435489, 
+        536871029, 
+        536871063, 
+        536872211, 
+        536872375, 
+        536875046, 
+        536875056, 
+        536875783, 
+        536875902, 
+        536875937, 
+        536876007, 
+        536876228, 
+        536876239, 
+        536876291
+    ], 
+    "themes": [
+        1, 
+        22
+    ], 
+    "total_rating": 72.5, 
+    "total_rating_count": 3, 
+    "updated_at": 1528354703226, 
+    "url": "https://www.igdb.com/games/knight-squad", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/294000"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://knightsquadgame.com"
+        }
+    ]
+}

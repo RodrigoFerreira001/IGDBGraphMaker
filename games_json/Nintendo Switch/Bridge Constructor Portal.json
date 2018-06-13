@@ -1,0 +1,245 @@
+{
+    "aggregated_rating": 80.25, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 1347, 
+    "cover": {
+        "cloudinary_id": "yvvfgmetoearevkjmh9v", 
+        "height": 1695, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yvvfgmetoearevkjmh9v.jpg", 
+        "width": 1200
+    }, 
+    "created_at": 1512573083343, 
+    "developers": [
+        5254
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "684410"
+    }, 
+    "first_release_date": 1513728000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25311, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        32283, 
+        18623, 
+        73075, 
+        29173, 
+        25222
+    ], 
+    "genres": [
+        9, 
+        13, 
+        15
+    ], 
+    "id": 76770, 
+    "keywords": [
+        1682, 
+        2875, 
+        4148
+    ], 
+    "name": "Bridge Constructor Portal", 
+    "platforms": [
+        34, 
+        6, 
+        39, 
+        92, 
+        14, 
+        48, 
+        49, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 5.0, 
+    "publishers": [
+        3010
+    ], 
+    "pulse_count": 26, 
+    "rating": 90.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1519776000000, 
+            "human": "2018-Feb-28", 
+            "m": 2, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1519862400000, 
+            "human": "2018-Mar-01", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1519776000000, 
+            "human": "2018-Feb-28", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1513728000000, 
+            "human": "2017-Dec-20", 
+            "m": 12, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513728000000, 
+            "human": "2017-Dec-20", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513728000000, 
+            "human": "2017-Dec-20", 
+            "m": 12, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513728000000, 
+            "human": "2017-Dec-20", 
+            "m": 12, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513728000000, 
+            "human": "2017-Dec-20", 
+            "m": 12, 
+            "platform": 34, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513728000000, 
+            "human": "2017-Dec-20", 
+            "m": 12, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "h36nxx4prng801cpwbe0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h36nxx4prng801cpwbe0.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kw8h8svcgfht5anwiayl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kw8h8svcgfht5anwiayl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dfhhrdjgfk82hsqevcfr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dfhhrdjgfk82hsqevcfr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vwvrkvekfmdsx66em82j", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vwvrkvekfmdsx66em82j.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xd2ox64ybrco7oblqltt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xd2ox64ybrco7oblqltt.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "bridge-constructor-portal", 
+    "summary": "Enter the Aperture Science Enrichment Center and experience Bridge Constructor Portal \u2013 the unique merging of the classic Portal and Bridge Constructor games.", 
+    "tags": [
+        18, 
+        268435465, 
+        268435469, 
+        268435471, 
+        536872594, 
+        536873787, 
+        536875060, 
+        1073741828
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 85.125, 
+    "total_rating_count": 6, 
+    "updated_at": 1527627519090, 
+    "url": "https://www.igdb.com/games/bridge-constructor-portal", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "eOsJm_sFo6Q"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "TIX7-Gkw0D0"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "5O-hLjRiBoY"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 11, 
+            "url": "https://itunes.apple.com/us/app/bridge-constructor-portal/id1311353234?mt=8&uo=4"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/684410"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://bridgeconstructor.com/"
+        }, 
+        {
+            "category": 12, 
+            "url": "https://play.google.com/store/apps/details?id=com.headupgames.bridgeconstructorportal"
+        }, 
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/app/id1311353234"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Bridge_Constructor_Portal"
+        }
+    ]
+}

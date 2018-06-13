@@ -1,0 +1,239 @@
+{
+    "aggregated_rating": 56.0, 
+    "aggregated_rating_count": 4, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Defenders of Arcania"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2152, 
+    "cover": {
+        "cloudinary_id": "v4y74zg9bjtlq7yxosuy", 
+        "height": 2256, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/v4y74zg9bjtlq7yxosuy.jpg", 
+        "width": 1612
+    }, 
+    "created_at": 1431214233172, 
+    "developers": [
+        6521
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "73060"
+    }, 
+    "first_release_date": 1322179200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        11423, 
+        19407, 
+        26841, 
+        23345, 
+        28113, 
+        21429, 
+        26769, 
+        18167, 
+        15707, 
+        18623
+    ], 
+    "genres": [
+        11, 
+        15, 
+        33
+    ], 
+    "id": 10177, 
+    "keywords": [
+        77, 
+        151, 
+        226, 
+        296, 
+        1158, 
+        1293, 
+        3782, 
+        4004, 
+        4134, 
+        4245, 
+        4346, 
+        7369, 
+        7374, 
+        9951, 
+        10919
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Defenders of Ardania", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        39, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        517
+    ], 
+    "rating": 40.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1331683200000, 
+            "human": "2012-Mar-14", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1362528000000, 
+            "human": "2013-Mar-06", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1322179200000, 
+            "human": "2011-Nov-25", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1323907200000, 
+            "human": "2011-Dec-15", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1331683200000, 
+            "human": "2012-Mar-14", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1331683200000, 
+            "human": "2012-Mar-14", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1323129600000, 
+            "human": "2011-Dec-06", 
+            "m": 12, 
+            "platform": 39, 
+            "region": 2, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ryyw6tlo5gsagxxah3sk", 
+            "height": 284, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ryyw6tlo5gsagxxah3sk.jpg", 
+            "width": 505
+        }, 
+        {
+            "cloudinary_id": "rzmhwlbhsixpvnfpoq6z", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rzmhwlbhsixpvnfpoq6z.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fue16vtkigd3qrxa1awf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fue16vtkigd3qrxa1awf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pohemm49vlwvwjm0mbzt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pohemm49vlwvwjm0mbzt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ilhvy8nmhfli9nl23kbn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ilhvy8nmhfli9nl23kbn.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "defenders-of-ardania", 
+    "summary": "Defenders of Ardania (DoA) is a next-generation tower defense game set in the rich fantasy world of Majesty, but with a twist. Besides the addictive core mechanics of placing towers to stop advancing enemy units, DoA also allows players to take on the role of the attackers seeking to conquer the enemy base. \n \nDoA\u2019s innovative new game concepts include light RTS elements, taking the popular genre to the next level. Players must oversee unit production and upgrades while assembling the most effective army from one of three playable races, each with unique locations, towers, and units. However, without magic, a fantasy game is little more than a toothless lion (or dragon, rather), so a wide range of spells will be available for players to decimate their enemies and protect their forces. \n \nAlthough DoA includes a single-player portion, the focus of the game is undoubtedly multiplayer, where two to four players can take each other on or compete against AI opponents via Internet, LAN, or PSN. The multiplayer component offers three different game modes where players can assume either the defensive or offensive sides \u2013 or both!", 
+    "tags": [
+        17, 
+        22, 
+        268435467, 
+        268435471, 
+        268435489, 
+        536870989, 
+        536871063, 
+        536871138, 
+        536871208, 
+        536872070, 
+        536872205, 
+        536874694, 
+        536874916, 
+        536875046, 
+        536875157, 
+        536875258, 
+        536878281, 
+        536878286, 
+        536880863, 
+        536881831, 
+        1073741827
+    ], 
+    "themes": [
+        17, 
+        22
+    ], 
+    "total_rating": 48.0, 
+    "total_rating_count": 5, 
+    "updated_at": 1523275591782, 
+    "url": "https://www.igdb.com/games/defenders-of-ardania", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "LfngDuEwFs0"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "category": 0, 
+    "collection": 708, 
+    "cover": {
+        "cloudinary_id": "hi47dtt2e7jc1eexgpf8", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hi47dtt2e7jc1eexgpf8.jpg", 
+        "width": 354
+    }, 
+    "created_at": 1500640380380, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1251849600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 51617, 
+    "keywords": [
+        27, 
+        32
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Backyard Football 2010", 
+    "platforms": [
+        12, 
+        5
+    ], 
+    "player_perspectives": [
+        2, 
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1251849600000, 
+            "human": "2009-Sep-02", 
+            "m": 9, 
+            "platform": 5, 
+            "region": 8, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1251849600000, 
+            "human": "2009-Sep-02", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2009
+        }
+    ], 
+    "slug": "backyard-football-2010", 
+    "summary": "Authentic NFL Action! Real Pros, Plays and Strategies! Backyard Football is the best selling kids\ufffd football video game of all time. Combine wild arcade style power moves and control. Check out the new gameplay, graphics, and environments. Play all 32 NFL teams, 11 wacky Backyard teams, or create your own. Backyard Football comes loaded with top NFL Superstars as kids-Tom Brady, Peyton Manning, LaDainian Tomlinson, Michael Turner, Tony Romo, Brady Quinn, and more. Play one game or a whole season. Tons of unlockable players, fields, and goodies.", 
+    "tags": [
+        1073741827, 
+        1073741826
+    ], 
+    "themes": [
+        32, 
+        35
+    ], 
+    "updated_at": 1515405136359, 
+    "url": "https://www.igdb.com/games/backyard-football-2010", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Backyard_Football"
+        }
+    ]
+}

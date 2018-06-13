@@ -1,0 +1,248 @@
+{
+    "aggregated_rating": 60.2, 
+    "aggregated_rating_count": 20, 
+    "alternative_names": [
+        {
+            "name": "NECROPOLIS: A Diabolical Dungeon Delve"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2493, 
+    "cover": {
+        "cloudinary_id": "bwk1ewrdbxk1bwelds1l", 
+        "height": 1200, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bwk1ewrdbxk1bwelds1l.jpg", 
+        "width": 1920
+    }, 
+    "created_at": 1437319282294, 
+    "developers": [
+        1419
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "384490"
+    }, 
+    "first_release_date": 1468281600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        47823, 
+        11567, 
+        25300, 
+        11560, 
+        17583, 
+        36926, 
+        55092, 
+        22747, 
+        18822, 
+        14760
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "hypes": 3, 
+    "id": 11347, 
+    "keywords": [
+        296, 
+        416, 
+        577, 
+        720, 
+        966, 
+        1026, 
+        1033, 
+        1320, 
+        4541, 
+        4871, 
+        4882, 
+        4918, 
+        5379
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Necropolis", 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        248, 
+        1419
+    ], 
+    "pulse_count": 5, 
+    "rating": 68.7403524536177, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1475539200000, 
+            "human": "2016-Oct-04", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 6, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 14, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 48, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 49, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tutfu74og7oygnmay7du", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tutfu74og7oygnmay7du.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "eeicpj3ynhowm8so7hbk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eeicpj3ynhowm8so7hbk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "v6dvkeivtmajzpttfwm7", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v6dvkeivtmajzpttfwm7.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "odq3xgn9xsoxd60qbkpf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/odq3xgn9xsoxd60qbkpf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qbvsy0bavsme4u10yojo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qbvsy0bavsme4u10yojo.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "necropolis", 
+    "summary": "Necropolis is a third-person action roguelike, set in a living dungeon that changes every time you play, filled with monsters, myth and magic, and lorded over by the mad mystical intellect known only as the Brazen Head.", 
+    "tags": [
+        1, 
+        17, 
+        268435487, 
+        268435488, 
+        536871208, 
+        536871328, 
+        536871489, 
+        536871632, 
+        536871878, 
+        536871938, 
+        536871945, 
+        536872232, 
+        536875453, 
+        536875783, 
+        536875794, 
+        536875830, 
+        536876291, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 64.47017622680886, 
+    "total_rating_count": 26, 
+    "updated_at": 1528355909364, 
+    "url": "https://www.igdb.com/games/necropolis", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "mmc8jlpvsEw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Necropolis_(video_game)"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/384490"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://necropolisgame.com/"
+        }
+    ]
+}

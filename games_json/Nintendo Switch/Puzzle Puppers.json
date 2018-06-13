@@ -1,0 +1,157 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ugyeusxg2logfgz8n3ab", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ugyeusxg2logfgz8n3ab.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1495370321810, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "578430"
+    }, 
+    "first_release_date": 1484870400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25222, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        27266, 
+        14047, 
+        32283, 
+        26223, 
+        75065
+    ], 
+    "genres": [
+        9, 
+        15, 
+        32
+    ], 
+    "id": 29812, 
+    "keywords": [
+        2875
+    ], 
+    "name": "Puzzle Puppers", 
+    "platforms": [
+        6, 
+        14, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        9564
+    ], 
+    "pulse_count": 2, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1519084800000, 
+            "human": "2018-Feb-20", 
+            "m": 2, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1484870400000, 
+            "human": "2017-Jan-20", 
+            "m": 1, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1484870400000, 
+            "human": "2017-Jan-20", 
+            "m": 1, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1484870400000, 
+            "human": "2017-Jan-20", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "l07gmdsiggawiqhtfvm1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l07gmdsiggawiqhtfvm1.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "zcank82upv8bcye92bp4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zcank82upv8bcye92bp4.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "ul3s2qpt5feotd3ofykq", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ul3s2qpt5feotd3ofykq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cz0e8ez9xisedcihr1jz", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cz0e8ez9xisedcihr1jz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kxt2l6jkho3i1crtmonr", 
+            "height": 1078, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kxt2l6jkho3i1crtmonr.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "puzzle-puppers", 
+    "summary": "Stretch out cute dogs to their food bowls! Easy to learn, difficult to master with deceptively simple puzzles and mechanics.", 
+    "tags": [
+        268435465, 
+        268435471, 
+        268435488, 
+        536873787, 
+        1073741827
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1523361243787, 
+    "url": "https://www.igdb.com/games/puzzle-puppers", 
+    "websites": [
+        {
+            "category": 12, 
+            "url": "https://play.google.com/store/apps/details?id=com.CardboardKeep.PatchworkPuppers&hl=en_GB"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.cardboardkeep.com/puzzlepuppers"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/578430"
+        }
+    ]
+}

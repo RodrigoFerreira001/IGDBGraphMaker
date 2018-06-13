@@ -1,0 +1,370 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Donkey Kong III"
+        }, 
+        {
+            "name": "\u30c9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b03"
+        }
+    ], 
+    "category": 0, 
+    "collection": 242, 
+    "cover": {
+        "cloudinary_id": "helbko6mqpejasurpups", 
+        "height": 549, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/helbko6mqpejasurpups.jpg", 
+        "width": 506
+    }, 
+    "created_at": 1340040599955, 
+    "developers": [
+        70
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 441676800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        48175, 
+        1087, 
+        117, 
+        36868, 
+        7170, 
+        55752, 
+        358, 
+        1078, 
+        72373, 
+        2933
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 1088, 
+    "keywords": [
+        137, 
+        558, 
+        960, 
+        1098, 
+        2152, 
+        2280, 
+        2678, 
+        3186, 
+        4134, 
+        4161, 
+        4162, 
+        4169, 
+        4170, 
+        4189, 
+        4213, 
+        4317, 
+        4324, 
+        4371, 
+        4396, 
+        4484, 
+        4522, 
+        4754, 
+        4779, 
+        4877, 
+        4880, 
+        4910, 
+        4958, 
+        4974, 
+        5441, 
+        5658, 
+        5802, 
+        5806, 
+        6084, 
+        6391, 
+        6539, 
+        6801, 
+        6957, 
+        8132, 
+        8236, 
+        9371, 
+        9372, 
+        10091, 
+        11566, 
+        13076, 
+        14006
+    ], 
+    "name": "Donkey Kong 3", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        52, 
+        41, 
+        125, 
+        77, 
+        47, 
+        37, 
+        5, 
+        18
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        864, 
+        70
+    ], 
+    "pulse_count": 1, 
+    "rating": 57.6214193714806, 
+    "rating_count": 9, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1383696000000, 
+            "human": "2013-Nov-06", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1382572800000, 
+            "human": "2013-Oct-24", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1380153600000, 
+            "human": "2013-Sep-26", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1386806400000, 
+            "human": "2013-Dec-12", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1386201600000, 
+            "human": "2013-Dec-05", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1364342400000, 
+            "human": "2013-Mar-27", 
+            "m": 3, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1216771200000, 
+            "human": "2008-Jul-23", 
+            "m": 7, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1231459200000, 
+            "human": "2009-Jan-09", 
+            "m": 1, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1215993600000, 
+            "human": "2008-Jul-14", 
+            "m": 7, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1216771200000, 
+            "human": "2008-Jul-23", 
+            "m": 7, 
+            "platform": 47, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 77, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 0, 
+            "date": 465436800000, 
+            "human": "1984-Oct-01", 
+            "m": 10, 
+            "platform": 125, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1983
+        }, 
+        {
+            "category": 0, 
+            "date": 1215993600000, 
+            "human": "2008-Jul-14", 
+            "m": 7, 
+            "platform": 47, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 455155200000, 
+            "human": "1984-Jun-04", 
+            "m": 6, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1984
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "z2au6vm5zx5bweh8kpyt", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z2au6vm5zx5bweh8kpyt.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ltneozwrd1tetnzb7qj1", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ltneozwrd1tetnzb7qj1.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "jrkrbyelzw1h9nxd3hzw", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jrkrbyelzw1h9nxd3hzw.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "dk1wneawjw49z1zchvgp", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dk1wneawjw49z1zchvgp.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "wspj31uwuttqcxls2ks1", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wspj31uwuttqcxls2ks1.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "l4q8yuup3yw68e6fvnxr", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l4q8yuup3yw68e6fvnxr.jpg", 
+            "width": 224
+        }, 
+        {
+            "cloudinary_id": "b9xvftrznuvbpmhxdi6r", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b9xvftrznuvbpmhxdi6r.jpg", 
+            "width": 224
+        }, 
+        {
+            "cloudinary_id": "z9tca1lkge9rxag26xui", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z9tca1lkge9rxag26xui.jpg", 
+            "width": 224
+        }, 
+        {
+            "cloudinary_id": "e7o7jfnnc8ad6k0v8ez8", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e7o7jfnnc8ad6k0v8ez8.jpg", 
+            "width": 224
+        }
+    ], 
+    "slug": "donkey-kong-3", 
+    "summary": "Stanley is a bugman. Donkey Kong has taken refuge in his greenhouse and it is now up to Stanley to stop the ape from stirring up any more insects that will soon destroy his flowers. Stanley saves the flowers by spraying bug spray on Donkey Kong.", 
+    "tags": [
+        1, 
+        268435464, 
+        536871049, 
+        536871470, 
+        536871872, 
+        536872010, 
+        536873064, 
+        536873192, 
+        536873590, 
+        536874098, 
+        536875046, 
+        536875073, 
+        536875074, 
+        536875081, 
+        536875082, 
+        536875101, 
+        536875125, 
+        536875229, 
+        536875236, 
+        536875283, 
+        536875308, 
+        536875396, 
+        536875434, 
+        536875666, 
+        536875691, 
+        536875789, 
+        536875792, 
+        536875822, 
+        536875870, 
+        536875886, 
+        536876353, 
+        536876570, 
+        536876714, 
+        536876718, 
+        536876996, 
+        536877303, 
+        536877451, 
+        536877713, 
+        536877869, 
+        536879044, 
+        536879148, 
+        536880283, 
+        536880284, 
+        536881003, 
+        536882478, 
+        536883988, 
+        536884918, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 57.6214193714806, 
+    "total_rating_count": 9, 
+    "updated_at": 1524937316515, 
+    "url": "https://www.igdb.com/games/donkey-kong-3"
+}

@@ -1,0 +1,184 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "twoggfazk6mhifzrlsum", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/twoggfazk6mhifzrlsum.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1495889977196, 
+    "developers": [
+        1718
+    ], 
+    "external": {
+        "steam": "330020"
+    }, 
+    "first_release_date": 1546214400000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        22747, 
+        47823, 
+        25300, 
+        36926, 
+        55092, 
+        11560, 
+        19448, 
+        55289, 
+        11567, 
+        25311
+    ], 
+    "genres": [
+        12, 
+        31, 
+        32
+    ], 
+    "hypes": 4, 
+    "id": 36198, 
+    "keywords": [
+        117, 
+        296, 
+        1026, 
+        1033, 
+        4134, 
+        4154, 
+        4882
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 46, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Children of Morta", 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        4133, 
+        1718
+    ], 
+    "pulse_count": 8, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 49, 
+            "y": 2018
+        }, 
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 48, 
+            "y": 2018
+        }, 
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 14, 
+            "y": 2018
+        }, 
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 6, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "n0cfayafs86acfyz9ieq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n0cfayafs86acfyz9ieq.jpg", 
+            "width": 1784
+        }, 
+        {
+            "cloudinary_id": "d9rmklyqe0svtcvizmbu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d9rmklyqe0svtcvizmbu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fmxwfnjrvtrudbqpfbxz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fmxwfnjrvtrudbqpfbxz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nvrtzseugsew2f4vvvrw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nvrtzseugsew2f4vvvrw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "i2wc0jbvn9fqu4yfwfz3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i2wc0jbvn9fqu4yfwfz3.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "children-of-morta", 
+    "summary": "Children of Morta is a narrative driven hack and slash roguelike. Take on the role of a member of the Bergson family, the Guardians of Mount Morta, as you fight desperately against the Corruption. Experience not only what it means to be a hero, but to be part of a family that bears the weight of the mountain together.", 
+    "tags": [
+        1, 
+        268435468, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536871208, 
+        536871938, 
+        536871945, 
+        536875046, 
+        536875066, 
+        536875794, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1523734174975, 
+    "url": "https://www.igdb.com/games/children-of-morta", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "UKhx73nYEY8"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.childrenofmorta.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/330020"
+        }
+    ]
+}

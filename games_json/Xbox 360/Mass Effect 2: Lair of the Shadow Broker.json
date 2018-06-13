@@ -1,0 +1,128 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 2, 
+    "category": 1, 
+    "collection": 25, 
+    "cover": {
+        "cloudinary_id": "dxzf73vool4okrsvbsvw", 
+        "height": 435, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dxzf73vool4okrsvbsvw.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1317749097000, 
+    "developers": [
+        3903
+    ], 
+    "first_release_date": 1283817600000, 
+    "game": 74, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        36608, 
+        25311, 
+        16468, 
+        28029, 
+        55289, 
+        59516, 
+        25300, 
+        28010, 
+        27922, 
+        68287
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 782, 
+    "name": "Mass Effect 2: Lair of the Shadow Broker", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1
+    ], 
+    "rating": 88.249523039186, 
+    "rating_count": 40, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1283817600000, 
+            "human": "2010-Sep-07", 
+            "m": 9, 
+            "platform": 6, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1283817600000, 
+            "human": "2010-Sep-07", 
+            "m": 9, 
+            "platform": 12, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1295308800000, 
+            "human": "2011-Jan-18", 
+            "m": 1, 
+            "platform": 9, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "z1v6eqfvaskumg6kcgbn", 
+            "height": 506, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z1v6eqfvaskumg6kcgbn.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "qmx9c17ygyhzdggb7ehx", 
+            "height": 205, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qmx9c17ygyhzdggb7ehx.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "mass-effect-2-lair-of-the-shadow-broker", 
+    "summary": "Liara T'Soni is tracking down the mysterious Shadow Broker, and no one is safe. She'll do anything to recover the man the Broker kidnapped... and the Shadow Broker's agents will do anything to stop her. Team up with Liara and chase clues from the luxurious heights of Illium to the Shadow Broker's own secret lair. This DLC adds the Shadow Broker intel center, new research, and five new achievements \u2013 and the chance to continue a relationship with Liara.", 
+    "tags": [
+        1, 
+        18, 
+        268435468, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 76.624761519593, 
+    "total_rating_count": 42, 
+    "updated_at": 1527937758388, 
+    "url": "https://www.igdb.com/games/mass-effect-2-lair-of-the-shadow-broker", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Y2O-0-fQOOs"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Mass_Effect_2:_Lair_of_the_Shadow_Broker"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://masseffect.wikia.com/wiki/Lair_of_the_Shadow_Broker"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://social.bioware.com/page/me2-dlc"
+        }
+    ]
+}

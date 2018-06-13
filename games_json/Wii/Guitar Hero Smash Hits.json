@@ -1,0 +1,308 @@
+{
+    "aggregated_rating": 74.75, 
+    "aggregated_rating_count": 7, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Guitar Hero: Greatest Hits"
+        }, 
+        {
+            "name": "Guitar Hero Greatest Hits"
+        }
+    ], 
+    "category": 0, 
+    "collection": 284, 
+    "cover": {
+        "cloudinary_id": "oyhmqa4e8tejz9vq6t5o", 
+        "height": 325, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/oyhmqa4e8tejz9vq6t5o.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1374383885156, 
+    "developers": [
+        432
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is a music and rhythm simulation game in which players perform songs using on-screen avatars with various instruments. Players simulate playing guitar, bass, or drums and are scored based on the accuracy of the notes hit. Some song lyrics contain sexual references (e.g., \"Broken hymen of your highness I'm left black\" and \"To fornicating with our kings\") and implications of drug use (e.g., \"Black Tar in your veins\"). Some song also contain expletives (e.g., \"goddamn,\" and \"hell\") and violent references (e.g., \"Walk through no archetypal suicide\"). A few of the avatars' outfits are low-cut and revealing, while some tattoo designs depict women in provocative poses and clothing (e.g., female angels/devils wearing lingerie or straddling rockets)."
+    }, 
+    "first_release_date": 1245110400000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        2675, 
+        41589, 
+        2721, 
+        2672, 
+        2695, 
+        2676, 
+        7089, 
+        2629, 
+        7088, 
+        80287
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 2677, 
+    "keywords": [
+        488, 
+        665, 
+        715, 
+        1293, 
+        1333, 
+        2152, 
+        2153, 
+        2935, 
+        4137, 
+        4245, 
+        4266, 
+        4272, 
+        4333, 
+        4345, 
+        4544, 
+        4839, 
+        4890, 
+        5029, 
+        5143, 
+        5188, 
+        5189, 
+        5259, 
+        5287, 
+        5850, 
+        6275, 
+        6494, 
+        7483, 
+        9354, 
+        9404, 
+        10351, 
+        11456, 
+        11457, 
+        11458, 
+        12549, 
+        12867, 
+        12953
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Guitar Hero Smash Hits", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Sexual images and/or sexual innuendo - Mild bad language"
+    }, 
+    "platforms": [
+        9, 
+        12, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        66
+    ], 
+    "rating": 60.27187325351341, 
+    "rating_count": 5, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1245110400000, 
+            "human": "2009-Jun-16", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245974400000, 
+            "human": "2009-Jun-26", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245974400000, 
+            "human": "2009-Jun-26", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245974400000, 
+            "human": "2009-Jun-26", 
+            "m": 6, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245974400000, 
+            "human": "2009-Jun-26", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245801600000, 
+            "human": "2009-Jun-24", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245801600000, 
+            "human": "2009-Jun-24", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245801600000, 
+            "human": "2009-Jun-24", 
+            "m": 6, 
+            "platform": 8, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245801600000, 
+            "human": "2009-Jun-24", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245110400000, 
+            "human": "2009-Jun-16", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245110400000, 
+            "human": "2009-Jun-16", 
+            "m": 6, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245110400000, 
+            "human": "2009-Jun-16", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pg4fjld3g8njseroggh4", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pg4fjld3g8njseroggh4.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "guitar-hero-smash-hits", 
+    "summary": "Guitar Hero\u00ae Smash Hits is the best of Guitar Hero music, now for the full band! Rock out to the most fun tracks from Guitar Hero, Guitar Hero II, Guitar Hero: Rock the 80's, and Guitar Hero III: Legends of Rock, now for the full band. Using the controllers strum, drum, and belt out a collection of master tracks including Nirvana, Judas Priest, Slayer, Rage Against the Machine, Queen, and many more.", 
+    "tags": [
+        268435463, 
+        536871400, 
+        536871577, 
+        536871627, 
+        536872205, 
+        536872245, 
+        536873064, 
+        536873065, 
+        536873847, 
+        536875049, 
+        536875157, 
+        536875178, 
+        536875184, 
+        536875245, 
+        536875257, 
+        536875456, 
+        536875751, 
+        536875802, 
+        536875941, 
+        536876055, 
+        536876100, 
+        536876101, 
+        536876171, 
+        536876199, 
+        536876762, 
+        536877187, 
+        536877406, 
+        536878395, 
+        536880266, 
+        536880316, 
+        536881263, 
+        536882368, 
+        536882369, 
+        536882370, 
+        536883461, 
+        536883779, 
+        536883865, 
+        1073741825
+    ], 
+    "total_rating": 67.5109366267567, 
+    "total_rating_count": 12, 
+    "updated_at": 1528157877602, 
+    "url": "https://www.igdb.com/games/guitar-hero-smash-hits", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "bQAi4l_hsSo"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "uVvy-r1-kEo"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Guitar_Hero_Smash_Hits"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://guitarhero.wikia.com/wiki/Guitar_Hero:_Smash_Hits"
+        }
+    ]
+}

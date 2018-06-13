@@ -1,0 +1,357 @@
+{
+    "aggregated_rating": 65.3, 
+    "aggregated_rating_count": 11, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "The Amazing Spider-Man: Ultimate Edition"
+        }
+    ], 
+    "category": 0, 
+    "collection": 108, 
+    "cover": {
+        "cloudinary_id": "svl2azrhsr6foidzi843", 
+        "height": 789, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/svl2azrhsr6foidzi843.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1348924290031, 
+    "developers": [
+        432, 
+        805, 
+        61
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1340668800000, 
+    "franchise": 151, 
+    "franchises": [
+        151, 
+        124
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        501, 
+        17001, 
+        5503, 
+        14763, 
+        1907, 
+        19565, 
+        19561, 
+        18822, 
+        25300, 
+        7202
+    ], 
+    "genres": [
+        25, 
+        31
+    ], 
+    "id": 1376, 
+    "keywords": [
+        14, 
+        301, 
+        668, 
+        889, 
+        977, 
+        982, 
+        1033, 
+        1299, 
+        1459, 
+        1735, 
+        2387, 
+        3540, 
+        3794, 
+        4082, 
+        4134, 
+        4142, 
+        4266, 
+        4284, 
+        4285, 
+        4382, 
+        4446, 
+        4652, 
+        4805, 
+        4831, 
+        4907, 
+        5039, 
+        5045, 
+        5161, 
+        5328, 
+        5354, 
+        5587, 
+        5622, 
+        5687, 
+        5754, 
+        5847, 
+        5851, 
+        5899, 
+        5940, 
+        6269, 
+        6528, 
+        6711, 
+        6814, 
+        7288, 
+        7344, 
+        9449, 
+        9961, 
+        10014
+    ], 
+    "name": "The Amazing Spider-Man", 
+    "platforms": [
+        34, 
+        6, 
+        39, 
+        73, 
+        41, 
+        46, 
+        9, 
+        12, 
+        20, 
+        37, 
+        5
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        66
+    ], 
+    "pulse_count": 1, 
+    "rating": 65.9346159170959, 
+    "rating_count": 14, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1340841600000, 
+            "human": "2012-Jun-28", 
+            "m": 6, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1340928000000, 
+            "human": "2012-Jun-29", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1340668800000, 
+            "human": "2012-Jun-26", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1340928000000, 
+            "human": "2012-Jun-29", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1340668800000, 
+            "human": "2012-Jun-26", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1340668800000, 
+            "human": "2012-Jun-26", 
+            "m": 6, 
+            "platform": 20, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1340668800000, 
+            "human": "2012-Jun-26", 
+            "m": 6, 
+            "platform": 37, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1340668800000, 
+            "human": "2012-Jun-26", 
+            "m": 6, 
+            "platform": 9, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1340668800000, 
+            "human": "2012-Jun-26", 
+            "m": 6, 
+            "platform": 12, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1340668800000, 
+            "human": "2012-Jun-26", 
+            "m": 6, 
+            "platform": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1340841600000, 
+            "human": "2012-Jun-28", 
+            "m": 6, 
+            "platform": 34, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1340841600000, 
+            "human": "2012-Jun-28", 
+            "m": 6, 
+            "platform": 39, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1344556800000, 
+            "human": "2012-Aug-10", 
+            "m": 8, 
+            "platform": 6, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1362441600000, 
+            "human": "2013-Mar-05", 
+            "m": 3, 
+            "platform": 41, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1363737600000, 
+            "human": "2013-Mar-20", 
+            "m": 3, 
+            "platform": 73, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1383955200000, 
+            "human": "2013-Nov-09", 
+            "m": 11, 
+            "platform": 46, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gxy7lnfgahzsck8tsxfd", 
+            "height": 1033, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gxy7lnfgahzsck8tsxfd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cmv2hjv7xw8dkxddiasq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cmv2hjv7xw8dkxddiasq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ho3s7vihfis90qisxctu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ho3s7vihfis90qisxctu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rmv3ettn6zgjjqmylexz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rmv3ettn6zgjjqmylexz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ozsjylotfmgmwpqdg1kn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ozsjylotfmgmwpqdg1kn.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "the-amazing-spider-man", 
+    "summary": "Go beyond Sony Picture Entertainment\u2019s Colombia Pictures feature film and find out what happens next in The Amazing Spider-Man video game, which brings Spider-Man\u2019s free-roaming, web-slinging action back to New York City.", 
+    "tags": [
+        1, 
+        268435481, 
+        268435487, 
+        536870926, 
+        536871213, 
+        536871580, 
+        536871801, 
+        536871889, 
+        536871894, 
+        536871945, 
+        536872211, 
+        536872371, 
+        536872647, 
+        536873299, 
+        536874452, 
+        536874706, 
+        536874994, 
+        536875046, 
+        536875054, 
+        536875178, 
+        536875196, 
+        536875197, 
+        536875294, 
+        536875358, 
+        536875564, 
+        536875717, 
+        536875743, 
+        536875819, 
+        536875951, 
+        536875957, 
+        536876073, 
+        536876240, 
+        536876266, 
+        536876499, 
+        536876534, 
+        536876599, 
+        536876666, 
+        536876759, 
+        536876763, 
+        536876811, 
+        536876852, 
+        536877181, 
+        536877440, 
+        536877623, 
+        536877726, 
+        536878200, 
+        536878256, 
+        536880361, 
+        536880873, 
+        536880926
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 65.61730795854794, 
+    "total_rating_count": 25, 
+    "updated_at": 1527935529569, 
+    "url": "https://www.igdb.com/games/the-amazing-spider-man", 
+    "websites": [
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/the-amazing-spider-man/id524359189?mt=8&uo=4"
+        }
+    ]
+}

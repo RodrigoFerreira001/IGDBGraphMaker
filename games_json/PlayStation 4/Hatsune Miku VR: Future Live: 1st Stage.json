@@ -1,0 +1,95 @@
+{
+    "aggregated_rating": 40.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kgogcaosd8fot4qvyxr3", 
+        "height": 225, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kgogcaosd8fot4qvyxr3.jpg", 
+        "width": 225
+    }, 
+    "created_at": 1476560007412, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1476316800000, 
+    "games": [
+        37067, 
+        28192, 
+        11711, 
+        16513, 
+        67248, 
+        52828, 
+        75245, 
+        44154, 
+        79252, 
+        59946
+    ], 
+    "genres": [
+        7
+    ], 
+    "hypes": 1, 
+    "id": 24983, 
+    "keywords": [
+        4137, 
+        4234, 
+        4245, 
+        4438, 
+        4839
+    ], 
+    "name": "Hatsune Miku VR: Future Live: 1st Stage", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        48
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 1.666666666666667, 
+    "pulse_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1476316800000, 
+            "human": "2016-Oct-13", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476316800000, 
+            "human": "2016-Oct-13", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "peuqh8a3e7u8fdjgzfkp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/peuqh8a3e7u8fdjgzfkp.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "hatsune-miku-vr-future-live-1st-stage", 
+    "summary": "Attend virtual Hatsune Miku concerts virtually with Playstation VR", 
+    "tags": [
+        268435463, 
+        536875049, 
+        536875146, 
+        536875157, 
+        536875350, 
+        536875751, 
+        1073741831
+    ], 
+    "total_rating": 40.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1516609793556, 
+    "url": "https://www.igdb.com/games/hatsune-miku-vr-future-live-1st-stage"
+}

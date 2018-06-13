@@ -1,0 +1,75 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 3527, 
+    "cover": {
+        "cloudinary_id": "s9tia14ivzxssvhaq9rd", 
+        "height": 904, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/s9tia14ivzxssvhaq9rd.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1469306305614, 
+    "first_release_date": 1174953600000, 
+    "games": [
+        25222, 
+        60044, 
+        8197, 
+        26223, 
+        14047, 
+        27266, 
+        54678, 
+        25646, 
+        18167, 
+        71143
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 21389, 
+    "keywords": [
+        2528, 
+        2875, 
+        4963, 
+        5791, 
+        11528
+    ], 
+    "name": "Lumines Plus", 
+    "platforms": [
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1174953600000, 
+            "human": "2007-Mar-27", 
+            "m": 3, 
+            "platform": 8, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lfzo4poxyahpp3bckft1", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lfzo4poxyahpp3bckft1.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "lumines-plus", 
+    "summary": "Lumines Plus is the home console port of Lumines: Puzzle Fusion and Lumines II. This release brings puzzles from both games into one package.", 
+    "tags": [
+        268435465, 
+        536873440, 
+        536873787, 
+        536875875, 
+        536876703, 
+        536882440
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1515724011467, 
+    "url": "https://www.igdb.com/games/lumines-plus"
+}

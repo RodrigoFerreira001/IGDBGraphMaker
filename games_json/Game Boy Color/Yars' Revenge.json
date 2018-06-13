@@ -1,0 +1,128 @@
+{
+    "aggregated_rating": 45.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 5026, 
+    "cover": {
+        "cloudinary_id": "acafodc0lu7qwa72qupz", 
+        "height": 338, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/acafodc0lu7qwa72qupz.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1429056790761, 
+    "developers": [
+        2406
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 378604800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        68287, 
+        36950, 
+        27314, 
+        28029, 
+        64204, 
+        25300, 
+        11253, 
+        7350, 
+        71455, 
+        19448
+    ], 
+    "genres": [
+        5, 
+        33
+    ], 
+    "id": 9757, 
+    "keywords": [
+        128, 
+        913, 
+        970, 
+        1046, 
+        1675, 
+        1898, 
+        4162, 
+        4627, 
+        4795, 
+        5452, 
+        5801, 
+        7389, 
+        9407, 
+        12358, 
+        14006
+    ], 
+    "name": "Yars' Revenge", 
+    "platforms": [
+        22, 
+        59
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        2759, 
+        2406
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 936144000000, 
+            "human": "1999-Sep-01", 
+            "m": 9, 
+            "platform": 22, 
+            "region": 2, 
+            "y": 1999
+        }, 
+        {
+            "category": 2, 
+            "date": 378604800000, 
+            "human": "1981", 
+            "m": 12, 
+            "platform": 59, 
+            "region": 2, 
+            "y": 1981
+        }
+    ], 
+    "slug": "yars-revenge", 
+    "summary": "Journey to the Razak Solar System and help the Yars battle an evil enemy! Super flies fight for their lives!", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435489, 
+        536871040, 
+        536871825, 
+        536871882, 
+        536871958, 
+        536872587, 
+        536872810, 
+        536875074, 
+        536875539, 
+        536875707, 
+        536876364, 
+        536876713, 
+        536878301, 
+        536880319, 
+        536883270, 
+        536884918, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 45.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1515640856620, 
+    "url": "https://www.igdb.com/games/yars-revenge", 
+    "videos": [
+        {
+            "name": "VR", 
+            "video_id": "sIwLL2XaFiU"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "aggregated_rating": 56.6666666666667, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "po24ky90kbn0jthpu5pq", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/po24ky90kbn0jthpu5pq.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1467964082600, 
+    "external": {
+        "steam": "371550"
+    }, 
+    "first_release_date": 1464220800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        23175, 
+        47823, 
+        55289, 
+        18623, 
+        37022, 
+        25300, 
+        25646, 
+        25311, 
+        23345, 
+        76098
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 19944, 
+    "keywords": [
+        151, 
+        1033
+    ], 
+    "name": "A Bastard's Tale", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1475539200000, 
+            "human": "2016-Oct-04", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464220800000, 
+            "human": "2016-May-26", 
+            "m": 5, 
+            "platform": 6, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qbbmirllrkmsedaqkqsk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qbbmirllrkmsedaqkqsk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vhxblnvbcckl4rsepkcv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vhxblnvbcckl4rsepkcv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "k8m1l4iavu332xim6whz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k8m1l4iavu332xim6whz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cafqvmw1mo4c5ip9tcbk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cafqvmw1mo4c5ip9tcbk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "s9khfz0l7pbbi1xjklh8", 
+            "height": 400, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s9khfz0l7pbbi1xjklh8.jpg", 
+            "width": 1000
+        }
+    ], 
+    "slug": "a-bastards-tale", 
+    "summary": "A game about parrying, attacking, and overcoming difficult foes", 
+    "tags": [
+        1, 
+        22, 
+        268435487, 
+        268435488, 
+        536871063, 
+        536871945
+    ], 
+    "themes": [
+        1, 
+        22
+    ], 
+    "total_rating": 68.33333333333334, 
+    "total_rating_count": 3, 
+    "updated_at": 1523416926178, 
+    "url": "https://www.igdb.com/games/a-bastards-tale", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/371550"
+        }
+    ]
+}

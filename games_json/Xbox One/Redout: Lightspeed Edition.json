@@ -1,0 +1,147 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "logfbjkqiegiqfpaviii", 
+        "height": 1902, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/logfbjkqiegiqfpaviii.jpg", 
+        "width": 1523
+    }, 
+    "created_at": 1501430692306, 
+    "developers": [
+        7011
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1503964800000, 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        54789, 
+        28856, 
+        27314, 
+        83770, 
+        28552, 
+        27081, 
+        51486, 
+        75244, 
+        23314, 
+        67625
+    ], 
+    "genres": [
+        10
+    ], 
+    "id": 52715, 
+    "keywords": [
+        4357, 
+        16826, 
+        16827
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 6, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Redout: Lightspeed Edition", 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        7011
+    ], 
+    "pulse_count": 1, 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1504137600000, 
+            "human": "2017-Aug-31", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "h5gmxwkatw1jc15e3lp8", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h5gmxwkatw1jc15e3lp8.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ewqcktqobuqitiu77nig", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ewqcktqobuqitiu77nig.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "g4ti8pqia7tu28u8tcki", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g4ti8pqia7tu28u8tcki.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nmk62rg05tnywjhxe6em", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nmk62rg05tnywjhxe6em.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dd3gc2rtnpeqtgx6hqcq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dd3gc2rtnpeqtgx6hqcq.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "redout-lightspeed-edition", 
+    "summary": "Redout: Enhanced Edition is a tribute to the old racing monsters such as F-Zero, WipeOut, Rollcage, and POD. It is designed to be an uncompromising, fast, tough and satisfying driving experience, soaked in that vertigo that stands at the core of the arcade racing genre. The floating system and driving models are based on physics: each turn, slope, hard braking, acceleration, each turn and twist of the track will apply a unique force to the ship. A sharp low-polygon style blends meshes and terrains with the latest state-of-the-art shading and lighting effects provided by the Unreal Engine 4, creating beautiful and instantly recognisable aesthetics. Breezy coastlines, eerie frozen landscapes, vast desert plains: the melancholic, dystopian atmosphere of a semi abandoned Earth is the background for the most high-speed, tense and beautiful futuristic racing clashes.", 
+    "tags": [
+        268435466, 
+        536875269, 
+        536887738, 
+        536887739
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528357109070, 
+    "url": "https://www.igdb.com/games/redout-lightspeed-edition", 
+    "version_parent": 13197
+}

@@ -1,0 +1,195 @@
+{
+    "aggregated_rating": 30.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "w5yuujr05rdbsgtb88ld", 
+        "height": 640, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/w5yuujr05rdbsgtb88ld.jpg", 
+        "width": 418
+    }, 
+    "created_at": 1469820548560, 
+    "external": {
+        "steam": "372150"
+    }, 
+    "first_release_date": 1437436800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        26848, 
+        55752, 
+        76098, 
+        51485, 
+        55289, 
+        10039, 
+        25646, 
+        25311, 
+        37022, 
+        36868
+    ], 
+    "genres": [
+        8, 
+        31, 
+        32
+    ], 
+    "id": 21861, 
+    "keywords": [
+        61, 
+        350, 
+        2049, 
+        4148
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Yasai Ninja", 
+    "platforms": [
+        45, 
+        6, 
+        48, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 40.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1440547200000, 
+            "human": "2015-Aug-26", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1437436800000, 
+            "human": "2015-Jul-21", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1437436800000, 
+            "human": "2015-Jul-21", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1437436800000, 
+            "human": "2015-Jul-21", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1437436800000, 
+            "human": "2015-Jul-21", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "nuf3o4rkgvxhmrh9obqu", 
+            "height": 909, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nuf3o4rkgvxhmrh9obqu.jpg", 
+            "width": 1616
+        }, 
+        {
+            "cloudinary_id": "esthj4wavkcgbwnhtgod", 
+            "height": 909, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/esthj4wavkcgbwnhtgod.jpg", 
+            "width": 1616
+        }, 
+        {
+            "cloudinary_id": "e6gn1k5b28jmdwg1elca", 
+            "height": 909, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e6gn1k5b28jmdwg1elca.jpg", 
+            "width": 1616
+        }, 
+        {
+            "cloudinary_id": "b8mvnffzncvevkiitgci", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b8mvnffzncvevkiitgci.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rbvm5nbcit3tlxz70foi", 
+            "height": 389, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rbvm5nbcit3tlxz70foi.jpg", 
+            "width": 700
+        }
+    ], 
+    "slug": "yasai-ninja", 
+    "summary": "Yasai Ninja is a hack & slash game set in feudal Japan where Kaoru Tamanegi and Broccoli Joe face the most terrible vegetable-fighters. Play 1/2 Player mode and finish the adventure!", 
+    "tags": [
+        1, 
+        27, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536870973, 
+        536871262, 
+        536872961, 
+        536875060
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 35.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1527093311229, 
+    "url": "https://www.igdb.com/games/yasai-ninja", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.recotech.es"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/372150"
+        }
+    ]
+}

@@ -1,0 +1,401 @@
+{
+    "aggregated_rating": 73.5, 
+    "aggregated_rating_count": 24, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "DragonBall Xenoverse 2"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2392, 
+    "cover": {
+        "cloudinary_id": "oss9bgnecqtgn2fvoae2", 
+        "height": 658, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/oss9bgnecqtgn2fvoae2.jpg", 
+        "width": 596
+    }, 
+    "created_at": 1465309171044, 
+    "developers": [
+        396
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is a fighting game, based on the Dragon Ball universe, in which players try to change the past via time travel. Players punch, kick, and use special attacks (e.g., fireballs, beams/orbs of energy) to drain opponents' life meters in melee-style combat. Battles are highlighted by light effects, frequent yells/cries of pain, impact sounds, and large explosions. Characters are occasionally depicted with small spots of blood on their faces and bodies. Cutscenes depict characters being vaporized, exploding into fiery balls, or being struck by laser beams. The game contains some suggestive material: one character is depicted with torn clothing and partially exposed buttocks; one sequence depicts a man staring at bikini-clad women in a magazine called \u201cSexy.\u201d The word \"a*s\" appears in the dialogue. "
+    }, 
+    "external": {
+        "steam": "454650"
+    }, 
+    "first_release_date": 1477353600000, 
+    "franchise": 56, 
+    "franchises": [
+        56
+    ], 
+    "game_engines": [
+        8, 
+        6
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        5
+    ], 
+    "games": [
+        36911, 
+        2558, 
+        11567, 
+        19301, 
+        27421, 
+        23689, 
+        25657, 
+        26766, 
+        19448, 
+        25311
+    ], 
+    "genres": [
+        4, 
+        13, 
+        31
+    ], 
+    "hypes": 3, 
+    "id": 19449, 
+    "keywords": [
+        78, 
+        107, 
+        170, 
+        970, 
+        992, 
+        1148, 
+        1158, 
+        1333, 
+        2071, 
+        2402, 
+        4141, 
+        4142, 
+        4161, 
+        4178, 
+        4287, 
+        4347, 
+        4353, 
+        4576, 
+        4588, 
+        4809, 
+        4823, 
+        4869, 
+        4882, 
+        4883, 
+        4896, 
+        4897, 
+        4969, 
+        4971, 
+        4972, 
+        6108, 
+        6609, 
+        9024, 
+        9106, 
+        9107, 
+        10919, 
+        12444
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 6, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 6, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dragon Ball: Xenoverse 2", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters - Mild bad language"
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 3.0, 
+    "publishers": [
+        248
+    ], 
+    "pulse_count": 126, 
+    "rating": 70.12287086925541, 
+    "rating_count": 17, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477612800000, 
+            "human": "2016-Oct-28", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1506038400000, 
+            "human": "2017-Sep-22", 
+            "m": 9, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506038400000, 
+            "human": "2017-Sep-22", 
+            "m": 9, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1504742400000, 
+            "human": "2017-Sep-07", 
+            "m": 9, 
+            "platform": 130, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1478044800000, 
+            "human": "2016-Nov-02", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477612800000, 
+            "human": "2016-Oct-28", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477612800000, 
+            "human": "2016-Oct-28", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vevoidcljycnhxeuf99q", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vevoidcljycnhxeuf99q.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "ysaozq5bglmyntra0lq1", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ysaozq5bglmyntra0lq1.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "zpyrpogqcwl1gytr49no", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zpyrpogqcwl1gytr49no.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "bp1qyvkjv03r4ewbqzof", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bp1qyvkjv03r4ewbqzof.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "xuhojsgn21bbyeknsxoo", 
+            "height": 546, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xuhojsgn21bbyeknsxoo.jpg", 
+            "width": 972
+        }, 
+        {
+            "cloudinary_id": "uzuq3h2bsutaytftaynr", 
+            "height": 546, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uzuq3h2bsutaytftaynr.jpg", 
+            "width": 971
+        }, 
+        {
+            "cloudinary_id": "zxk6nuslelfq2pdeiij9", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zxk6nuslelfq2pdeiij9.jpg", 
+            "width": 970
+        }, 
+        {
+            "cloudinary_id": "kzlvv9jbdvfqhsmvluxd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kzlvv9jbdvfqhsmvluxd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kmbdbhycc7hzwa7trtbn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kmbdbhycc7hzwa7trtbn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nsimoj3vnufyxzvvjz6x", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nsimoj3vnufyxzvvjz6x.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "y3kpe3bviixc1nn0in6m", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y3kpe3bviixc1nn0in6m.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xlwkmhicvnvpx08i9xxu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xlwkmhicvnvpx08i9xxu.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "dragon-ball-xenoverse-2", 
+    "summary": "DRAGON BALL XENOVERSE 2 builds upon the highly popular DRAGON BALL XENOVERSE with enhanced graphics that will further immerse players into the largest and most detailed Dragon Ball world ever developed. \n \nDRAGON BALL XENOVERSE 2 will deliver a new hub city and the most character customization choices to date among a multitude of new features and special upgrades.", 
+    "tags": [
+        1, 
+        17, 
+        18, 
+        268435460, 
+        268435469, 
+        268435487, 
+        536870990, 
+        536871019, 
+        536871082, 
+        536871882, 
+        536871904, 
+        536872060, 
+        536872070, 
+        536872245, 
+        536872983, 
+        536873314, 
+        536875053, 
+        536875054, 
+        536875073, 
+        536875090, 
+        536875199, 
+        536875259, 
+        536875265, 
+        536875488, 
+        536875500, 
+        536875721, 
+        536875735, 
+        536875781, 
+        536875794, 
+        536875795, 
+        536875808, 
+        536875809, 
+        536875881, 
+        536875883, 
+        536875884, 
+        536877020, 
+        536877521, 
+        536879936, 
+        536880018, 
+        536880019, 
+        536881831, 
+        536883356, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        18
+    ], 
+    "total_rating": 71.8114354346277, 
+    "total_rating_count": 41, 
+    "updated_at": 1528389549545, 
+    "url": "https://www.igdb.com/games/dragon-ball-xenoverse-2", 
+    "videos": [
+        {
+            "name": "Announcement Trailer", 
+            "video_id": "DGh53Ar4OcM"
+        }, 
+        {
+            "name": "Japan Expo Trailer", 
+            "video_id": "_CVdjnzVoSc"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "ArPUlyb2fgA"
+        }, 
+        {
+            "name": "Gamescom 2016 Trailer", 
+            "video_id": "BNYqqztGhKM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Dragon_Ball_Xenoverse_2"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/454650"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.dragonballxenoverse2.com/"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://dragonball.wikia.com/wiki/Dragon_Ball_Xenoverse_2"
+        }
+    ]
+}

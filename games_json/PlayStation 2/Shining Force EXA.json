@@ -1,0 +1,107 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "artworks": [
+        {
+            "cloudinary_id": "zsz2xooyhqiidpy8dtcs", 
+            "height": 1350, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zsz2xooyhqiidpy8dtcs.jpg", 
+            "width": 950
+        }, 
+        {
+            "cloudinary_id": "hxmuoivxwjx7fthupfgh", 
+            "height": 1160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hxmuoivxwjx7fthupfgh.jpg", 
+            "width": 950
+        }, 
+        {
+            "cloudinary_id": "wohpzgeu78vfjsf8vtwv", 
+            "height": 1350, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wohpzgeu78vfjsf8vtwv.jpg", 
+            "width": 950
+        }
+    ], 
+    "category": 0, 
+    "collection": 2155, 
+    "cover": {
+        "cloudinary_id": "riugxogheirmfholn1qm", 
+        "height": 675, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/riugxogheirmfholn1qm.jpg", 
+        "width": 475
+    }, 
+    "created_at": 1463664760497, 
+    "developers": [
+        819
+    ], 
+    "first_release_date": 1169078400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        36608, 
+        28010, 
+        16468, 
+        19567, 
+        57372, 
+        12632, 
+        55289, 
+        59516, 
+        25311, 
+        49414
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 19254, 
+    "keywords": [
+        78
+    ], 
+    "name": "Shining Force EXA", 
+    "platforms": [
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        112
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1174348800000, 
+            "human": "2007-Mar-20", 
+            "m": 3, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1169078400000, 
+            "human": "2007-Jan-18", 
+            "m": 1, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2007
+        }
+    ], 
+    "slug": "shining-force-exa", 
+    "summary": "A bitter war between two world superpowers has raged on for decades with armies of beasts and demons devastating the people and the land. With both sides deadlocked, two young heroes rise up to begin a heroic journey to stop the fighting and unite the divided world. As either Toma, a talented sword fighter boy, or Cyrille, a cunning female sorceress, you'll venture into a stunning world of swords and sorcery teeming with a huge variety of tribes. With aggressive offensive and defensive strategies, you'll lead your battle party into combat while protecting your home base, the Geo Fortress, from massive attacks.", 
+    "tags": [
+        1, 
+        268435468, 
+        536870990
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1525446235803, 
+    "url": "https://www.igdb.com/games/shining-force-exa", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "9K54KMwYb_g"
+        }
+    ]
+}

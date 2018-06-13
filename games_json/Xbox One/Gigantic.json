@@ -1,0 +1,251 @@
+{
+    "aggregated_rating": 77.4, 
+    "aggregated_rating_count": 5, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "otcnnfonrl3t2nkdv8m3", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/otcnnfonrl3t2nkdv8m3.jpg", 
+        "width": 584
+    }, 
+    "created_at": 1434388820424, 
+    "developers": [
+        5962
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "327690"
+    }, 
+    "first_release_date": 1498176000000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        17583, 
+        19376, 
+        28028, 
+        19934, 
+        55044, 
+        23193, 
+        11567, 
+        11800, 
+        19448, 
+        19301
+    ], 
+    "genres": [
+        11, 
+        15
+    ], 
+    "hypes": 1, 
+    "id": 11134, 
+    "keywords": [
+        148, 
+        296, 
+        1186, 
+        1247, 
+        2385, 
+        3782, 
+        4134, 
+        4145, 
+        4169, 
+        4345, 
+        4355, 
+        4525, 
+        4882, 
+        5316, 
+        5379
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 10, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Gigantic", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters"
+    }, 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        917
+    ], 
+    "pulse_count": 33, 
+    "rating": 90.0, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1498176000000, 
+            "human": "2017-Jun-23", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1500508800000, 
+            "human": "2017-Jul-20", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1500508800000, 
+            "human": "2017-Jul-20", 
+            "m": 7, 
+            "platform": 49, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "cswftpsltwgis6cddsc5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cswftpsltwgis6cddsc5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mqxv1aczdxgn5izvfw8e", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mqxv1aczdxgn5izvfw8e.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "u897z2rap587chrijx6k", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u897z2rap587chrijx6k.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gt16tfswlgwpomfzpizw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gt16tfswlgwpomfzpizw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wjszhqxltfbolj9xorop", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wjszhqxltfbolj9xorop.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "gigantic", 
+    "summary": "Gigantic is a visually-stunning evolution in team action gaming, where freedom of movement, play-style choice, and towering Guardians makes 5x5 competition more accessible and fun than ever.", 
+    "tags": [
+        1, 
+        17, 
+        268435467, 
+        268435471, 
+        536871060, 
+        536871208, 
+        536872098, 
+        536872159, 
+        536873297, 
+        536874694, 
+        536875046, 
+        536875057, 
+        536875081, 
+        536875257, 
+        536875267, 
+        536875437, 
+        536875794, 
+        536876228, 
+        536876291, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 83.7, 
+    "total_rating_count": 9, 
+    "updated_at": 1528353715290, 
+    "url": "https://www.igdb.com/games/gigantic", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "muLx0HxqWh0"
+        }, 
+        {
+            "name": "E3 2015 Gameplay Trailer", 
+            "video_id": "E3YQzX-fg8k"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "lrXeAM_KAX0"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "vxo51iTR1-4"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "IJCAKJ9fz4I"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "bBpZ64S2Ukg"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/GoGiganticGame"
+        }, 
+        {
+            "category": 6, 
+            "url": "https://www.twitch.tv/gogigantic"
+        }, 
+        {
+            "category": 2, 
+            "url": "https://gigantic.gamepedia.com/Gigantic_Wiki"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/327690"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.gogigantic.com/en/"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Gigantic_(video_game)"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/GoGigantic/"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/gogigantic"
+        }
+    ]
+}

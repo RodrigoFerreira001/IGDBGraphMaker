@@ -1,0 +1,174 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "nk4cqfezfnn4wc2dgtop", 
+        "height": 268, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nk4cqfezfnn4wc2dgtop.jpg", 
+        "width": 268
+    }, 
+    "created_at": 1495742015095, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "447980"
+    }, 
+    "first_release_date": 1477353600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        19934, 
+        19290, 
+        10039, 
+        19376, 
+        19174, 
+        76110, 
+        34919, 
+        65832, 
+        19448, 
+        16468
+    ], 
+    "genres": [
+        4, 
+        32
+    ], 
+    "id": 33414, 
+    "keywords": [
+        107, 
+        117, 
+        4134, 
+        4871
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 8, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Blast Brawl 2: Bloody Boogaloo", 
+    "platforms": [
+        6, 
+        14, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1477440000000, 
+            "human": "2016-Oct-26", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "c6vh4mwqbtcwjz0plt2p", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c6vh4mwqbtcwjz0plt2p.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qmx5g5gpfwiwev38ui57", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qmx5g5gpfwiwev38ui57.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ezq5sjsjrqwtdtnpghf1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ezq5sjsjrqwtdtnpghf1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "p5akhl5mfwkukvtieaop", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p5akhl5mfwkukvtieaop.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hlxgkwjjru5b9om1nhps", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hlxgkwjjru5b9om1nhps.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "blast-brawl-2-bloody-boogaloo", 
+    "status": 4, 
+    "summary": "A fast-paced fighting game where any hit means DEATH! Battle your friends as a vastly diverse selection of characters, experiencing intense combat where every blow earns a kill, and skill reigns supreme. And what's victory without a little dance?", 
+    "tags": [
+        1, 
+        268435460, 
+        268435488, 
+        536871019, 
+        536871029, 
+        536875046, 
+        536875783
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1526726665190, 
+    "url": "https://www.igdb.com/games/blast-brawl-2-bloody-boogaloo", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.blastbrawl2.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/447980"
+        }
+    ]
+}

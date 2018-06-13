@@ -1,0 +1,116 @@
+{
+    "aggregated_rating": 68.7142857142857, 
+    "aggregated_rating_count": 8, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bzszdeqmycopsiqbmzfj", 
+        "height": 361, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bzszdeqmycopsiqbmzfj.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1469280309528, 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "-"
+    }, 
+    "first_release_date": 1344384000000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        28029, 
+        10209, 
+        68287, 
+        10213, 
+        76722, 
+        306, 
+        14250, 
+        17522, 
+        10210, 
+        17469
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 21069, 
+    "name": "Hybrid", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters\r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1010
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1354060800000, 
+            "human": "2012-Nov-28", 
+            "m": 11, 
+            "platform": 14, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1344902400000, 
+            "human": "2012-Aug-14", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1344384000000, 
+            "human": "2012-Aug-08", 
+            "m": 8, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "cbzxwukii2xjgxjai7hz", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cbzxwukii2xjgxjai7hz.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "hybrid", 
+    "storyline": "\"A mysterious explosion obliterates Australia and an entity from unknown origins has appeared on the planet. Chaos ensues and world war breaks out between the Paladins and the Variants. \n \nJoin a worldwide campaign to fight for a mystifying power source that can restore order or dominate mankind; the choice is yours.\"", 
+    "summary": "\"Hybrid is a multiplayer third person shooter in which two factions fight for world domination on a persistent world map. Take control of a soldier fighting for the Paladins or the Variants as they race to control the world's most powerful resource; Dark Matter. Your victories on the battlefield directly affect the course of the war!\"", 
+    "tags": [
+        18, 
+        268435461, 
+        1073741826
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 68.7142857142857, 
+    "total_rating_count": 8, 
+    "updated_at": 1508098891674, 
+    "url": "https://www.igdb.com/games/hybrid", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Hybrid_%28video_game%29"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.5thcell.com/hybrid/"
+        }
+    ]
+}

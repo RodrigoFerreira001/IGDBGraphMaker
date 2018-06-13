@@ -1,0 +1,435 @@
+{
+    "aggregated_rating": 88.9090909090909, 
+    "aggregated_rating_count": 12, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "g49akynp851vupvej0jo", 
+        "height": 1000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/g49akynp851vupvej0jo.jpg", 
+        "width": 700
+    }, 
+    "created_at": 1429214603133, 
+    "developers": [
+        4998
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "257850"
+    }, 
+    "first_release_date": 1459382400000, 
+    "game_engines": [
+        79
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        6732, 
+        7344, 
+        25300, 
+        23689, 
+        11214, 
+        19448, 
+        3231, 
+        11567, 
+        7202, 
+        14593
+    ], 
+    "genres": [
+        8, 
+        12, 
+        31, 
+        32
+    ], 
+    "hypes": 10, 
+    "id": 9806, 
+    "keywords": [
+        78, 
+        103, 
+        117, 
+        227, 
+        296, 
+        301, 
+        426, 
+        970, 
+        1019, 
+        1026, 
+        1158, 
+        1228, 
+        1240, 
+        1494, 
+        1513, 
+        1623, 
+        1705, 
+        1780, 
+        2049, 
+        2296, 
+        2493, 
+        4004, 
+        4134, 
+        4177, 
+        4183, 
+        4185, 
+        4283, 
+        4344, 
+        4391, 
+        4397, 
+        4449, 
+        4484, 
+        4541, 
+        4571, 
+        4609, 
+        4777, 
+        4956, 
+        4957, 
+        4991, 
+        5116, 
+        5119, 
+        5315, 
+        5327, 
+        5379, 
+        5410, 
+        5441, 
+        5945, 
+        5954, 
+        6304, 
+        7473, 
+        7667, 
+        8901, 
+        9167, 
+        9315, 
+        9526, 
+        9527, 
+        14051, 
+        14052, 
+        14069, 
+        14077
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Hyper Light Drifter", 
+    "platforms": [
+        45, 
+        6, 
+        14, 
+        41, 
+        48, 
+        72, 
+        49, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 7.0, 
+    "publishers": [
+        4998
+    ], 
+    "pulse_count": 35, 
+    "rating": 85.5578826466879, 
+    "rating_count": 45, 
+    "release_dates": [
+        {
+            "category": 5, 
+            "date": 1538265600000, 
+            "human": "2018-Q3", 
+            "m": 9, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1469491200000, 
+            "human": "2016-Jul-26", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1469491200000, 
+            "human": "2016-Jul-26", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1469491200000, 
+            "human": "2016-Jul-26", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 4, 
+            "date": 1467244800000, 
+            "human": "2016-Q2", 
+            "m": 6, 
+            "platform": 72, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459382400000, 
+            "human": "2016-Mar-31", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459382400000, 
+            "human": "2016-Mar-31", 
+            "m": 3, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459382400000, 
+            "human": "2016-Mar-31", 
+            "m": 3, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1469491200000, 
+            "human": "2016-Jul-26", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1469491200000, 
+            "human": "2016-Jul-26", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "w91pzj0x5qwliobtccmz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w91pzj0x5qwliobtccmz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "szeprm3iypqdgokm0kqn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/szeprm3iypqdgokm0kqn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "i343g9j3xf5zhkrfcq3u", 
+            "height": 853, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i343g9j3xf5zhkrfcq3u.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "wytj8wnls5ke6hlarzpe", 
+            "height": 555, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wytj8wnls5ke6hlarzpe.jpg", 
+            "width": 1048
+        }, 
+        {
+            "cloudinary_id": "ahyldwgad5fjbluaoumv", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ahyldwgad5fjbluaoumv.jpg", 
+            "width": 960
+        }
+    ], 
+    "slug": "hyper-light-drifter", 
+    "storyline": "The player controls the Drifter, a character that has access to technology that has long been forgotten by the inhabitants of the game's world, but is forced to search through the world and the ruins of civilization before to find a cure for an illness he carries.", 
+    "summary": "Hyper Light Drifter is a 2D Action RPG in the vein of the best 8-bit and 16-bit classics, and is considered a combination of The Legend of Zelda: A Link to the Past and Diablo.", 
+    "tags": [
+        1, 
+        17, 
+        18, 
+        268435464, 
+        268435468, 
+        268435487, 
+        268435488, 
+        536870990, 
+        536871015, 
+        536871029, 
+        536871139, 
+        536871208, 
+        536871213, 
+        536871338, 
+        536871882, 
+        536871931, 
+        536871938, 
+        536872070, 
+        536872140, 
+        536872152, 
+        536872406, 
+        536872425, 
+        536872535, 
+        536872617, 
+        536872692, 
+        536872961, 
+        536873208, 
+        536873405, 
+        536874916, 
+        536875046, 
+        536875089, 
+        536875095, 
+        536875097, 
+        536875195, 
+        536875256, 
+        536875303, 
+        536875309, 
+        536875361, 
+        536875396, 
+        536875453, 
+        536875483, 
+        536875521, 
+        536875689, 
+        536875868, 
+        536875869, 
+        536875903, 
+        536876028, 
+        536876031, 
+        536876227, 
+        536876239, 
+        536876291, 
+        536876322, 
+        536876353, 
+        536876857, 
+        536876866, 
+        536877216, 
+        536878385, 
+        536878579, 
+        536879813, 
+        536880079, 
+        536880227, 
+        536880438, 
+        536880439, 
+        536884963, 
+        536884964, 
+        536884981, 
+        536884989, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        17, 
+        18
+    ], 
+    "time_to_beat": {
+        "normally": 32400
+    }, 
+    "total_rating": 87.2334867778894, 
+    "total_rating_count": 57, 
+    "updated_at": 1528354254615, 
+    "url": "https://www.igdb.com/games/hyper-light-drifter", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "uN9YsuJMsDg"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "OBIUdMkve9k"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "nWufEJ1Ava0"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "wu9w5P_7apA"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/257850"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://heartmachine.com"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/heartmachinez"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/hyperlightdrifter"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Hyper_Light_Drifter"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://hyperlightdrifter.wikia.com/"
+        }
+    ]
+}

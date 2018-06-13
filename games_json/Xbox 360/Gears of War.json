@@ -1,0 +1,541 @@
+{
+    "aggregated_rating": 83.75, 
+    "aggregated_rating_count": 5, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "GoW: Ultimate Edition"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Gears of War: Ultimate Edition"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "GoW"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "lwbwk45g1osi4lvv5ktp", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lwbwk45g1osi4lvv5ktp.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "rqonfdndz1qtgfmzremh", 
+            "height": 630, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rqonfdndz1qtgfmzremh.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "xnpvkivwtxelz2nvqr35", 
+            "height": 650, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xnpvkivwtxelz2nvqr35.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "ygwcul4ep9iurzbofwyn", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ygwcul4ep9iurzbofwyn.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "jrkvtsb1kewckzozmuwm", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jrkvtsb1kewckzozmuwm.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "gpnl7mqvo1weofrduk8m", 
+            "height": 650, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gpnl7mqvo1weofrduk8m.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "n3eurkw59qcpfvatf4fe", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n3eurkw59qcpfvatf4fe.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "ven263uccs2e37dzfy6y", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ven263uccs2e37dzfy6y.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "tfhxpiuiqm15vn4hdfzh", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tfhxpiuiqm15vn4hdfzh.jpg", 
+            "width": 1000
+        }
+    ], 
+    "category": 0, 
+    "collection": 66, 
+    "cover": {
+        "cloudinary_id": "tlitpk2q2sixai0cv2qi", 
+        "height": 600, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tlitpk2q2sixai0cv2qi.jpg", 
+        "width": 438
+    }, 
+    "created_at": 1317710317000, 
+    "developers": [
+        168, 
+        167
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 1162857600000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        492, 
+        6958, 
+        548, 
+        7331, 
+        1319, 
+        11186, 
+        565, 
+        26401, 
+        539, 
+        28204
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 547, 
+    "keywords": [
+        3, 
+        129, 
+        558, 
+        563, 
+        701, 
+        970, 
+        1025, 
+        1120, 
+        1186, 
+        1188, 
+        1293, 
+        1317, 
+        1333, 
+        1440, 
+        1971, 
+        2962, 
+        3486, 
+        3640, 
+        3833, 
+        4134, 
+        4146, 
+        4169, 
+        4210, 
+        4282, 
+        4287, 
+        4359, 
+        4484, 
+        4525, 
+        4536, 
+        4578, 
+        4611, 
+        4614, 
+        4615, 
+        4698, 
+        4777, 
+        4865, 
+        4869, 
+        4890, 
+        4892, 
+        4897, 
+        4907, 
+        4918, 
+        4956, 
+        4973, 
+        5022, 
+        5025, 
+        5029, 
+        5308, 
+        5309, 
+        5323, 
+        5385, 
+        5444, 
+        5451, 
+        5452, 
+        5453, 
+        5523, 
+        5609, 
+        5633, 
+        5691, 
+        5721, 
+        5736, 
+        5783, 
+        5850, 
+        5909, 
+        5943, 
+        6036, 
+        6137, 
+        6165, 
+        6196, 
+        6201, 
+        6237, 
+        6239, 
+        6278, 
+        6362, 
+        6371, 
+        6375, 
+        6531, 
+        6588, 
+        6692, 
+        6738, 
+        6744, 
+        6975, 
+        7215, 
+        7369, 
+        7436, 
+        7685, 
+        8153, 
+        8181, 
+        8311, 
+        8998, 
+        9355, 
+        9360, 
+        9366, 
+        9406, 
+        10190, 
+        10519, 
+        10545, 
+        10761, 
+        10762, 
+        10763, 
+        10764, 
+        10766, 
+        11275, 
+        11531, 
+        11549, 
+        12759, 
+        12760, 
+        12768, 
+        12770, 
+        12771, 
+        12772, 
+        12776, 
+        12784, 
+        13247, 
+        14882, 
+        15803, 
+        15804
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": true, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Gears of War", 
+    "pegi": {
+        "rating": 5, 
+        "synopsis": "The content of this game is suitable for persons aged 18 years and over only.\r\nIt contains: Extreme violence - Realistic looking violence - \r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        6, 
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 7.666666666666667, 
+    "publishers": [
+        53
+    ], 
+    "pulse_count": 8, 
+    "rating": 79.827682520377, 
+    "rating_count": 141, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1162857600000, 
+            "human": "2006-Nov-07", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1194307200000, 
+            "human": "2007-Nov-06", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1163721600000, 
+            "human": "2006-Nov-17", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1164240000000, 
+            "human": "2006-Nov-23", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1163203200000, 
+            "human": "2006-Nov-11", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1194566400000, 
+            "human": "2007-Nov-09", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1195084800000, 
+            "human": "2007-Nov-15", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qfbhiurzrro8frjaz2oy", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qfbhiurzrro8frjaz2oy.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "txccwmvw61dnxospzh3w", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/txccwmvw61dnxospzh3w.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "xsx6p2nro5vjl1lkhcxg", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xsx6p2nro5vjl1lkhcxg.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "gvcptdtdmlkmvynxas7d", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gvcptdtdmlkmvynxas7d.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "fvidgpneu6qgpga8sbss", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvidgpneu6qgpga8sbss.jpg", 
+            "width": 800
+        }
+    ], 
+    "slug": "gears-of-war", 
+    "summary": "A third-person tactical shooter from Epic, running on the Unreal Engine 3. Gears of War thrusts gamers into a deep and harrowing story of humankind's epic battle for survival against the Locust Horde, a nightmarish race of creatures that surface from the bowels of the planet. \n \nUnlike other shooters, Gears of War is all about teamwork in a big way. All game modes, levels and scenarios are designed specifically to encourage co-operative play, whether it be with A.I. partners or human players (with A.I. teammates designed with specific strengths, weaknesses and personalities.) On top of that, voice recognition will be available for players, and obviously voice chat to discuss strategy with your friends. In addition to voice chat, gamers will be able to experience individualized matchmaking, view player statistics, earn player achievements, customize their games, and build and personalize their gamer profiles over Xbox Live.", 
+    "tags": [
+        1, 
+        18, 
+        19, 
+        268435461, 
+        536870915, 
+        536871041, 
+        536871470, 
+        536871475, 
+        536871613, 
+        536871882, 
+        536871937, 
+        536872032, 
+        536872098, 
+        536872100, 
+        536872205, 
+        536872229, 
+        536872245, 
+        536872352, 
+        536872883, 
+        536873874, 
+        536874398, 
+        536874552, 
+        536874745, 
+        536875046, 
+        536875058, 
+        536875081, 
+        536875122, 
+        536875194, 
+        536875199, 
+        536875271, 
+        536875396, 
+        536875437, 
+        536875448, 
+        536875490, 
+        536875523, 
+        536875526, 
+        536875527, 
+        536875610, 
+        536875689, 
+        536875777, 
+        536875781, 
+        536875802, 
+        536875804, 
+        536875809, 
+        536875819, 
+        536875830, 
+        536875868, 
+        536875885, 
+        536875934, 
+        536875937, 
+        536875941, 
+        536876220, 
+        536876221, 
+        536876235, 
+        536876297, 
+        536876356, 
+        536876363, 
+        536876364, 
+        536876365, 
+        536876435, 
+        536876521, 
+        536876545, 
+        536876603, 
+        536876633, 
+        536876648, 
+        536876695, 
+        536876762, 
+        536876821, 
+        536876855, 
+        536876948, 
+        536877049, 
+        536877077, 
+        536877108, 
+        536877113, 
+        536877149, 
+        536877151, 
+        536877190, 
+        536877274, 
+        536877283, 
+        536877287, 
+        536877443, 
+        536877500, 
+        536877604, 
+        536877650, 
+        536877656, 
+        536877887, 
+        536878127, 
+        536878281, 
+        536878348, 
+        536878597, 
+        536879065, 
+        536879093, 
+        536879223, 
+        536879910, 
+        536880267, 
+        536880272, 
+        536880278, 
+        536880318, 
+        536881102, 
+        536881431, 
+        536881457, 
+        536881673, 
+        536881674, 
+        536881675, 
+        536881676, 
+        536881678, 
+        536882187, 
+        536882443, 
+        536882461, 
+        536883671, 
+        536883672, 
+        536883680, 
+        536883682, 
+        536883683, 
+        536883684, 
+        536883688, 
+        536883696, 
+        536884159, 
+        536885794, 
+        536886715, 
+        536886716, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18, 
+        19
+    ], 
+    "time_to_beat": {
+        "completely": 57600, 
+        "normally": 34530
+    }, 
+    "total_rating": 81.78884126018849, 
+    "total_rating_count": 146, 
+    "updated_at": 1528603876532, 
+    "url": "https://www.igdb.com/games/gears-of-war", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "0zHDKi4wbGE"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Gears_of_War_(video_game)"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://gearsofwar.wikia.com/wiki/Gears_of_War"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://gearsofwar.xbox.com/"
+        }
+    ]
+}

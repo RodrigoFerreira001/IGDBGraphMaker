@@ -1,0 +1,286 @@
+{
+    "aggregated_rating": 85.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 2582, 
+    "cover": {
+        "cloudinary_id": "ugiwhgoaigvpxcdtfoc9", 
+        "height": 698, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ugiwhgoaigvpxcdtfoc9.jpg", 
+        "width": 584
+    }, 
+    "created_at": 1483994933131, 
+    "developers": [
+        5195
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "396350"
+    }, 
+    "first_release_date": 1486512000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        6732, 
+        11423, 
+        55752, 
+        10039, 
+        19448, 
+        19376, 
+        7350, 
+        21429, 
+        3277, 
+        19174
+    ], 
+    "genres": [
+        5, 
+        8, 
+        32
+    ], 
+    "id": 26725, 
+    "keywords": [
+        117, 
+        163, 
+        524, 
+        905, 
+        1025, 
+        1158, 
+        1309, 
+        1494, 
+        2049, 
+        2071, 
+        2085, 
+        2813, 
+        4004, 
+        4134, 
+        4150, 
+        4151, 
+        4161, 
+        4253, 
+        4446, 
+        4882, 
+        16827
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Bleed 2", 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        49, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2238, 
+        5257, 
+        5195
+    ], 
+    "pulse_count": 7, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1520467200000, 
+            "human": "2018-Mar-08", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1518134400000, 
+            "human": "2018-Feb-09", 
+            "m": 2, 
+            "platform": 48, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1518134400000, 
+            "human": "2018-Feb-09", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1486512000000, 
+            "human": "2017-Feb-08", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1486512000000, 
+            "human": "2017-Feb-08", 
+            "m": 2, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1486512000000, 
+            "human": "2017-Feb-08", 
+            "m": 2, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "eyclpxocfyhgecglroaw", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eyclpxocfyhgecglroaw.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zrydstz0wza5owkszcpc", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zrydstz0wza5owkszcpc.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "b7ourbuiqibe34zvcyhn", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b7ourbuiqibe34zvcyhn.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nbnbedhvtmedizoh7uhs", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nbnbedhvtmedizoh7uhs.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qktwrwi0lv5wgitcske9", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qktwrwi0lv5wgitcske9.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "wsozemqfo3kdje9or3wz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wsozemqfo3kdje9or3wz.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hruu06ciipvviqyzh1xc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hruu06ciipvviqyzh1xc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "abxpn3bvwihwusssog3k", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/abxpn3bvwihwusssog3k.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gqx3jk41yxraexbsj4b6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gqx3jk41yxraexbsj4b6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "et8psjhlq3emzky6mdzt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/et8psjhlq3emzky6mdzt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "r5rbbbcn5nxf3khdywef", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r5rbbbcn5nxf3khdywef.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "bleed-2", 
+    "summary": "\"Bleed 2 is a relentless arcade action game about shooting, dodging, reflecting bullets, slowing time, and lots and lots of bosses. The player controls a young girl named Wryn -- the world's greatest (and only remaining) hero. Together, they must battle an invading force of villains and live up to her title as the Greatest Hero of All Time!\"", 
+    "tags": [
+        1, 
+        268435461, 
+        268435464, 
+        268435488, 
+        536871029, 
+        536871075, 
+        536871436, 
+        536871817, 
+        536871937, 
+        536872070, 
+        536872221, 
+        536872406, 
+        536872961, 
+        536872983, 
+        536872997, 
+        536873725, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875063, 
+        536875073, 
+        536875165, 
+        536875358, 
+        536875794, 
+        536887739, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 82.5, 
+    "total_rating_count": 3, 
+    "updated_at": 1527555546005, 
+    "url": "https://www.igdb.com/games/bleed-2", 
+    "videos": [
+        {
+            "name": "Teaser", 
+            "video_id": "FxZcEnMTrOQ"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "kUloJK7nw7g"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://bootdiskrevolution.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/396350"
+        }
+    ]
+}

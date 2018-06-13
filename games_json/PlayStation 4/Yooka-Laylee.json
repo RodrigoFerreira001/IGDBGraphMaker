@@ -1,0 +1,422 @@
+{
+    "aggregated_rating": 69.2380952380952, 
+    "aggregated_rating_count": 24, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Project Ukulele"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "yep7eiuvroc52esgwonz", 
+        "height": 1684, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yep7eiuvroc52esgwonz.jpg", 
+        "width": 1528
+    }, 
+    "created_at": 1430558306366, 
+    "developers": [
+        5369
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is a platformer in which players control a chameleon and a bat through fantastical levels as they attempt to save the world's books from a villain. Players traverse platforms, solve puzzles, and battle monsters and boss characters in brief melee-style combat. Boss battles depict explosions and more involved combat; some sequences require players to shoot a cannon from a first-person perspective. The game contains some mild innuendo and humor: a plant asks the player's character to \u201cfondle her petals for a bit,\u201d and a snowman appears with a fig leaf over its crotch."
+    }, 
+    "external": {
+        "steam": "360830"
+    }, 
+    "first_release_date": 1491868800000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        6732, 
+        7344, 
+        10148, 
+        55752, 
+        18822, 
+        36868, 
+        11423, 
+        7202, 
+        72373, 
+        47823
+    ], 
+    "genres": [
+        8, 
+        31, 
+        32
+    ], 
+    "hypes": 24, 
+    "id": 10031, 
+    "keywords": [
+        426, 
+        458, 
+        968, 
+        1158, 
+        1435, 
+        2049, 
+        2604, 
+        4004, 
+        4134, 
+        4138, 
+        4148, 
+        4162, 
+        4176, 
+        4276, 
+        4297, 
+        4355, 
+        4478, 
+        4484, 
+        4619, 
+        4760, 
+        4768, 
+        4769, 
+        4883, 
+        4940, 
+        4957, 
+        5193, 
+        5200, 
+        5441, 
+        6034, 
+        6130, 
+        7237
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Yooka-Laylee", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only."
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        48, 
+        49, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 9.666666666666666, 
+    "publishers": [
+        614
+    ], 
+    "pulse_count": 115, 
+    "rating": 62.96193449235641, 
+    "rating_count": 10, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1491868800000, 
+            "human": "2017-Apr-11", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491868800000, 
+            "human": "2017-Apr-11", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491868800000, 
+            "human": "2017-Apr-11", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513209600000, 
+            "human": "2017-Dec-14", 
+            "m": 12, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491868800000, 
+            "human": "2017-Apr-11", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491868800000, 
+            "human": "2017-Apr-11", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491868800000, 
+            "human": "2017-Apr-11", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491868800000, 
+            "human": "2017-Apr-11", 
+            "m": 4, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491868800000, 
+            "human": "2017-Apr-11", 
+            "m": 4, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491868800000, 
+            "human": "2017-Apr-11", 
+            "m": 4, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dws3vhyhqbgpp600yvax", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dws3vhyhqbgpp600yvax.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "blvx8apts9bkxfy7f7eb", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/blvx8apts9bkxfy7f7eb.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "xssunp8in9ybkppgipod", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xssunp8in9ybkppgipod.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "qqtigzaedsiuptlad1ni", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qqtigzaedsiuptlad1ni.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "uk7tau30ys3tmu8vntt9", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uk7tau30ys3tmu8vntt9.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "qwwp01e8mep8tm8jjrm8", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qwwp01e8mep8tm8jjrm8.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "omsn4arae0xikhjlmemf", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/omsn4arae0xikhjlmemf.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "yh6erecyvhn8yfmehu3o", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yh6erecyvhn8yfmehu3o.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "drhwejxg6f9yablgdwff", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/drhwejxg6f9yablgdwff.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rlj3zf5yc3wetlalhmia", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rlj3zf5yc3wetlalhmia.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zihysaqixhh8c8e89cev", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zihysaqixhh8c8e89cev.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "yooka-laylee", 
+    "summary": "Yooka-Laylee is an all-new 3D platformer from the creative talent behind the Banjo-Kazooie and Donkey Kong Country games. We\u2019ve come together to form Playtonic Games and create a spiritual successor to our most cherished work from the past! \n \nOur new heroes, Yooka (the green one) and Laylee (the wisecracking bat with big nose) were conceptualised from the ground up for stellar platforming gameplay, created by the same character artist behind the rebooted Donkey Kong family and legendary N64 heroes Banjo and Kazooie. \n \nUsing an arsenal of special moves like Yooka\u2019s tongue grapple and Laylee\u2019s tactical sonar blast, players will explore \u2013 and expand \u2013 gorgeous 3D worlds drawn up by esteemed environment artist Steven Hurst (Banjo-Kazooie series, Viva Pinata) and discover the plethora of delicious collectibles hidden within.", 
+    "tags": [
+        1, 
+        17, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536871338, 
+        536871370, 
+        536871880, 
+        536872070, 
+        536872347, 
+        536872961, 
+        536873516, 
+        536874916, 
+        536875046, 
+        536875050, 
+        536875060, 
+        536875074, 
+        536875088, 
+        536875188, 
+        536875209, 
+        536875267, 
+        536875390, 
+        536875396, 
+        536875531, 
+        536875672, 
+        536875680, 
+        536875681, 
+        536875795, 
+        536875852, 
+        536875869, 
+        536876105, 
+        536876112, 
+        536876353, 
+        536876946, 
+        536877042, 
+        536878149, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 66.1000148652258, 
+    "total_rating_count": 34, 
+    "updated_at": 1528360338577, 
+    "url": "https://www.igdb.com/games/yooka-laylee", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Q37UB09gf6U"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "ZycYt8stLUQ"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "ac1oZU0nJuc"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "4VK2eCZYvlY"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "jpCwSE5sANU"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "cNt1Kk5Ij-Y"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "oqmF8IgxtJ0"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "3TZo5Gnxog8"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "u5BqQXuzAAQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/360830"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/channel/UCueKkTDzpAUAof825AsGZtQ"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/playtonicgames"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/playtonicgames"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Yooka-Laylee"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://yooka-laylee.wikia.com/wiki/Yooka-Laylee_Wiki:Main_Menu"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.playtonicgames.com/games/yooka-laylee/"
+        }
+    ]
+}

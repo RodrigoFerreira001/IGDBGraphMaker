@@ -1,0 +1,98 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "lgykjchm7mjzhrzjyr2h", 
+        "height": 275, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lgykjchm7mjzhrzjyr2h.jpg", 
+        "width": 525
+    }, 
+    "created_at": 1491512732737, 
+    "first_release_date": 1456358400000, 
+    "id": 28091, 
+    "name": "Inside My Radio", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        12239
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1456358400000, 
+            "human": "2016-Feb-25", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1456358400000, 
+            "human": "2016-Feb-25", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "eufdl6y8now7xviif7jn", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eufdl6y8now7xviif7jn.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qah98lxpu1cw2zn1x2qm", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qah98lxpu1cw2zn1x2qm.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "neknw0yof41xzqdlsi1e", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/neknw0yof41xzqdlsi1e.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "n1lhu7y1qhdtmkqehur7", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n1lhu7y1qhdtmkqehur7.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hi3b1cmu6b4z2cyfsoim", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hi3b1cmu6b4z2cyfsoim.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ddlac4uw90bd4fmmzxuy", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ddlac4uw90bd4fmmzxuy.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "evlqylurvjvnex5odnch", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/evlqylurvjvnex5odnch.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "inside-my-radio", 
+    "summary": "Music/Platformer/Rhythm/Puzzle", 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1518065861701, 
+    "url": "https://www.igdb.com/games/inside-my-radio", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://insidemyradio.com"
+        }
+    ]
+}

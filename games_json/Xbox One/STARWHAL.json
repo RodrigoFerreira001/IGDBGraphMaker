@@ -1,0 +1,393 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Starwhal: Just the Tip"
+        }, 
+        {
+            "name": "STARWHAL: Just the Tip"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "dr8ynavtazz2wuc35ayk", 
+        "height": 1024, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dr8ynavtazz2wuc35ayk.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1399839243459, 
+    "developers": [
+        2916
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "263020"
+    }, 
+    "first_release_date": 1411948800000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        20965, 
+        6732, 
+        11423, 
+        16513, 
+        18387, 
+        19934, 
+        19082, 
+        3277, 
+        19448, 
+        18167
+    ], 
+    "genres": [
+        4, 
+        14, 
+        32
+    ], 
+    "id": 6781, 
+    "keywords": [
+        117, 
+        1044, 
+        1158, 
+        1494, 
+        2109, 
+        2312, 
+        4004, 
+        4134, 
+        4151, 
+        4176, 
+        4213, 
+        4261, 
+        4266, 
+        4450, 
+        4466, 
+        4586, 
+        4726, 
+        4846, 
+        4911, 
+        5157, 
+        5292, 
+        5315, 
+        5523, 
+        5563, 
+        6059, 
+        6892
+    ], 
+    "name": "STARWHAL", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Non realistic looking violence towards fantasy characters"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        41, 
+        9, 
+        48, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        2916
+    ], 
+    "rating": 59.576587869252, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1425427200000, 
+            "human": "2015-Mar-04", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1427155200000, 
+            "human": "2015-Mar-24", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1444262400000, 
+            "human": "2015-Oct-08", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1443052800000, 
+            "human": "2015-Sep-24", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1449619200000, 
+            "human": "2015-Dec-09", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1449619200000, 
+            "human": "2015-Dec-09", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1425427200000, 
+            "human": "2015-Mar-04", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 3, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1425427200000, 
+            "human": "2015-Mar-04", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1425427200000, 
+            "human": "2015-Mar-04", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1425427200000, 
+            "human": "2015-Mar-04", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1411948800000, 
+            "human": "2014-Sep-29", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1411948800000, 
+            "human": "2014-Sep-29", 
+            "m": 9, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1411948800000, 
+            "human": "2014-Sep-29", 
+            "m": 9, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1411948800000, 
+            "human": "2014-Sep-29", 
+            "m": 9, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1424736000000, 
+            "human": "2015-Feb-24", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424736000000, 
+            "human": "2015-Feb-24", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vwu3yhr2hulph3vmojwf", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vwu3yhr2hulph3vmojwf.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qanvsfvmw8uxvkjsaacc", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qanvsfvmw8uxvkjsaacc.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "djdypvx7dg7ffybpgkiy", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/djdypvx7dg7ffybpgkiy.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nkckhky77ymb1tibqk0n", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nkckhky77ymb1tibqk0n.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jb0znhsqhaiv3hpnpu1q", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jb0znhsqhaiv3hpnpu1q.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nvwvtm0ogasjgzgojaer", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nvwvtm0ogasjgzgojaer.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "vqd2tygidvb6yxnnffyk", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vqd2tygidvb6yxnnffyk.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "igpd27orkanlvylpchg1", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/igpd27orkanlvylpchg1.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ua8gvjvbhocbm1fqv2gt", 
+            "height": 1056, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ua8gvjvbhocbm1fqv2gt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gtbsxgebcywbtv4i0bnx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gtbsxgebcywbtv4i0bnx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kmxx5w6yshetsabw6tx2", 
+            "height": 1056, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kmxx5w6yshetsabw6tx2.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "starwhal", 
+    "summary": "The local multi-player space narwhal fighting game that has rocked the internet is finally ready for its big debut in a fully loaded release! Flop it out with 2-4 players in a retro, epic narwhal battle in space! The heart-piercing action is furious and unrelenting. STARWHAL will change your life. Inspired by countless couch-gaming gatherings over the decades, we wanted to bring something competitive, creative, and immediately fun to the table. Our original prototype was conceived and developed in 48 hours with focus entirely on these areas. From that came the phenomenon that is STARWHAL.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435470, 
+        268435488, 
+        536871029, 
+        536871956, 
+        536872070, 
+        536872406, 
+        536873021, 
+        536873224, 
+        536874916, 
+        536875046, 
+        536875063, 
+        536875088, 
+        536875125, 
+        536875173, 
+        536875178, 
+        536875362, 
+        536875378, 
+        536875498, 
+        536875638, 
+        536875758, 
+        536875823, 
+        536876069, 
+        536876204, 
+        536876227, 
+        536876435, 
+        536876475, 
+        536876971, 
+        536877804, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 64.788293934626, 
+    "total_rating_count": 8, 
+    "updated_at": 1524125316228, 
+    "url": "https://www.igdb.com/games/starwhal", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "1k9T6XsGBE4"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "7YybEGr3chI"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://starwhal.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/263020"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/starwhalgame"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/starwhalJustTheTip"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "category": 0, 
+    "collection": 516, 
+    "cover": {
+        "cloudinary_id": "e20lgztxoe2hhsphwg3l", 
+        "height": 180, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/e20lgztxoe2hhsphwg3l.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1388693833432, 
+    "developers": [
+        1749
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 933379200000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        8197, 
+        25222, 
+        4200, 
+        51179, 
+        49875, 
+        80249, 
+        26223, 
+        80251, 
+        79660, 
+        21166
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 3339, 
+    "keywords": [
+        365, 
+        1395, 
+        1898, 
+        2152, 
+        2875, 
+        4031, 
+        4467, 
+        5173, 
+        5354, 
+        5631, 
+        5851, 
+        10206, 
+        13119
+    ], 
+    "name": "The New Tetris", 
+    "platforms": [
+        4
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        70
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 933379200000, 
+            "human": "1999-Jul-31", 
+            "m": 7, 
+            "platform": 4, 
+            "y": 1999
+        }
+    ], 
+    "slug": "the-new-tetris", 
+    "summary": "There are several key differences in gameplay from the original Tetris. First, in addition to clearing lines, one can also form 4x4 large squares of four pieces to form 'blocks'. When a block is created, it turns solid gold or silver, depending on the makeup of the block\u2014a block built from all the same kind of piece becomes a golden block or \"monosquare\", while any other combination becomes a silver block or \"multisquare\". Blocks can only be constructed from whole pieces: if any part of a piece has been cleared, then it cannot be used to form a block. When a line that has pieces from a block is cleared, it earns more points.", 
+    "tags": [
+        268435465, 
+        536871277, 
+        536872307, 
+        536872810, 
+        536873064, 
+        536873787, 
+        536874943, 
+        536875379, 
+        536876085, 
+        536876266, 
+        536876543, 
+        536876763, 
+        536881118, 
+        536884031, 
+        1073741828
+    ], 
+    "updated_at": 1513070527048, 
+    "url": "https://www.igdb.com/games/the-new-tetris"
+}

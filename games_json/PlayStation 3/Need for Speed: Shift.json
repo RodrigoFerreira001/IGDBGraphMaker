@@ -1,0 +1,450 @@
+{
+    "aggregated_rating": 79.5, 
+    "aggregated_rating_count": 8, 
+    "alternative_names": [
+        {
+            "name": "NFSS"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "NFS Shift"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "NFS ShiftNFSS"
+        }
+    ], 
+    "category": 0, 
+    "collection": 12, 
+    "cover": {
+        "cloudinary_id": "qk5i5yeuom8x7xxr45ck", 
+        "height": 400, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qk5i5yeuom8x7xxr45ck.jpg", 
+        "width": 347
+    }, 
+    "created_at": 1298027855000, 
+    "developers": [
+        2142, 
+        356
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is a racing simulation game in which players can select and customize a car to compete against other drivers on city streets and professional race circuits. Players earn \"profile points\" for performing certain skillful actions in the game (e.g., passing a car, mastering a corner on a difficult track, etc.), and can use their points to upgrade their driver profiles. Drivers also can earn \"aggression points\" for erratic driving or bumping into other cars; when racers collide with objects and cars on the track, they sometimes grunt in pain."
+    }, 
+    "external": {
+        "steam": "24870"
+    }, 
+    "first_release_date": 1252972800000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        26948, 
+        98, 
+        97, 
+        100, 
+        524, 
+        7215, 
+        105, 
+        99, 
+        3193, 
+        7115
+    ], 
+    "genres": [
+        10, 
+        13
+    ], 
+    "id": 102, 
+    "keywords": [
+        401, 
+        1148, 
+        1158, 
+        1293, 
+        1333, 
+        1409, 
+        1678, 
+        1682, 
+        1783, 
+        2478, 
+        2543, 
+        3425, 
+        3901, 
+        4054, 
+        4134, 
+        4149, 
+        4157, 
+        4205, 
+        4216, 
+        4245, 
+        4330, 
+        4345, 
+        4520, 
+        4578, 
+        4586, 
+        4869, 
+        4890, 
+        4975, 
+        5100, 
+        5196, 
+        5209, 
+        5300, 
+        5328, 
+        5507, 
+        5566, 
+        5572, 
+        5657, 
+        5685, 
+        5783, 
+        5786, 
+        5789, 
+        5850, 
+        5878, 
+        5879, 
+        5909, 
+        6135, 
+        6311, 
+        6765, 
+        7041, 
+        7407, 
+        8281, 
+        8838, 
+        9077, 
+        9112, 
+        9222, 
+        9382, 
+        10003, 
+        10436, 
+        10437, 
+        10495, 
+        10661, 
+        11136, 
+        11256, 
+        11267, 
+        11392, 
+        11474, 
+        11550, 
+        11754, 
+        12271, 
+        12953, 
+        13068, 
+        13082, 
+        13519
+    ], 
+    "name": "Need for Speed: Shift", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons.\r\nIt contains: This game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        38, 
+        12
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        1
+    ], 
+    "rating": 76.7549450022087, 
+    "rating_count": 56, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1253145600000, 
+            "human": "2009-Sep-17", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1252972800000, 
+            "human": "2009-Sep-15", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1257984000000, 
+            "human": "2009-Nov-12", 
+            "m": 11, 
+            "platform": 38, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1257984000000, 
+            "human": "2009-Nov-12", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1257984000000, 
+            "human": "2009-Nov-12", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1257984000000, 
+            "human": "2009-Nov-12", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1253750400000, 
+            "human": "2009-Sep-24", 
+            "m": 9, 
+            "platform": 38, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1253750400000, 
+            "human": "2009-Sep-24", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1253750400000, 
+            "human": "2009-Sep-24", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1253750400000, 
+            "human": "2009-Sep-24", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1253232000000, 
+            "human": "2009-Sep-18", 
+            "m": 9, 
+            "platform": 38, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1253232000000, 
+            "human": "2009-Sep-18", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1253232000000, 
+            "human": "2009-Sep-18", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1252972800000, 
+            "human": "2009-Sep-15", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1252972800000, 
+            "human": "2009-Sep-15", 
+            "m": 9, 
+            "platform": 38, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1252972800000, 
+            "human": "2009-Sep-15", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ujpksm1owxxzbeoruxfl", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ujpksm1owxxzbeoruxfl.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "rya6tbj7ennv4vqvof8v", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rya6tbj7ennv4vqvof8v.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "ye3xwidqwlspnngcabyr", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ye3xwidqwlspnngcabyr.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "gqezzuujjout1zzdmrsi", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gqezzuujjout1zzdmrsi.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "pbqgowiytcgo8i85jfsy", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pbqgowiytcgo8i85jfsy.jpg", 
+            "width": 800
+        }
+    ], 
+    "slug": "need-for-speed-shift", 
+    "summary": "Need for Speed SHIFT is an award-winning authentic racing game that combines the true driver\u2019s experience with real-world physics, pixel-perfect car models, and a wide range of authentic race tracks. Need for Speed SHIFT takes players in a different direction to create a simulation experience that replicates the true feeling of driving high-end performance cars. \n \nPlayers are thrust into the loud, visceral, intense, athletic experience of racing a car on the edge of control from the driver\u2019s perspective through the combination of perception based G-forces, the hyper reality of the cockpit view, and the brutal experience of a first person crash dynamic. Need for Speed SHIFT features an accurate, accessible physics-based driving model that allows you to feel every impact, every change of track surface and every last bit of grip as you push yourself to the edge.", 
+    "tags": [
+        268435466, 
+        268435469, 
+        536871313, 
+        536872060, 
+        536872070, 
+        536872205, 
+        536872245, 
+        536872321, 
+        536872590, 
+        536872594, 
+        536872695, 
+        536873390, 
+        536873455, 
+        536874337, 
+        536874813, 
+        536874966, 
+        536875046, 
+        536875061, 
+        536875069, 
+        536875117, 
+        536875128, 
+        536875157, 
+        536875242, 
+        536875257, 
+        536875432, 
+        536875490, 
+        536875498, 
+        536875781, 
+        536875802, 
+        536875887, 
+        536876012, 
+        536876108, 
+        536876121, 
+        536876212, 
+        536876240, 
+        536876419, 
+        536876478, 
+        536876484, 
+        536876569, 
+        536876597, 
+        536876695, 
+        536876698, 
+        536876701, 
+        536876762, 
+        536876790, 
+        536876791, 
+        536876821, 
+        536877047, 
+        536877223, 
+        536877677, 
+        536877953, 
+        536878319, 
+        536879193, 
+        536879750, 
+        536879989, 
+        536880024, 
+        536880134, 
+        536880294, 
+        536880915, 
+        536881348, 
+        536881349, 
+        536881407, 
+        536881573, 
+        536882048, 
+        536882168, 
+        536882179, 
+        536882304, 
+        536882386, 
+        536882462, 
+        536882666, 
+        536883183, 
+        536883865, 
+        536883980, 
+        536883994, 
+        536884431, 
+        1073741825, 
+        1073741826
+    ], 
+    "total_rating": 78.12747250110435, 
+    "total_rating_count": 64, 
+    "updated_at": 1528414007861, 
+    "url": "https://www.igdb.com/games/need-for-speed-shift", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "VfXOAc9xSy8"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "3rNjRTyijDY"
+        }, 
+        {
+            "name": "Teaser", 
+            "video_id": "dxkqsHf3rGk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://nfs.wikia.com/wiki/Need_for_Speed:_Shift"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Need_for_Speed:_Shift"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://shift.needforspeed.com/home.action"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/24870"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ndrfui7klcscw6g2h2lk", 
+        "height": 370, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ndrfui7klcscw6g2h2lk.jpg", 
+        "width": 438
+    }, 
+    "created_at": 1517406217341, 
+    "first_release_date": 1456963200000, 
+    "id": 85463, 
+    "name": "U Host", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.0, 
+    "rating": 83.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1458172800000, 
+            "human": "2016-Mar-17", 
+            "m": 3, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1456963200000, 
+            "human": "2016-Mar-03", 
+            "m": 3, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "q8gk9iibln7h1xxrmuao", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q8gk9iibln7h1xxrmuao.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "hxhftlyu7f5akcarocxd", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hxhftlyu7f5akcarocxd.jpg", 
+            "width": 758
+        }
+    ], 
+    "slug": "u-host", 
+    "summary": "Have you ever wanted to create your own Game Show? Well now you can!", 
+    "total_rating": 83.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1518018454786, 
+    "url": "https://www.igdb.com/games/u-host"
+}

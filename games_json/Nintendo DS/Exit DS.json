@@ -1,0 +1,95 @@
+{
+    "aggregated_rating": 67.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 2721, 
+    "cover": {
+        "cloudinary_id": "yju2rphvszn5v9fls00s", 
+        "height": 896, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yju2rphvszn5v9fls00s.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1469311918796, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1228348800000, 
+    "games": [
+        25222, 
+        25646, 
+        14763, 
+        26223, 
+        60044, 
+        14047, 
+        37094, 
+        56292, 
+        29525, 
+        20329
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 21471, 
+    "keywords": [
+        14, 
+        2042, 
+        2387, 
+        2875, 
+        4183, 
+        4450, 
+        5099, 
+        5143, 
+        6258, 
+        13076
+    ], 
+    "name": "Exit DS", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1228348800000, 
+            "human": "2008-Dec-04", 
+            "m": 12, 
+            "platform": 20, 
+            "region": 8, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zw84wvzihho9nimy6td0", 
+            "height": 272, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zw84wvzihho9nimy6td0.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "exit-ds", 
+    "summary": "Taito's action puzzler gets updated to take advantage of the Nintendo DS' unique stylus-based control scheme. Players move Mr. ESC, a professional escape artist, around by either pointing in the direction needed or by drawing a path. Exit DS includes over 100 puzzles.", 
+    "tags": [
+        1, 
+        268435465, 
+        536870926, 
+        536872954, 
+        536873299, 
+        536873787, 
+        536875095, 
+        536875362, 
+        536876011, 
+        536876055, 
+        536877170, 
+        536883988
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 67.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1515720396926, 
+    "url": "https://www.igdb.com/games/exit-ds"
+}

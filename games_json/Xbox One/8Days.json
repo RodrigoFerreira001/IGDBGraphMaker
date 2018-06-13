@@ -1,0 +1,190 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ruopofl4jpqhg2rsyjlm", 
+        "height": 1003, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ruopofl4jpqhg2rsyjlm.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1487874323221, 
+    "developers": [
+        12183
+    ], 
+    "external": {
+        "steam": "409530"
+    }, 
+    "first_release_date": 1469145600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        34919, 
+        16468, 
+        40524, 
+        68324, 
+        55289, 
+        37022, 
+        25646, 
+        25640, 
+        10039, 
+        25311
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 27371, 
+    "keywords": [
+        1623, 
+        1705, 
+        4283
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "8Days", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        2920
+    ], 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1486425600000, 
+            "human": "2017-Feb-07", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1487808000000, 
+            "human": "2017-Feb-23", 
+            "m": 2, 
+            "platform": 49, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1487808000000, 
+            "human": "2017-Feb-23", 
+            "m": 2, 
+            "platform": 48, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1469145600000, 
+            "human": "2016-Jul-22", 
+            "m": 7, 
+            "platform": 6, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "oohr9esb87ebghtvo9yx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oohr9esb87ebghtvo9yx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "yb5aqdjfccrcbjogdhkh", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yb5aqdjfccrcbjogdhkh.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "sahpwethyj0crhvr9sab", 
+            "height": 340, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sahpwethyj0crhvr9sab.jpg", 
+            "width": 511
+        }, 
+        {
+            "cloudinary_id": "rcwzef64h6mpyz4zgkga", 
+            "height": 340, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rcwzef64h6mpyz4zgkga.jpg", 
+            "width": 511
+        }, 
+        {
+            "cloudinary_id": "v5oqv5remvclkpglkdnf", 
+            "height": 340, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v5oqv5remvclkpglkdnf.jpg", 
+            "width": 511
+        }
+    ], 
+    "slug": "8days", 
+    "summary": "Join the mercenary forces of G.O.D. Inc where you get to play as 1 of 2 expendables, Mike or Lola. Fight against global nuclear threats, Middle East fighters and city riots whilst travelling to the most dangerous places unimaginable. Gear up for this top down 8bit shooter thrill ride!!", 
+    "tags": [
+        1, 
+        268435488, 
+        536872535, 
+        536872617, 
+        536875195, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1528350147325, 
+    "url": "https://www.igdb.com/games/8days", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "fXK0n0aIIzw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/409530"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://store.santaclaragames.com/games/8days/index.html"
+        }
+    ]
+}

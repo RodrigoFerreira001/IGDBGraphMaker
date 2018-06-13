@@ -1,0 +1,207 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 5, 
+    "category": 0, 
+    "collection": 453, 
+    "cover": {
+        "cloudinary_id": "j0sui1qkrzu63jafzkgv", 
+        "height": 274, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/j0sui1qkrzu63jafzkgv.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1505343572466, 
+    "developers": [
+        1100
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1510272000000, 
+    "franchise": 24, 
+    "franchises": [
+        24
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        28113, 
+        28213, 
+        19082, 
+        70906, 
+        79319, 
+        11529, 
+        19376, 
+        63902, 
+        57866, 
+        51093
+    ], 
+    "id": 66812, 
+    "keywords": [
+        274, 
+        2411, 
+        4134, 
+        4328
+    ], 
+    "name": "Mario Party: The Top 100", 
+    "platforms": [
+        37
+    ], 
+    "player_perspectives": [
+        2, 
+        3
+    ], 
+    "popularity": 3.333333333333333, 
+    "publishers": [
+        70
+    ], 
+    "pulse_count": 17, 
+    "rating": 83.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1510272000000, 
+            "human": "2017-Nov-10", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513900800000, 
+            "human": "2017-Dec-22", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1514419200000, 
+            "human": "2017-Dec-28", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "fxstnd8oocz3z0zfnkct", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fxstnd8oocz3z0zfnkct.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "nwevmsbzrmh5izhbmqnb", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nwevmsbzrmh5izhbmqnb.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "emahi4usb5wenjwpemf2", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/emahi4usb5wenjwpemf2.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "uhexsfhub0ow8nxey4je", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uhexsfhub0ow8nxey4je.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "kmh5abw3w1xeiee5d78l", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kmh5abw3w1xeiee5d78l.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "mhtkrtedqnictxtoiolm", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mhtkrtedqnictxtoiolm.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "ouqpv5ko9k1rqrlxf0ka", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ouqpv5ko9k1rqrlxf0ka.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "jksji0ydw7llom9sl7of", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jksji0ydw7llom9sl7of.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "fpmokiknrnrkreiufaol", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fpmokiknrnrkreiufaol.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "h7qdbvuarwylavp8mzan", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h7qdbvuarwylavp8mzan.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "cjdmwgyfavq6wngqusit", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cjdmwgyfavq6wngqusit.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "y4rtcu9ucez1yy7fyfv7", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y4rtcu9ucez1yy7fyfv7.jpg", 
+            "width": 400
+        }
+    ], 
+    "slug": "mario-party-the-top-100", 
+    "summary": "The \"best\" of Mario Party arrives on 3DS.", 
+    "tags": [
+        40, 
+        536871186, 
+        536873323, 
+        536875046, 
+        536875240, 
+        1073741826, 
+        1073741827
+    ], 
+    "themes": [
+        40
+    ], 
+    "total_rating": 66.5, 
+    "total_rating_count": 7, 
+    "updated_at": 1527703846295, 
+    "url": "https://www.igdb.com/games/mario-party-the-top-100", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "1VcLjBgLhq4"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "AHTCnDycWYg"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Mario_Party:_The_Top_100"
+        }, 
+        {
+            "category": 2, 
+            "url": "https://www.mariowiki.com/Mario_Party:_The_Top_100"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://marioparty100.nintendo.com/"
+        }
+    ]
+}

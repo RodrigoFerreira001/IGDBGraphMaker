@@ -1,0 +1,65 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "dos4ywpaljlmpq5afwda", 
+        "height": 1024, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dos4ywpaljlmpq5afwda.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1504275635077, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1492041600000, 
+    "games": [
+        28154, 
+        19174, 
+        55752, 
+        18927, 
+        54524, 
+        28113, 
+        63138, 
+        11423, 
+        10039, 
+        80030
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 56256, 
+    "keywords": [
+        2049, 
+        4134, 
+        4245, 
+        4438, 
+        4836
+    ], 
+    "name": "Rolling Bob", 
+    "platforms": [
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1492041600000, 
+            "human": "2017-Apr-13", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "slug": "rolling-bob", 
+    "summary": "An auto scrolling platformer that has players drawing platforms.", 
+    "tags": [
+        268435464, 
+        536872961, 
+        536875046, 
+        536875157, 
+        536875350, 
+        536875748
+    ], 
+    "updated_at": 1516591160596, 
+    "url": "https://www.igdb.com/games/rolling-bob"
+}

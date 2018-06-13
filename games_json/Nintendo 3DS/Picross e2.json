@@ -1,0 +1,80 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "llbaxsshxoik0paawjve", 
+        "height": 1280, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/llbaxsshxoik0paawjve.jpg", 
+        "width": 1280
+    }, 
+    "created_at": 1505231392957, 
+    "first_release_date": 1325030400000, 
+    "id": 65211, 
+    "name": "Picross e2", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 75.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1374710400000, 
+            "human": "2013-Jul-25", 
+            "m": 7, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1325030400000, 
+            "human": "2011-Dec-28", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1358985600000, 
+            "human": "2013-Jan-24", 
+            "m": 1, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "sss3y1c7lbknzwwkludx", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sss3y1c7lbknzwwkludx.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "fllevnoie3xxswpeyenp", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fllevnoie3xxswpeyenp.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "uitriosq3kn2k9aq2hmf", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uitriosq3kn2k9aq2hmf.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "m31gulfppz6f12wtme0r", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m31gulfppz6f12wtme0r.jpg", 
+            "width": 400
+        }
+    ], 
+    "slug": "picross-e2", 
+    "summary": "This is the sequel to \"Picross e\" with a navigation feature to make gameplay even smoother.", 
+    "total_rating": 75.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1518078436615, 
+    "url": "https://www.igdb.com/games/picross-e2"
+}

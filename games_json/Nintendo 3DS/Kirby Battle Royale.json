@@ -1,0 +1,227 @@
+{
+    "aggregated_rating": 58.3333333333333, 
+    "aggregated_rating_count": 4, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Kirby Battle Deluxe!"
+        }
+    ], 
+    "category": 0, 
+    "collection": 244, 
+    "cover": {
+        "cloudinary_id": "v6lwf1ssjphmkmf2hgun", 
+        "height": 274, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/v6lwf1ssjphmkmf2hgun.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1505343440704, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1509667200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        10039, 
+        41828, 
+        68391, 
+        22418, 
+        76110, 
+        1235, 
+        65832, 
+        19333, 
+        19934, 
+        23193
+    ], 
+    "genres": [
+        4
+    ], 
+    "id": 66788, 
+    "keywords": [
+        107, 
+        227, 
+        1333, 
+        4134, 
+        4219, 
+        8245
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "platform": 37, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Kirby Battle Royale", 
+    "platforms": [
+        37
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 2.666666666666667, 
+    "publishers": [
+        70
+    ], 
+    "pulse_count": 20, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1516320000000, 
+            "human": "2018-Jan-19", 
+            "m": 1, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1509667200000, 
+            "human": "2017-Nov-03", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1512000000000, 
+            "human": "2017-Nov-30", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "itrlmbxizpbk7z9hnb3i", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/itrlmbxizpbk7z9hnb3i.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "saz1kddklt0a0x15sj7k", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/saz1kddklt0a0x15sj7k.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "dqpsjishvrcmgiaxetnb", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dqpsjishvrcmgiaxetnb.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "hs1v1qgpv0fensbqxbbc", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hs1v1qgpv0fensbqxbbc.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "itbhdasqauxm50opajye", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/itbhdasqauxm50opajye.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "zoqi3ifz8xdi5ssioa6o", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zoqi3ifz8xdi5ssioa6o.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "n03dpyzbkedsbc2p7idl", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n03dpyzbkedsbc2p7idl.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "ztwqy2i88exv8lousdr9", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ztwqy2i88exv8lousdr9.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "wcky5e7lbi3tsiixymwb", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wcky5e7lbi3tsiixymwb.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "wiuv6vmqn0yxtjq72l5f", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wiuv6vmqn0yxtjq72l5f.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "ow7s0yrvp13buoqktpc6", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ow7s0yrvp13buoqktpc6.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "lrslp80elqarrx3nuoxb", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lrslp80elqarrx3nuoxb.jpg", 
+            "width": 400
+        }
+    ], 
+    "slug": "kirby-battle-royale", 
+    "summary": "A multiplayer Kirby game.", 
+    "tags": [
+        1, 
+        268435460, 
+        536871019, 
+        536871139, 
+        536872245, 
+        536875046, 
+        536875131, 
+        536879157, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 58.3333333333333, 
+    "total_rating_count": 4, 
+    "updated_at": 1526615076793, 
+    "url": "https://www.igdb.com/games/kirby-battle-royale", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "KSTQk5W-Wbg"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://kirby.wikia.com/wiki/Kirby_Battle_Royale"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Kirby_Battle_Royale"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://kirby.nintendo.com/battle-royale/"
+        }
+    ]
+}

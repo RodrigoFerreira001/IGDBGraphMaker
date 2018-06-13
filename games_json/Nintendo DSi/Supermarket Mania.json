@@ -1,0 +1,106 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ovrpyhxcckabylbdcja7", 
+        "height": 220, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ovrpyhxcckabylbdcja7.jpg", 
+        "width": 176
+    }, 
+    "created_at": 1473157642681, 
+    "first_release_date": 1290124800000, 
+    "games": [
+        79228, 
+        77042, 
+        69279, 
+        66979, 
+        66977, 
+        66973, 
+        66642, 
+        52160, 
+        76110, 
+        19376
+    ], 
+    "id": 23664, 
+    "keywords": [
+        4134, 
+        4435
+    ], 
+    "name": "Supermarket Mania", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        11854
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1290124800000, 
+            "human": "2010-Nov-19", 
+            "m": 11, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1290384000000, 
+            "human": "2010-Nov-22", 
+            "m": 11, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "libm5l3t3qetoq9x0zyw", 
+            "height": 392, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/libm5l3t3qetoq9x0zyw.jpg", 
+            "width": 264
+        }, 
+        {
+            "cloudinary_id": "uvqegnzozqtnhxawn6le", 
+            "height": 392, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uvqegnzozqtnhxawn6le.jpg", 
+            "width": 264
+        }, 
+        {
+            "cloudinary_id": "cz7evj53iyzilgnpkthx", 
+            "height": 392, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cz7evj53iyzilgnpkthx.jpg", 
+            "width": 264
+        }, 
+        {
+            "cloudinary_id": "tngot1ezf38elmyqb76z", 
+            "height": 392, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tngot1ezf38elmyqb76z.jpg", 
+            "width": 264
+        }, 
+        {
+            "cloudinary_id": "rvuejbvlri7anpe1knxm", 
+            "height": 392, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rvuejbvlri7anpe1knxm.jpg", 
+            "width": 264
+        }, 
+        {
+            "cloudinary_id": "nqtdfwbejmokmrs1vvyp", 
+            "height": 392, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nqtdfwbejmokmrs1vvyp.jpg", 
+            "width": 264
+        }
+    ], 
+    "slug": "supermarket-mania", 
+    "summary": "Supermarket Mania is a highly addictive time-management game.", 
+    "tags": [
+        536875046, 
+        536875347
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1518013707541, 
+    "url": "https://www.igdb.com/games/supermarket-mania"
+}

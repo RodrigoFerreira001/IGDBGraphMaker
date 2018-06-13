@@ -1,0 +1,134 @@
+{
+    "aggregated_rating": 30.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bsjt8cgejx5foyfhozl4", 
+        "height": 1024, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bsjt8cgejx5foyfhozl4.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1499060764812, 
+    "external": {
+        "steam": "651340"
+    }, 
+    "first_release_date": 1468108800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        27266, 
+        25222, 
+        25646, 
+        26239, 
+        14047, 
+        51978, 
+        28465, 
+        19222, 
+        34919, 
+        33603
+    ], 
+    "genres": [
+        9, 
+        32
+    ], 
+    "id": 41893, 
+    "name": "Shephy", 
+    "platforms": [
+        39, 
+        130
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1218
+    ], 
+    "pulse_count": 5, 
+    "rating": 57.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1499299200000, 
+            "human": "2017-Jul-06", 
+            "m": 7, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1468108800000, 
+            "human": "2016-Jul-10", 
+            "m": 7, 
+            "platform": 39, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "v48ygqbez0t0c1iqso36", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v48ygqbez0t0c1iqso36.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "falulmgigchmpjogfnt4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/falulmgigchmpjogfnt4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pqahesrhhazstqeowvv0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pqahesrhhazstqeowvv0.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xj6aps0arulqvuyftxur", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xj6aps0arulqvuyftxur.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "sygbyojrhvyktvqhs34p", 
+            "height": 721, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sygbyojrhvyktvqhs34p.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "shephy", 
+    "summary": "Enjoy playing game at your own pace? \nEnjoy playing single player games? \nEnjoy solving challenging puzzles? \nDo you love sheep? \n \nIf yes, \"Shephy\" is the perfect game for you!", 
+    "tags": [
+        268435465, 
+        268435488
+    ], 
+    "total_rating": 43.5, 
+    "total_rating_count": 1, 
+    "updated_at": 1523343861649, 
+    "url": "https://www.igdb.com/games/shephy", 
+    "videos": [
+        {
+            "name": "Game intro", 
+            "video_id": "dNXpteQKueg"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "B2D5tD9j5wQ"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "3UZNdNApnqE"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/651340"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.arcsystemworks.jp/shephy_steam/"
+        }
+    ]
+}

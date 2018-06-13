@@ -1,0 +1,392 @@
+{
+    "aggregated_rating": 56.5, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Chinese title", 
+            "name": "\u5f71\u5b50\u884c\u52a8\uff1a\u7ea2\u8272\u6c34\u94f6"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mi8scty6r6jygzyqgldw", 
+        "height": 366, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mi8scty6r6jygzyqgldw.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1397413011118, 
+    "developers": [
+        2046
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "286770"
+    }, 
+    "first_release_date": 1087257600000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        27789, 
+        3201, 
+        1372, 
+        26401, 
+        27314, 
+        2031, 
+        28204, 
+        1310, 
+        241, 
+        316
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 6043, 
+    "keywords": [
+        1, 
+        453, 
+        466, 
+        878, 
+        879, 
+        923, 
+        970, 
+        1025, 
+        1107, 
+        1440, 
+        1737, 
+        2109, 
+        3831, 
+        3901, 
+        4146, 
+        4186, 
+        4259, 
+        4317, 
+        4330, 
+        4337, 
+        4345, 
+        4359, 
+        4364, 
+        4414, 
+        4526, 
+        4552, 
+        4571, 
+        4712, 
+        4713, 
+        4831, 
+        4880, 
+        4885, 
+        4892, 
+        4992, 
+        5175, 
+        5309, 
+        5466, 
+        5500, 
+        5529, 
+        5773, 
+        5775, 
+        5813, 
+        6026, 
+        6137, 
+        6249, 
+        6305, 
+        6374, 
+        6400, 
+        6495, 
+        6590, 
+        6624, 
+        6694, 
+        6829, 
+        6895, 
+        7038, 
+        8133, 
+        8766, 
+        8918, 
+        8920, 
+        9022, 
+        9154, 
+        9321, 
+        9698, 
+        9727, 
+        9813, 
+        9871, 
+        9874, 
+        10369, 
+        10371, 
+        11467, 
+        11711, 
+        12278, 
+        12279, 
+        12334, 
+        12345, 
+        13110, 
+        14895, 
+        15973
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 11, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Shadow Ops: Red Mercury", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\nIt contains: Realistic looking violence."
+    }, 
+    "platforms": [
+        6, 
+        11
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        82, 
+        2039
+    ], 
+    "rating": 80.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1095724800000, 
+            "human": "2004-Sep-21", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1087257600000, 
+            "human": "2004-Jun-15", 
+            "m": 6, 
+            "platform": 11, 
+            "region": 2, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1087516800000, 
+            "human": "2004-Jun-18", 
+            "m": 6, 
+            "platform": 11, 
+            "region": 1, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1096588800000, 
+            "human": "2004-Oct-01", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1404259200000, 
+            "human": "2014-Jul-02", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1098403200000, 
+            "human": "2004-Oct-22", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1098403200000, 
+            "human": "2004-Oct-22", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 4, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1088121600000, 
+            "human": "2004-Jun-25", 
+            "m": 6, 
+            "platform": 11, 
+            "region": 4, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1088121600000, 
+            "human": "2004-Jun-25", 
+            "m": 6, 
+            "platform": 11, 
+            "region": 3, 
+            "y": 2004
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "unc22ukhbmncnsahmx3e", 
+            "height": 866, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/unc22ukhbmncnsahmx3e.jpg", 
+            "width": 1158
+        }, 
+        {
+            "cloudinary_id": "fezjjuksfpohwhtnrt1x", 
+            "height": 867, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fezjjuksfpohwhtnrt1x.jpg", 
+            "width": 1158
+        }, 
+        {
+            "cloudinary_id": "dyvldr0stethepghs45e", 
+            "height": 878, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dyvldr0stethepghs45e.jpg", 
+            "width": 1206
+        }, 
+        {
+            "cloudinary_id": "lrzl9amhqztuah26wtot", 
+            "height": 875, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lrzl9amhqztuah26wtot.jpg", 
+            "width": 1170
+        }, 
+        {
+            "cloudinary_id": "bltmqeczkvij5dkldtea", 
+            "height": 893, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bltmqeczkvij5dkldtea.jpg", 
+            "width": 1195
+        }
+    ], 
+    "slug": "shadow-ops-red-mercury", 
+    "summary": "Race against time and terrorism as a member of the elite counter terrorist team in this all-out first person shooter. Your duty is to hunt down a terrorist overlord carrying a nuclear device before untold disaster is unleashed.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        536870913, 
+        536871365, 
+        536871378, 
+        536871790, 
+        536871791, 
+        536871835, 
+        536871882, 
+        536871937, 
+        536872019, 
+        536872352, 
+        536872649, 
+        536873021, 
+        536874743, 
+        536874813, 
+        536875058, 
+        536875098, 
+        536875171, 
+        536875229, 
+        536875242, 
+        536875249, 
+        536875257, 
+        536875271, 
+        536875276, 
+        536875326, 
+        536875438, 
+        536875464, 
+        536875483, 
+        536875624, 
+        536875625, 
+        536875743, 
+        536875792, 
+        536875797, 
+        536875804, 
+        536875904, 
+        536876087, 
+        536876221, 
+        536876378, 
+        536876412, 
+        536876441, 
+        536876685, 
+        536876687, 
+        536876725, 
+        536876938, 
+        536877049, 
+        536877161, 
+        536877217, 
+        536877286, 
+        536877312, 
+        536877407, 
+        536877502, 
+        536877536, 
+        536877606, 
+        536877741, 
+        536877807, 
+        536877950, 
+        536879045, 
+        536879678, 
+        536879830, 
+        536879832, 
+        536879934, 
+        536880066, 
+        536880233, 
+        536880610, 
+        536880639, 
+        536880725, 
+        536880783, 
+        536880786, 
+        536881281, 
+        536881283, 
+        536882379, 
+        536882623, 
+        536883190, 
+        536883191, 
+        536883246, 
+        536883257, 
+        536884022, 
+        536885807, 
+        536886885, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 68.25, 
+    "total_rating_count": 3, 
+    "updated_at": 1523258570634, 
+    "url": "https://www.igdb.com/games/shadow-ops-red-mercury", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "0BiNPYY5eFU"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.retroism.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/286770"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 3089, 
+    "cover": {
+        "cloudinary_id": "g2l9zqm2yi48zlbacyx6", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/g2l9zqm2yi48zlbacyx6.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1471271982707, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1233619200000, 
+    "games": [
+        19083, 
+        11529, 
+        11588, 
+        19082, 
+        28213, 
+        7181, 
+        11423, 
+        19376, 
+        25217, 
+        19934
+    ], 
+    "genres": [
+        15, 
+        16, 
+        26
+    ], 
+    "id": 22534, 
+    "keywords": [
+        415, 
+        1293, 
+        1503, 
+        2601, 
+        3171, 
+        3782, 
+        4134, 
+        4139, 
+        4270, 
+        4747, 
+        4890, 
+        4977, 
+        5450, 
+        5523, 
+        5887, 
+        6036, 
+        6703, 
+        12824, 
+        12903, 
+        13076
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Uno Rush", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1233619200000, 
+            "human": "2009-Feb-03", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2009
+        }
+    ], 
+    "slug": "uno-rush", 
+    "summary": "UNO RUSH\ufffd is a four-player, social party game that's easy to jump into, but hard to leave because you'll have so much fun playing. Sort your cards (even off-turn) so you can play them sequentially when it is your turn. The first player to get rid of all their cards wins the round, and scores points based on the remaining cards in opponents' hands. This fast-paced, family-friendly game is sure to become a hit with you and your friends. * Xbox LIVE\ufffd exclusive: UNO RUSH is the sequel to the number-one selling Xbox LIVE Arcade title UNO, and is exclusive to Xbox LIVE Arcade. * Full support: Full avatar, LIVE Party Chat, Xbox LIVE Vision camera, and Big Button Pad support is provided. * Multiplayer action: It's couch play for the whole family, with up to four players per console, and full guest support for multiple users per console over Xbox LIVE. * Exciting UNO-style gameplay: Several special command cards affect different aspects of the game, including skipping the next player's turn, reversing the direction of play, changing the color of the discard pile, scrambling the next player's hand, or making the next player draw two or four cards.", 
+    "tags": [
+        268435471, 
+        268435472, 
+        268435482, 
+        536871327, 
+        536872205, 
+        536872415, 
+        536873513, 
+        536874083, 
+        536874694, 
+        536875046, 
+        536875051, 
+        536875182, 
+        536875659, 
+        536875802, 
+        536875889, 
+        536876362, 
+        536876435, 
+        536876799, 
+        536876948, 
+        536877615, 
+        536883736, 
+        536883815, 
+        536883988
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1515710051208, 
+    "url": "https://www.igdb.com/games/uno-rush", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Uno_Rush"
+        }
+    ]
+}

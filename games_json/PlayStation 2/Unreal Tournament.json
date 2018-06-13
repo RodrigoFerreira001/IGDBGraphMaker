@@ -1,0 +1,123 @@
+{
+    "aggregated_rating": 100.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Acronym", 
+            "name": "UT "
+        }
+    ], 
+    "category": 0, 
+    "collection": 156, 
+    "cover": {
+        "cloudinary_id": "zo5tuaw4ot0mk0suvnso", 
+        "height": 591, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zo5tuaw4ot0mk0suvnso.jpg", 
+        "width": 591
+    }, 
+    "created_at": 1300350703000, 
+    "developers": [
+        168, 
+        17
+    ], 
+    "first_release_date": 943920000000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        103281, 
+        103298, 
+        103292, 
+        103301, 
+        103020, 
+        83727, 
+        83728, 
+        28029, 
+        32902, 
+        84013
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 272, 
+    "name": "Unreal Tournament", 
+    "platforms": [
+        6, 
+        23, 
+        8
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 7.0, 
+    "publishers": [
+        205
+    ], 
+    "pulse_count": 5, 
+    "rating": 86.3523822856657, 
+    "rating_count": 86, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 943920000000, 
+            "human": "1999-Nov-30", 
+            "m": 11, 
+            "platform": 6, 
+            "y": 1999
+        }, 
+        {
+            "category": 0, 
+            "date": 972259200000, 
+            "human": "2000-Oct-23", 
+            "m": 10, 
+            "platform": 8, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 984528000000, 
+            "human": "2001-Mar-14", 
+            "m": 3, 
+            "platform": 23, 
+            "y": 2001
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tasjskif39kguzicd2qx", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tasjskif39kguzicd2qx.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "kfamc05lty7bgdm3rxr2", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kfamc05lty7bgdm3rxr2.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "unreal-tournament", 
+    "summary": "The first game in the Unreal series which has come to revolutionize game physics in the present. Unreal is a first person shooter with futuristic weapons, ammo, and arenas.", 
+    "tags": [
+        1, 
+        268435461, 
+        1073741825
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 93.17619114283283, 
+    "total_rating_count": 87, 
+    "updated_at": 1528725668255, 
+    "url": "https://www.igdb.com/games/unreal-tournament", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "ybMQtdMz76M"
+        }
+    ]
+}

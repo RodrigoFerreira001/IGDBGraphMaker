@@ -1,0 +1,282 @@
+{
+    "aggregated_rating": 73.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "iannz2ncc1wefi3klpcd", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iannz2ncc1wefi3klpcd.jpg", 
+        "width": 200
+    }, 
+    "created_at": 1414485563516, 
+    "developers": [
+        3844
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "319450"
+    }, 
+    "first_release_date": 1412035200000, 
+    "game_engines": [
+        86
+    ], 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        11423, 
+        18167, 
+        6732, 
+        19376, 
+        19934, 
+        19290, 
+        16513, 
+        13163, 
+        19301, 
+        19448
+    ], 
+    "genres": [
+        8, 
+        9, 
+        15, 
+        31, 
+        32
+    ], 
+    "id": 7897, 
+    "keywords": [
+        117, 
+        1494, 
+        2049, 
+        3782, 
+        4004, 
+        4134, 
+        4145, 
+        4287, 
+        4344, 
+        4573, 
+        4726, 
+        4783, 
+        5025, 
+        5316, 
+        5619, 
+        6318, 
+        6676
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Chariot", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        41, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        15408, 
+        3844
+    ], 
+    "rating": 69.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1415750400000, 
+            "human": "2014-Nov-12", 
+            "m": 11, 
+            "platform": 6, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1420675200000, 
+            "human": "2015-Jan-08", 
+            "m": 1, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1420675200000, 
+            "human": "2015-Jan-08", 
+            "m": 1, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1412035200000, 
+            "human": "2014-Sep-30", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412035200000, 
+            "human": "2014-Sep-30", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412035200000, 
+            "human": "2014-Sep-30", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "egvswuo8krlhbufjdefy", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/egvswuo8krlhbufjdefy.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "ybzvndl60kclbpx3wfht", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ybzvndl60kclbpx3wfht.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "myjgpxc2a5vfbkuuimko", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/myjgpxc2a5vfbkuuimko.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "xnszmajyppxj1ilyyuhp", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xnszmajyppxj1ilyyuhp.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "j7x73skvfdiqoqutzfwt", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j7x73skvfdiqoqutzfwt.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "zamnsbovypmc8yxkijth", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zamnsbovypmc8yxkijth.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "xxi1oaaqqeq9i7dr1sfi", 
+            "height": 4001, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xxi1oaaqqeq9i7dr1sfi.jpg", 
+            "width": 7000
+        }, 
+        {
+            "cloudinary_id": "damvpzt20ul6yybkeqek", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/damvpzt20ul6yybkeqek.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dasfix3tmhu0zgnzobj8", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dasfix3tmhu0zgnzobj8.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qc8fdbhokhcebirrfthx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qc8fdbhokhcebirrfthx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hd6vp3odxbydtjww6iqz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hd6vp3odxbydtjww6iqz.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "chariot", 
+    "storyline": "Cariot is the story of a princess whose task is to lay her father\u2019s remains in his final resting place. With the help of her fianc\u00e9, she has to take this heavy chariot holding the king\u2019s remains through underground mazes in order to reach a sepulcher fit for His Majesty.\n\nHowever, the king\u2019s ghost, bound to the chariot, has quite a temper and insists that he be buried with vast amounts of riches. As the couple progresses, tunneling deeper and deeper underground, they\u2019ll have to stray off the main path to get their hands on precious gems.", 
+    "summary": "Chariot is a humoristic physics-based couch co-op platformer in which a brave princess and her suitor carry a funeral wagon through ancient caves, fending-off swarms of looters while amassing riches, to bury the King's remains in a worthy gold-filled tomb. If only that dead King would keep quiet...\n\nThe Chariot\u2019s large wheels and long tethers allow the heroes to reach higher ground, swing across chasms and perform all sorts of impressive maneuvers. Extract riches from the very walls of the caves in multiple environments, and make your way to the exit by avoiding envious looters or by beating them back as they attempt to steal your hard-earned loot! With skill-testing coordination mechanics and thrilling physics-based stunts required, Chariot will definitely please couch coop enthusiasts as teamwork and cooperation unlocks new possibilities.", 
+    "tags": [
+        27, 
+        35, 
+        268435464, 
+        268435465, 
+        268435471, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536872406, 
+        536872961, 
+        536874694, 
+        536874916, 
+        536875046, 
+        536875057, 
+        536875199, 
+        536875256, 
+        536875485, 
+        536875638, 
+        536875695, 
+        536875937, 
+        536876228, 
+        536876531, 
+        536877230, 
+        536877588, 
+        1073741828
+    ], 
+    "themes": [
+        27, 
+        35
+    ], 
+    "total_rating": 71.0, 
+    "total_rating_count": 4, 
+    "updated_at": 1524948104161, 
+    "url": "https://www.igdb.com/games/chariot", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "8M-mNbs5mR0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/319450"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.chariotgame.com"
+        }
+    ]
+}

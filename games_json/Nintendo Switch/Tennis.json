@@ -1,0 +1,128 @@
+{
+    "aggregated_rating": 20.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "v63q67eoe9b7vvy2ncud", 
+        "height": 1000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/v63q67eoe9b7vvy2ncud.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1516396843906, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1516838400000, 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        81145, 
+        36544, 
+        100549, 
+        76726, 
+        102122, 
+        102873, 
+        75694, 
+        25877, 
+        102805, 
+        90703
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 82527, 
+    "keywords": [
+        311
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "platform": 130, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Tennis", 
+    "platforms": [
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        449
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1516838400000, 
+            "human": "2018-Jan-25", 
+            "m": 1, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pfrd010mvyapyrwdbjqv", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pfrd010mvyapyrwdbjqv.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "z969t1ao32rw3hrduv1m", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z969t1ao32rw3hrduv1m.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nuyjwglntivh3jviygc4", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nuyjwglntivh3jviygc4.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "f3uxbj9zfoet4kvt7iom", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f3uxbj9zfoet4kvt7iom.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nmfbajk142qjkjlj2l80", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nmfbajk142qjkjlj2l80.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "btzxv5luj1ae634hdn84", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/btzxv5luj1ae634hdn84.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "tennis--4", 
+    "summary": "A tennis game that can be picked up and played by anyone. Enjoy the game by yourself, or play against family and friends. With eight characters and six courts available, feel the excitement that tennis brings.", 
+    "tags": [
+        35, 
+        268435470, 
+        536871223, 
+        1073741827
+    ], 
+    "themes": [
+        35
+    ], 
+    "total_rating": 20.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528710307826, 
+    "url": "https://www.igdb.com/games/tennis--4"
+}

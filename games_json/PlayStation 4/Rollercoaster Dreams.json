@@ -1,0 +1,131 @@
+{
+    "aggregated_rating": 10.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "tldiuqi7id3yhqtoh3ct", 
+        "height": 873, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tldiuqi7id3yhqtoh3ct.jpg", 
+        "width": 1920
+    }, 
+    "created_at": 1484345219836, 
+    "developers": [
+        2890
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1482192000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        44242, 
+        18623, 
+        22470, 
+        29173, 
+        26145, 
+        22425, 
+        54524, 
+        55689, 
+        55590, 
+        23867
+    ], 
+    "genres": [
+        13
+    ], 
+    "id": 26784, 
+    "keywords": [
+        1030, 
+        1148, 
+        1994, 
+        4234, 
+        4245
+    ], 
+    "name": "Rollercoaster Dreams", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Pictures or sounds likely to be scary to young children"
+    }, 
+    "platforms": [
+        48
+    ], 
+    "player_perspectives": [
+        1, 
+        3, 
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2890
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "th4klogmfctmbphsm1ic", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/th4klogmfctmbphsm1ic.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "swwrsvjokt7tgqhdyova", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/swwrsvjokt7tgqhdyova.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "eilqre4uugvjxzlp5erz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eilqre4uugvjxzlp5erz.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "rollercoaster-dreams", 
+    "summary": "Visit the amusement parks which are created by the players from all over the world. The players from all over the world will visit the amusement parks which are created by you.", 
+    "tags": [
+        268435469, 
+        536871942, 
+        536872060, 
+        536872906, 
+        536875146, 
+        536875157, 
+        1073741827, 
+        1073741825, 
+        1073741831
+    ], 
+    "total_rating": 10.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1516603980754, 
+    "url": "https://www.igdb.com/games/rollercoaster-dreams", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "3J88s30bs6o"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.bimboosoft.com/RD/"
+        }
+    ]
+}

@@ -1,0 +1,359 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30b9\u30da\u30fc\u30b9\u30cf\u30ea\u30a2\u30fc"
+        }
+    ], 
+    "category": 0, 
+    "collection": 1718, 
+    "cover": {
+        "cloudinary_id": "jj3psqxcwdq6ea8togkz", 
+        "height": 1389, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jj3psqxcwdq6ea8togkz.jpg", 
+        "width": 1401
+    }, 
+    "created_at": 1442773114844, 
+    "developers": [
+        830, 
+        1339, 
+        846
+    ], 
+    "first_release_date": 504835200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28029, 
+        76246, 
+        19341, 
+        32902, 
+        10039, 
+        68287, 
+        68142, 
+        28751, 
+        24920, 
+        272
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 12857, 
+    "keywords": [
+        6
+    ], 
+    "name": "Space Harrier", 
+    "platforms": [
+        52, 
+        63, 
+        35, 
+        86, 
+        13, 
+        16, 
+        121, 
+        26, 
+        77, 
+        30, 
+        5, 
+        18, 
+        64
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        4981
+    ], 
+    "rating": 59.0301356258341, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1238025600000, 
+            "human": "2009-Mar-26", 
+            "m": 3, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1243555200000, 
+            "human": "2009-May-29", 
+            "m": 5, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245024000000, 
+            "human": "2009-Jun-15", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1985
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 16, 
+            "region": 1, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 1, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 694137600000, 
+            "human": "1991", 
+            "m": 12, 
+            "platform": 35, 
+            "region": 1, 
+            "y": 1991
+        }, 
+        {
+            "category": 2, 
+            "date": 694137600000, 
+            "human": "1991", 
+            "m": 12, 
+            "platform": 35, 
+            "region": 2, 
+            "y": 1991
+        }, 
+        {
+            "category": 0, 
+            "date": 693878400000, 
+            "human": "1991-Dec-28", 
+            "m": 12, 
+            "platform": 35, 
+            "region": 5, 
+            "y": 1991
+        }, 
+        {
+            "category": 0, 
+            "date": 600048000000, 
+            "human": "1989-Jan-06", 
+            "m": 1, 
+            "platform": 18, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 788832000000, 
+            "human": "1994", 
+            "m": 12, 
+            "platform": 30, 
+            "region": 2, 
+            "y": 1994
+        }, 
+        {
+            "category": 2, 
+            "date": 788832000000, 
+            "human": "1994", 
+            "m": 12, 
+            "platform": 30, 
+            "region": 1, 
+            "y": 1994
+        }, 
+        {
+            "category": 0, 
+            "date": 786412800000, 
+            "human": "1994-Dec-03", 
+            "m": 12, 
+            "platform": 30, 
+            "region": 5, 
+            "y": 1994
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 77, 
+            "region": 5, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 535507200000, 
+            "human": "1986-Dec-21", 
+            "m": 12, 
+            "platform": 64, 
+            "region": 5, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 64, 
+            "region": 2, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 64, 
+            "region": 1, 
+            "y": 1987
+        }, 
+        {
+            "category": 1, 
+            "date": 557452800000, 
+            "human": "1987-Sep", 
+            "m": 9, 
+            "platform": 121, 
+            "region": 5, 
+            "y": 1987
+        }, 
+        {
+            "category": 0, 
+            "date": 597628800000, 
+            "human": "1988-Dec-09", 
+            "m": 12, 
+            "platform": 86, 
+            "region": 5, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 86, 
+            "region": 2, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1986
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pi08rsojnisn0ig85tjj", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pi08rsojnisn0ig85tjj.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "lqusg9i9rlhbbmtjvuqt", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lqusg9i9rlhbbmtjvuqt.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "oagotbmaejo577buy7pi", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oagotbmaejo577buy7pi.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "sg8e5daakqgw75mdi7hd", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sg8e5daakqgw75mdi7hd.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "odn8mwoucd1dfw8sae84", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/odn8mwoucd1dfw8sae84.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "k63ud1pma3jrf8zw3liq", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k63ud1pma3jrf8zw3liq.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "jbuzivghdkne2dxexs4j", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jbuzivghdkne2dxexs4j.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "p0x2pk662ebiqzaivzrc", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p0x2pk662ebiqzaivzrc.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "sq2t3jwlhjghi6hef64l", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sq2t3jwlhjghi6hef64l.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "mzttb2qtevz276iidxop", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mzttb2qtevz276iidxop.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "ktspxlovnvzynqyzfxgu", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ktspxlovnvzynqyzfxgu.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "ge75j4vrp4keap0sqtnb", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ge75j4vrp4keap0sqtnb.jpg", 
+            "width": 304
+        }
+    ], 
+    "slug": "space-harrier", 
+    "summary": "Run\u2026 fly\u2026 dodge those obstacles, but return fire on wave after wave of attacking aliens. Armed with a really big gun, you have to defend yourself against the alien hordes using your wits to navigate around the screen. But watch out for those end of level bosses! \n \nOriginating in the arcades, Space Harrier is a third-person rail shooter with pseudo-3D graphics, set in the same world as Fantasy Zone. The lone titular hero fights aliens with a fireball-launching cannon, which can also be used to transform the hero into a flying rocket. The protagonist is constantly in motion, but the speed of his movement can be regulated by the player.", 
+    "tags": [
+        1, 
+        268435461, 
+        536870918, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 59.0301356258341, 
+    "total_rating_count": 4, 
+    "updated_at": 1527128433688, 
+    "url": "https://www.igdb.com/games/space-harrier"
+}

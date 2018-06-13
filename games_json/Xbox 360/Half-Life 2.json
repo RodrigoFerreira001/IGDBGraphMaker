@@ -1,0 +1,446 @@
+{
+    "aggregated_rating": 91.0, 
+    "aggregated_rating_count": 8, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "HL2"
+        }
+    ], 
+    "category": 0, 
+    "collection": 35, 
+    "cover": {
+        "cloudinary_id": "obcjdcsaq2ndxqi7zqdf", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/obcjdcsaq2ndxqi7zqdf.jpg", 
+        "width": 355
+    }, 
+    "created_at": 1300349787000, 
+    "developers": [
+        56
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": ""
+    }, 
+    "external": {
+        "steam": "220"
+    }, 
+    "first_release_date": 1100563200000, 
+    "game_engines": [
+        3
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        6739, 
+        231, 
+        29525, 
+        37016, 
+        673, 
+        247, 
+        25657, 
+        27011, 
+        7333, 
+        36950
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 233, 
+    "keywords": [
+        3, 
+        5, 
+        453, 
+        466, 
+        540, 
+        605, 
+        970, 
+        1089, 
+        1120, 
+        1158, 
+        1403, 
+        1422, 
+        1986, 
+        2199, 
+        2632, 
+        2962, 
+        3782, 
+        3931, 
+        4146, 
+        4572, 
+        4625, 
+        4660, 
+        4662, 
+        4712, 
+        4857, 
+        4875, 
+        4907, 
+        4918, 
+        4928, 
+        4944, 
+        4956, 
+        5473, 
+        5542, 
+        5651, 
+        5773, 
+        5775, 
+        5778, 
+        5794, 
+        5800, 
+        6010, 
+        6021, 
+        6137, 
+        6352, 
+        6394, 
+        6620, 
+        6621, 
+        6735, 
+        6742, 
+        7064, 
+        7092, 
+        7555, 
+        8321, 
+        9188, 
+        9225, 
+        9291, 
+        9820, 
+        9874, 
+        9981, 
+        9982, 
+        9985, 
+        9991, 
+        10452, 
+        10672, 
+        10756, 
+        11580, 
+        12159, 
+        12169, 
+        13474, 
+        14603, 
+        15622, 
+        15654
+    ], 
+    "name": "Half-Life 2", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence."
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        11, 
+        9, 
+        12, 
+        3
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 22.66666666666667, 
+    "publishers": [
+        24, 
+        56
+    ], 
+    "pulse_count": 38, 
+    "rating": 92.837512036005, 
+    "rating_count": 914, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1100563200000, 
+            "human": "2004-Nov-16", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1133481600000, 
+            "human": "2005-Dec-02", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1132272000000, 
+            "human": "2005-Nov-18", 
+            "m": 11, 
+            "platform": 11, 
+            "region": 1, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1192752000000, 
+            "human": "2007-Oct-19", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1193270400000, 
+            "human": "2007-Oct-25", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1211414400000, 
+            "human": "2008-May-22", 
+            "m": 5, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1197590400000, 
+            "human": "2007-Dec-14", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1198108800000, 
+            "human": "2007-Dec-20", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1368057600000, 
+            "human": "2013-May-09", 
+            "m": 5, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1274832000000, 
+            "human": "2010-May-26", 
+            "m": 5, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1100563200000, 
+            "human": "2004-Nov-16", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1132012800000, 
+            "human": "2005-Nov-15", 
+            "m": 11, 
+            "platform": 11, 
+            "region": 2, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1191974400000, 
+            "human": "2007-Oct-10", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1197331200000, 
+            "human": "2007-Dec-11", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1197331200000, 
+            "human": "2007-Dec-11", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 7, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1191888000000, 
+            "human": "2007-Oct-09", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 7, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ga0lj5zqeqd7moyzxij9", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ga0lj5zqeqd7moyzxij9.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "mpphkihhk8yh9m2zaafd", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mpphkihhk8yh9m2zaafd.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "nnlfbf8blflrlmuarfej", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nnlfbf8blflrlmuarfej.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "muyxb9cljgsy245fcimx", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/muyxb9cljgsy245fcimx.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "iau5t12jemoelx0xuzna", 
+            "height": 640, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iau5t12jemoelx0xuzna.jpg", 
+            "width": 1024
+        }
+    ], 
+    "slug": "half-life-2", 
+    "standalone_expansions": [
+        70647, 
+        26795
+    ], 
+    "storyline": "Gordon Freeman is brought out of stasis by the G-Man, who inserts him into a train arriving at City 17. After arriving at the station and eluding Combine forces, Gordon joins Lambda resistance members including Barney Calhoun, a former Black Mesa security guard now working undercover as a Combine CP officer, and Alyx Vance, the daughter of one of Gordon's former colleagues, Dr. Eli Vance. After a failed attempt to teleport Gordon to Black Mesa East from Dr. Kleiner's makeshift laboratory, Gordon, re-equipped with the HEV suit and a crowbar, is forced to embark on foot through the city's old canal system. After obtaining an airboat, he battles his way to Black Mesa East, several miles from the city. \nGordon is reintroduced to Eli and meets Dr. Judith Mossman. Alyx introduces Gordon to her large pet robot D0g and gives him a \"Gravity Gun\", a weapon which allows Gordon to pick up and move any large object with ease. Black Mesa East soon comes under Combine attack and Eli and Mossman are captured to be taken to a Combine prison, Nova Prospekt. Gordon and Alyx are forced to take separate paths to Nova Prospekt; Gordon takes a detour through the town of Ravenholm, receiving help from its last survivor, Father Grigori. After making his way through the town and a mine, Gordon makes his way to a Resistance outpost. Gordon is provided with a Dune Buggy, which he uses to travel along a crumbling coastal road to Nova Prospekt. Along the way, Gordon encounters frequent Combine patrols, and helps one of the resistance leaders, Colonel Odessa Cubbage, to defend a Resistance base from a Combine gunship. \nAfter crossing an antlion-infested beach, Gordon enters Nova Prospekt, where he is reunited with Alyx. They manage to locate Eli, but also discover that Mossman is a Combine informant. Before they can stop her, she teleports herself and Eli back to City 17's Citadel. The Combine teleporter explodes as Gordon and Alyx use it to escape Nova Prospekt. \nUpon reaching Kleiner's lab, a shaken Dr. Kleiner reveals to Gordon and Alyx that they were caught in a \"slow teleport\", during which a week had passed. In their absence, the Resistance, who heard about what had happened at Nova Prospekt, has mobilized against the Combine, turning City 17 into a battleground.[28] During the fighting, Alyx is captured by the Combine and taken to the Citadel, and Gordon fights through the city with the aid of D0g and Barney to reach it. Inside the Citadel, he is caught in a Combine confiscation chamber that destroys all of his weapons except for the Gravity Gun, the energy enhancing its capabilities and allowing Gordon to escape and dispatch platoons of Combine soldiers. \nEventually, Gordon is captured riding in a Combine transport pod and is taken to Dr. Breen's office, where he and Dr. Mossman are waiting with Eli and Alyx in captivity. Dr. Breen begins to explain his plans for further conquest of the humans by the Combine, contrary to what he had told Dr. Mossman. Angered, Mossman frees Gordon, Alyx, and Eli before Breen teleports them off-world. Dr. Breen tries to escape through a portal, but Gordon pursues him and destroys the portal reactor with the super-charged Gravity Gun. Breen appears to be annihilated in the resulting explosion. Just before Gordon and Alyx are presumably met with a similar fate, time is frozen. The G-Man reappears, praising Gordon for his actions in City 17 and the Citadel. Making vague mention of \"offers for [Gordon's] services\", the G-Man places him back into stasis.", 
+    "summary": "Half-Life 2 (stylized as H\u03bbLF-LIFE\u00b2), the sequel to Half-Life, is a first-person shooter video game and part of the Half-Life series. Developed by Valve Corporation, it was initially released on November 16, 2004, following a protracted five-year, $40 million development cycle, during which a substantial part of the project was leaked and distributed on the Internet.", 
+    "tags": [
+        1, 
+        18, 
+        19, 
+        268435461, 
+        536870915, 
+        536870917, 
+        536871365, 
+        536871378, 
+        536871452, 
+        536871517, 
+        536871882, 
+        536872001, 
+        536872032, 
+        536872070, 
+        536872315, 
+        536872334, 
+        536872898, 
+        536873111, 
+        536873544, 
+        536873874, 
+        536874694, 
+        536874843, 
+        536875058, 
+        536875484, 
+        536875537, 
+        536875572, 
+        536875574, 
+        536875624, 
+        536875769, 
+        536875787, 
+        536875819, 
+        536875830, 
+        536875840, 
+        536875856, 
+        536875868, 
+        536876385, 
+        536876454, 
+        536876563, 
+        536876685, 
+        536876687, 
+        536876690, 
+        536876706, 
+        536876712, 
+        536876922, 
+        536876933, 
+        536877049, 
+        536877264, 
+        536877306, 
+        536877532, 
+        536877533, 
+        536877647, 
+        536877654, 
+        536877976, 
+        536878004, 
+        536878467, 
+        536879233, 
+        536880100, 
+        536880137, 
+        536880203, 
+        536880732, 
+        536880786, 
+        536880893, 
+        536880894, 
+        536880897, 
+        536880903, 
+        536881364, 
+        536881584, 
+        536881668, 
+        536882492, 
+        536883071, 
+        536883081, 
+        536884386, 
+        536885515, 
+        536886534, 
+        536886566, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        18, 
+        19
+    ], 
+    "time_to_beat": {
+        "completely": 99000, 
+        "hastly": 34200, 
+        "normally": 51774
+    }, 
+    "total_rating": 91.91875601800253, 
+    "total_rating_count": 922, 
+    "updated_at": 1528725897529, 
+    "url": "https://www.igdb.com/games/half-life-2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "ID1dWN3n7q4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.half-life2.com"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Half-Life_2"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/220"
+        }
+    ]
+}

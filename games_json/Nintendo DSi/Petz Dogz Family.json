@@ -1,0 +1,80 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Petz Dog Superstar (EU title)"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "zl9qfvbnaiv77yolzdoz", 
+        "height": 148, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zl9qfvbnaiv77yolzdoz.jpg", 
+        "width": 165
+    }, 
+    "created_at": 1499083344489, 
+    "first_release_date": 1259280000000, 
+    "id": 42888, 
+    "name": "Petz Dogz Family", 
+    "platforms": [
+        38, 
+        159
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        7041
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1285891200000, 
+            "human": "2010-Oct-01", 
+            "m": 10, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1280707200000, 
+            "human": "2010-Aug-02", 
+            "m": 8, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1259280000000, 
+            "human": "2009-Nov-27", 
+            "m": 11, 
+            "platform": 38, 
+            "region": 8, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ayzbo3muzsx4beohbgg5", 
+            "height": 293, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ayzbo3muzsx4beohbgg5.jpg", 
+            "width": 196
+        }, 
+        {
+            "cloudinary_id": "gqojqgvbpaqdn1yi4pnd", 
+            "height": 293, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gqojqgvbpaqdn1yi4pnd.jpg", 
+            "width": 196
+        }, 
+        {
+            "cloudinary_id": "pm3ceou8frjkldditpjt", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pm3ceou8frjkldditpjt.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "petz-dogz-family", 
+    "summary": "There's a whole family of dogs you can adopt and love!", 
+    "updated_at": 1518077949039, 
+    "url": "https://www.igdb.com/games/petz-dogz-family"
+}

@@ -1,0 +1,161 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "rcumuyijbwdbsubbrdii", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rcumuyijbwdbsubbrdii.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1495813913005, 
+    "external": {
+        "steam": "386390"
+    }, 
+    "first_release_date": 1445212800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        11423, 
+        6732, 
+        21429, 
+        7350, 
+        34919, 
+        36608, 
+        55752, 
+        36868, 
+        16468, 
+        13163
+    ], 
+    "id": 34847, 
+    "keywords": [
+        1293, 
+        1494, 
+        4004, 
+        4161, 
+        4162
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dad Beat Dads", 
+    "platforms": [
+        6, 
+        14, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1454630400000, 
+            "human": "2016-Feb-05", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1445212800000, 
+            "human": "2015-Oct-19", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1445212800000, 
+            "human": "2015-Oct-19", 
+            "m": 10, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1445212800000, 
+            "human": "2015-Oct-19", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "p4vh4loerke3v0kjywfv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p4vh4loerke3v0kjywfv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "noevufguq7qdfp9grrbw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/noevufguq7qdfp9grrbw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "baispyt3lsl0hnhc08ns", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/baispyt3lsl0hnhc08ns.jpg", 
+            "width": 1728
+        }, 
+        {
+            "cloudinary_id": "fcqoi9yvdlrim1t0m7ji", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fcqoi9yvdlrim1t0m7ji.jpg", 
+            "width": 1728
+        }, 
+        {
+            "cloudinary_id": "spcsmkavohavmreci3y1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/spcsmkavohavmreci3y1.jpg", 
+            "width": 1728
+        }
+    ], 
+    "slug": "dad-beat-dads", 
+    "summary": "Dad Beat Dads is the world's premiere Dad-based, local multiplayer brawler. Go head to head with your friends, or battle solo in one of our 3 different game modes. This ain't your daddy's dad-based video game!", 
+    "tags": [
+        1, 
+        536872205, 
+        536872406, 
+        536874916, 
+        536875073, 
+        536875074
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1526727413272, 
+    "url": "https://www.igdb.com/games/dad-beat-dads", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.dadbeatdadsgame.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/386390"
+        }
+    ]
+}

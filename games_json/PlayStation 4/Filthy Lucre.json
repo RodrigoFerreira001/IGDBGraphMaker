@@ -1,0 +1,172 @@
+{
+    "aggregated_rating": 58.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "rbwxxgbhuzfqh5zdhrqc", 
+        "height": 563, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rbwxxgbhuzfqh5zdhrqc.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1465946567047, 
+    "developers": [
+        10113
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "533010"
+    }, 
+    "first_release_date": 1473206400000, 
+    "game_modes": [
+        1, 
+        3, 
+        4
+    ], 
+    "games": [
+        10039, 
+        32902, 
+        34919, 
+        55678, 
+        16468, 
+        54639, 
+        19934, 
+        28029, 
+        40524, 
+        55289
+    ], 
+    "genres": [
+        5, 
+        32
+    ], 
+    "hypes": 1, 
+    "id": 19590, 
+    "keywords": [
+        1623, 
+        1669, 
+        4283
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Filthy Lucre", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence - Strong language - Glamorisation of crime"
+    }, 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        10113
+    ], 
+    "pulse_count": 1, 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1473206400000, 
+            "human": "2016-Sep-07", 
+            "m": 9, 
+            "platform": 48, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1481414400000, 
+            "human": "2016-Dec-11", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jbiktsbqu7zjj7rbpebw", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jbiktsbqu7zjj7rbpebw.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "vr94zixmlonbrrnpnncv", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vr94zixmlonbrrnpnncv.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "eqf8fmukblebrudtwgc6", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eqf8fmukblebrudtwgc6.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "aol12mhgbpvxxftvml4w", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aol12mhgbpvxxftvml4w.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ec3dj2ebm5ttaffzneis", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ec3dj2ebm5ttaffzneis.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "filthy-lucre", 
+    "summary": "In Filthy Lucre, where you will infiltrate Britain\u2019s criminal network to help your rotten boss take out an equally rotten rival gang\u2019s operation. Every single mission can be played your way; go in all guns blazing or go dark and avoid all enemy contact. With over 30 upgradable weapons and gear items, you will never be able to blame your tools.", 
+    "tags": [
+        1, 
+        23, 
+        268435461, 
+        268435488, 
+        536872535, 
+        536872581, 
+        536875195, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        23
+    ], 
+    "total_rating": 54.16666666666665, 
+    "total_rating_count": 3, 
+    "updated_at": 1523374475078, 
+    "url": "https://www.igdb.com/games/filthy-lucre", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "0HRPIlFf3h0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.fabrikgames.com/filthy-lucre"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/533010"
+        }
+    ]
+}

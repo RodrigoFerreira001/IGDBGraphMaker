@@ -1,0 +1,156 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qqarogpei1jpfjaawcpe", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qqarogpei1jpfjaawcpe.jpg", 
+        "width": 200
+    }, 
+    "created_at": 1469824107273, 
+    "external": {
+        "steam": "373970"
+    }, 
+    "first_release_date": 1438732800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28465, 
+        40524, 
+        34919, 
+        33603, 
+        36962, 
+        55888, 
+        44087, 
+        65827, 
+        28277, 
+        32283
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 21908, 
+    "name": "Letter Quest: Grimm's Journey Remastered", 
+    "platforms": [
+        6, 
+        14, 
+        49, 
+        3, 
+        130
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        5257
+    ], 
+    "rating": 70.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1460073600000, 
+            "human": "2016-Apr-08", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1511481600000, 
+            "human": "2017-Nov-24", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 3, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1511395200000, 
+            "human": "2017-Nov-23", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1438732800000, 
+            "human": "2015-Aug-05", 
+            "m": 8, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1438732800000, 
+            "human": "2015-Aug-05", 
+            "m": 8, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1438732800000, 
+            "human": "2015-Aug-05", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vy5t5j6hb1ukboho4oh5", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vy5t5j6hb1ukboho4oh5.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "wrq7baos5d9eqhjnwmn9", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wrq7baos5d9eqhjnwmn9.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "mlfswmitxm8jd4cbn9cj", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mlfswmitxm8jd4cbn9cj.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rscffexebcqr8nfct2wg", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rscffexebcqr8nfct2wg.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xk1iuy1gg2siiwuekike", 
+            "height": 377, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xk1iuy1gg2siiwuekike.jpg", 
+            "width": 670
+        }
+    ], 
+    "slug": "letter-quest-grimms-journey-remastered", 
+    "summary": "The grim reapers Grimm and Rose need your help to defeat a legion of monsters, ghosts, and evil bunnies using the power of words! Letter Quest Remastered is the remake of the Bacon Bandits' first game, now with an endless mode, new soundtrack, and fully animated monsters!", 
+    "tags": [
+        268435488
+    ], 
+    "total_rating": 67.5, 
+    "total_rating_count": 4, 
+    "updated_at": 1525809954751, 
+    "url": "https://www.igdb.com/games/letter-quest-grimms-journey-remastered", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.letterquestremastered.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/373970"
+        }
+    ]
+}

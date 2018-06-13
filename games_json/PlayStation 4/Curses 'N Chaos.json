@@ -1,0 +1,225 @@
+{
+    "aggregated_rating": 72.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "fcobfbouxyio4x6oo7rp", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fcobfbouxyio4x6oo7rp.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1453122954040, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "307620"
+    }, 
+    "first_release_date": 1439856000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        47823, 
+        68324, 
+        19934, 
+        71455, 
+        55752, 
+        22747, 
+        29147, 
+        51485, 
+        19448, 
+        76110
+    ], 
+    "genres": [
+        25, 
+        32, 
+        33
+    ], 
+    "id": 16470, 
+    "keywords": [
+        16, 
+        126, 
+        296, 
+        982, 
+        1299, 
+        1699, 
+        2152, 
+        4134, 
+        4163, 
+        4306, 
+        4404, 
+        4407, 
+        4465, 
+        4726, 
+        5327, 
+        5661, 
+        6598, 
+        7152
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 46, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Curses 'N Chaos", 
+    "platforms": [
+        45, 
+        48
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        12416
+    ], 
+    "pulse_count": 1, 
+    "rating": 50.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1439856000000, 
+            "human": "2015-Aug-18", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439856000000, 
+            "human": "2015-Aug-18", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439856000000, 
+            "human": "2015-Aug-18", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "yyht7iscrfih7xuesfll", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yyht7iscrfih7xuesfll.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "w4k1qjkmwxsnfbgpgiqk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w4k1qjkmwxsnfbgpgiqk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "oq45lr5ttjbsxa7o5bw6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oq45lr5ttjbsxa7o5bw6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lt6lfda8aabiltiwmmg6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lt6lfda8aabiltiwmmg6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "eomem3kedk7q3dzojwkp", 
+            "height": 445, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eomem3kedk7q3dzojwkp.jpg", 
+            "width": 800
+        }
+    ], 
+    "slug": "curses-n-chaos", 
+    "summary": "FIGHT OR DIE! Cursed by the evil Wizard King, bounty hunters Lea and Leo are chased by every monster in the kingdom and the Grim Reaper himself! There's only one way to get rid of the curse; the legendary Elixir of Life! But how to get the ingredients? FIGHT MONSTERS!", 
+    "tags": [
+        1, 
+        268435481, 
+        268435488, 
+        268435489, 
+        536870928, 
+        536871038, 
+        536871208, 
+        536871894, 
+        536872211, 
+        536872611, 
+        536873064, 
+        536875046, 
+        536875075, 
+        536875218, 
+        536875316, 
+        536875319, 
+        536875377, 
+        536875638, 
+        536876239, 
+        536876573, 
+        536877510, 
+        536878064, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 61.25, 
+    "total_rating_count": 3, 
+    "updated_at": 1523252743695, 
+    "url": "https://www.igdb.com/games/curses-n-chaos", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://cursesnchaos.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/307620"
+        }
+    ]
+}

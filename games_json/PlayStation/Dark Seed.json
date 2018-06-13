@@ -1,0 +1,233 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Chinese title", 
+            "name": "\u9ed1\u6697\u4e4b\u8831"
+        }, 
+        {
+            "comment": "Hebrew title", 
+            "name": "\u05d6\u05e8\u05e2 \u05d4\u05d0\u05d5\u05e4\u05dc"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30c0\u30fc\u30af\u30b7\u30fc\u30c9"
+        }
+    ], 
+    "category": 0, 
+    "collection": 1247, 
+    "cover": {
+        "cloudinary_id": "l2bj2uqcpks2vltrvtpg", 
+        "height": 796, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/l2bj2uqcpks2vltrvtpg.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1427281714870, 
+    "developers": [
+        1704, 
+        5062
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 725760000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        13189, 
+        25222, 
+        25646, 
+        29525, 
+        11296, 
+        54678, 
+        27314, 
+        27266, 
+        19448, 
+        18167
+    ], 
+    "genres": [
+        2, 
+        9, 
+        31
+    ], 
+    "id": 9260, 
+    "keywords": [
+        131, 
+        923, 
+        966, 
+        970, 
+        1027, 
+        1079, 
+        1120, 
+        1193, 
+        1299, 
+        1416, 
+        1783, 
+        2170, 
+        4219, 
+        4410, 
+        4727, 
+        5346, 
+        5351, 
+        5421, 
+        5685, 
+        5735, 
+        8119, 
+        9320, 
+        9374, 
+        12179
+    ], 
+    "name": "Dark Seed", 
+    "platforms": [
+        6, 
+        14, 
+        13, 
+        16, 
+        32, 
+        7
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        750, 
+        1704, 
+        5061
+    ], 
+    "rating": 79.9688376441259, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 725760000000, 
+            "human": "1992", 
+            "m": 12, 
+            "platform": 16, 
+            "region": 2, 
+            "y": 1992
+        }, 
+        {
+            "category": 2, 
+            "date": 757296000000, 
+            "human": "1993", 
+            "m": 12, 
+            "platform": 16, 
+            "region": 1, 
+            "y": 1993
+        }, 
+        {
+            "category": 2, 
+            "date": 725760000000, 
+            "human": "1992", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1992
+        }, 
+        {
+            "category": 2, 
+            "date": 725760000000, 
+            "human": "1992", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 1, 
+            "y": 1992
+        }, 
+        {
+            "category": 2, 
+            "date": 820368000000, 
+            "human": "1995", 
+            "m": 12, 
+            "platform": 14, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 805075200000, 
+            "human": "1995-Jul-07", 
+            "m": 7, 
+            "platform": 32, 
+            "region": 5, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 814752000000, 
+            "human": "1995-Oct-27", 
+            "m": 10, 
+            "platform": 7, 
+            "region": 5, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 794275200000, 
+            "human": "1995-Mar-04", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 1995
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "t2gsshkft3nxgf0ruhpd", 
+            "height": 350, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t2gsshkft3nxgf0ruhpd.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "dark-seed", 
+    "summary": "You have just moved into a new house and you are experiencing some horrible nightmares. The nightmares are caused by the Aliens that made the \"dark world\" which the only access to is through the magic mirror. You've got to find whats behind those nightmares and get rid of the Aliens.", 
+    "tags": [
+        18, 
+        19, 
+        268435458, 
+        268435465, 
+        268435487, 
+        536871043, 
+        536871835, 
+        536871878, 
+        536871882, 
+        536871939, 
+        536871991, 
+        536872032, 
+        536872105, 
+        536872211, 
+        536872328, 
+        536872695, 
+        536873082, 
+        536875131, 
+        536875322, 
+        536875639, 
+        536876258, 
+        536876263, 
+        536876333, 
+        536876597, 
+        536876647, 
+        536879031, 
+        536880232, 
+        536880286, 
+        536883091, 
+        1073741826
+    ], 
+    "themes": [
+        18, 
+        19
+    ], 
+    "time_to_beat": {
+        "normally": 58920
+    }, 
+    "total_rating": 79.9688376441259, 
+    "total_rating_count": 3, 
+    "updated_at": 1517270524781, 
+    "url": "https://www.igdb.com/games/dark-seed", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://en.wikipedia.org/wiki/Dark_Seed_(video_game)"
+        }
+    ]
+}

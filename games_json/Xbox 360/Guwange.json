@@ -1,0 +1,199 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kvtv8p2lnkwe16nu4xfv", 
+        "height": 342, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kvtv8p2lnkwe16nu4xfv.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1469292262314, 
+    "developers": [
+        2958
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 930182400000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        7329, 
+        8965, 
+        1675, 
+        6958, 
+        26841, 
+        10760, 
+        13189, 
+        18623, 
+        29525, 
+        54678
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 21162, 
+    "keywords": [
+        151, 
+        166, 
+        175, 
+        296, 
+        911, 
+        1120, 
+        1320, 
+        3002, 
+        3486, 
+        3831, 
+        3833, 
+        4130, 
+        4134, 
+        4144, 
+        4145, 
+        4169, 
+        4218, 
+        4236, 
+        4286, 
+        4289, 
+        4301, 
+        4333, 
+        4346, 
+        4381, 
+        4491, 
+        4845, 
+        4958, 
+        4967, 
+        4992, 
+        5022, 
+        5361, 
+        5399, 
+        5633, 
+        5966, 
+        6812, 
+        6866, 
+        7192, 
+        7280, 
+        7287, 
+        10075
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Guwange", 
+    "platforms": [
+        52, 
+        12, 
+        55
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        818
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1289347200000, 
+            "human": "2010-Nov-10", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 2, 
+            "date": 1072828800000, 
+            "human": "2003", 
+            "m": 12, 
+            "platform": 55, 
+            "region": 5, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 930182400000, 
+            "human": "1999-Jun-24", 
+            "m": 6, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1999
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "sya0p8cssbufylqt5igv", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sya0p8cssbufylqt5igv.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "guwange", 
+    "summary": "The story of Guwange is set during the Muromachi period of Japan. During this time, increasing numbers of people suffer possession by shikigami. Although the shikigami grant great spiritual powers, the strain inflicted on the host causes them to die exactly one year after possession. However, a legend has sprung up regarding Guwange, the malevolent god trapped in Mt. Gokumon (i.e. Hell Gate). If one possessed by a shikigami can gather talismans of the five Chinese elements\u2014wood, fire, earth, metal, water\u2014from five demons serving Guwange, then infiltrate Gokumon and slay Guwange, the shikigami will be destroyed and the one possessed will not suffer a premature death.", 
+    "tags": [
+        19, 
+        22, 
+        268435461, 
+        536871063, 
+        536871078, 
+        536871087, 
+        536871208, 
+        536871823, 
+        536872032, 
+        536872232, 
+        536873914, 
+        536874398, 
+        536874743, 
+        536874745, 
+        536875042, 
+        536875046, 
+        536875056, 
+        536875057, 
+        536875081, 
+        536875130, 
+        536875148, 
+        536875198, 
+        536875201, 
+        536875213, 
+        536875245, 
+        536875258, 
+        536875293, 
+        536875403, 
+        536875757, 
+        536875870, 
+        536875879, 
+        536875904, 
+        536875934, 
+        536876273, 
+        536876311, 
+        536876545, 
+        536876878, 
+        536877724, 
+        536877778, 
+        536878104, 
+        536878192, 
+        536878199, 
+        536880987
+    ], 
+    "themes": [
+        19, 
+        22
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1515802560241, 
+    "url": "https://www.igdb.com/games/guwange"
+}

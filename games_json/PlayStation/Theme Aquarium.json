@@ -1,0 +1,82 @@
+{
+    "alternative_names": [
+        {
+            "comment": "European Title", 
+            "name": "Aquarium"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30c6\u30fc\u30de \u30a2\u30af\u30a2\u30ea\u30a6\u30e0"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2171, 
+    "cover": {
+        "cloudinary_id": "uaq6pjzfwmraptsyfpax", 
+        "height": 223, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uaq6pjzfwmraptsyfpax.jpg", 
+        "width": 220
+    }, 
+    "created_at": 1509621170295, 
+    "developers": [
+        14
+    ], 
+    "first_release_date": 913852800000, 
+    "game_modes": [
+        1
+    ], 
+    "genres": [
+        13, 
+        15
+    ], 
+    "id": 75301, 
+    "name": "Theme Aquarium", 
+    "platforms": [
+        45, 
+        6, 
+        7
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        1
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 977702400000, 
+            "human": "2000-Dec-25", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 1253750400000, 
+            "human": "2009-Sep-24", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 913852800000, 
+            "human": "1998-Dec-17", 
+            "m": 12, 
+            "platform": 7, 
+            "region": 5, 
+            "y": 1998
+        }
+    ], 
+    "slug": "theme-aquarium", 
+    "summary": "Theme Aquarium is a simulation video game in which the player creates and controls a sea life aquarium. It was originally released on 17 December 1998 for PlayStation only in Japan. The game was later ported to Microsoft Windows under the name Aquarium and was released in Europe. \n \nIt was developed by Bullfrog production after the acquisition by Electronic Arts, since at the time Bullfrog was one of the most successful developer at breaching the Japanese market (with Populous and Theme Park). \nEA then decided to developed a Theme game exclusive to the Japanese Market. \nThe western release did not have the Bullfrog branding.", 
+    "updated_at": 1509621180234, 
+    "url": "https://www.igdb.com/games/theme-aquarium", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Theme_Aquarium"
+        }
+    ]
+}

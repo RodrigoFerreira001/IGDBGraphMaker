@@ -1,0 +1,99 @@
+{
+    "aggregated_rating": 66.6666666666667, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 2368, 
+    "cover": {
+        "cloudinary_id": "wwxb0imvdruuqz38f5mc", 
+        "height": 1374, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wwxb0imvdruuqz38f5mc.jpg", 
+        "width": 1536
+    }, 
+    "created_at": 1469306661966, 
+    "first_release_date": 1173916800000, 
+    "games": [
+        14605, 
+        17469, 
+        75586, 
+        25130, 
+        43130, 
+        23175, 
+        28277, 
+        63734, 
+        29646, 
+        27266
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 21396, 
+    "name": "Lost in Blue 2", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        129
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1173916800000, 
+            "human": "2007-Mar-15", 
+            "m": 3, 
+            "platform": 20, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1175904000000, 
+            "human": "2007-Apr-07", 
+            "m": 4, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1174348800000, 
+            "human": "2007-Mar-20", 
+            "m": 3, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1177027200000, 
+            "human": "2007-Apr-20", 
+            "m": 4, 
+            "platform": 20, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "m6cwlm1zczzjfrolipnv", 
+            "height": 320, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m6cwlm1zczzjfrolipnv.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "lost-in-blue-2", 
+    "summary": "Washed ashore after their cruise ship goes down at sea, young Jack and Amy must struggle to survive as they search for a way off a deserted island. The teens must confront their worst fears as they discover the secrets and dangers that lurk behind every corner of the mysterious island.", 
+    "tags": [
+        268435487
+    ], 
+    "total_rating": 66.6666666666667, 
+    "total_rating_count": 3, 
+    "updated_at": 1518069679231, 
+    "url": "https://www.igdb.com/games/lost-in-blue-2", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://uk.konami-europe.com/game.do;jsessionid=.srv01?idGame=143"
+        }
+    ]
+}

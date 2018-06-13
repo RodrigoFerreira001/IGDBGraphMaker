@@ -1,0 +1,152 @@
+{
+    "category": 0, 
+    "collection": 4455, 
+    "cover": {
+        "cloudinary_id": "g6wm0u5bo2wu03cfclfk", 
+        "height": 1361, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/g6wm0u5bo2wu03cfclfk.jpg", 
+        "width": 1184
+    }, 
+    "created_at": 1498827527123, 
+    "developers": [
+        711
+    ], 
+    "first_release_date": 1470355200000, 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        25311, 
+        22690, 
+        34919, 
+        25300, 
+        16468, 
+        23835, 
+        33644, 
+        28029, 
+        11253, 
+        64204
+    ], 
+    "genres": [
+        10, 
+        14, 
+        32
+    ], 
+    "id": 41620, 
+    "keywords": [
+        155, 
+        1166, 
+        1655
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 3, 
+            "onlinemax": 9, 
+            "platform": 6, 
+            "splitscreen": true, 
+            "splitscreenonline": true
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 3, 
+            "onlinemax": 8, 
+            "platform": 130, 
+            "splitscreen": true, 
+            "splitscreenonline": true
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 3, 
+            "onlinemax": 8, 
+            "platform": 48, 
+            "splitscreen": true, 
+            "splitscreenonline": true
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 3, 
+            "onlinemax": 8, 
+            "platform": 49, 
+            "splitscreen": true, 
+            "splitscreenonline": true
+        }
+    ], 
+    "name": "Rocket League: Collector's Edition", 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "popularity": 3.333333333333333, 
+    "publishers": [
+        711
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1470355200000, 
+            "human": "2016-Aug-05", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1470355200000, 
+            "human": "2016-Aug-05", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "slug": "rocket-league-collectors-edition", 
+    "summary": "Rocket League is futuristic Sports-Action game, in which players are equipped with booster-rigged vehicles that can be crashed into balls for incredible goals or epic saves across multiple, highly-detailed arenas. Using an advanced physics system to simulate realistic interactions, Rocket League relies on mass and momentum to give players a complete sense of intuitive control in this unbelievable, high-octane re-imagining of association football.", 
+    "tags": [
+        1, 
+        18, 
+        268435466, 
+        268435470, 
+        268435488, 
+        536871067, 
+        536872078, 
+        536872567
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "updated_at": 1527726954084, 
+    "url": "https://www.igdb.com/games/rocket-league-collectors-edition", 
+    "version_parent": 11198, 
+    "version_title": "Collector's Edition"
+}

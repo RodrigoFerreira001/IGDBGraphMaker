@@ -1,0 +1,108 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 3091, 
+    "cover": {
+        "cloudinary_id": "rian3dyq9ajne1i2msxi", 
+        "height": 883, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rian3dyq9ajne1i2msxi.jpg", 
+        "width": 620
+    }, 
+    "created_at": 1469308735218, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1173744000000, 
+    "games": [
+        6685, 
+        22690, 
+        40470, 
+        28856, 
+        41620, 
+        18387, 
+        70325, 
+        54789, 
+        3575, 
+        11253
+    ], 
+    "genres": [
+        10, 
+        14
+    ], 
+    "id": 21419, 
+    "keywords": [
+        629, 
+        1166, 
+        1333, 
+        1655, 
+        1710, 
+        3794, 
+        4142, 
+        4157, 
+        4239, 
+        4760, 
+        6520
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 8, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Ski-Doo: Snow X Racing", 
+    "platforms": [
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1173744000000, 
+            "human": "2007-Mar-13", 
+            "m": 3, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "fvdfzfiv0dx3xlxewe5e", 
+            "height": 324, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvdfzfiv0dx3xlxewe5e.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "ski-doo-snow-x-racing", 
+    "summary": "A Ski-Doo branded snow machine racing game.", 
+    "tags": [
+        268435466, 
+        268435470, 
+        536871541, 
+        536872078, 
+        536872245, 
+        536872567, 
+        536872622, 
+        536874706, 
+        536875054, 
+        536875069, 
+        536875151, 
+        536875672, 
+        536877432
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1516604534695, 
+    "url": "https://www.igdb.com/games/ski-doo-snow-x-racing"
+}

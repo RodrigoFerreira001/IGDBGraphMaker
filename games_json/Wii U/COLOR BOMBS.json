@@ -1,0 +1,61 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "zvbz2yirgy4s7soxwhbg", 
+        "height": 224, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zvbz2yirgy4s7soxwhbg.jpg", 
+        "width": 224
+    }, 
+    "created_at": 1517392993258, 
+    "first_release_date": 1445472000000, 
+    "id": 85040, 
+    "name": "COLOR BOMBS", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1460592000000, 
+            "human": "2016-Apr-14", 
+            "m": 4, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1445472000000, 
+            "human": "2015-Oct-22", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lhw4yjeezz5fkxpsvvnl", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lhw4yjeezz5fkxpsvvnl.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "mnplxfdizh48lf2bbez8", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mnplxfdizh48lf2bbez8.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "mb6itwzehx1xubufjszj", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mb6itwzehx1xubufjszj.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "color-bombs", 
+    "summary": "COLOR BOMBS is the messiest chain-reaction game ever!", 
+    "updated_at": 1518053358545, 
+    "url": "https://www.igdb.com/games/color-bombs"
+}

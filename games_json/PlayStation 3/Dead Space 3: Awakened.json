@@ -1,0 +1,95 @@
+{
+    "aggregated_rating": 55.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 4, 
+    "cover": {
+        "cloudinary_id": "elqyrxyla9qa9jzbxngr", 
+        "height": 528, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/elqyrxyla9qa9jzbxngr.jpg", 
+        "width": 492
+    }, 
+    "created_at": 1431213281455, 
+    "developers": [
+        7
+    ], 
+    "first_release_date": 1363046400000, 
+    "id": 10173, 
+    "name": "Dead Space 3: Awakened", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1
+    ], 
+    "rating": 70.4849437675992, 
+    "rating_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1363046400000, 
+            "human": "2013-Mar-12", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1363046400000, 
+            "human": "2013-Mar-12", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1363046400000, 
+            "human": "2013-Mar-12", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wo35kskhdmzgq3vypk4j", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wo35kskhdmzgq3vypk4j.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "xz4e7ws8wpgmvoewlvpy", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xz4e7ws8wpgmvoewlvpy.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "mnr3ojo0o3didklbxjkb", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mnr3ojo0o3didklbxjkb.jpg", 
+            "width": 3840
+        }
+    ], 
+    "slug": "dead-space-3-awakened", 
+    "summary": "Left for dead on the devastated planet of Tau Volantis, Isaac Clarke and John Carver face a daunting journey. As madness takes hold, they realize they can no longer trust their eyes or each other. Their trek leads them back to the derelict ship Terra Nova, now home to twisted Unitologists intent on transforming it into a temple of flesh and blood. The horror continues as the Dead Space saga enters its darkest chapter.", 
+    "total_rating": 62.7424718837996, 
+    "total_rating_count": 9, 
+    "updated_at": 1518900999766, 
+    "url": "https://www.igdb.com/games/dead-space-3-awakened", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Dead_Space_3#Awakened"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://deadspace.wikia.com/wiki/Dead_Space_3:_Awakened"
+        }
+    ]
+}

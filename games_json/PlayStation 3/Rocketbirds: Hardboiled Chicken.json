@@ -1,0 +1,430 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Rocket BirdsRBHC"
+        }
+    ], 
+    "category": 0, 
+    "collection": 1582, 
+    "cover": {
+        "cloudinary_id": "z6umozuzf6kuvkuv6lpr", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/z6umozuzf6kuvkuv6lpr.jpg", 
+        "width": 1920
+    }, 
+    "created_at": 1432985164686, 
+    "developers": [
+        6331, 
+        2345
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "215510"
+    }, 
+    "first_release_date": 1318896000000, 
+    "game_engines": [
+        174
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        1352, 
+        26401, 
+        72373, 
+        16992, 
+        6732, 
+        7342, 
+        27789, 
+        36868, 
+        9509, 
+        7350
+    ], 
+    "genres": [
+        5, 
+        8, 
+        31, 
+        32
+    ], 
+    "id": 10767, 
+    "keywords": [
+        1, 
+        129, 
+        301, 
+        350, 
+        770, 
+        840, 
+        970, 
+        1025, 
+        1059, 
+        1107, 
+        1158, 
+        1779, 
+        2049, 
+        2109, 
+        2543, 
+        3002, 
+        3087, 
+        3741, 
+        4004, 
+        4134, 
+        4135, 
+        4151, 
+        4161, 
+        4162, 
+        4169, 
+        4171, 
+        4176, 
+        4183, 
+        4185, 
+        4213, 
+        4239, 
+        4243, 
+        4245, 
+        4258, 
+        4259, 
+        4280, 
+        4287, 
+        4296, 
+        4297, 
+        4352, 
+        4389, 
+        4418, 
+        4525, 
+        4571, 
+        4609, 
+        4611, 
+        4660, 
+        4681, 
+        4698, 
+        4726, 
+        4841, 
+        4897, 
+        4925, 
+        5099, 
+        5161, 
+        5320, 
+        5371, 
+        5420, 
+        5444, 
+        5473, 
+        5506, 
+        5657, 
+        5731, 
+        5736, 
+        5740, 
+        5775, 
+        5791, 
+        5891, 
+        6006, 
+        6258, 
+        6264, 
+        6318, 
+        6528, 
+        6589, 
+        6621, 
+        6637, 
+        6788, 
+        7021, 
+        7031, 
+        7158, 
+        7281, 
+        7403, 
+        7405, 
+        8108, 
+        8129, 
+        8215, 
+        8948, 
+        9022
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Rocketbirds: Hardboiled Chicken", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        46, 
+        9, 
+        3
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1699, 
+        6331
+    ], 
+    "rating": 70.21755292884299, 
+    "rating_count": 5, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1360713600000, 
+            "human": "2013-Feb-13", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1360627200000, 
+            "human": "2013-Feb-12", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1318896000000, 
+            "human": "2011-Oct-18", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1360627200000, 
+            "human": "2013-Feb-12", 
+            "m": 2, 
+            "platform": 46, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1350259200000, 
+            "human": "2012-Oct-15", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1379462400000, 
+            "human": "2013-Sep-18", 
+            "m": 9, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1379462400000, 
+            "human": "2013-Sep-18", 
+            "m": 9, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1379462400000, 
+            "human": "2013-Sep-18", 
+            "m": 9, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "b4rj2azjn6ztx5txuo2w", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b4rj2azjn6ztx5txuo2w.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dfl1685meqhimvsjcvto", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dfl1685meqhimvsjcvto.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cc91kpiz2et76vhzysyh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cc91kpiz2et76vhzysyh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ndad0yixajtzh3po7kqo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ndad0yixajtzh3po7kqo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pjel19dqpnib2ddrj9zu", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pjel19dqpnib2ddrj9zu.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "rocketbirds-hardboiled-chicken", 
+    "summary": "Annihilate an evil penguin regime in this cinematic platform adventure game offering full solo and co-op campaigns with anaglyph 3D support. Set out on a mission to assassinate the totalitarian penguin leader as Hardboiled Chicken. Destroy enemies with a slew of weapons and illuminate the secrets to his past while uncovering the real enemies of Albatropolis. Master fowl play in the co-op campaign as a pair of Budgie commandos on a mission to save the general's daughter. Many lives will be destroyed, countless penguins will die!", 
+    "tags": [
+        1, 
+        18, 
+        27, 
+        268435461, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536870913, 
+        536871041, 
+        536871213, 
+        536871262, 
+        536871682, 
+        536871752, 
+        536871882, 
+        536871937, 
+        536871971, 
+        536872019, 
+        536872070, 
+        536872691, 
+        536872961, 
+        536873021, 
+        536873455, 
+        536873914, 
+        536873999, 
+        536874653, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875063, 
+        536875073, 
+        536875074, 
+        536875081, 
+        536875083, 
+        536875088, 
+        536875095, 
+        536875097, 
+        536875125, 
+        536875151, 
+        536875155, 
+        536875157, 
+        536875170, 
+        536875171, 
+        536875192, 
+        536875199, 
+        536875208, 
+        536875209, 
+        536875264, 
+        536875301, 
+        536875330, 
+        536875437, 
+        536875483, 
+        536875521, 
+        536875523, 
+        536875572, 
+        536875593, 
+        536875610, 
+        536875638, 
+        536875753, 
+        536875809, 
+        536875837, 
+        536876011, 
+        536876073, 
+        536876232, 
+        536876283, 
+        536876332, 
+        536876356, 
+        536876385, 
+        536876418, 
+        536876569, 
+        536876643, 
+        536876648, 
+        536876652, 
+        536876687, 
+        536876703, 
+        536876803, 
+        536876918, 
+        536877170, 
+        536877176, 
+        536877230, 
+        536877440, 
+        536877501, 
+        536877533, 
+        536877549, 
+        536877700, 
+        536877933, 
+        536877943, 
+        536878070, 
+        536878193, 
+        536878315, 
+        536878317, 
+        536879020, 
+        536879041, 
+        536879127, 
+        536879860, 
+        536879934, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18, 
+        27
+    ], 
+    "total_rating": 67.6087764644215, 
+    "total_rating_count": 7, 
+    "updated_at": 1523271560080, 
+    "url": "https://www.igdb.com/games/rocketbirds-hardboiled-chicken", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "XFOqNVtuE7U"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "dNy0_jbdljI"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.rocketbirds.com/hardboiledchicken"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/215510"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Rocketbirds:_Hardboiled_Chicken"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://rocket-birds.wikia.com/wiki/Rocketbirds:_Hardboiled_Chicken"
+        }
+    ]
+}

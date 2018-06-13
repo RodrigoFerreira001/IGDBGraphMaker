@@ -1,0 +1,94 @@
+{
+    "category": 0, 
+    "collection": 2960, 
+    "cover": {
+        "cloudinary_id": "uwhbobf4o6mm1ywlngyi", 
+        "height": 148, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uwhbobf4o6mm1ywlngyi.jpg", 
+        "width": 165
+    }, 
+    "created_at": 1505484033101, 
+    "first_release_date": 1235520000000, 
+    "games": [
+        41574, 
+        62528, 
+        41867, 
+        78773, 
+        80585, 
+        68522, 
+        62530, 
+        80327, 
+        79983, 
+        78424
+    ], 
+    "id": 68074, 
+    "keywords": [
+        4821, 
+        5576
+    ], 
+    "name": "Mario Calculator", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        70
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1235520000000, 
+            "human": "2009-Feb-25", 
+            "m": 2, 
+            "platform": 159, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246579200000, 
+            "human": "2009-Jul-03", 
+            "m": 7, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245024000000, 
+            "human": "2009-Jun-15", 
+            "m": 6, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mbo4cmwc1jpwmgs6u6de", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mbo4cmwc1jpwmgs6u6de.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "cfobooo72v0ggm7a4zfw", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cfobooo72v0ggm7a4zfw.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "xmadocuqietidjubyei9", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xmadocuqietidjubyei9.jpg", 
+            "width": 272
+        }
+    ], 
+    "slug": "mario-calculator", 
+    "summary": "A Mario-themed calculator for your DSi", 
+    "tags": [
+        536875733, 
+        536876488
+    ], 
+    "updated_at": 1518070653082, 
+    "url": "https://www.igdb.com/games/mario-calculator"
+}

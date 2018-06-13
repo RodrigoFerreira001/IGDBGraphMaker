@@ -1,0 +1,354 @@
+{
+    "aggregated_rating": 54.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "name": "Warface: Ice Breaker"
+        }, 
+        {
+            "name": "Warface: Turkey"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kp5gae1kjscrhak9pmfa", 
+        "height": 799, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kp5gae1kjscrhak9pmfa.jpg", 
+        "width": 699
+    }, 
+    "created_at": 1359326238616, 
+    "developers": [
+        920
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "291480"
+    }, 
+    "first_release_date": 1382313600000, 
+    "game_engines": [
+        25
+    ], 
+    "game_modes": [
+        2, 
+        3, 
+        5
+    ], 
+    "games": [
+        27789, 
+        1372, 
+        9509, 
+        1595, 
+        28204, 
+        7843, 
+        25657, 
+        15536, 
+        7360, 
+        6732
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 1912, 
+    "keywords": [
+        1, 
+        21, 
+        47, 
+        70, 
+        92, 
+        124, 
+        453, 
+        524, 
+        540, 
+        630, 
+        660, 
+        1158, 
+        1333, 
+        1494, 
+        1783, 
+        1800, 
+        2385, 
+        2440, 
+        4134, 
+        4161, 
+        4186, 
+        4259, 
+        4261, 
+        4332, 
+        4359, 
+        4402, 
+        4444, 
+        4543, 
+        4544, 
+        4572, 
+        4579, 
+        4652, 
+        4698, 
+        4711, 
+        4712, 
+        4750, 
+        4829, 
+        4895, 
+        4907, 
+        5306, 
+        5350, 
+        5650, 
+        5775, 
+        5885, 
+        6165, 
+        6246, 
+        6266, 
+        6305, 
+        6521, 
+        6590, 
+        6694, 
+        6967, 
+        7134, 
+        7200, 
+        7403, 
+        7503, 
+        7621, 
+        8142, 
+        8766, 
+        8819, 
+        9072, 
+        9248, 
+        9870, 
+        9871, 
+        10105, 
+        10107, 
+        10498, 
+        11088, 
+        11090, 
+        11097, 
+        11424, 
+        12022, 
+        12344, 
+        12345, 
+        12346, 
+        12347
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Warface", 
+    "platforms": [
+        6, 
+        12
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        42, 
+        315, 
+        1010
+    ], 
+    "pulse_count": 7, 
+    "rating": 69.6882671886141, 
+    "rating_count": 15, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1382313600000, 
+            "human": "2013-Oct-21", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1398124800000, 
+            "human": "2014-Apr-22", 
+            "m": 4, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wadsrizlkmnx4l6vkob1", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wadsrizlkmnx4l6vkob1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "t4a8wbpmrwzi7ngtkha3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t4a8wbpmrwzi7ngtkha3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "b8u7voenfyia3jc8gs76", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b8u7voenfyia3jc8gs76.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "xz302ynvzez2tbozdpuh", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xz302ynvzez2tbozdpuh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nf2crovpxypydmaj2fhn", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nf2crovpxypydmaj2fhn.jpg", 
+            "width": 1600
+        }
+    ], 
+    "slug": "warface", 
+    "storyline": "In the near future, a ruthless force known as Blackwood sweep aside people in their quest for profit, and only Warface \u2013 a group of elite ex-army personnel \u2013 can stop them. Fight the Blackwood threat in Co-op mode or pick either side in Versus play!", 
+    "summary": "Join a five soldier team and take the fight to Blackwood across the globe. Your team will have to master each class\u2019s special abilities in order to come out victorious. Missions and location are renewed on a daily basis and can be played on each difficulty: Regular, Skilled, or Hardcore.", 
+    "tags": [
+        1, 
+        39, 
+        268435461, 
+        536870913, 
+        536870933, 
+        536870959, 
+        536870982, 
+        536871004, 
+        536871036, 
+        536871365, 
+        536871436, 
+        536871452, 
+        536871542, 
+        536871572, 
+        536872070, 
+        536872245, 
+        536872406, 
+        536872695, 
+        536872712, 
+        536873297, 
+        536873352, 
+        536875046, 
+        536875073, 
+        536875098, 
+        536875171, 
+        536875173, 
+        536875244, 
+        536875271, 
+        536875314, 
+        536875356, 
+        536875455, 
+        536875456, 
+        536875484, 
+        536875491, 
+        536875564, 
+        536875610, 
+        536875623, 
+        536875624, 
+        536875662, 
+        536875741, 
+        536875807, 
+        536875819, 
+        536876218, 
+        536876262, 
+        536876562, 
+        536876687, 
+        536876797, 
+        536877077, 
+        536877158, 
+        536877178, 
+        536877217, 
+        536877433, 
+        536877502, 
+        536877606, 
+        536877879, 
+        536878046, 
+        536878112, 
+        536878315, 
+        536878415, 
+        536878533, 
+        536879054, 
+        536879678, 
+        536879731, 
+        536879984, 
+        536880160, 
+        536880782, 
+        536880783, 
+        536881017, 
+        536881019, 
+        536881410, 
+        536882000, 
+        536882002, 
+        536882009, 
+        536882336, 
+        536882934, 
+        536883256, 
+        536883257, 
+        536883258, 
+        536883259, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        39
+    ], 
+    "total_rating": 61.84413359430705, 
+    "total_rating_count": 17, 
+    "updated_at": 1523257331875, 
+    "url": "https://www.igdb.com/games/warface", 
+    "videos": [
+        {
+            "name": "Pick a Side Trailer", 
+            "video_id": "dv4P-rInG3g"
+        }, 
+        {
+            "name": "Tower Raid Trailer", 
+            "video_id": "KWb-3QMwBhM"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "qdZon3Pr99s"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://wf.my.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/291480"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/warfacegame"
+        }, 
+        {
+            "category": 6, 
+            "url": "https://www.twitch.tv/warface"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/warface"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/warface"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Warface"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "category": 0, 
+    "collection": 2093, 
+    "cover": {
+        "cloudinary_id": "n1lad1lvf06zczmncqdo", 
+        "height": 253, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/n1lad1lvf06zczmncqdo.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1487116506925, 
+    "first_release_date": 1431216000000, 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        10039, 
+        36794, 
+        4355, 
+        19658, 
+        2907, 
+        75089, 
+        56987, 
+        39386, 
+        1235, 
+        41828
+    ], 
+    "genres": [
+        4
+    ], 
+    "id": 27159, 
+    "keywords": [
+        3348, 
+        3354, 
+        5202
+    ], 
+    "name": "Touhou 14.5 - Urban Legend in Limbo", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "popularity": 2.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1481155200000, 
+            "human": "2016-Dec-08", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1431216000000, 
+            "human": "2015-May-10", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1433894400000, 
+            "human": "2015-Jun-10", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zt2dfnapqantnwjwttko", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zt2dfnapqantnwjwttko.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "touhou-14-dot-5-urban-legend-in-limbo", 
+    "summary": "The 5th fighting game in the Touhou Project and 14.5th game overall.", 
+    "tags": [
+        268435460, 
+        536874260, 
+        536874266, 
+        536876114
+    ], 
+    "updated_at": 1516637638692, 
+    "url": "https://www.igdb.com/games/touhou-14-dot-5-urban-legend-in-limbo", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "3IUSqwYkqow"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.touhouwiki.net/wiki/Urban_Legend_in_Limbo"
+        }
+    ]
+}

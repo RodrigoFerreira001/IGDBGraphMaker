@@ -1,0 +1,179 @@
+{
+    "aggregated_rating": 68.8888888888889, 
+    "aggregated_rating_count": 11, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ofe5ceb9mch3owjnctmm", 
+        "height": 339, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ofe5ceb9mch3owjnctmm.jpg", 
+        "width": 241
+    }, 
+    "created_at": 1461783620836, 
+    "developers": [
+        9596
+    ], 
+    "external": {
+        "steam": "490450"
+    }, 
+    "first_release_date": 1496188800000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        37419, 
+        103281, 
+        103020, 
+        37777, 
+        101211, 
+        36950, 
+        27314, 
+        10039, 
+        55289, 
+        29525
+    ], 
+    "genres": [
+        5, 
+        31, 
+        32
+    ], 
+    "hypes": 7, 
+    "id": 18930, 
+    "keywords": [
+        103, 
+        132, 
+        2679, 
+        4779, 
+        4871, 
+        4990, 
+        5007
+    ], 
+    "name": "Tokyo 42", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        9432
+    ], 
+    "pulse_count": 23, 
+    "rating": 60.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1496188800000, 
+            "human": "2017-May-31", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1496188800000, 
+            "human": "2017-May-31", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 5, 
+            "date": 1506729600000, 
+            "human": "2017-Q3", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pwzohqkvf0eeatz3tv2a", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pwzohqkvf0eeatz3tv2a.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "h0kshiets5ki3icgczox", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h0kshiets5ki3icgczox.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mkxwsdesaz1fezfhrasz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mkxwsdesaz1fezfhrasz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ln39beyqa7zsaa6s9b7k", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ln39beyqa7zsaa6s9b7k.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zne8eltnikf4tyivsxmu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zne8eltnikf4tyivsxmu.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "tokyo-42", 
+    "summary": "Set in a future Tokyo, the game will see you become an assassin and uncover a dark conspiracy that will affect everyone.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435487, 
+        268435488, 
+        536871015, 
+        536871044, 
+        536873591, 
+        536875691, 
+        536875783, 
+        536875902, 
+        536875919, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 64.44444444444446, 
+    "total_rating_count": 12, 
+    "updated_at": 1528894356044, 
+    "url": "https://www.igdb.com/games/tokyo-42", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Bo_K8xkFx70"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "JtiOD0GhlI0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/490450"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.tokyo42.com"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/channel/UCGFiINNzT-oQO9HQmBWqYjQ"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/tokyo42game"
+        }
+    ]
+}

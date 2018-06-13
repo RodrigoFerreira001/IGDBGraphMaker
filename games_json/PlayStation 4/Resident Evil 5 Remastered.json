@@ -1,0 +1,139 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 83, 
+    "cover": {
+        "cloudinary_id": "np3vbikf1pbzyk2xltqu", 
+        "height": 1000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/np3vbikf1pbzyk2xltqu.jpg", 
+        "width": 802
+    }, 
+    "created_at": 1472410475624, 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "first_release_date": 1467072000000, 
+    "franchise": 29, 
+    "franchises": [
+        29
+    ], 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        12579, 
+        68142, 
+        59516, 
+        24369, 
+        6036, 
+        25646, 
+        26192, 
+        68287, 
+        57692, 
+        28148
+    ], 
+    "genres": [
+        5, 
+        31
+    ], 
+    "id": 23215, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Resident Evil 5 Remastered", 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 90.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1470960000000, 
+            "human": "2016-Aug-12", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wyghsuhrmbub6rgvmg4v", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wyghsuhrmbub6rgvmg4v.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cw2sxtphqaqirxg3ukhc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cw2sxtphqaqirxg3ukhc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zkdhscwuecknehvzywwb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zkdhscwuecknehvzywwb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kz7ukcr6pbwrvcwskbir", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kz7ukcr6pbwrvcwskbir.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bokt73kpzzadt1tq1ydd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bokt73kpzzadt1tq1ydd.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "resident-evil-5-remastered", 
+    "summary": "The biohazard threat has not ended: Just when it seemed that the menace of Resident Evil had been destroyed, along comes a new terror to send shivers down players' spines. Chris Redfield, returning Resident Evil hero, has followed the path of the evil literally around the globe. After joining a new organization, Chris heads to Africa where the latest bioterrorism threat is literally transforming the people and animals of the city into mindless, maddened creatures. He is joined by a new partner, Sheva Alomar, who lends her strength, intelligence and sharp-shooting skills to the mission. In order to survive, Chris and Sheva must work together to take on the challenges of discovering the truth behind this evil plot. Utilizing a revolutionary new 2-player co-op mode of gameplay, players assume control of either Chris or Sheva and experience Resident Evil in new ways. In Resident Evil 5, Capcom has players fearing the daylight as much as they have feared shadow in previous games.", 
+    "tags": [
+        1, 
+        19, 
+        21, 
+        268435461, 
+        268435487
+    ], 
+    "themes": [
+        1, 
+        19, 
+        21
+    ], 
+    "total_rating": 85.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1527090299690, 
+    "url": "https://www.igdb.com/games/resident-evil-5-remastered", 
+    "version_parent": 847, 
+    "version_title": "Remastered"
+}

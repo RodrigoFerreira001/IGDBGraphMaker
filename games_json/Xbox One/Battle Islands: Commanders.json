@@ -1,0 +1,154 @@
+{
+    "category": 0, 
+    "collection": 3180, 
+    "cover": {
+        "cloudinary_id": "els2qc5l8txeuckxklmm", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/els2qc5l8txeuckxklmm.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1495748185324, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "445720"
+    }, 
+    "first_release_date": 1487030400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        19934, 
+        19376, 
+        18918, 
+        11423, 
+        22399, 
+        640, 
+        76731, 
+        29173, 
+        25311, 
+        19301
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 33479, 
+    "keywords": [
+        19, 
+        1293, 
+        1333, 
+        3782, 
+        4134, 
+        4225, 
+        4261, 
+        10919
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 2, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Battle Islands: Commanders", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        445
+    ], 
+    "rating": 40.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1487030400000, 
+            "human": "2017-Feb-14", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1487030400000, 
+            "human": "2017-Feb-14", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "npgfns2aqxggxwapvk7h", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/npgfns2aqxggxwapvk7h.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ehzmlmhlasmkmumhqg0g", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ehzmlmhlasmkmumhqg0g.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "k5j55fx1wnfdhnhn7bai", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k5j55fx1wnfdhnhn7bai.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kn47wti8t4cgxfaoaodd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kn47wti8t4cgxfaoaodd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "h5n95d2vubtfb0wcirua", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h5n95d2vubtfb0wcirua.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "battle-islands-commanders", 
+    "summary": "Take part in major WWII battles in Battle Islands: Commanders, from the sandy dunes of North Africa to the bitter cold of the Eastern Front! Master the art of war against real opponents from around the world and reap the spoils of war.", 
+    "tags": [
+        1, 
+        268435471, 
+        536870931, 
+        536872205, 
+        536872245, 
+        536874694, 
+        536875046, 
+        536875137, 
+        536875173, 
+        536881831
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 40.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1528351016249, 
+    "url": "https://www.igdb.com/games/battle-islands-commanders", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/445720"
+        }
+    ]
+}

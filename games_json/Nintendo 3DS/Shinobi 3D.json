@@ -1,0 +1,103 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "name": "Shinobi"
+        }
+    ], 
+    "category": 0, 
+    "collection": 512, 
+    "cover": {
+        "cloudinary_id": "qeqofdw8mswbdswnxzhx", 
+        "height": 225, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qeqofdw8mswbdswnxzhx.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1400812345882, 
+    "developers": [
+        62
+    ], 
+    "first_release_date": 1320969600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        23175, 
+        37022, 
+        55289, 
+        59516, 
+        25646, 
+        42080, 
+        44191, 
+        12579, 
+        25311, 
+        71455
+    ], 
+    "genres": [
+        25, 
+        31
+    ], 
+    "id": 6888, 
+    "name": "Shinobi 3D", 
+    "pegi": {
+        "rating": 4
+    }, 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        112
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1320969600000, 
+            "human": "2011-Nov-11", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1321315200000, 
+            "human": "2011-Nov-15", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1321488000000, 
+            "human": "2011-Nov-17", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "p6rz7w0woa5zljuuyck4", 
+            "height": 385, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p6rz7w0woa5zljuuyck4.jpg", 
+            "width": 655
+        }
+    ], 
+    "slug": "shinobi-3d", 
+    "tags": [
+        1, 
+        268435487, 
+        268435481
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1467975892355, 
+    "url": "https://www.igdb.com/games/shinobi-3d"
+}

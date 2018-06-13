@@ -1,0 +1,448 @@
+{
+    "aggregated_rating": 67.5882352941177, 
+    "aggregated_rating_count": 19, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "LEGO Marvel Avengers"
+        }
+    ], 
+    "category": 0, 
+    "collection": 3015, 
+    "cover": {
+        "cloudinary_id": "tqq9d7h46jk7cgbjdtna", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tqq9d7h46jk7cgbjdtna.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1434102207502, 
+    "developers": [
+        292, 
+        1290
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "\tThis is an action-adventure game based on the characters and events of the Marvel Avengers movie franchise. Players control Lego versions of superheroes as they traverse platform environments, solve puzzles, and battle various villains. Players use punches, kicks, weapons (shields, firearms, hammers), and special abilities (e.g., energy blasts, lightning strikes) to defeat enemies. Battles are accompanied by impact sounds, gunfire, and cries of pain; enemies burst into Lego pieces when defeated. One comical sequence depicts a hammer landing in a pile of manure. "
+    }, 
+    "external": {
+        "steam": "405310"
+    }, 
+    "first_release_date": 1453766400000, 
+    "franchise": 51, 
+    "franchises": [
+        51, 
+        124
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        28815, 
+        14763, 
+        76098, 
+        25300, 
+        47823, 
+        11567, 
+        23175, 
+        36897, 
+        7329, 
+        19565
+    ], 
+    "genres": [
+        31
+    ], 
+    "hypes": 2, 
+    "id": 11069, 
+    "keywords": [
+        14, 
+        350, 
+        410, 
+        1033, 
+        2387, 
+        3540, 
+        4651, 
+        4698, 
+        4717, 
+        4796, 
+        4805, 
+        4813, 
+        4824, 
+        4871, 
+        4930, 
+        4931, 
+        4932, 
+        4933, 
+        4937, 
+        4938, 
+        5160, 
+        5203, 
+        5206, 
+        8298, 
+        9475, 
+        9673, 
+        10104, 
+        10429
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 41, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "LEGO Marvel's Avengers", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Non realistic looking violence towards fantasy characters - - Pictures or sounds likely to be scary to young children"
+    }, 
+    "platforms": [
+        6, 
+        41, 
+        46, 
+        9, 
+        48, 
+        12, 
+        49, 
+        37
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        50, 
+        23
+    ], 
+    "pulse_count": 1, 
+    "rating": 60.0487084432431, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1454025600000, 
+            "human": "2016-Jan-29", 
+            "m": 1, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453766400000, 
+            "human": "2016-Jan-26", 
+            "m": 1, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1454025600000, 
+            "human": "2016-Jan-29", 
+            "m": 1, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453766400000, 
+            "human": "2016-Jan-26", 
+            "m": 1, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453766400000, 
+            "human": "2016-Jan-26", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1454025600000, 
+            "human": "2016-Jan-29", 
+            "m": 1, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453766400000, 
+            "human": "2016-Jan-26", 
+            "m": 1, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1454025600000, 
+            "human": "2016-Jan-29", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453766400000, 
+            "human": "2016-Jan-26", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453766400000, 
+            "human": "2016-Jan-26", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1454025600000, 
+            "human": "2016-Jan-29", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453766400000, 
+            "human": "2016-Jan-26", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453766400000, 
+            "human": "2016-Jan-26", 
+            "m": 1, 
+            "platform": 37, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453766400000, 
+            "human": "2016-Jan-26", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453766400000, 
+            "human": "2016-Jan-26", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453766400000, 
+            "human": "2016-Jan-26", 
+            "m": 1, 
+            "platform": 46, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453766400000, 
+            "human": "2016-Jan-26", 
+            "m": 1, 
+            "platform": 41, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453766400000, 
+            "human": "2016-Jan-26", 
+            "m": 1, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453766400000, 
+            "human": "2016-Jan-26", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bfvbsw2338qxsa0kv6hn", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bfvbsw2338qxsa0kv6hn.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "ilkf0kbnr4yfa4fxmmck", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ilkf0kbnr4yfa4fxmmck.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "v5qv0splxw02owvc41jq", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v5qv0splxw02owvc41jq.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "a6ateqadzd3iducmcj8p", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a6ateqadzd3iducmcj8p.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bpcucye4opcogzbf0d8r", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bpcucye4opcogzbf0d8r.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ihgl5hjzvukbgaxkdkk5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ihgl5hjzvukbgaxkdkk5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "j1zdahbsi6yevcwl6cfj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j1zdahbsi6yevcwl6cfj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "aprj8fv7sm7zwjljz6hx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aprj8fv7sm7zwjljz6hx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pgfl1tp2afbeeu1779da", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pgfl1tp2afbeeu1779da.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uuo8zyrusoda2zrcoh0l", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uuo8zyrusoda2zrcoh0l.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "m7mqqfouzcngcbxt6cym", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m7mqqfouzcngcbxt6cym.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "lego-marvels-avengers", 
+    "summary": "Avengers Assemble! The best-selling LEGO Marvel videogame franchise returns with a new action-packed, Super Hero adventure. Join the LEGO Marvel\u2019s Avengers team and experience the first console videogame featuring characters and storylines from the critically-acclaimed film Marvel\u2019s The Avengers, the blockbuster sequel Marvel\u2019s Avengers: Age of Ultron, and more. Play as the most powerful Super Heroes in their quest to save the world.", 
+    "tags": [
+        1, 
+        27, 
+        268435487, 
+        536870926, 
+        536871262, 
+        536871322, 
+        536871945, 
+        536873299, 
+        536874452, 
+        536875563, 
+        536875610, 
+        536875629, 
+        536875708, 
+        536875717, 
+        536875725, 
+        536875736, 
+        536875783, 
+        536875842, 
+        536875843, 
+        536875844, 
+        536875845, 
+        536875849, 
+        536875850, 
+        536876072, 
+        536876115, 
+        536876118, 
+        536879210, 
+        536880387, 
+        536880585, 
+        536881016, 
+        536881341, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 63.8184718686804, 
+    "total_rating_count": 25, 
+    "updated_at": 1528354906209, 
+    "url": "https://www.igdb.com/games/lego-marvels-avengers", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "j2RqFqciLJg"
+        }, 
+        {
+            "name": "NYCC Trailer", 
+            "video_id": "NtU9psgxUVA"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "aggregated_rating": 48.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "rcvv85raak2xxlrgjotx", 
+        "height": 281, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rcvv85raak2xxlrgjotx.jpg", 
+        "width": 281
+    }, 
+    "created_at": 1472936488875, 
+    "developers": [
+        13322
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "679690"
+    }, 
+    "first_release_date": 1426723200000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        26223, 
+        25222, 
+        47823, 
+        16468, 
+        27266, 
+        26766, 
+        12632, 
+        25300, 
+        14047, 
+        36926
+    ], 
+    "genres": [
+        9, 
+        12, 
+        32
+    ], 
+    "id": 23483, 
+    "keywords": [
+        296, 
+        1026, 
+        2875
+    ], 
+    "name": "SwapQuest", 
+    "platforms": [
+        45, 
+        39, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        13322
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1456272000000, 
+            "human": "2016-Feb-24", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1456185600000, 
+            "human": "2016-Feb-23", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1426723200000, 
+            "human": "2015-Mar-19", 
+            "m": 3, 
+            "platform": 39, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1503360000000, 
+            "human": "2017-Aug-22", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zb16dzck8wldzm0piyjz", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zb16dzck8wldzm0piyjz.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "nhvl2azdbomc4qiizaxs", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nhvl2azdbomc4qiizaxs.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "rfb0moudhnm9zw1z4k0z", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rfb0moudhnm9zw1z4k0z.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "yueeicvydlclr7rmqvi6", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yueeicvydlclr7rmqvi6.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "j4fyamryw3guh0kxpu5s", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j4fyamryw3guh0kxpu5s.jpg", 
+            "width": 960
+        }
+    ], 
+    "slug": "swapquest", 
+    "summary": "Build roads, find treasure, fight monsters, and retrieve the legendary sword Aventuril in this captivating mix of puzzle and rpg elements.", 
+    "tags": [
+        268435465, 
+        268435468, 
+        268435488, 
+        536871208, 
+        536871938, 
+        536873787, 
+        1073741827
+    ], 
+    "total_rating": 48.3333333333333, 
+    "total_rating_count": 3, 
+    "updated_at": 1522217671637, 
+    "url": "https://www.igdb.com/games/swapquest", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "dk0Ex7FAeQs"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/679690"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://swapquest.de/"
+        }
+    ]
+}

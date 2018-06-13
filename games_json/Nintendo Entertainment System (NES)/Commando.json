@@ -1,0 +1,401 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Senjou no Okami"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Wolf of the Battlefield"
+        }, 
+        {
+            "comment": "German Title", 
+            "name": "Space Invasion"
+        }
+    ], 
+    "category": 0, 
+    "collection": 4968, 
+    "cover": {
+        "cloudinary_id": "pi4lmnhajzqijmiooptv", 
+        "height": 311, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pi4lmnhajzqijmiooptv.jpg", 
+        "width": 220
+    }, 
+    "created_at": 1396151250344, 
+    "developers": [
+        37
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 483753600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        27789, 
+        1310, 
+        15536, 
+        4598, 
+        11171, 
+        28751, 
+        28204, 
+        18857, 
+        18088, 
+        18320
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 5668, 
+    "keywords": [
+        1, 
+        21, 
+        166, 
+        221, 
+        562, 
+        563, 
+        660, 
+        1025, 
+        1107, 
+        1373, 
+        1570, 
+        2152, 
+        3079, 
+        3087, 
+        3831, 
+        4035, 
+        4134, 
+        4246, 
+        4259, 
+        4346, 
+        4397, 
+        4418, 
+        4446, 
+        4508, 
+        4522, 
+        4552, 
+        4779, 
+        4788, 
+        4920, 
+        4967, 
+        4990, 
+        4992, 
+        5020, 
+        5030, 
+        5208, 
+        5307, 
+        5436, 
+        5483, 
+        5616, 
+        5775, 
+        6246, 
+        6352, 
+        6369, 
+        6478, 
+        7092, 
+        7405, 
+        9083, 
+        9813
+    ], 
+    "name": "Commando", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        52, 
+        67, 
+        63, 
+        134, 
+        93, 
+        69, 
+        60, 
+        59, 
+        13, 
+        16, 
+        75, 
+        152, 
+        125, 
+        15, 
+        26, 
+        25, 
+        94, 
+        18, 
+        27
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1743, 
+        1339, 
+        190, 
+        37, 
+        2064, 
+        66, 
+        2524
+    ], 
+    "rating": 79.4143952271739, 
+    "rating_count": 14, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 541555200000, 
+            "human": "1987-Mar-01", 
+            "m": 3, 
+            "platform": 125, 
+            "region": 5, 
+            "y": 1987
+        }, 
+        {
+            "category": 0, 
+            "date": 546825600000, 
+            "human": "1987-May-01", 
+            "m": 5, 
+            "platform": 152, 
+            "region": 5, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 134, 
+            "region": 1, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 94, 
+            "region": 1, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 2, 
+            "y": 1985
+        }, 
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 25, 
+            "region": 1, 
+            "y": 1985
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 27, 
+            "region": 5, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1985
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 67, 
+            "region": 2, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 59, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 528163200000, 
+            "human": "1986-Sep-27", 
+            "m": 9, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 69, 
+            "region": 1, 
+            "y": 1985
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 60, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 16, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 75, 
+            "region": 2, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 93, 
+            "region": 1, 
+            "y": 1986
+        }, 
+        {
+            "category": 1, 
+            "date": 483753600000, 
+            "human": "1985-May", 
+            "m": 5, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1985
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "uvus8ivzpt7emijfotwi", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uvus8ivzpt7emijfotwi.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "tdnqwg3csramxq4sfqdz", 
+            "height": 225, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tdnqwg3csramxq4sfqdz.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "or9cbykzjzrrbutcwogs", 
+            "height": 225, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/or9cbykzjzrrbutcwogs.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "commando", 
+    "summary": "Several levels await your super-tough Commando in this arcade conversion. Armed with only a standard rifle and a few grenades you must take on hordes of Nazis. Some are wandering around in the open, while others have picked out hiding places, which you must approach from certain angles. Trees, rivers and bridges create a varied combat-like terrain and must be incorporated into your thinking. Extra grenades can be collected, and will definitely be required, as they allow you to kill form distance and thus avoid some enemy shots.", 
+    "tags": [
+        1, 
+        39, 
+        268435461, 
+        536870913, 
+        536870933, 
+        536871078, 
+        536871133, 
+        536871474, 
+        536871475, 
+        536871572, 
+        536871937, 
+        536872019, 
+        536872285, 
+        536872482, 
+        536873064, 
+        536873991, 
+        536873999, 
+        536874743, 
+        536874947, 
+        536875046, 
+        536875158, 
+        536875171, 
+        536875258, 
+        536875309, 
+        536875330, 
+        536875358, 
+        536875420, 
+        536875434, 
+        536875464, 
+        536875691, 
+        536875700, 
+        536875832, 
+        536875879, 
+        536875902, 
+        536875904, 
+        536875932, 
+        536875942, 
+        536876120, 
+        536876219, 
+        536876348, 
+        536876395, 
+        536876528, 
+        536876687, 
+        536877158, 
+        536877264, 
+        536877281, 
+        536877390, 
+        536878004, 
+        536878317, 
+        536879995, 
+        536880725, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        39
+    ], 
+    "total_rating": 79.70719761358694, 
+    "total_rating_count": 15, 
+    "updated_at": 1523198250111, 
+    "url": "https://www.igdb.com/games/commando"
+}

@@ -1,0 +1,92 @@
+{
+    "category": 0, 
+    "created_at": 1497877506959, 
+    "external": {
+        "steam": "521760"
+    }, 
+    "first_release_date": 736732800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        49414, 
+        25636, 
+        21842, 
+        28080, 
+        36608, 
+        18862, 
+        75102, 
+        23913, 
+        47472, 
+        44922
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 37798, 
+    "name": "Taikou Risshiden", 
+    "platforms": [
+        19
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 736732800000, 
+            "human": "1993-May-07", 
+            "m": 5, 
+            "platform": 19, 
+            "region": 8, 
+            "y": 1993
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "cqfrkte0amv31n7iklx1", 
+            "height": 400, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cqfrkte0amv31n7iklx1.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "gxwyesowiae1nwn5ljpn", 
+            "height": 400, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gxwyesowiae1nwn5ljpn.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "bns9mqrv7xaqinlbvxmo", 
+            "height": 400, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bns9mqrv7xaqinlbvxmo.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "lqbrm6anuis0inxskeat", 
+            "height": 400, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lqbrm6anuis0inxskeat.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "h90bdp7my1wjt3t8xpca", 
+            "height": 400, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h90bdp7my1wjt3t8xpca.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "taikou-risshiden", 
+    "summary": "Taikou Risshiden is a Role-Playing game, published by Koei, which was released in Japan in 1993.", 
+    "tags": [
+        268435468
+    ], 
+    "updated_at": 1523378267281, 
+    "url": "https://www.igdb.com/games/taikou-risshiden", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.gamecity.ne.jp/shibusawa-kou/archives.html"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/521760"
+        }
+    ]
+}

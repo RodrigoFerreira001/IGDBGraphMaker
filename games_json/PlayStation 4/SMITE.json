@@ -1,0 +1,283 @@
+{
+    "aggregated_rating": 78.0, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "collection": 3189, 
+    "cover": {
+        "cloudinary_id": "ooh1xkfvqt9izi6g85hf", 
+        "height": 1675, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ooh1xkfvqt9izi6g85hf.jpg", 
+        "width": 1523
+    }, 
+    "created_at": 1395491886143, 
+    "developers": [
+        2499
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "386360"
+    }, 
+    "first_release_date": 1395705600000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        23193, 
+        17583, 
+        36926, 
+        25657, 
+        16999, 
+        47823, 
+        28380, 
+        11567, 
+        12632, 
+        7329
+    ], 
+    "genres": [
+        4, 
+        11, 
+        12, 
+        15
+    ], 
+    "hypes": 3, 
+    "id": 5607, 
+    "keywords": [
+        35, 
+        148, 
+        296, 
+        1186, 
+        1247, 
+        1655, 
+        2385, 
+        2951, 
+        4145, 
+        4169, 
+        4357, 
+        4358, 
+        4366, 
+        4369, 
+        4525, 
+        4644, 
+        4710, 
+        4759, 
+        4941, 
+        4973, 
+        4985, 
+        5145, 
+        5146, 
+        5290, 
+        5299, 
+        5399, 
+        5885, 
+        7402, 
+        7403, 
+        7530, 
+        11782, 
+        11804, 
+        16826
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 10, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "SMITE", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 8.333333333333332, 
+    "publishers": [
+        2500, 
+        2499
+    ], 
+    "pulse_count": 51, 
+    "rating": 74.92163839590401, 
+    "rating_count": 44, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1439942400000, 
+            "human": "2015-Aug-19", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1458604800000, 
+            "human": "2016-Mar-22", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1458604800000, 
+            "human": "2016-Mar-22", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1395705600000, 
+            "human": "2014-Mar-25", 
+            "m": 3, 
+            "platform": 6, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1435276800000, 
+            "human": "2015-Jun-26", 
+            "m": 6, 
+            "platform": 49, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1458604800000, 
+            "human": "2016-Mar-22", 
+            "m": 3, 
+            "platform": 48, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bo1okl3wngb4ez4pxygs", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bo1okl3wngb4ez4pxygs.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "dcdgfohpfugzje77eygt", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dcdgfohpfugzje77eygt.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "yeybulpxnmlyzxab5ddt", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yeybulpxnmlyzxab5ddt.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "cvixrjjnfuubzyimd7u1", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cvixrjjnfuubzyimd7u1.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "bng7vhbwscohxnji4wtx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bng7vhbwscohxnji4wtx.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "smite", 
+    "summary": "SMITE is the online battleground of the gods. Players choose from a diverse cast of deities and use their unique powers to triumph over the opposition in 5v5 team matches. SMITE is a new take on the MOBA genre; rather than observing from above the action, the game\u2019s third person perspective puts players into the thick of combat. Instead of clicking the mouse to move, players use the familiar WASD keys to move and fight their way through SMITE\u2019s dynamic battlegrounds.", 
+    "tags": [
+        1, 
+        17, 
+        268435460, 
+        268435467, 
+        268435468, 
+        268435471, 
+        536870947, 
+        536871060, 
+        536871208, 
+        536872098, 
+        536872159, 
+        536872567, 
+        536873297, 
+        536873863, 
+        536875057, 
+        536875081, 
+        536875269, 
+        536875270, 
+        536875278, 
+        536875281, 
+        536875437, 
+        536875556, 
+        536875622, 
+        536875671, 
+        536875853, 
+        536875885, 
+        536875897, 
+        536876057, 
+        536876058, 
+        536876202, 
+        536876211, 
+        536876311, 
+        536876797, 
+        536878314, 
+        536878315, 
+        536878442, 
+        536882694, 
+        536882716, 
+        536887738, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 76.460819197952, 
+    "total_rating_count": 50, 
+    "updated_at": 1528357943286, 
+    "url": "https://www.igdb.com/games/smite", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "4e438loLnNI"
+        }, 
+        {
+            "name": "Teaser", 
+            "video_id": "NzjKW1kOucM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.smitegame.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/386360"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/smitegame"
+        }
+    ]
+}

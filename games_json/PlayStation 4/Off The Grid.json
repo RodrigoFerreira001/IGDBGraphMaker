@@ -1,0 +1,132 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ctf9jojadvdlbhhnonqq", 
+        "height": 450, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ctf9jojadvdlbhhnonqq.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1519531893895, 
+    "developers": [
+        14921
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1553990400000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        12579, 
+        27266, 
+        486, 
+        59516, 
+        13189, 
+        25646, 
+        26145, 
+        26192, 
+        28289, 
+        483
+    ], 
+    "genres": [
+        31
+    ], 
+    "hypes": 2, 
+    "id": 89216, 
+    "keywords": [
+        1446, 
+        1836
+    ], 
+    "name": "Off The Grid", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 3, 
+            "date": 1553990400000, 
+            "human": "2019-Q1", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2019
+        }, 
+        {
+            "category": 4, 
+            "date": 1561852800000, 
+            "human": "2019-Q2", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2019
+        }, 
+        {
+            "category": 4, 
+            "date": 1561852800000, 
+            "human": "2019-Q2", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2019
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "uzhnkegacp2yybezpmks", 
+            "height": 654, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uzhnkegacp2yybezpmks.jpg", 
+            "width": 1200
+        }
+    ], 
+    "slug": "off-the-grid", 
+    "status": 2, 
+    "storyline": "We have a setting and basic background information to the storyline, we're currently writing more to it and expanding it, leave us ideas on our STOMT widget here, https://www.stomt.com/off-the-grid. Here we can receive feedback from our community on what we should do next with our game!", 
+    "summary": "In Off The Grid, players step into the shoes of lone adventurer Rowland Felix as he sets out to explore the mystery that is foiled across the altered dimension he lies in ...", 
+    "tags": [
+        19, 
+        21, 
+        22, 
+        268435487, 
+        536872358, 
+        536872748, 
+        1073741825
+    ], 
+    "themes": [
+        19, 
+        21, 
+        22
+    ], 
+    "updated_at": 1523722941593, 
+    "url": "https://www.igdb.com/games/off-the-grid", 
+    "websites": [
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/c/matical"
+        }, 
+        {
+            "category": 6, 
+            "url": "https://www.twitch.tv/maticalstudios"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/MaticalStudios"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://maticalstudios.com"
+        }
+    ]
+}

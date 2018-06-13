@@ -1,0 +1,93 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "wup2tlg65uzwtm0o4olf", 
+        "height": 350, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wup2tlg65uzwtm0o4olf.jpg", 
+        "width": 288
+    }, 
+    "created_at": 1468359279757, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1328140800000, 
+    "games": [
+        37067, 
+        16513, 
+        28113, 
+        54524, 
+        11423, 
+        20218, 
+        47389, 
+        3254, 
+        9751, 
+        20224
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 20214, 
+    "keywords": [
+        1293, 
+        1699, 
+        4134, 
+        4137, 
+        4359, 
+        4452, 
+        5348, 
+        5783, 
+        7402
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Country Dance All Stars", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1328140800000, 
+            "human": "2012-Feb-02", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2012
+        }
+    ], 
+    "slug": "country-dance-all-stars", 
+    "summary": "America\\'s hottest country music stars are headed to your living room for a brand new interactive dance experience with bonus sing-a-long features that\\'s packed with dozens of hits from your favorite country chart-toppers! Country Dance All Stars features more than 35 tracks from the best names in country music.", 
+    "tags": [
+        268435463, 
+        536872205, 
+        536872611, 
+        536875046, 
+        536875049, 
+        536875271, 
+        536875364, 
+        536876260, 
+        536876695, 
+        536878314
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1516779566000, 
+    "url": "https://www.igdb.com/games/country-dance-all-stars"
+}

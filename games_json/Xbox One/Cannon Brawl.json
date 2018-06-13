@@ -1,0 +1,254 @@
+{
+    "aggregated_rating": 85.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Dstroyd"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "gyated5tvhaa7lkk5pk9", 
+        "height": 826, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gyated5tvhaa7lkk5pk9.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1445201038297, 
+    "developers": [
+        7077
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "230860"
+    }, 
+    "first_release_date": 1411084800000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        11423, 
+        6732, 
+        19407, 
+        18167, 
+        19934, 
+        19082, 
+        72373, 
+        16513, 
+        19376, 
+        65832
+    ], 
+    "genres": [
+        11, 
+        15, 
+        31, 
+        32
+    ], 
+    "id": 13675, 
+    "keywords": [
+        55, 
+        117, 
+        288, 
+        350, 
+        1158, 
+        1471, 
+        1494, 
+        3782, 
+        4004, 
+        4134, 
+        4135, 
+        4150, 
+        4151, 
+        4281, 
+        4609, 
+        5305, 
+        5316, 
+        6836, 
+        7403, 
+        10919
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 2, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Cannon Brawl", 
+    "platforms": [
+        6, 
+        92, 
+        14, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        7077
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1470355200000, 
+            "human": "2016-Aug-05", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1411084800000, 
+            "human": "2014-Sep-19", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1411084800000, 
+            "human": "2014-Sep-19", 
+            "m": 9, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1411084800000, 
+            "human": "2014-Sep-19", 
+            "m": 9, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1411084800000, 
+            "human": "2014-Sep-19", 
+            "m": 9, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "czw2ogue08ibcaw49r2n", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/czw2ogue08ibcaw49r2n.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xcfjajzsssqik7rdsovi", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xcfjajzsssqik7rdsovi.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "kbqhhrswjm8yrxrqo2nf", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kbqhhrswjm8yrxrqo2nf.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jgitxvvivhq7ontle5cq", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jgitxvvivhq7ontle5cq.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qjggxyp95kibgupswv2j", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qjggxyp95kibgupswv2j.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "cannon-brawl", 
+    "summary": "Cannon Brawl is a 2D action strategy game with big explosions and destructible terrain. Command the action from your airship to build cannons, capture mines, expand your territory and more. Choose from a multitude of buildings, cannons and towers to assemble a force that will rain destruction from the sky and defeat your enemy! Advance your military campaign across the map in single player mode, or duke it out in multiplayer mode.", 
+    "tags": [
+        1, 
+        27, 
+        268435467, 
+        268435471, 
+        268435487, 
+        268435488, 
+        536870967, 
+        536871029, 
+        536871200, 
+        536871262, 
+        536872070, 
+        536872383, 
+        536872406, 
+        536874694, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875062, 
+        536875063, 
+        536875193, 
+        536875521, 
+        536876217, 
+        536876228, 
+        536877748, 
+        536878315, 
+        536881831, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 82.5, 
+    "total_rating_count": 1, 
+    "updated_at": 1528351643574, 
+    "url": "https://www.igdb.com/games/cannon-brawl", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "V9qKU-pt11Q"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/230860"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.cannonbrawlgame.com"
+        }
+    ]
+}

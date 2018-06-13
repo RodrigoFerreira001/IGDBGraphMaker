@@ -1,0 +1,248 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 8, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "nwzdf2hzbmpmrqscj9s4", 
+        "height": 2160, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nwzdf2hzbmpmrqscj9s4.jpg", 
+        "width": 1948
+    }, 
+    "created_at": 1453848849929, 
+    "developers": [
+        8442
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "251230"
+    }, 
+    "first_release_date": 1472515200000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        27314, 
+        25300, 
+        36950, 
+        25311, 
+        68287, 
+        64204, 
+        19448, 
+        19301, 
+        29525, 
+        28029
+    ], 
+    "genres": [
+        5, 
+        31, 
+        32
+    ], 
+    "id": 16982, 
+    "keywords": [
+        575, 
+        970, 
+        1510, 
+        1623, 
+        4283, 
+        4586, 
+        4871
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 3, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 3, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Livelock", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        917
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1472515200000, 
+            "human": "2016-Aug-30", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472515200000, 
+            "human": "2016-Aug-30", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472515200000, 
+            "human": "2016-Aug-30", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472515200000, 
+            "human": "2016-Aug-30", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "p0qvsxtnxqf2ahbo97mi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p0qvsxtnxqf2ahbo97mi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "sxunk67845kmzk18aoi3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sxunk67845kmzk18aoi3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jbi3civyo0ob11jvhair", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jbi3civyo0ob11jvhair.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "crrpmwbtwgqdc2dogxxz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/crrpmwbtwgqdc2dogxxz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yy5wtmswaojbk7zutbc3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yy5wtmswaojbk7zutbc3.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "livelock", 
+    "summary": "Livelock is a cooperative top-down shooter where you and up to two others must work together to break the cycle of infinite war between machines. As one of \"The Few\" remaining Capital Intellects, you will need quick reactions and decision-making to overcome the chaos.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435487, 
+        268435488, 
+        536871487, 
+        536871882, 
+        536872422, 
+        536872535, 
+        536875195, 
+        536875498, 
+        536875783, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 77.5, 
+    "total_rating_count": 8, 
+    "updated_at": 1528355079519, 
+    "url": "https://www.igdb.com/games/livelock", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "CwCYXIB2r34"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "LFtgQ20mf-o"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "a0KZyuNqD94"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "PhreDTSWRxU"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/251230"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.playlivelock.com"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/playlivelock"
+        }
+    ]
+}

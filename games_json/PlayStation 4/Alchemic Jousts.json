@@ -1,0 +1,158 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ng9m2kfufgz3kmsyn0vy", 
+        "height": 450, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ng9m2kfufgz3kmsyn0vy.jpg", 
+        "width": 450
+    }, 
+    "created_at": 1480333387993, 
+    "developers": [
+        15661
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "516890"
+    }, 
+    "first_release_date": 1479772800000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        25640, 
+        29173, 
+        34919, 
+        25311, 
+        55590, 
+        33603, 
+        23345, 
+        36962, 
+        19376, 
+        19934
+    ], 
+    "genres": [
+        9, 
+        15, 
+        32
+    ], 
+    "id": 26097, 
+    "keywords": [
+        3782
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Alchemic Jousts", 
+    "platforms": [
+        6, 
+        48, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        15661, 
+        2238
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1528761600000, 
+            "human": "2018-Jun-12", 
+            "m": 6, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1481846400000, 
+            "human": "2016-Dec-16", 
+            "m": 12, 
+            "platform": 6, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479772800000, 
+            "human": "2016-Nov-22", 
+            "m": 11, 
+            "platform": 48, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ygy4jmub3xj6ocp8b0px", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ygy4jmub3xj6ocp8b0px.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "eucxqei3vetbtlkrw9fg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eucxqei3vetbtlkrw9fg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ztrvxvvrfeicqphwk2fd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ztrvxvvrfeicqphwk2fd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ysr36ae8vykutzowen77", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ysr36ae8vykutzowen77.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nt3f7qq4oumsoloepquw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nt3f7qq4oumsoloepquw.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "alchemic-jousts", 
+    "summary": "- Single and Multiplayer gameplay. Play vs AI and advance through the game's campaign, discovering new Skills and new game modes or challenge a friend with either local or on-line multiplayer.\n\n- Strategic combat, where your actions and skill of execution matter as much as your choices before the match starts!\n\n- Over 180 skills and upgrades to discover. Combine your known skills to discover new ones and expand your arsenal.\n\n- Multiple game modes with different objectives that will make you change the way you play as much as the skills you choose. Those include Combat, Endless, King of the Hill, Attack, Capture...\n\n- Random Global Effects, which change the general rules of each match in subtle or radical ways. The varying rules will keep the game play fresh and require you to consider the Skills you use to approach them!", 
+    "tags": [
+        1, 
+        268435471, 
+        268435488, 
+        536874694, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528417300121, 
+    "url": "https://www.igdb.com/games/alchemic-jousts", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.alchemicjousts.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/516890"
+        }
+    ]
+}

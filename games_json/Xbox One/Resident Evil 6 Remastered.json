@@ -1,0 +1,145 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "name": "Resident Evil 6 HD"
+        }, 
+        {
+            "name": "Resident Evil 6 HD Remaster"
+        }
+    ], 
+    "category": 0, 
+    "collection": 83, 
+    "cover": {
+        "cloudinary_id": "p7bmzgsfkqvvxypainwl", 
+        "height": 1223, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/p7bmzgsfkqvvxypainwl.jpg", 
+        "width": 970
+    }, 
+    "created_at": 1498990742272, 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "first_release_date": 1459209600000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        12579, 
+        68142, 
+        59516, 
+        26192, 
+        6036, 
+        24369, 
+        25646, 
+        44076, 
+        68287, 
+        57692
+    ], 
+    "genres": [
+        5, 
+        25, 
+        31
+    ], 
+    "id": 41858, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 6, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Resident Evil 6 Remastered", 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "popularity": 1.666666666666667, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1459209600000, 
+            "human": "2016-Mar-29", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1461888000000, 
+            "human": "2016-Apr-29", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "b92vjjhds0wst9bwyjog", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b92vjjhds0wst9bwyjog.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "c9p4rrfrqhgqiwvsw9le", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c9p4rrfrqhgqiwvsw9le.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "j6bylcnfr3lqoqzjuook", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j6bylcnfr3lqoqzjuook.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mt0fwhorfah4f10eeqfq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mt0fwhorfah4f10eeqfq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xtctp5kgcfuridcjglcc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xtctp5kgcfuridcjglcc.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "resident-evil-6-remastered", 
+    "summary": "Blending action and survival horror, Resident Evil 6 is a dramatic horror experience that cannot be forgotten. Now in high definition, the game offers multiple characters, including fan favorites and new faces, along with solo and co-op modes and new challenges for players, different from any other in the Resident Evil franchise. This edition includes all DLC, along with two costumes per main character, originally exclusively unlockable through Residentevil.net, that are now unlockable through the game itself.", 
+    "tags": [
+        1, 
+        19, 
+        21, 
+        268435461, 
+        268435481, 
+        268435487
+    ], 
+    "themes": [
+        1, 
+        19, 
+        21
+    ], 
+    "total_rating": 75.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1526732446934, 
+    "url": "https://www.igdb.com/games/resident-evil-6-remastered", 
+    "version_parent": 1082, 
+    "version_title": "Remastered"
+}

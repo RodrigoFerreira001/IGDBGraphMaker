@@ -1,0 +1,84 @@
+{
+    "aggregated_rating": 42.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "lq9fd0jlfcuiico49aqp", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lq9fd0jlfcuiico49aqp.jpg", 
+        "width": 352
+    }, 
+    "created_at": 1397840538689, 
+    "developers": [
+        2000
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1128988800000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        28029, 
+        76246, 
+        19341, 
+        10039, 
+        32902, 
+        43250, 
+        39431, 
+        68287, 
+        68142, 
+        11253
+    ], 
+    "genres": [
+        5, 
+        14
+    ], 
+    "id": 6151, 
+    "keywords": [
+        814
+    ], 
+    "name": "Splat Magazine Renegade Paintball", 
+    "platforms": [
+        6, 
+        11
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        268
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1128988800000, 
+            "human": "2005-Oct-11", 
+            "m": 10, 
+            "platform": 11, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1128988800000, 
+            "human": "2005-Oct-11", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 2005
+        }
+    ], 
+    "slug": "splat-magazine-renegade-paintball", 
+    "tags": [
+        268435461, 
+        268435470, 
+        536871726, 
+        1073741825
+    ], 
+    "total_rating": 42.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1474457536537, 
+    "url": "https://www.igdb.com/games/splat-magazine-renegade-paintball"
+}

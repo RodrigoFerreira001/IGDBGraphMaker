@@ -1,0 +1,235 @@
+{
+    "aggregated_rating": 57.6666666666667, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "c1fln2ymxdwo1kwieqkd", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/c1fln2ymxdwo1kwieqkd.jpg", 
+        "width": 200
+    }, 
+    "created_at": 1466607222934, 
+    "developers": [
+        2238
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "334280"
+    }, 
+    "first_release_date": 1467158400000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        11423, 
+        25311, 
+        6732, 
+        19934, 
+        18167, 
+        29173, 
+        25646, 
+        55289, 
+        23345, 
+        19376
+    ], 
+    "genres": [
+        15, 
+        31, 
+        32
+    ], 
+    "id": 19708, 
+    "keywords": [
+        1494, 
+        3782, 
+        4004, 
+        4150, 
+        4344, 
+        4787, 
+        4796, 
+        4880, 
+        5040, 
+        5331
+    ], 
+    "name": "Lost Sea", 
+    "platforms": [
+        45, 
+        6, 
+        14, 
+        48, 
+        49, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2238
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1527724800000, 
+            "human": "2018-May-31", 
+            "m": 5, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1467676800000, 
+            "human": "2016-Jul-05", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467676800000, 
+            "human": "2016-Jul-05", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467676800000, 
+            "human": "2016-Jul-05", 
+            "m": 7, 
+            "platform": 45, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467158400000, 
+            "human": "2016-Jun-29", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467676800000, 
+            "human": "2016-Jul-05", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467676800000, 
+            "human": "2016-Jul-05", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467676800000, 
+            "human": "2016-Jul-05", 
+            "m": 7, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467676800000, 
+            "human": "2016-Jul-05", 
+            "m": 7, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ygwh46ldab8vqhljr8oa", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ygwh46ldab8vqhljr8oa.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ipkbgwf0dit1fiuqqau7", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ipkbgwf0dit1fiuqqau7.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "advh32rnkc2mafj0tdtr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/advh32rnkc2mafj0tdtr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zkucjhkhlttdgsvvn4mt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zkucjhkhlttdgsvvn4mt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ovlgjlt6dnrvogsolrco", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ovlgjlt6dnrvogsolrco.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "lost-sea", 
+    "summary": "Lost Sea is an explorative action-adventure game set inside the perilous environment of the Bermuda Triangle. Select your hero and recruit a ragtag crew of survivors who can help you navigate the hazardous island chain. Scour each island for the mysterious tablets you need to navigate the waters of the Lost Sea and venture closer to the mysterious portal, that you hope, will transport you home.", 
+    "tags": [
+        1, 
+        268435471, 
+        268435487, 
+        268435488, 
+        536872406, 
+        536874694, 
+        536874916, 
+        536875062, 
+        536875256, 
+        536875699, 
+        536875708, 
+        536875792, 
+        536875952, 
+        536876243, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 57.6666666666667, 
+    "total_rating_count": 6, 
+    "updated_at": 1526684408900, 
+    "url": "https://www.igdb.com/games/lost-sea", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "3cvaioa-orw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/334280"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.lostseagame.com"
+        }, 
+        {
+            "category": 4, 
+            "url": "http://www.facebook.com/LostSeaGame"
+        }
+    ]
+}

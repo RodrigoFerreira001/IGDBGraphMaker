@@ -1,0 +1,168 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30a2\u30b1\u30a2\u30abNEOGEO \u30ea\u30a2\u30eb\u30d0\u30a6\u30c8\u9913\u72fc\u4f1d\u8aac\u30b9\u30da\u30b7\u30e3\u30eb"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "d4bbmtbdiya0r2txlbwj", 
+        "height": 320, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/d4bbmtbdiya0r2txlbwj.jpg", 
+        "width": 320
+    }, 
+    "created_at": 1513266090317, 
+    "developers": [
+        1474, 
+        5346
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "-"
+    }, 
+    "first_release_date": 1513209600000, 
+    "franchise": 1008, 
+    "franchises": [
+        1008
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        36794, 
+        41828, 
+        10039, 
+        2907, 
+        36608, 
+        36831, 
+        51485, 
+        34919, 
+        19658, 
+        76213
+    ], 
+    "genres": [
+        4, 
+        33
+    ], 
+    "id": 78127, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "ACA NEOGEO REAL BOUT FATAL FURY SPECIAL", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Violence in a sporting context"
+    }, 
+    "platforms": [
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        5346
+    ], 
+    "pulse_count": 1, 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1513209600000, 
+            "human": "2017-Dec-14", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513209600000, 
+            "human": "2017-Dec-14", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513209600000, 
+            "human": "2017-Dec-14", 
+            "m": 12, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513209600000, 
+            "human": "2017-Dec-14", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "n49npkoemtfgvtyustat", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n49npkoemtfgvtyustat.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yarqanvxphow2arroanj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yarqanvxphow2arroanj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qjvt8gvjbuzetqiivpie", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qjvt8gvjbuzetqiivpie.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "aca-neogeo-real-bout-fatal-fury-special", 
+    "summary": "\"REAL BOUT FATAL FURY SPECIAL is a fighting game released by SNK in 1997. \nIntroducing a brand-new 2-line battle system, a refinement of the Power Gauge system, \nand the abolishment of the ring-out system, the battle tactics of this system have been further improved. Along with Wolfgang Krauser, a total of 19 combatants appear.\"", 
+    "tags": [
+        1, 
+        268435460, 
+        268435489, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1528350277560, 
+    "url": "https://www.igdb.com/games/aca-neogeo-real-bout-fatal-fury-special", 
+    "version_parent": 39521, 
+    "version_title": "ACA NEOGEO", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "DIYRTgAriz4"
+        }
+    ]
+}

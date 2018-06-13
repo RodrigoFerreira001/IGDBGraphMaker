@@ -1,0 +1,128 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "gaxzhcbb8doedn9v22w2", 
+        "height": 353, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gaxzhcbb8doedn9v22w2.jpg", 
+        "width": 616
+    }, 
+    "created_at": 1495824266326, 
+    "external": {
+        "steam": "378700"
+    }, 
+    "first_release_date": 1479168000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28277, 
+        63734, 
+        27266, 
+        72412, 
+        63718, 
+        37022, 
+        54998, 
+        55289, 
+        74584, 
+        44191
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 35020, 
+    "name": "Neptune Flux", 
+    "platforms": [
+        6, 
+        14, 
+        48
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1502150400000, 
+            "human": "2017-Aug-08", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1479168000000, 
+            "human": "2016-Nov-15", 
+            "m": 11, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479168000000, 
+            "human": "2016-Nov-15", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rnk8o8rz45vnjxainztz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rnk8o8rz45vnjxainztz.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "bfm8xiafmeytmbnwv71r", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bfm8xiafmeytmbnwv71r.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "jduluzj5osz6pqcmxjn3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jduluzj5osz6pqcmxjn3.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "bcgd9rw3fk68bcph8zno", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bcgd9rw3fk68bcph8zno.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "gbsr8kvmiyjw7kidfhr1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gbsr8kvmiyjw7kidfhr1.jpg", 
+            "width": 1919
+        }
+    ], 
+    "slug": "neptune-flux", 
+    "summary": "Neptune Flux is a story-driven, open world adventure game set in a sci-fi ocean full of mystery and haunting beauty. Discover supernatural wreck sites, ancient artifacts, and dark secrets.", 
+    "tags": [
+        268435487, 
+        268435488, 
+        1073741831
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523414497248, 
+    "url": "https://www.igdb.com/games/neptune-flux", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://neptuneflux.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/378700"
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "aggregated_rating": 88.3333333333333, 
+    "aggregated_rating_count": 7, 
+    "category": 0, 
+    "collection": 2218, 
+    "cover": {
+        "cloudinary_id": "dxnythd9wccoezcxfsdg", 
+        "height": 1000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dxnythd9wccoezcxfsdg.jpg", 
+        "width": 709
+    }, 
+    "created_at": 1467995679220, 
+    "developers": [
+        843
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1319155200000, 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        37067, 
+        26766, 
+        5304, 
+        25217, 
+        20214, 
+        20169, 
+        19997, 
+        18026, 
+        28113, 
+        18387
+    ], 
+    "genres": [
+        7, 
+        33
+    ], 
+    "id": 20091, 
+    "keywords": [
+        1293, 
+        1699, 
+        2071, 
+        2152, 
+        4137, 
+        4228, 
+        4239, 
+        4359, 
+        4398, 
+        4452, 
+        4869, 
+        5300, 
+        5348, 
+        5783, 
+        5908, 
+        6274, 
+        6587, 
+        7369, 
+        7402, 
+        9951, 
+        10318, 
+        11115, 
+        11208, 
+        11457, 
+        11782
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dance Central 2", 
+    "platforms": [
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        53
+    ], 
+    "rating": 80.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1319500800000, 
+            "human": "2011-Oct-25", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1319155200000, 
+            "human": "2011-Oct-21", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1319155200000, 
+            "human": "2011-Oct-21", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1319673600000, 
+            "human": "2011-Oct-27", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ykhzm5iwdfdx1bkxtmjj", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ykhzm5iwdfdx1bkxtmjj.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "dance-central-2", 
+    "summary": "The core gameplay in Dance Central 2 is mostly identical to the original Dance Central. Players perform given dance moves, which are tracked by the Kinect. The more accurately the player performs the move, the more points he/she scores. Higher difficulties increase move complexity, and the margin for error is reduced. \nFeatures new to Dance Central 2 include voice control, simultaneous two player gameplay in both cooperative and competitive modes with drop in/drop out functionality, an improved fitness mode, a more in-depth and customizable \"Break it Down\" mode, allowing the player to practice only specific moves in a routine, and a campaign mode featuring dance crews of various styles.", 
+    "tags": [
+        40, 
+        268435463, 
+        268435489, 
+        536872205, 
+        536872611, 
+        536872983, 
+        536873064, 
+        536875049, 
+        536875140, 
+        536875151, 
+        536875271, 
+        536875310, 
+        536875364, 
+        536875781, 
+        536876212, 
+        536876260, 
+        536876695, 
+        536876820, 
+        536877186, 
+        536877499, 
+        536878281, 
+        536878314, 
+        536880863, 
+        536881230, 
+        536882027, 
+        536882120, 
+        536882369, 
+        536882694, 
+        1073741826
+    ], 
+    "themes": [
+        40
+    ], 
+    "total_rating": 84.16666666666666, 
+    "total_rating_count": 8, 
+    "updated_at": 1517271039827, 
+    "url": "https://www.igdb.com/games/dance-central-2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "uAXRdXvy4zE"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.harmonixmusic.com/games/dance-central/"
+        }
+    ]
+}

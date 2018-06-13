@@ -1,0 +1,101 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 3147, 
+    "cover": {
+        "cloudinary_id": "ephi1vo0hlyofqvhnxaa", 
+        "height": 225, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ephi1vo0hlyofqvhnxaa.jpg", 
+        "width": 224
+    }, 
+    "created_at": 1398461054501, 
+    "developers": [
+        690
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1039910400000, 
+    "franchise": 320, 
+    "franchises": [
+        320
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19565, 
+        14763, 
+        2558, 
+        28815, 
+        20660, 
+        51525, 
+        6604, 
+        49969, 
+        6285, 
+        14746
+    ], 
+    "id": 6448, 
+    "keywords": [
+        14, 
+        668, 
+        992, 
+        2387, 
+        3540, 
+        4142, 
+        4310, 
+        4805, 
+        5782, 
+        6351, 
+        9160, 
+        10422
+    ], 
+    "name": "The Invincible Iron Man", 
+    "platforms": [
+        24
+    ], 
+    "player_perspectives": [
+        2, 
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        66
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1039910400000, 
+            "human": "2002-Dec-15", 
+            "m": 12, 
+            "platform": 24, 
+            "y": 2002
+        }
+    ], 
+    "slug": "the-invincible-iron-man", 
+    "tags": [
+        1, 
+        536870926, 
+        536871580, 
+        536871904, 
+        536873299, 
+        536874452, 
+        536875054, 
+        536875222, 
+        536875717, 
+        536876694, 
+        536877263, 
+        536880072, 
+        536881334, 
+        1073741828, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1513006647414, 
+    "url": "https://www.igdb.com/games/the-invincible-iron-man"
+}

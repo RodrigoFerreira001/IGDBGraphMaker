@@ -1,0 +1,437 @@
+{
+    "aggregated_rating": 81.0, 
+    "aggregated_rating_count": 4, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Shantae: Kaizoku no Noroi"
+        }
+    ], 
+    "category": 0, 
+    "collection": 1140, 
+    "cover": {
+        "cloudinary_id": "ailvwvabl4mdfwraeyly", 
+        "height": 313, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ailvwvabl4mdfwraeyly.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1420251632264, 
+    "developers": [
+        1021
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "345820"
+    }, 
+    "first_release_date": 1414022400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        55752, 
+        19448, 
+        47823, 
+        72373, 
+        7344, 
+        36926, 
+        27421, 
+        6732, 
+        7202, 
+        6705
+    ], 
+    "genres": [
+        8, 
+        12, 
+        31, 
+        32
+    ], 
+    "id": 8430, 
+    "keywords": [
+        4, 
+        226, 
+        296, 
+        1019, 
+        1158, 
+        1756, 
+        1821, 
+        2049, 
+        2112, 
+        3794, 
+        3831, 
+        4134, 
+        4145, 
+        4161, 
+        4168, 
+        4235, 
+        4297, 
+        4375, 
+        4388, 
+        4446, 
+        4579, 
+        4609, 
+        4717, 
+        4746, 
+        4760, 
+        4762, 
+        4880, 
+        4931, 
+        4934, 
+        4965, 
+        5175, 
+        5305, 
+        5365, 
+        5391, 
+        5501, 
+        5610, 
+        5766, 
+        5775, 
+        5799, 
+        6145, 
+        6783
+    ], 
+    "name": "Shantae and the Pirate's Curse", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        41, 
+        49, 
+        37, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        832, 
+        9390, 
+        1021
+    ], 
+    "pulse_count": 6, 
+    "rating": 89.85534504119549, 
+    "rating_count": 14, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1521504000000, 
+            "human": "2018-Mar-20", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1458086400000, 
+            "human": "2016-Mar-16", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1521504000000, 
+            "human": "2018-Mar-20", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 3, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1429747200000, 
+            "human": "2015-Apr-23", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1441584000000, 
+            "human": "2015-Sep-07", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1423094400000, 
+            "human": "2015-Feb-05", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 3, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1447891200000, 
+            "human": "2015-Nov-19", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1423094400000, 
+            "human": "2015-Feb-05", 
+            "m": 2, 
+            "platform": 37, 
+            "region": 3, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1473206400000, 
+            "human": "2016-Sep-07", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1461110400000, 
+            "human": "2016-Apr-20", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 3, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1458086400000, 
+            "human": "2016-Mar-16", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1423094400000, 
+            "human": "2015-Feb-05", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1423094400000, 
+            "human": "2015-Feb-05", 
+            "m": 2, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1461024000000, 
+            "human": "2016-Apr-19", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1461024000000, 
+            "human": "2016-Apr-19", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1414022400000, 
+            "human": "2014-Oct-23", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1419465600000, 
+            "human": "2014-Dec-25", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rckkjcyndvfbghwa9zkn", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rckkjcyndvfbghwa9zkn.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "lrczcmnjqucqm6bvbzpa", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lrczcmnjqucqm6bvbzpa.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "ko792wulmnwauvtmxqdi", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ko792wulmnwauvtmxqdi.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "uslntm7m0jzlhbhiaifn", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uslntm7m0jzlhbhiaifn.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "tu5edamgd9hjrvgmav2p", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tu5edamgd9hjrvgmav2p.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "dlxstnf1ur5ldqtjz9tc", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dlxstnf1ur5ldqtjz9tc.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "kqhu9og4tb9cmx5zb9hl", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kqhu9og4tb9cmx5zb9hl.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "gwpcvxprl5ezbznrwbpx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gwpcvxprl5ezbznrwbpx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "krikg8jgvoitvgpwpxc7", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/krikg8jgvoitvgpwpxc7.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "b8sjrqjwabfyv9xqpwpv", 
+            "height": 738, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b8sjrqjwabfyv9xqpwpv.jpg", 
+            "width": 1366
+        }, 
+        {
+            "cloudinary_id": "wcq5borjimr0vyun48e0", 
+            "height": 388, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wcq5borjimr0vyun48e0.jpg", 
+            "width": 690
+        }, 
+        {
+            "cloudinary_id": "o9gaih87ax0d7kb1yanr", 
+            "height": 372, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o9gaih87ax0d7kb1yanr.jpg", 
+            "width": 620
+        }
+    ], 
+    "slug": "shantae-and-the-pirates-curse", 
+    "summary": "Embark on a brand new adventure with Shantae, the hair-whipping belly dancing genie. When she loses her magic, Shantae must team up with her nemesis, the nefarious pirate Risky Boots in order to save Sequin Land from an evil curse. As a pirate, Shantae gains new weapons to advance her quest, slay monsters, battle epic bosses\u2026and hopefully get her magic back in the bargain! But can she really trust her deadliest enemy? \n\nThe third Shantae game is the biggest yet! Beyond Sequin Land lie cursed islands and labyrinths each hiding a new piece of Pirate Gear - Flintlock Pistol, Pirate Hat, Scimitar, Risky's Boots, and even a Cannon. Upgrade Shantae's hair and weapons or unlock advanced Fighter's Moves. Locate maps, return lost Heart Squids, collect rare loot, and laugh out loud at the weird, wild, and wonderfully humorous cast of characters. Incredible stereoscopic visuals, unlockable Pirate-Mode, multiple endings, and an unforgettable soundtrack make this one game you won't want to miss!", 
+    "tags": [
+        1, 
+        268435464, 
+        268435468, 
+        268435487, 
+        268435488, 
+        536870916, 
+        536871138, 
+        536871208, 
+        536871931, 
+        536872070, 
+        536872668, 
+        536872733, 
+        536872961, 
+        536873024, 
+        536874706, 
+        536874743, 
+        536875046, 
+        536875057, 
+        536875073, 
+        536875080, 
+        536875147, 
+        536875209, 
+        536875287, 
+        536875300, 
+        536875358, 
+        536875491, 
+        536875521, 
+        536875629, 
+        536875658, 
+        536875672, 
+        536875674, 
+        536875792, 
+        536875843, 
+        536875846, 
+        536875877, 
+        536876087, 
+        536876217, 
+        536876277, 
+        536876303, 
+        536876413, 
+        536876522, 
+        536876678, 
+        536876687, 
+        536876711, 
+        536877057, 
+        536877695, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 85.42767252059775, 
+    "total_rating_count": 18, 
+    "updated_at": 1528684229478, 
+    "url": "https://www.igdb.com/games/shantae-and-the-pirates-curse", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "RzIxD2DJfpc"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "EOPtDknFwtI"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "owekgBASJ0Y"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Shantae_and_the_Pirate%27s_Curse"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://shantae.wikia.com/wiki/Shantae_and_the_Pirate%27s_Curse"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://wayforward.com/games/shantae-and-the-pirates-curse/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/345820"
+        }
+    ]
+}

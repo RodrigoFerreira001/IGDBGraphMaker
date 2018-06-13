@@ -1,0 +1,90 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vtib4jdd50klls8vezxd", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vtib4jdd50klls8vezxd.jpg", 
+        "width": 290
+    }, 
+    "created_at": 1468841425374, 
+    "first_release_date": 1254355200000, 
+    "games": [
+        19222, 
+        27266, 
+        41348, 
+        10225, 
+        68641, 
+        68639, 
+        67981, 
+        65068, 
+        64621, 
+        54058
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 20548, 
+    "keywords": [
+        4134, 
+        4158
+    ], 
+    "name": "BreakQuest", 
+    "platforms": [
+        45, 
+        38
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        4753
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1254355200000, 
+            "human": "2009-Oct-01", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1268870400000, 
+            "human": "2010-Mar-18", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1271548800000, 
+            "human": "2010-Apr-18", 
+            "m": 4, 
+            "platform": 38, 
+            "region": 8, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "nujfwtibfgip5nfx5lvb", 
+            "height": 385, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nujfwtibfgip5nfx5lvb.jpg", 
+            "width": 655
+        }
+    ], 
+    "slug": "breakquest", 
+    "summary": "A huge corporation rules the world by making thousands of TV channels and shows for people to watch. Everyone becomes addicted, starting the destruction of human intelligence. The player has to put up a transmitter to stop the satellite signals and end the corporation's rule.", 
+    "tags": [
+        268435465, 
+        536875046, 
+        536875070
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1520950379588, 
+    "url": "https://www.igdb.com/games/breakquest"
+}

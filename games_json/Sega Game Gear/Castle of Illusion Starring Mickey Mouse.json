@@ -1,0 +1,187 @@
+{
+    "aggregated_rating": 55.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "I Love Mickey Mouse: Great Mysterious Castle Adventure "
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30a2\u30a4\u30e9\u30d6\u30df\u30c3\u30ad\u30fc\u30de\u30a6\u30b9 \u3075\u3057\u304e\u306e\u304a\u57ce\u5927\u5192\u967a"
+        }
+    ], 
+    "category": 0, 
+    "collection": 1082, 
+    "cover": {
+        "cloudinary_id": "ymhbze4eqtbckvxb5u1r", 
+        "height": 348, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ymhbze4eqtbckvxb5u1r.jpg", 
+        "width": 248
+    }, 
+    "created_at": 1415230497270, 
+    "developers": [
+        112
+    ], 
+    "first_release_date": 659059200000, 
+    "franchise": 26, 
+    "franchises": [
+        26, 
+        35
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        1070, 
+        8448, 
+        6765, 
+        6379, 
+        5404, 
+        1073, 
+        41118, 
+        38305, 
+        10039, 
+        1188
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 8122, 
+    "keywords": [
+        645
+    ], 
+    "name": "Castle of Illusion Starring Mickey Mouse", 
+    "platforms": [
+        29, 
+        35, 
+        32, 
+        64
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        112
+    ], 
+    "rating": 65.0921172339076, 
+    "rating_count": 17, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 659059200000, 
+            "human": "1990-Nov-20", 
+            "m": 11, 
+            "platform": 29, 
+            "region": 2, 
+            "y": 1990
+        }, 
+        {
+            "category": 0, 
+            "date": 659232000000, 
+            "human": "1990-Nov-22", 
+            "m": 11, 
+            "platform": 29, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 0, 
+            "date": 659145600000, 
+            "human": "1990-Nov-21", 
+            "m": 11, 
+            "platform": 29, 
+            "region": 5, 
+            "y": 1990
+        }, 
+        {
+            "category": 0, 
+            "date": 672624000000, 
+            "human": "1991-Apr-26", 
+            "m": 4, 
+            "platform": 35, 
+            "region": 2, 
+            "y": 1991
+        }, 
+        {
+            "category": 0, 
+            "date": 672624000000, 
+            "human": "1991-Apr-26", 
+            "m": 4, 
+            "platform": 35, 
+            "region": 1, 
+            "y": 1991
+        }, 
+        {
+            "category": 0, 
+            "date": 669686400000, 
+            "human": "1991-Mar-23", 
+            "m": 3, 
+            "platform": 35, 
+            "region": 5, 
+            "y": 1991
+        }, 
+        {
+            "category": 0, 
+            "date": 908409600000, 
+            "human": "1998-Oct-15", 
+            "m": 10, 
+            "platform": 32, 
+            "region": 5, 
+            "y": 1998
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 64, 
+            "region": 2, 
+            "y": 1990
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ogvzdabi7umyqyo2nwnx", 
+            "height": 829, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ogvzdabi7umyqyo2nwnx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "pq6mds0h2cyxvhrgpj1m", 
+            "height": 829, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pq6mds0h2cyxvhrgpj1m.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "r0ljlbpzyzflkn9ghxbi", 
+            "height": 829, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r0ljlbpzyzflkn9ghxbi.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "r3eyroib4t342e6plmxw", 
+            "height": 829, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r3eyroib4t342e6plmxw.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xzlmkb4t39c9apxsel1n", 
+            "height": 829, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xzlmkb4t39c9apxsel1n.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "castle-of-illusion-starring-mickey-mouse", 
+    "summary": "Minnie Mouse has been kidnapped by the evil witch Mizrabel, and it's up to Mickey Mouse to venture through the mysterious worlds of the Castle of Illusion to rescue her in this 2D platformer (and collaboration between Disney and Sega).", 
+    "tags": [
+        268435464, 
+        536871557, 
+        1073741828
+    ], 
+    "total_rating": 60.0460586169538, 
+    "total_rating_count": 19, 
+    "updated_at": 1517270782383, 
+    "url": "https://www.igdb.com/games/castle-of-illusion-starring-mickey-mouse"
+}

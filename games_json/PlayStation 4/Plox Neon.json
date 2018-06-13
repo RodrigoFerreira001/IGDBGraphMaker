@@ -1,0 +1,155 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "zu5v1fhsi91naknfacnt", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zu5v1fhsi91naknfacnt.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1515626271896, 
+    "developers": [
+        5198
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "751970"
+    }, 
+    "first_release_date": 1513641600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25640, 
+        25646, 
+        34919, 
+        25311, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        16468, 
+        40524
+    ], 
+    "genres": [
+        9, 
+        15, 
+        32
+    ], 
+    "id": 80963, 
+    "name": "Plox Neon", 
+    "platforms": [
+        34, 
+        6, 
+        39, 
+        14, 
+        48
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        5198
+    ], 
+    "release_dates": [
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 39
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 34
+        }, 
+        {
+            "category": 0, 
+            "date": 1513641600000, 
+            "human": "2017-Dec-19", 
+            "m": 12, 
+            "platform": 14, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513641600000, 
+            "human": "2017-Dec-19", 
+            "m": 12, 
+            "platform": 6, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1515456000000, 
+            "human": "2018-Jan-09", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tgrsxiteoaz84ji8jin6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tgrsxiteoaz84ji8jin6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vep3lynsgnkgnj3jabfq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vep3lynsgnkgnj3jabfq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mmeaxisyzush0vkabx5f", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mmeaxisyzush0vkabx5f.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mbpe6qjj3w33zfzxxe4w", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mbpe6qjj3w33zfzxxe4w.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qtzv7770t7tylerfgrc4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qtzv7770t7tylerfgrc4.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "plox-neon", 
+    "summary": "Use your wits to find the best way to clear areas of the map and trap monsters to earn points in this byte-sized arcade experience with action-packed puzzles and music to match!", 
+    "tags": [
+        1, 
+        268435465, 
+        268435471, 
+        268435488, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1523321423503, 
+    "url": "https://www.igdb.com/games/plox-neon", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "BuT26aUudo8"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/751970"
+        }, 
+        {
+            "category": 12, 
+            "url": "https://play.google.com/store/apps/details?id=com.desertowlgames.ploxneonfull"
+        }
+    ]
+}

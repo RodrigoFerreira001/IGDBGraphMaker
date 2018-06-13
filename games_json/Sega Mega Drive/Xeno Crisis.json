@@ -1,0 +1,73 @@
+{
+    "category": 0, 
+    "created_at": 1515145337579, 
+    "developers": [
+        10849
+    ], 
+    "first_release_date": 1546214400000, 
+    "id": 80010, 
+    "keywords": [
+        426
+    ], 
+    "name": "Xeno Crisis", 
+    "platforms": [
+        29, 
+        23
+    ], 
+    "popularity": 1.0, 
+    "pulse_count": 2, 
+    "release_dates": [
+        {
+            "category": 6, 
+            "date": 1546214400000, 
+            "human": "2018-Q4", 
+            "m": 12, 
+            "platform": 23, 
+            "y": 2018
+        }, 
+        {
+            "category": 6, 
+            "date": 1546214400000, 
+            "human": "2018-Q4", 
+            "m": 12, 
+            "platform": 29, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mvnwd0ybyezqs3lejzof", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mvnwd0ybyezqs3lejzof.jpg", 
+            "width": 680
+        }, 
+        {
+            "cloudinary_id": "f4s971mwaewzvtntrxt7", 
+            "height": 391, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f4s971mwaewzvtntrxt7.jpg", 
+            "width": 564
+        }, 
+        {
+            "cloudinary_id": "gmihiwzxneysixx8vupe", 
+            "height": 396, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gmihiwzxneysixx8vupe.jpg", 
+            "width": 564
+        }
+    ], 
+    "slug": "xeno-crisis", 
+    "summary": "Xeno Crisis is a top-down arcade style shooter for Sega Genesis / Mega Drive taking inspiration from classics like Smash TV and Contra.", 
+    "updated_at": 1515145629107, 
+    "url": "https://www.igdb.com/games/xeno-crisis", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "vIFSzeK-PsI"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.kickstarter.com/projects/1676714319/xeno-crisis-a-new-game-for-the-sega-genesis-mega-d"
+        }
+    ]
+}

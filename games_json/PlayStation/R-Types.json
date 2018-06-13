@@ -1,0 +1,78 @@
+{
+    "aggregated_rating": 61.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 1391, 
+    "cover": {
+        "cloudinary_id": "dbeigob8vedtcqegac9a", 
+        "height": 193, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dbeigob8vedtcqegac9a.jpg", 
+        "width": 165
+    }, 
+    "created_at": 1472011415365, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 922579200000, 
+    "games": [
+        68287, 
+        36950, 
+        10209, 
+        27314, 
+        28029, 
+        64204, 
+        10213, 
+        26766, 
+        71455, 
+        25300
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 22892, 
+    "keywords": [
+        166, 
+        947, 
+        970, 
+        1059, 
+        4372, 
+        5721, 
+        6832
+    ], 
+    "name": "R-Types", 
+    "platforms": [
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 922579200000, 
+            "human": "1999-Mar-28", 
+            "m": 3, 
+            "platform": 7, 
+            "region": 8, 
+            "y": 1999
+        }
+    ], 
+    "slug": "r-types", 
+    "summary": "R-Types is a compilation of R-Type and R-Type II ported pixel-for-pixel from the coin-op to the PlayStation. \n \nA couple of handy features have been added to lower the original difficulty level. First, your progress through the game is saved at the start of each level, so you don't have to start from scratch every time. Second, you now have unlimited continues. \n \nR-Types also contains a small library section which describes some of the story behind the R-Type universe, and lets you browse some of the in-game graphics. Other bonuses include an FMV intro movie and ending movies.", 
+    "tags": [
+        18, 
+        268435461, 
+        536871078, 
+        536871859, 
+        536871882, 
+        536871971, 
+        536875284, 
+        536876633, 
+        536877744
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 61.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1513001104876, 
+    "url": "https://www.igdb.com/games/r-types"
+}

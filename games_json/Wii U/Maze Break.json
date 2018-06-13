@@ -1,0 +1,70 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ftw9celbs5poxvjg1u9r", 
+        "height": 174, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ftw9celbs5poxvjg1u9r.jpg", 
+        "width": 182
+    }, 
+    "created_at": 1504277901889, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1486598400000, 
+    "games": [
+        64401, 
+        64400, 
+        62009, 
+        56391, 
+        56207, 
+        56195, 
+        19376, 
+        62855, 
+        61968, 
+        57321
+    ], 
+    "id": 56415, 
+    "keywords": [
+        687, 
+        1761, 
+        4134, 
+        4159, 
+        4160
+    ], 
+    "name": "Maze Break", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1486598400000, 
+            "human": "2017-Feb-09", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1487808000000, 
+            "human": "2017-Feb-23", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "slug": "maze-break", 
+    "summary": "A combination of maze and brick breaking game.", 
+    "tags": [
+        536871599, 
+        536872673, 
+        536875046, 
+        536875071, 
+        536875072
+    ], 
+    "updated_at": 1518071438739, 
+    "url": "https://www.igdb.com/games/maze-break"
+}

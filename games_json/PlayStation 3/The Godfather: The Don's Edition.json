@@ -1,0 +1,114 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 492, 
+    "cover": {
+        "cloudinary_id": "qh7tnt4wxm53pp0xvky0", 
+        "height": 822, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qh7tnt4wxm53pp0xvky0.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1468850169593, 
+    "first_release_date": 1174435200000, 
+    "franchise": 72, 
+    "franchises": [
+        72
+    ], 
+    "games": [
+        10039, 
+        37088, 
+        20228, 
+        28552, 
+        23175, 
+        25300, 
+        36950, 
+        59516, 
+        28029, 
+        142
+    ], 
+    "genres": [
+        4, 
+        5, 
+        10, 
+        31
+    ], 
+    "id": 20683, 
+    "name": "The Godfather: The Don's Edition", 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.666666666666667, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1192060800000, 
+            "human": "2007-Oct-11", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1177027200000, 
+            "human": "2007-Apr-20", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1174435200000, 
+            "human": "2007-Mar-21", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1177027200000, 
+            "human": "2007-Apr-20", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ledbrdcwk0yyz384bch6", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ledbrdcwk0yyz384bch6.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "the-godfather-the-dons-edition", 
+    "summary": "You can move up the ranks of the Corleone crime family in The Godfather. In the game based on the book and movie, you go from humble beginnings of petty crime and rise to be the most powerful crime lord in all of New York. The Godfather features customizable characters and a persistent gameworld, where your decisions affect how other characters interact with you. Marlon Brando, James Caan, and Robert Duvall return to the franchise to voice characters in the game as well.", 
+    "tags": [
+        1, 
+        38, 
+        268435460, 
+        268435461, 
+        268435466, 
+        268435487
+    ], 
+    "themes": [
+        1, 
+        38
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1528342613235, 
+    "url": "https://www.igdb.com/games/the-godfather-the-dons-edition", 
+    "version_parent": 2482, 
+    "version_title": "The Don's Edition", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://godfather.wikia.com/wiki/The_Godfather:_The_Don%27s_Edition"
+        }
+    ]
+}

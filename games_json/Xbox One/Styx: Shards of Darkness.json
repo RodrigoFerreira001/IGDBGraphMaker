@@ -1,0 +1,278 @@
+{
+    "aggregated_rating": 71.6923076923077, 
+    "aggregated_rating_count": 15, 
+    "category": 0, 
+    "collection": 872, 
+    "cover": {
+        "cloudinary_id": "fult5vhhflvqeplbtuon", 
+        "height": 1240, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fult5vhhflvqeplbtuon.jpg", 
+        "width": 1103
+    }, 
+    "created_at": 1444928494139, 
+    "developers": [
+        404
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "355790"
+    }, 
+    "first_release_date": 1489449600000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        47823, 
+        17001, 
+        28380, 
+        23175, 
+        55092, 
+        11169, 
+        11567, 
+        26766, 
+        36926, 
+        25300
+    ], 
+    "genres": [
+        31
+    ], 
+    "hypes": 7, 
+    "id": 13554, 
+    "keywords": [
+        96, 
+        132, 
+        296, 
+        952, 
+        1033, 
+        1293, 
+        2071, 
+        4131, 
+        4245, 
+        4297, 
+        4645
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 2, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Styx: Shards of Darkness", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        110
+    ], 
+    "pulse_count": 13, 
+    "rating": 80.0, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1489449600000, 
+            "human": "2017-Mar-14", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489449600000, 
+            "human": "2017-Mar-14", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489449600000, 
+            "human": "2017-Mar-14", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489449600000, 
+            "human": "2017-Mar-14", 
+            "m": 3, 
+            "platform": 48, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489449600000, 
+            "human": "2017-Mar-14", 
+            "m": 3, 
+            "platform": 49, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489449600000, 
+            "human": "2017-Mar-14", 
+            "m": 3, 
+            "platform": 6, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "f10lrksbd2eddyvhrvu7", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f10lrksbd2eddyvhrvu7.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fkmhugjs2kkle9qfawcr", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fkmhugjs2kkle9qfawcr.jpg", 
+            "width": 1366
+        }, 
+        {
+            "cloudinary_id": "l6mheqaybogeaftu5ohn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l6mheqaybogeaftu5ohn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "a3oeztgxghzfwezn4sji", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a3oeztgxghzfwezn4sji.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gg1twdvinovyln8hz4et", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gg1twdvinovyln8hz4et.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "styx-shards-of-darkness", 
+    "storyline": "Following the fall of Akenash tower, an extraordinary matter has forced Styx out of hiding to infiltrate K\u00f6rangar, the city of the Dark Elves. Supposedly impregnable, a diplomatic summit offers Styx a chance at slipping in unnoticed, as he learns that the event is nothing but a mere fa\u00e7ade\u2026 Moreover, the Elves have joined forces with the Dwarves, and the only thing both races have in common is a mutual hatred of the Goblins\u2026", 
+    "summary": "Embark upon a stealthy adventure with new enemies, new environments, and a plethora of new mechanics aimed at refining the abilities and movement of Styx; grappling around corners, climbing ropes, and using his trusty knife as a zip-wire. Shards of Darkness aims to offer unparalleled freedom of movement, along with refined stealth and assassination mechanics, expanding and improving on the strengths of Styx: Master of Shadows", 
+    "tags": [
+        1, 
+        17, 
+        23, 
+        268435487, 
+        536871008, 
+        536871044, 
+        536871208, 
+        536871864, 
+        536871945, 
+        536872205, 
+        536872983, 
+        536875043, 
+        536875157, 
+        536875209, 
+        536875557, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        23
+    ], 
+    "total_rating": 75.84615384615384, 
+    "total_rating_count": 19, 
+    "updated_at": 1528358382440, 
+    "url": "https://www.igdb.com/games/styx-shards-of-darkness", 
+    "videos": [
+        {
+            "name": "Accolades Trailer", 
+            "video_id": "E1gui_ggxto"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "WmTn8ElgXKs"
+        }, 
+        {
+            "name": "Co-op Trailer", 
+            "video_id": "OiOlKdTDjLI"
+        }, 
+        {
+            "name": "Making of a Goblin Trailer", 
+            "video_id": "BL_76cYTJD8"
+        }, 
+        {
+            "name": "E3 2016 Trailer", 
+            "video_id": "K3VS4naLQvI"
+        }, 
+        {
+            "name": "Gameplay Trailer", 
+            "video_id": "6-HBgSVNfho"
+        }, 
+        {
+            "name": "Gameplay Trailer 2", 
+            "video_id": "GA9D7oOJW1c"
+        }, 
+        {
+            "name": "Art of Stealth Trailer", 
+            "video_id": "U8sEac8fh_g"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.styx-thegame.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/355790"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/focusinteractive"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/StyxVideoGames"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/StyxGame"
+        }
+    ]
+}

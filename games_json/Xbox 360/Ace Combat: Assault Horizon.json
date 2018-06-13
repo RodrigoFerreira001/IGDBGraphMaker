@@ -1,0 +1,331 @@
+{
+    "aggregated_rating": 81.6, 
+    "aggregated_rating_count": 9, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30a8\u30fc\u30b9\u30b3\u30f3\u30d0\u30c3\u30c8 \u30a2\u30b5\u30eb\u30c8\u30fb\u30db\u30e9\u30a4\u30be\u30f3"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "ihvdgztfavdurwug5wtl", 
+            "height": 2828, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ihvdgztfavdurwug5wtl.jpg", 
+            "width": 2000
+        }, 
+        {
+            "cloudinary_id": "wibqsza7vlyvi1wpmccs", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wibqsza7vlyvi1wpmccs.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yh4oakge8ubjb3nerbcq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yh4oakge8ubjb3nerbcq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lu6hgnv7a9o94qadt64z", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lu6hgnv7a9o94qadt64z.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lxiuhkv6oc8cmdrk5jqr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lxiuhkv6oc8cmdrk5jqr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tamvt5tiosz2p5djubo0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tamvt5tiosz2p5djubo0.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gxhvq4xx5vikemvcamoo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gxhvq4xx5vikemvcamoo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wo4qxp3qtbcetys7gi8h", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wo4qxp3qtbcetys7gi8h.jpg", 
+            "width": 1280
+        }
+    ], 
+    "category": 0, 
+    "collection": 104, 
+    "cover": {
+        "cloudinary_id": "qpoasmkdpbt1clkquapq", 
+        "height": 737, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qpoasmkdpbt1clkquapq.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1317638156000, 
+    "developers": [
+        419
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1318291200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        72373, 
+        28751, 
+        7350, 
+        6732, 
+        9509, 
+        28204, 
+        117, 
+        7360, 
+        8187, 
+        1905
+    ], 
+    "genres": [
+        5, 
+        13
+    ], 
+    "id": 531, 
+    "keywords": [
+        1, 
+        31, 
+        56, 
+        992, 
+        1107, 
+        1158, 
+        1217, 
+        1293, 
+        1333, 
+        2841, 
+        3994, 
+        4245, 
+        4259, 
+        4541, 
+        4582, 
+        4609, 
+        4783, 
+        4853, 
+        5282, 
+        5307, 
+        5384, 
+        5826, 
+        5827, 
+        5828, 
+        5829, 
+        5831, 
+        5834, 
+        5835, 
+        5905, 
+        5989, 
+        6050, 
+        6295, 
+        6376, 
+        6502, 
+        6908, 
+        7369, 
+        7521, 
+        9311, 
+        9952, 
+        10390, 
+        10697, 
+        10919, 
+        11383, 
+        11439, 
+        11467, 
+        11549, 
+        11809, 
+        12424, 
+        12497
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 3, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Ace Combat: Assault Horizon", 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        248
+    ], 
+    "rating": 53.912600308356, 
+    "rating_count": 12, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1318464000000, 
+            "human": "2011-Oct-13", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1318550400000, 
+            "human": "2011-Oct-14", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1318291200000, 
+            "human": "2011-Oct-11", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1318464000000, 
+            "human": "2011-Oct-13", 
+            "m": 10, 
+            "platform": 9, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1318464000000, 
+            "human": "2011-Oct-13", 
+            "m": 10, 
+            "platform": 12, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "paijtjifetqz7gpu11j1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/paijtjifetqz7gpu11j1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zmpzrnl0mmwgxm5fbcor", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zmpzrnl0mmwgxm5fbcor.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "s6qa41kcllj8pjckawxp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s6qa41kcllj8pjckawxp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bn5frgqdlybvjqhkulaf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bn5frgqdlybvjqhkulaf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "y86eyyrfiolttvhof2sv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y86eyyrfiolttvhof2sv.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "ace-combat-assault-horizon", 
+    "summary": "Climb back into the cockpit with another installment of the Ace Combat series.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435469, 
+        536870913, 
+        536870943, 
+        536870968, 
+        536871904, 
+        536872019, 
+        536872070, 
+        536872129, 
+        536872205, 
+        536872245, 
+        536873753, 
+        536874906, 
+        536875157, 
+        536875171, 
+        536875453, 
+        536875494, 
+        536875521, 
+        536875695, 
+        536875765, 
+        536876194, 
+        536876219, 
+        536876296, 
+        536876738, 
+        536876739, 
+        536876740, 
+        536876741, 
+        536876743, 
+        536876746, 
+        536876747, 
+        536876817, 
+        536876901, 
+        536876962, 
+        536877207, 
+        536877288, 
+        536877414, 
+        536877820, 
+        536878281, 
+        536878433, 
+        536880223, 
+        536880864, 
+        536881302, 
+        536881609, 
+        536881831, 
+        536882295, 
+        536882351, 
+        536882379, 
+        536882461, 
+        536882721, 
+        536883336, 
+        536883409, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 67.75630015417799, 
+    "total_rating_count": 21, 
+    "updated_at": 1526778341241, 
+    "url": "https://www.igdb.com/games/ace-combat-assault-horizon", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "3MNYruNnBzc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://acecombatassaulthorizon.namcobandaigames.eu"
+        }
+    ]
+}

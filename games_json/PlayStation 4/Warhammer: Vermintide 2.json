@@ -1,0 +1,166 @@
+{
+    "aggregated_rating": 81.25, 
+    "aggregated_rating_count": 11, 
+    "category": 0, 
+    "collection": 30, 
+    "cover": {
+        "cloudinary_id": "pocat2ipqrkhiguuev1f", 
+        "height": 377, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pocat2ipqrkhiguuev1f.jpg", 
+        "width": 271
+    }, 
+    "created_at": 1504103122845, 
+    "developers": [
+        860
+    ], 
+    "external": {
+        "steam": "552500"
+    }, 
+    "first_release_date": 1520467200000, 
+    "franchise": 509, 
+    "franchises": [
+        509
+    ], 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        101211, 
+        27011, 
+        29525, 
+        27314, 
+        47823, 
+        37016, 
+        37419, 
+        103281, 
+        78149, 
+        103020
+    ], 
+    "genres": [
+        5, 
+        31, 
+        32
+    ], 
+    "hypes": 2, 
+    "id": 55189, 
+    "keywords": [
+        69, 
+        296, 
+        453, 
+        2071
+    ], 
+    "name": "Warhammer: Vermintide 2", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 7.333333333333333, 
+    "publishers": [
+        860
+    ], 
+    "pulse_count": 120, 
+    "rating": 80.0103715654467, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1520467200000, 
+            "human": "2018-Mar-08", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lwk77txhwcukdybew8ri", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lwk77txhwcukdybew8ri.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "g7vlaanlh2eu7ou9avtz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g7vlaanlh2eu7ou9avtz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "eg5i9j1ecnhqxvigdcqy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eg5i9j1ecnhqxvigdcqy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vklqzpgdvdzwz9fgz5qc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vklqzpgdvdzwz9fgz5qc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qszvq6drlkvrdhjg3ah9", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qszvq6drlkvrdhjg3ah9.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "warhammer-vermintide-2", 
+    "summary": "Warhammer: Vermintide 2 is the sequel to the critically acclaimed Vermintide. It\u2019s time for players to return to the memorable first-person co-op experience with intense world class melee action.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435487, 
+        268435488, 
+        536870981, 
+        536871208, 
+        536871365, 
+        536872983, 
+        1073741825
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.63018578272334, 
+    "total_rating_count": 17, 
+    "updated_at": 1528683636611, 
+    "url": "https://www.igdb.com/games/warhammer-vermintide-2", 
+    "videos": [
+        {
+            "name": "Reveal Trailer", 
+            "video_id": "QXS7SsoBBDw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.vermintide.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/552500"
+        }
+    ]
+}

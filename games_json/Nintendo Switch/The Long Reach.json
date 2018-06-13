@@ -1,0 +1,211 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "fhpt1z0sxfxgnzczyzyy", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fhpt1z0sxfxgnzczyzyy.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1498881324982, 
+    "developers": [
+        13065
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "584990"
+    }, 
+    "first_release_date": 1520985600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25646, 
+        54678, 
+        13189, 
+        27266, 
+        26914, 
+        19448, 
+        29525, 
+        25222, 
+        19934, 
+        18167
+    ], 
+    "genres": [
+        9, 
+        31, 
+        32
+    ], 
+    "hypes": 1, 
+    "id": 41812, 
+    "keywords": [
+        117, 
+        1027, 
+        1120, 
+        1705, 
+        4134, 
+        4154
+    ], 
+    "name": "The Long Reach", 
+    "platforms": [
+        6, 
+        14, 
+        46, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 3.0, 
+    "publishers": [
+        4726
+    ], 
+    "pulse_count": 3, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1521072000000, 
+            "human": "2018-Mar-15", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1520985600000, 
+            "human": "2018-Mar-14", 
+            "m": 3, 
+            "platform": 46, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1520985600000, 
+            "human": "2018-Mar-14", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1520985600000, 
+            "human": "2018-Mar-14", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1520985600000, 
+            "human": "2018-Mar-14", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1520985600000, 
+            "human": "2018-Mar-14", 
+            "m": 3, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wxxrhz4hicobgetck7zh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wxxrhz4hicobgetck7zh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "eje7vc7rcukssgii78vk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eje7vc7rcukssgii78vk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rnezsnptu94lg8qn86q6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rnezsnptu94lg8qn86q6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gszeosk2hgvwuc17f74r", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gszeosk2hgvwuc17f74r.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vwkga18zqahatmfuii4t", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vwkga18zqahatmfuii4t.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "the-long-reach", 
+    "summary": "At its heart The Long Reach is an adventure game. Closer inspection also reveals it\u2019s a thrilling horror story, flavoured with sci-fi ideology, psychological context and a skeptical view on the human psyche.", 
+    "tags": [
+        1, 
+        19, 
+        268435465, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536871939, 
+        536872032, 
+        536872617, 
+        536875046, 
+        536875066, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        19
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1523359436054, 
+    "url": "https://www.igdb.com/games/the-long-reach", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "fk3G63PGIO0"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "wvrNZoFCbes"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/584990"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://thelongreachgame.com"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/TheLongReach"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/TheLongReach"
+        }
+    ]
+}

@@ -1,0 +1,430 @@
+{
+    "aggregated_rating": 78.25, 
+    "aggregated_rating_count": 10, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "dl6xarulf6havix62vtp", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dl6xarulf6havix62vtp.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1398959360920, 
+    "developers": [
+        2219
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "251830"
+    }, 
+    "first_release_date": 1384819200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        6732, 
+        55752, 
+        7344, 
+        3277, 
+        36868, 
+        11423, 
+        19448, 
+        72373, 
+        10148, 
+        1968
+    ], 
+    "genres": [
+        8, 
+        31, 
+        32
+    ], 
+    "id": 6581, 
+    "keywords": [
+        3, 
+        16, 
+        350, 
+        470, 
+        789, 
+        1027, 
+        1494, 
+        1699, 
+        1783, 
+        1935, 
+        2049, 
+        3313, 
+        3540, 
+        4134, 
+        4148, 
+        4161, 
+        4186, 
+        4287, 
+        4314, 
+        4316, 
+        4327, 
+        4338, 
+        4410, 
+        4432, 
+        4446, 
+        4510, 
+        4527, 
+        4576, 
+        4619, 
+        4636, 
+        4717, 
+        4718, 
+        4726, 
+        4831, 
+        4903, 
+        4928, 
+        4931, 
+        5120, 
+        5328, 
+        5388, 
+        5402, 
+        5568, 
+        5584, 
+        5618, 
+        5734, 
+        5736, 
+        5760, 
+        5853, 
+        5899, 
+        6223, 
+        6235, 
+        6382, 
+        6491, 
+        6602, 
+        6603, 
+        6604, 
+        6605, 
+        6606
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Stick it to The Man!", 
+    "platforms": [
+        45, 
+        6, 
+        14, 
+        41, 
+        46, 
+        9, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 3.0, 
+    "publishers": [
+        2219, 
+        2852
+    ], 
+    "pulse_count": 3, 
+    "rating": 62.2860141437226, 
+    "rating_count": 10, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1398902400000, 
+            "human": "2014-May-01", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398902400000, 
+            "human": "2014-May-01", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1399334400000, 
+            "human": "2014-May-06", 
+            "m": 5, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398816000000, 
+            "human": "2014-Apr-30", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1409184000000, 
+            "human": "2014-Aug-28", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1511395200000, 
+            "human": "2017-Nov-23", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 3, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1511395200000, 
+            "human": "2017-Nov-23", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 41, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385856000000, 
+            "human": "2013-Dec-01", 
+            "m": 12, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384905600000, 
+            "human": "2013-Nov-20", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385856000000, 
+            "human": "2013-Dec-01", 
+            "m": 12, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1386892800000, 
+            "human": "2013-Dec-13", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1386892800000, 
+            "human": "2013-Dec-13", 
+            "m": 12, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "axkqguvrph2nyxpvkwpj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/axkqguvrph2nyxpvkwpj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vhibmmlchlojo9wbvhjq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vhibmmlchlojo9wbvhjq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nkidxsiw74aq0mx0e5sd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nkidxsiw74aq0mx0e5sd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tdtonwvywak10cd6vmll", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tdtonwvywak10cd6vmll.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gss8mrxdxus9xkb3cvkh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gss8mrxdxus9xkb3cvkh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bquhkvohgdvj3yycanwf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bquhkvohgdvj3yycanwf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "te4k00zkrg82flr9mrye", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/te4k00zkrg82flr9mrye.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "x5jsby4zj5yydqeg10s4", 
+            "height": 1013, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x5jsby4zj5yydqeg10s4.jpg", 
+            "width": 1800
+        }, 
+        {
+            "cloudinary_id": "s8u3gg0rxyaswnpxmxmm", 
+            "height": 1013, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s8u3gg0rxyaswnpxmxmm.jpg", 
+            "width": 1800
+        }, 
+        {
+            "cloudinary_id": "nclce7yynpnqofd32gwv", 
+            "height": 1013, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nclce7yynpnqofd32gwv.jpg", 
+            "width": 1800
+        }, 
+        {
+            "cloudinary_id": "bgfsl0at0jg8sru5gvem", 
+            "height": 1013, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bgfsl0at0jg8sru5gvem.jpg", 
+            "width": 1800
+        }, 
+        {
+            "cloudinary_id": "fulkszrlf8rd4j8uqvwg", 
+            "height": 1013, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fulkszrlf8rd4j8uqvwg.jpg", 
+            "width": 1800
+        }
+    ], 
+    "slug": "stick-it-to-the-man", 
+    "storyline": "Meet Ray, he lives in a world where everything is made out of paper and stickers. One day he has an accident and wakes up with a giant pink spaghetti arm sticking out of his brain. This gives him awesome powers and he can suddenly change the world around him by folding it, tearing it, pulling stickers off and sticking them elsewhere! And if that weren't enough, Ray can also read peoples minds! Digging into the brains of his fellow citizens, Ray can hear their thoughts and use that to his advantage. Unfortunately, Ray doesn't have much time to get to grips with his new abilities. He is framed by \u2018The Man\u2019 with a crime he didn\u2019t commit, and is on the run. Can you help to get Ray out of this sticky situation? Get ready to tear it, rip it and Stick it to the Man!", 
+    "summary": "On an ordinary day, hard hat tester; Ray has a bizarre accident and wakes up with a giant pink spaghetti arm sticking out of his brain, giving him extraordinary mind-reading powers. Ray can suddenly change the world with stickers, transforming his paper universe by tearing it, folding it and using the crazy stickers he finds (along with his awesome new powers) to solve mind-boggling puzzles! Sadly, Ray doesn't have much time to get to grips with his new-fangled psychic abilities. Instead, he\u2019s on the run from \u2018The Man\u2019 for a crime he didn\u2019t commit. Can you help Ray out of this sticky situation? Get ready to tear it, rip it and Stick it to the Man!", 
+    "tags": [
+        1, 
+        27, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536870915, 
+        536870928, 
+        536871262, 
+        536871382, 
+        536871701, 
+        536871939, 
+        536872406, 
+        536872611, 
+        536872695, 
+        536872847, 
+        536872961, 
+        536874225, 
+        536874452, 
+        536875046, 
+        536875060, 
+        536875073, 
+        536875098, 
+        536875199, 
+        536875226, 
+        536875228, 
+        536875239, 
+        536875250, 
+        536875322, 
+        536875344, 
+        536875358, 
+        536875422, 
+        536875439, 
+        536875488, 
+        536875531, 
+        536875548, 
+        536875629, 
+        536875630, 
+        536875638, 
+        536875743, 
+        536875815, 
+        536875840, 
+        536875843, 
+        536876032, 
+        536876240, 
+        536876300, 
+        536876314, 
+        536876480, 
+        536876496, 
+        536876530, 
+        536876646, 
+        536876648, 
+        536876672, 
+        536876765, 
+        536876811, 
+        536877135, 
+        536877147, 
+        536877294, 
+        536877403, 
+        536877514, 
+        536877515, 
+        536877516, 
+        536877517, 
+        536877518, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 70.2680070718613, 
+    "total_rating_count": 20, 
+    "updated_at": 1528430738820, 
+    "url": "https://www.igdb.com/games/stick-it-to-the-man", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "p05R4xNkE74"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/251830"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.stickitgame.com"
+        }
+    ]
+}

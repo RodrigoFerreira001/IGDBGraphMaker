@@ -1,0 +1,127 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "owoi2dowxw68ttkmf6h2", 
+        "height": 1409, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/owoi2dowxw68ttkmf6h2.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1509267466249, 
+    "developers": [
+        392, 
+        1314
+    ], 
+    "first_release_date": 1250208000000, 
+    "franchise": 157, 
+    "franchises": [
+        157
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "genres": [
+        33
+    ], 
+    "id": 75095, 
+    "keywords": [
+        10890
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "onlinecoop": false, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "onlinecoop": false, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Toy Story Mania!", 
+    "platforms": [
+        6, 
+        39, 
+        9, 
+        12, 
+        5
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        66, 
+        426
+    ], 
+    "rating": 65.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1351555200000, 
+            "human": "2012-Oct-30", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1351555200000, 
+            "human": "2012-Oct-30", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1270771200000, 
+            "human": "2010-Apr-09", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1252972800000, 
+            "human": "2009-Sep-15", 
+            "m": 9, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1250208000000, 
+            "human": "2009-Aug-14", 
+            "m": 8, 
+            "platform": 39, 
+            "region": 2, 
+            "y": 2009
+        }
+    ], 
+    "slug": "toy-story-mania--1", 
+    "total_rating": 65.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1525370371874, 
+    "url": "https://www.igdb.com/games/toy-story-mania--1", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Toy_Story_Mania!_(video_game)"
+        }
+    ]
+}

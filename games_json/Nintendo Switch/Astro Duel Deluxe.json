@@ -1,0 +1,103 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "n626yplwxa48sygc8tgg", 
+        "height": 287, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/n626yplwxa48sygc8tgg.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1504268709933, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1496102400000, 
+    "games": [
+        68287, 
+        19448, 
+        36950, 
+        28029, 
+        142, 
+        20918, 
+        64204, 
+        19174, 
+        14364, 
+        27314
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 56030, 
+    "keywords": [
+        117, 
+        970, 
+        1025, 
+        4134
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 130, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Astro Duel Deluxe", 
+    "platforms": [
+        130
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1496102400000, 
+            "human": "2017-May-30", 
+            "m": 5, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hu4ddcamh1fmvjv5qbxz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hu4ddcamh1fmvjv5qbxz.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jemmdo8rq0pzcy9u7jhu", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jemmdo8rq0pzcy9u7jhu.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "d7meqvnyyiu99dfwkv4c", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d7meqvnyyiu99dfwkv4c.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "astro-duel-deluxe", 
+    "summary": "Multiplayer competitive spaceship shooting simulator.", 
+    "tags": [
+        18, 
+        268435461, 
+        536871029, 
+        536871882, 
+        536871937, 
+        536875046
+    ], 
+    "themes": [
+        18
+    ], 
+    "updated_at": 1518047732126, 
+    "url": "https://www.igdb.com/games/astro-duel-deluxe"
+}

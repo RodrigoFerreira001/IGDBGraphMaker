@@ -1,0 +1,163 @@
+{
+    "aggregated_rating": 25.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "sjypa25dittbh6nyskgs", 
+        "height": 1170, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sjypa25dittbh6nyskgs.jpg", 
+        "width": 1006
+    }, 
+    "created_at": 1469048751704, 
+    "external": {
+        "steam": "365750"
+    }, 
+    "first_release_date": 1441324800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        22690, 
+        73075, 
+        80239, 
+        77134, 
+        77083, 
+        68860, 
+        41585, 
+        17623, 
+        6239, 
+        54662
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 20861, 
+    "keywords": [
+        313, 
+        1166, 
+        4148
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Rugby World Cup 2015", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        48, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1460, 
+        1803
+    ], 
+    "rating": 75.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1441324800000, 
+            "human": "2015-Sep-04", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1441324800000, 
+            "human": "2015-Sep-04", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1441324800000, 
+            "human": "2015-Sep-04", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1441324800000, 
+            "human": "2015-Sep-04", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ea8yinol4upaxntibs77", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ea8yinol4upaxntibs77.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ysz2dcqjptrpwj9btc4y", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ysz2dcqjptrpwj9btc4y.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lfsavjfqrrstpogvnywr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lfsavjfqrrstpogvnywr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qwq847jbm1xvz02sx3xx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qwq847jbm1xvz02sx3xx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zuuumc5tc0kijuqipmar", 
+            "height": 255, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zuuumc5tc0kijuqipmar.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "rugby-world-cup-2015", 
+    "summary": "Experience the passion of rugby in the official 2015 Rugby World Cup video game. Choose from among the 20 teams competing in the World Cup and take part in the most prestigious rugby competition to win the Webb Ellis Cup.", 
+    "tags": [
+        268435470, 
+        536871225, 
+        536872078, 
+        536875060
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1523419168386, 
+    "url": "https://www.igdb.com/games/rugby-world-cup-2015", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/365750"
+        }
+    ]
+}

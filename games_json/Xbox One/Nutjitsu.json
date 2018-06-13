@@ -1,0 +1,115 @@
+{
+    "aggregated_rating": 40.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "imxc3uomhuhaz8st2015", 
+        "height": 489, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/imxc3uomhuhaz8st2015.jpg", 
+        "width": 409
+    }, 
+    "created_at": 1467971667498, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1378771200000, 
+    "games": [
+        19934, 
+        19448, 
+        23330, 
+        19376, 
+        6732, 
+        22747, 
+        19174, 
+        76110, 
+        19290, 
+        3231
+    ], 
+    "id": 19966, 
+    "keywords": [
+        117, 
+        164, 
+        1293, 
+        2574, 
+        4134, 
+        4176, 
+        4510, 
+        5327, 
+        7303
+    ], 
+    "name": "Nutjitsu", 
+    "platforms": [
+        74, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1399507200000, 
+            "human": "2014-May-08", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1378771200000, 
+            "human": "2013-Sep-10", 
+            "m": 9, 
+            "platform": 74, 
+            "region": 2, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "voirk1beaf6vr3s9qn4y", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/voirk1beaf6vr3s9qn4y.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "sfuqmq0zxokp4jktqujz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sfuqmq0zxokp4jktqujz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kcftsahsqsww1bc2hmln", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kcftsahsqsww1bc2hmln.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bk4afmsmb2cvtuivg0yb", 
+            "height": 640, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bk4afmsmb2cvtuivg0yb.jpg", 
+            "width": 1138
+        }
+    ], 
+    "slug": "nutjitsu", 
+    "summary": "Trace a safe route to help a ninja squirrel pick up power-ups and avoid enemies in a modern Pac-Man.", 
+    "tags": [
+        1, 
+        536871029, 
+        536871076, 
+        536872205, 
+        536873486, 
+        536875046, 
+        536875088, 
+        536875422, 
+        536876239, 
+        536878215
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1522069742767, 
+    "url": "https://www.igdb.com/games/nutjitsu"
+}

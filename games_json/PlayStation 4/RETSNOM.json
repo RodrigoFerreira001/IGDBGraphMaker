@@ -1,0 +1,139 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "cafyujcsetghafkn6sog", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cafyujcsetghafkn6sog.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1495818518668, 
+    "external": {
+        "steam": "382920"
+    }, 
+    "first_release_date": 1437609600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25222, 
+        25646, 
+        10039, 
+        34919, 
+        55752, 
+        16468, 
+        27266, 
+        51485, 
+        14047, 
+        26848
+    ], 
+    "genres": [
+        8, 
+        9, 
+        32
+    ], 
+    "id": 34946, 
+    "keywords": [
+        2049, 
+        2875
+    ], 
+    "name": "RETSNOM", 
+    "platforms": [
+        6, 
+        14, 
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        6319
+    ], 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1464048000000, 
+            "human": "2016-May-24", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1437609600000, 
+            "human": "2015-Jul-23", 
+            "m": 7, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1437609600000, 
+            "human": "2015-Jul-23", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "f6lsjkdh9xdfjtpadvyb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f6lsjkdh9xdfjtpadvyb.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "oh8couqfgxojdwn1lboi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oh8couqfgxojdwn1lboi.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "nps9mmtnmggntarsnofs", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nps9mmtnmggntarsnofs.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "s6eyxm74ywih8pqw9qsx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s6eyxm74ywih8pqw9qsx.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "hsrj6wcu0ozo8tdt4dll", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hsrj6wcu0ozo8tdt4dll.jpg", 
+            "width": 1919
+        }
+    ], 
+    "slug": "retsnom", 
+    "summary": "RETSNOM is an inventive pixel art puzzle platformer that allows player to break the map by mirroring sections of the level, and rearranging it on the fly to save a sick daughter.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435465, 
+        268435488, 
+        536872961, 
+        536873787
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523413811417, 
+    "url": "https://www.igdb.com/games/retsnom", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://somigames.com/retsnom/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/382920"
+        }
+    ]
+}

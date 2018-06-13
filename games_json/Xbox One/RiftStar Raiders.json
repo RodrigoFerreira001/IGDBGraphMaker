@@ -1,0 +1,184 @@
+{
+    "aggregated_rating": 68.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "dqttbytmdapyxsgdpfv8", 
+        "height": 1473, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dqttbytmdapyxsgdpfv8.jpg", 
+        "width": 1200
+    }, 
+    "created_at": 1486752177555, 
+    "developers": [
+        163
+    ], 
+    "external": {
+        "steam": "462630"
+    }, 
+    "first_release_date": 1519776000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        68287, 
+        27314, 
+        64204, 
+        25300, 
+        36950, 
+        28029, 
+        10039, 
+        25311, 
+        19448, 
+        75021
+    ], 
+    "genres": [
+        5, 
+        32
+    ], 
+    "id": 27103, 
+    "keywords": [
+        24, 
+        166, 
+        510, 
+        970, 
+        1235, 
+        1333, 
+        2030, 
+        4698, 
+        4699
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "RiftStar Raiders", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        11479
+    ], 
+    "pulse_count": 5, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1519776000000, 
+            "human": "2018-Feb-28", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qym4savotlc0uolsaxqt", 
+            "height": 416, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qym4savotlc0uolsaxqt.jpg", 
+            "width": 740
+        }
+    ], 
+    "slug": "riftstar-raiders", 
+    "summary": "A cooperative space shoot 'em up from Climax Studios", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435488, 
+        536870936, 
+        536871078, 
+        536871422, 
+        536871882, 
+        536872147, 
+        536872245, 
+        536872942, 
+        536875610, 
+        536875611, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 74.25, 
+    "total_rating_count": 2, 
+    "updated_at": 1523394744878, 
+    "url": "https://www.igdb.com/games/riftstar-raiders", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "UvOz10wGr48"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/462630"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/riftstarraiders"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/riftstarraiders"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/riftstarraiders"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://riftstarraiders.com/"
+        }
+    ]
+}

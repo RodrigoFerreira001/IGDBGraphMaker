@@ -1,0 +1,251 @@
+{
+    "aggregated_rating": 77.375, 
+    "aggregated_rating_count": 8, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "EVE: Valkyrie - Warzone"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "EVE VR"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "EVE-VR"
+        }
+    ], 
+    "category": 0, 
+    "collection": 288, 
+    "cover": {
+        "cloudinary_id": "hccdz14zszlce8lambln", 
+        "height": 2112, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hccdz14zszlce8lambln.jpg", 
+        "width": 4000
+    }, 
+    "created_at": 1427414409724, 
+    "developers": [
+        853
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "538870"
+    }, 
+    "first_release_date": 1459123200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        11253, 
+        7336, 
+        19301, 
+        19448, 
+        19519, 
+        25311, 
+        23212, 
+        11156, 
+        25300, 
+        68287
+    ], 
+    "genres": [
+        13
+    ], 
+    "hypes": 2, 
+    "id": 9267, 
+    "keywords": [
+        56, 
+        103, 
+        970, 
+        992, 
+        1058, 
+        1425, 
+        4131, 
+        4222, 
+        4234, 
+        4400, 
+        4439, 
+        4768, 
+        4883, 
+        5333, 
+        5334, 
+        5335, 
+        5336, 
+        5337, 
+        14051, 
+        14052, 
+        14081
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "EVE: Valkyrie", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        1, 
+        7
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        853
+    ], 
+    "pulse_count": 39, 
+    "rating": 60.1197536689766, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1459123200000, 
+            "human": "2016-Mar-28", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476316800000, 
+            "human": "2016-Oct-13", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476316800000, 
+            "human": "2016-Oct-13", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459209600000, 
+            "human": "2016-Mar-29", 
+            "m": 3, 
+            "platform": 6, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476316800000, 
+            "human": "2016-Oct-13", 
+            "m": 10, 
+            "platform": 48, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tiqszw3feiw3fqtb7pyq", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tiqszw3feiw3fqtb7pyq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hjqkqwsu5z8qopabjslo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hjqkqwsu5z8qopabjslo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "t0k5d3sorwrobjz3dbos", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t0k5d3sorwrobjz3dbos.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "limrlyovnlnawcpjfghl", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/limrlyovnlnawcpjfghl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fzkishoeqruiecd8mqwt", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fzkishoeqruiecd8mqwt.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "eve-valkyrie", 
+    "summary": "In EVE: Valkyrie, you are in command of a heavily armed fighter in the most realistic dogfighting game available on any platform. Immersive VR technology puts you right in the cockpit for visceral team-based action.\n\nEVE: Valkyrie is an a multiplayer dogfighting shooter that has been built from the ground up to harness the very latest advances in virtual reality technology. It is an accessible and immersive experience that fulfills the fantasy and thrill of being a real spaceship pilot in the midst of combat. \n\nSet deep in the lawless regions of the EVE Universe, the Valkyrie are a breakaway mercenary faction formed from the infamous Guristas pirate organization. Led by the enigmatic Ran, they are guns for hire, seeking profit or vengeance and preying on other pirate factions who get in their way. \n\nImmortalized via the use of stolen clone technology and genetically enhanced for combat, Valkyrie pilots fly without fear and without mercy. Developed by CCP Games\u2019 Newcastle studio, EVE: Valkyrie is the boldest realization of virtual reality space combat, combining immediate visceral action and tactical depth. It will launch day and date with the Oculus Rift on PC and Sony\u2019s \u201cProject Morpheus\u201d on PlayStation 4.", 
+    "tags": [
+        1, 
+        18, 
+        268435469, 
+        536870968, 
+        536871015, 
+        536871882, 
+        536871904, 
+        536871970, 
+        536872337, 
+        536875043, 
+        536875134, 
+        536875146, 
+        536875312, 
+        536875351, 
+        536875680, 
+        536875795, 
+        536876245, 
+        536876246, 
+        536876247, 
+        536876248, 
+        536876249, 
+        536884963, 
+        536884964, 
+        536884993, 
+        1073741825, 
+        1073741831
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 68.7473768344883, 
+    "total_rating_count": 12, 
+    "updated_at": 1520936526587, 
+    "url": "https://www.igdb.com/games/eve-valkyrie", 
+    "videos": [
+        {
+            "name": "Fanfest 2015 Gameplay Trailer", 
+            "video_id": "IB9foPNK3WE"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "88T9Pcm1LEo"
+        }, 
+        {
+            "name": "PSVR Launch Trailer", 
+            "video_id": "_LPfk6G1PEw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/538870"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.evevalkyrie.com/"
+        }
+    ]
+}

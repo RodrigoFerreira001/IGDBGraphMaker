@@ -1,0 +1,83 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ebagvbeo8zsf4kailiac", 
+        "height": 422, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ebagvbeo8zsf4kailiac.jpg", 
+        "width": 325
+    }, 
+    "created_at": 1498466659542, 
+    "first_release_date": 305769600000, 
+    "games": [
+        68287, 
+        10209, 
+        36950, 
+        28029, 
+        64204, 
+        10213, 
+        27314, 
+        71455, 
+        10210, 
+        26766
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 39990, 
+    "keywords": [
+        166, 
+        970, 
+        1739, 
+        2962
+    ], 
+    "name": "Galaxy Wars", 
+    "platforms": [
+        52, 
+        19
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 789955200000, 
+            "human": "1995-Jan-13", 
+            "m": 1, 
+            "platform": 19, 
+            "region": 5, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 315446400000, 
+            "human": "1979-Dec-31", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1979
+        }, 
+        {
+            "category": 0, 
+            "date": 305769600000, 
+            "human": "1979-Sep-10", 
+            "m": 9, 
+            "platform": 52, 
+            "region": 8, 
+            "y": 1979
+        }
+    ], 
+    "slug": "galaxy-wars", 
+    "summary": "The aim of this arcade game is to launch missiles from the bottom of the screen at enemy spacecraft located at the top. To get there, the missile must pass through a asteroid belt flying across the screen and avoid the shots being fired down from the spacecraft. It is the players job to control the missile. Once launched it can be moved left and right and can be sped up by using the boost to speed it's way out of trouble. Points scored depend on the location of the hit on the enemy spacecraft. The speed at which enemy spacecraft move increases as the number of them decreases. Once all spacecraft have been destroyed, another wave starts, the speed decreases again and the process repeats. A life is lost when a missile is hit by a shot or collides with an asteroid.", 
+    "tags": [
+        18, 
+        268435461, 
+        536871078, 
+        536871882, 
+        536872651, 
+        536873874
+    ], 
+    "themes": [
+        18
+    ], 
+    "updated_at": 1516641415326, 
+    "url": "https://www.igdb.com/games/galaxy-wars"
+}

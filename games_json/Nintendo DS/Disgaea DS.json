@@ -1,0 +1,111 @@
+{
+    "aggregated_rating": 78.3333333333333, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jruhcdfyk7aio5apnry0", 
+        "height": 691, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jruhcdfyk7aio5apnry0.jpg", 
+        "width": 769
+    }, 
+    "created_at": 1469234778064, 
+    "first_release_date": 1222128000000, 
+    "games": [
+        75813, 
+        5613, 
+        49414, 
+        25636, 
+        25311, 
+        75398, 
+        18811, 
+        36608, 
+        74929, 
+        21842
+    ], 
+    "genres": [
+        12, 
+        15
+    ], 
+    "id": 21056, 
+    "name": "Disgaea DS", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        630
+    ], 
+    "rating": 80.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1238716800000, 
+            "human": "2009-Apr-03", 
+            "m": 4, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1222128000000, 
+            "human": "2008-Sep-23", 
+            "m": 9, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1224720000000, 
+            "human": "2008-Oct-23", 
+            "m": 10, 
+            "platform": 20, 
+            "region": 8, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lvxohppaplgkh3dzxovr", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lvxohppaplgkh3dzxovr.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "jwuhpepea8mplxhksne8", 
+            "height": 400, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jwuhpepea8mplxhksne8.jpg", 
+            "width": 265
+        }, 
+        {
+            "cloudinary_id": "y3ew2ghvhqcmygwjkqps", 
+            "height": 385, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y3ew2ghvhqcmygwjkqps.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "yyberqini5lbnvanzp9d", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yyberqini5lbnvanzp9d.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "disgaea-ds", 
+    "summary": "Players will initially take on the role of Overlord Laharl, a young demon prince who has just woken from a two-year long nap and finds out that his father, who was the king, has passed away. In order to regain his rightful title as King of the Netherworld, Laharl sets off on a demonic adventure, but must do so with a back stabbing servant, love stupid angel, and a few disgruntled penguins who are looking for trouble.", 
+    "tags": [
+        268435468, 
+        268435471
+    ], 
+    "total_rating": 79.16666666666666, 
+    "total_rating_count": 5, 
+    "updated_at": 1518055882336, 
+    "url": "https://www.igdb.com/games/disgaea-ds", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Disgaea:_Hour_of_Darkness#Disgaea_DS"
+        }
+    ]
+}

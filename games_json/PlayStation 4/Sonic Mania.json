@@ -1,0 +1,393 @@
+{
+    "aggregated_rating": 85.4375, 
+    "aggregated_rating_count": 18, 
+    "artworks": [
+        {
+            "cloudinary_id": "qz6ybkhps8dtftcrkrqf", 
+            "height": 5000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qz6ybkhps8dtftcrkrqf.jpg", 
+            "width": 4500
+        }
+    ], 
+    "category": 0, 
+    "collection": 93, 
+    "cover": {
+        "cloudinary_id": "qavktsdb3cbevkcv4ich", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qavktsdb3cbevkcv4ich.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1469241482165, 
+    "developers": [
+        10426, 
+        4468, 
+        11925
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is an action-platformer in which players assume the role of Sonic as he zooms around colorful \u201czones\u201d and attempts to defeat Dr. Eggman. As players run and jump through whimsical environments, they can jump on enemies' heads, causing them to transform into small woodland creatures. Boss battles sometimes depict characters shooting \"cartoony\" bombs and/or oversized missles; Sonic reacts to damage by losing coin-like rings and falling off the screen when defeated."
+    }, 
+    "external": {
+        "steam": "584400"
+    }, 
+    "first_release_date": 1502755200000, 
+    "franchise": 814, 
+    "franchises": [
+        814
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        36926, 
+        55752, 
+        21063, 
+        18822, 
+        36868, 
+        6732, 
+        26192, 
+        19560, 
+        7344, 
+        27421
+    ], 
+    "genres": [
+        8, 
+        31
+    ], 
+    "hypes": 36, 
+    "id": 21062, 
+    "keywords": [
+        296, 
+        612, 
+        1158, 
+        1186, 
+        1293, 
+        1705, 
+        2049, 
+        2071, 
+        3486, 
+        3794, 
+        4134, 
+        4161, 
+        4162, 
+        4163, 
+        4169, 
+        4176, 
+        4178, 
+        4224, 
+        4297, 
+        4347, 
+        4457, 
+        4458, 
+        4459, 
+        4465, 
+        4529, 
+        4541, 
+        4768, 
+        4882, 
+        5962, 
+        6818, 
+        7550, 
+        8207, 
+        8950, 
+        8951, 
+        12087, 
+        12088, 
+        12556
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Sonic Mania", 
+    "platforms": [
+        6, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 19.33333333333333, 
+    "pulse_count": 270, 
+    "rating": 86.78566341509709, 
+    "rating_count": 28, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1502755200000, 
+            "human": "2017-Aug-15", 
+            "m": 8, 
+            "platform": 130, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1502755200000, 
+            "human": "2017-Aug-15", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1502755200000, 
+            "human": "2017-Aug-15", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1502755200000, 
+            "human": "2017-Aug-15", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1502841600000, 
+            "human": "2017-Aug-16", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1502841600000, 
+            "human": "2017-Aug-16", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1502755200000, 
+            "human": "2017-Aug-15", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1502755200000, 
+            "human": "2017-Aug-15", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1502755200000, 
+            "human": "2017-Aug-15", 
+            "m": 8, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "stgmwqtzvxvrtymf86ga", 
+            "height": 427, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/stgmwqtzvxvrtymf86ga.jpg", 
+            "width": 754
+        }, 
+        {
+            "cloudinary_id": "dpf3dr7duvhkt9warpoc", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dpf3dr7duvhkt9warpoc.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "hrlnmlkdj5faavgcigf7", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hrlnmlkdj5faavgcigf7.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "suykeahdvzfrgjqnrndy", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/suykeahdvzfrgjqnrndy.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "daakezo5qyyfhdgzl3ih", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/daakezo5qyyfhdgzl3ih.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "rgw7wfh67qk58tqg7pa6", 
+            "height": 427, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rgw7wfh67qk58tqg7pa6.jpg", 
+            "width": 754
+        }, 
+        {
+            "cloudinary_id": "amezckv4hzmxafamqrto", 
+            "height": 427, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/amezckv4hzmxafamqrto.jpg", 
+            "width": 754
+        }, 
+        {
+            "cloudinary_id": "bbv6mvi03oauekeknpha", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bbv6mvi03oauekeknpha.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "e8xlfiklewhjosqzrlx1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e8xlfiklewhjosqzrlx1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "iy88w4ap4k0uonfdf3rr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iy88w4ap4k0uonfdf3rr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "b9rzjgkddlu22xcrgw1u", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b9rzjgkddlu22xcrgw1u.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kittnvfded0posqedrxo", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kittnvfded0posqedrxo.jpg", 
+            "width": 848
+        }
+    ], 
+    "slug": "sonic-mania", 
+    "summary": "It's the ultimate Sonic celebration! Sonic returns in a new 2D platforming high speed adventure, and he's not alone! \n \nDeveloped in collaboration between SEGA, Christian Whitehead, Headcannon, and PagodaWest Games, experience new zones and remixed classic levels with Sonic, Tails, and Knuckles!", 
+    "tags": [
+        1, 
+        268435464, 
+        268435487, 
+        536871208, 
+        536871524, 
+        536872070, 
+        536872098, 
+        536872205, 
+        536872617, 
+        536872961, 
+        536872983, 
+        536874398, 
+        536874706, 
+        536875046, 
+        536875073, 
+        536875074, 
+        536875075, 
+        536875081, 
+        536875088, 
+        536875090, 
+        536875136, 
+        536875209, 
+        536875259, 
+        536875369, 
+        536875370, 
+        536875371, 
+        536875377, 
+        536875441, 
+        536875453, 
+        536875680, 
+        536875794, 
+        536876874, 
+        536877730, 
+        536878462, 
+        536879119, 
+        536879862, 
+        536879863, 
+        536882999, 
+        536883000, 
+        536883468, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 86.11158170754854, 
+    "total_rating_count": 46, 
+    "updated_at": 1528463511668, 
+    "url": "https://www.igdb.com/games/sonic-mania", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "NV84WqoWdJc"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "wvD8NZN9Zsg"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "KxmtYdEWVzo"
+        }, 
+        {
+            "name": "Interview", 
+            "video_id": "vzosxScKFQ4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.sonicthehedgehog.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/584400"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Sonic_Mania"
+        }
+    ]
+}

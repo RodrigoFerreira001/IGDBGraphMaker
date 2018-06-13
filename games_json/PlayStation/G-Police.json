@@ -1,0 +1,131 @@
+{
+    "category": 0, 
+    "collection": 1116, 
+    "cover": {
+        "cloudinary_id": "x3ixssycefl8rjgziny6", 
+        "height": 201, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/x3ixssycefl8rjgziny6.jpg", 
+        "width": 200
+    }, 
+    "created_at": 1418315558780, 
+    "developers": [
+        764
+    ], 
+    "first_release_date": 875577600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28029, 
+        19341, 
+        25311, 
+        68287, 
+        10209, 
+        28465, 
+        44242, 
+        36950, 
+        34919, 
+        10213
+    ], 
+    "genres": [
+        5, 
+        13
+    ], 
+    "id": 8305, 
+    "keywords": [
+        21
+    ], 
+    "name": "G-Police", 
+    "platforms": [
+        45, 
+        6, 
+        7
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        764
+    ], 
+    "pulse_count": 1, 
+    "rating": 69.5834130281756, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 875577600000, 
+            "human": "1997-Sep-30", 
+            "m": 9, 
+            "platform": 7, 
+            "region": 2, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 880848000000, 
+            "human": "1997-Nov-30", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 1195689600000, 
+            "human": "2007-Nov-22", 
+            "m": 11, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gbix3k3wum1qwph3chzs", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gbix3k3wum1qwph3chzs.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "mknijc387qzrkfthwhar", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mknijc387qzrkfthwhar.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "xtden8iv5wbwxwje954q", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xtden8iv5wbwxwje954q.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "mroqfs0srfs7offjjiku", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mroqfs0srfs7offjjiku.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "g-police", 
+    "summary": "G-Police is a combat flight simulator set in an hypothetical future, in which corporations lead space colonies. The player is Jeff Slater, a futuristic helicopter pilot which joins the G-Police to investigate his sister's death.", 
+    "tags": [
+        18, 
+        268435461, 
+        268435469, 
+        536870933, 
+        1073741826
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 69.5834130281756, 
+    "total_rating_count": 4, 
+    "updated_at": 1517270852459, 
+    "url": "https://www.igdb.com/games/g-police", 
+    "videos": [
+        {
+            "name": "Game intro", 
+            "video_id": "a4FrYesnQKY"
+        }
+    ]
+}

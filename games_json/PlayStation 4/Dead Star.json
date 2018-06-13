@@ -1,0 +1,203 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "zy1oi9edo9dupqnnzxvu", 
+        "height": 805, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zy1oi9edo9dupqnnzxvu.jpg", 
+        "width": 1432
+    }, 
+    "created_at": 1469956440422, 
+    "developers": [
+        3226
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1459814400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        25311, 
+        27314, 
+        68287, 
+        11253, 
+        25300, 
+        64204, 
+        36950, 
+        19934, 
+        9789, 
+        10039
+    ], 
+    "genres": [
+        5, 
+        11, 
+        15, 
+        32
+    ], 
+    "id": 21960, 
+    "keywords": [
+        148, 
+        970, 
+        974, 
+        1510, 
+        1623, 
+        1669, 
+        4283, 
+        4726, 
+        4796
+    ], 
+    "name": "Dead Star", 
+    "platforms": [
+        45, 
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        3226
+    ], 
+    "rating": 58.5473988720268, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1459814400000, 
+            "human": "2016-Apr-05", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459814400000, 
+            "human": "2016-Apr-05", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459814400000, 
+            "human": "2016-Apr-05", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459814400000, 
+            "human": "2016-Apr-05", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459814400000, 
+            "human": "2016-Apr-05", 
+            "m": 4, 
+            "platform": 48, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459814400000, 
+            "human": "2016-Apr-05", 
+            "m": 4, 
+            "platform": 6, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ybocuhnw8gnpco2t24eh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ybocuhnw8gnpco2t24eh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bys0nsat7c3xxuygripm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bys0nsat7c3xxuygripm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ivmqnjyhh2caccxscqxp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ivmqnjyhh2caccxscqxp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wkufzcxvakmyogqxeh7z", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wkufzcxvakmyogqxeh7z.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "bgl2pir5bu8uzdursaam", 
+            "height": 805, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bgl2pir5bu8uzdursaam.jpg", 
+            "width": 1432
+        }
+    ], 
+    "slug": "dead-star", 
+    "status": 5, 
+    "summary": "Combining the beauty of space combat and RPG elements, Dead Star excites with online multiplayer space shooting action. Earn loot and levels as you fight in procedurally generated battlefields to further customize your experience \u2013 including a massive warship used to invade live player matches.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435467, 
+        268435471, 
+        268435488, 
+        536871060, 
+        536871882, 
+        536871886, 
+        536872422, 
+        536872535, 
+        536872581, 
+        536875195, 
+        536875638, 
+        536875708, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 64.2736994360134, 
+    "total_rating_count": 6, 
+    "updated_at": 1517271007077, 
+    "url": "https://www.igdb.com/games/dead-star", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "UVrgtjIOS_Q"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://deadstargame.com/"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/DeadStarGame"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/DeadStarGame"
+        }
+    ]
+}

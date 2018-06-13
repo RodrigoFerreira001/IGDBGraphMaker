@@ -1,0 +1,153 @@
+{
+    "aggregated_rating": 66.0, 
+    "aggregated_rating_count": 3, 
+    "artworks": [
+        {
+            "cloudinary_id": "qbeoh1u4sns78dhzc9ul", 
+            "height": 830, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qbeoh1u4sns78dhzc9ul.jpg", 
+            "width": 580
+        }, 
+        {
+            "cloudinary_id": "gxtorqylus8iydtotc5i", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gxtorqylus8iydtotc5i.jpg", 
+            "width": 830
+        }, 
+        {
+            "cloudinary_id": "i3jcrq3i1dlxky8uxis8", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i3jcrq3i1dlxky8uxis8.jpg", 
+            "width": 830
+        }, 
+        {
+            "cloudinary_id": "trpr2czg8u23fo07kcdl", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/trpr2czg8u23fo07kcdl.jpg", 
+            "width": 830
+        }, 
+        {
+            "cloudinary_id": "sbzsb1vhrleqxagwy2hu", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sbzsb1vhrleqxagwy2hu.jpg", 
+            "width": 830
+        }, 
+        {
+            "cloudinary_id": "m1khp2zu8knjgsyd05up", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m1khp2zu8knjgsyd05up.jpg", 
+            "width": 830
+        }, 
+        {
+            "cloudinary_id": "gces0pfsznewyeicvkji", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gces0pfsznewyeicvkji.jpg", 
+            "width": 830
+        }, 
+        {
+            "cloudinary_id": "fipvfoigxm62nwdapqqr", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fipvfoigxm62nwdapqqr.jpg", 
+            "width": 830
+        }, 
+        {
+            "cloudinary_id": "zdtebcedbvfy2zajrtpi", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zdtebcedbvfy2zajrtpi.jpg", 
+            "width": 830
+        }, 
+        {
+            "cloudinary_id": "ap78xzcxe85i1jjnnoac", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ap78xzcxe85i1jjnnoac.jpg", 
+            "width": 830
+        }, 
+        {
+            "cloudinary_id": "x0uyfaahlz1wj9btn5qp", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x0uyfaahlz1wj9btn5qp.jpg", 
+            "width": 830
+        }
+    ], 
+    "category": 0, 
+    "collection": 1828, 
+    "cover": {
+        "cloudinary_id": "seucctbj7bioomrdmfhw", 
+        "height": 1933, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/seucctbj7bioomrdmfhw.jpg", 
+        "width": 1505
+    }, 
+    "created_at": 1446580021382, 
+    "first_release_date": 1127174400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        16468, 
+        1221, 
+        37088, 
+        59516, 
+        55289, 
+        47823, 
+        20048, 
+        36792, 
+        28010, 
+        24048
+    ], 
+    "genres": [
+        12, 
+        25, 
+        31
+    ], 
+    "id": 14407, 
+    "name": "Genji: Dawn of the Samurai", 
+    "platforms": [
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.333333333333333, 
+    "rating": 70.00697359356779, 
+    "rating_count": 5, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1127174400000, 
+            "human": "2005-Sep-20", 
+            "m": 9, 
+            "platform": 8, 
+            "y": 2005
+        }
+    ], 
+    "slug": "genji-dawn-of-the-samurai", 
+    "summary": "It is 1159 AD, and a brutal samurai clan called The Heishi have stepped in to take power after the old nobility fell. With their mystical stones, they rule the land through fear and violence.", 
+    "tags": [
+        1, 
+        17, 
+        268435468, 
+        268435481, 
+        268435487, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 68.0034867967839, 
+    "total_rating_count": 8, 
+    "updated_at": 1528339417515, 
+    "url": "https://www.igdb.com/games/genji-dawn-of-the-samurai", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "n-IGjmMTAvM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Genji:_Dawn_of_the_Samurai"
+        }
+    ]
+}

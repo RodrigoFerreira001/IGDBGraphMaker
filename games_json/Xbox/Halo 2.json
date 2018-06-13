@@ -1,0 +1,310 @@
+{
+    "aggregated_rating": 80.6666666666667, 
+    "aggregated_rating_count": 7, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "H2"
+        }, 
+        {
+            "comment": "Chinese title", 
+            "name": "\u5149\u66552"
+        }
+    ], 
+    "category": 0, 
+    "collection": 173, 
+    "cover": {
+        "cloudinary_id": "hv6gclrb8efa2xs7vbjr", 
+        "height": 600, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hv6gclrb8efa2xs7vbjr.jpg", 
+        "width": 485
+    }, 
+    "created_at": 1322493231000, 
+    "developers": [
+        620
+    ], 
+    "dlcs": [
+        3122
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 1099958400000, 
+    "franchise": 137, 
+    "franchises": [
+        137
+    ], 
+    "game_engines": [
+        17
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        68287, 
+        991, 
+        27314, 
+        673, 
+        73, 
+        36950, 
+        1595, 
+        142, 
+        26766, 
+        25657
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 986, 
+    "keywords": [
+        3, 
+        453, 
+        466, 
+        872, 
+        923, 
+        970, 
+        1025, 
+        1898, 
+        2071, 
+        4907, 
+        4918, 
+        5022, 
+        5264, 
+        5323, 
+        5897, 
+        6075, 
+        6137, 
+        6320, 
+        6342, 
+        6346, 
+        6716, 
+        8144, 
+        9008, 
+        9497, 
+        9904, 
+        10073, 
+        10606, 
+        10614, 
+        10632, 
+        10646, 
+        10653
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 11, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Halo 2", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence."
+    }, 
+    "platforms": [
+        6, 
+        11
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 5.333333333333333, 
+    "publishers": [
+        53
+    ], 
+    "rating": 83.0449507599859, 
+    "rating_count": 167, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1099958400000, 
+            "human": "2004-Nov-09", 
+            "m": 11, 
+            "platform": 11, 
+            "region": 2, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1100131200000, 
+            "human": "2004-Nov-11", 
+            "m": 11, 
+            "platform": 11, 
+            "region": 5, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1100131200000, 
+            "human": "2004-Nov-11", 
+            "m": 11, 
+            "platform": 11, 
+            "region": 1, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1099958400000, 
+            "human": "2004-Nov-09", 
+            "m": 11, 
+            "platform": 11, 
+            "region": 3, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1099958400000, 
+            "human": "2004-Nov-09", 
+            "m": 11, 
+            "platform": 11, 
+            "region": 4, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1180569600000, 
+            "human": "2007-May-31", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1181260800000, 
+            "human": "2007-Jun-08", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182384000000, 
+            "human": "2007-Jun-21", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "b17my1yma83aotndxzmt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b17my1yma83aotndxzmt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ppkhu9pegv8hoabn9y6j", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ppkhu9pegv8hoabn9y6j.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fvacs3rdihmf3khuyalg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvacs3rdihmf3khuyalg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ywej5ml7zsj7w5kyezyb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ywej5ml7zsj7w5kyezyb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "r1kykziqlujrd5lfv4yu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r1kykziqlujrd5lfv4yu.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "halo-2", 
+    "summary": "Halo 2 is the sequel to the highly successful and critically acclaimed Halo: Combat Evolved. In Halo 2, the saga continues as Master Chief\u2014a genetically enhanced super-soldier\u2014is the only thing standing between the relentless Covenant and the destruction of all humankind.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        536870915, 
+        536871365, 
+        536871378, 
+        536871784, 
+        536871835, 
+        536871882, 
+        536871937, 
+        536872810, 
+        536872983, 
+        536875819, 
+        536875830, 
+        536875934, 
+        536876176, 
+        536876235, 
+        536876809, 
+        536876987, 
+        536877049, 
+        536877232, 
+        536877254, 
+        536877258, 
+        536877628, 
+        536879056, 
+        536879920, 
+        536880409, 
+        536880816, 
+        536880985, 
+        536881518, 
+        536881526, 
+        536881544, 
+        536881558, 
+        536881565, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "time_to_beat": {
+        "hastly": 35520
+    }, 
+    "total_rating": 81.8558087133263, 
+    "total_rating_count": 174, 
+    "updated_at": 1528606097275, 
+    "url": "https://www.igdb.com/games/halo-2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "fkCgDIhUJmQ"
+        }, 
+        {
+            "name": "Game intro", 
+            "video_id": "XFKoLeOXEDc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://www.halo.wikia.com/\u200e"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.halowaypoint.com/en-us/games/halo-2/xbox"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Halo_2"
+        }
+    ]
+}

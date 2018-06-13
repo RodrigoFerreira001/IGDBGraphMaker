@@ -1,0 +1,48 @@
+{
+    "aggregated_rating": 62.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "created_at": 1474575832916, 
+    "first_release_date": 1099526400000, 
+    "id": 24332, 
+    "name": "Inferno Pool", 
+    "platforms": [
+        6, 
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1243468800000, 
+            "human": "2009-May-28", 
+            "m": 5, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1256774400000, 
+            "human": "2009-Oct-29", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1099526400000, 
+            "human": "2004-Nov-04", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2004
+        }
+    ], 
+    "slug": "inferno-pool", 
+    "total_rating": 62.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1528891947388, 
+    "url": "https://www.igdb.com/games/inferno-pool"
+}

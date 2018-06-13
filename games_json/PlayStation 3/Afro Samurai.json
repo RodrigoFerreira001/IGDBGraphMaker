@@ -1,0 +1,304 @@
+{
+    "aggregated_rating": 62.8, 
+    "aggregated_rating_count": 7, 
+    "artworks": [
+        {
+            "cloudinary_id": "ztwtqe2376u3zpdpv0rw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ztwtqe2376u3zpdpv0rw.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "aqwcrcu22jzzpuupmymw", 
+            "height": 700, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aqwcrcu22jzzpuupmymw.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "zguigygbqu5kdmgxj8dd", 
+            "height": 700, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zguigygbqu5kdmgxj8dd.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "ewcqyseayc9kpg202tqw", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ewcqyseayc9kpg202tqw.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "mk7ic13uemc3wg1ohkxm", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mk7ic13uemc3wg1ohkxm.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "mvhjufdvt1eai76uwwu9", 
+            "height": 650, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mvhjufdvt1eai76uwwu9.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "ikmgq2msmqmtsyzqpah3", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ikmgq2msmqmtsyzqpah3.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "q9yhfqvv7i7wuimu25fo", 
+            "height": 780, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q9yhfqvv7i7wuimu25fo.jpg", 
+            "width": 900
+        }
+    ], 
+    "category": 0, 
+    "collection": 3878, 
+    "cover": {
+        "cloudinary_id": "mffas5byojg9g1hhd3z1", 
+        "height": 307, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mffas5byojg9g1hhd3z1.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1393624256568, 
+    "developers": [
+        248
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1233014400000, 
+    "franchise": 363, 
+    "franchises": [
+        363
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        7100, 
+        51464, 
+        12571, 
+        36911, 
+        6958, 
+        7329, 
+        2558, 
+        11059, 
+        27421, 
+        5503
+    ], 
+    "genres": [
+        25
+    ], 
+    "id": 5478, 
+    "keywords": [
+        61, 
+        78, 
+        129, 
+        164, 
+        227, 
+        253, 
+        575, 
+        982, 
+        1033, 
+        1293, 
+        1309, 
+        1675, 
+        1961, 
+        2155, 
+        2679, 
+        4141, 
+        4142, 
+        4161, 
+        4166, 
+        4169, 
+        4345, 
+        4359, 
+        4379, 
+        4392, 
+        4508, 
+        4541, 
+        4574, 
+        4614, 
+        4615, 
+        4891, 
+        4893, 
+        4968, 
+        4999, 
+        5331, 
+        5404, 
+        5443, 
+        5520, 
+        5594, 
+        6370, 
+        6537, 
+        6892, 
+        7152, 
+        7171, 
+        8196, 
+        8280, 
+        8790, 
+        9015, 
+        9447, 
+        9936, 
+        11311, 
+        13076, 
+        13477, 
+        13574
+    ], 
+    "name": "Afro Samurai", 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        2432
+    ], 
+    "rating": 80.0, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1238112000000, 
+            "human": "2009-Mar-27", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1233014400000, 
+            "human": "2009-Jan-27", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1233014400000, 
+            "human": "2009-Jan-27", 
+            "m": 1, 
+            "platform": 12, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1233014400000, 
+            "human": "2009-Jan-27", 
+            "m": 1, 
+            "platform": 9, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lr2jhi1w4aj5mzlc7kxa", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lr2jhi1w4aj5mzlc7kxa.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "tpscosihs25tkcxkv0nu", 
+            "height": 520, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tpscosihs25tkcxkv0nu.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "jsulabzroaeolluo3mod", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jsulabzroaeolluo3mod.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "eq90davmplwx3o2vbqhc", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eq90davmplwx3o2vbqhc.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "afro-samurai", 
+    "storyline": "Gianluca's cousin said that the one who becomes \"Number One\" will rule the world, wielding powers akin to a god. Someone becomes Number One by killing the previous Number One and taking his ceremonial headband. However, only the \"Number Two\" is allowed to challenge the Number One. Because of this, few people ever reach the Number One because the Number Two headband is constantly changing owners. Afro's father was the old Number One, until he was brutally killed by a gunman named Justice, an event witnessed by Afro as a child. Now an adult, Afro Samurai is the current Number Two and a master swordsman; he travels the road seeking revenge on Justice. Lengthy flashbacks interspersed throughout the story detail how Afro rose from frightened boy fleeing the death of his father, to master swordsman, and eventually to become the current \"Number Two\", while the story in the present deals with the adult Afro making his way to the mountain top keep of the \"Number One\" to duel Justice, while at the same time the mysterious cult known as the Empty Seven Clan sends various agents to kill Afro and take his Number Two headband.", 
+    "summary": "Afro Samurai is a 3D brawler with platforming elements loosely based on the manga and anime series of the same name. Using light hits, power hits, kicks, and blocks the player fights various enemies. Most levels culminate in a boss fight, and in-engine cutscenes advance the story.\n\nThe game features a cel-shaded animation style. Though it is a hack and slash game, the \"fighting is a bit more strategic\" and the player will be able to block and use combos. The enemies will respond by rolling, ducking and hopping over the player's blade and occasionally using body orifices to catch the weapons, the combat system was worked on by Monty Oum.", 
+    "tags": [
+        1, 
+        268435481, 
+        536870973, 
+        536870990, 
+        536871041, 
+        536871076, 
+        536871139, 
+        536871165, 
+        536871487, 
+        536871894, 
+        536871945, 
+        536872205, 
+        536872221, 
+        536872587, 
+        536872873, 
+        536873067, 
+        536873591, 
+        536875053, 
+        536875054, 
+        536875073, 
+        536875078, 
+        536875081, 
+        536875257, 
+        536875271, 
+        536875291, 
+        536875304, 
+        536875420, 
+        536875453, 
+        536875486, 
+        536875526, 
+        536875527, 
+        536875803, 
+        536875805, 
+        536875880, 
+        536875911, 
+        536876243, 
+        536876316, 
+        536876355, 
+        536876432, 
+        536876506, 
+        536877282, 
+        536877449, 
+        536877804, 
+        536878064, 
+        536878083, 
+        536879108, 
+        536879192, 
+        536879702, 
+        536879927, 
+        536880359, 
+        536880848, 
+        536882223, 
+        536883988, 
+        536884389, 
+        536884486, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 71.4, 
+    "total_rating_count": 11, 
+    "updated_at": 1528606508591, 
+    "url": "https://www.igdb.com/games/afro-samurai", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "jYvXnsqe9Fc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://afrosamuraigame.com"
+        }
+    ]
+}

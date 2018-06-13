@@ -1,0 +1,106 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Acronym", 
+            "name": "EDF5"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u5730\u7403\u9632\u885b\u8ecd5"
+        }
+    ], 
+    "category": 0, 
+    "collection": 818, 
+    "cover": {
+        "cloudinary_id": "uubmmqkvqvoavvdv95jz", 
+        "height": 720, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uubmmqkvqvoavvdv95jz.jpg", 
+        "width": 1280
+    }, 
+    "created_at": 1487469513590, 
+    "developers": [
+        2481
+    ], 
+    "first_release_date": 1512604800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        103281, 
+        103298, 
+        28029, 
+        103292, 
+        103020, 
+        103301, 
+        90099, 
+        76722, 
+        27011, 
+        68287
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 27283, 
+    "name": "Earth Defense Force 5", 
+    "platforms": [
+        48
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        449
+    ], 
+    "pulse_count": 47, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1512604800000, 
+            "human": "2017-Dec-07", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2017
+        }
+    ], 
+    "slug": "earth-defense-force-5", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "updated_at": 1528886199887, 
+    "url": "https://www.igdb.com/games/earth-defense-force-5", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "RuK98esVcNQ"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "AUWHIy9pR9s"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 5, 
+            "url": "https://twitter.com/EDF_OFFICIAL"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://theearthdefenseforce.wikia.com/wiki/Earth_Defense_Force_5"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.d3p.co.jp/edf5/"
+        }
+    ]
+}

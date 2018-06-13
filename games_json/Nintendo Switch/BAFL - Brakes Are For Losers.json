@@ -1,0 +1,154 @@
+{
+    "aggregated_rating": 69.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "szxrqetvfqwb796glkrd", 
+        "height": 353, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/szxrqetvfqwb796glkrd.jpg", 
+        "width": 616
+    }, 
+    "created_at": 1499435425486, 
+    "developers": [
+        15233
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "573070"
+    }, 
+    "first_release_date": 1508284800000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        23314, 
+        71594, 
+        18699, 
+        102053, 
+        95095, 
+        91087, 
+        89137, 
+        88819, 
+        88760, 
+        87729
+    ], 
+    "genres": [
+        10, 
+        33
+    ], 
+    "id": 44740, 
+    "name": "BAFL - Brakes Are For Losers", 
+    "platforms": [
+        6, 
+        14, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        1460, 
+        12404
+    ], 
+    "pulse_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1524096000000, 
+            "human": "2018-Apr-19", 
+            "m": 4, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1508284800000, 
+            "human": "2017-Oct-18", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1508284800000, 
+            "human": "2017-Oct-18", 
+            "m": 10, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1508284800000, 
+            "human": "2017-Oct-18", 
+            "m": 10, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "eufu3ac4hawonfaenzrm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eufu3ac4hawonfaenzrm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kckh1pe6hehdkfti1qls", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kckh1pe6hehdkfti1qls.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "y5m5ir51zr9txjnqlmwm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y5m5ir51zr9txjnqlmwm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "frny3x5m2klzlfnwvpkn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/frny3x5m2klzlfnwvpkn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "txcg924ktbhzp82goibe", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/txcg924ktbhzp82goibe.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "bafl-brakes-are-for-losers", 
+    "summary": "BAFL is a tribute to Old School Arcade Racing Games such as Super Sprint or Indy Heat. It offers challenging solo and multiplayer fun for up to 8 players.", 
+    "tags": [
+        40, 
+        268435466, 
+        268435489, 
+        1073741827
+    ], 
+    "themes": [
+        40
+    ], 
+    "total_rating": 69.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1524832323808, 
+    "url": "https://www.igdb.com/games/bafl-brakes-are-for-losers", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.bafl-game.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/573070"
+        }
+    ]
+}

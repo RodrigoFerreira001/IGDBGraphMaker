@@ -1,0 +1,64 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "fmaij4yopcubladtd6p9", 
+        "height": 689, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fmaij4yopcubladtd6p9.jpg", 
+        "width": 689
+    }, 
+    "created_at": 1517338218280, 
+    "first_release_date": 1373500800000, 
+    "id": 84714, 
+    "name": "My Farm 3D", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        1803
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1375315200000, 
+            "human": "2013-Aug-01", 
+            "m": 8, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1373500800000, 
+            "human": "2013-Jul-11", 
+            "m": 7, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "uh4dibsnk9qnnby2sygx", 
+            "height": 258, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uh4dibsnk9qnnby2sygx.jpg", 
+            "width": 429
+        }, 
+        {
+            "cloudinary_id": "wyw8kvt2nvtjbubbxdoq", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wyw8kvt2nvtjbubbxdoq.jpg", 
+            "width": 343
+        }
+    ], 
+    "slug": "my-farm-3d", 
+    "summary": "Calves, cows, pigs, poultry... make your farm prosper like a real farmer!", 
+    "updated_at": 1518074302694, 
+    "url": "https://www.igdb.com/games/my-farm-3d", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.myfarm3d.com"
+        }
+    ]
+}

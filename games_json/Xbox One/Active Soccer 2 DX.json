@@ -1,0 +1,122 @@
+{
+    "aggregated_rating": 30.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "rpauvzkoyxxixhyqxk9t", 
+        "height": 294, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rpauvzkoyxxixhyqxk9t.jpg", 
+        "width": 215
+    }, 
+    "created_at": 1469302743257, 
+    "first_release_date": 1459296000000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        27081, 
+        10121, 
+        19376, 
+        54662, 
+        19290, 
+        15851, 
+        19934, 
+        62980, 
+        58469, 
+        48305
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 21323, 
+    "keywords": [
+        26, 
+        117, 
+        1166, 
+        4134, 
+        4521, 
+        5347
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 8, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Active Soccer 2 DX", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 50.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1459296000000, 
+            "human": "2016-Mar-30", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "i35qgkhrvrzv6xzbxsyt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i35qgkhrvrzv6xzbxsyt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cxzxzmnlyjnpjvqncxvb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cxzxzmnlyjnpjvqncxvb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "s8j1mkjtayf2spcazz4w", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s8j1mkjtayf2spcazz4w.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nkp8hbw3e7c7nswsf7bv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nkp8hbw3e7c7nswsf7bv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "smmdwmxl7iuzaksoxpzb", 
+            "height": 640, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/smmdwmxl7iuzaksoxpzb.jpg", 
+            "width": 1138
+        }
+    ], 
+    "slug": "active-soccer-2-dx", 
+    "summary": "An indie soccer game.", 
+    "tags": [
+        268435470, 
+        536870938, 
+        536871029, 
+        536872078, 
+        536875046, 
+        536875433, 
+        536876259
+    ], 
+    "total_rating": 40.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1526725761114, 
+    "url": "https://www.igdb.com/games/active-soccer-2-dx"
+}

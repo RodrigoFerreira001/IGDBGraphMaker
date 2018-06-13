@@ -1,0 +1,138 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "oosumogkzgy8tlylyvbb", 
+        "height": 341, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/oosumogkzgy8tlylyvbb.jpg", 
+        "width": 291
+    }, 
+    "created_at": 1431258404731, 
+    "developers": [
+        6406
+    ], 
+    "first_release_date": 631065600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25646, 
+        48273, 
+        51485, 
+        36794, 
+        36608, 
+        34919, 
+        40971, 
+        12266, 
+        16468, 
+        37094
+    ], 
+    "genres": [
+        9, 
+        33
+    ], 
+    "id": 10208, 
+    "keywords": [
+        1395, 
+        4159
+    ], 
+    "name": "Blockout", 
+    "platforms": [
+        29, 
+        52, 
+        115, 
+        13, 
+        16, 
+        61
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        5464, 
+        1445
+    ], 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 8, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 52, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 16, 
+            "y": 1990
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 29
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 115, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 61, 
+            "y": 1990
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ht7jq7wqgj4ebipq5224", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ht7jq7wqgj4ebipq5224.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "bzyinoxmc1kqu6iasdfm", 
+            "height": 200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bzyinoxmc1kqu6iasdfm.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "ux77zvoi9m3xyxjjb3xp", 
+            "height": 200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ux77zvoi9m3xyxjjb3xp.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "blockout", 
+    "summary": "Blockout is a puzzle videogame, created in 1989 by Polish developer - California Dreams, designed by Aleksander Ustaszewski and Miros\u0142aw Zab\u0142ocki. The game is the logical extension of Tetris into the third dimension. In Tetris, the player manipulates a set of tetrominoes which fall into a two-dimensional pit (seen from the side). The aim is to solve a real-time packing problem by forming complete rows, which then disappear and score points. Poor play leads to incomplete rows, caused by inefficient arrangements of tiles; these rows do not disappear, giving the player progressively less space and less time to play subsequent pieces. \n\nSimilarly, in Blockout, the player manipulates a set of polycubes which fall into a three-dimensional pit (seen from above; the pieces appear in the foreground and fall away). The pieces can be rotated around all three axes, and moved horizontally and vertically. The aim is to form complete layers.", 
+    "tags": [
+        1, 
+        268435465, 
+        268435489, 
+        536872307, 
+        536875071, 
+        1073741825
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1515646859794, 
+    "url": "https://www.igdb.com/games/blockout"
+}

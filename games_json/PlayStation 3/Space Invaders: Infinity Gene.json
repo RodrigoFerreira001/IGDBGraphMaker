@@ -1,0 +1,75 @@
+{
+    "aggregated_rating": 77.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "created_at": 1472035389569, 
+    "first_release_date": 1284422400000, 
+    "games": [
+        103281, 
+        103298, 
+        103292, 
+        103301, 
+        103020, 
+        93794, 
+        83727, 
+        41258, 
+        83728, 
+        28029
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 22988, 
+    "name": "Space Invaders: Infinity Gene", 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1284508800000, 
+            "human": "2010-Sep-15", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1284508800000, 
+            "human": "2010-Sep-15", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1284422400000, 
+            "human": "2010-Sep-14", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1287100800000, 
+            "human": "2010-Oct-15", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2010
+        }
+    ], 
+    "slug": "space-invaders-infinity-gene", 
+    "tags": [
+        268435461
+    ], 
+    "total_rating": 77.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1528654170896, 
+    "url": "https://www.igdb.com/games/space-invaders-infinity-gene"
+}

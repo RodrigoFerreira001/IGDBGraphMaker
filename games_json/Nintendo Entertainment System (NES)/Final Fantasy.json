@@ -1,0 +1,161 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 39, 
+    "cover": {
+        "cloudinary_id": "diw35e0knujknhkgdyn6", 
+        "height": 600, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/diw35e0knujknhkgdyn6.jpg", 
+        "width": 437
+    }, 
+    "created_at": 1300443213000, 
+    "developers": [
+        250
+    ], 
+    "first_release_date": 566784000000, 
+    "franchise": 4, 
+    "franchises": [
+        4
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        16468, 
+        1221, 
+        37088, 
+        59516, 
+        55289, 
+        47823, 
+        36792, 
+        28010, 
+        25311, 
+        36608
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "id": 385, 
+    "keywords": [
+        76
+    ], 
+    "name": "Final Fantasy", 
+    "platforms": [
+        39, 
+        7, 
+        38, 
+        24, 
+        18, 
+        55
+    ], 
+    "player_perspectives": [
+        3, 
+        4
+    ], 
+    "popularity": 3.666666666666667, 
+    "publishers": [
+        250
+    ], 
+    "pulse_count": 9, 
+    "rating": 70.31394247475019, 
+    "rating_count": 54, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1091059200000, 
+            "human": "2004-Jul-29", 
+            "m": 7, 
+            "platform": 24, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1176940800000, 
+            "human": "2007-Apr-19", 
+            "m": 4, 
+            "platform": 38, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1267056000000, 
+            "human": "2010-Feb-25", 
+            "m": 2, 
+            "platform": 39, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 566784000000, 
+            "human": "1987-Dec-18", 
+            "m": 12, 
+            "platform": 18, 
+            "y": 1987
+        }, 
+        {
+            "category": 0, 
+            "date": 1036022400000, 
+            "human": "2002-Oct-31", 
+            "m": 10, 
+            "platform": 7, 
+            "y": 2002
+        }, 
+        {
+            "category": 2, 
+            "date": 1104451200000, 
+            "human": "2004", 
+            "m": 12, 
+            "platform": 55, 
+            "region": 5, 
+            "y": 2004
+        }, 
+        {
+            "category": 2, 
+            "date": 1293753600000, 
+            "human": "2010", 
+            "m": 12, 
+            "platform": 55, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "clb6qswf8g1eqlxk0lj3", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/clb6qswf8g1eqlxk0lj3.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "final-fantasy", 
+    "tags": [
+        1, 
+        17, 
+        268435468, 
+        268435487, 
+        536870988, 
+        1073741827, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "time_to_beat": {
+        "completely": 28800, 
+        "hastly": 9000, 
+        "normally": 23400
+    }, 
+    "total_rating": 70.1569712373751, 
+    "total_rating_count": 55, 
+    "updated_at": 1527125087625, 
+    "url": "https://www.igdb.com/games/final-fantasy", 
+    "videos": [
+        {
+            "name": "Playstation Trailer", 
+            "video_id": "8kLsW9zoLFw"
+        }
+    ]
+}

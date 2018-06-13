@@ -1,0 +1,122 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 5143, 
+    "cover": {
+        "cloudinary_id": "ev5sgb5tbjbqfp1huoqc", 
+        "height": 1130, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ev5sgb5tbjbqfp1huoqc.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1468847055139, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1166918400000, 
+    "games": [
+        25311, 
+        59516, 
+        10039, 
+        55289, 
+        19301, 
+        36926, 
+        44076, 
+        16999, 
+        47823, 
+        25300
+    ], 
+    "genres": [
+        4, 
+        5, 
+        10, 
+        12, 
+        15, 
+        31
+    ], 
+    "id": 20605, 
+    "keywords": [
+        960, 
+        2152, 
+        3782, 
+        4157, 
+        4417, 
+        5201, 
+        5202, 
+        5894, 
+        10200
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "platform": 8, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Capcom Classics Collection Vol. 2", 
+    "platforms": [
+        11, 
+        8
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1166918400000, 
+            "human": "2006-Dec-24", 
+            "m": 12, 
+            "platform": 8, 
+            "region": 8, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1166918400000, 
+            "human": "2006-Dec-24", 
+            "m": 12, 
+            "platform": 11, 
+            "region": 8, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "y3gu0ftzzheitdvtfews", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y3gu0ftzzheitdvtfews.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "capcom-classics-collection-vol-2", 
+    "summary": "Capcom Classics Collection Vol. 2 reacquaints players with the revolutionary games of their time while providing countless rounds of quarter-free entertainment. Each treasured favourite contains bountiful bonus features including remixed soundtracks, original art and history that will leave everyone wanting for more. Homes will turn into virtual arcade halls as this 20-in-1 compilation will have players flashing back to the good old days and introduce to a new generation the titles that helped define Capcom's legacy as a leading worldwide developer and publisher.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435461, 
+        268435466, 
+        268435468, 
+        268435471, 
+        268435487, 
+        536871872, 
+        536873064, 
+        536874694, 
+        536875069, 
+        536875329, 
+        536876113, 
+        536876114, 
+        536876806, 
+        536881112
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1515355059033, 
+    "url": "https://www.igdb.com/games/capcom-classics-collection-vol-2"
+}

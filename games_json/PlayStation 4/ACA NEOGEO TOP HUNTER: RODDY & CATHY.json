@@ -1,0 +1,174 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30a2\u30b1\u30a2\u30abNEOGEO \u30c8\u30c3\u30d7\u30cf\u30f3\u30bf\u30fc \uff5e\u30ed\u30c7\u30a3\u30fc\uff06\u30ad\u30e3\u30b7\u30fc\uff5e"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "igjk9m0ceqye01trbf3o", 
+        "height": 320, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/igjk9m0ceqye01trbf3o.jpg", 
+        "width": 320
+    }, 
+    "created_at": 1512758929427, 
+    "developers": [
+        1474, 
+        5346
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "-"
+    }, 
+    "first_release_date": 1512604800000, 
+    "franchise": 1008, 
+    "franchises": [
+        1008
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        10039, 
+        71455, 
+        51485, 
+        36794, 
+        28029, 
+        1070, 
+        75089, 
+        25311, 
+        76213, 
+        24199
+    ], 
+    "genres": [
+        4, 
+        8, 
+        25, 
+        33
+    ], 
+    "id": 76959, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "ACA NEOGEO TOP HUNTER: RODDY & CATHY", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "This game was rated PEGI 7 for violence that lacks any apparent harm or injury to fantasy or mythical beings and creatures and for non-realistic looking violence towards characters which although human are not very detailed."
+    }, 
+    "platforms": [
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        5346
+    ], 
+    "pulse_count": 1, 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1512604800000, 
+            "human": "2017-Dec-07", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1512604800000, 
+            "human": "2017-Dec-07", 
+            "m": 12, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1512604800000, 
+            "human": "2017-Dec-07", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1512604800000, 
+            "human": "2017-Dec-07", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dpkbg98cbjecdkusghsc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dpkbg98cbjecdkusghsc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kvqftrkrmw80ti6gtfjg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kvqftrkrmw80ti6gtfjg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tgbnuzosx4j5ehevbbnt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tgbnuzosx4j5ehevbbnt.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "aca-neogeo-top-hunter-roddy-and-cathy", 
+    "summary": "TOP HUNTER RODDY & CATHY is a side-scrolling action game released by SNK in 1994. Using a 2-line system with front and back lines that can freely be switched between, jump, shoot, throw, and perform special attacks to defeat the space pirates who aim for total domination. This game offers simultaneous 2 player mode.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.", 
+    "tags": [
+        1, 
+        18, 
+        268435460, 
+        268435464, 
+        268435481, 
+        268435489, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1528350315295, 
+    "url": "https://www.igdb.com/games/aca-neogeo-top-hunter-roddy-and-cathy", 
+    "version_parent": 47578, 
+    "version_title": "ACA NEOGEO", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Top_Hunter:_Roddy_%26_Cathy"
+        }
+    ]
+}

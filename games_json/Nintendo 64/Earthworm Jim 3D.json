@@ -1,0 +1,196 @@
+{
+    "category": 0, 
+    "collection": 604, 
+    "cover": {
+        "cloudinary_id": "q5z6drttvzrwsqnosmqv", 
+        "height": 187, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/q5z6drttvzrwsqnosmqv.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1389066436528, 
+    "developers": [
+        1250
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": ""
+    }, 
+    "external": {
+        "steam": "41600"
+    }, 
+    "first_release_date": 941328000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        36868, 
+        21063, 
+        26766, 
+        55752, 
+        26196, 
+        25300, 
+        21062, 
+        11567, 
+        36950, 
+        10031
+    ], 
+    "genres": [
+        8, 
+        31
+    ], 
+    "id": 3479, 
+    "keywords": [
+        137, 
+        296, 
+        350, 
+        770, 
+        970, 
+        1158, 
+        1754, 
+        2049, 
+        2071, 
+        2640, 
+        4162, 
+        4176, 
+        4183, 
+        4297, 
+        4359, 
+        4619, 
+        4907, 
+        4936, 
+        4958, 
+        5193, 
+        5284, 
+        5891, 
+        5943, 
+        6130, 
+        7149, 
+        7593, 
+        9088, 
+        9160, 
+        10151, 
+        11173, 
+        14114
+    ], 
+    "name": "Earthworm Jim 3D", 
+    "platforms": [
+        4, 
+        6
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        29, 
+        5
+    ], 
+    "rating": 50.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 941328000000, 
+            "human": "1999-Oct-31", 
+            "m": 10, 
+            "platform": 4, 
+            "y": 1999
+        }, 
+        {
+            "category": 0, 
+            "date": 941328000000, 
+            "human": "1999-Oct-31", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 1999
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jbpfzekulhkjwevorg4q", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jbpfzekulhkjwevorg4q.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "n9iizmtiqxta7ky5fawf", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n9iizmtiqxta7ky5fawf.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ligj0swsstooi86unubd", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ligj0swsstooi86unubd.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "w9aqqbfittptap8ivsw6", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w9aqqbfittptap8ivsw6.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "mv05q8iqzwgurtln5fsv", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mv05q8iqzwgurtln5fsv.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "earthworm-jim-3d", 
+    "summary": "The 3rd game of the Earthworm Jim series, this one introduced 3d graphics, changing from the 2d animation of it's predecessors. The gameplay remains similar with a few new additions and new environments.", 
+    "tags": [
+        1, 
+        18, 
+        27, 
+        268435464, 
+        268435487, 
+        536871049, 
+        536871208, 
+        536871262, 
+        536871682, 
+        536871882, 
+        536872070, 
+        536872666, 
+        536872961, 
+        536872983, 
+        536873552, 
+        536875074, 
+        536875088, 
+        536875095, 
+        536875209, 
+        536875271, 
+        536875531, 
+        536875819, 
+        536875848, 
+        536875870, 
+        536876105, 
+        536876196, 
+        536876803, 
+        536876855, 
+        536877042, 
+        536878061, 
+        536878505, 
+        536880000, 
+        536880072, 
+        536881063, 
+        536882085, 
+        536885026, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18, 
+        27
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1523278266463, 
+    "url": "https://www.igdb.com/games/earthworm-jim-3d", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/41600"
+        }
+    ]
+}

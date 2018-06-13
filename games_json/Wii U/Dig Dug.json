@@ -1,0 +1,483 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "name": "Dig Dug"
+        }
+    ], 
+    "category": 0, 
+    "collection": 532, 
+    "cover": {
+        "cloudinary_id": "vmf3ksjs4v6ebnoipjtv", 
+        "height": 332, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vmf3ksjs4v6ebnoipjtv.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1374185818104, 
+    "developers": [
+        11315
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 388022400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        2751, 
+        2750, 
+        3759, 
+        7452, 
+        7170, 
+        21429, 
+        27421, 
+        36926, 
+        6732, 
+        36911
+    ], 
+    "genres": [
+        33
+    ], 
+    "id": 2636, 
+    "keywords": [
+        137, 
+        296, 
+        332, 
+        558, 
+        1293, 
+        1570, 
+        2152, 
+        2177, 
+        2363, 
+        4134, 
+        4162, 
+        4476, 
+        4484, 
+        4512, 
+        4522, 
+        4695, 
+        4750, 
+        4800, 
+        4890, 
+        4958, 
+        5093, 
+        5293, 
+        5436, 
+        5450, 
+        5453, 
+        5523, 
+        5633, 
+        5745, 
+        5806, 
+        5943, 
+        6018, 
+        6036, 
+        6365, 
+        7140, 
+        7280, 
+        7591, 
+        8157, 
+        8198, 
+        8680, 
+        9714, 
+        10205, 
+        11209, 
+        11378, 
+        11547, 
+        11566, 
+        13076, 
+        14126, 
+        14195
+    ], 
+    "name": "Dig Dug", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        71, 
+        51, 
+        52, 
+        67, 
+        36, 
+        60, 
+        66, 
+        59, 
+        13, 
+        65, 
+        75, 
+        152, 
+        41, 
+        125, 
+        15, 
+        24, 
+        77, 
+        37, 
+        33, 
+        5, 
+        18, 
+        129, 
+        27
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 3.0, 
+    "publishers": [
+        2067, 
+        11315, 
+        2406, 
+        70, 
+        1121, 
+        2524, 
+        6330
+    ], 
+    "pulse_count": 1, 
+    "rating": 79.9205785933753, 
+    "rating_count": 15, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1423094400000, 
+            "human": "2015-Feb-05", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1420675200000, 
+            "human": "2015-Jan-08", 
+            "m": 1, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1366243200000, 
+            "human": "2013-Apr-18", 
+            "m": 4, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1360800000000, 
+            "human": "2013-Feb-14", 
+            "m": 2, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1214870400000, 
+            "human": "2008-Jul-01", 
+            "m": 7, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1219968000000, 
+            "human": "2008-Aug-29", 
+            "m": 8, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1212969600000, 
+            "human": "2008-Jun-09", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 152, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 77, 
+            "region": 5, 
+            "y": 1983
+        }, 
+        {
+            "category": 0, 
+            "date": 439084800000, 
+            "human": "1983-Dec-01", 
+            "m": 12, 
+            "platform": 125, 
+            "region": 5, 
+            "y": 1983
+        }, 
+        {
+            "category": 0, 
+            "date": 648432000000, 
+            "human": "1990-Jul-20", 
+            "m": 7, 
+            "platform": 51, 
+            "region": 5, 
+            "y": 1990
+        }, 
+        {
+            "category": 0, 
+            "date": 1263686400000, 
+            "human": "2010-Jan-17", 
+            "m": 1, 
+            "platform": 36, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 388022400000, 
+            "human": "1982-Apr-19", 
+            "m": 4, 
+            "platform": 52, 
+            "region": 2, 
+            "y": 1982
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 60, 
+            "region": 2, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 66, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 75, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 59, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 410140800000, 
+            "human": "1982", 
+            "m": 12, 
+            "platform": 65, 
+            "region": 2, 
+            "y": 1982
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 0, 
+            "date": 715305600000, 
+            "human": "1992-Sep-01", 
+            "m": 9, 
+            "platform": 33, 
+            "region": 2, 
+            "y": 1992
+        }, 
+        {
+            "category": 0, 
+            "date": 1085097600000, 
+            "human": "2004-May-21", 
+            "m": 5, 
+            "platform": 24, 
+            "region": 5, 
+            "y": 2004
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 67, 
+            "region": 2, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 27, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 0, 
+            "date": 486691200000, 
+            "human": "1985-Jun-04", 
+            "m": 6, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1985
+        }, 
+        {
+            "category": 0, 
+            "date": 1349222400000, 
+            "human": "2012-Oct-03", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 129, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 71, 
+            "region": 2, 
+            "y": 1983
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "yqhtcd0ckcarrwt1bmtm", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yqhtcd0ckcarrwt1bmtm.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "b5aypkmet4tuda2obda5", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b5aypkmet4tuda2obda5.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "gjfrclpkfznrv6qkthlj", 
+            "height": 225, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gjfrclpkfznrv6qkthlj.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "dig-dug", 
+    "summary": "Dig Dug is a 1-2 player arcade game in which you have to use your shovel to dig your way through the earth. Stopping you from doing this are two monsters, called Pooka and Fygar, who will continually chase you around. The only weapon that you carry is an air pump, which you can use to inflate the monsters to the point where they explode. (if you start to inflate them but stop doing so, the monsters will get turned back to their normal selves). Furthermore, rocks are scattered throughout the earth, and you can use these rocks to squash them. If the monsters do not find you for several seconds, they will eventually get turned into ghosts, which are able to walk through the earth. They are invincible and cannot be killed. From time to time, vegetables will appear in the center, and you can get these for points.", 
+    "tags": [
+        1, 
+        268435489, 
+        536871049, 
+        536871208, 
+        536871244, 
+        536871470, 
+        536872205, 
+        536872482, 
+        536873064, 
+        536873089, 
+        536873275, 
+        536875046, 
+        536875074, 
+        536875388, 
+        536875396, 
+        536875424, 
+        536875434, 
+        536875607, 
+        536875662, 
+        536875712, 
+        536875802, 
+        536875870, 
+        536876005, 
+        536876205, 
+        536876348, 
+        536876362, 
+        536876365, 
+        536876435, 
+        536876545, 
+        536876657, 
+        536876718, 
+        536876855, 
+        536876930, 
+        536876948, 
+        536877277, 
+        536878052, 
+        536878192, 
+        536878503, 
+        536879069, 
+        536879110, 
+        536879592, 
+        536880626, 
+        536881117, 
+        536882121, 
+        536882290, 
+        536882459, 
+        536882478, 
+        536883988, 
+        536885038, 
+        536885107, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 74.96028929668765, 
+    "total_rating_count": 16, 
+    "updated_at": 1525457833138, 
+    "url": "https://www.igdb.com/games/dig-dug", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Dig_Dug"
+        }
+    ]
+}

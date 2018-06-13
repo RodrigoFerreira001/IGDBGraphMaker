@@ -1,0 +1,183 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kmgs0siaz1uol5cy27yp", 
+        "height": 361, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kmgs0siaz1uol5cy27yp.jpg", 
+        "width": 648
+    }, 
+    "created_at": 1495660166499, 
+    "external": {
+        "steam": "503140"
+    }, 
+    "first_release_date": 1469491200000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        47823, 
+        22747, 
+        19448, 
+        55289, 
+        19290, 
+        25311, 
+        19934, 
+        11560, 
+        16468, 
+        36926
+    ], 
+    "genres": [
+        12, 
+        25, 
+        31, 
+        32
+    ], 
+    "id": 32021, 
+    "keywords": [
+        117, 
+        296, 
+        982, 
+        1059, 
+        4134, 
+        4871
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 3, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dungeon Punks", 
+    "platforms": [
+        45, 
+        6, 
+        48, 
+        49
+    ], 
+    "popularity": 1.666666666666667, 
+    "rating": 70.0, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1469491200000, 
+            "human": "2016-Jul-26", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1469491200000, 
+            "human": "2016-Jul-26", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1471996800000, 
+            "human": "2016-Aug-24", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "aik3vfrmne5vvyojgd6w", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aik3vfrmne5vvyojgd6w.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ob32pvlyhmzlrrkdhy6k", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ob32pvlyhmzlrrkdhy6k.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rqq3vwr12s9gwsw9rxlo", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rqq3vwr12s9gwsw9rxlo.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "koa7klldcpbgbnp7dqms", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/koa7klldcpbgbnp7dqms.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "c30e7q3dpwsra1pwid4m", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c30e7q3dpwsra1pwid4m.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "dungeon-punks", 
+    "summary": "Dungeon Punks is an old-school arcade beat-em-up, packed with new features like tag-team fighting gameplay and an RPG adventure! Nothing beats the thrill of freeze-blasting foes with a genie, as your dwarf tags in to incinerate them with bombs and napalm.", 
+    "tags": [
+        1, 
+        268435468, 
+        268435481, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536871208, 
+        536871894, 
+        536871971, 
+        536875046, 
+        536875783
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 4, 
+    "updated_at": 1528232699425, 
+    "url": "https://www.igdb.com/games/dungeon-punks", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.dungeonpunksgame.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/503140"
+        }
+    ]
+}

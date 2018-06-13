@@ -1,0 +1,83 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "hd6tk8rsbsglajzbqdhe", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hd6tk8rsbsglajzbqdhe.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1517425987447, 
+    "first_release_date": 1414022400000, 
+    "id": 85608, 
+    "name": "Namco Museum", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.0, 
+    "rating": 72.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1427328000000, 
+            "human": "2015-Mar-26", 
+            "m": 3, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1414022400000, 
+            "human": "2014-Oct-23", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "giixzxhk6oiaiegz5aty", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/giixzxhk6oiaiegz5aty.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "mbisshejtajnilw7zjkv", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mbisshejtajnilw7zjkv.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "sbla0ok7svceyzg6qs8f", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sbla0ok7svceyzg6qs8f.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "ftwrwdfyrcnkqfvylhrt", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ftwrwdfyrcnkqfvylhrt.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "qaauetudndsylhrmrarh", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qaauetudndsylhrmrarh.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "fjtxixtppg07kfwdklha", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fjtxixtppg07kfwdklha.jpg", 
+            "width": 758
+        }
+    ], 
+    "slug": "namco-museum--1", 
+    "summary": "Namco Museum packs five historic arcade games into one retro gaming package: Ms. Pac-Man, Galaxian, Galaga, Pole Position and Dig Dug.", 
+    "total_rating": 72.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1518074844645, 
+    "url": "https://www.igdb.com/games/namco-museum--1"
+}

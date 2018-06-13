@@ -1,0 +1,398 @@
+{
+    "aggregated_rating": 56.75, 
+    "aggregated_rating_count": 10, 
+    "category": 0, 
+    "collection": 3197, 
+    "cover": {
+        "cloudinary_id": "ukcjtyxmgkr28rxfr3p9", 
+        "height": 321, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ukcjtyxmgkr28rxfr3p9.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1392001809919, 
+    "developers": [
+        292, 
+        72, 
+        64
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1182211200000, 
+    "franchise": 7, 
+    "franchises": [
+        7
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        2558, 
+        7471, 
+        71455, 
+        11567, 
+        7350, 
+        25300, 
+        8173, 
+        64204, 
+        68287, 
+        36950
+    ], 
+    "genres": [
+        25
+    ], 
+    "id": 5244, 
+    "keywords": [
+        14, 
+        25, 
+        67, 
+        362, 
+        575, 
+        970, 
+        1116, 
+        1293, 
+        1313, 
+        2242, 
+        2387, 
+        4142, 
+        4143, 
+        4182, 
+        4242, 
+        4245, 
+        4345, 
+        4382, 
+        4446, 
+        4525, 
+        5116, 
+        5154, 
+        5282, 
+        5308, 
+        5420, 
+        5687, 
+        5782, 
+        5783, 
+        5848, 
+        6127, 
+        6232, 
+        6650, 
+        7369, 
+        7389, 
+        7568, 
+        9529, 
+        10499, 
+        10500, 
+        11247, 
+        11571, 
+        12054, 
+        13106, 
+        15467
+    ], 
+    "name": "Transformers: The Game", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        38, 
+        12, 
+        20, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        66
+    ], 
+    "pulse_count": 2, 
+    "rating": 41.7250295942177, 
+    "rating_count": 10, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1205366400000, 
+            "human": "2008-Mar-13", 
+            "m": 3, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1184889600000, 
+            "human": "2007-Jul-20", 
+            "m": 7, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182816000000, 
+            "human": "2007-Jun-26", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1184889600000, 
+            "human": "2007-Jul-20", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182816000000, 
+            "human": "2007-Jun-26", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182816000000, 
+            "human": "2007-Jun-26", 
+            "m": 6, 
+            "platform": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182816000000, 
+            "human": "2007-Jun-26", 
+            "m": 6, 
+            "platform": 12, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182816000000, 
+            "human": "2007-Jun-26", 
+            "m": 6, 
+            "platform": 9, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182211200000, 
+            "human": "2007-Jun-19", 
+            "m": 6, 
+            "platform": 20, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182211200000, 
+            "human": "2007-Jun-19", 
+            "m": 6, 
+            "platform": 38, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182816000000, 
+            "human": "2007-Jun-26", 
+            "m": 6, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182816000000, 
+            "human": "2007-Jun-26", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1183507200000, 
+            "human": "2007-Jul-04", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1184889600000, 
+            "human": "2007-Jul-20", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1184889600000, 
+            "human": "2007-Jul-20", 
+            "m": 7, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1183507200000, 
+            "human": "2007-Jul-04", 
+            "m": 7, 
+            "platform": 8, 
+            "region": 3, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1202342400000, 
+            "human": "2008-Feb-07", 
+            "m": 2, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "doikscud1w3jpocaintm", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/doikscud1w3jpocaintm.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "zp6tujcchks9xuxtnndn", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zp6tujcchks9xuxtnndn.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "pboe8a59tec3deszl90t", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pboe8a59tec3deszl90t.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "zyw2ajrxxi9gqnz87vzw", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zyw2ajrxxi9gqnz87vzw.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "isgn6isdbbm47vmzf3me", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/isgn6isdbbm47vmzf3me.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "qs33ggf73uozgw5yolfo", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qs33ggf73uozgw5yolfo.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "gub4eohpt2quwmkkk29a", 
+            "height": 302, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gub4eohpt2quwmkkk29a.jpg", 
+            "width": 574
+        }, 
+        {
+            "cloudinary_id": "ebqd7zxyxa5ahnqxycln", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ebqd7zxyxa5ahnqxycln.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "c6lubcvgctafezapn8px", 
+            "height": 300, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c6lubcvgctafezapn8px.jpg", 
+            "width": 533
+        }, 
+        {
+            "cloudinary_id": "lygjxvusdohtmk0xqbxf", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lygjxvusdohtmk0xqbxf.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "ldctvpbvdnzm90hrjm7h", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ldctvpbvdnzm90hrjm7h.jpg", 
+            "width": 850
+        }
+    ], 
+    "slug": "transformers-the-game", 
+    "summary": "Transformers: The Game is the name of multiple versions of a video game based on the 2007 live action film Transformers, all of which were released in North America in June 2007. Home console and PC versions were developed by Traveller's Tales for the PlayStation 2, Xbox 360, Wii, PlayStation 3 and PC. A different PlayStation Portable version was developed by Savage Entertainment. \n \nTransformers Autobots and Transformers Decepticons are the Nintendo DS versions of Transfomers: The Game. Vicarious Visions, who was tasked with bringing the adaptation to the Nintendo DS, chose to adapt the DS version into two separate games.[1] Autobots follows the heroes' perspective while Decepticons follows the villains'. Unlike games with multiple SKUs such as Pok\u00e9mon which feature only minor differences between versions, these are two separate games, sharing some basic similarities, but with unique characters, missions and locations.[2]", 
+    "tags": [
+        1, 
+        18, 
+        268435481, 
+        536870926, 
+        536870937, 
+        536870979, 
+        536871274, 
+        536871487, 
+        536871882, 
+        536872028, 
+        536872205, 
+        536872225, 
+        536873154, 
+        536873299, 
+        536875054, 
+        536875055, 
+        536875094, 
+        536875154, 
+        536875157, 
+        536875257, 
+        536875294, 
+        536875358, 
+        536875437, 
+        536876028, 
+        536876066, 
+        536876194, 
+        536876220, 
+        536876332, 
+        536876599, 
+        536876694, 
+        536876695, 
+        536876760, 
+        536877039, 
+        536877144, 
+        536877562, 
+        536878281, 
+        536878301, 
+        536878480, 
+        536880441, 
+        536881411, 
+        536881412, 
+        536882159, 
+        536882483, 
+        536882966, 
+        536884018, 
+        536886379, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 49.23751479710885, 
+    "total_rating_count": 20, 
+    "updated_at": 1524951710987, 
+    "url": "https://www.igdb.com/games/transformers-the-game", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Transformers:_The_Game"
+        }
+    ]
+}

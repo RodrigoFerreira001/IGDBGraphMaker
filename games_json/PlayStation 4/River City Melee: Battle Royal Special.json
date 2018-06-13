@@ -1,0 +1,181 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Downtown Rantou Koushinkyoku: Kachinuki Kakutou SP"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "hzyavdpvcagiexwipnq2", 
+        "height": 618, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hzyavdpvcagiexwipnq2.jpg", 
+        "width": 484
+    }, 
+    "created_at": 1505113080218, 
+    "developers": [
+        1218
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "544630"
+    }, 
+    "first_release_date": 1493337600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        17001, 
+        76110, 
+        55752, 
+        11214, 
+        55935, 
+        59516, 
+        19448, 
+        6732, 
+        27088, 
+        11423
+    ], 
+    "genres": [
+        4, 
+        14, 
+        31
+    ], 
+    "id": 63712, 
+    "keywords": [
+        78, 
+        107, 
+        1158, 
+        1682, 
+        4134, 
+        4163, 
+        4239, 
+        4465, 
+        4665, 
+        6117, 
+        8247
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "River City Melee: Battle Royal Special", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        8944
+    ], 
+    "pulse_count": 5, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1505347200000, 
+            "human": "2017-Sep-14", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1493337600000, 
+            "human": "2017-Apr-28", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "kxswedbazo5ianfn496x", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kxswedbazo5ianfn496x.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nkbpfgf7o1ekobhyqvsx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nkbpfgf7o1ekobhyqvsx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "vv7lap0bgvnm4gsipbe8", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vv7lap0bgvnm4gsipbe8.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "f5riqwg6ocsdtmylywyo", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f5riqwg6ocsdtmylywyo.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "b4tklvfxmdbyosncgeh2", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b4tklvfxmdbyosncgeh2.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "river-city-melee-battle-royal-special", 
+    "summary": "This is the most recent installment of the \u2018Kunio-Kun\u2019 franchise recreated as a fun and easy fighting game with the fighting aspects taken and upgraded from River City Super Sports Challenge ~All Star Special~.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435470, 
+        268435487, 
+        536870990, 
+        536871019, 
+        536872070, 
+        536872594, 
+        536875046, 
+        536875075, 
+        536875151, 
+        536875377, 
+        536875577, 
+        536877029, 
+        536879159, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1522331520263, 
+    "url": "https://www.igdb.com/games/river-city-melee-battle-royal-special", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "0cWwCOas5l4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.h2interactive.co.kr/games/rivercitymelee/en/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/544630"
+        }
+    ]
+}

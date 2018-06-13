@@ -1,0 +1,187 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "gyxpyj8pul7djcfxpdwe", 
+        "height": 512, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gyxpyj8pul7djcfxpdwe.jpg", 
+        "width": 512
+    }, 
+    "created_at": 1495736118857, 
+    "external": {
+        "steam": "456830"
+    }, 
+    "first_release_date": 1464220800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        16468, 
+        55289, 
+        36608, 
+        34919, 
+        40524, 
+        25311, 
+        72412, 
+        68324, 
+        75813, 
+        37022
+    ], 
+    "genres": [
+        12, 
+        32
+    ], 
+    "id": 33168, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dual Core", 
+    "platforms": [
+        6, 
+        41
+    ], 
+    "popularity": 1.0, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1466640000000, 
+            "human": "2016-Jun-23", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464220800000, 
+            "human": "2016-May-26", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464220800000, 
+            "human": "2016-May-26", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "snuvcj6zeaur5lpykuqn", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/snuvcj6zeaur5lpykuqn.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "renrpxz66jsfnzljc9py", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/renrpxz66jsfnzljc9py.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "mbbqre5bgziqmcytpazn", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mbbqre5bgziqmcytpazn.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "czamqb8nf6zdp18ctxo7", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/czamqb8nf6zdp18ctxo7.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "oulkvgjcsqdeyho1ifty", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oulkvgjcsqdeyho1ifty.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "r1rvj1hpvfqnfhis5nws", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r1rvj1hpvfqnfhis5nws.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "esyibgup0tn9ztcnfykv", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/esyibgup0tn9ztcnfykv.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "fxeo68rcngiinzlldnk2", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fxeo68rcngiinzlldnk2.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "qvitv9lucxdvzvojknk4", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qvitv9lucxdvzvojknk4.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "k497hfqrpsuml1vyjulq", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k497hfqrpsuml1vyjulq.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "vtdur30zcpycpoo8bzif", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vtdur30zcpycpoo8bzif.jpg", 
+            "width": 1728
+        }, 
+        {
+            "cloudinary_id": "wszek01k1ekngkgdmker", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wszek01k1ekngkgdmker.jpg", 
+            "width": 1600
+        }
+    ], 
+    "slug": "dual-core", 
+    "summary": "A vibrant, futuristic, twin-stick style, co-op, action adventure for 1-4 players. Battle through a world of explosive robotic mayhem - Add a generous helping of sci-fi intrigue, and a dash of RPG ELEMENTS!", 
+    "tags": [
+        1, 
+        268435468, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523396624539, 
+    "url": "https://www.igdb.com/games/dual-core", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.dualcoregame.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/456830"
+        }
+    ]
+}

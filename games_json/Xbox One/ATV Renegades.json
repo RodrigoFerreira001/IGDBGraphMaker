@@ -1,0 +1,131 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kps8p1gzmj73d1qqvfoe", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kps8p1gzmj73d1qqvfoe.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1504699799249, 
+    "first_release_date": 1492473600000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        54524, 
+        28113, 
+        11423, 
+        40470, 
+        36662, 
+        28856, 
+        13163, 
+        54789, 
+        27717, 
+        55192
+    ], 
+    "genres": [
+        10
+    ], 
+    "id": 57887, 
+    "keywords": [
+        1293, 
+        4134, 
+        4157, 
+        4210, 
+        4245
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "ATV Renegades", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 30.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1492473600000, 
+            "human": "2017-Apr-18", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ufjn8kqssob5wim2m300", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ufjn8kqssob5wim2m300.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dqiheluv7htu6bpk7um4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dqiheluv7htu6bpk7um4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "l0pjoupxl604fdkfxpmy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l0pjoupxl604fdkfxpmy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uatcp0bpkq5yusadybo1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uatcp0bpkq5yusadybo1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "maapqoztx5y4tc0mteje", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/maapqoztx5y4tc0mteje.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "atv-renegades", 
+    "summary": "Arcade racing across the globe with local split-screen multiplayer and 24 off-road courses.", 
+    "tags": [
+        268435466, 
+        536872205, 
+        536875046, 
+        536875069, 
+        536875122, 
+        536875157
+    ], 
+    "total_rating": 30.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1527084448693, 
+    "url": "https://www.igdb.com/games/atv-renegades"
+}

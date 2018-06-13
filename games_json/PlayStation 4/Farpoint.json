@@ -1,0 +1,171 @@
+{
+    "aggregated_rating": 69.4, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "f6dsxk6ldclh01oj3slj", 
+        "height": 2160, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/f6dsxk6ldclh01oj3slj.jpg", 
+        "width": 3840
+    }, 
+    "created_at": 1465917274897, 
+    "developers": [
+        10107
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1494892800000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        11253, 
+        26192, 
+        19448, 
+        36950, 
+        27314, 
+        68287, 
+        36926, 
+        25300, 
+        19301, 
+        11567
+    ], 
+    "genres": [
+        5, 
+        31
+    ], 
+    "hypes": 6, 
+    "id": 19575, 
+    "keywords": [
+        970, 
+        1994, 
+        4131, 
+        4234, 
+        4438, 
+        4768, 
+        4882, 
+        4883, 
+        6346, 
+        12087, 
+        12098, 
+        12556
+    ], 
+    "name": "Farpoint", 
+    "pegi": {
+        "rating": 4
+    }, 
+    "platforms": [
+        48
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 3.0, 
+    "publishers": [
+        10100
+    ], 
+    "pulse_count": 15, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1494979200000, 
+            "human": "2017-May-17", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1494892800000, 
+            "human": "2017-May-16", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1494892800000, 
+            "human": "2017-May-16", 
+            "m": 5, 
+            "platform": 48, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "v46qaxrllwmdag6vfwtq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v46qaxrllwmdag6vfwtq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tpnzcolx4xplqudqo1vq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tpnzcolx4xplqudqo1vq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mszvhsicdza3jzocnera", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mszvhsicdza3jzocnera.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lwjz7vokcdfmfqioqsus", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lwjz7vokcdfmfqioqsus.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cqqeahdx0d0e8vybselb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cqqeahdx0d0e8vybselb.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "farpoint", 
+    "summary": "Farpoint is an unnerving VR space adventure set on a hostile alien planet. On a mission to pick up scientists studying an anomaly near Jupiter, a rupture from the anomaly transports the player and scientists to an unknown alien world.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435487, 
+        536871882, 
+        536872906, 
+        536875043, 
+        536875146, 
+        536875350, 
+        536875680, 
+        536875794, 
+        536875795, 
+        536877258, 
+        536882999, 
+        536883010, 
+        536883468, 
+        1073741831
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 69.4, 
+    "total_rating_count": 6, 
+    "updated_at": 1521779489975, 
+    "url": "https://www.igdb.com/games/farpoint", 
+    "videos": [
+        {
+            "name": "E3 2016 Reveal Trailer", 
+            "video_id": "KgmzBsvuNU4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.playstation.com/en-ae/games/farpoint-ps4/"
+        }
+    ]
+}

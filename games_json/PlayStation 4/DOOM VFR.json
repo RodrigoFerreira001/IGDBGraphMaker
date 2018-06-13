@@ -1,0 +1,183 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 7, 
+    "category": 0, 
+    "collection": 129, 
+    "cover": {
+        "cloudinary_id": "zfswwdax9j1lab9nz9vr", 
+        "height": 940, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zfswwdax9j1lab9nz9vr.jpg", 
+        "width": 730
+    }, 
+    "created_at": 1497243254001, 
+    "external": {
+        "steam": "650000"
+    }, 
+    "first_release_date": 1512086400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        68287, 
+        36950, 
+        29525, 
+        36813, 
+        36781, 
+        28029, 
+        27314, 
+        25646, 
+        28552, 
+        7291
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 37031, 
+    "keywords": [
+        1025, 
+        1120, 
+        4154, 
+        4224, 
+        4234, 
+        4330, 
+        4345, 
+        4439, 
+        4446, 
+        4907
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "DOOM VFR", 
+    "pegi": {
+        "rating": 5
+    }, 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 8.666666666666668, 
+    "pulse_count": 44, 
+    "rating": 50.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1512086400000, 
+            "human": "2017-Dec-01", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1512086400000, 
+            "human": "2017-Dec-01", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1512086400000, 
+            "human": "2017-Dec-01", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hk6tszymcdogppa9iykk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hk6tszymcdogppa9iykk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "w1qj6phhcplbc3f6iopi", 
+            "height": 1440, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w1qj6phhcplbc3f6iopi.jpg", 
+            "width": 2560
+        }, 
+        {
+            "cloudinary_id": "tf2abyvsga0wghl3qskf", 
+            "height": 1440, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tf2abyvsga0wghl3qskf.jpg", 
+            "width": 2560
+        }, 
+        {
+            "cloudinary_id": "dfqcylyaeo7rpzmdeg4a", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dfqcylyaeo7rpzmdeg4a.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xdcjyovq5nv7nunoj7si", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xdcjyovq5nv7nunoj7si.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "doom-vfr", 
+    "summary": "Taking place after the events of Doom, you take control of scientist who was killed during the initial demon invasion of Mars. \n \nAvailable for PlayStation VR and VIVE platforms, this DOOM adventure will bathe you in virtual carnage. Developed by id Software, the studio that pioneered the first-person shooter genre and modern VR, DOOM VFR brings the fast-paced, brutal gameplay fans of the series love to virtual reality. Immerse yourself in the UAC facility on Mars and the depths of Hell, as your skills are put to the test through intense combat and challenging puzzle-solving. Play as a cybernetic survivor who is activated by the UAC to fight the demon invasion, maintain order, and prevent catastrophic failure at the Mars facility. Lay waste to an army of demonic foes as you explore and interact with the outlandish world of DOOM from an entirely new perspective.", 
+    "tags": [
+        1, 
+        18, 
+        19, 
+        268435461, 
+        536871937, 
+        536872032, 
+        536875066, 
+        536875136, 
+        536875146, 
+        536875242, 
+        536875257, 
+        536875351, 
+        536875358, 
+        536875819, 
+        1073741831
+    ], 
+    "themes": [
+        1, 
+        18, 
+        19
+    ], 
+    "total_rating": 62.5, 
+    "total_rating_count": 9, 
+    "updated_at": 1522237754934, 
+    "url": "https://www.igdb.com/games/doom-vfr", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "IAOk0DhaKeY"
+        }, 
+        {
+            "name": "E3 2017 Reveal Trailer", 
+            "video_id": "IL_Y-_ipGas"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.doom.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/650000"
+        }
+    ]
+}

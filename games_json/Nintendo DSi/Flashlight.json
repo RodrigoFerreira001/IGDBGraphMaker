@@ -1,0 +1,49 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "v2cj2ok3piv8buyj11w8", 
+        "height": 70, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/v2cj2ok3piv8buyj11w8.jpg", 
+        "width": 91
+    }, 
+    "created_at": 1517395190282, 
+    "first_release_date": 1268956800000, 
+    "id": 85142, 
+    "name": "Flashlight", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1268956800000, 
+            "human": "2010-Mar-19", 
+            "m": 3, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1287964800000, 
+            "human": "2010-Oct-25", 
+            "m": 10, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "kkwmsuo6z71lfg7fjyuu", 
+            "height": 259, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kkwmsuo6z71lfg7fjyuu.jpg", 
+            "width": 345
+        }
+    ], 
+    "slug": "flashlight", 
+    "summary": "When it's dark people need a simple source of light.", 
+    "updated_at": 1518060719731, 
+    "url": "https://www.igdb.com/games/flashlight"
+}

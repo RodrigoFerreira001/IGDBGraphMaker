@@ -1,0 +1,163 @@
+{
+    "aggregated_rating": 70.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vv3mpnxhfu2o1ixhynp9", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vv3mpnxhfu2o1ixhynp9.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1486769737935, 
+    "developers": [
+        12377
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "384500"
+    }, 
+    "first_release_date": 1465516800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        55289, 
+        25646, 
+        25311, 
+        16468, 
+        27266, 
+        28148, 
+        72412, 
+        59516, 
+        37022, 
+        47823
+    ], 
+    "genres": [
+        12, 
+        31, 
+        32
+    ], 
+    "id": 27113, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Zombie Party", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        9147, 
+        12377
+    ], 
+    "pulse_count": 2, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1507248000000, 
+            "human": "2017-Oct-06", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1465516800000, 
+            "human": "2016-Jun-10", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "v17crsyndqodzplxcw4a", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v17crsyndqodzplxcw4a.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "aztelemxyt7jc0sifulf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aztelemxyt7jc0sifulf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "klcmphksh9paj7yyqoor", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/klcmphksh9paj7yyqoor.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vomfwbxy4yh79y5utmpn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vomfwbxy4yh79y5utmpn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dvcj7r7nk7jiesb8aeri", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dvcj7r7nk7jiesb8aeri.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "zombie-party", 
+    "summary": "Zombie Party is a retro rampage of fun and over-the-top action, while still giving the players a deep and engaging Action-RPG Rogue-like experience! Go on a time traveling adventure, or delve deep into procedural dungeons full of gold, loot, and secrets! Online and local multiplayer!", 
+    "tags": [
+        1, 
+        19, 
+        268435468, 
+        268435487, 
+        268435488, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        19
+    ], 
+    "total_rating": 65.25, 
+    "total_rating_count": 2, 
+    "updated_at": 1522079197326, 
+    "url": "https://www.igdb.com/games/zombie-party", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "nHpoAZxVjmg"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/384500"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.peachpieproductions.com"
+        }
+    ]
+}

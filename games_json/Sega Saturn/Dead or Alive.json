@@ -1,0 +1,185 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30c7\u30c3\u30c9\u30aa\u30a2\u30a2\u30e9\u30a4\u30d6"
+        }, 
+        {
+            "comment": "Chinese title", 
+            "name": "\u751f\u6216\u6b7b"
+        }, 
+        {
+            "name": "Dead or Alive++"
+        }
+    ], 
+    "category": 0, 
+    "collection": 295, 
+    "cover": {
+        "cloudinary_id": "xlwqewbr9mkkddq9pnoe", 
+        "height": 627, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xlwqewbr9mkkddq9pnoe.jpg", 
+        "width": 534
+    }, 
+    "created_at": 1349598246463, 
+    "developers": [
+        769
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 846806400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        41828, 
+        36794, 
+        10039, 
+        68391, 
+        22418, 
+        1547, 
+        1235, 
+        36831, 
+        51485, 
+        9143
+    ], 
+    "genres": [
+        4, 
+        33
+    ], 
+    "id": 1387, 
+    "keywords": [
+        61, 
+        107, 
+        639, 
+        969, 
+        998
+    ], 
+    "name": "Dead or Alive", 
+    "platforms": [
+        52, 
+        45, 
+        32, 
+        7
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        4453
+    ], 
+    "release_dates": [
+        {
+            "category": 1, 
+            "date": 846806400000, 
+            "human": "1996-Nov", 
+            "m": 11, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 876355200000, 
+            "human": "1997-Oct-09", 
+            "m": 10, 
+            "platform": 32, 
+            "region": 5, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 889660800000, 
+            "human": "1998-Mar-12", 
+            "m": 3, 
+            "platform": 7, 
+            "region": 5, 
+            "y": 1998
+        }, 
+        {
+            "category": 0, 
+            "date": 891302400000, 
+            "human": "1998-Mar-31", 
+            "m": 3, 
+            "platform": 7, 
+            "region": 2, 
+            "y": 1998
+        }, 
+        {
+            "category": 0, 
+            "date": 899251200000, 
+            "human": "1998-Jul-01", 
+            "m": 7, 
+            "platform": 7, 
+            "region": 1, 
+            "y": 1998
+        }, 
+        {
+            "category": 0, 
+            "date": 1228867200000, 
+            "human": "2008-Dec-10", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 5, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "yi7thuv3ou9kjliwt6fp", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yi7thuv3ou9kjliwt6fp.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "khearf4xyzlpl9cyfahc", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/khearf4xyzlpl9cyfahc.jpg", 
+            "width": 704
+        }, 
+        {
+            "cloudinary_id": "ve4vdkrmkvaudhwtbihz", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ve4vdkrmkvaudhwtbihz.jpg", 
+            "width": 704
+        }, 
+        {
+            "cloudinary_id": "ihxsbgyutprwonvvytiu", 
+            "height": 430, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ihxsbgyutprwonvvytiu.jpg", 
+            "width": 639
+        }, 
+        {
+            "cloudinary_id": "oizpbqmoye0rud3olvhh", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oizpbqmoye0rud3olvhh.jpg", 
+            "width": 704
+        }
+    ], 
+    "slug": "dead-or-alive", 
+    "summary": "Dead or Alive is a fighting game and the first entry in Team Ninja's long-running Dead or Alive series. Its most defining features were its speed and countering system. Dead or Alive put an emphasis on speed, and relied more on simplistic commands and reaction time. Furthermore, its countering system was the first in the fighting genre to utilize different commands that corresponded to each type of attack. There are two kinds of holds, an Offensive Hold (OH) and a Defensive Hold (DH). The latter are executed by holding back or forward on the directional pad along with the guard input to either force away or counter-damage an opponent. The Playstation port of the game was later backported for arcade and titled Dead or Alive++.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435489, 
+        536870973, 
+        536871019, 
+        536871551, 
+        536871881, 
+        536871910, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1527696346571, 
+    "url": "https://www.igdb.com/games/dead-or-alive", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.tecmo.co.jp/product/doa/doa_ps.htm"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bo7x3vb0gqelvztcjwuo", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bo7x3vb0gqelvztcjwuo.jpg", 
+        "width": 1920
+    }, 
+    "created_at": 1469142508512, 
+    "first_release_date": 1431043200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25311, 
+        55289, 
+        34919, 
+        26145, 
+        33603, 
+        36962, 
+        55888, 
+        16468, 
+        65827, 
+        28277
+    ], 
+    "genres": [
+        10, 
+        12, 
+        13, 
+        15, 
+        31, 
+        32
+    ], 
+    "id": 20951, 
+    "name": "Slice Zombies for Kinect", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1431043200000, 
+            "human": "2015-May-08", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "w1jhb5sqcibcx6tpdzcz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w1jhb5sqcibcx6tpdzcz.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zvutackxh400j9cjjvsq", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zvutackxh400j9cjjvsq.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "kyktc9swxysw4fv1ggym", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kyktc9swxysw4fv1ggym.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "erfnggfm2o5glueijtqt", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/erfnggfm2o5glueijtqt.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ixfoymtuha2etu2n66qd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ixfoymtuha2etu2n66qd.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "slice-zombies-for-kinect", 
+    "summary": "Slice zombies using the Xbox One Kinect!", 
+    "tags": [
+        1, 
+        268435466, 
+        268435468, 
+        268435469, 
+        268435471, 
+        268435487, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 55.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1522071542809, 
+    "url": "https://www.igdb.com/games/slice-zombies-for-kinect", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/743260"
+        }
+    ]
+}

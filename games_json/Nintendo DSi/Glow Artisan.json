@@ -1,0 +1,99 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "swtf703dqrvzbg1pztqw", 
+        "height": 200, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/swtf703dqrvzbg1pztqw.jpg", 
+        "width": 200
+    }, 
+    "created_at": 1505351073084, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1261958400000, 
+    "games": [
+        60044, 
+        25222, 
+        18167, 
+        26223, 
+        14047, 
+        9174, 
+        27266, 
+        20329, 
+        79912, 
+        23256
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 67181, 
+    "keywords": [
+        1293, 
+        1495, 
+        2875, 
+        4510, 
+        4890, 
+        8247
+    ], 
+    "name": "Glow Artisan", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        2588
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1287705600000, 
+            "human": "2010-Oct-22", 
+            "m": 10, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1261958400000, 
+            "human": "2009-Dec-28", 
+            "m": 12, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "aibuaalksf3xfny50cur", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aibuaalksf3xfny50cur.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ktqbevolhe04edyoifo1", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ktqbevolhe04edyoifo1.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "glow-artisan", 
+    "summary": "Glow Artisan is a picture-based puzzle game that has players color in blocks on a grid to create simple images.", 
+    "tags": [
+        268435465, 
+        536872205, 
+        536872407, 
+        536873787, 
+        536875422, 
+        536875802, 
+        536879159
+    ], 
+    "updated_at": 1518062736214, 
+    "url": "https://www.igdb.com/games/glow-artisan", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.glowartisan.com/"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "wdcsfmnzgr4ofhsd0cpu", 
+        "height": 277, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wdcsfmnzgr4ofhsd0cpu.jpg", 
+        "width": 496
+    }, 
+    "created_at": 1468103972939, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1317081600000, 
+    "games": [
+        11423, 
+        25222, 
+        54678, 
+        6732, 
+        18167, 
+        13163, 
+        27717, 
+        19289, 
+        19448, 
+        26223
+    ], 
+    "genres": [
+        9, 
+        31
+    ], 
+    "id": 20142, 
+    "keywords": [
+        1027, 
+        1293, 
+        1503, 
+        1669, 
+        2109, 
+        2362, 
+        2875, 
+        4134, 
+        4177, 
+        4178, 
+        4191, 
+        4332, 
+        4484, 
+        4492, 
+        4517, 
+        4869, 
+        4897, 
+        4963, 
+        5001, 
+        5523, 
+        5553, 
+        5558, 
+        5791, 
+        6127, 
+        11247
+    ], 
+    "name": "Mercury Hg", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1317081600000, 
+            "human": "2011-Sep-27", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317168000000, 
+            "human": "2011-Sep-28", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }
+    ], 
+    "slug": "mercury-hg", 
+    "summary": "Hidden object game.", 
+    "tags": [
+        268435465, 
+        268435487, 
+        536871939, 
+        536872205, 
+        536872415, 
+        536872581, 
+        536873021, 
+        536873274, 
+        536873787, 
+        536875046, 
+        536875089, 
+        536875090, 
+        536875103, 
+        536875244, 
+        536875396, 
+        536875404, 
+        536875429, 
+        536875781, 
+        536875809, 
+        536875875, 
+        536875913, 
+        536876435, 
+        536876465, 
+        536876470, 
+        536876703, 
+        536877039, 
+        536882159
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1516763008310, 
+    "url": "https://www.igdb.com/games/mercury-hg"
+}

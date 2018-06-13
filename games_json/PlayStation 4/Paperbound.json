@@ -1,0 +1,146 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "nz1nkwzd9betff12fg2b", 
+        "height": 1576, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nz1nkwzd9betff12fg2b.jpg", 
+        "width": 3982
+    }, 
+    "created_at": 1469819418297, 
+    "external": {
+        "steam": "339690"
+    }, 
+    "first_release_date": 1427760000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        76110, 
+        19934, 
+        10039, 
+        19376, 
+        65832, 
+        19448, 
+        34919, 
+        19290, 
+        6732, 
+        72373
+    ], 
+    "genres": [
+        4, 
+        32
+    ], 
+    "id": 21849, 
+    "keywords": [
+        107, 
+        117, 
+        1158, 
+        2493, 
+        3548, 
+        4134, 
+        4331, 
+        5327
+    ], 
+    "name": "Paperbound", 
+    "platforms": [
+        45, 
+        6, 
+        48
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1427760000000, 
+            "human": "2015-Mar-31", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1427760000000, 
+            "human": "2015-Mar-31", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1427760000000, 
+            "human": "2015-Mar-31", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pje38dcsmdbp4q1tsplo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pje38dcsmdbp4q1tsplo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "q9zxnozfkqyi7dyxro0y", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q9zxnozfkqyi7dyxro0y.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rowjr0jtyzz9bsfqrtnw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rowjr0jtyzz9bsfqrtnw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gkxlnd5iguxryzatb2z0", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gkxlnd5iguxryzatb2z0.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "cjfc1idxpqxiqxoa8vyh", 
+            "height": 428, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cjfc1idxpqxiqxoa8vyh.jpg", 
+            "width": 760
+        }
+    ], 
+    "slug": "paperbound", 
+    "summary": "Run with scissors and walk on walls in this award-winning local-multiplayer gravity battle arena game from the mind of a former Call of Duty: Advanced Warfare developer. Enter the pages of old books where you will find strange environments and a cabal of playable characters. Matches are not only fast-paced and intense, but they require you to think in whole new ways in order to master gravity.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435488, 
+        536871019, 
+        536871029, 
+        536872070, 
+        536873405, 
+        536874460, 
+        536875046, 
+        536875243, 
+        536876239
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1523428841804, 
+    "url": "https://www.igdb.com/games/paperbound", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.PaperboundGame.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/339690"
+        }
+    ]
+}

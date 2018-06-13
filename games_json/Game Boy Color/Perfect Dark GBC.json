@@ -1,0 +1,103 @@
+{
+    "alternative_names": [
+        {
+            "name": "Perfect Dark"
+        }
+    ], 
+    "category": 0, 
+    "collection": 307, 
+    "cover": {
+        "cloudinary_id": "ebf9ewwyg9okx78idohq", 
+        "height": 488, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ebf9ewwyg9okx78idohq.jpg", 
+        "width": 480
+    }, 
+    "created_at": 1349634139165, 
+    "developers": [
+        771
+    ], 
+    "first_release_date": 965088000000, 
+    "games": [
+        28029, 
+        76246, 
+        19341, 
+        20041, 
+        32902, 
+        1049, 
+        10039, 
+        68287, 
+        68142, 
+        28751
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 1464, 
+    "name": "Perfect Dark GBC", 
+    "platforms": [
+        22
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        771, 
+        70
+    ], 
+    "rating": 73.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 965088000000, 
+            "human": "2000-Aug-01", 
+            "m": 8, 
+            "platform": 22, 
+            "y": 2000
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "e0tzmzsi2ccoempcxl6q", 
+            "height": 432, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e0tzmzsi2ccoempcxl6q.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "l3lvqahxa7wlljg4kbnz", 
+            "height": 434, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l3lvqahxa7wlljg4kbnz.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "irzzuypw71b0gwaszh0u", 
+            "height": 430, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/irzzuypw71b0gwaszh0u.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "skvclfwhikaftyqiuxj6", 
+            "height": 427, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/skvclfwhikaftyqiuxj6.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "wjnm44taqvg7gf9auksy", 
+            "height": 430, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wjnm44taqvg7gf9auksy.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "perfect-dark-gbc", 
+    "tags": [
+        1, 
+        23, 
+        268435461
+    ], 
+    "themes": [
+        1, 
+        23
+    ], 
+    "total_rating": 73.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1528638201168, 
+    "url": "https://www.igdb.com/games/perfect-dark-gbc"
+}

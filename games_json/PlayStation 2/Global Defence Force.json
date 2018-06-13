@@ -1,0 +1,53 @@
+{
+    "alternative_names": [
+        {
+            "name": "The Chikyuu Boueigun 2"
+        }
+    ], 
+    "category": 0, 
+    "collection": 818, 
+    "cover": {
+        "cloudinary_id": "nkmjjxdcjdlcvnbkehxj", 
+        "height": 1713, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nkmjjxdcjdlcvnbkehxj.jpg", 
+        "width": 1527
+    }, 
+    "created_at": 1394980746536, 
+    "first_release_date": 1173052800000, 
+    "id": 5581, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 8, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Global Defence Force", 
+    "platforms": [
+        8
+    ], 
+    "popularity": 2.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1173052800000, 
+            "human": "2007-Mar-05", 
+            "m": 3, 
+            "platform": 8, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "slug": "global-defence-force", 
+    "updated_at": 1501068179144, 
+    "url": "https://www.igdb.com/games/global-defence-force"
+}

@@ -1,0 +1,361 @@
+{
+    "aggregated_rating": 79.1538461538462, 
+    "aggregated_rating_count": 15, 
+    "category": 0, 
+    "collection": 212, 
+    "cover": {
+        "cloudinary_id": "p68pv3gyvbljw69zko3m", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/p68pv3gyvbljw69zko3m.jpg", 
+        "width": 1920
+    }, 
+    "created_at": 1466475791591, 
+    "developers": [
+        614
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is a turn-based strategy game in which players control teams of worms in a last-worm-standing battle. From pulled-back and zoomed-in perspectives, players move their worms across 2D landscapes and use a variety of \u201ccartoony\u201d weapons (e.g., bazookas, flying animals, angry donkey statues) and vehicles (e.g., helicopters, tanks, mech suits) to defeat opposing teams. Turns are accompanied by realistic gunfire, large explosions, and cries of pain. In some sequences, a flying sheep and an elderly woman emit green flatulence clouds as they traverse the landscape. The words \u201cdo*chebag\u201d and \u201cbastard\u201d are heard in the dialogue."
+    }, 
+    "external": {
+        "steam": "327030"
+    }, 
+    "first_release_date": 1471910400000, 
+    "franchise": 22, 
+    "franchises": [
+        22
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        11423, 
+        19082, 
+        19407, 
+        28113, 
+        6732, 
+        7350, 
+        18167, 
+        21429, 
+        72373, 
+        11529
+    ], 
+    "genres": [
+        15, 
+        16
+    ], 
+    "id": 19696, 
+    "keywords": [
+        21, 
+        350, 
+        1158, 
+        1293, 
+        1333, 
+        1494, 
+        1821, 
+        4004, 
+        4134, 
+        4150, 
+        4151, 
+        4161, 
+        4185, 
+        4393, 
+        4423, 
+        4496, 
+        5007, 
+        5262, 
+        5552, 
+        9053, 
+        9054
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 6, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 6, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Worms W.M.D", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters - Mild bad language"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        48, 
+        49, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 4.0, 
+    "publishers": [
+        614
+    ], 
+    "pulse_count": 17, 
+    "rating": 75.90908997835031, 
+    "rating_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1471910400000, 
+            "human": "2016-Aug-23", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1471910400000, 
+            "human": "2016-Aug-23", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1471910400000, 
+            "human": "2016-Aug-23", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1471910400000, 
+            "human": "2016-Aug-23", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1471910400000, 
+            "human": "2016-Aug-23", 
+            "m": 8, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1471910400000, 
+            "human": "2016-Aug-23", 
+            "m": 8, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1471910400000, 
+            "human": "2016-Aug-23", 
+            "m": 8, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1471910400000, 
+            "human": "2016-Aug-23", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1471910400000, 
+            "human": "2016-Aug-23", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1511395200000, 
+            "human": "2017-Nov-23", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hqrgyxrb3xcbknkvymkb", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hqrgyxrb3xcbknkvymkb.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "c6jctkzvwyteluzx0jsk", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c6jctkzvwyteluzx0jsk.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "ikdyzstks6mlvpibufa6", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ikdyzstks6mlvpibufa6.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "wvmrybfduylf5i6vgvzb", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wvmrybfduylf5i6vgvzb.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "d5qykdnuzlwgkeixtqiq", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d5qykdnuzlwgkeixtqiq.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "ic1ag1igtb0zcwoeio6y", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ic1ag1igtb0zcwoeio6y.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "vophr9gn0slsbubwt2sv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vophr9gn0slsbubwt2sv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gvhywecaeflkrices2as", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gvhywecaeflkrices2as.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xeajrew904sg9bmpxxjs", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xeajrew904sg9bmpxxjs.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pmnx6m86hpwjvoojkqbg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pmnx6m86hpwjvoojkqbg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "iepg2z0bayhtxn92xo1o", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iepg2z0bayhtxn92xo1o.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "worms-wmd", 
+    "summary": "The worms are back in their most destructive game yet! With a gorgeous, hand-drawn 2D look, brand new weapons, the introduction of crafting, vehicles and buildings plus the return of some much-loved classic weapons and gameplay, Worms W.M.D is the best worms experience ever.", 
+    "tags": [
+        1, 
+        27, 
+        39, 
+        268435471, 
+        268435472, 
+        536870933, 
+        536871262, 
+        536872070, 
+        536872205, 
+        536872245, 
+        536872406, 
+        536872733, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875063, 
+        536875073, 
+        536875097, 
+        536875305, 
+        536875335, 
+        536875408, 
+        536875919, 
+        536876174, 
+        536876464, 
+        536879965, 
+        536879966, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        27, 
+        39
+    ], 
+    "total_rating": 77.53146806609826, 
+    "total_rating_count": 22, 
+    "updated_at": 1528360206525, 
+    "url": "https://www.igdb.com/games/worms-wmd", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "YzqvfBbP3Mg"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "w2FCeInOxrw"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "_j6FjYoNxt4"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "p14IvU9P06c"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "1InXWY4EkQY"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 5, 
+            "url": "https://twitter.com/@WormsTeam17"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Worms_W.M.D"
+        }, 
+        {
+            "category": 2, 
+            "url": "https://wormswmd.gamepedia.com/Worms_W.M.D._Wiki"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/327030"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.team17.com/games/worms-wmd/"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/WormsTeam17"
+        }
+    ]
+}

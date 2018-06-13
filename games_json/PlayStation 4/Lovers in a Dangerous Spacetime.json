@@ -1,0 +1,355 @@
+{
+    "aggregated_rating": 83.0, 
+    "aggregated_rating_count": 14, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vrjub2tkqzqjc1gpyelu", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vrjub2tkqzqjc1gpyelu.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1442199085351, 
+    "developers": [
+        6547
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "252110"
+    }, 
+    "first_release_date": 1441756800000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        19448, 
+        19934, 
+        25311, 
+        19301, 
+        25300, 
+        19376, 
+        19174, 
+        6732, 
+        64204, 
+        19290
+    ], 
+    "genres": [
+        13, 
+        32
+    ], 
+    "id": 12520, 
+    "keywords": [
+        117, 
+        377, 
+        970, 
+        1634, 
+        1722, 
+        4134, 
+        4148, 
+        4281, 
+        4344, 
+        4698, 
+        4726, 
+        4786, 
+        5025, 
+        5305, 
+        5316, 
+        5327, 
+        5379, 
+        5417, 
+        5632
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Lovers in a Dangerous Spacetime", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Non realistic looking violence towards fantasy characters - Violence that is set in a cartoon, slapstick or child like setting that could be upsetting to very young children"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        48, 
+        49, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 4.666666666666666, 
+    "publishers": [
+        6547
+    ], 
+    "pulse_count": 7, 
+    "rating": 80.02898968771531, 
+    "rating_count": 14, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1441756800000, 
+            "human": "2015-Sep-09", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1454976000000, 
+            "human": "2016-Feb-09", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1506988800000, 
+            "human": "2017-Oct-03", 
+            "m": 10, 
+            "platform": 130, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1454976000000, 
+            "human": "2016-Feb-09", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1454976000000, 
+            "human": "2016-Feb-09", 
+            "m": 2, 
+            "platform": 45, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1441756800000, 
+            "human": "2015-Sep-09", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1441756800000, 
+            "human": "2015-Sep-09", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1441756800000, 
+            "human": "2015-Sep-09", 
+            "m": 9, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1441756800000, 
+            "human": "2015-Sep-09", 
+            "m": 9, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1441756800000, 
+            "human": "2015-Sep-09", 
+            "m": 9, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1454976000000, 
+            "human": "2016-Feb-09", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wxwfloeh85dh14dprwgd", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wxwfloeh85dh14dprwgd.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "mcheal1ipfazcwyw96i4", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mcheal1ipfazcwyw96i4.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "ibynzg57btvrghelpf55", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ibynzg57btvrghelpf55.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "vgquw6n2zgvgkg8bviky", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vgquw6n2zgvgkg8bviky.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "vm4er6tfk04ebpkeks0h", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vm4er6tfk04ebpkeks0h.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "je53k6ksleyn93ipvupn", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/je53k6ksleyn93ipvupn.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "ndjyu2zr2gxmekuyj65j", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ndjyu2zr2gxmekuyj65j.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tvgbsu1zoc2cvq86eiw0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tvgbsu1zoc2cvq86eiw0.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "aureiny0lu2yg6g7ukg2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aureiny0lu2yg6g7ukg2.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "avw9l4kv9hlemf7csz7d", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/avw9l4kv9hlemf7csz7d.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yigrmtidufuotdq6hkd8", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yigrmtidufuotdq6hkd8.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "lovers-in-a-dangerous-spacetime", 
+    "summary": "Lovers in a Dangerous Spacetime is a frantic 1- or 2-player couch co-op action space shooter set in a massive neon battleship. Only through teamwork can you triumph over the evil forces of Anti-Love, rescue kidnapped space-bunnies, and avoid a vacuumy demise. Deep space is a dangerous place, but you don\u2019t have to face it alone!", 
+    "tags": [
+        1, 
+        18, 
+        268435469, 
+        268435488, 
+        536871029, 
+        536871289, 
+        536871882, 
+        536872546, 
+        536872634, 
+        536875046, 
+        536875060, 
+        536875193, 
+        536875256, 
+        536875610, 
+        536875638, 
+        536875698, 
+        536875937, 
+        536876217, 
+        536876228, 
+        536876239, 
+        536876291, 
+        536876329, 
+        536876544, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 81.51449484385765, 
+    "total_rating_count": 28, 
+    "updated_at": 1528355137333, 
+    "url": "https://www.igdb.com/games/lovers-in-a-dangerous-spacetime", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "2TE98COZC8c"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "pOnZ9hYiArs"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/252110"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.loversinadangerousspacetime.com"
+        }
+    ]
+}

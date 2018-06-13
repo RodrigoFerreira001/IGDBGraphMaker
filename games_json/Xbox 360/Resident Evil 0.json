@@ -1,0 +1,323 @@
+{
+    "aggregated_rating": 70.625, 
+    "aggregated_rating_count": 18, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "Biohazard 0"
+        }, 
+        {
+            "name": "Resident Evil Zero"
+        }, 
+        {
+            "name": "Resident Evil 0 HD Remaster"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "Biohazard 0 HD Remaster"
+        }, 
+        {
+            "name": "Resident Evil Zero HD Remaster"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "RE Origins Collection"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Biohazard Origins Collection"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "mvkwtkjfm2rvkknewlvz", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mvkwtkjfm2rvkknewlvz.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "cqs3wx0l3mwsxlwx1al8", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cqs3wx0l3mwsxlwx1al8.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "r1cg2q9g2xkfo7kk4qzu", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r1cg2q9g2xkfo7kk4qzu.jpg", 
+            "width": 640
+        }
+    ], 
+    "category": 0, 
+    "collection": 83, 
+    "cover": {
+        "cloudinary_id": "nmairl44ytf6wt3o9kbr", 
+        "height": 5702, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nmairl44ytf6wt3o9kbr.jpg", 
+        "width": 4030
+    }, 
+    "created_at": 1449709987111, 
+    "developers": [
+        655
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "339340"
+    }, 
+    "first_release_date": 1453161600000, 
+    "franchise": 29, 
+    "franchises": [
+        29
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25646, 
+        44076, 
+        68142, 
+        11296, 
+        29525, 
+        59516, 
+        13189, 
+        23175, 
+        19561, 
+        26192
+    ], 
+    "genres": [
+        5, 
+        31
+    ], 
+    "hypes": 1, 
+    "id": 15108, 
+    "keywords": [
+        5, 
+        960, 
+        1033, 
+        1120, 
+        1836, 
+        5340, 
+        10168, 
+        12953
+    ], 
+    "name": "Resident Evil 0", 
+    "pegi": {
+        "rating": 5, 
+        "synopsis": "The content of this game is suitable for persons aged 18 years and over only.\r\nIt contains: Extreme violence - Violence towards defenceless people"
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 3.0, 
+    "publishers": [
+        37
+    ], 
+    "pulse_count": 1, 
+    "rating": 82.8883185539197, 
+    "rating_count": 28, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1453161600000, 
+            "human": "2016-Jan-19", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453420800000, 
+            "human": "2016-Jan-22", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453334400000, 
+            "human": "2016-Jan-21", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453334400000, 
+            "human": "2016-Jan-21", 
+            "m": 1, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453334400000, 
+            "human": "2016-Jan-21", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453334400000, 
+            "human": "2016-Jan-21", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453161600000, 
+            "human": "2016-Jan-19", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453161600000, 
+            "human": "2016-Jan-19", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453161600000, 
+            "human": "2016-Jan-19", 
+            "m": 1, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453161600000, 
+            "human": "2016-Jan-19", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1453161600000, 
+            "human": "2016-Jan-19", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dlnw9u4pvyml9298b6cl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dlnw9u4pvyml9298b6cl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jydosnfhqnwzutq9h9tb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jydosnfhqnwzutq9h9tb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "p2he2z5kqnhho3nlb5h3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p2he2z5kqnhho3nlb5h3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bpufin6zwc8hd6awiftx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bpufin6zwc8hd6awiftx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kqjae2gzr7ksdpioqu3a", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kqjae2gzr7ksdpioqu3a.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "resident-evil-0", 
+    "summary": "Be prepared to relive the first nightmare in Resident Evil 0, a remastered version of the popular prequel to the original Resident Evil game. This remastered version takes the fear-inducing atmosphere from the original 2002 release and transforms it with stunning new HD visuals, improved sound, widescreen support and an optional modernized control system and more. It\u2019s the best way to experience the story of what really happened before the iconic mansion incident that was the catalyst for the entire Resident Evil saga. \n \nThe story of Resident Evil 0 takes players back to 1998. Reports have been mounting about unusual murders on the outskirts of Raccoon City. The city\u2019s Special Forces division, S.T.A.R.S., sends their Bravo Team - including rookie cop member Rebecca Chambers - to investigate. On route, the team\u2019s helicopter suffers engine trouble and is forced to make a crash landing, where they find an overturned prisoner transport vehicle. Splitting up to search the area, Rebecca discovers the Ecliptic Express, a train stopped dead on the tracks. Inside, she meets death row convict and ex-Navy lieutenant Billy Coen. Throughout the game, you will take control of both Rebecca and Billy, at times switching between both characters in order to proceed. Learning the advantages of each character is the key to solving puzzles and surviving the nightmares that lie ahead.", 
+    "tags": [
+        1, 
+        19, 
+        268435461, 
+        268435487, 
+        536870917, 
+        536871872, 
+        536871945, 
+        536872032, 
+        536872748, 
+        536876252, 
+        536881080, 
+        536883865, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        19
+    ], 
+    "total_rating": 76.75665927695985, 
+    "total_rating_count": 46, 
+    "updated_at": 1528475440600, 
+    "url": "https://www.igdb.com/games/resident-evil-0", 
+    "version_parent": 970, 
+    "version_title": "HD Remaster", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "Sq_H2-DcbCQ"
+        }, 
+        {
+            "name": "1st Trailer", 
+            "video_id": "3v6IN4vd3Xw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.residentevil.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/339340"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/RE_Games"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/residentevil"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Resident_Evil_Zero#Remaster"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://residentevil.wikia.com/wiki/Resident_Evil_Zero"
+        }
+    ]
+}

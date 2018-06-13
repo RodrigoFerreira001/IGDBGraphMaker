@@ -1,0 +1,186 @@
+{
+    "aggregated_rating": 86.8888888888889, 
+    "aggregated_rating_count": 10, 
+    "category": 2, 
+    "collection": 1888, 
+    "cover": {
+        "cloudinary_id": "t1khoyt2s1x1tkrswaji", 
+        "height": 640, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/t1khoyt2s1x1tkrswaji.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1449044942524, 
+    "developers": [
+        335
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1435017600000, 
+    "franchise": 4, 
+    "franchises": [
+        4
+    ], 
+    "game": 386, 
+    "game_modes": [
+        5
+    ], 
+    "games": [
+        19698, 
+        47823, 
+        17583, 
+        64061, 
+        11567, 
+        12632, 
+        16468, 
+        36534, 
+        68393, 
+        18398
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 14723, 
+    "keywords": [
+        296, 
+        900, 
+        906, 
+        2951, 
+        4161, 
+        4871, 
+        4883, 
+        5379, 
+        9092
+    ], 
+    "name": "FINAL FANTASY XIV: Heavensward", 
+    "platforms": [
+        6, 
+        9, 
+        48
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        26
+    ], 
+    "pulse_count": 8, 
+    "rating": 89.33304485634909, 
+    "rating_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1435017600000, 
+            "human": "2015-Jun-23", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1435017600000, 
+            "human": "2015-Jun-23", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1435017600000, 
+            "human": "2015-Jun-23", 
+            "m": 6, 
+            "platform": 6, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1435017600000, 
+            "human": "2015-Jun-23", 
+            "m": 6, 
+            "platform": 48, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1435017600000, 
+            "human": "2015-Jun-23", 
+            "m": 6, 
+            "platform": 9, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "majvningwsfvgqzhk7pi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/majvningwsfvgqzhk7pi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xtnbnmqmkapxx4tmrf5d", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xtnbnmqmkapxx4tmrf5d.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "reo37ik5dp3fdmlt8mwa", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/reo37ik5dp3fdmlt8mwa.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "buoimrqhsjbya0kkeccw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/buoimrqhsjbya0kkeccw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fwjdod6vfad4r5gytvqf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fwjdod6vfad4r5gytvqf.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "final-fantasy-xiv-heavensward", 
+    "summary": "The Warriors of Light journey now to Ishgard a city-state mired in a thousand-year conflict with the dragons of the Dravanian Horde. Can our heroes uncover the ancient truths buried in Ishgard\u2019s bloody history and help bring an end to the Dragonsong War? Can the Warriors of Light cast off the shadows that darken the realm?\n\nHeroes of Eorzea, the time has come to rise once again! Set forth with players across the globe on an adventure that will take you to the heavens and beyond. A whole new FINAL FANTASY XIV awaits!", 
+    "tags": [
+        17, 
+        268435468, 
+        536871208, 
+        536871812, 
+        536871818, 
+        536873863, 
+        536875073, 
+        536875783, 
+        536875795, 
+        536876291, 
+        536880004, 
+        1073741826
+    ], 
+    "themes": [
+        17
+    ], 
+    "total_rating": 88.110966872619, 
+    "total_rating_count": 17, 
+    "updated_at": 1516678795967, 
+    "url": "https://www.igdb.com/games/final-fantasy-xiv-heavensward", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "4phUCJlomPo"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "m2kVCzhAQXI"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://eu.finalfantasyxiv.com/heavensward/"
+        }
+    ]
+}

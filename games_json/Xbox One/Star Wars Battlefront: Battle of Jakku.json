@@ -1,0 +1,138 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "category": 1, 
+    "collection": 4191, 
+    "cover": {
+        "cloudinary_id": "ndqa0qdody0pdfq3qono", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ndqa0qdody0pdfq3qono.jpg", 
+        "width": 756
+    }, 
+    "created_at": 1472707726388, 
+    "developers": [
+        94
+    ], 
+    "first_release_date": 1449532800000, 
+    "franchise": 1, 
+    "franchises": [
+        1
+    ], 
+    "game": 2113, 
+    "game_engines": [
+        2
+    ], 
+    "game_modes": [
+        2
+    ], 
+    "games": [
+        28029, 
+        68287, 
+        36950, 
+        76722, 
+        76246, 
+        19341, 
+        306, 
+        64204, 
+        17522, 
+        10039
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 23293, 
+    "keywords": [
+        3097
+    ], 
+    "name": "Star Wars Battlefront: Battle of Jakku", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1449532800000, 
+            "human": "2015-Dec-08", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1449532800000, 
+            "human": "2015-Dec-08", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1449532800000, 
+            "human": "2015-Dec-08", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "w1yowdkdakltcdp5ku5z", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w1yowdkdakltcdp5ku5z.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qcorsnuui1mibayu9gd5", 
+            "height": 349, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qcorsnuui1mibayu9gd5.jpg", 
+            "width": 620
+        }
+    ], 
+    "slug": "star-wars-battlefront-battle-of-jakku", 
+    "summary": "Battle of Jakku is a free expansion pack for Star Wars Battlefront. The expansion pack serves as an insight to the Battle of Jakku, a battle that happened a 369 days after the Battle of Endor and serves as one of the many precursors to The Force Awakens.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        536874009, 
+        1073741825, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1517271026899, 
+    "url": "https://www.igdb.com/games/star-wars-battlefront-battle-of-jakku", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "JDfbhM9rkAo"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://battlefront.wikia.com/wiki/The_Battle_of_Jakku"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://starwars.ea.com/starwars/battlefront/features/battle-of-jakku"
+        }
+    ]
+}

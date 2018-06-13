@@ -1,0 +1,76 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "xtpykxt395uahnjwdt5p", 
+        "height": 400, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xtpykxt395uahnjwdt5p.jpg", 
+        "width": 400
+    }, 
+    "created_at": 1517425942000, 
+    "first_release_date": 1436400000000, 
+    "id": 85607, 
+    "name": "Neon Battle", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1436400000000, 
+            "human": "2015-Jul-09", 
+            "m": 7, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ofwrwqzvq4b0r1fjzey1", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ofwrwqzvq4b0r1fjzey1.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "byx9qgqpedyowg0coco6", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/byx9qgqpedyowg0coco6.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "ju375neqjgkl0kxadktg", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ju375neqjgkl0kxadktg.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "wwfzueenjkzh2szdjrnu", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wwfzueenjkzh2szdjrnu.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "cb7v4bdfwxdhyxjpqnt9", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cb7v4bdfwxdhyxjpqnt9.jpg", 
+            "width": 745
+        }, 
+        {
+            "cloudinary_id": "olhstyznyurhelff5esz", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/olhstyznyurhelff5esz.jpg", 
+            "width": 745
+        }
+    ], 
+    "slug": "neon-battle", 
+    "summary": "Bounce into the game that changes the rules.", 
+    "updated_at": 1518075383374, 
+    "url": "https://www.igdb.com/games/neon-battle", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://helixgames.co.nz/Neon-Battle/"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "eo4tkgpzvblifozwhhmy", 
+        "height": 512, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/eo4tkgpzvblifozwhhmy.jpg", 
+        "width": 364
+    }, 
+    "created_at": 1505162168896, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 883526400000, 
+    "games": [
+        25222, 
+        60044, 
+        54678, 
+        26223, 
+        14047, 
+        2803, 
+        20329, 
+        27266, 
+        18167, 
+        8197
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 64307, 
+    "keywords": [
+        166, 
+        1075, 
+        2875, 
+        4134, 
+        4142, 
+        4372, 
+        6871
+    ], 
+    "name": "Pop'n Pop", 
+    "platforms": [
+        52, 
+        22
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 977011200000, 
+            "human": "2000-Dec-17", 
+            "m": 12, 
+            "platform": 22, 
+            "region": 2, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 982281600000, 
+            "human": "2001-Feb-16", 
+            "m": 2, 
+            "platform": 22, 
+            "region": 5, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 883526400000, 
+            "human": "1997-Dec-31", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1997
+        }
+    ], 
+    "slug": "popn-pop", 
+    "summary": "Taito crossover title playing like a mix of Space Invaders and Bust-A-Move.", 
+    "tags": [
+        268435465, 
+        536871078, 
+        536871987, 
+        536873787, 
+        536875046, 
+        536875054, 
+        536875284, 
+        536877783
+    ], 
+    "updated_at": 1516753982369, 
+    "url": "https://www.igdb.com/games/popn-pop"
+}

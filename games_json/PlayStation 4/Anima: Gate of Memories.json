@@ -1,0 +1,201 @@
+{
+    "aggregated_rating": 68.8333333333333, 
+    "aggregated_rating_count": 7, 
+    "category": 0, 
+    "collection": 3384, 
+    "cover": {
+        "cloudinary_id": "uj0rtymrzmawnpiv9bns", 
+        "height": 640, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uj0rtymrzmawnpiv9bns.jpg", 
+        "width": 480
+    }, 
+    "created_at": 1467383281888, 
+    "developers": [
+        15609
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "380750"
+    }, 
+    "first_release_date": 1464912000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        47823, 
+        11364, 
+        55092, 
+        25300, 
+        16468, 
+        27092, 
+        11169, 
+        12632, 
+        28168, 
+        23733
+    ], 
+    "genres": [
+        4, 
+        12, 
+        25, 
+        31, 
+        32
+    ], 
+    "id": 19851, 
+    "keywords": [
+        296, 
+        1026, 
+        1033, 
+        5632
+    ], 
+    "name": "Anima: Gate of Memories", 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        49, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 3.333333333333333, 
+    "publishers": [
+        9213
+    ], 
+    "pulse_count": 3, 
+    "rating": 60.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 130
+        }, 
+        {
+            "category": 0, 
+            "date": 1480464000000, 
+            "human": "2016-Nov-30", 
+            "m": 11, 
+            "platform": 3, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477526400000, 
+            "human": "2016-Oct-27", 
+            "m": 10, 
+            "platform": 14, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464912000000, 
+            "human": "2016-Jun-03", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464912000000, 
+            "human": "2016-Jun-03", 
+            "m": 6, 
+            "platform": 49, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464912000000, 
+            "human": "2016-Jun-03", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464912000000, 
+            "human": "2016-Jun-03", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "idqh0n3siwbxahb9kfpt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/idqh0n3siwbxahb9kfpt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xchvaoirfo342o34cn1i", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xchvaoirfo342o34cn1i.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mj5d1heyrtiwx1zafd8d", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mj5d1heyrtiwx1zafd8d.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "g2yba242hjxbeuozj4xg", 
+            "height": 1049, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g2yba242hjxbeuozj4xg.jpg", 
+            "width": 1918
+        }, 
+        {
+            "cloudinary_id": "zyi2ksy5futuohydggi9", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zyi2ksy5futuohydggi9.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "anima-gate-of-memories", 
+    "summary": "Anima Gate of Memories is a third person action RPG that tells the story of two beings bound by an unwilling pact, an ancient monster and a girl who lost her past... Anima is mostly focused on combat and exploration, but it also has deep roleplaying elements.", 
+    "tags": [
+        1, 
+        17, 
+        268435460, 
+        268435468, 
+        268435481, 
+        268435487, 
+        268435488, 
+        536871208, 
+        536871938, 
+        536871945, 
+        536876544, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 64.41666666666666, 
+    "total_rating_count": 9, 
+    "updated_at": 1528743394695, 
+    "url": "https://www.igdb.com/games/anima-gate-of-memories", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "-A6KXIEgUaM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/380750"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.gateofmemories.com/"
+        }
+    ]
+}

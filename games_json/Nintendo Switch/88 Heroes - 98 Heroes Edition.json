@@ -1,0 +1,125 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "b2klihz5iq4t3agpzn1m", 
+        "height": 1421, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/b2klihz5iq4t3agpzn1m.jpg", 
+        "width": 860
+    }, 
+    "created_at": 1507683388131, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1507593600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        51485, 
+        10039, 
+        24199, 
+        25311, 
+        34919, 
+        76229, 
+        16468, 
+        40524, 
+        26848, 
+        25300
+    ], 
+    "genres": [
+        8, 
+        32, 
+        33
+    ], 
+    "id": 74315, 
+    "name": "88 Heroes - 98 Heroes Edition", 
+    "platforms": [
+        130
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        832
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1507593600000, 
+            "human": "2017-Oct-10", 
+            "m": 10, 
+            "platform": 130, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "h8zerxa7zvhldjxpaz1o", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h8zerxa7zvhldjxpaz1o.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "l9219obpr4neyxcsly2l", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l9219obpr4neyxcsly2l.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "xjh8qggnodjheji4qxpd", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xjh8qggnodjheji4qxpd.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "fmjtuq29oycoxmjk2crf", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fmjtuq29oycoxmjk2crf.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "du9rhbz0ignhqim9ak4t", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/du9rhbz0ignhqim9ak4t.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "ikoyuikv4fo4j7evug9w", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ikoyuikv4fo4j7evug9w.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "szsgjjukuhqmi2mzzmwc", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/szsgjjukuhqmi2mzzmwc.jpg", 
+            "width": 745
+        }
+    ], 
+    "slug": "88-heroes-98-heroes-edition", 
+    "summary": "It\u2019s 8:08am on 8th August 1988, and the evil Dr. H8 has brought the world to the brink of total annihilation!", 
+    "tags": [
+        1, 
+        18, 
+        268435464, 
+        268435488, 
+        268435489
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1518044828384, 
+    "url": "https://www.igdb.com/games/88-heroes-98-heroes-edition", 
+    "version_parent": 23501, 
+    "version_title": "98 Heroes Edition", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.risingstargames.com/us/games/nintendo-switch/88-heroes-98-heroes-edition/"
+        }
+    ]
+}

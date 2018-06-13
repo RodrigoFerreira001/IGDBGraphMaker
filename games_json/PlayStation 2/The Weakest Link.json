@@ -1,0 +1,116 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 3703, 
+    "cover": {
+        "cloudinary_id": "u2u1kqahuzvlh7e2haml", 
+        "height": 255, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/u2u1kqahuzvlh7e2haml.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1466721088748, 
+    "developers": [
+        292
+    ], 
+    "first_release_date": 1001635200000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        44242, 
+        18623, 
+        22470, 
+        29173, 
+        22425, 
+        26145, 
+        55590, 
+        55689, 
+        24436, 
+        22406
+    ], 
+    "genres": [
+        9, 
+        13, 
+        26
+    ], 
+    "id": 19745, 
+    "keywords": [
+        772, 
+        1148, 
+        4142, 
+        4345, 
+        7527
+    ], 
+    "name": "The Weakest Link", 
+    "platforms": [
+        7, 
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        66, 
+        2615
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1001980800000, 
+            "human": "2001-Oct-02", 
+            "m": 10, 
+            "platform": 7, 
+            "region": 2, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 1001635200000, 
+            "human": "2001-Sep-28", 
+            "m": 9, 
+            "platform": 7, 
+            "region": 1, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 1004659200000, 
+            "human": "2001-Nov-02", 
+            "m": 11, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2001
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "anpz5uhwagsurpz43n9o", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/anpz5uhwagsurpz43n9o.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "the-weakest-link", 
+    "summary": "The Weakest Link is an interactive adaptation of the NBC game show made famous by host Anne Robinson's cold, no-nonsense demeanor and catchphrase, \"You are the weakest link. Goodbye!\" Robinson contributes to the game through video clips and voiceovers, while the actual gameplay is rendered using polygon graphics. \n \nPlayers choose from 24 existing characters to represent themselves, ranging from a 17-year-old high school senior to a 66-year-old retired bank manager. The rules are the same as in the TV show with one exception: On the show, players provide answers off the top of their head, but here you given are four answers to choose from. Initially, only the first letter of each answer is given, but after ten seconds the full text of the answers are revealed. In Easy mode, the full text is always available, and in Junior mode, players choose from only two answers.", 
+    "tags": [
+        32, 
+        34, 
+        268435465, 
+        268435469, 
+        268435482, 
+        536871684, 
+        536872060, 
+        536875054, 
+        536875257, 
+        536878439
+    ], 
+    "themes": [
+        32, 
+        34
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1515605890434, 
+    "url": "https://www.igdb.com/games/the-weakest-link"
+}

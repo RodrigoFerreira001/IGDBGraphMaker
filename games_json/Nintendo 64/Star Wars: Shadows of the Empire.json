@@ -1,0 +1,337 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "SW: SOTE"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2172, 
+    "cover": {
+        "cloudinary_id": "gbbmnypwndtq5naw1v3c", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gbbmnypwndtq5naw1v3c.jpg", 
+        "width": 756
+    }, 
+    "created_at": 1300186916000, 
+    "developers": [
+        10
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "560170"
+    }, 
+    "first_release_date": 849571200000, 
+    "franchise": 1, 
+    "franchises": [
+        1
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        26401, 
+        2113, 
+        12858, 
+        141, 
+        152, 
+        139, 
+        27314, 
+        166, 
+        163, 
+        150
+    ], 
+    "genres": [
+        5, 
+        31
+    ], 
+    "id": 164, 
+    "keywords": [
+        3, 
+        67, 
+        301, 
+        575, 
+        970, 
+        992, 
+        1025, 
+        1027, 
+        1637, 
+        1710, 
+        1739, 
+        3270, 
+        3486, 
+        3741, 
+        3831, 
+        4142, 
+        4161, 
+        4185, 
+        4250, 
+        4289, 
+        4350, 
+        4359, 
+        4523, 
+        4552, 
+        4660, 
+        4677, 
+        4783, 
+        4892, 
+        4923, 
+        4924, 
+        4929, 
+        4935, 
+        4936, 
+        4940, 
+        5150, 
+        5209, 
+        5357, 
+        5384, 
+        5441, 
+        5587, 
+        5791, 
+        5801, 
+        6282, 
+        6285, 
+        6286, 
+        6287, 
+        6288, 
+        6589, 
+        7235, 
+        8293, 
+        8840, 
+        9349, 
+        10161, 
+        10162, 
+        11121, 
+        12170, 
+        12334, 
+        12453, 
+        12710, 
+        13121, 
+        13491, 
+        14199, 
+        15370, 
+        15808
+    ], 
+    "name": "Star Wars: Shadows of the Empire", 
+    "platforms": [
+        4, 
+        6
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        95, 
+        10, 
+        70
+    ], 
+    "pulse_count": 2, 
+    "rating": 67.0715883318445, 
+    "rating_count": 15, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 874454400000, 
+            "human": "1997-Sep-17", 
+            "m": 9, 
+            "platform": 6, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 849571200000, 
+            "human": "1996-Dec-03", 
+            "m": 12, 
+            "platform": 4, 
+            "y": 1996
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vzctgmoennszlugu5n01", 
+            "height": 300, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vzctgmoennszlugu5n01.jpg", 
+            "width": 390
+        }, 
+        {
+            "cloudinary_id": "hfzfn9ejjrxsstvehszv", 
+            "height": 300, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hfzfn9ejjrxsstvehszv.jpg", 
+            "width": 391
+        }, 
+        {
+            "cloudinary_id": "oaxbbv2aznhe1we03anv", 
+            "height": 225, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oaxbbv2aznhe1we03anv.jpg", 
+            "width": 300
+        }, 
+        {
+            "cloudinary_id": "j8infzb9ceop99xuy5tt", 
+            "height": 300, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j8infzb9ceop99xuy5tt.jpg", 
+            "width": 392
+        }, 
+        {
+            "cloudinary_id": "y525u0hevyx889l7lgps", 
+            "height": 246, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y525u0hevyx889l7lgps.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "l7n7chkpenq4ttxduepz", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l7n7chkpenq4ttxduepz.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "n0zkwldppb6vujzh3owc", 
+            "height": 308, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n0zkwldppb6vujzh3owc.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "pkrix4gep23e68iuklzi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pkrix4gep23e68iuklzi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "b3eroq6ngdmdla0iulpt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b3eroq6ngdmdla0iulpt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "arrkshmbh2mhrgpmrlds", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/arrkshmbh2mhrgpmrlds.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "gxcnpeq3iudiswivrxz7", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gxcnpeq3iudiswivrxz7.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ymd90adcfnc9mg21gzkx", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ymd90adcfnc9mg21gzkx.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "star-wars-shadows-of-the-empire", 
+    "summary": "As Luke Skywalker and the Rebel Alliance struggle to defeat Darth Vader and the Empire, a new threat arises. Dark Prince Xizor aspires to take Darth Vader's place at the Emperor's side. As Dash Rendar, it's up to you to protect Luke and help the Alliance. May the Force be with you!", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435487, 
+        536870915, 
+        536870979, 
+        536871213, 
+        536871487, 
+        536871882, 
+        536871904, 
+        536871937, 
+        536871939, 
+        536872549, 
+        536872622, 
+        536872651, 
+        536874182, 
+        536874398, 
+        536874653, 
+        536874743, 
+        536875054, 
+        536875073, 
+        536875097, 
+        536875162, 
+        536875201, 
+        536875262, 
+        536875271, 
+        536875435, 
+        536875464, 
+        536875572, 
+        536875589, 
+        536875695, 
+        536875804, 
+        536875835, 
+        536875836, 
+        536875841, 
+        536875847, 
+        536875848, 
+        536875852, 
+        536876062, 
+        536876121, 
+        536876269, 
+        536876296, 
+        536876353, 
+        536876499, 
+        536876703, 
+        536876713, 
+        536877194, 
+        536877197, 
+        536877198, 
+        536877199, 
+        536877200, 
+        536877501, 
+        536878147, 
+        536879205, 
+        536879752, 
+        536880261, 
+        536881073, 
+        536881074, 
+        536882033, 
+        536883082, 
+        536883246, 
+        536883365, 
+        536883622, 
+        536884033, 
+        536884403, 
+        536885111, 
+        536886282, 
+        536886720, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 66.03579416592225, 
+    "total_rating_count": 16, 
+    "updated_at": 1527705587383, 
+    "url": "https://www.igdb.com/games/star-wars-shadows-of-the-empire", 
+    "videos": [
+        {
+            "name": "Game intro", 
+            "video_id": "x8xNSgSof2E"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "8arRt8aDS0M"
+        }, 
+        {
+            "name": "Game intro", 
+            "video_id": "3yjqaeO14c4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://starwars.wikia.com/wiki/Star_Wars%3A_Shadows_of_the_Empire"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Star_Wars:_Shadows_of_the_Empire_(video_game)"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/560170"
+        }
+    ]
+}

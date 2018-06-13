@@ -1,0 +1,148 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "b9bxvp90eerkswacld3m", 
+        "height": 697, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/b9bxvp90eerkswacld3m.jpg", 
+        "width": 583
+    }, 
+    "created_at": 1467798710533, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "451100"
+    }, 
+    "first_release_date": 1463702400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28113, 
+        18167, 
+        25222, 
+        11423, 
+        76110, 
+        6732, 
+        27266, 
+        26223, 
+        14047, 
+        13163
+    ], 
+    "genres": [
+        9, 
+        32
+    ], 
+    "id": 19888, 
+    "keywords": [
+        1158, 
+        1293, 
+        2875, 
+        4004, 
+        4134
+    ], 
+    "name": "Cubikolor", 
+    "platforms": [
+        6, 
+        14, 
+        49
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1463702400000, 
+            "human": "2016-May-20", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1463702400000, 
+            "human": "2016-May-20", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1463702400000, 
+            "human": "2016-May-20", 
+            "m": 5, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1463702400000, 
+            "human": "2016-May-20", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bckty0srwmilasfr3wgb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bckty0srwmilasfr3wgb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qzbfwtzdcwgodu7bfm29", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qzbfwtzdcwgodu7bfm29.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "i80r5dsln61tz2wcb3u8", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i80r5dsln61tz2wcb3u8.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yy5xidzpxqhlw3fw6tef", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yy5xidzpxqhlw3fw6tef.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gprnma0dkvx0ua8zhd82", 
+            "height": 640, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gprnma0dkvx0ua8zhd82.jpg", 
+            "width": 1138
+        }
+    ], 
+    "slug": "cubikolor", 
+    "summary": "Armed only with your logic and your Kube, move through the 150 levels outwitting the traps in the System, an evil, scheming entity, to confront the machine and pass the test!", 
+    "tags": [
+        268435465, 
+        268435488, 
+        536872070, 
+        536872205, 
+        536873787, 
+        536874916, 
+        536875046
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1522396071987, 
+    "url": "https://www.igdb.com/games/cubikolor", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.cubikolor.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/451100"
+        }
+    ]
+}

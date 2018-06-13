@@ -1,0 +1,79 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bhh6jivrcnzu0phawszo", 
+        "height": 480, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bhh6jivrcnzu0phawszo.jpg", 
+        "width": 657
+    }, 
+    "created_at": 1517329487739, 
+    "first_release_date": 1374710400000, 
+    "id": 84578, 
+    "name": "Chain Blaster", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1472688000000, 
+            "human": "2016-Sep-01", 
+            "m": 9, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1374710400000, 
+            "human": "2013-Jul-25", 
+            "m": 7, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "whzdsgkszucql7u7mmkh", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/whzdsgkszucql7u7mmkh.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "hhchcbpop3qiulu5lej0", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hhchcbpop3qiulu5lej0.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "cny8encglusairi9yasw", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cny8encglusairi9yasw.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "ugghalus09uzf6jkeegh", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ugghalus09uzf6jkeegh.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "h57uj1jsmxhvi72gcww0", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h57uj1jsmxhvi72gcww0.jpg", 
+            "width": 400
+        }
+    ], 
+    "slug": "chain-blaster", 
+    "summary": "Set in the future, a deadly virus infiltrates the world's super computer and puts on standby the world's nuclear weapons ready for lunch.", 
+    "updated_at": 1518052449212, 
+    "url": "https://www.igdb.com/games/chain-blaster", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.gstyle-games.com/en/3ds/chainblaster/"
+        }
+    ]
+}

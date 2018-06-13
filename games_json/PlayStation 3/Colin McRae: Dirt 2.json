@@ -1,0 +1,383 @@
+{
+    "aggregated_rating": 79.0, 
+    "aggregated_rating_count": 12, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Colin McRae: DiRT 2"
+        }, 
+        {
+            "name": "DiRT 2"
+        }
+    ], 
+    "category": 0, 
+    "collection": 118, 
+    "cover": {
+        "cloudinary_id": "pz391ipwwdmtg7gry1ax", 
+        "height": 750, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pz391ipwwdmtg7gry1ax.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1317717337000, 
+    "developers": [
+        412
+    ], 
+    "first_release_date": 1252368000000, 
+    "game_engines": [
+        99
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        26948, 
+        524, 
+        98, 
+        28951, 
+        97, 
+        7966, 
+        943, 
+        11198, 
+        3235, 
+        105
+    ], 
+    "genres": [
+        10, 
+        14
+    ], 
+    "id": 561, 
+    "keywords": [
+        28, 
+        401, 
+        971, 
+        1158, 
+        1293, 
+        1299, 
+        1409, 
+        1440, 
+        1678, 
+        1783, 
+        2362, 
+        2478, 
+        2543, 
+        3425, 
+        4134, 
+        4135, 
+        4149, 
+        4157, 
+        4161, 
+        4180, 
+        4205, 
+        4245, 
+        4284, 
+        4294, 
+        4345, 
+        4359, 
+        4364, 
+        4543, 
+        4578, 
+        4586, 
+        4820, 
+        4890, 
+        5106, 
+        5196, 
+        5507, 
+        5553, 
+        5572, 
+        5584, 
+        5653, 
+        5685, 
+        5783, 
+        5814, 
+        5877, 
+        5878, 
+        6036, 
+        6135, 
+        6311, 
+        6659, 
+        6703, 
+        6765, 
+        7070, 
+        7407, 
+        7432, 
+        7513, 
+        8138, 
+        9144, 
+        9382, 
+        9901, 
+        9963, 
+        10437, 
+        10495, 
+        10547, 
+        10919, 
+        11267, 
+        11392, 
+        11474, 
+        11549, 
+        12185, 
+        12694, 
+        12817, 
+        13083, 
+        13519, 
+        13575, 
+        13576
+    ], 
+    "name": "Colin McRae: Dirt 2", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        9, 
+        38, 
+        12, 
+        20, 
+        5
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        115, 
+        334
+    ], 
+    "rating": 83.242921452686, 
+    "rating_count": 50, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1252627200000, 
+            "human": "2009-Sep-11", 
+            "m": 9, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1252368000000, 
+            "human": "2009-Sep-08", 
+            "m": 9, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1257379200000, 
+            "human": "2009-Nov-05", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1252627200000, 
+            "human": "2009-Sep-11", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1252368000000, 
+            "human": "2009-Sep-08", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1259625600000, 
+            "human": "2009-Dec-01", 
+            "m": 12, 
+            "platform": 6, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1252368000000, 
+            "human": "2009-Sep-08", 
+            "m": 9, 
+            "platform": 38, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1252368000000, 
+            "human": "2009-Sep-08", 
+            "m": 9, 
+            "platform": 9, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1252368000000, 
+            "human": "2009-Sep-08", 
+            "m": 9, 
+            "platform": 20, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1252368000000, 
+            "human": "2009-Sep-08", 
+            "m": 9, 
+            "platform": 12, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1252368000000, 
+            "human": "2009-Sep-08", 
+            "m": 9, 
+            "platform": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1252368000000, 
+            "human": "2009-Sep-08", 
+            "m": 9, 
+            "platform": 14, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "l0lkf75ityzbwcot1mpd", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l0lkf75ityzbwcot1mpd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "b8zwx6720voxsqz3p9n8", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b8zwx6720voxsqz3p9n8.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "z1hb7cipbso3trxyus6d", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z1hb7cipbso3trxyus6d.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yicuiozeenzkg2wppcqo", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yicuiozeenzkg2wppcqo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "sqc47tychtgwjzn71b87", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sqc47tychtgwjzn71b87.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "colin-mcrae-dirt-2", 
+    "summary": "As the sequel to the acclaimed racer of 2007, DiRT 2 is set to take off-road racing games to a new level, with benchmark tech, thrilling new race types, big event atmosphere, stunning locations, a new breed of off-roading heroes and a peerless line-up of super-charged speed machines. Promising a thrilling race experience and an extreme sports attitude that borrows from snowboarding and skateboarding culture, DiRT 2 will take players on a World Tour to diverse and challenging real-world environments to compete in contemporary off-road events. Specifically selected to deliver aggressive and fast paced racing, DiRT 2's garage will house a best-in-class collection of officially licensed rally cars and off-road vehicles; covering seven vehicle classes and players will be given the keys to powerful machines right from the off.", 
+    "tags": [
+        1, 
+        32, 
+        268435466, 
+        268435470, 
+        536870940, 
+        536871313, 
+        536871883, 
+        536872070, 
+        536872205, 
+        536872211, 
+        536872321, 
+        536872352, 
+        536872590, 
+        536872695, 
+        536873274, 
+        536873390, 
+        536873455, 
+        536874337, 
+        536875046, 
+        536875047, 
+        536875061, 
+        536875069, 
+        536875073, 
+        536875092, 
+        536875117, 
+        536875157, 
+        536875196, 
+        536875206, 
+        536875257, 
+        536875271, 
+        536875276, 
+        536875455, 
+        536875490, 
+        536875498, 
+        536875732, 
+        536875802, 
+        536876018, 
+        536876108, 
+        536876419, 
+        536876465, 
+        536876484, 
+        536876496, 
+        536876565, 
+        536876597, 
+        536876695, 
+        536876726, 
+        536876789, 
+        536876790, 
+        536876948, 
+        536877047, 
+        536877223, 
+        536877571, 
+        536877615, 
+        536877677, 
+        536877982, 
+        536878319, 
+        536878344, 
+        536878425, 
+        536879050, 
+        536880056, 
+        536880294, 
+        536880813, 
+        536880875, 
+        536881349, 
+        536881407, 
+        536881459, 
+        536881831, 
+        536882179, 
+        536882304, 
+        536882386, 
+        536882461, 
+        536883097, 
+        536883606, 
+        536883729, 
+        536883995, 
+        536884431, 
+        536884487, 
+        536884488, 
+        1073741825, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        32
+    ], 
+    "total_rating": 81.121460726343, 
+    "total_rating_count": 62, 
+    "updated_at": 1527682213774, 
+    "url": "https://www.igdb.com/games/colin-mcrae-dirt-2", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.dirt2game.com/"
+        }
+    ]
+}

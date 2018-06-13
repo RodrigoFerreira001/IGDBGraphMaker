@@ -1,0 +1,439 @@
+{
+    "aggregated_rating": 80.8, 
+    "aggregated_rating_count": 14, 
+    "alternative_names": [
+        {
+            "comment": "Mac title", 
+            "name": "Rage: Campaign Edition"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "fatwqmumd9zcrbaettew", 
+            "height": 710, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fatwqmumd9zcrbaettew.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "s8ytxuudff70ibet7cz7", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s8ytxuudff70ibet7cz7.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "r5kssdaqjpm0ofev307k", 
+            "height": 700, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r5kssdaqjpm0ofev307k.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "ubxzp8j1wwdawemta4td", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ubxzp8j1wwdawemta4td.jpg", 
+            "width": 1400
+        }, 
+        {
+            "cloudinary_id": "z3ue9j8l6xzqs8qtco5r", 
+            "height": 860, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z3ue9j8l6xzqs8qtco5r.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "dghswce5dt9autitaku9", 
+            "height": 690, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dghswce5dt9autitaku9.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "r3tgtzbvocl6oyueucw4", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r3tgtzbvocl6oyueucw4.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "vwavgntlufpsdxbkmvg9", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vwavgntlufpsdxbkmvg9.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "mssjepjldvdbhpwlqpkq", 
+            "height": 785, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mssjepjldvdbhpwlqpkq.jpg", 
+            "width": 1100
+        }, 
+        {
+            "cloudinary_id": "k0te6vsl3gacuuuhcnge", 
+            "height": 730, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k0te6vsl3gacuuuhcnge.jpg", 
+            "width": 1200
+        }
+    ], 
+    "category": 0, 
+    "collection": 1427, 
+    "cover": {
+        "cloudinary_id": "d0ndnasa886xcgoge84k", 
+        "height": 370, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/d0ndnasa886xcgoge84k.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1306921239000, 
+    "developers": [
+        184
+    ], 
+    "dlcs": [
+        10751
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "This is a first-person shooter in which players assume the role of a survivor who must battle and survive amidst a post-apocalyptic wasteland. Players use pistols, machine guns, rocket launchers, and grenades to kill human enemies and mutant bandits. Firefights are accompanied by realistic gunfire, explosions, and screams of pain from injured characters. Large blood-splatter effects occur frequently, and enemies often explode into bloody fragments when killed. A variety of weapons cause dismemberment or decapitation, and dead bodies continue to incur damage when hit (e.g., blood spurts, breaking into pieces). Some environments contain other instances of gore: a mutant's decomposing body; a large pile of bloody corpses. The words \u201cf**k\u201d and \u201csh*t\u201d can be heard in the dialogue."
+    }, 
+    "external": {
+        "steam": "9200"
+    }, 
+    "first_release_date": 1317686400000, 
+    "game_engines": [
+        47
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        68287, 
+        27314, 
+        64204, 
+        36950, 
+        673, 
+        142, 
+        36781, 
+        11567, 
+        28029, 
+        7329
+    ], 
+    "genres": [
+        5, 
+        10
+    ], 
+    "id": 509, 
+    "keywords": [
+        25, 
+        69, 
+        453, 
+        466, 
+        484, 
+        778, 
+        923, 
+        970, 
+        1025, 
+        1459, 
+        3627, 
+        4345, 
+        4918, 
+        5633, 
+        5845, 
+        8196, 
+        12307, 
+        13509
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Rage", 
+    "pegi": {
+        "rating": 5, 
+        "synopsis": "The content of this game is suitable for persons aged 18 years and over only.\r\nIt contains: Extreme violence - Strong language\r\nThis game allows the player to interact with other players ONLINE."
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 4.333333333333334, 
+    "publishers": [
+        28, 
+        73
+    ], 
+    "pulse_count": 23, 
+    "rating": 76.0124562489397, 
+    "rating_count": 89, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1317945600000, 
+            "human": "2011-Oct-07", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317686400000, 
+            "human": "2011-Oct-04", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317686400000, 
+            "human": "2011-Oct-04", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317686400000, 
+            "human": "2011-Oct-04", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317686400000, 
+            "human": "2011-Oct-04", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 7, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317686400000, 
+            "human": "2011-Oct-04", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 7, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317686400000, 
+            "human": "2011-Oct-04", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 7, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317859200000, 
+            "human": "2011-Oct-06", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317859200000, 
+            "human": "2011-Oct-06", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317859200000, 
+            "human": "2011-Oct-06", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1319673600000, 
+            "human": "2011-Oct-27", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317859200000, 
+            "human": "2011-Oct-06", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317859200000, 
+            "human": "2011-Oct-06", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317945600000, 
+            "human": "2011-Oct-07", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317945600000, 
+            "human": "2011-Oct-07", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1328140800000, 
+            "human": "2012-Feb-02", 
+            "m": 2, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hystcvtz9les3x48ldvx", 
+            "height": 1600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hystcvtz9les3x48ldvx.jpg", 
+            "width": 2560
+        }, 
+        {
+            "cloudinary_id": "gsiuaow0bhncpnzuus14", 
+            "height": 1600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gsiuaow0bhncpnzuus14.jpg", 
+            "width": 2560
+        }, 
+        {
+            "cloudinary_id": "nbt8izvrksnuzlwgfhqb", 
+            "height": 1600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nbt8izvrksnuzlwgfhqb.jpg", 
+            "width": 2560
+        }, 
+        {
+            "cloudinary_id": "z91ks671ze5ag7vkmzhz", 
+            "height": 1536, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z91ks671ze5ag7vkmzhz.jpg", 
+            "width": 2552
+        }, 
+        {
+            "cloudinary_id": "liaghwvdxltwemok8ll5", 
+            "height": 1600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/liaghwvdxltwemok8ll5.jpg", 
+            "width": 2560
+        }
+    ], 
+    "slug": "rage", 
+    "summary": "RAGE is a groundbreaking first-person shooter set in the not-too-distant future after an asteroid impacts Earth, leaving a ravaged world behind. You emerge into this vast wasteland to discover humanity working to rebuild itself against such forces as raider gangs, mutants, and the Authority \u2013 an oppressive government regime that has a special interest in you in particular. \n \nFeaturing intense first-person action, vehicle combat, an expansive world and jaw-dropping graphics powered by id\u2019s revolutionary idTech 5 technology. RAGE promises an experience like no other.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435466, 
+        536870937, 
+        536870981, 
+        536871365, 
+        536871378, 
+        536871396, 
+        536871690, 
+        536871835, 
+        536871882, 
+        536871937, 
+        536872371, 
+        536874539, 
+        536875257, 
+        536875830, 
+        536876545, 
+        536876757, 
+        536879108, 
+        536883219, 
+        536884421, 
+        1073741825, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "time_to_beat": {
+        "completely": 104400, 
+        "normally": 50400
+    }, 
+    "total_rating": 78.40622812446985, 
+    "total_rating_count": 103, 
+    "updated_at": 1528422561100, 
+    "url": "https://www.igdb.com/games/rage", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "0jecDe-rK24"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://rage.com/gate/"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/RAGEgame"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Rage_(video_game)"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/9200"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://rage.wikia.com/"
+        }
+    ]
+}

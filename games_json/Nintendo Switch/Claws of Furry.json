@@ -1,0 +1,106 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qxioa2sznah4qyxqzfli", 
+        "height": 450, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qxioa2sznah4qyxqzfli.jpg", 
+        "width": 656
+    }, 
+    "created_at": 1512047740426, 
+    "external": {
+        "steam": "656580"
+    }, 
+    "first_release_date": 1546214400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        37022, 
+        55289, 
+        44191, 
+        34919, 
+        25646, 
+        40524, 
+        25311, 
+        23175, 
+        28277, 
+        37419
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 76436, 
+    "name": "Claws of Furry", 
+    "platforms": [
+        130
+    ], 
+    "popularity": 1.0, 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 130, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ae3i7ldofokvxk6br5xr", 
+            "height": 910, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ae3i7ldofokvxk6br5xr.jpg", 
+            "width": 1610
+        }, 
+        {
+            "cloudinary_id": "oodxfknq9shqmpmv7cup", 
+            "height": 909, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oodxfknq9shqmpmv7cup.jpg", 
+            "width": 1615
+        }, 
+        {
+            "cloudinary_id": "clrygytrmjsi7yhxlosn", 
+            "height": 910, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/clrygytrmjsi7yhxlosn.jpg", 
+            "width": 1615
+        }, 
+        {
+            "cloudinary_id": "faug0yq8n38lplnvqzq9", 
+            "height": 905, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/faug0yq8n38lplnvqzq9.jpg", 
+            "width": 1614
+        }, 
+        {
+            "cloudinary_id": "gohapcwybu0jbfdkvrz2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gohapcwybu0jbfdkvrz2.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "claws-of-furry", 
+    "summary": "Punch and claw your way through forty fast paced levels of pure mayhem, while honing your Ninja Cat skills, in order to rescue your Master from the evil claws of an unknown enemy.", 
+    "tags": [
+        1, 
+        268435487, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1522233179674, 
+    "url": "https://www.igdb.com/games/claws-of-furry", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.clawsoffurry.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/656580"
+        }
+    ]
+}

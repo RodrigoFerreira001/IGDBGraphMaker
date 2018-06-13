@@ -1,0 +1,210 @@
+{
+    "aggregated_rating": 55.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 2986, 
+    "cover": {
+        "cloudinary_id": "iabyzn2nbb7rg0423uab", 
+        "height": 401, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iabyzn2nbb7rg0423uab.jpg", 
+        "width": 248
+    }, 
+    "created_at": 1381662915965, 
+    "developers": [
+        1336, 
+        1309, 
+        789
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "339040"
+    }, 
+    "first_release_date": 1129593600000, 
+    "franchise": 129, 
+    "franchises": [
+        129
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        27314, 
+        19448, 
+        25300, 
+        36950, 
+        55752, 
+        36856, 
+        11567, 
+        25311, 
+        19174, 
+        26766
+    ], 
+    "genres": [
+        8, 
+        31
+    ], 
+    "id": 3006, 
+    "keywords": [
+        3, 
+        770, 
+        970, 
+        1027, 
+        2049, 
+        2184, 
+        4142, 
+        4162, 
+        4331, 
+        4345, 
+        4380, 
+        4382, 
+        4531, 
+        5782, 
+        13109
+    ], 
+    "name": "Chicken Little", 
+    "platforms": [
+        6, 
+        11, 
+        9, 
+        24, 
+        21, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        789
+    ], 
+    "rating": 80.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1130889600000, 
+            "human": "2005-Nov-02", 
+            "m": 11, 
+            "platform": 6, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1129593600000, 
+            "human": "2005-Oct-18", 
+            "m": 10, 
+            "platform": 24, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1129593600000, 
+            "human": "2005-Oct-18", 
+            "m": 10, 
+            "platform": 11, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1129593600000, 
+            "human": "2005-Oct-18", 
+            "m": 10, 
+            "platform": 8, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1129593600000, 
+            "human": "2005-Oct-18", 
+            "m": 10, 
+            "platform": 21, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1329264000000, 
+            "human": "2012-Feb-15", 
+            "m": 2, 
+            "platform": 9, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hbtmanlad9bmuhynlkar", 
+            "height": 1024, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hbtmanlad9bmuhynlkar.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "duyy4d8o7rq7siibjrjh", 
+            "height": 1024, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/duyy4d8o7rq7siibjrjh.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "at1zfrtmdv76occhpiw4", 
+            "height": 1024, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/at1zfrtmdv76occhpiw4.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "x20cqd4isepfh5rbajyu", 
+            "height": 1024, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x20cqd4isepfh5rbajyu.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "io4snkgvpqr35ydxdv4q", 
+            "height": 1024, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/io4snkgvpqr35ydxdv4q.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "chicken-little", 
+    "summary": "Based on Walt Disney\u2019s  feature 3D animation film Chicken Little, Chicken Little the action-packed video game catapults you into the hair-raising adventures of the movie and beyond.", 
+    "tags": [
+        1, 
+        18, 
+        268435464, 
+        268435487, 
+        536870915, 
+        536871682, 
+        536871882, 
+        536871939, 
+        536872961, 
+        536873096, 
+        536875054, 
+        536875074, 
+        536875243, 
+        536875257, 
+        536875292, 
+        536875294, 
+        536875443, 
+        536876694, 
+        536884021, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 67.5, 
+    "total_rating_count": 3, 
+    "updated_at": 1523429128543, 
+    "url": "https://www.igdb.com/games/chicken-little", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "MGQMKw9Hq8k"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/339040"
+        }
+    ]
+}

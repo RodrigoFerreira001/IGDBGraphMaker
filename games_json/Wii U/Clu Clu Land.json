@@ -1,0 +1,281 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30af\u30eb\u30af\u30eb\u30e9\u30f3\u30c9"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "j0gee7d9qlljfjskqnm4", 
+        "height": 382, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/j0gee7d9qlljfjskqnm4.jpg", 
+        "width": 260
+    }, 
+    "created_at": 1407317045468, 
+    "developers": [
+        761
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 469929600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        19934, 
+        19376, 
+        18167, 
+        8197, 
+        19448, 
+        19301, 
+        76216, 
+        18918, 
+        3445, 
+        11423
+    ], 
+    "genres": [
+        9, 
+        15, 
+        33
+    ], 
+    "id": 7573, 
+    "keywords": [
+        2875, 
+        3782, 
+        4134, 
+        4145, 
+        4164, 
+        4522, 
+        4523, 
+        4754, 
+        5436, 
+        6018, 
+        10091, 
+        11566, 
+        14195, 
+        14917
+    ], 
+    "name": "Clu Clu Land", 
+    "platforms": [
+        41, 
+        24, 
+        47, 
+        37, 
+        5, 
+        18
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        70
+    ], 
+    "rating": 53.6065059650717, 
+    "rating_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1384905600000, 
+            "human": "2013-Nov-20", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1381968000000, 
+            "human": "2013-Oct-17", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1381968000000, 
+            "human": "2013-Oct-17", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1399507200000, 
+            "human": "2014-May-08", 
+            "m": 5, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1395878400000, 
+            "human": "2014-Mar-27", 
+            "m": 3, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1370995200000, 
+            "human": "2013-Jun-12", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1236643200000, 
+            "human": "2009-Mar-10", 
+            "m": 3, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1236297600000, 
+            "human": "2009-Mar-06", 
+            "m": 3, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1220227200000, 
+            "human": "2008-Sep-01", 
+            "m": 9, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 498441600000, 
+            "human": "1985-Oct-18", 
+            "m": 10, 
+            "platform": 18, 
+            "region": 2, 
+            "y": 1985
+        }, 
+        {
+            "category": 0, 
+            "date": 469929600000, 
+            "human": "1984-Nov-22", 
+            "m": 11, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 0, 
+            "date": 540345600000, 
+            "human": "1987-Feb-15", 
+            "m": 2, 
+            "platform": 18, 
+            "region": 1, 
+            "y": 1987
+        }, 
+        {
+            "category": 0, 
+            "date": 1085097600000, 
+            "human": "2004-May-21", 
+            "m": 5, 
+            "platform": 24, 
+            "region": 5, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1220227200000, 
+            "human": "2008-Sep-01", 
+            "m": 9, 
+            "platform": 47, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1236297600000, 
+            "human": "2009-Mar-06", 
+            "m": 3, 
+            "platform": 47, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1236643200000, 
+            "human": "2009-Mar-10", 
+            "m": 3, 
+            "platform": 47, 
+            "region": 5, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rdwmsy956a0ginewrhdp", 
+            "height": 200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rdwmsy956a0ginewrhdp.jpg", 
+            "width": 267
+        }, 
+        {
+            "cloudinary_id": "t9vwhqeokkotqn2ge7y0", 
+            "height": 200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t9vwhqeokkotqn2ge7y0.jpg", 
+            "width": 267
+        }, 
+        {
+            "cloudinary_id": "e2bdq3ba8gatooayi6z2", 
+            "height": 200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e2bdq3ba8gatooayi6z2.jpg", 
+            "width": 267
+        }
+    ], 
+    "slug": "clu-clu-land", 
+    "summary": "Are you clever enough to unravel the mystery of Clu Clu Land? The evil Sea Urchin has hidden all the gold in Clu Clu Land in an underground mystery maze. It's up to you to find the gold before time runs out! But beware. The Sea Urchin will do everything in his power to stop you. He'll set up traps to trick you, like inviting you into his house where you'll be swallowed alive! Or bounce you against the Rubber Trap and land you flat on your back! But if you, or you and a friend, can control the Sea Urchin by stunning him with electric shockwaves, you just might find out where he's hidden the gold and move on to an exciting bonus round! \n \nThis version of Clu Clu Land was released for Nintendo's Versus series arcade hardware as Vs. Clu Clu Land. It also received a home release in Japan under the name Clu Clu Land: Welcome to New Clu Clu Land.", 
+    "tags": [
+        1, 
+        268435465, 
+        268435471, 
+        268435489, 
+        536873787, 
+        536874694, 
+        536875046, 
+        536875057, 
+        536875076, 
+        536875434, 
+        536875435, 
+        536875666, 
+        536876348, 
+        536876930, 
+        536881003, 
+        536882478, 
+        536885107, 
+        536885829, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 53.6065059650717, 
+    "total_rating_count": 7, 
+    "updated_at": 1524901029993, 
+    "url": "https://www.igdb.com/games/clu-clu-land", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "wKU75GM33mk"
+        }
+    ]
+}

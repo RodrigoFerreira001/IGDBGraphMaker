@@ -1,0 +1,170 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "PSO"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "pjga4yyvsfeoph2uv2rw", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pjga4yyvsfeoph2uv2rw.jpg", 
+            "width": 780
+        }, 
+        {
+            "cloudinary_id": "xneniplesi7pqkaphdcg", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xneniplesi7pqkaphdcg.jpg", 
+            "width": 880
+        }, 
+        {
+            "cloudinary_id": "wpxcrd6icvyumtdpisxj", 
+            "height": 750, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wpxcrd6icvyumtdpisxj.jpg", 
+            "width": 545
+        }, 
+        {
+            "cloudinary_id": "egzsowtk2vqitkmnt6ez", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/egzsowtk2vqitkmnt6ez.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "cx83nqha2lzsoetlwrrw", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cx83nqha2lzsoetlwrrw.jpg", 
+            "width": 1000
+        }
+    ], 
+    "category": 0, 
+    "collection": 2145, 
+    "cover": {
+        "cloudinary_id": "vhsejkjhtcdesr450zuk", 
+        "height": 411, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vhsejkjhtcdesr450zuk.jpg", 
+        "width": 420
+    }, 
+    "created_at": 1470001204547, 
+    "developers": [
+        395
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 977356800000, 
+    "franchise": 801, 
+    "franchises": [
+        801
+    ], 
+    "game_modes": [
+        1, 
+        5
+    ], 
+    "games": [
+        25300, 
+        25311, 
+        47823, 
+        26766, 
+        19448, 
+        36950, 
+        59516, 
+        55289, 
+        27314, 
+        19174
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "id": 21968, 
+    "keywords": [
+        900, 
+        970, 
+        1333, 
+        4826, 
+        6250, 
+        9637, 
+        12425
+    ], 
+    "name": "Phantasy Star Online", 
+    "platforms": [
+        6, 
+        23
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        229
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1008806400000, 
+            "human": "2001-Dec-20", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 980726400000, 
+            "human": "2001-Jan-29", 
+            "m": 1, 
+            "platform": 23, 
+            "region": 2, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 977356800000, 
+            "human": "2000-Dec-21", 
+            "m": 12, 
+            "platform": 23, 
+            "region": 5, 
+            "y": 2000
+        }
+    ], 
+    "slug": "phantasy-star-online", 
+    "summary": "Pioneer 2 finally completed it's long voyage to the new home world. But as the ship entered orbit, an enormous explosion shook the entire planet, and all contact with the thousands of people already there was lost. Now, in the first worldwide online console RPG, players from around the globe must unite to discover what has happened. Phantasy Star Online continues in the tradition of one of the most popular series of all time, and becomes a revolutionary and truly global gaming experience in an online, persistent world.", 
+    "tags": [
+        1, 
+        18, 
+        268435468, 
+        268435487, 
+        536871812, 
+        536871882, 
+        536872245, 
+        536875738, 
+        536877162, 
+        536880549, 
+        536883337, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528340863365, 
+    "url": "https://www.igdb.com/games/phantasy-star-online", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "dyEnJCgTZds"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Phantasy_Star_Online"
+        }
+    ]
+}

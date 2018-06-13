@@ -1,0 +1,88 @@
+{
+    "category": 3, 
+    "cover": {
+        "cloudinary_id": "ggivico0b3o9pcw7m45p", 
+        "height": 909, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ggivico0b3o9pcw7m45p.jpg", 
+        "width": 729
+    }, 
+    "created_at": 1507135523698, 
+    "developers": [
+        1843
+    ], 
+    "first_release_date": 1512518400000, 
+    "game_engines": [
+        412
+    ], 
+    "games": [
+        28029, 
+        25300, 
+        25311, 
+        36608, 
+        68287, 
+        37088, 
+        16468, 
+        23, 
+        36950, 
+        59516
+    ], 
+    "genres": [
+        5, 
+        12
+    ], 
+    "id": 72870, 
+    "name": "Horizon: Zero Dawn Complete Edition", 
+    "platforms": [
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        10100
+    ], 
+    "pulse_count": 12, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1512518400000, 
+            "human": "2017-Dec-06", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "slug": "horizon-zero-dawn-complete-edition", 
+    "tags": [
+        1, 
+        18, 
+        38, 
+        268435461, 
+        268435468
+    ], 
+    "themes": [
+        1, 
+        18, 
+        38
+    ], 
+    "time_to_beat": {
+        "completely": 331200
+    }, 
+    "updated_at": 1527260425781, 
+    "url": "https://www.igdb.com/games/horizon-zero-dawn-complete-edition", 
+    "version_parent": 11156, 
+    "version_title": "Complete Edition", 
+    "websites": [
+        {
+            "category": 5, 
+            "url": "https://twitter.com/Guerrilla"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Horizon_Zero_Dawn"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.guerrilla-games.com/play/horizon"
+        }
+    ]
+}

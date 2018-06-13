@@ -1,0 +1,386 @@
+{
+    "aggregated_rating": 72.0, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 1349, 
+    "cover": {
+        "cloudinary_id": "jjzufpfxtfwvuqbbvniv", 
+        "height": 353, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jjzufpfxtfwvuqbbvniv.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1372770517092, 
+    "developers": [
+        1118
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "This is a first/third-person action game in which players battle each other in medieval-style combat. Players select characters (e.g., knight, vanguard, archer, man-at-arms) to engage in frenetic hand-to-hand combat using swords, arrows, maces, daggers, and pikes. Characters are often shown stabbed, slashed, and impaled during battles; some weapons allow players to cut off characters' heads or limbs. Non-combatant villagers can also be attacked without penalty, though the game does not encourage this activity. Combat is highlighted by large blood-splatter effects, screams of pain, and frequent impact sounds. "
+    }, 
+    "expansions": [
+        10083
+    ], 
+    "external": {
+        "steam": "219640"
+    }, 
+    "first_release_date": 1350345600000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        6732, 
+        7533, 
+        3277, 
+        2025, 
+        7202, 
+        28204, 
+        2368, 
+        26855, 
+        4843, 
+        23193
+    ], 
+    "genres": [
+        4, 
+        25, 
+        32
+    ], 
+    "id": 2358, 
+    "keywords": [
+        117, 
+        151, 
+        227, 
+        426, 
+        558, 
+        701, 
+        1158, 
+        1240, 
+        1333, 
+        1345, 
+        1494, 
+        2154, 
+        2414, 
+        4134, 
+        4179, 
+        4213, 
+        4239, 
+        4275, 
+        4287, 
+        4330, 
+        4359, 
+        4392, 
+        4393, 
+        4394, 
+        4419, 
+        4460, 
+        4461, 
+        4547, 
+        4552, 
+        4580, 
+        4681, 
+        4738, 
+        4826, 
+        4863, 
+        4881, 
+        4895, 
+        4901, 
+        4902, 
+        4957, 
+        4975, 
+        4979, 
+        5147, 
+        5209, 
+        5443, 
+        5560, 
+        5609, 
+        5627, 
+        5649, 
+        5657, 
+        5748, 
+        5790, 
+        5794, 
+        5987, 
+        6315, 
+        6371, 
+        6741, 
+        7026, 
+        7303, 
+        7402, 
+        7613, 
+        7662, 
+        9553, 
+        9635, 
+        10195, 
+        10731, 
+        10919
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 24, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Chivalry : Medieval Warfare", 
+    "pegi": {
+        "rating": 5
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        14, 
+        9, 
+        48, 
+        12, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        1118, 
+        66, 
+        1117
+    ], 
+    "pulse_count": 2, 
+    "rating": 69.02771249851101, 
+    "rating_count": 42, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1449014400000, 
+            "human": "2015-Dec-02", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448928000000, 
+            "human": "2015-Dec-01", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448928000000, 
+            "human": "2015-Dec-01", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1350345600000, 
+            "human": "2012-Oct-16", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1417564800000, 
+            "human": "2014-Dec-03", 
+            "m": 12, 
+            "platform": 12, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1423526400000, 
+            "human": "2015-Feb-10", 
+            "m": 2, 
+            "platform": 9, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424822400000, 
+            "human": "2015-Feb-25", 
+            "m": 2, 
+            "platform": 14, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424822400000, 
+            "human": "2015-Feb-25", 
+            "m": 2, 
+            "platform": 3, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448928000000, 
+            "human": "2015-Dec-01", 
+            "m": 12, 
+            "platform": 49, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448928000000, 
+            "human": "2015-Dec-01", 
+            "m": 12, 
+            "platform": 48, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wjpvgjbwkn2hkyhidhq6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wjpvgjbwkn2hkyhidhq6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "seln1dwkfwus7j0xguux", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/seln1dwkfwus7j0xguux.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dtpdmf0bxwqysf4nhwlj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dtpdmf0bxwqysf4nhwlj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "llvrumqvur59us9hsdos", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/llvrumqvur59us9hsdos.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rtymq6ralqnl6m2o7dlq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rtymq6ralqnl6m2o7dlq.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "chivalry-medieval-warfare", 
+    "summary": "Chivalry: Medieval Warfare is a fast-paced online multiplayer action game which will have players turning in their guns and grenades for battle axes and swords. Chivalry: Medieval Warfare combines a sharp melee edge and familiar competitive gameplay along with the genuine look and feel of open-field combat in the Middle Ages. \n \nPlayers can choose between one of four classes \u2013 Knight, Vanguard, Man-at-Arms and Archer \u2013 each balanced to offer a unique set of strengths and vulnerabilities in any given situation. An extensive armoury of more than sixty period-authentic weapons, including swords, shields, daggers, maces, axes, javelins, longbows and crossbows, delivers deadly choices for decimating foes. \n \nMelee combat in Chivalry: Medieval Warfare is more than just hack and slash. Players will use different attacks, blocks and counters insuring that combat is tactical, responsive and of course chaotic. Prepare to fight in a variety of inspired medieval environments and scenarios. Raid peasant villages, burn crops, siege castles, defend the royal family, or fight to the last man in a gladiatorial arena. Multiple modes provide opportunities to fight as a team for the greater glory of the realm, or for personal honour in duels to the death.", 
+    "tags": [
+        1, 
+        22, 
+        39, 
+        268435460, 
+        268435481, 
+        268435488, 
+        536871029, 
+        536871063, 
+        536871139, 
+        536871338, 
+        536871470, 
+        536871613, 
+        536872070, 
+        536872152, 
+        536872245, 
+        536872257, 
+        536872406, 
+        536873066, 
+        536873326, 
+        536875046, 
+        536875091, 
+        536875125, 
+        536875151, 
+        536875187, 
+        536875199, 
+        536875242, 
+        536875271, 
+        536875304, 
+        536875305, 
+        536875306, 
+        536875331, 
+        536875372, 
+        536875373, 
+        536875459, 
+        536875464, 
+        536875492, 
+        536875593, 
+        536875650, 
+        536875738, 
+        536875775, 
+        536875793, 
+        536875807, 
+        536875813, 
+        536875814, 
+        536875869, 
+        536875887, 
+        536875891, 
+        536876059, 
+        536876121, 
+        536876355, 
+        536876472, 
+        536876521, 
+        536876539, 
+        536876561, 
+        536876569, 
+        536876660, 
+        536876702, 
+        536876706, 
+        536876899, 
+        536877227, 
+        536877283, 
+        536877653, 
+        536877938, 
+        536878215, 
+        536878314, 
+        536878525, 
+        536878574, 
+        536880465, 
+        536880547, 
+        536881107, 
+        536881643, 
+        536881831, 
+        1073741826, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        22, 
+        39
+    ], 
+    "time_to_beat": {
+        "hastly": 18000, 
+        "normally": 90000
+    }, 
+    "total_rating": 70.5138562492555, 
+    "total_rating_count": 46, 
+    "updated_at": 1528351803730, 
+    "url": "https://www.igdb.com/games/chivalry-medieval-warfare", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "L8TroWyTB7s"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "053aRqbEZZg"
+        }, 
+        {
+            "name": "PS4 & Xbox One Announcement Teaser", 
+            "video_id": "DY5F7l4M8v0"
+        }
+    ]
+}

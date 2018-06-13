@@ -1,0 +1,71 @@
+{
+    "aggregated_rating": 73.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 1, 
+    "collection": 1956, 
+    "cover": {
+        "cloudinary_id": "ndqhnnmjc9b5wolpvwcq", 
+        "height": 488, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ndqhnnmjc9b5wolpvwcq.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1469048344845, 
+    "first_release_date": 1372723200000, 
+    "game": 1122, 
+    "id": 20854, 
+    "name": "Call of Duty: Black Ops II - Vengeance", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1375315200000, 
+            "human": "2013-Aug-01", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1375315200000, 
+            "human": "2013-Aug-01", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1372723200000, 
+            "human": "2013-Jul-02", 
+            "m": 7, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ubeocceuxte8gfwnwkkg", 
+            "height": 338, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ubeocceuxte8gfwnwkkg.jpg", 
+            "width": 600
+        }
+    ], 
+    "slug": "call-of-duty-black-ops-ii-vengeance", 
+    "total_rating": 73.3333333333333, 
+    "total_rating_count": 3, 
+    "updated_at": 1493745507735, 
+    "url": "https://www.igdb.com/games/call-of-duty-black-ops-ii-vengeance", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://callofduty.wikia.com/wiki/Vengeance"
+        }
+    ]
+}

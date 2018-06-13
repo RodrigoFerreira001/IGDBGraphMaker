@@ -1,0 +1,149 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "fcbxtxghu4zi3d7fm7eg", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fcbxtxghu4zi3d7fm7eg.jpg", 
+        "width": 565
+    }, 
+    "created_at": 1495887341927, 
+    "external": {
+        "steam": "337680"
+    }, 
+    "first_release_date": 1433376000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25311, 
+        19301, 
+        8773, 
+        11582, 
+        29173, 
+        55590, 
+        23345, 
+        19376, 
+        9789, 
+        33603
+    ], 
+    "genres": [
+        13, 
+        15, 
+        31
+    ], 
+    "id": 36049, 
+    "keywords": [
+        970, 
+        3782
+    ], 
+    "name": "Star Hammer: The Vanguard Prophecy", 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        8299
+    ], 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1472083200000, 
+            "human": "2016-Aug-25", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472688000000, 
+            "human": "2016-Sep-01", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1433376000000, 
+            "human": "2015-Jun-04", 
+            "m": 6, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1433376000000, 
+            "human": "2015-Jun-04", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dxnhu6peusggk2pnaolk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dxnhu6peusggk2pnaolk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xxwacbxrpfopegcc1sji", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xxwacbxrpfopegcc1sji.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "iuvozanozo2rtputfoah", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iuvozanozo2rtputfoah.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dthiml9agsdnwyixqxtr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dthiml9agsdnwyixqxtr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wo4wjnmvronhf8u5fjgp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wo4wjnmvronhf8u5fjgp.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "star-hammer-the-vanguard-prophecy", 
+    "summary": "Take command of Naval Strike Group 7 and lead your fleet to victory in full 3D tactical space combat. Star Hammer: The Vanguard Prophecy is a sci-fi strategy saga that will test your skills as both capital assault ship Captain and naval fleet Commander.", 
+    "tags": [
+        18, 
+        268435469, 
+        268435471, 
+        268435487, 
+        536871882, 
+        536874694
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523429623458, 
+    "url": "https://www.igdb.com/games/star-hammer-the-vanguard-prophecy", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://slitherine.com/games/shvp_PC"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/337680"
+        }
+    ]
+}

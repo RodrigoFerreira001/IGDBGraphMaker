@@ -1,0 +1,348 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "The King"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30c9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b0"
+        }
+    ], 
+    "category": 0, 
+    "collection": 913, 
+    "cover": {
+        "cloudinary_id": "sgu8qhg8dm6t3ongrw0j", 
+        "height": 692, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sgu8qhg8dm6t3ongrw0j.jpg", 
+        "width": 480
+    }, 
+    "created_at": 1340040471688, 
+    "developers": [
+        70
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 363484800000, 
+    "franchise": 845, 
+    "franchises": [
+        845
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        51485, 
+        10039, 
+        55752, 
+        24199, 
+        1070, 
+        95526, 
+        87683, 
+        1073, 
+        103020, 
+        103281
+    ], 
+    "genres": [
+        8, 
+        33
+    ], 
+    "id": 1086, 
+    "keywords": [
+        969, 
+        2152, 
+        4161, 
+        4219, 
+        4292, 
+        4396, 
+        4450, 
+        5171, 
+        7125, 
+        14006
+    ], 
+    "name": "Donkey Kong", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        71, 
+        68, 
+        51, 
+        52, 
+        67, 
+        60, 
+        59, 
+        13, 
+        65, 
+        75, 
+        15, 
+        26, 
+        25, 
+        47, 
+        18, 
+        129, 
+        27
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 5.333333333333333, 
+    "publishers": [
+        70, 
+        2406, 
+        2426, 
+        1121, 
+        1271, 
+        190
+    ], 
+    "pulse_count": 13, 
+    "rating": 75.0899329385424, 
+    "rating_count": 44, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1165017600000, 
+            "human": "2006-Dec-02", 
+            "m": 12, 
+            "platform": 47, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1163894400000, 
+            "human": "2006-Nov-19", 
+            "m": 11, 
+            "platform": 47, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 71, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 129, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 0, 
+            "date": 576460800000, 
+            "human": "1988-Apr-08", 
+            "m": 4, 
+            "platform": 51, 
+            "region": 5, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 427075200000, 
+            "human": "1983-Jul-15", 
+            "m": 7, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 27, 
+            "region": 1, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 410140800000, 
+            "human": "1982", 
+            "m": 12, 
+            "platform": 67, 
+            "region": 2, 
+            "y": 1982
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 410140800000, 
+            "human": "1982", 
+            "m": 12, 
+            "platform": 68, 
+            "region": 2, 
+            "y": 1982
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 65, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 410140800000, 
+            "human": "1982", 
+            "m": 12, 
+            "platform": 59, 
+            "region": 2, 
+            "y": 1982
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 75, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 25, 
+            "region": 1, 
+            "y": 1986
+        }, 
+        {
+            "category": 0, 
+            "date": 582854400000, 
+            "human": "1988-Jun-21", 
+            "m": 6, 
+            "platform": 60, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 363484800000, 
+            "human": "1981-Jul-09", 
+            "m": 7, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1981
+        }, 
+        {
+            "category": 0, 
+            "date": 519177600000, 
+            "human": "1986-Jun-15", 
+            "m": 6, 
+            "platform": 18, 
+            "region": 2, 
+            "y": 1986
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pazfbesewhpyrzdzgqdh", 
+            "height": 225, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pazfbesewhpyrzdzgqdh.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "hjtvm2ihcwruzydiv6o9", 
+            "height": 959, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hjtvm2ihcwruzydiv6o9.jpg", 
+            "width": 1261
+        }, 
+        {
+            "cloudinary_id": "yblfjotwldmhswben91y", 
+            "height": 973, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yblfjotwldmhswben91y.jpg", 
+            "width": 1289
+        }, 
+        {
+            "cloudinary_id": "q69goc4c6ylch6qwiwmc", 
+            "height": 1021, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q69goc4c6ylch6qwiwmc.jpg", 
+            "width": 1303
+        }, 
+        {
+            "cloudinary_id": "xgvuv3tmb69dj7ra9gjm", 
+            "height": 1198, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xgvuv3tmb69dj7ra9gjm.jpg", 
+            "width": 1598
+        }
+    ], 
+    "slug": "donkey-kong", 
+    "summary": "The player controls Jumpman or Mario in home versions. His objective is to reach the top of the stage to save the Lady (Pauline in home versions), although he must jump over barrels and avoid fire, springoboads and sand piles. It became one of the best selling arcade games of its time and set the basics of the platform subgenre \n \nVersion differences: \n- The NES versions features less levels. However, there are two difficulty settings: Game A and Game B. Game A is easier than Game B", 
+    "tags": [
+        1, 
+        268435464, 
+        268435489, 
+        536871881, 
+        536873064, 
+        536875073, 
+        536875131, 
+        536875204, 
+        536875308, 
+        536875362, 
+        536876083, 
+        536878037, 
+        536884918, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 75.0899329385424, 
+    "total_rating_count": 44, 
+    "updated_at": 1528786075301, 
+    "url": "https://www.igdb.com/games/donkey-kong", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "UBHJhla8TO4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Donkey_Kong_(video_game)"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://www.mariowiki.com/Donkey_Kong_(game)"
+        }
+    ]
+}

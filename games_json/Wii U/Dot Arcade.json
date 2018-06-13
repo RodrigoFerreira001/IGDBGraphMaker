@@ -1,0 +1,88 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "zkoj1hkg1zhnroh1xl6w", 
+        "height": 491, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zkoj1hkg1zhnroh1xl6w.jpg", 
+        "width": 960
+    }, 
+    "created_at": 1504783075426, 
+    "first_release_date": 1427328000000, 
+    "games": [
+        76110, 
+        36608, 
+        34919, 
+        64201, 
+        16468, 
+        23175, 
+        40524, 
+        19934, 
+        75242, 
+        23330
+    ], 
+    "id": 59290, 
+    "keywords": [
+        1495, 
+        4134
+    ], 
+    "name": "Dot Arcade", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1427328000000, 
+            "human": "2015-Mar-26", 
+            "m": 3, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "egz7pa7su97unpidawvm", 
+            "height": 378, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/egz7pa7su97unpidawvm.jpg", 
+            "width": 672
+        }, 
+        {
+            "cloudinary_id": "eh9g7fsgeqdvylyqyboz", 
+            "height": 378, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eh9g7fsgeqdvylyqyboz.jpg", 
+            "width": 672
+        }, 
+        {
+            "cloudinary_id": "pjzqsaeji8sc4kpjaogc", 
+            "height": 378, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pjzqsaeji8sc4kpjaogc.jpg", 
+            "width": 672
+        }, 
+        {
+            "cloudinary_id": "mvogumvvc81lvuvwwel1", 
+            "height": 378, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mvogumvvc81lvuvwwel1.jpg", 
+            "width": 672
+        }
+    ], 
+    "slug": "dot-arcade", 
+    "summary": "Three full-color games, including Dodge Club, Rally Driver, and Mr. Snake", 
+    "tags": [
+        1, 
+        536872407, 
+        536875046
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1518056655146, 
+    "url": "https://www.igdb.com/games/dot-arcade", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://dotarca.de"
+        }
+    ]
+}

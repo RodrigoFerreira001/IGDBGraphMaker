@@ -1,0 +1,101 @@
+{
+    "aggregated_rating": 78.5, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 3197, 
+    "cover": {
+        "cloudinary_id": "zxzq622e7sm7s2ihvnda", 
+        "height": 426, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zxzq622e7sm7s2ihvnda.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1458018003819, 
+    "developers": [
+        1985
+    ], 
+    "first_release_date": 1077667200000, 
+    "franchise": 7, 
+    "franchises": [
+        7
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        76110, 
+        36608, 
+        34919, 
+        19934, 
+        16468, 
+        23175, 
+        23330, 
+        40524, 
+        63637, 
+        59516
+    ], 
+    "hypes": 11, 
+    "id": 18361, 
+    "keywords": [
+        4134, 
+        4142, 
+        7389
+    ], 
+    "name": "Transformers", 
+    "platforms": [
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 3.333333333333333, 
+    "publishers": [
+        2406
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1077667200000, 
+            "human": "2004-Feb-25", 
+            "m": 2, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1084233600000, 
+            "human": "2004-May-11", 
+            "m": 5, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2004
+        }
+    ], 
+    "slug": "transformers", 
+    "summary": "Transformers G1: Awakening is an action game for the iPhone based on the Transformers property.", 
+    "tags": [
+        1, 
+        536875046, 
+        536875054, 
+        536878301, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 78.5, 
+    "total_rating_count": 4, 
+    "updated_at": 1517270998023, 
+    "url": "https://www.igdb.com/games/transformers", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Transformers_(2004_video_game)"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://transformers.wikia.com/wiki/Transformers_(Melbourne_House)"
+        }
+    ]
+}

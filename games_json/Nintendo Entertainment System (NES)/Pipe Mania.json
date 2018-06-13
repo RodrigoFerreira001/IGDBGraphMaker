@@ -1,0 +1,189 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "U.S. Title", 
+            "name": "Pipe Dream"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bpw1bfqp2qfes3xpthz2", 
+        "height": 387, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bpw1bfqp2qfes3xpthz2.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1300192859000, 
+    "developers": [
+        9, 
+        339
+    ], 
+    "first_release_date": 612662400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        19222, 
+        41348, 
+        10225, 
+        27266, 
+        14246, 
+        60044, 
+        236, 
+        27725, 
+        101980, 
+        101976
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 200, 
+    "name": "Pipe Mania", 
+    "platforms": [
+        52, 
+        63, 
+        6, 
+        69, 
+        14, 
+        13, 
+        16, 
+        15, 
+        26, 
+        25, 
+        33, 
+        18
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        340, 
+        9, 
+        341, 
+        128
+    ], 
+    "rating": 63.3333333333333, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 631152000000, 
+            "human": "1990", 
+            "m": 1, 
+            "platform": 14, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 631152000000, 
+            "human": "1990", 
+            "m": 1, 
+            "platform": 18, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 631152000000, 
+            "human": "1990", 
+            "m": 1, 
+            "platform": 33, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 662688000000, 
+            "human": "1991", 
+            "m": 1, 
+            "platform": 6, 
+            "y": 1991
+        }, 
+        {
+            "category": 1, 
+            "date": 612662400000, 
+            "human": "1989-Jun", 
+            "m": 6, 
+            "platform": 16, 
+            "y": 1989
+        }, 
+        {
+            "category": 1, 
+            "date": 612662400000, 
+            "human": "1989-Jun", 
+            "m": 6, 
+            "platform": 63, 
+            "y": 1989
+        }, 
+        {
+            "category": 1, 
+            "date": 612662400000, 
+            "human": "1989-Jun", 
+            "m": 6, 
+            "platform": 13, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 25, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 15, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 26, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 69, 
+            "y": 1990
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 52
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "adbwecnkt8letrsobotk", 
+            "height": 200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/adbwecnkt8letrsobotk.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "pipe-mania", 
+    "summary": "Your goal in this game is to build pipes. The water flows in the pipes and you have to build them as fast as possible to prevent the water to leak out. When you can manage to keep water in pipes for a defined period of time, you progress to a next level.", 
+    "tags": [
+        268435465, 
+        1073741827
+    ], 
+    "total_rating": 71.66666666666666, 
+    "total_rating_count": 5, 
+    "updated_at": 1517270756034, 
+    "url": "https://www.igdb.com/games/pipe-mania", 
+    "videos": [
+        {
+            "name": "Gameplay", 
+            "video_id": "Y_C-xzSKg-k"
+        }
+    ]
+}

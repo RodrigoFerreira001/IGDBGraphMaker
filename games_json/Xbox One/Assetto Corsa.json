@@ -1,0 +1,271 @@
+{
+    "aggregated_rating": 63.7, 
+    "aggregated_rating_count": 11, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "gaq8no4krczakxrlhg5m", 
+        "height": 419, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gaq8no4krczakxrlhg5m.jpg", 
+        "width": 293
+    }, 
+    "created_at": 1395269486327, 
+    "developers": [
+        2490
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is a racing simulation game in which players drive a variety of cars around several iconic racetracks. Players can race in a variety of game modes including Hotlap, Qualifying, and career mode. The name of one racing event is called \"A Hell 4 You.\""
+    }, 
+    "external": {
+        "steam": "244210"
+    }, 
+    "first_release_date": 1418947200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        18623, 
+        22425, 
+        29173, 
+        26145, 
+        26709, 
+        40470, 
+        28951, 
+        55590, 
+        9789, 
+        55689
+    ], 
+    "genres": [
+        10, 
+        13, 
+        14, 
+        32
+    ], 
+    "id": 5597, 
+    "keywords": [
+        895, 
+        1148, 
+        1158, 
+        1425, 
+        1783, 
+        3425, 
+        4149, 
+        4157, 
+        4205, 
+        4282, 
+        4359, 
+        4869, 
+        5043, 
+        5333, 
+        5786, 
+        5836, 
+        5837, 
+        10919
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 16, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Assetto Corsa", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons."
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1, 
+        2, 
+        3, 
+        4, 
+        7
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        2490, 
+        445
+    ], 
+    "pulse_count": 7, 
+    "rating": 83.8627144329307, 
+    "rating_count": 15, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1418947200000, 
+            "human": "2014-Dec-19", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1418947200000, 
+            "human": "2014-Dec-19", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1472169600000, 
+            "human": "2016-Aug-26", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472515200000, 
+            "human": "2016-Aug-30", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1418947200000, 
+            "human": "2014-Dec-19", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1472169600000, 
+            "human": "2016-Aug-26", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472515200000, 
+            "human": "2016-Aug-30", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ytpsxdcewy4zw7fwboq2", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ytpsxdcewy4zw7fwboq2.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "tuiuinw9lsuuzed4a2kh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tuiuinw9lsuuzed4a2kh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ptbln7urmxpuzavscweq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ptbln7urmxpuzavscweq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nc0xticxtb3ycipwkoxy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nc0xticxtb3ycipwkoxy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xphmmxklgqrmzv3tqdoy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xphmmxklgqrmzv3tqdoy.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "assetto-corsa", 
+    "summary": "Assetto Corsa (Italian for \"racing setup\") is a sim racing video game. It is designed with an emphasis on realistic racing experience with support for extensive customization and modability. The game was first released through the Steam's Early Access program on 8th of November, 2013. The game includes renditions of international circuits (surveyed using both traditional and laser scanning technology), global car brands, racing prototypes, historic cars, single seaters and iconic cars.", 
+    "tags": [
+        268435466, 
+        268435469, 
+        268435470, 
+        268435488, 
+        536871807, 
+        536872060, 
+        536872070, 
+        536872337, 
+        536872695, 
+        536874337, 
+        536875061, 
+        536875069, 
+        536875117, 
+        536875194, 
+        536875271, 
+        536875781, 
+        536875955, 
+        536876245, 
+        536876698, 
+        536876748, 
+        536876749, 
+        536881831, 
+        1073741827, 
+        1073741825, 
+        1073741828, 
+        1073741826, 
+        1073741831
+    ], 
+    "total_rating": 73.78135721646535, 
+    "total_rating_count": 26, 
+    "updated_at": 1528350796910, 
+    "url": "https://www.igdb.com/games/assetto-corsa", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Uu5C-apy1uU"
+        }, 
+        {
+            "name": "Engineered to Perfection Trailer", 
+            "video_id": "wbSHCxjmOv4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 8, 
+            "url": "https://instagram.com/assettocorsa"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Assetto_Corsa"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/244210"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.assettocorsa.net"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/AC_assettocorsa"
+        }
+    ]
+}

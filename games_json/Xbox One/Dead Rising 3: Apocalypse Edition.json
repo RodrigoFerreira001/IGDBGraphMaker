@@ -1,0 +1,103 @@
+{
+    "aggregated_rating": 68.0, 
+    "aggregated_rating_count": 5, 
+    "category": 0, 
+    "collection": 579, 
+    "cover": {
+        "cloudinary_id": "qcoecwho9coacvr971mc", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qcoecwho9coacvr971mc.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1469622296771, 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "first_release_date": 1385078400000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "id": 21611, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 2, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dead Rising 3: Apocalypse Edition", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 2.333333333333333, 
+    "rating": 90.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1415404800000, 
+            "human": "2014-Nov-08", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1385078400000, 
+            "human": "2013-Nov-22", 
+            "m": 11, 
+            "platform": 49, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xphzjguxvik6icbs5sjx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xphzjguxvik6icbs5sjx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "l4qbx1wvz55kvug2t3w3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l4qbx1wvz55kvug2t3w3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "k2iv6zptgqsmyplwxiw1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k2iv6zptgqsmyplwxiw1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "c5kajryi1fr7jfyasyck", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c5kajryi1fr7jfyasyck.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vrqvb2qj4sti8fr6zdev", 
+            "height": 428, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vrqvb2qj4sti8fr6zdev.jpg", 
+            "width": 760
+        }
+    ], 
+    "slug": "dead-rising-3-apocalypse-edition", 
+    "summary": "Featuring the ultimate open-world zombie game, four downloadable content packs and a bonus digital item, the Dead Rising 3 Apocalypse Edition is the definitive Dead Rising experience.", 
+    "total_rating": 79.0, 
+    "total_rating_count": 6, 
+    "updated_at": 1524538529470, 
+    "url": "https://www.igdb.com/games/dead-rising-3-apocalypse-edition"
+}

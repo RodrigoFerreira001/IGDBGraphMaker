@@ -1,0 +1,347 @@
+{
+    "aggregated_rating": 89.6666666666667, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qbyjfs9uyto4qy6xrxba", 
+        "height": 363, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qbyjfs9uyto4qy6xrxba.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1390251999822, 
+    "developers": [
+        10
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "556640"
+    }, 
+    "first_release_date": 1067299200000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        26841, 
+        47823, 
+        17583, 
+        36926, 
+        14394, 
+        12632, 
+        16468, 
+        7202, 
+        18822, 
+        18645
+    ], 
+    "genres": [
+        12, 
+        15, 
+        16, 
+        32
+    ], 
+    "id": 3932, 
+    "keywords": [
+        226, 
+        227, 
+        296, 
+        389, 
+        415, 
+        1026, 
+        1299, 
+        1320, 
+        1548, 
+        1550, 
+        1651, 
+        1716, 
+        1923, 
+        2154, 
+        2471, 
+        2561, 
+        2951, 
+        3782, 
+        3918, 
+        4145, 
+        4166, 
+        4238, 
+        4387, 
+        4392, 
+        4394, 
+        4395, 
+        4460, 
+        4533, 
+        4552, 
+        4852, 
+        5145, 
+        5288, 
+        5686, 
+        5935, 
+        6511, 
+        6720, 
+        6721, 
+        6722, 
+        6723, 
+        7328, 
+        7411, 
+        7423, 
+        7619, 
+        9513, 
+        9726, 
+        11132, 
+        12242, 
+        13115, 
+        13117, 
+        13928
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 8, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Gladius", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\nIt contains: Non realistic looking violence towards fantasy characters - Realistic looking violence"
+    }, 
+    "platforms": [
+        11, 
+        41, 
+        21, 
+        37, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        2, 
+        3
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        10, 
+        66
+    ], 
+    "rating": 89.9469588844809, 
+    "rating_count": 5, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1380672000000, 
+            "human": "2013-Oct-02", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1380153600000, 
+            "human": "2013-Sep-26", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1170374400000, 
+            "human": "2007-Feb-02", 
+            "m": 2, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1168214400000, 
+            "human": "2007-Jan-08", 
+            "m": 1, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1165017600000, 
+            "human": "2006-Dec-02", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1367971200000, 
+            "human": "2013-May-08", 
+            "m": 5, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1351728000000, 
+            "human": "2012-Nov-01", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1350518400000, 
+            "human": "2012-Oct-18", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1067817600000, 
+            "human": "2003-Nov-03", 
+            "m": 11, 
+            "platform": 21, 
+            "region": 2, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1067299200000, 
+            "human": "2003-Oct-28", 
+            "m": 10, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1067299200000, 
+            "human": "2003-Oct-28", 
+            "m": 10, 
+            "platform": 11, 
+            "region": 2, 
+            "y": 2003
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dfe0dqsfsjbgeu1pmi3m", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dfe0dqsfsjbgeu1pmi3m.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "oocnz3f5tp6lllxngxfs", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oocnz3f5tp6lllxngxfs.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "z0hnef3bgjihdygjj4pw", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z0hnef3bgjihdygjj4pw.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "puq8xpdbvhxrfnxytfhh", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/puq8xpdbvhxrfnxytfhh.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "i4gd4exvxpibevj1drr6", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i4gd4exvxpibevj1drr6.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "gladius", 
+    "status": 4, 
+    "summary": "Gladius is an immersive VR sword fighting game set in the ancient Rome. As a gladiator, you will choose your weapons, train against different enemies, and finally fight for your freedom in an epic battle against the mightiest warriors and creatures of the ancient world. Win the crowd and you will win your freedom.", 
+    "tags": [
+        1, 
+        17, 
+        268435468, 
+        268435471, 
+        268435472, 
+        268435488, 
+        536871138, 
+        536871139, 
+        536871208, 
+        536871301, 
+        536871327, 
+        536871938, 
+        536872211, 
+        536872232, 
+        536872460, 
+        536872462, 
+        536872563, 
+        536872628, 
+        536872835, 
+        536873066, 
+        536873383, 
+        536873473, 
+        536873863, 
+        536874694, 
+        536874830, 
+        536875057, 
+        536875078, 
+        536875150, 
+        536875299, 
+        536875304, 
+        536875306, 
+        536875307, 
+        536875372, 
+        536875445, 
+        536875464, 
+        536875764, 
+        536876057, 
+        536876200, 
+        536876598, 
+        536876847, 
+        536877423, 
+        536877632, 
+        536877633, 
+        536877634, 
+        536877635, 
+        536878240, 
+        536878323, 
+        536878335, 
+        536878531, 
+        536880425, 
+        536880638, 
+        536882044, 
+        536883154, 
+        536884027, 
+        536884029, 
+        536884840, 
+        1073741826, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 89.8068127755738, 
+    "total_rating_count": 8, 
+    "updated_at": 1523368041723, 
+    "url": "https://www.igdb.com/games/gladius", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/556640"
+        }
+    ]
+}

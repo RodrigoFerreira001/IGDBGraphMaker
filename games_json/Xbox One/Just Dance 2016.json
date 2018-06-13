@@ -1,0 +1,284 @@
+{
+    "aggregated_rating": 69.0, 
+    "aggregated_rating_count": 5, 
+    "category": 0, 
+    "collection": 527, 
+    "cover": {
+        "cloudinary_id": "c6zvffxbv5szlkdhwvvu", 
+        "height": 286, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/c6zvffxbv5szlkdhwvvu.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1434477428753, 
+    "developers": [
+        841, 
+        899, 
+        3655
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is a rhythm-and-dance simulation game in which players perform choreographed routines by following the movements of on-screen characters. Players score points by accurately moving their bodies in time to the music and scrolling indicators. Some songs contain the word \u201cdamn\u201d and reference alcohol (e.g., \u201cTakin' all the liquor straight\u201d; \u201cLet's get drunk on the mini bar\u201d; \u201cSippin on ros\u00e9.\u201d). A handful of songs contain suggestive material (e.g., \u201cYou open the door/Wearing nothing but a smile\u201d; \u201cI like you talking dirty/I like your filthy love.\u201d). Stage background in one song includes silhouettes of women dancing sensually and/or in provocative poses."
+    }, 
+    "first_release_date": 1445299200000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        37067, 
+        11588, 
+        28192, 
+        19550, 
+        28113, 
+        15559, 
+        19083, 
+        8167, 
+        18387, 
+        36660
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 11206, 
+    "keywords": [
+        412, 
+        1699, 
+        2071, 
+        4137, 
+        4650, 
+        5343, 
+        5348
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 6, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Just Dance 2016", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons."
+    }, 
+    "platforms": [
+        41, 
+        9, 
+        48, 
+        12, 
+        49, 
+        5
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        104
+    ], 
+    "rating": 73.7687879145553, 
+    "rating_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1445558400000, 
+            "human": "2015-Oct-23", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1445558400000, 
+            "human": "2015-Oct-23", 
+            "m": 10, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1445299200000, 
+            "human": "2015-Oct-20", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1445558400000, 
+            "human": "2015-Oct-23", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1445472000000, 
+            "human": "2015-Oct-22", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1445472000000, 
+            "human": "2015-Oct-22", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1445472000000, 
+            "human": "2015-Oct-22", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1445299200000, 
+            "human": "2015-Oct-20", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1445299200000, 
+            "human": "2015-Oct-20", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1445299200000, 
+            "human": "2015-Oct-20", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1445299200000, 
+            "human": "2015-Oct-20", 
+            "m": 10, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1445299200000, 
+            "human": "2015-Oct-20", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "g7um4ymibjmn91b7fks0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g7um4ymibjmn91b7fks0.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mrkhaxikoio3xjf2hho2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mrkhaxikoio3xjf2hho2.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nltttim4boqhkrvsfkun", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nltttim4boqhkrvsfkun.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bithdnhlhk8b1ua5dgnf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bithdnhlhk8b1ua5dgnf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "toyh4eus05k5fue8exmf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/toyh4eus05k5fue8exmf.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "just-dance-2016", 
+    "summary": "Just Dance brings the best hits like \u201cBlame\u201d by Calvin Harris Ft. John Newman and \u201cUptown Funk\u201d by Marc Ronson Ft. Bruno Mars to dance and sing along to, with the usual golden treasures like \u201cLet\u2019s Groove\u201d by Equinox Stars that makes Just Dance a must-have to play with friends and family! No additional device is required, with the free Just Dance Controller App to play and use your smartphone as a controller! Discover Just Dance Unlimited, the new subscription streaming service to play your favorite hits from past Just Dance games (accessible on Wii U, PS4, XboxOne).", 
+    "tags": [
+        27, 
+        40, 
+        268435463, 
+        536871324, 
+        536872611, 
+        536872983, 
+        536875049, 
+        536875562, 
+        536876255, 
+        536876260
+    ], 
+    "themes": [
+        27, 
+        40
+    ], 
+    "total_rating": 71.38439395727765, 
+    "total_rating_count": 12, 
+    "updated_at": 1528354514899, 
+    "url": "https://www.igdb.com/games/just-dance-2016", 
+    "videos": [
+        {
+            "name": "Gameplay video: Uptown Funk", 
+            "video_id": "C7700WAmrTw"
+        }, 
+        {
+            "name": "Gameplay video: Want To Want Me", 
+            "video_id": "ovII4-I3Wys"
+        }, 
+        {
+            "name": "Gameplay video: William Tell", 
+            "video_id": "F1rtGKrHUBg"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "dIG-p5ZL-kU"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "xnO1mUcYbc8"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "ZoW-8XpW6xE"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://just-dance.ubi.com"
+        }
+    ]
+}

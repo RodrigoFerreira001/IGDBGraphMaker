@@ -1,0 +1,169 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 5, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Half-Life: The Orange Box"
+        }
+    ], 
+    "category": 3, 
+    "cover": {
+        "cloudinary_id": "ywydeyaq3dcldukpkehd", 
+        "height": 1648, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ywydeyaq3dcldukpkehd.jpg", 
+        "width": 1319
+    }, 
+    "created_at": 1300352166000, 
+    "developers": [
+        56, 
+        276
+    ], 
+    "first_release_date": 1191974400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        103281, 
+        103298, 
+        103020, 
+        103292, 
+        103301, 
+        19222, 
+        10225, 
+        41348, 
+        83727, 
+        83728
+    ], 
+    "genres": [
+        5, 
+        9
+    ], 
+    "id": 339, 
+    "name": "The Orange Box", 
+    "platforms": [
+        6, 
+        14, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        56
+    ], 
+    "pulse_count": 6, 
+    "rating": 87.8577749078945, 
+    "rating_count": 48, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1197590400000, 
+            "human": "2007-Dec-14", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1197331200000, 
+            "human": "2007-Dec-11", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1191974400000, 
+            "human": "2007-Oct-10", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1191974400000, 
+            "human": "2007-Oct-10", 
+            "m": 10, 
+            "platform": 12, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1197331200000, 
+            "human": "2007-Dec-11", 
+            "m": 12, 
+            "platform": 9, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1191974400000, 
+            "human": "2007-Oct-10", 
+            "m": 10, 
+            "platform": 14, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bczib76xzzt4lgqmahed", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bczib76xzzt4lgqmahed.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "sbvnlwabzrrgaxhfvmxt", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sbvnlwabzrrgaxhfvmxt.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "fnm1vxdqbvtusqesqmqs", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fnm1vxdqbvtusqesqmqs.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "oplitgjwc5uqewdcjmfo", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oplitgjwc5uqewdcjmfo.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "r8llimqqf7dsxkqmdmo7", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r8llimqqf7dsxkqmdmo7.jpg", 
+            "width": 800
+        }
+    ], 
+    "slug": "the-orange-box", 
+    "summary": "The Orange Box is a bundle that includes five titles from Valve: Half-Life 2; Half-Life 2:Episode 1; Half-Life 2: Episode Two; Team Fortress 2, the sequel to the game that put class-based, multiplayer team warfare on the map; and Portal, the game that blends puzzles, first person action, and adventure gaming to produce an experience like no other.", 
+    "tags": [
+        268435461, 
+        268435465, 
+        1073741825
+    ], 
+    "time_to_beat": {
+        "completely": 144000
+    }, 
+    "total_rating": 88.92888745394725, 
+    "total_rating_count": 53, 
+    "updated_at": 1528726832741, 
+    "url": "https://www.igdb.com/games/the-orange-box", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/sub/469"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://orange.half-life2.com/"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "aggregated_rating": 81.6, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "r0hulecmjdqauvkzwx34", 
+        "height": 771, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/r0hulecmjdqauvkzwx34.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1407771779537, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        23175, 
+        28029, 
+        37022, 
+        76246, 
+        55289, 
+        59516, 
+        19341, 
+        36950, 
+        32902, 
+        25646
+    ], 
+    "genres": [
+        5, 
+        31
+    ], 
+    "id": 7588, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "The Gunstringer", 
+    "platforms": [
+        12
+    ], 
+    "player_perspectives": [
+        2, 
+        4
+    ], 
+    "popularity": 1.0, 
+    "rating": 75.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 12
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ipgdnnldciucyrsh0ma0", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ipgdnnldciucyrsh0ma0.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "the-gunstringer", 
+    "summary": "The player controls a marionette named the Gunstringer using Kinect\u2019s unique\nmotion-based controls. The epic tale of the lonely gunman unfolds across\nseveral acts, each performance taking place in a hand-crafted environment.\n The Gunstringer has several weapons at his disposal, each tool of vengeance\nunleashed through the player\u2019s gestures. The game\u2019s lavish production\nfeatures over thirty characters and countless animations.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435487, 
+        1073741828, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 78.3, 
+    "total_rating_count": 6, 
+    "updated_at": 1501017868213, 
+    "url": "https://www.igdb.com/games/the-gunstringer", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://thegunstringer.com/"
+        }
+    ]
+}

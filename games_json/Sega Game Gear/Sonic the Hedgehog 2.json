@@ -1,0 +1,494 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "3D Sonic the Hedgehog 2"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Knuckles the Echidna in Sonic the Hedgehog 2"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Sonic 2"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30bd\u30cb\u30c3\u30af\u30fb\u30b6\u30fb\u30d8\u30c3\u30b8\u30db\u30c3\u30b02"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "nuwp84ll7bheqlhu4wdz", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nuwp84ll7bheqlhu4wdz.jpg", 
+            "width": 1024
+        }
+    ], 
+    "category": 0, 
+    "collection": 2156, 
+    "cover": {
+        "cloudinary_id": "ntf28xepajngtq6q4mvo", 
+        "height": 2100, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ntf28xepajngtq6q4mvo.jpg", 
+        "width": 1521
+    }, 
+    "created_at": 1390775152988, 
+    "developers": [
+        395, 
+        787
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "71163"
+    }, 
+    "first_release_date": 717984000000, 
+    "franchise": 814, 
+    "franchises": [
+        814
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        3192, 
+        2933, 
+        1936, 
+        5452, 
+        21063, 
+        23733, 
+        27433, 
+        55752, 
+        36950, 
+        21062
+    ], 
+    "genres": [
+        8, 
+        31
+    ], 
+    "id": 4438, 
+    "keywords": [
+        78, 
+        126, 
+        163, 
+        167, 
+        296, 
+        382, 
+        575, 
+        589, 
+        957, 
+        970, 
+        1052, 
+        1057, 
+        1059, 
+        1127, 
+        1953, 
+        2049, 
+        2071, 
+        2388, 
+        3486, 
+        3833, 
+        4162, 
+        4163, 
+        4164, 
+        4288, 
+        4289, 
+        4301, 
+        4389, 
+        4440, 
+        4455, 
+        4458, 
+        4459, 
+        4463, 
+        4611, 
+        4711, 
+        4726, 
+        4766, 
+        4907, 
+        4918, 
+        4940, 
+        4967, 
+        4991, 
+        5302, 
+        5420, 
+        5603, 
+        5628, 
+        5633, 
+        5634, 
+        5722, 
+        5839, 
+        5962, 
+        6083, 
+        6811, 
+        7237, 
+        7653, 
+        9130, 
+        9275, 
+        9315, 
+        10445, 
+        10845, 
+        11434, 
+        11754, 
+        14502
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Sonic the Hedgehog 2", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        29, 
+        35, 
+        92, 
+        9, 
+        37, 
+        5, 
+        64
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 4.666666666666666, 
+    "publishers": [
+        112, 
+        229, 
+        4981
+    ], 
+    "pulse_count": 4, 
+    "rating": 89.3575243813539, 
+    "rating_count": 166, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1181520000000, 
+            "human": "2007-Jun-11", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1183680000000, 
+            "human": "2007-Jul-06", 
+            "m": 7, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182211200000, 
+            "human": "2007-Jun-19", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1372291200000, 
+            "human": "2013-Jun-27", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1372291200000, 
+            "human": "2013-Jun-27", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1311811200000, 
+            "human": "2011-Jul-28", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1303257600000, 
+            "human": "2011-Apr-20", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1303171200000, 
+            "human": "2011-Apr-19", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1296000000000, 
+            "human": "2011-Jan-26", 
+            "m": 1, 
+            "platform": 92, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 717984000000, 
+            "human": "1992-Oct-02", 
+            "m": 10, 
+            "platform": 29, 
+            "y": 1992
+        }, 
+        {
+            "category": 1, 
+            "date": 720576000000, 
+            "human": "1992-Nov", 
+            "m": 11, 
+            "platform": 35, 
+            "region": 2, 
+            "y": 1992
+        }, 
+        {
+            "category": 0, 
+            "date": 722304000000, 
+            "human": "1992-Nov-21", 
+            "m": 11, 
+            "platform": 35, 
+            "region": 5, 
+            "y": 1992
+        }, 
+        {
+            "category": 0, 
+            "date": 720316800000, 
+            "human": "1992-Oct-29", 
+            "m": 10, 
+            "platform": 35, 
+            "region": 1, 
+            "y": 1992
+        }, 
+        {
+            "category": 2, 
+            "date": 725760000000, 
+            "human": "1992", 
+            "m": 12, 
+            "platform": 64, 
+            "region": 2, 
+            "y": 1992
+        }, 
+        {
+            "category": 2, 
+            "date": 725760000000, 
+            "human": "1992", 
+            "m": 12, 
+            "platform": 64, 
+            "region": 1, 
+            "y": 1992
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pmsjvervmqx8ukt5gdao", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pmsjvervmqx8ukt5gdao.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "yno8h6wp2rvyvpmenw6i", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yno8h6wp2rvyvpmenw6i.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "zcgsweudyujoe2f0y5hv", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zcgsweudyujoe2f0y5hv.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "tdjwruvk61bckwvfw77h", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tdjwruvk61bckwvfw77h.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "jpywqiw1ywd1fsykkmdb", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jpywqiw1ywd1fsykkmdb.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "cnjhkkbbkzqltazgc0ng", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cnjhkkbbkzqltazgc0ng.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "itoorhjr02huc460k8os", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/itoorhjr02huc460k8os.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "aeazsmwnemy9caad5jxp", 
+            "height": 899, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aeazsmwnemy9caad5jxp.jpg", 
+            "width": 1597
+        }, 
+        {
+            "cloudinary_id": "ap6ptovy4koli0unr6nm", 
+            "height": 897, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ap6ptovy4koli0unr6nm.jpg", 
+            "width": 1597
+        }, 
+        {
+            "cloudinary_id": "yeqzlc8rbbgfmudb3bql", 
+            "height": 897, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yeqzlc8rbbgfmudb3bql.jpg", 
+            "width": 1597
+        }, 
+        {
+            "cloudinary_id": "ptfgp9sijeqkajwptny2", 
+            "height": 893, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ptfgp9sijeqkajwptny2.jpg", 
+            "width": 1593
+        }, 
+        {
+            "cloudinary_id": "eqba0h9qaqrt7bu34diz", 
+            "height": 897, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eqba0h9qaqrt7bu34diz.jpg", 
+            "width": 1597
+        }
+    ], 
+    "slug": "sonic-the-hedgehog-2", 
+    "summary": "Dr. Eggman (aka Dr. Robotnik) has returned, turning helpless animals into robots and forcing them to build his ultimate weapon, the Death Egg! But this time, Sonic has a friend that can help him: Tails! Find the 7 Chaos Emeralds and stop Dr. Robotnik\u2019s evil scheme!", 
+    "tags": [
+        1, 
+        18, 
+        268435464, 
+        268435487, 
+        536870990, 
+        536871038, 
+        536871075, 
+        536871079, 
+        536871208, 
+        536871294, 
+        536871487, 
+        536871501, 
+        536871869, 
+        536871882, 
+        536871964, 
+        536871969, 
+        536871971, 
+        536872039, 
+        536872865, 
+        536872961, 
+        536872983, 
+        536873300, 
+        536874398, 
+        536874745, 
+        536875074, 
+        536875075, 
+        536875076, 
+        536875200, 
+        536875201, 
+        536875213, 
+        536875301, 
+        536875352, 
+        536875367, 
+        536875370, 
+        536875371, 
+        536875375, 
+        536875523, 
+        536875623, 
+        536875638, 
+        536875678, 
+        536875819, 
+        536875830, 
+        536875852, 
+        536875879, 
+        536875903, 
+        536876214, 
+        536876332, 
+        536876515, 
+        536876540, 
+        536876545, 
+        536876546, 
+        536876634, 
+        536876751, 
+        536876874, 
+        536876995, 
+        536877723, 
+        536878149, 
+        536878565, 
+        536880042, 
+        536880187, 
+        536880227, 
+        536881357, 
+        536881757, 
+        536882346, 
+        536882666, 
+        536885414, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 89.67876219067695, 
+    "total_rating_count": 168, 
+    "updated_at": 1528803411393, 
+    "url": "https://www.igdb.com/games/sonic-the-hedgehog-2", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "8cr1rqVcIhA"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.sega.com"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://sonic.wikia.com/wiki/Sonic_the_Hedgehog_2"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/71163"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "b1omqgws0kb8hgkfspwp", 
+        "height": 690, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/b1omqgws0kb8hgkfspwp.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1468175495403, 
+    "first_release_date": 1321315200000, 
+    "games": [
+        46820, 
+        39665, 
+        101684, 
+        101567, 
+        101100, 
+        100907, 
+        100887, 
+        100879, 
+        100863, 
+        100832
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 20155, 
+    "name": "Winter Stars", 
+    "platforms": [
+        45, 
+        36, 
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        423
+    ], 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1322179200000, 
+            "human": "2011-Nov-25", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1321315200000, 
+            "human": "2011-Nov-15", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1321315200000, 
+            "human": "2011-Nov-15", 
+            "m": 11, 
+            "platform": 45, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1321315200000, 
+            "human": "2011-Nov-15", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1321315200000, 
+            "human": "2011-Nov-15", 
+            "m": 11, 
+            "platform": 36, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pnqcblzghqkkvdmve0hc", 
+            "height": 461, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pnqcblzghqkkvdmve0hc.jpg", 
+            "width": 820
+        }, 
+        {
+            "cloudinary_id": "qudzohfzdow0glajoe8d", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qudzohfzdow0glajoe8d.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "znrlmblfezc6wqw4kmz7", 
+            "height": 461, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/znrlmblfezc6wqw4kmz7.jpg", 
+            "width": 820
+        }, 
+        {
+            "cloudinary_id": "dmgraq40quyzl9dgq0qm", 
+            "height": 1035, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dmgraq40quyzl9dgq0qm.jpg", 
+            "width": 1680
+        }, 
+        {
+            "cloudinary_id": "mwefc3pbq1jtizrakmle", 
+            "height": 461, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mwefc3pbq1jtizrakmle.jpg", 
+            "width": 820
+        }
+    ], 
+    "slug": "winter-stars", 
+    "summary": "Winter Stars entices gamers off their sofas with its high quality and easy-to-learn, exhilarating motion controls.", 
+    "tags": [
+        268435470
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1521022567298, 
+    "url": "https://www.igdb.com/games/winter-stars"
+}

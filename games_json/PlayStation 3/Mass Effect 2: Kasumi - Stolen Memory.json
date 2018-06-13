@@ -1,0 +1,139 @@
+{
+    "aggregated_rating": 84.0, 
+    "aggregated_rating_count": 2, 
+    "category": 1, 
+    "collection": 25, 
+    "cover": {
+        "cloudinary_id": "jvuurhcfwkwlmazjgvfz", 
+        "height": 436, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jvuurhcfwkwlmazjgvfz.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1445287391947, 
+    "developers": [
+        3903
+    ], 
+    "first_release_date": 1270512000000, 
+    "game": 74, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28029, 
+        13196, 
+        25311, 
+        68287, 
+        27922, 
+        26766, 
+        25300, 
+        36950, 
+        18811, 
+        23
+    ], 
+    "genres": [
+        5, 
+        12, 
+        24
+    ], 
+    "id": 13885, 
+    "keywords": [
+        541, 
+        3097
+    ], 
+    "name": "Mass Effect 2: Kasumi - Stolen Memory", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1
+    ], 
+    "rating": 86.0601461399073, 
+    "rating_count": 25, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1270512000000, 
+            "human": "2010-Apr-06", 
+            "m": 4, 
+            "platform": 6, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1270512000000, 
+            "human": "2010-Apr-06", 
+            "m": 4, 
+            "platform": 12, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1270512000000, 
+            "human": "2010-Apr-06", 
+            "m": 4, 
+            "platform": 9, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "y7gfdxt5ei5ieuatwcu0", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y7gfdxt5ei5ieuatwcu0.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "frrvujvm36kwyuc5ocdi", 
+            "height": 300, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/frrvujvm36kwyuc5ocdi.jpg", 
+            "width": 533
+        }
+    ], 
+    "slug": "mass-effect-2-kasumi-stolen-memory", 
+    "summary": "Kasumi - Stolen Memory is a DLC pack for Mass Effect 2.", 
+    "tags": [
+        18, 
+        268435461, 
+        268435468, 
+        268435480, 
+        536871453, 
+        536874009, 
+        1073741826
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 85.03007306995366, 
+    "total_rating_count": 27, 
+    "updated_at": 1527937776857, 
+    "url": "https://www.igdb.com/games/mass-effect-2-kasumi-stolen-memory", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "ifEVoR-la6k"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Mass_Effect_2:_Kasumi_-_Stolen_Memory"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://masseffect.wikia.com/wiki/Kasumi_-_Stolen_Memory"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://social.bioware.com/page/me2-dlc"
+        }
+    ]
+}

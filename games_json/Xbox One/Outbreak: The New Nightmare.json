@@ -1,0 +1,140 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vdcbrmsl53mhi1qtly5b", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vdcbrmsl53mhi1qtly5b.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1498052132867, 
+    "external": {
+        "steam": "644480"
+    }, 
+    "first_release_date": 1497916800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        55289, 
+        16468, 
+        25311, 
+        72412, 
+        37022, 
+        59516, 
+        47823, 
+        36608, 
+        25646, 
+        25300
+    ], 
+    "genres": [
+        12, 
+        31, 
+        32
+    ], 
+    "id": 38782, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Outbreak: The New Nightmare", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "pulse_count": 5, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1514937600000, 
+            "human": "2018-Jan-03", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1497916800000, 
+            "human": "2017-Jun-20", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wunx1bax3sqokwtwnmfh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wunx1bax3sqokwtwnmfh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tmainsyjit207bhusa0i", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tmainsyjit207bhusa0i.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wwx3abngjssl7azb4xos", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wwx3abngjssl7azb4xos.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "y04cra1fm5e0biclvzy6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y04cra1fm5e0biclvzy6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yu3uxdrbhhm3sdo73ecq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yu3uxdrbhhm3sdo73ecq.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "outbreak-the-new-nightmare", 
+    "status": 4, 
+    "summary": "Return to the roots of co-op survival horror as you face monstrous hordes, scrounge for supplies and attempt to survive the nightmare. You have one life. Make it count!", 
+    "tags": [
+        1, 
+        268435468, 
+        268435487, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523345280970, 
+    "url": "https://www.igdb.com/games/outbreak-the-new-nightmare", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.outbreakzone.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/644480"
+        }
+    ]
+}

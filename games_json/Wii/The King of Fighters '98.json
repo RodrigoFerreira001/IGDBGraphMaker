@@ -1,0 +1,397 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "KOF98KOF '98The King of Fighters '98: Dream Match Never Ends"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "The King of Fighters '98 Ultimate Match Final Edition"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30b6\u30fb\u30ad\u30f3\u30b0\u30fb\u30aa\u30d6\u30fb\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba \u201998 "
+        }
+    ], 
+    "category": 0, 
+    "collection": 854, 
+    "cover": {
+        "cloudinary_id": "wv6w4vtxgaw9gd190o9m", 
+        "height": 806, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wv6w4vtxgaw9gd190o9m.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1450217713732, 
+    "developers": [
+        1474
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 885513600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        15428, 
+        22952, 
+        36911, 
+        5884, 
+        12588, 
+        15427, 
+        884, 
+        5896, 
+        7100, 
+        39593
+    ], 
+    "genres": [
+        4
+    ], 
+    "id": 15429, 
+    "keywords": [
+        61, 
+        107, 
+        872, 
+        977, 
+        1057, 
+        1231, 
+        1985, 
+        2152, 
+        4134, 
+        4161, 
+        4362, 
+        4372, 
+        4494, 
+        4510, 
+        4522, 
+        4650, 
+        4804, 
+        4809, 
+        4942, 
+        4958, 
+        5354, 
+        5440, 
+        5450, 
+        5633, 
+        5722, 
+        5822, 
+        5891, 
+        5897, 
+        5903, 
+        5917, 
+        5920, 
+        5987, 
+        6100, 
+        6504, 
+        6784, 
+        7280, 
+        7690, 
+        8874, 
+        9316, 
+        9886, 
+        10974, 
+        11058, 
+        11249, 
+        11380, 
+        11537, 
+        11565, 
+        11853, 
+        11895, 
+        12546, 
+        12691, 
+        13506
+    ], 
+    "name": "The King of Fighters '98", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        80, 
+        136, 
+        79, 
+        5, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        5346, 
+        1474
+    ], 
+    "pulse_count": 3, 
+    "rating": 79.1915065350359, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1489017600000, 
+            "human": "2017-Mar-09", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1488499200000, 
+            "human": "2017-Mar-03", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1488499200000, 
+            "human": "2017-Mar-03", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1369872000000, 
+            "human": "2013-May-30", 
+            "m": 5, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1350950400000, 
+            "human": "2012-Oct-23", 
+            "m": 10, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1362614400000, 
+            "human": "2013-Mar-07", 
+            "m": 3, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 914371200000, 
+            "human": "1998-Dec-23", 
+            "m": 12, 
+            "platform": 136, 
+            "region": 2, 
+            "y": 1998
+        }, 
+        {
+            "category": 0, 
+            "date": 885513600000, 
+            "human": "1998-Jan-23", 
+            "m": 1, 
+            "platform": 79, 
+            "region": 2, 
+            "y": 1998
+        }, 
+        {
+            "category": 0, 
+            "date": 885513600000, 
+            "human": "1998-Jan-23", 
+            "m": 1, 
+            "platform": 80, 
+            "region": 2, 
+            "y": 1998
+        }, 
+        {
+            "category": 0, 
+            "date": 914371200000, 
+            "human": "1998-Dec-23", 
+            "m": 12, 
+            "platform": 136, 
+            "region": 5, 
+            "y": 1998
+        }, 
+        {
+            "category": 0, 
+            "date": 885513600000, 
+            "human": "1998-Jan-23", 
+            "m": 1, 
+            "platform": 79, 
+            "region": 5, 
+            "y": 1998
+        }, 
+        {
+            "category": 0, 
+            "date": 885513600000, 
+            "human": "1998-Jan-23", 
+            "m": 1, 
+            "platform": 80, 
+            "region": 5, 
+            "y": 1998
+        }, 
+        {
+            "category": 0, 
+            "date": 1488499200000, 
+            "human": "2017-Mar-03", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vsvjrdpg2tvowzfooeaa", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vsvjrdpg2tvowzfooeaa.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "qy3ufom5lthvuycdqq4w", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qy3ufom5lthvuycdqq4w.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "anjykntkbek5pvxd0zmk", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/anjykntkbek5pvxd0zmk.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "mcrlr8vz82jpd1olwn21", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mcrlr8vz82jpd1olwn21.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "yekhfwkj417b7cqzyr3x", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yekhfwkj417b7cqzyr3x.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "k9uwjkqw5q8nu4efdvzn", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k9uwjkqw5q8nu4efdvzn.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "pzlpgkpfzrg8arji5vnm", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pzlpgkpfzrg8arji5vnm.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "h7mkzth7nbbq2rwwq8qx", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h7mkzth7nbbq2rwwq8qx.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "fivuvrbaj10sihnaws7w", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fivuvrbaj10sihnaws7w.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "ubt4cl7e6w9xf6v9rp8e", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ubt4cl7e6w9xf6v9rp8e.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "teahqwnj3mnqcefxnyfw", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/teahqwnj3mnqcefxnyfw.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "ohqdv2qatwnkhqywtiju", 
+            "height": 180, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ohqdv2qatwnkhqywtiju.jpg", 
+            "width": 300
+        }
+    ], 
+    "slug": "the-king-of-fighters-98", 
+    "summary": "The All-Star dream battle is here at last: It's King of Fighters '98! Here come 38 of your favorite characters from the King of Fighters series. Your favorite characters and teams are back! Filled with new surprises like the Roulette Team Edit and Advantage System, King '98 will pop your cork with unrelenting excitement!", 
+    "tags": [
+        1, 
+        268435460, 
+        536870973, 
+        536871019, 
+        536871784, 
+        536871889, 
+        536871969, 
+        536872143, 
+        536872897, 
+        536873064, 
+        536875046, 
+        536875073, 
+        536875274, 
+        536875284, 
+        536875406, 
+        536875422, 
+        536875434, 
+        536875562, 
+        536875716, 
+        536875721, 
+        536875854, 
+        536875870, 
+        536876266, 
+        536876352, 
+        536876362, 
+        536876545, 
+        536876634, 
+        536876734, 
+        536876803, 
+        536876809, 
+        536876815, 
+        536876829, 
+        536876832, 
+        536876899, 
+        536877012, 
+        536877416, 
+        536877696, 
+        536878192, 
+        536878602, 
+        536879786, 
+        536880228, 
+        536880798, 
+        536881886, 
+        536881970, 
+        536882161, 
+        536882292, 
+        536882449, 
+        536882477, 
+        536882765, 
+        536882807, 
+        536883458, 
+        536883603, 
+        536884418, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 69.59575326751795, 
+    "total_rating_count": 4, 
+    "updated_at": 1518015587648, 
+    "url": "https://www.igdb.com/games/the-king-of-fighters-98", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/The_King_of_Fighters_'98"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://snk.wikia.com/wiki/The_King_of_Fighters_'98"
+        }
+    ]
+}

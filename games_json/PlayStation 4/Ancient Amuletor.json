@@ -1,0 +1,109 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "hjitbi8iv6vg46lgumyb", 
+        "height": 400, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hjitbi8iv6vg46lgumyb.jpg", 
+        "width": 400
+    }, 
+    "created_at": 1496758849338, 
+    "first_release_date": 1498521600000, 
+    "id": 36767, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Ancient Amuletor", 
+    "platforms": [
+        45, 
+        48
+    ], 
+    "popularity": 1.666666666666667, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1498521600000, 
+            "human": "2017-Jun-27", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1498521600000, 
+            "human": "2017-Jun-27", 
+            "m": 6, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1498521600000, 
+            "human": "2017-Jun-27", 
+            "m": 6, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 48, 
+            "region": 8
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "uended5s0rqz7wm1xevf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uended5s0rqz7wm1xevf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yrihg42whtnn2191bdph", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yrihg42whtnn2191bdph.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "t63phlgoerrzq75e9imv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t63phlgoerrzq75e9imv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "icmrgensdyzgqmizgyqm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/icmrgensdyzgqmizgyqm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ataskgqp0zbqyjlhabb3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ataskgqp0zbqyjlhabb3.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "ancient-amuletor", 
+    "summary": "Ancient Amuletor is a game which combines elements of shooting, tower defense, and other genres to create a new experience for VR. In Ancient Amuletor, players can choose different heroes and be the peacekeeper of a magical world. Each hero has his or her own unique gameplay mechanic.\n\nTitle is for PlayStation VR and VR headset is required.", 
+    "total_rating": 65.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1509394865416, 
+    "url": "https://www.igdb.com/games/ancient-amuletor"
+}

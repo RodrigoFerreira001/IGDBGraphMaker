@@ -1,0 +1,166 @@
+{
+    "aggregated_rating": 72.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "aaekaqtw2rada6unazfs", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/aaekaqtw2rada6unazfs.jpg", 
+        "width": 1920
+    }, 
+    "created_at": 1515483907061, 
+    "developers": [
+        14331
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1493596800000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        25311, 
+        34919, 
+        54999, 
+        43130, 
+        23175, 
+        28277, 
+        37059, 
+        37419, 
+        59516, 
+        36718
+    ], 
+    "genres": [
+        13, 
+        31
+    ], 
+    "id": 80881, 
+    "keywords": [
+        29, 
+        613
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 4, 
+            "platform": 130, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Skies of Fury DX", 
+    "platforms": [
+        34, 
+        39, 
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        14331
+    ], 
+    "pulse_count": 3, 
+    "rating": 67.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1523491200000, 
+            "human": "2018-Apr-12", 
+            "m": 4, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1493596800000, 
+            "human": "2017-May-01", 
+            "m": 5, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1493596800000, 
+            "human": "2017-May-01", 
+            "m": 5, 
+            "platform": 34, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "d8jlwjjw60lbhhehc09n", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d8jlwjjw60lbhhehc09n.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "v5rcopey6jz2ecmbgf7h", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v5rcopey6jz2ecmbgf7h.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "b28g041s0wvejyimxobq", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b28g041s0wvejyimxobq.jpg", 
+            "width": 3840
+        }
+    ], 
+    "slug": "skies-of-fury-dx", 
+    "summary": "Seed Interactive and Illumination Games are excited to announce Skies of Fury DX for Nintendo Switch\u2122. \n \nTake to the skies and experience WWI as a fighter pilot! Skies of Fury DX offers players the chance to engage in epic, aerial combat in historic Bloody April, 1917, as both British and German pilots. \n \nUsing 10 distinctive aircraft from WWI, players fly through stunning, hand-painted environments. Dogfight through the missions as a single player, or challenge your friends to multiplayer, split-screen battles. \n \nSkies of Fury features: \n \n- 100 different missions \n- Unlockable comics based on the real history of Bloody April \n- Multiplayer modes, Survival and Versus, for up to four players \n- Hundreds of unlockables to customize your plane \n- Play to unlock upgrades for your flying and combat abilities", 
+    "tags": [
+        1, 
+        39, 
+        268435469, 
+        268435487, 
+        536870941, 
+        536871525, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        39
+    ], 
+    "total_rating": 69.5, 
+    "total_rating_count": 1, 
+    "updated_at": 1525125968439, 
+    "url": "https://www.igdb.com/games/skies-of-fury-dx", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "-3XZG4ZVCOY"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 12, 
+            "url": "https://play.google.com/store/apps/details?id=com.illuminationgames.aa3&hl=en"
+        }, 
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/tw/app/skies-of-fury/id1206440227?mt=8"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/channel/UCmrAUFV514N1ULCjtBnKqfw"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.skiesoffury.com/"
+        }
+    ]
+}

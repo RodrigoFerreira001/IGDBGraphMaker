@@ -1,0 +1,279 @@
+{
+    "aggregated_rating": 45.25, 
+    "aggregated_rating_count": 4, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Alien Fear"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "h8viqks247psjwp5xsrw", 
+        "height": 437, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/h8viqks247psjwp5xsrw.jpg", 
+        "width": 1181
+    }, 
+    "created_at": 1373415259908, 
+    "developers": [
+        1212
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "This is a first-person shooter in which players assume the role of elite commandos on a mission to reclaim a mining rig from hostile aliens. Players use a variety of weapons (e.g., shotguns, automatic rifles, grenade launchers, energy blasters) and melee attacks to kill alien enemies in frenetic combat; battles are highlighted by cries of pain, realistic gunfire, and large explosions. Red blood effects appear on screen as players' character takes damage, and injured enemies emit exaggerated splashes of fluorescent blood; dead bodies incur additional damage when shot. A variety of sequences also depict dead humans lying in pools of blood. The words \u201cf**k\u201d and \u201csh*t\u201d can be heard in the dialogue."
+    }, 
+    "first_release_date": 1377993600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        536, 
+        28204, 
+        7350, 
+        26401, 
+        529, 
+        7351, 
+        6732, 
+        2031, 
+        27421, 
+        18968
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 2551, 
+    "keywords": [
+        3, 
+        453, 
+        594, 
+        872, 
+        970, 
+        1158, 
+        1440, 
+        3486, 
+        3831, 
+        3833, 
+        4004, 
+        4134, 
+        4144, 
+        4151, 
+        4161, 
+        4177, 
+        4287, 
+        4330, 
+        4359, 
+        4576, 
+        4579, 
+        4580, 
+        4615, 
+        4620, 
+        4624, 
+        4626, 
+        4637, 
+        4681, 
+        4711, 
+        4726, 
+        4777, 
+        4853, 
+        4891, 
+        4892, 
+        4895, 
+        4896, 
+        4907, 
+        4993, 
+        5029, 
+        5257, 
+        5259, 
+        5309, 
+        5443, 
+        5453, 
+        5575, 
+        5660, 
+        5896, 
+        5942, 
+        5945, 
+        6049, 
+        6075, 
+        6249, 
+        6303, 
+        6371, 
+        6374, 
+        7038, 
+        8976, 
+        11203
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Alien Rage", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        926
+    ], 
+    "rating": 50.14610708813741, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 1, 
+            "date": 1377993600000, 
+            "human": "2013-Sep", 
+            "m": 9, 
+            "platform": 6, 
+            "y": 2013
+        }, 
+        {
+            "category": 1, 
+            "date": 1377993600000, 
+            "human": "2013-Sep", 
+            "m": 9, 
+            "platform": 12, 
+            "y": 2013
+        }, 
+        {
+            "category": 1, 
+            "date": 1377993600000, 
+            "human": "2013-Sep", 
+            "m": 9, 
+            "platform": 9, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hcioqsab4b6qrkjpef8i", 
+            "height": 1058, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hcioqsab4b6qrkjpef8i.jpg", 
+            "width": 1923
+        }, 
+        {
+            "cloudinary_id": "b8zz4j6reaxgecqeufs2", 
+            "height": 1058, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b8zz4j6reaxgecqeufs2.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "bqgf1uaqz37cwuda46zl", 
+            "height": 1058, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bqgf1uaqz37cwuda46zl.jpg", 
+            "width": 1923
+        }, 
+        {
+            "cloudinary_id": "rtspjjy75mzodv6mevdg", 
+            "height": 1058, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rtspjjy75mzodv6mevdg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "csgiaik3btbydtgoynpl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/csgiaik3btbydtgoynpl.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "alien-rage", 
+    "summary": "Unleash a fury of powerful weapons as you blast your way through armies of Alien forces hell-bent on taking you down! Battle through 14 intense levels and prepare to face a barrage of beastly-sized bosses that will test your every skill. Each of your 10 weapons comes with two firing modes and you\u2019ll need all of them! Battle hardened Alien forces will attack you from every direction using various flanking and attack moves. Built with powerful up-to-date graphics technology, awesome physics, destructible environments\u2026 experience a truly intense, old-school styled shooter game!", 
+    "tags": [
+        18, 
+        268435461, 
+        536870915, 
+        536871365, 
+        536871506, 
+        536871784, 
+        536871882, 
+        536872070, 
+        536872352, 
+        536874398, 
+        536874743, 
+        536874745, 
+        536874916, 
+        536875046, 
+        536875056, 
+        536875063, 
+        536875073, 
+        536875089, 
+        536875199, 
+        536875242, 
+        536875271, 
+        536875488, 
+        536875491, 
+        536875492, 
+        536875527, 
+        536875532, 
+        536875536, 
+        536875538, 
+        536875549, 
+        536875593, 
+        536875623, 
+        536875638, 
+        536875689, 
+        536875765, 
+        536875803, 
+        536875804, 
+        536875807, 
+        536875808, 
+        536875819, 
+        536875905, 
+        536875941, 
+        536876169, 
+        536876171, 
+        536876221, 
+        536876355, 
+        536876365, 
+        536876487, 
+        536876572, 
+        536876808, 
+        536876854, 
+        536876857, 
+        536876961, 
+        536876987, 
+        536877161, 
+        536877215, 
+        536877283, 
+        536877286, 
+        536877950, 
+        536879888, 
+        536882115, 
+        1073741825
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 47.6980535440687, 
+    "total_rating_count": 8, 
+    "updated_at": 1517270873792, 
+    "url": "https://www.igdb.com/games/alien-rage", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "vEH9VJDaTlA"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://alienragegame.com/"
+        }
+    ]
+}

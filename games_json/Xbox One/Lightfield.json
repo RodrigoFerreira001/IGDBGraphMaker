@@ -1,0 +1,153 @@
+{
+    "aggregated_rating": 67.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jjx5kj80ijts5ufixcpr", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jjx5kj80ijts5ufixcpr.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1488103417789, 
+    "developers": [
+        12197
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "-"
+    }, 
+    "external": {
+        "steam": "790020"
+    }, 
+    "first_release_date": 1506297600000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        19448, 
+        19934, 
+        19174, 
+        19301, 
+        16513, 
+        23330, 
+        68287, 
+        19376, 
+        26766, 
+        25211
+    ], 
+    "genres": [
+        10, 
+        33
+    ], 
+    "hypes": 1, 
+    "id": 27403, 
+    "keywords": [
+        117, 
+        970, 
+        4134, 
+        4154, 
+        4157, 
+        8243
+    ], 
+    "name": "Lightfield", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons."
+    }, 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "pulse_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1506297600000, 
+            "human": "2017-Sep-25", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506384000000, 
+            "human": "2017-Sep-26", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506384000000, 
+            "human": "2017-Sep-26", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506384000000, 
+            "human": "2017-Sep-26", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "slug": "lightfield", 
+    "summary": "\"LIGHTFIELD is a hyper futuristic racing game with a parkour twist. Drive on any surface including walls, tunnels and sci-fi architecture to piece together the fastest racing line. Only by mastering your anti-gravity spaceship and finding the best omnidirectional route can you race to the top. \n \nPlay on your own, online, or with up to three friends on your sofa in split screen and perfect your racing line. Explore the worlds beyond the track boundaries and lose yourself in the aesthetics of the colorful environments, abstract level architecture and electronic music by Viennese musician Zanshin.\"", 
+    "tags": [
+        18, 
+        268435466, 
+        268435489, 
+        536871029, 
+        536871882, 
+        536875046, 
+        536875066, 
+        536875069, 
+        536879155, 
+        1073741826
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 67.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1522941661624, 
+    "url": "https://www.igdb.com/games/lightfield", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "OqtjgPsRLNY"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "RLcqA6pOpLA"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "r9ZsWWZY5aM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/LightfieldGame"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://lightfieldgame.com/"
+        }
+    ]
+}

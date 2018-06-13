@@ -1,0 +1,126 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qneuorn61lmjerqpppdf", 
+        "height": 251, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qneuorn61lmjerqpppdf.jpg", 
+        "width": 354
+    }, 
+    "created_at": 1517251321675, 
+    "developers": [
+        14746
+    ], 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 84288, 
+    "keywords": [
+        575, 
+        904, 
+        969, 
+        1235, 
+        1473, 
+        2727
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "onlinecoop": true, 
+            "platform": 11, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "onlinecoop": true, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "RoboVirus", 
+    "platforms": [
+        6, 
+        11
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 11, 
+            "region": 8
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 6, 
+            "region": 8
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "t5mnnarkonoocieuayvp", 
+            "height": 251, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t5mnnarkonoocieuayvp.jpg", 
+            "width": 354
+        }, 
+        {
+            "cloudinary_id": "x0dkzd9hahqpr2udvio5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x0dkzd9hahqpr2udvio5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "teqqrgrn5awtppzds17s", 
+            "height": 1068, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/teqqrgrn5awtppzds17s.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nrxnsew20ajfhl5dw8j5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nrxnsew20ajfhl5dw8j5.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "robovirus", 
+    "status": 2, 
+    "summary": "Early concept of a 4 player co-operative top-down shooter where a squad of robots try to make it to the other side of the map while the maps keeps moving. \n \nEnemy robots are spawned across the map and they're trying to infect you with their virus. Shoot the enemy robots before they reach you!", 
+    "tags": [
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1517255990010, 
+    "url": "https://www.igdb.com/games/robovirus", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "G_Amy6vBvk8"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.stolen.fi"
+        }
+    ]
+}

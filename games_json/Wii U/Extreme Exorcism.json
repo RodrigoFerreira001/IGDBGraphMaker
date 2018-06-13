@@ -1,0 +1,165 @@
+{
+    "aggregated_rating": 71.6666666666667, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "nt9gph6kfbwmyykrcefa", 
+        "height": 370, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nt9gph6kfbwmyykrcefa.jpg", 
+        "width": 438
+    }, 
+    "created_at": 1467983906047, 
+    "external": {
+        "steam": "334100"
+    }, 
+    "first_release_date": 1442966400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        55752, 
+        19174, 
+        19448, 
+        6732, 
+        19290, 
+        51485, 
+        19934, 
+        26848, 
+        55289, 
+        10039
+    ], 
+    "genres": [
+        8, 
+        31, 
+        32
+    ], 
+    "id": 20026, 
+    "keywords": [
+        117, 
+        2049, 
+        4134, 
+        4465, 
+        5316, 
+        5343, 
+        6200
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Extreme Exorcism", 
+    "platforms": [
+        6, 
+        41
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        2852
+    ], 
+    "rating": 78.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1442966400000, 
+            "human": "2015-Sep-23", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1442966400000, 
+            "human": "2015-Sep-23", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1442966400000, 
+            "human": "2015-Sep-23", 
+            "m": 9, 
+            "platform": 6, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vwu16dibgen3myq0lgw6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vwu16dibgen3myq0lgw6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mmap35zwfbzjdflhshnp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mmap35zwfbzjdflhshnp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bzwgoumcktfmqygxklti", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bzwgoumcktfmqygxklti.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bmfk0jxshffgfqrwtafd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bmfk0jxshffgfqrwtafd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yt34fidxalwxidocrty6", 
+            "height": 456, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yt34fidxalwxidocrty6.jpg", 
+            "width": 730
+        }
+    ], 
+    "slug": "extreme-exorcism", 
+    "summary": "Extreme Exorcism is a paranormal platformer where every move you make comes back to haunt you.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536872961, 
+        536875046, 
+        536875377, 
+        536876228, 
+        536876255, 
+        536877112
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 74.83333333333334, 
+    "total_rating_count": 4, 
+    "updated_at": 1523430751319, 
+    "url": "https://www.igdb.com/games/extreme-exorcism", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://extremeexorcism.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/334100"
+        }
+    ]
+}

@@ -1,0 +1,300 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "fkbjlu7zrfb9aszj1tof", 
+        "height": 353, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fkbjlu7zrfb9aszj1tof.jpg", 
+        "width": 616
+    }, 
+    "created_at": 1445896558425, 
+    "developers": [
+        5193
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "219190"
+    }, 
+    "first_release_date": 1363564800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        27314, 
+        68287, 
+        25300, 
+        64204, 
+        36950, 
+        11253, 
+        10039, 
+        25311, 
+        28029, 
+        7350
+    ], 
+    "genres": [
+        5, 
+        32, 
+        33
+    ], 
+    "id": 14327, 
+    "keywords": [
+        67, 
+        126, 
+        575, 
+        970, 
+        1158, 
+        1494, 
+        1510, 
+        1623, 
+        1705, 
+        4158, 
+        4283, 
+        4586, 
+        4726
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Ultratron", 
+    "platforms": [
+        6, 
+        92, 
+        14, 
+        41, 
+        46, 
+        9, 
+        48, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        5193
+    ], 
+    "rating": 68.3622492337199, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1431561600000, 
+            "human": "2015-May-14", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1431561600000, 
+            "human": "2015-May-14", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1431043200000, 
+            "human": "2015-May-08", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1363564800000, 
+            "human": "2013-Mar-18", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1363564800000, 
+            "human": "2013-Mar-18", 
+            "m": 3, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1363564800000, 
+            "human": "2013-Mar-18", 
+            "m": 3, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1363564800000, 
+            "human": "2013-Mar-18", 
+            "m": 3, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1431043200000, 
+            "human": "2015-May-08", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1431388800000, 
+            "human": "2015-May-12", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1431388800000, 
+            "human": "2015-May-12", 
+            "m": 5, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1431388800000, 
+            "human": "2015-May-12", 
+            "m": 5, 
+            "platform": 46, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1431561600000, 
+            "human": "2015-May-14", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "z3vjuwbptildmxyq3gnm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z3vjuwbptildmxyq3gnm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zpucvllxbrtrigomfx6t", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zpucvllxbrtrigomfx6t.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ltlzdp5390wnfioh3h7v", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ltlzdp5390wnfioh3h7v.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tjqbm6ytwvnwcuawdtxy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tjqbm6ytwvnwcuawdtxy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gzwcebwatrjkic9v1zkx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gzwcebwatrjkic9v1zkx.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "ultratron", 
+    "summary": "Enter the world of Ultratron and experience the addictive gameplay of old-school arcade favourites such as Robotron: 2084, updated and improved for the 21st century!\n\nUnique retro-futuristic sound and graphics, player responsive difficulty, and a subtle system of tactics combined with classic gameplay make Ultratron a fun and hypnotic arcade blast.\n\nThe last human has been slain by evil killer robots. You are the one remaining humanoid battle droid. Your mission: avenge the human race!\n\nBlast your way through 40+ glowing neon levels, avoiding Chasers, Turrets, Spawners, Minelayers, bombs, and bullets, and take on the four giant boss 'bots of the Apocalypse - Ieiunitas, Bellum, Lues and Letum!", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435488, 
+        268435489, 
+        536870979, 
+        536871038, 
+        536871487, 
+        536871882, 
+        536872070, 
+        536872406, 
+        536872422, 
+        536872535, 
+        536872617, 
+        536875070, 
+        536875195, 
+        536875498, 
+        536875638, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 69.18112461685995, 
+    "total_rating_count": 5, 
+    "updated_at": 1528359761715, 
+    "url": "https://www.igdb.com/games/ultratron", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "kKkIYQc55ZE"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/219190"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.puppygames.net/ultratron"
+        }
+    ]
+}

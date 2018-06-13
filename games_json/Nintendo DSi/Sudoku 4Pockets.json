@@ -1,0 +1,85 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "crr4tyzj0wljsjit38mx", 
+        "height": 386, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/crr4tyzj0wljsjit38mx.jpg", 
+        "width": 575
+    }, 
+    "created_at": 1505347593922, 
+    "first_release_date": 1265587200000, 
+    "games": [
+        11588, 
+        25222, 
+        25217, 
+        19083, 
+        60044, 
+        58129, 
+        40720, 
+        26223, 
+        14047, 
+        28213
+    ], 
+    "genres": [
+        9, 
+        26
+    ], 
+    "id": 67011, 
+    "keywords": [
+        2244, 
+        2601, 
+        2875, 
+        4139
+    ], 
+    "name": "Sudoku 4Pockets", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1265932800000, 
+            "human": "2010-Feb-12", 
+            "m": 2, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1265587200000, 
+            "human": "2010-Feb-08", 
+            "m": 2, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "epimkuncghmfsikfrc3v", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/epimkuncghmfsikfrc3v.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "xpboydoket7zm658pcei", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xpboydoket7zm658pcei.jpg", 
+            "width": 272
+        }
+    ], 
+    "slug": "sudoku-4pockets", 
+    "summary": "Sudoku game for DSiWare", 
+    "tags": [
+        268435465, 
+        268435482, 
+        536873156, 
+        536873513, 
+        536873787, 
+        536875051
+    ], 
+    "updated_at": 1518012494860, 
+    "url": "https://www.igdb.com/games/sudoku-4pockets"
+}

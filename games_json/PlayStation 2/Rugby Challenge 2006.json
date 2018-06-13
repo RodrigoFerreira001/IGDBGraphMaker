@@ -1,0 +1,92 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kcvl4cyakyr4ssb8cokj", 
+        "height": 321, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kcvl4cyakyr4ssb8cokj.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1396917613083, 
+    "developers": [
+        2429
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1138924800000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        43061, 
+        7166, 
+        6022, 
+        6021, 
+        46820, 
+        80239, 
+        77134, 
+        77083, 
+        68860, 
+        41585
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 6020, 
+    "keywords": [
+        313
+    ], 
+    "name": "Rugby Challenge 2006", 
+    "platforms": [
+        6, 
+        11, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        104, 
+        2579
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1138924800000, 
+            "human": "2006-Feb-03", 
+            "m": 2, 
+            "platform": 11, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1138924800000, 
+            "human": "2006-Feb-03", 
+            "m": 2, 
+            "platform": 8, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1138924800000, 
+            "human": "2006-Feb-03", 
+            "m": 2, 
+            "platform": 6, 
+            "y": 2006
+        }
+    ], 
+    "slug": "rugby-challenge-2006", 
+    "tags": [
+        268435470, 
+        536871225, 
+        1073741826
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1474393803925, 
+    "url": "https://www.igdb.com/games/rugby-challenge-2006"
+}

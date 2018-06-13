@@ -1,0 +1,97 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 2, 
+    "category": 1, 
+    "cover": {
+        "cloudinary_id": "cs2izxztfw5443utsqmv", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cs2izxztfw5443utsqmv.jpg", 
+        "width": 1920
+    }, 
+    "created_at": 1469049543591, 
+    "first_release_date": 1407196800000, 
+    "game": 2033, 
+    "id": 20872, 
+    "name": "Call of Duty Ghosts - Nemesis", 
+    "platforms": [
+        6, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1409788800000, 
+            "human": "2014-Sep-04", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1409788800000, 
+            "human": "2014-Sep-04", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1409788800000, 
+            "human": "2014-Sep-04", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1407196800000, 
+            "human": "2014-Aug-05", 
+            "m": 8, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1407196800000, 
+            "human": "2014-Aug-05", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "nglsuyroiwedbbbxds83", 
+            "height": 300, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nglsuyroiwedbbbxds83.jpg", 
+            "width": 966
+        }
+    ], 
+    "slug": "call-of-duty-ghosts-nemesis", 
+    "summary": "Nemesis is a downloadable pack for Call of Duty: Ghosts. It is the fourth and final DLC to come out for the game. The DLC has a red color scheme for its label. The DLC was released on August 5th, 2014 on Xbox Live (Xbox 360 and Xbox One), and on September 4, 2014 for PlayStation Network (PlayStation 3, PlayStation 4) and PC (Steam).  \n  \nLike the previous DLC, Invasion, this DLC pack does not include any new weapon, unlike the 1st and 2nd DLC packs that came before it, Onslaught and Devastation, which introduced the Maverick/Maverick-A2 and the Ripper.", 
+    "total_rating": 65.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1495639214329, 
+    "url": "https://www.igdb.com/games/call-of-duty-ghosts-nemesis", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "C5gk1jTKDG4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://callofduty.wikia.com/wiki/Nemesis_(DLC)"
+        }
+    ]
+}

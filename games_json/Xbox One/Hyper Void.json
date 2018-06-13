@@ -1,0 +1,145 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ej6ffytwq6vucly5iu8w", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ej6ffytwq6vucly5iu8w.jpg", 
+        "width": 1086
+    }, 
+    "created_at": 1469143273831, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "568060"
+    }, 
+    "first_release_date": 1423526400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        68287, 
+        64204, 
+        27314, 
+        25300, 
+        36950, 
+        28029, 
+        10039, 
+        25311, 
+        142, 
+        76229
+    ], 
+    "genres": [
+        5, 
+        32
+    ], 
+    "id": 20966, 
+    "keywords": [
+        166, 
+        970, 
+        1025, 
+        4726
+    ], 
+    "name": "Hyper Void", 
+    "platforms": [
+        45, 
+        48, 
+        49
+    ], 
+    "popularity": 2.333333333333333, 
+    "rating": 80.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1452038400000, 
+            "human": "2016-Jan-06", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1441670400000, 
+            "human": "2015-Sep-08", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1423526400000, 
+            "human": "2015-Feb-10", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tolad5o7bg9idhkggt1z", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tolad5o7bg9idhkggt1z.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hbsmry6yr7lv8uuxis9s", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hbsmry6yr7lv8uuxis9s.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "itcjw3csjitzxn3diwfr", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/itcjw3csjitzxn3diwfr.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "mtw18emc76sedyz9yfhr", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mtw18emc76sedyz9yfhr.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xnmxbwpmxhyqqh9lfhkr", 
+            "height": 640, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xnmxbwpmxhyqqh9lfhkr.jpg", 
+            "width": 1138
+        }
+    ], 
+    "slug": "hyper-void", 
+    "summary": "Hyper Void is a single-player 3rd-person space-shooter in which -unlike any previous space shooters- action takes place not just in outer-space, but right inside interstellar wormholes!", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435488, 
+        536871078, 
+        536871882, 
+        536871937, 
+        536875638
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1522313462276, 
+    "url": "https://www.igdb.com/games/hyper-void", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/568060"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.hypervoidgame.com"
+        }
+    ]
+}

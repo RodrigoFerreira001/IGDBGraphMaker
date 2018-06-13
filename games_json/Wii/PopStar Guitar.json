@@ -1,0 +1,95 @@
+{
+    "aggregated_rating": 45.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "pete8tm42dwooslm3yyb", 
+        "height": 360, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pete8tm42dwooslm3yyb.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1391846454896, 
+    "developers": [
+        8029
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1226966400000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        75245, 
+        6080, 
+        79882, 
+        79881, 
+        79476, 
+        78257, 
+        72735, 
+        72734, 
+        65564, 
+        26233
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 5104, 
+    "keywords": [
+        488, 
+        2152
+    ], 
+    "name": "PopStar Guitar", 
+    "platforms": [
+        5, 
+        8
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        2034
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1226966400000, 
+            "human": "2008-Nov-18", 
+            "m": 11, 
+            "platform": 8, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1226966400000, 
+            "human": "2008-Nov-18", 
+            "m": 11, 
+            "platform": 5, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "oupves2d4vh0nrq1mirc", 
+            "height": 395, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oupves2d4vh0nrq1mirc.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "popstar-guitar", 
+    "summary": "PopStar Guitar is a music game for the Wii and PlayStation 2", 
+    "tags": [
+        268435463, 
+        536871400, 
+        536873064
+    ], 
+    "total_rating": 45.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1515739225193, 
+    "url": "https://www.igdb.com/games/popstar-guitar", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/PopStar_Guitar"
+        }
+    ]
+}

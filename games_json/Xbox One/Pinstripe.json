@@ -1,0 +1,202 @@
+{
+    "aggregated_rating": 82.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "wdvojtqymc24siasqjde", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wdvojtqymc24siasqjde.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1468675429401, 
+    "developers": [
+        5169, 
+        12663
+    ], 
+    "external": {
+        "steam": "331480"
+    }, 
+    "first_release_date": 1493078400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25646, 
+        27266, 
+        54678, 
+        13189, 
+        19290, 
+        19289, 
+        18927, 
+        29525, 
+        19934, 
+        28154
+    ], 
+    "genres": [
+        8, 
+        9, 
+        31, 
+        32
+    ], 
+    "hypes": 1, 
+    "id": 20454, 
+    "keywords": [
+        101, 
+        117, 
+        163, 
+        426, 
+        1120, 
+        1697, 
+        3403, 
+        4134, 
+        4256, 
+        4871
+    ], 
+    "name": "Pinstripe", 
+    "platforms": [
+        6, 
+        92, 
+        14, 
+        48, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 3.0, 
+    "publishers": [
+        5169
+    ], 
+    "pulse_count": 3, 
+    "rating": 70.16715630407279, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1517961600000, 
+            "human": "2018-Feb-07", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1518480000000, 
+            "human": "2018-Feb-13", 
+            "m": 2, 
+            "platform": 48, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1517961600000, 
+            "human": "2018-Feb-07", 
+            "m": 2, 
+            "platform": 49, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1493078400000, 
+            "human": "2017-Apr-25", 
+            "m": 4, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1493078400000, 
+            "human": "2017-Apr-25", 
+            "m": 4, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1493078400000, 
+            "human": "2017-Apr-25", 
+            "m": 4, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1493078400000, 
+            "human": "2017-Apr-25", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "a7whoihj73fwg4p0uk0z", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a7whoihj73fwg4p0uk0z.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "d1evjagorujm6wdw1kfc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d1evjagorujm6wdw1kfc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "km9wn7nu6tjllxk6pk02", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/km9wn7nu6tjllxk6pk02.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pfep6foc5zuxpejpt8pa", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pfep6foc5zuxpejpt8pa.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gblp1bg9votu8vcqoey4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gblp1bg9votu8vcqoey4.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "pinstripe", 
+    "summary": "An ex-minister ventures through the frozen depths of Hell in search of his kidnapped daughter.", 
+    "tags": [
+        19, 
+        268435464, 
+        268435465, 
+        268435487, 
+        268435488, 
+        536871013, 
+        536871029, 
+        536871075, 
+        536871338, 
+        536872032, 
+        536872609, 
+        536874315, 
+        536875046, 
+        536875168, 
+        536875783, 
+        1073741828
+    ], 
+    "themes": [
+        19
+    ], 
+    "total_rating": 76.3335781520364, 
+    "total_rating_count": 8, 
+    "updated_at": 1523431549168, 
+    "url": "https://www.igdb.com/games/pinstripe", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "DHfWtFLBY70"
+        }
+    ]
+}

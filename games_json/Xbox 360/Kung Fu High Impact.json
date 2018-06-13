@@ -1,0 +1,86 @@
+{
+    "aggregated_rating": 48.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bzplbftdvrau1quyt82w", 
+        "height": 738, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bzplbftdvrau1quyt82w.jpg", 
+        "width": 639
+    }, 
+    "created_at": 1468175529228, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1324425600000, 
+    "games": [
+        71455, 
+        28113, 
+        54524, 
+        21429, 
+        25217, 
+        11423, 
+        75089, 
+        6685, 
+        20222, 
+        10039
+    ], 
+    "genres": [
+        4, 
+        25
+    ], 
+    "id": 20156, 
+    "keywords": [
+        451, 
+        982, 
+        1293, 
+        4134, 
+        4228, 
+        5348, 
+        5783
+    ], 
+    "name": "Kung Fu High Impact", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "pulse_count": 1, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1324425600000, 
+            "human": "2011-Dec-21", 
+            "m": 12, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "nrlbpjzyxlp5ace9p19e", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nrlbpjzyxlp5ace9p19e.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "kung-fu-high-impact", 
+    "summary": "Kung-Fu High Impact is a side-scrolling brawler that uses the Kinects body tracking technology to put the players on screen.", 
+    "tags": [
+        268435460, 
+        268435481, 
+        536871363, 
+        536871894, 
+        536872205, 
+        536875046, 
+        536875140, 
+        536876260, 
+        536876695
+    ], 
+    "total_rating": 64.16666666666666, 
+    "total_rating_count": 3, 
+    "updated_at": 1515858673313, 
+    "url": "https://www.igdb.com/games/kung-fu-high-impact"
+}

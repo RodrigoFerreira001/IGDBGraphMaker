@@ -1,0 +1,220 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vj1dhictvvjhxjn3wdxm", 
+        "height": 2900, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vj1dhictvvjhxjn3wdxm.jpg", 
+        "width": 2100
+    }, 
+    "created_at": 1431951013932, 
+    "developers": [
+        5547
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "414740"
+    }, 
+    "first_release_date": 1506384000000, 
+    "game_engines": [
+        38
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        59516, 
+        17446, 
+        55289, 
+        25311, 
+        27314, 
+        28552, 
+        19448, 
+        47823, 
+        37088, 
+        29525
+    ], 
+    "genres": [
+        5, 
+        12, 
+        31
+    ], 
+    "hypes": 1, 
+    "id": 10403, 
+    "keywords": [
+        19, 
+        453, 
+        4225, 
+        4699, 
+        4882
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "RAID: World War II", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 13.66666666666667, 
+    "publishers": [
+        280
+    ], 
+    "pulse_count": 12, 
+    "rating": 50.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1507852800000, 
+            "human": "2017-Oct-13", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1507852800000, 
+            "human": "2017-Oct-13", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1507593600000, 
+            "human": "2017-Oct-10", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1507593600000, 
+            "human": "2017-Oct-10", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506384000000, 
+            "human": "2017-Sep-26", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "x0nlaio6rs4minteja0n", 
+            "height": 1152, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x0nlaio6rs4minteja0n.jpg", 
+            "width": 2048
+        }, 
+        {
+            "cloudinary_id": "vnjjeoyge9qepj0dqwdd", 
+            "height": 1152, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vnjjeoyge9qepj0dqwdd.jpg", 
+            "width": 2048
+        }, 
+        {
+            "cloudinary_id": "zszjxjsvfovviamza2tx", 
+            "height": 1152, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zszjxjsvfovviamza2tx.jpg", 
+            "width": 2048
+        }, 
+        {
+            "cloudinary_id": "rhtjm6hrknhpjl4waptk", 
+            "height": 1152, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rhtjm6hrknhpjl4waptk.jpg", 
+            "width": 2048
+        }, 
+        {
+            "cloudinary_id": "ue5v8bf9lolox2ya84rm", 
+            "height": 1152, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ue5v8bf9lolox2ya84rm.jpg", 
+            "width": 2048
+        }
+    ], 
+    "slug": "raid-world-war-ii", 
+    "summary": "RAID: World War II is an action-packed four player co-op shooter set during a time when the Nazis was winning and hope was in short supply. Four players team up to fight and steal all across Europe. Anything goes, as long as one simple goal is achieved: stop the Nazis.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435468, 
+        268435487, 
+        536870931, 
+        536871365, 
+        536875137, 
+        536875611, 
+        536875794, 
+        1073741825
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1523405832168, 
+    "url": "https://www.igdb.com/games/raid-world-war-ii", 
+    "videos": [
+        {
+            "name": "Announcement Trailer", 
+            "video_id": "X7d3kxONI_Y"
+        }, 
+        {
+            "name": "Cinematic Trailer", 
+            "video_id": "n0807iJEMUE"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/414740"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.raidworldwar2.com/"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Raid:_World_War_II"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/raidww2"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/RAIDWW2"
+        }
+    ]
+}

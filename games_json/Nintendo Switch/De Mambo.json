@@ -1,0 +1,196 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mwwnmxhu4jf8ryuadtds", 
+        "height": 180, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mwwnmxhu4jf8ryuadtds.jpg", 
+        "width": 240
+    }, 
+    "created_at": 1457972338315, 
+    "developers": [
+        9412
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "717540"
+    }, 
+    "first_release_date": 1499904000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        10039, 
+        34919, 
+        55752, 
+        16468, 
+        51485, 
+        40524, 
+        26848, 
+        74863, 
+        68324, 
+        55289
+    ], 
+    "genres": [
+        8, 
+        32
+    ], 
+    "id": 18358, 
+    "keywords": [
+        481, 
+        2049
+    ], 
+    "name": "De Mambo", 
+    "platforms": [
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        9412
+    ], 
+    "rating": 73.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1499904000000, 
+            "human": "2017-Jul-13", 
+            "m": 7, 
+            "platform": 130, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1499904000000, 
+            "human": "2017-Jul-13", 
+            "m": 7, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "m14dmhoi0d8rx2ofi6jd", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m14dmhoi0d8rx2ofi6jd.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qjhnuipgidiugcgmcc3b", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qjhnuipgidiugcgmcc3b.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "bl7xrp5spmgyhitc9win", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bl7xrp5spmgyhitc9win.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "sotk31e8epe3g3pvzvwq", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sotk31e8epe3g3pvzvwq.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hbagh05xeggxsi2jmtjt", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hbagh05xeggxsi2jmtjt.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "orpkbbd3vtbpsrw7g4fz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/orpkbbd3vtbpsrw7g4fz.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "vlhxl3xhxaj4ppopq7tj", 
+            "height": 1880, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vlhxl3xhxaj4ppopq7tj.jpg", 
+            "width": 3356
+        }, 
+        {
+            "cloudinary_id": "edc91vyw5zyhmkrpirgo", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/edc91vyw5zyhmkrpirgo.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rac9i0ser7j9jcck2zrt", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rac9i0ser7j9jcck2zrt.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "brdlsuh9azv94w1xyruq", 
+            "height": 806, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/brdlsuh9azv94w1xyruq.jpg", 
+            "width": 1439
+        }, 
+        {
+            "cloudinary_id": "vaitssymthpceo0nx4kf", 
+            "height": 808, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vaitssymthpceo0nx4kf.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "xbvtt8szpe8dbedntgek", 
+            "height": 808, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xbvtt8szpe8dbedntgek.jpg", 
+            "width": 1439
+        }
+    ], 
+    "slug": "de-mambo", 
+    "status": 4, 
+    "summary": "De Mambo is The Dangerous Kitchen's first game that lets players take control of up to four characters locked in infinite mambo!\n\nHelp them escape this horrible\u2014and somewhat provocative\u2014despair! Knock your opponent off the screen\u2026 and use your measly one button to attack with three levels of charge!\n\nBreak the level however you decide (thanks to some flimsy architecture) to make your game marginally different each time you play.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435488, 
+        536871393, 
+        536872961, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 74.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1523327488471, 
+    "url": "https://www.igdb.com/games/de-mambo", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "DsL0oG7_L4E"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/717540"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://demambogame.com"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/tdkitchen"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/tdkitchen"
+        }
+    ]
+}

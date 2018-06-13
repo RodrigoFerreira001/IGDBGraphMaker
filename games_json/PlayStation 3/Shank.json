@@ -1,0 +1,221 @@
+{
+    "aggregated_rating": 67.8571428571429, 
+    "aggregated_rating_count": 8, 
+    "category": 0, 
+    "collection": 1374, 
+    "cover": {
+        "cloudinary_id": "b3kxyskpy6mkw95gc4u5", 
+        "height": 1400, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/b3kxyskpy6mkw95gc4u5.jpg", 
+        "width": 1050
+    }, 
+    "created_at": 1405846509347, 
+    "developers": [
+        1005
+    ], 
+    "external": {
+        "steam": "6120"
+    }, 
+    "first_release_date": 1282608000000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        10039, 
+        47823, 
+        25300, 
+        23175, 
+        51485, 
+        26848, 
+        55289, 
+        25646, 
+        25311, 
+        55752
+    ], 
+    "genres": [
+        4, 
+        8, 
+        31, 
+        32
+    ], 
+    "id": 7518, 
+    "keywords": [
+        79, 
+        107, 
+        217, 
+        288, 
+        1033
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Shank", 
+    "pegi": {
+        "rating": 5
+    }, 
+    "platforms": [
+        6, 
+        92, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 5.666666666666667, 
+    "publishers": [
+        1
+    ], 
+    "rating": 74.5601100914393, 
+    "rating_count": 27, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1282694400000, 
+            "human": "2010-Aug-25", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1282608000000, 
+            "human": "2010-Aug-24", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1288051200000, 
+            "human": "2010-Oct-26", 
+            "m": 10, 
+            "platform": 92, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1288051200000, 
+            "human": "2010-Oct-26", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1282694400000, 
+            "human": "2010-Aug-25", 
+            "m": 8, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1282608000000, 
+            "human": "2010-Aug-24", 
+            "m": 8, 
+            "platform": 9, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "l9uhtnjakyzsctsfdane", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l9uhtnjakyzsctsfdane.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zdkqontfzodfhcmreswq", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zdkqontfzodfhcmreswq.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ktvpzwyyvuwsajqct6b8", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ktvpzwyyvuwsajqct6b8.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "t8zwjowrqjdaonzmslr8", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t8zwjowrqjdaonzmslr8.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "btourlsvedo4hrz4nli4", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/btourlsvedo4hrz4nli4.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "shank", 
+    "summary": "Shank is the cult-classic revival of the sidescrolling beat-em-up. Play as Shank in an over-the-top grindhouse game, packed to the rim with enemies, bosses, combos, and more by the award-winning team at Klei Entertainment.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536870991, 
+        536871019, 
+        536871129, 
+        536871200, 
+        536871945, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 71.2086264742911, 
+    "total_rating_count": 35, 
+    "updated_at": 1527182350164, 
+    "url": "https://www.igdb.com/games/shank", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.shankgame.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/6120"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://shank.wikia.com/wiki/Shank_Wiki"
+        }
+    ]
+}

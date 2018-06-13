@@ -1,0 +1,421 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Okami HD"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "\u014ckami HD"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Ookami"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Okami"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Sayonara, Umihara Kawase"
+        }
+    ], 
+    "category": 0, 
+    "collection": 3405, 
+    "cover": {
+        "cloudinary_id": "hijxblxchjvvooah6boa", 
+        "height": 1024, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hijxblxchjvvooah6boa.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1443481272129, 
+    "developers": [
+        4707, 
+        6957
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "272040"
+    }, 
+    "first_release_date": 1381276800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        1271, 
+        7344, 
+        2909, 
+        6705, 
+        55752, 
+        7346, 
+        117, 
+        14593, 
+        18167, 
+        21063
+    ], 
+    "genres": [
+        8, 
+        9, 
+        32
+    ], 
+    "id": 13102, 
+    "keywords": [
+        16, 
+        296, 
+        509, 
+        825, 
+        826, 
+        966, 
+        1033, 
+        1240, 
+        1381, 
+        1587, 
+        1716, 
+        1735, 
+        2016, 
+        2049, 
+        2109, 
+        2296, 
+        2324, 
+        2438, 
+        2452, 
+        2458, 
+        2875, 
+        2951, 
+        3486, 
+        3961, 
+        4138, 
+        4145, 
+        4176, 
+        4321, 
+        4332, 
+        4333, 
+        4350, 
+        4357, 
+        4386, 
+        4397, 
+        4484, 
+        4487, 
+        4590, 
+        4591, 
+        4622, 
+        4710, 
+        4726, 
+        4852, 
+        4951, 
+        4963, 
+        5109, 
+        5308, 
+        5354, 
+        5399, 
+        5717, 
+        5818, 
+        5907, 
+        5915, 
+        5963, 
+        6127, 
+        6223, 
+        6424, 
+        6653, 
+        6847, 
+        7175, 
+        7191, 
+        7386, 
+        7492, 
+        7601, 
+        7643, 
+        8193, 
+        9139, 
+        9246, 
+        9726, 
+        10009, 
+        10056, 
+        10446, 
+        10759, 
+        10804, 
+        12508, 
+        14936, 
+        14937, 
+        14938
+    ], 
+    "name": "KAMI", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        34, 
+        6, 
+        39, 
+        14, 
+        37
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        4707, 
+        6379
+    ], 
+    "rating": 70.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1463616000000, 
+            "human": "2016-May-19", 
+            "m": 5, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1390348800000, 
+            "human": "2014-Jan-22", 
+            "m": 1, 
+            "platform": 34, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1390435200000, 
+            "human": "2014-Jan-23", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1387324800000, 
+            "human": "2013-Dec-18", 
+            "m": 12, 
+            "platform": 34, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1381276800000, 
+            "human": "2013-Oct-09", 
+            "m": 10, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1390435200000, 
+            "human": "2014-Jan-23", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1390435200000, 
+            "human": "2014-Jan-23", 
+            "m": 1, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1423094400000, 
+            "human": "2015-Feb-05", 
+            "m": 2, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1424217600000, 
+            "human": "2015-Feb-18", 
+            "m": 2, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "kdbwq25pmar7hsf2bmmr", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kdbwq25pmar7hsf2bmmr.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "ampmexmsjo2z5yd8ey0k", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ampmexmsjo2z5yd8ey0k.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "nequfj5uw4hpxhwd3esl", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nequfj5uw4hpxhwd3esl.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "ywgvzu4ukvwx2ajwwxbs", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ywgvzu4ukvwx2ajwwxbs.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "jbeeqcyq0epkszi2lq23", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jbeeqcyq0epkszi2lq23.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "hwr8izpajr3spfcmrl3w", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hwr8izpajr3spfcmrl3w.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "kgh1kpjvvju9urjmlhnu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kgh1kpjvvju9urjmlhnu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "a4wbtoikneydrqeny0wi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a4wbtoikneydrqeny0wi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "oabycfid39emq3remvzw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oabycfid39emq3remvzw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zhdk5o4xoxlg8zupxxhr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zhdk5o4xoxlg8zupxxhr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bmf5ivi4tqyyng0rwfnc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bmf5ivi4tqyyng0rwfnc.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "kami", 
+    "summary": "KAMI is deceptively simple: fold out coloured paper to fill the screen in as few moves as possible.\n\nRelaxing and easy to pick up, you'll soon find yourself deep in contemplation to perfect each puzzle.", 
+    "tags": [
+        268435464, 
+        268435465, 
+        268435488, 
+        536870928, 
+        536871208, 
+        536871421, 
+        536871737, 
+        536871738, 
+        536871878, 
+        536871945, 
+        536872152, 
+        536872293, 
+        536872499, 
+        536872628, 
+        536872647, 
+        536872928, 
+        536872961, 
+        536873021, 
+        536873208, 
+        536873236, 
+        536873350, 
+        536873364, 
+        536873370, 
+        536873787, 
+        536873863, 
+        536874398, 
+        536874873, 
+        536875050, 
+        536875057, 
+        536875088, 
+        536875233, 
+        536875244, 
+        536875245, 
+        536875262, 
+        536875269, 
+        536875298, 
+        536875309, 
+        536875396, 
+        536875399, 
+        536875502, 
+        536875503, 
+        536875534, 
+        536875622, 
+        536875638, 
+        536875764, 
+        536875863, 
+        536875875, 
+        536876021, 
+        536876220, 
+        536876266, 
+        536876311, 
+        536876629, 
+        536876730, 
+        536876819, 
+        536876827, 
+        536876875, 
+        536877039, 
+        536877135, 
+        536877336, 
+        536877565, 
+        536877759, 
+        536878087, 
+        536878103, 
+        536878298, 
+        536878404, 
+        536878513, 
+        536878555, 
+        536879105, 
+        536880051, 
+        536880158, 
+        536880638, 
+        536880921, 
+        536880968, 
+        536881358, 
+        536881671, 
+        536881716, 
+        536883420, 
+        536885848, 
+        536885849, 
+        536885850, 
+        1073741827
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1523261597037, 
+    "url": "https://www.igdb.com/games/kami", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "KOrTRub2FYQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/272040"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://kamipuzzle.com/"
+        }
+    ]
+}

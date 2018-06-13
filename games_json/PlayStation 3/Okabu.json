@@ -1,0 +1,115 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "cgk1mo8yy7tbbpfmeq3q", 
+        "height": 1024, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cgk1mo8yy7tbbpfmeq3q.jpg", 
+        "width": 1280
+    }, 
+    "created_at": 1468846993405, 
+    "esrb": {
+        "rating": 1
+    }, 
+    "first_release_date": 1314921600000, 
+    "games": [
+        25222, 
+        54678, 
+        22425, 
+        11423, 
+        13163, 
+        19289, 
+        26223, 
+        27266, 
+        19448, 
+        13189
+    ], 
+    "genres": [
+        9, 
+        31
+    ], 
+    "id": 20603, 
+    "keywords": [
+        1027, 
+        2875, 
+        3910, 
+        4134, 
+        4177, 
+        4239, 
+        4245, 
+        4296, 
+        4359, 
+        4381, 
+        4698, 
+        5280, 
+        5998, 
+        6637, 
+        9935
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Okabu", 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1314921600000, 
+            "human": "2011-Sep-02", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "upahnegyx7bpzdjytdxs", 
+            "height": 375, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/upahnegyx7bpzdjytdxs.jpg", 
+            "width": 500
+        }
+    ], 
+    "slug": "okabu", 
+    "summary": "Okabu is a co-op action-puzzle-adventure, following the exploits of a two Cloud-whales, Kumulo and Nimbe, as they battle to save their people and their world from the industrialized threat of the Doza clan", 
+    "tags": [
+        268435465, 
+        268435487, 
+        536871939, 
+        536873787, 
+        536874822, 
+        536875046, 
+        536875089, 
+        536875151, 
+        536875157, 
+        536875208, 
+        536875271, 
+        536875293, 
+        536875610, 
+        536876192, 
+        536876910, 
+        536877549, 
+        536880847
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 4, 
+    "updated_at": 1515827441210, 
+    "url": "https://www.igdb.com/games/okabu"
+}

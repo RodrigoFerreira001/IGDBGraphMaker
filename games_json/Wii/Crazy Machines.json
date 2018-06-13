@@ -1,0 +1,153 @@
+{
+    "aggregated_rating": 53.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 1949, 
+    "cover": {
+        "cloudinary_id": "kdxjngyj7uz6tphbynrj", 
+        "height": 357, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kdxjngyj7uz6tphbynrj.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1391265521974, 
+    "developers": [
+        2141
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "18420"
+    }, 
+    "first_release_date": 1128124800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        29173, 
+        55036, 
+        25222, 
+        18167, 
+        55590, 
+        23345, 
+        19376, 
+        60044, 
+        8197, 
+        14047
+    ], 
+    "genres": [
+        9, 
+        15
+    ], 
+    "id": 4777, 
+    "keywords": [
+        2875, 
+        3782, 
+        5419
+    ], 
+    "name": "Crazy Machines", 
+    "platforms": [
+        6, 
+        39, 
+        20, 
+        5
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2138, 
+        2139, 
+        2140, 
+        538
+    ], 
+    "rating": 66.8493150684932, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 1, 
+            "date": 1128124800000, 
+            "human": "2005-Oct", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 2005
+        }, 
+        {
+            "category": 1, 
+            "date": 1128124800000, 
+            "human": "2005-Oct", 
+            "m": 10, 
+            "platform": 5, 
+            "y": 2005
+        }, 
+        {
+            "category": 1, 
+            "date": 1128124800000, 
+            "human": "2005-Oct", 
+            "m": 10, 
+            "platform": 20, 
+            "y": 2005
+        }, 
+        {
+            "category": 1, 
+            "date": 1128124800000, 
+            "human": "2005-Oct", 
+            "m": 10, 
+            "platform": 39, 
+            "y": 2005
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "cjni1tuten6y15r3rttm", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cjni1tuten6y15r3rttm.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "gpre2gaghbzt2hamybfg", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gpre2gaghbzt2hamybfg.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "bkeitljbjadpfeoxui7p", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bkeitljbjadpfeoxui7p.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "zbuslqm2k9xls5wiec5k", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zbuslqm2k9xls5wiec5k.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "fybwhb9xc6pznl9x5ff5", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fybwhb9xc6pznl9x5ff5.jpg", 
+            "width": 1024
+        }
+    ], 
+    "slug": "crazy-machines", 
+    "summary": "Turn the crank, rotate the gears, push the levers, Use the catapult, explode it, or fly it...From grilling sausages with a pulley, gears, rubberbands and a candle to firing a cannon with a basketball, these wacky brain-teasers will light up your imagination with creative and addictive fun.", 
+    "tags": [
+        268435465, 
+        268435471, 
+        536873787, 
+        536874694, 
+        536876331
+    ], 
+    "total_rating": 59.9246575342466, 
+    "total_rating_count": 5, 
+    "updated_at": 1523282374184, 
+    "url": "https://www.igdb.com/games/crazy-machines", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.crazy-machines.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/18420"
+        }
+    ]
+}

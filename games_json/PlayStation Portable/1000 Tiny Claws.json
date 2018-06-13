@@ -1,0 +1,122 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "povhozqegniz0ly1co5d", 
+        "height": 343, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/povhozqegniz0ly1co5d.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1469818974455, 
+    "developers": [
+        2581
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1317686400000, 
+    "games": [
+        76110, 
+        34919, 
+        16468, 
+        40524, 
+        19934, 
+        55289, 
+        68324, 
+        37022, 
+        25646, 
+        10039
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 21837, 
+    "keywords": [
+        3572, 
+        4134, 
+        4435, 
+        4726
+    ], 
+    "name": "1000 Tiny Claws", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        45, 
+        38
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2581
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1318982400000, 
+            "human": "2011-Oct-19", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1318896000000, 
+            "human": "2011-Oct-18", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1318982400000, 
+            "human": "2011-Oct-19", 
+            "m": 10, 
+            "platform": 45, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317686400000, 
+            "human": "2011-Oct-04", 
+            "m": 10, 
+            "platform": 38, 
+            "y": 2011
+        }
+    ], 
+    "slug": "1000-tiny-claws", 
+    "summary": "1000 Tiny Claws is the third PlayStation Minis game from developer Mediatonic.", 
+    "tags": [
+        1, 
+        268435488, 
+        536874484, 
+        536875046, 
+        536875347, 
+        536875638, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1519999723123, 
+    "url": "https://www.igdb.com/games/1000-tiny-claws", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "wjN9vkWKZIU"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 5, 
+            "url": "https://twitter.com/mediatonic"
+        }
+    ]
+}

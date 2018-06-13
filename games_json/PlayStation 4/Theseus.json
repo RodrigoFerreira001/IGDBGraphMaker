@@ -1,0 +1,181 @@
+{
+    "aggregated_rating": 63.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "x1itbndvrdzyvgrhenl1", 
+        "height": 1201, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/x1itbndvrdzyvgrhenl1.jpg", 
+        "width": 883
+    }, 
+    "created_at": 1487276395909, 
+    "developers": [
+        12282
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "677330"
+    }, 
+    "first_release_date": 1501027200000, 
+    "game_engines": [
+        439
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        47823, 
+        23175, 
+        25300, 
+        55289, 
+        68324, 
+        25646, 
+        25311, 
+        37022, 
+        55752, 
+        76098
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 27216, 
+    "keywords": [
+        72, 
+        197, 
+        296, 
+        537, 
+        1033, 
+        1697
+    ], 
+    "name": "Theseus", 
+    "platforms": [
+        45, 
+        48
+    ], 
+    "player_perspectives": [
+        2, 
+        7
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        12282
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1501027200000, 
+            "human": "2017-Jul-26", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1501027200000, 
+            "human": "2017-Jul-26", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1501027200000, 
+            "human": "2017-Jul-26", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ezgek78qaciekg2jvsur", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ezgek78qaciekg2jvsur.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vem4b0kkkj56lyekta7n", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vem4b0kkkj56lyekta7n.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "t7jh0w0eejw7c5brdzcv", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t7jh0w0eejw7c5brdzcv.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "xzc5zp5kqxni5bymb8dl", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xzc5zp5kqxni5bymb8dl.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "zz9cbk8xszkitbfjwz2m", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zz9cbk8xszkitbfjwz2m.jpg", 
+            "width": 3840
+        }
+    ], 
+    "slug": "theseus", 
+    "summary": "Theseus is an immersive VR experience that offers a new take on the myth of the Minotaur and the Labyrinth. Inspired by the ancient Greek myth, take on the role of Theseus as you explore the Labyrinth of the invulnerable Minotaur, using your cunning and stealth to find your way out of the darkness.", 
+    "tags": [
+        1, 
+        268435487, 
+        268435488, 
+        536870984, 
+        536871109, 
+        536871208, 
+        536871449, 
+        536871945, 
+        536872609, 
+        1073741826, 
+        1073741831
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 63.3333333333333, 
+    "total_rating_count": 3, 
+    "updated_at": 1523336595154, 
+    "url": "https://www.igdb.com/games/theseus", 
+    "videos": [
+        {
+            "name": "PlayStation VR Trailer", 
+            "video_id": "ycAtHEPdKy0"
+        }, 
+        {
+            "name": "Teaser", 
+            "video_id": "X-wOOcP0BcY"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/677330"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.theseus-vr.com"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/ForgeReply"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/forgereply"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/forgereply"
+        }
+    ]
+}

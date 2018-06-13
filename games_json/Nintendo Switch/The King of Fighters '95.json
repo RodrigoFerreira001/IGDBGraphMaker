@@ -1,0 +1,462 @@
+{
+    "aggregated_rating": 63.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "ACA NEOGEO THE KING OF FIGHTERS '95"
+        }, 
+        {
+            "comment": "Acronym", 
+            "name": "KOF '95"
+        }
+    ], 
+    "category": 0, 
+    "collection": 854, 
+    "cover": {
+        "cloudinary_id": "bzwd3mjw7ghoptfjdpkl", 
+        "height": 1000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bzwd3mjw7ghoptfjdpkl.jpg", 
+        "width": 1130
+    }, 
+    "created_at": 1450217541493, 
+    "developers": [
+        1474
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 788918400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        12588, 
+        15428, 
+        15429, 
+        41828, 
+        7364, 
+        884, 
+        5897, 
+        43988, 
+        22952, 
+        68391
+    ], 
+    "genres": [
+        4, 
+        33
+    ], 
+    "id": 15427, 
+    "keywords": [
+        61, 
+        107, 
+        286, 
+        872, 
+        969, 
+        977, 
+        1057, 
+        1075, 
+        1231, 
+        2071, 
+        2152, 
+        3696, 
+        4161, 
+        4286, 
+        4362, 
+        4370, 
+        4372, 
+        4494, 
+        4650, 
+        4804, 
+        5328, 
+        5396, 
+        5917, 
+        5920, 
+        5987, 
+        6100, 
+        8874, 
+        9849, 
+        9886, 
+        11380, 
+        11537, 
+        11565, 
+        11853, 
+        12710, 
+        16719
+    ], 
+    "name": "The King of Fighters '95", 
+    "platforms": [
+        80, 
+        45, 
+        32, 
+        7, 
+        136, 
+        79, 
+        47, 
+        33, 
+        5, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        45, 
+        863, 
+        70, 
+        1474
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1507766400000, 
+            "human": "2017-Oct-12", 
+            "m": 10, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1507766400000, 
+            "human": "2017-Oct-12", 
+            "m": 10, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1259625600000, 
+            "human": "2009-Dec-01", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1272585600000, 
+            "human": "2010-Apr-30", 
+            "m": 4, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1272240000000, 
+            "human": "2010-Apr-26", 
+            "m": 4, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 812332800000, 
+            "human": "1995-Sep-29", 
+            "m": 9, 
+            "platform": 136, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 790992000000, 
+            "human": "1995-Jan-25", 
+            "m": 1, 
+            "platform": 79, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 788918400000, 
+            "human": "1995-Jan-01", 
+            "m": 1, 
+            "platform": 80, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 863136000000, 
+            "human": "1997-May-09", 
+            "m": 5, 
+            "platform": 136, 
+            "region": 5, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 790992000000, 
+            "human": "1995-Jan-25", 
+            "m": 1, 
+            "platform": 79, 
+            "region": 5, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 788918400000, 
+            "human": "1995-Jan-01", 
+            "m": 1, 
+            "platform": 80, 
+            "region": 5, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 1272240000000, 
+            "human": "2010-Apr-26", 
+            "m": 4, 
+            "platform": 47, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1272585600000, 
+            "human": "2010-Apr-30", 
+            "m": 4, 
+            "platform": 47, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1259625600000, 
+            "human": "2009-Dec-01", 
+            "m": 12, 
+            "platform": 47, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1180483200000, 
+            "human": "2007-May-30", 
+            "m": 5, 
+            "platform": 45, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 4, 
+            "date": 867628800000, 
+            "human": "1997-Q2", 
+            "m": 6, 
+            "platform": 7, 
+            "region": 1, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 841449600000, 
+            "human": "1996-Aug-31", 
+            "m": 8, 
+            "platform": 7, 
+            "region": 2, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 835920000000, 
+            "human": "1996-Jun-28", 
+            "m": 6, 
+            "platform": 7, 
+            "region": 5, 
+            "y": 1996
+        }, 
+        {
+            "category": 2, 
+            "date": 883526400000, 
+            "human": "1997", 
+            "m": 12, 
+            "platform": 33, 
+            "region": 1, 
+            "y": 1997
+        }, 
+        {
+            "category": 3, 
+            "date": 859766400000, 
+            "human": "1997-Q1", 
+            "m": 3, 
+            "platform": 33, 
+            "region": 2, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 830476800000, 
+            "human": "1996-Apr-26", 
+            "m": 4, 
+            "platform": 33, 
+            "region": 5, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 868492800000, 
+            "human": "1997-Jul-10", 
+            "m": 7, 
+            "platform": 32, 
+            "region": 1, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 827971200000, 
+            "human": "1996-Mar-28", 
+            "m": 3, 
+            "platform": 32, 
+            "region": 5, 
+            "y": 1996
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "yxk0tvi2lzelnazmnjuv", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yxk0tvi2lzelnazmnjuv.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "r8lrtkksdq29ll8erygs", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r8lrtkksdq29ll8erygs.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "qxj1mco1kith7dcztjyc", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qxj1mco1kith7dcztjyc.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "rxvnngnpuhefkkqhwtvd", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rxvnngnpuhefkkqhwtvd.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "l42h0ncqxcgmvijiofwc", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l42h0ncqxcgmvijiofwc.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "jqqjpvnhfoe71mzqsug0", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jqqjpvnhfoe71mzqsug0.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "v6nk8ap2buaxj8ccm04h", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v6nk8ap2buaxj8ccm04h.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "s0joo98moftytttyvlw1", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s0joo98moftytttyvlw1.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "r2qsukspiwjkoa2gaxic", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r2qsukspiwjkoa2gaxic.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "qebbs3nzux0ezlctt2qc", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qebbs3nzux0ezlctt2qc.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "xloi3a5nmxsb4c2hveqc", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xloi3a5nmxsb4c2hveqc.jpg", 
+            "width": 304
+        }, 
+        {
+            "cloudinary_id": "ky7jy6roi6xidjg4somv", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ky7jy6roi6xidjg4somv.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "the-king-of-fighters-95", 
+    "storyline": "The King of Fighters '95 marks the beginning of a story arc that later became known as the \"Orochi Saga\". However, the only elements from the Orochi Saga known in this game is the introduction of Kyo's rival, Iori Yagami, and Rugal's use of the Orochi power. \n \nRugal Bernstein, thought to have perished in an explosion in the previous game, had in fact survived and sent out invitations to the teams from the previous game signed simply \u2018R'. Only one of the previous teams failed to attend the new tournament: the American Sports Team, now replaced by the \"Rival Team\" consisting of Iori Yagami, Billy Kane (from Fatal Fury: King of Fighters), and Eiji Kisaragi (from Art of Fighting 2). Saisyu Kusanagi, Kyo's father, appears as a fighter for the first time (having made a non-playable cameo in KOF '94) as a computer-controlled sub-boss character. After defeating Saisyu in the arcade mode, it is revealed that Saisyu was being brainwashed and that Rugal will fight once again as a boss character, but as an enhanced version named \"Omega Rugal\".", 
+    "summary": "The King of Fighters '95 is a 1995 fighting game produced by SNK for the Neo Geo arcade and home console. It is the sequel to The King of Fighters '94 and the second game in The King of Fighters series. It is also the first game in the series to be ported to other home consoles besides the Neo Geo AES and Neo-Geo CD, with versions released for the PlayStation, Sega Saturn and Game Boy. It was also rereleased in The King of Fighters Collection: The Orochi Saga in 2008 for the PlayStation 2, PlayStation Portable and Wii.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435489, 
+        536870973, 
+        536871019, 
+        536871198, 
+        536871784, 
+        536871881, 
+        536871889, 
+        536871969, 
+        536871987, 
+        536872143, 
+        536872983, 
+        536873064, 
+        536874608, 
+        536875073, 
+        536875198, 
+        536875274, 
+        536875282, 
+        536875284, 
+        536875406, 
+        536875562, 
+        536875716, 
+        536876240, 
+        536876308, 
+        536876829, 
+        536876832, 
+        536876899, 
+        536877012, 
+        536879786, 
+        536880761, 
+        536880798, 
+        536882292, 
+        536882449, 
+        536882477, 
+        536882765, 
+        536883622, 
+        536887631, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 63.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1518015560061, 
+    "url": "https://www.igdb.com/games/the-king-of-fighters-95", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "greALx7jn4U"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/The_King_of_Fighters_'95"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://game.snk-corp.co.jp/official/online/orochi/kof95.php"
+        }
+    ]
+}

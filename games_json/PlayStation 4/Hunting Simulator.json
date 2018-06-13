@@ -1,0 +1,177 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "iw3zakzkb9go3epahqiy", 
+        "height": 1271, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iw3zakzkb9go3epahqiy.jpg", 
+        "width": 984
+    }, 
+    "created_at": 1488896380634, 
+    "developers": [
+        12283
+    ], 
+    "external": {
+        "steam": "585080"
+    }, 
+    "first_release_date": 1496275200000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        22425, 
+        26145, 
+        19290, 
+        44242, 
+        18623, 
+        43130, 
+        28277, 
+        22470, 
+        19301, 
+        29173
+    ], 
+    "genres": [
+        5, 
+        13, 
+        14, 
+        31
+    ], 
+    "id": 27697, 
+    "keywords": [
+        64, 
+        250, 
+        926, 
+        1148, 
+        4446, 
+        5350, 
+        5450, 
+        8320, 
+        8321
+    ], 
+    "name": "Hunting Simulator", 
+    "platforms": [
+        45, 
+        6, 
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1803
+    ], 
+    "rating": 40.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1499731200000, 
+            "human": "2017-Jul-11", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1499731200000, 
+            "human": "2017-Jul-11", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1499731200000, 
+            "human": "2017-Jul-11", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 1, 
+            "date": 1496275200000, 
+            "human": "2017-Jun", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xnuohffqytnjjsztyi86", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xnuohffqytnjjsztyi86.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "b0u0zpj2qiu4vntym8a3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b0u0zpj2qiu4vntym8a3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "onrkxdogtv1cea5uzyg3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/onrkxdogtv1cea5uzyg3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "u4psxr9h20lqkwz3a98z", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u4psxr9h20lqkwz3a98z.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hedzujmmahnduqvsubp4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hedzujmmahnduqvsubp4.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "hunting-simulator", 
+    "summary": "Hunting Simulator presents 35 species throughout 12 areas, including well-known hunting regions such as the mountains of Colorado, the oak forests of France, and the snowy plains of Alaska. Each environment is populated by superbly modeled animals brought to life with behaviors from a realistic AI. Hunt solo in campaign, free hunt, and shooting practice modes, or join up to two others for online co-op.", 
+    "tags": [
+        268435461, 
+        268435469, 
+        268435470, 
+        268435487, 
+        536870976, 
+        536871162, 
+        536871838, 
+        536872060, 
+        536875358, 
+        536876262, 
+        536876362, 
+        536879232, 
+        536879233
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1523359409321, 
+    "url": "https://www.igdb.com/games/hunting-simulator", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "gu6HzxM60Ek"
+        }, 
+        {
+            "name": "Featurette", 
+            "video_id": "LX36uKfiigM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://hunting-simulator.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/585080"
+        }
+    ]
+}

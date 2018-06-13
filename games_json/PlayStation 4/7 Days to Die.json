@@ -1,0 +1,347 @@
+{
+    "aggregated_rating": 36.125, 
+    "aggregated_rating_count": 9, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mgjzdiufgeuyspy6uccd", 
+        "height": 440, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mgjzdiufgeuyspy6uccd.jpg", 
+        "width": 399
+    }, 
+    "created_at": 1394851721036, 
+    "developers": [
+        2474, 
+        2121
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "251570"
+    }, 
+    "first_release_date": 1386892800000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        7329, 
+        44076, 
+        19561, 
+        1905, 
+        26145, 
+        19301, 
+        1907, 
+        19934, 
+        3277, 
+        25311
+    ], 
+    "genres": [
+        5, 
+        12, 
+        13, 
+        15, 
+        31, 
+        32
+    ], 
+    "id": 5574, 
+    "keywords": [
+        5, 
+        69, 
+        72, 
+        117, 
+        121, 
+        174, 
+        339, 
+        392, 
+        426, 
+        453, 
+        466, 
+        510, 
+        540, 
+        595, 
+        1033, 
+        1120, 
+        1148, 
+        1459, 
+        1735, 
+        1836, 
+        2452, 
+        3782, 
+        3922, 
+        4159, 
+        4247, 
+        4364, 
+        4419, 
+        4571, 
+        4572, 
+        4605, 
+        4756, 
+        4895, 
+        4957, 
+        4975, 
+        5349, 
+        5350, 
+        5351, 
+        5352, 
+        5353, 
+        10919
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "7 Days to Die", 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1, 
+        2, 
+        7
+    ], 
+    "popularity": 7.333333333333333, 
+    "publishers": [
+        2474, 
+        294
+    ], 
+    "pulse_count": 3, 
+    "rating": 58.56746805920569, 
+    "rating_count": 19, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467331200000, 
+            "human": "2016-Jul-01", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1386892800000, 
+            "human": "2013-Dec-13", 
+            "m": 12, 
+            "platform": 6, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1386892800000, 
+            "human": "2013-Dec-13", 
+            "m": 12, 
+            "platform": 14, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 48, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 49, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qdkkwdm32tomngxmm2ci", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qdkkwdm32tomngxmm2ci.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bcclznivazwmu1zcuhbj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bcclznivazwmu1zcuhbj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zsps0veeqpn6sod53lxb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zsps0veeqpn6sod53lxb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jbsbapnokm1cst68cfd6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jbsbapnokm1cst68cfd6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "r6hhvtaozowkcf06bswz", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r6hhvtaozowkcf06bswz.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "7-days-to-die", 
+    "status": 4, 
+    "summary": "Building on survivalist and horror themes, players in 7 Days to Die can scavenge the abandoned cities of the buildable and destructable voxel world for supplies or explore the wilderness to gather raw materials to build their own tools, weapons, traps, fortifications and shelters.", 
+    "tags": [
+        1, 
+        19, 
+        21, 
+        33, 
+        268435461, 
+        268435468, 
+        268435469, 
+        268435471, 
+        268435487, 
+        268435488, 
+        536870917, 
+        536870981, 
+        536870984, 
+        536871029, 
+        536871033, 
+        536871086, 
+        536871251, 
+        536871304, 
+        536871338, 
+        536871365, 
+        536871378, 
+        536871422, 
+        536871452, 
+        536871507, 
+        536871945, 
+        536872032, 
+        536872060, 
+        536872371, 
+        536872647, 
+        536872748, 
+        536873364, 
+        536874694, 
+        536874834, 
+        536875071, 
+        536875159, 
+        536875276, 
+        536875331, 
+        536875483, 
+        536875484, 
+        536875517, 
+        536875668, 
+        536875807, 
+        536875869, 
+        536875887, 
+        536876261, 
+        536876262, 
+        536876263, 
+        536876264, 
+        536876265, 
+        536881831, 
+        1073741826, 
+        1073741831, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        19, 
+        21, 
+        33
+    ], 
+    "total_rating": 47.34623402960285, 
+    "total_rating_count": 28, 
+    "updated_at": 1528350124944, 
+    "url": "https://www.igdb.com/games/7-days-to-die", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "dBBoF_GRKOQ"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "T7XmMwxk3rI"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.7daystodie.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/251570"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/7DaystoDie"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/7DaysToDie"
+        }
+    ]
+}

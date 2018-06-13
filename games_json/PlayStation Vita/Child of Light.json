@@ -1,0 +1,446 @@
+{
+    "aggregated_rating": 87.5, 
+    "aggregated_rating_count": 16, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ofqezwvixhxpadecqyju", 
+        "height": 340, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ofqezwvixhxpadecqyju.jpg", 
+        "width": 240
+    }, 
+    "created_at": 1391221048649, 
+    "developers": [
+        38
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is a role-playing game in which players assume the role of a young princess (Aurora) who finds herself trapped in a fantasy realm. Players traverse side-scrolling environments, solve puzzles, and engage in turn-based combat. Players use swords and magic spells to defend against fantastical enemies (e.g., giants, ghosts, stone statues); enemies generally cry out and disappear amid puffs of smoke. The game includes some thematic elements within text (e.g., a child's death, a reference to being poisoned); one cutscene depicts a woman dying. A handful of sequences depict drunk characters (e.g., birds drinking from bottles, hiccuping, stumbling); some characters also smoke tobacco pipes."
+    }, 
+    "external": {
+        "steam": "256290"
+    }, 
+    "first_release_date": 1398729600000, 
+    "game_engines": [
+        22
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        11214, 
+        36926, 
+        27421, 
+        4843, 
+        36534, 
+        11800, 
+        26766, 
+        7344, 
+        21429, 
+        7349
+    ], 
+    "genres": [
+        8, 
+        12, 
+        16, 
+        31
+    ], 
+    "hypes": 4, 
+    "id": 4756, 
+    "keywords": [
+        16, 
+        226, 
+        296, 
+        415, 
+        815, 
+        962, 
+        1026, 
+        1059, 
+        1158, 
+        1181, 
+        1293, 
+        1381, 
+        2242, 
+        2472, 
+        2543, 
+        2958, 
+        4145, 
+        4245, 
+        4282, 
+        4353, 
+        4465, 
+        4726, 
+        4755, 
+        4843, 
+        4852, 
+        4870, 
+        4890, 
+        5025, 
+        5095, 
+        5175, 
+        5308, 
+        5319, 
+        5320, 
+        5321, 
+        5323, 
+        5325, 
+        5326, 
+        5327, 
+        5328, 
+        5329, 
+        5330
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Child of Light", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\nIt contains: Non realistic looking violence towards fantasy characters - Pictures or sounds likely to be scary to young children"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        41, 
+        46, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "popularity": 13.33333333333333, 
+    "publishers": [
+        104
+    ], 
+    "pulse_count": 1, 
+    "rating": 82.3810402140788, 
+    "rating_count": 114, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1398816000000, 
+            "human": "2014-Apr-30", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398729600000, 
+            "human": "2014-Apr-29", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398902400000, 
+            "human": "2014-May-01", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398729600000, 
+            "human": "2014-Apr-29", 
+            "m": 4, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398816000000, 
+            "human": "2014-Apr-30", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1404259200000, 
+            "human": "2014-Jul-02", 
+            "m": 7, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398816000000, 
+            "human": "2014-Apr-30", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398816000000, 
+            "human": "2014-Apr-30", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398816000000, 
+            "human": "2014-Apr-30", 
+            "m": 4, 
+            "platform": 45, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398816000000, 
+            "human": "2014-Apr-30", 
+            "m": 4, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398729600000, 
+            "human": "2014-Apr-29", 
+            "m": 4, 
+            "platform": 41, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398816000000, 
+            "human": "2014-Apr-30", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398816000000, 
+            "human": "2014-Apr-30", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398816000000, 
+            "human": "2014-Apr-30", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1398816000000, 
+            "human": "2014-Apr-30", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1404172800000, 
+            "human": "2014-Jul-01", 
+            "m": 7, 
+            "platform": 46, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "una4iqqrx3cd7ibob2xh", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/una4iqqrx3cd7ibob2xh.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "zcdw7byhfqqwbkkychva", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zcdw7byhfqqwbkkychva.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "xegmudnzm8eyjk9woepm", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xegmudnzm8eyjk9woepm.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "hajnmnqclm4lllp2jmvt", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hajnmnqclm4lllp2jmvt.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "ci8vsgqmbn37ifxjdptz", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ci8vsgqmbn37ifxjdptz.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "hc8dtizgfytrnz5ha9an", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hc8dtizgfytrnz5ha9an.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "qejn0ghrq5ifsqmekfuk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qejn0ghrq5ifsqmekfuk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "h7etn4pfrqvt7mj3dw8t", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h7etn4pfrqvt7mj3dw8t.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nd1zf44xn71f3vufdhev", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nd1zf44xn71f3vufdhev.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kst9qbuomff7zqxnwbf4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kst9qbuomff7zqxnwbf4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qvqgevhu1pelc27wazox", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qvqgevhu1pelc27wazox.jpg", 
+            "width": 1922
+        }
+    ], 
+    "slug": "child-of-light", 
+    "summary": "The Black Queen has stolen the Sun, the Moon and the Stars. You play as Aurora, a young princess with a pure heart whose soul is brought to the kingdom of Lemuria. Embark on a quest to recapture the three sources of light, defeat the Black Queen and restore the kingdom of Lemuria.", 
+    "tags": [
+        17, 
+        268435464, 
+        268435468, 
+        268435472, 
+        268435487, 
+        536870928, 
+        536871138, 
+        536871208, 
+        536871327, 
+        536871727, 
+        536871874, 
+        536871938, 
+        536871971, 
+        536872070, 
+        536872093, 
+        536872205, 
+        536872293, 
+        536873154, 
+        536873384, 
+        536873455, 
+        536873870, 
+        536875057, 
+        536875157, 
+        536875194, 
+        536875265, 
+        536875377, 
+        536875638, 
+        536875667, 
+        536875755, 
+        536875764, 
+        536875782, 
+        536875802, 
+        536875937, 
+        536876007, 
+        536876087, 
+        536876220, 
+        536876231, 
+        536876232, 
+        536876233, 
+        536876235, 
+        536876237, 
+        536876238, 
+        536876239, 
+        536876240, 
+        536876241, 
+        536876242
+    ], 
+    "themes": [
+        17
+    ], 
+    "time_to_beat": {
+        "normally": 43200
+    }, 
+    "total_rating": 84.94052010703939, 
+    "total_rating_count": 130, 
+    "updated_at": 1528659649231, 
+    "url": "https://www.igdb.com/games/child-of-light", 
+    "videos": [
+        {
+            "name": "Features Trailer", 
+            "video_id": "7eoh7_E_d1c"
+        }, 
+        {
+            "name": "Announce Trailer", 
+            "video_id": "2P64pJR9x2U"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "yItGruz7ucw"
+        }, 
+        {
+            "name": "Co-op Trailer", 
+            "video_id": "B4yK1_3T090"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/256290"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://childoflight.ubi.com"
+        }
+    ]
+}

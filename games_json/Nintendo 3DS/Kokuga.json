@@ -1,0 +1,191 @@
+{
+    "aggregated_rating": 73.0, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30b3\u30af\u30ac"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "go8lm6wh18zjenpna5kh", 
+        "height": 457, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/go8lm6wh18zjenpna5kh.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1470227653616, 
+    "esrb": {
+        "rating": 1
+    }, 
+    "first_release_date": 1372291200000, 
+    "games": [
+        36950, 
+        68287, 
+        27314, 
+        25300, 
+        28029, 
+        25311, 
+        64204, 
+        142, 
+        19448, 
+        26766
+    ], 
+    "genres": [
+        5, 
+        31
+    ], 
+    "id": 22164, 
+    "keywords": [
+        970, 
+        1623, 
+        2152, 
+        3831, 
+        4283, 
+        4510, 
+        4698
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 37, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Kokuga", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 83.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1373500800000, 
+            "human": "2013-Jul-11", 
+            "m": 7, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1372291200000, 
+            "human": "2013-Jun-27", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1374883200000, 
+            "human": "2013-Jul-27", 
+            "m": 7, 
+            "platform": 37, 
+            "region": 8, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pwjg87wxdxiszfyeksnm", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pwjg87wxdxiszfyeksnm.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "lztijnigvaukegkdb6bp", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lztijnigvaukegkdb6bp.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "rvyblsa9efujtmcrgtlm", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rvyblsa9efujtmcrgtlm.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "ottpvkkmjjfmxyblvoic", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ottpvkkmjjfmxyblvoic.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "wwmw4cyuvvwvdxs0taqp", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wwmw4cyuvvwvdxs0taqp.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "zdbahcmh0y454a0ez69d", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zdbahcmh0y454a0ez69d.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "u1mzg6henpqxnkmzdio6", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u1mzg6henpqxnkmzdio6.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "vvbuwch0idds7xlsncut", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vvbuwch0idds7xlsncut.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "cy9zafqho9qchveoeqid", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cy9zafqho9qchveoeqid.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "t7ihdf19vliqqwddkvag", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t7ihdf19vliqqwddkvag.jpg", 
+            "width": 400
+        }
+    ], 
+    "slug": "kokuga", 
+    "summary": "A top down co-op shooter from the studio behind Ikaruga. Kokuga uses a similar polarity mechanic with two colors of enemy shots that must be avoided by switching to the proper color. Players control a mech that must be moved throughout a grid based level and finish the boss of the level to move on.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435487, 
+        536871882, 
+        536872535, 
+        536873064, 
+        536874743, 
+        536875195, 
+        536875422, 
+        536875610
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 78.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1518067925190, 
+    "url": "https://www.igdb.com/games/kokuga", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://kokuga.net/index_e.html"
+        }
+    ]
+}

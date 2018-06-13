@@ -1,0 +1,136 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bfgaw608zqli8mrkwbs0", 
+        "height": 760, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bfgaw608zqli8mrkwbs0.jpg", 
+        "width": 584
+    }, 
+    "created_at": 1470073339211, 
+    "external": {
+        "steam": "575850"
+    }, 
+    "first_release_date": 1445817600000, 
+    "game_engines": [
+        103
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        16468, 
+        13196, 
+        75813, 
+        25311, 
+        26163, 
+        5613, 
+        26268, 
+        47823, 
+        33603, 
+        36962
+    ], 
+    "genres": [
+        12, 
+        15, 
+        16, 
+        32
+    ], 
+    "id": 21983, 
+    "keywords": [
+        415, 
+        478, 
+        1922
+    ], 
+    "name": "Hartacon Tactics", 
+    "platforms": [
+        12
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1445817600000, 
+            "human": "2015-Oct-26", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mgmtgxwc0bawowxb2pir", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mgmtgxwc0bawowxb2pir.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "fgrhbitbszugn1xdjxx9", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fgrhbitbszugn1xdjxx9.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "un7i3dphsajlgnx9sok0", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/un7i3dphsajlgnx9sok0.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qdry2526sxh3vybuqsqh", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qdry2526sxh3vybuqsqh.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "sgxnpul0ky86eu6h567w", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sgxnpul0ky86eu6h567w.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "hartacon-tactics", 
+    "status": 4, 
+    "summary": "Hartacon Tactics is a turn-based tactical RPG, featuring higly deterministc mechanics, beautiful hand-painted 2D art and deep gameplay.\nHire characters of unique classes, and wisely use their strengths, skills and weapons to defeat tough enemies as you travel through the continent of Kaus in the single-player campaign, or challenge other players in co-op multiplayer battles.", 
+    "tags": [
+        17, 
+        268435468, 
+        268435471, 
+        268435472, 
+        268435488, 
+        536871327, 
+        536871390, 
+        536872834, 
+        1073741827
+    ], 
+    "themes": [
+        17
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523362331978, 
+    "url": "https://www.igdb.com/games/hartacon-tactics", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "6ZafntAG-X4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/575850"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.hartacon-tactics.eu/"
+        }
+    ]
+}

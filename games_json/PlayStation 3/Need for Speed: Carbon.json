@@ -1,0 +1,631 @@
+{
+    "aggregated_rating": 70.5, 
+    "aggregated_rating_count": 4, 
+    "alternative_names": [
+        {
+            "name": "NFS: Carbon"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Carbon"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "CarbonNFS: CarbonNFSCNeed for Speed: Carbon - Collector's Edition"
+        }, 
+        {
+            "comment": "Acronym", 
+            "name": "NFS Carbon"
+        }
+    ], 
+    "category": 0, 
+    "collection": 12, 
+    "cover": {
+        "cloudinary_id": "w8giwvjn6wziijausx8j", 
+        "height": 1876, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/w8giwvjn6wziijausx8j.jpg", 
+        "width": 1520
+    }, 
+    "created_at": 1298027604000, 
+    "developers": [
+        332
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 1162252800000, 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        98, 
+        97, 
+        96, 
+        100, 
+        10965, 
+        1050, 
+        620, 
+        7071, 
+        101, 
+        5761
+    ], 
+    "genres": [
+        10, 
+        13
+    ], 
+    "id": 99, 
+    "keywords": [
+        155, 
+        401, 
+        735, 
+        1098, 
+        1148, 
+        1293, 
+        1409, 
+        1421, 
+        1459, 
+        1503, 
+        1550, 
+        1678, 
+        1783, 
+        2109, 
+        2152, 
+        2438, 
+        3095, 
+        3912, 
+        4134, 
+        4157, 
+        4183, 
+        4210, 
+        4216, 
+        4242, 
+        4245, 
+        4353, 
+        4359, 
+        4400, 
+        4452, 
+        4501, 
+        4520, 
+        4523, 
+        4544, 
+        4589, 
+        4611, 
+        4647, 
+        4648, 
+        4831, 
+        4832, 
+        4869, 
+        4880, 
+        4890, 
+        4910, 
+        5043, 
+        5196, 
+        5402, 
+        5507, 
+        5572, 
+        5602, 
+        5754, 
+        5783, 
+        5786, 
+        5878, 
+        6036, 
+        6135, 
+        6196, 
+        6232, 
+        6605, 
+        7070, 
+        7086, 
+        7089, 
+        7407, 
+        7633, 
+        8196, 
+        8255, 
+        8272, 
+        8281, 
+        8862, 
+        9112, 
+        9222, 
+        9359, 
+        9529, 
+        9853, 
+        9927, 
+        10003, 
+        10436, 
+        11136, 
+        11204, 
+        11538, 
+        11557, 
+        11754, 
+        11755, 
+        12123, 
+        12825, 
+        13518
+    ], 
+    "name": "Need for Speed: Carbon", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters"
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        11, 
+        9, 
+        12, 
+        21, 
+        20, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 3.0, 
+    "publishers": [
+        1
+    ], 
+    "rating": 72.9072371976646, 
+    "rating_count": 150, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1162512000000, 
+            "human": "2006-Nov-03", 
+            "m": 11, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1162252800000, 
+            "human": "2006-Oct-31", 
+            "m": 10, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1166659200000, 
+            "human": "2006-Dec-21", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1174608000000, 
+            "human": "2007-Mar-23", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1163721600000, 
+            "human": "2006-Nov-17", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1162252800000, 
+            "human": "2006-Oct-31", 
+            "m": 10, 
+            "platform": 11, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1162252800000, 
+            "human": "2006-Oct-31", 
+            "m": 10, 
+            "platform": 21, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1166659200000, 
+            "human": "2006-Dec-21", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1166659200000, 
+            "human": "2006-Dec-21", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1166659200000, 
+            "human": "2006-Dec-21", 
+            "m": 12, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1166659200000, 
+            "human": "2006-Dec-21", 
+            "m": 12, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1166054400000, 
+            "human": "2006-Dec-14", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 3, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1174521600000, 
+            "human": "2007-Mar-22", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1163635200000, 
+            "human": "2006-Nov-16", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1163635200000, 
+            "human": "2006-Nov-16", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1163030400000, 
+            "human": "2006-Nov-09", 
+            "m": 11, 
+            "platform": 11, 
+            "region": 3, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1163030400000, 
+            "human": "2006-Nov-09", 
+            "m": 11, 
+            "platform": 21, 
+            "region": 3, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1163635200000, 
+            "human": "2006-Nov-16", 
+            "m": 11, 
+            "platform": 8, 
+            "region": 3, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1165536000000, 
+            "human": "2006-Dec-08", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1162512000000, 
+            "human": "2006-Nov-03", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1162512000000, 
+            "human": "2006-Nov-03", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1163116800000, 
+            "human": "2006-Nov-10", 
+            "m": 11, 
+            "platform": 11, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1162512000000, 
+            "human": "2006-Nov-03", 
+            "m": 11, 
+            "platform": 21, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1162512000000, 
+            "human": "2006-Nov-03", 
+            "m": 11, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1187308800000, 
+            "human": "2007-Aug-17", 
+            "m": 8, 
+            "platform": 14, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1163894400000, 
+            "human": "2006-Nov-19", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1162252800000, 
+            "human": "2006-Oct-31", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1162252800000, 
+            "human": "2006-Oct-31", 
+            "m": 10, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1162252800000, 
+            "human": "2006-Oct-31", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "j326fcahyf1q5tihkdgj", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j326fcahyf1q5tihkdgj.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "teizf3nxxmgj8tqwai6u", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/teizf3nxxmgj8tqwai6u.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "oxedyzznvjz1q3sfizxp", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oxedyzznvjz1q3sfizxp.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "om3uxybegivpx9ryt7cd", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/om3uxybegivpx9ryt7cd.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "kimvs2hrszxx9yloil1q", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kimvs2hrszxx9yloil1q.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "t0qp8yqc8comc0z7y7uj", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t0qp8yqc8comc0z7y7uj.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "yo8tcapcmltwwv4dqa20", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yo8tcapcmltwwv4dqa20.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "noa5yxls18y1x7ak8ipn", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/noa5yxls18y1x7ak8ipn.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "v8b6f5gurc2tkswu8q7a", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v8b6f5gurc2tkswu8q7a.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "uotvfhnpjc8st8m5h8re", 
+            "height": 819, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uotvfhnpjc8st8m5h8re.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "zjeemogxekjphqfaavri", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zjeemogxekjphqfaavri.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "uxoypt9y7we6xy5phjte", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uxoypt9y7we6xy5phjte.jpg", 
+            "width": 1024
+        }
+    ], 
+    "slug": "need-for-speed-carbon", 
+    "summary": "Need for Speed: Carbon, also known as NFS Carbon or NFSC, is an Electronic Arts video game in the Need for Speed series. Released in 2006, it is the tenth installment, preceded by Need for Speed: Most Wanted, succeeded by Need for Speed: ProStreet in release order and succeeded by Need for Speed: Undercover in chronological order. This was the first game in the series to gain the PEGI rating of 12+.[citation needed] The game is a sequel to 2005's Need for Speed: Most Wanted. The locations of both Most Wanted and Carbon (Rockport and Palmont, respectively) are featured in the 2010 MMO game, Need for Speed: World. \n \nThe PlayStation Portable, Nintendo DS and Game Boy Advance versions of the game are called Need for Speed Carbon: Own the City, set in a fictional city named Coast City with a significantly different storyline and also featuring different AI teammate abilities.[2] In 2009, a version of Own the City was also released on the Zeebo as a pre-installed game.[3] \n \nNeed for Speed: Carbon is the final game released for all sixth-generation consoles (excluding PlayStation 2)", 
+    "tags": [
+        268435466, 
+        268435469, 
+        536871067, 
+        536871313, 
+        536871647, 
+        536872010, 
+        536872060, 
+        536872205, 
+        536872321, 
+        536872333, 
+        536872371, 
+        536872415, 
+        536872462, 
+        536872590, 
+        536872695, 
+        536873021, 
+        536873064, 
+        536873350, 
+        536874007, 
+        536874824, 
+        536875046, 
+        536875069, 
+        536875095, 
+        536875122, 
+        536875128, 
+        536875154, 
+        536875157, 
+        536875265, 
+        536875271, 
+        536875312, 
+        536875364, 
+        536875413, 
+        536875432, 
+        536875435, 
+        536875456, 
+        536875501, 
+        536875523, 
+        536875559, 
+        536875560, 
+        536875743, 
+        536875744, 
+        536875781, 
+        536875792, 
+        536875802, 
+        536875822, 
+        536875955, 
+        536876108, 
+        536876314, 
+        536876419, 
+        536876484, 
+        536876514, 
+        536876666, 
+        536876695, 
+        536876698, 
+        536876790, 
+        536876948, 
+        536877047, 
+        536877108, 
+        536877144, 
+        536877517, 
+        536877982, 
+        536877998, 
+        536878001, 
+        536878319, 
+        536878545, 
+        536879108, 
+        536879167, 
+        536879184, 
+        536879193, 
+        536879774, 
+        536880024, 
+        536880134, 
+        536880271, 
+        536880441, 
+        536880765, 
+        536880839, 
+        536880915, 
+        536881348, 
+        536882048, 
+        536882116, 
+        536882450, 
+        536882469, 
+        536882666, 
+        536882667, 
+        536883035, 
+        536883737, 
+        536884430, 
+        1073741825, 
+        1073741826
+    ], 
+    "total_rating": 71.70361859883229, 
+    "total_rating_count": 154, 
+    "updated_at": 1528606224389, 
+    "url": "https://www.igdb.com/games/need-for-speed-carbon", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "aLTMTguEKps"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "4OC2ydWHp0c"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Need_for_Speed:_Carbon"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://nfs.wikia.com/wiki/Need_for_Speed%3A_Carbon"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www2.ea.com/need-for-speed-carbon"
+        }
+    ]
+}

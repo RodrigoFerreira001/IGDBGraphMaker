@@ -1,0 +1,114 @@
+{
+    "aggregated_rating": 69.5, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "fvdt7el1c1mrm4ojmglj", 
+        "height": 360, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvdt7el1c1mrm4ojmglj.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1401384326064, 
+    "developers": [
+        196
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1142208000000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        36608, 
+        2940, 
+        40524, 
+        34919, 
+        71581, 
+        29660, 
+        1070, 
+        23175, 
+        76438, 
+        16468
+    ], 
+    "id": 7126, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "The Outfit", 
+    "platforms": [
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        197
+    ], 
+    "rating": 40.7499842859138, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1142208000000, 
+            "human": "2006-Mar-13", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1142553600000, 
+            "human": "2006-Mar-17", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1162425600000, 
+            "human": "2006-Nov-02", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mznl2uhhkrzqxmjuqkb9", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mznl2uhhkrzqxmjuqkb9.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "the-outfit", 
+    "tags": [
+        1, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 55.1249921429569, 
+    "total_rating_count": 7, 
+    "updated_at": 1517270589559, 
+    "url": "https://www.igdb.com/games/the-outfit"
+}

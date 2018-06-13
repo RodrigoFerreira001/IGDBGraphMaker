@@ -1,0 +1,66 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "created_at": 1469292402031, 
+    "first_release_date": 1291766400000, 
+    "games": [
+        44242, 
+        24491, 
+        28465, 
+        75579, 
+        75275, 
+        34919, 
+        75102, 
+        33603, 
+        36962, 
+        55888
+    ], 
+    "genres": [
+        13
+    ], 
+    "id": 21165, 
+    "name": "Blimp: The Flying Adventures", 
+    "platforms": [
+        45, 
+        38
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1291766400000, 
+            "human": "2010-Dec-08", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1294358400000, 
+            "human": "2011-Jan-07", 
+            "m": 1, 
+            "platform": 38, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gjtlysfbdazpduj4ldbx", 
+            "height": 272, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gjtlysfbdazpduj4ldbx.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "blimp-the-flying-adventures", 
+    "summary": "Originally released for iPhone, Blimp: The Flying Adventures puts the player in the shoes of a war veteran Zed Pelin, who has to once more get his hands dirty when a malevolent empire attacks a small, independent planet. \n \nThe player must help the resistance movement by transporting passengers and goods, placing bombs, protecting valuable targets and, of course, decimating the enemy forces using the blimp\u2019s airstrike attack.", 
+    "tags": [
+        268435469
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1501862611200, 
+    "url": "https://www.igdb.com/games/blimp-the-flying-adventures"
+}

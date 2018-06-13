@@ -1,0 +1,448 @@
+{
+    "aggregated_rating": 58.75, 
+    "aggregated_rating_count": 0, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Sim City"
+        }, 
+        {
+            "name": "SimCity Classic"
+        }
+    ], 
+    "category": 0, 
+    "collection": 90, 
+    "cover": {
+        "cloudinary_id": "zstbtknsspigdjtul0uu", 
+        "height": 650, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zstbtknsspigdjtul0uu.jpg", 
+        "width": 538
+    }, 
+    "created_at": 1345984886988, 
+    "developers": [
+        284
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 623376000000, 
+    "franchise": 1017, 
+    "franchises": [
+        1017
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        29173, 
+        23212, 
+        9066, 
+        55590, 
+        19847, 
+        23345, 
+        2002, 
+        9789, 
+        19934, 
+        7046
+    ], 
+    "genres": [
+        13, 
+        15
+    ], 
+    "id": 1272, 
+    "keywords": [
+        60, 
+        121, 
+        379, 
+        529, 
+        649, 
+        994, 
+        1060, 
+        1148, 
+        1375, 
+        1403, 
+        2002, 
+        2042, 
+        2312, 
+        2438, 
+        3533, 
+        3782, 
+        4146, 
+        4269, 
+        4444, 
+        4522, 
+        4523, 
+        5154, 
+        5300, 
+        5806, 
+        6456, 
+        7086, 
+        7131, 
+        8305, 
+        8784, 
+        9265, 
+        10477, 
+        12170, 
+        13955, 
+        15580
+    ], 
+    "name": "SimCity", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        116, 
+        63, 
+        6, 
+        134, 
+        69, 
+        14, 
+        13, 
+        118, 
+        16, 
+        149, 
+        121, 
+        15, 
+        26, 
+        19, 
+        25, 
+        47, 
+        5
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 4.333333333333334, 
+    "publishers": [
+        70, 
+        191, 
+        13217, 
+        13708, 
+        885, 
+        284, 
+        213
+    ], 
+    "rating": 89.267461131571, 
+    "rating_count": 26, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1167091200000, 
+            "human": "2006-Dec-26", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1167350400000, 
+            "human": "2006-Dec-29", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1163894400000, 
+            "human": "2006-Nov-19", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 652665600000, 
+            "human": "1990-Sep-07", 
+            "m": 9, 
+            "platform": 149, 
+            "region": 5, 
+            "y": 1990
+        }, 
+        {
+            "category": 0, 
+            "date": 652665600000, 
+            "human": "1990-Sep-07", 
+            "m": 9, 
+            "platform": 121, 
+            "region": 5, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 118, 
+            "region": 5, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 134, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 757296000000, 
+            "human": "1993", 
+            "m": 12, 
+            "platform": 116, 
+            "region": 1, 
+            "y": 1993
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 69, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 0, 
+            "date": 623376000000, 
+            "human": "1989-Oct-03", 
+            "m": 10, 
+            "platform": 16, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 0, 
+            "date": 1167350400000, 
+            "human": "2006-Dec-29", 
+            "m": 12, 
+            "platform": 47, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 623376000000, 
+            "human": "1989-Oct-03", 
+            "m": 10, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 25, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 14, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 725760000000, 
+            "human": "1992", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 1992
+        }, 
+        {
+            "category": 0, 
+            "date": 717292800000, 
+            "human": "1992-Sep-24", 
+            "m": 9, 
+            "platform": 19, 
+            "region": 1, 
+            "y": 1992
+        }, 
+        {
+            "category": 1, 
+            "date": 681004800000, 
+            "human": "1991-Aug", 
+            "m": 8, 
+            "platform": 19, 
+            "region": 2, 
+            "y": 1991
+        }, 
+        {
+            "category": 0, 
+            "date": 672624000000, 
+            "human": "1991-Apr-26", 
+            "m": 4, 
+            "platform": 19, 
+            "region": 5, 
+            "y": 1991
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vhgrcxyypeqamas15yyg", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vhgrcxyypeqamas15yyg.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "mclt02nksroqpa0qbrn9", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mclt02nksroqpa0qbrn9.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "z1cravxvcb5aobh9m8ao", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z1cravxvcb5aobh9m8ao.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "snqnfspcphljo9slecpm", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/snqnfspcphljo9slecpm.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "bazsmxwpwmomws4edvjp", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bazsmxwpwmomws4edvjp.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "jmcrb3qyfmh3nzzryidx", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jmcrb3qyfmh3nzzryidx.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "wlu7tzikdii0p0mr3wqw", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wlu7tzikdii0p0mr3wqw.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "imf2nlr73vwqmw5btdeg", 
+            "height": 350, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/imf2nlr73vwqmw5btdeg.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ftnxqh4a5ojui8wnofkf", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ftnxqh4a5ojui8wnofkf.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "cvmduedifu3u4pwdwymv", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cvmduedifu3u4pwdwymv.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "dfveh3a9i4sh9fxbvrjq", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dfveh3a9i4sh9fxbvrjq.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "ctgumlb57sqiumyetqxq", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ctgumlb57sqiumyetqxq.jpg", 
+            "width": 1919
+        }
+    ], 
+    "slug": "simcity", 
+    "summary": "SimCity, later renamed SimCity Classic, is a city-building simulation video game, first released on February 2, 1989, and designed by Will Wright for the Macintosh computer. SimCity was Maxis's second product, which has since been ported into various personal computers and game consoles, and spawned several sequels including SimCity 2000 in 1993, SimCity 3000 in 1999, SimCity 4 in 2003, SimCity DS, SimCity Societies in 2007, and SimCity in 2013. Until the release of The Sims in 2000, the SimCity series was the best-selling line of computer games made by Maxis.", 
+    "tags": [
+        28, 
+        33, 
+        268435469, 
+        268435471, 
+        536870972, 
+        536871033, 
+        536871291, 
+        536871441, 
+        536871561, 
+        536871906, 
+        536871972, 
+        536872060, 
+        536872287, 
+        536872315, 
+        536872914, 
+        536872954, 
+        536873224, 
+        536873350, 
+        536874445, 
+        536874694, 
+        536875058, 
+        536875181, 
+        536875356, 
+        536875434, 
+        536875435, 
+        536876066, 
+        536876212, 
+        536876718, 
+        536877368, 
+        536877998, 
+        536878043, 
+        536879217, 
+        536879696, 
+        536880177, 
+        536881389, 
+        536883082, 
+        536884867, 
+        536886492, 
+        1073741827
+    ], 
+    "themes": [
+        28, 
+        33
+    ], 
+    "total_rating": 74.0087305657855, 
+    "total_rating_count": 26, 
+    "updated_at": 1525910979966, 
+    "url": "https://www.igdb.com/games/simcity", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "A54blk-ojA4"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "wuob4xqrr006oq4zvnpc", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wuob4xqrr006oq4zvnpc.jpg", 
+        "width": 1080
+    }, 
+    "created_at": 1495757691666, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "432620"
+    }, 
+    "first_release_date": 1463443200000, 
+    "game_modes": [
+        2
+    ], 
+    "games": [
+        76110, 
+        19174, 
+        19934, 
+        6732, 
+        10039, 
+        55752, 
+        19376, 
+        34919, 
+        20150, 
+        19448
+    ], 
+    "genres": [
+        8, 
+        32
+    ], 
+    "id": 33785, 
+    "keywords": [
+        117, 
+        1158, 
+        2049, 
+        4134, 
+        5379
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Mimic Arena", 
+    "platforms": [
+        6, 
+        14, 
+        49, 
+        3
+    ], 
+    "popularity": 1.0, 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1463529600000, 
+            "human": "2016-May-18", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1463443200000, 
+            "human": "2016-May-17", 
+            "m": 5, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1463443200000, 
+            "human": "2016-May-17", 
+            "m": 5, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1463443200000, 
+            "human": "2016-May-17", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tpnyy7je3wdgitm1dj3e", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tpnyy7je3wdgitm1dj3e.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ugjpqithpbnghbwa0q7t", 
+            "height": 1025, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ugjpqithpbnghbwa0q7t.jpg", 
+            "width": 1639
+        }, 
+        {
+            "cloudinary_id": "oyltzph0h2nayl8kiu08", 
+            "height": 1012, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oyltzph0h2nayl8kiu08.jpg", 
+            "width": 1626
+        }, 
+        {
+            "cloudinary_id": "smpy6td763jjxlkscdkt", 
+            "height": 1016, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/smpy6td763jjxlkscdkt.jpg", 
+            "width": 1628
+        }, 
+        {
+            "cloudinary_id": "yalb5ne79wzrfjrznspy", 
+            "height": 699, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yalb5ne79wzrfjrznspy.jpg", 
+            "width": 1272
+        }
+    ], 
+    "slug": "mimic-arena", 
+    "summary": "Fight alongside your past selves in this techno bullet hell arena. You must master the arts of jump, shoot, and repeat if you wish to stand a chance. Jump off walls to avoid the onslaught of bullets heading your way. Shoot an assortment of weapons that blanket the battlefield in brightly colored destruction. Execute advanced flanking maneuvers with your former self to gain the upper hand.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435488, 
+        536871029, 
+        536872070, 
+        536872961, 
+        536875046, 
+        536876291
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1526730803137, 
+    "url": "https://www.igdb.com/games/mimic-arena", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.mimic-arena.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/432620"
+        }
+    ]
+}

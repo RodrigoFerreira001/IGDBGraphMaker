@@ -1,0 +1,144 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "yo9xbijhbvts3l3gtnkq", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yo9xbijhbvts3l3gtnkq.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1495388037634, 
+    "external": {
+        "steam": "221680"
+    }, 
+    "first_release_date": 1475539200000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        44242, 
+        24491, 
+        28465, 
+        75579, 
+        75275, 
+        34919, 
+        75102, 
+        33603, 
+        36962, 
+        55888
+    ], 
+    "genres": [
+        13
+    ], 
+    "id": 30155, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Rocksmith 2014 Edition - Remastered", 
+    "platforms": [
+        6, 
+        14, 
+        49
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        7041
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1475539200000, 
+            "human": "2016-Oct-04", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1475539200000, 
+            "human": "2016-Oct-04", 
+            "m": 10, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1475539200000, 
+            "human": "2016-Oct-04", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ycqwnfbmzoq059gys3sv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ycqwnfbmzoq059gys3sv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "s1u55fzz9zcurozqnnle", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s1u55fzz9zcurozqnnle.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gwtldhxrgwwtzxm7pcgx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gwtldhxrgwwtzxm7pcgx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yi6d0glneze7f8fzspwt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yi6d0glneze7f8fzspwt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kqnlwuqzzhfzcu0hdlef", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kqnlwuqzzhfzcu0hdlef.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "rocksmith-2014-edition-remastered", 
+    "summary": "The fastest way to learn guitar is now better than ever. Join over three million people who have learned to play guitar with the award-winning Rocksmith\u00ae method. Plug any real guitar or bass with a 1/4 inch jack directly into your PC or Mac and you\u2019ll learn to play in just 60 days. \n \nWith Rocksmith you can learn everything from single notes to chords and advanced techniques, all at your own pace. You\u2019ll learn fast because it adapts to your skill level as you play, whether you\u2019re a beginner or an experienced player.  \n \nRocksmith\u00ae 2014 Edition \u2013 Remastered includes a free downloadable update with a customizable learning curve, expanded practice tools, stat tracking, improved menus, and more. If you already own the original game, you can download the remastered updates for free at launch on October 4; there\u2019s no need to repurchase. \n \nThis remastered version also includes six free bonus songs. \n \n\u201cThree Little Birds\u201d by Bob Marley & The Wailers\u00a0 \n\u201cSuspicious Minds\u201d by Elvis Presley\u00a0 \n\u201cSome Nights\u201d by FUN.\u00a0 \n\u201cI Want You Back\u201d by Jackson 5\u00a0 \n\u201cHey Ya!\u201d by Outkast\u00a0 \n\u201cDrops of Jupiter\u201d by Train", 
+    "tags": [
+        268435469
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1528357375400, 
+    "url": "https://www.igdb.com/games/rocksmith-2014-edition-remastered", 
+    "version_parent": 3088, 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://rocksmith.ubi.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/221680"
+        }
+    ]
+}

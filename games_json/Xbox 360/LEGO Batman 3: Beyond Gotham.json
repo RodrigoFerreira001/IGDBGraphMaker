@@ -1,0 +1,468 @@
+{
+    "aggregated_rating": 75.5833333333333, 
+    "aggregated_rating_count": 13, 
+    "alternative_names": [
+        {
+            "comment": "French title", 
+            "name": "LEGO Batman 3: Au-del\u00e0 de Gotham"
+        }
+    ], 
+    "category": 0, 
+    "collection": 533, 
+    "cover": {
+        "cloudinary_id": "fvtwfajydehqtpcop3ku", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvtwfajydehqtpcop3ku.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1408834822537, 
+    "developers": [
+        292
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is an action-adventure game in which players control Lego versions of DC characters (e.g., Batman, Superman, Wonder Woman) as they attempt to stop an evil villain from destroying the world. Players traverse environments and use punches, kicks, and assorted weapons (e.g., firearms, batarangs) to defeat enemy henchmen and boss characters. Players' special abilities (e.g., heat vision, super strength, blasts of energy) also cause damage in battle; combat is highlighted by impact sounds and cries of pain. Enemies burst into Lego pieces when defeated."
+    }, 
+    "external": {
+        "steam": "313690"
+    }, 
+    "first_release_date": 1415664000000, 
+    "franchise": 5, 
+    "franchises": [
+        5, 
+        51
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        28815, 
+        36868, 
+        28113, 
+        6732, 
+        7329, 
+        55752, 
+        7344, 
+        76098, 
+        7349, 
+        11423
+    ], 
+    "genres": [
+        8, 
+        31
+    ], 
+    "id": 7685, 
+    "keywords": [
+        14, 
+        350, 
+        410, 
+        1033, 
+        1197, 
+        1293, 
+        2049, 
+        2071, 
+        2387, 
+        3540, 
+        4134, 
+        4170, 
+        4181, 
+        4194, 
+        4245, 
+        4267, 
+        4324, 
+        4651, 
+        4813, 
+        4937, 
+        4938, 
+        5138, 
+        5139, 
+        5140, 
+        5141, 
+        5315, 
+        5317, 
+        5770, 
+        5851, 
+        6197, 
+        6872, 
+        6880, 
+        6881, 
+        6926
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "LEGO Batman 3: Beyond Gotham", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Non realistic looking violence towards fantasy characters - Violence that is set in a cartoon, slapstick or child like setting that could be upsetting to very young children - Pictures or sounds likely to be scary to young children"
+    }, 
+    "platforms": [
+        6, 
+        39, 
+        14, 
+        41, 
+        46, 
+        9, 
+        48, 
+        12, 
+        49, 
+        37
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        50, 
+        1289
+    ], 
+    "pulse_count": 2, 
+    "rating": 71.8184874812252, 
+    "rating_count": 12, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1435190400000, 
+            "human": "2015-Jun-25", 
+            "m": 6, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1415923200000, 
+            "human": "2014-Nov-14", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415664000000, 
+            "human": "2014-Nov-11", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415923200000, 
+            "human": "2014-Nov-14", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415923200000, 
+            "human": "2014-Nov-14", 
+            "m": 11, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415923200000, 
+            "human": "2014-Nov-14", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415664000000, 
+            "human": "2014-Nov-11", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415923200000, 
+            "human": "2014-Nov-14", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415664000000, 
+            "human": "2014-Nov-11", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415664000000, 
+            "human": "2014-Nov-11", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415664000000, 
+            "human": "2014-Nov-11", 
+            "m": 11, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415664000000, 
+            "human": "2014-Nov-11", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415664000000, 
+            "human": "2014-Nov-11", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415664000000, 
+            "human": "2014-Nov-11", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415664000000, 
+            "human": "2014-Nov-11", 
+            "m": 11, 
+            "platform": 39, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 6, 
+            "date": 1419984000000, 
+            "human": "2014-Q4", 
+            "m": 12, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415664000000, 
+            "human": "2014-Nov-11", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mcfmeuvgiacoenhdp75w", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mcfmeuvgiacoenhdp75w.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "r9xpnfeysagr33dvf4ui", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r9xpnfeysagr33dvf4ui.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "gmf6mk3mvs2gwztilfza", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gmf6mk3mvs2gwztilfza.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "wtqvfmh4hlle0jiuczab", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wtqvfmh4hlle0jiuczab.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qh2kztiqp3ssquhgpplb", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qh2kztiqp3ssquhgpplb.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "upj5t4npac50zsil5bbm", 
+            "height": 368, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/upj5t4npac50zsil5bbm.jpg", 
+            "width": 723
+        }, 
+        {
+            "cloudinary_id": "hpskve1oocm19w3xaw2j", 
+            "height": 368, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hpskve1oocm19w3xaw2j.jpg", 
+            "width": 723
+        }, 
+        {
+            "cloudinary_id": "jremqvuplyxd9x7lxvgw", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jremqvuplyxd9x7lxvgw.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "bcqyyvnoog1kaor1xpe3", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bcqyyvnoog1kaor1xpe3.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "k6xny1gwy29nqaaq5jn4", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k6xny1gwy29nqaaq5jn4.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "bjbzlo6iesyswvaqcjfi", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bjbzlo6iesyswvaqcjfi.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ehksyzogvuvbjy9jvd43", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ehksyzogvuvbjy9jvd43.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "lego-batman-3-beyond-gotham", 
+    "summary": "In LEGO Batman 3: Beyond Gotham, the Caped Crusader joins forces with the super heroes of the DC Comics Universe and blasts off to outer space to stop the evil Brainiac from destroying Earth. Using the power of the Lantern Rings, Brainiac shrinks worlds to add to his twisted collection of miniature cities from across the universe. Now the greatest super heroes and the most cunning villains must unite and journey to different Lantern Worlds to collect the Lantern Rings and stop Brainiac before it\u2019s too late.", 
+    "tags": [
+        1, 
+        27, 
+        268435464, 
+        268435487, 
+        536870926, 
+        536871262, 
+        536871322, 
+        536871945, 
+        536872109, 
+        536872205, 
+        536872961, 
+        536872983, 
+        536873299, 
+        536874452, 
+        536875046, 
+        536875082, 
+        536875093, 
+        536875106, 
+        536875157, 
+        536875179, 
+        536875236, 
+        536875563, 
+        536875725, 
+        536875849, 
+        536875850, 
+        536876050, 
+        536876051, 
+        536876052, 
+        536876053, 
+        536876227, 
+        536876229, 
+        536876682, 
+        536876763, 
+        536877109, 
+        536877784, 
+        536877792, 
+        536877793, 
+        536877838, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 73.70091040727925, 
+    "total_rating_count": 25, 
+    "updated_at": 1528354852402, 
+    "url": "https://www.igdb.com/games/lego-batman-3-beyond-gotham", 
+    "videos": [
+        {
+            "name": "Brainiac Trailer", 
+            "video_id": "y-Rm8DeSl-o"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "emdXSyjtbOo"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/lego-batman-beyond-gotham/id981305941?mt=8&uo=4"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Lego_Batman_3:_Beyond_Gotham"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/313690"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://videogames.lego.com/en-us/lego-batman-3/about/features"
+        }
+    ]
+}

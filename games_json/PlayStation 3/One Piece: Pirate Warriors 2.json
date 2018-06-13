@@ -1,0 +1,186 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "One Piece: Kaizoku Musou 2"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30ef\u30f3\u30d4\u30fc\u30b9 \u6d77\u8cca\u7121\u53cc2"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "ytpgbzhcn44etnefbcuc", 
+            "height": 1270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ytpgbzhcn44etnefbcuc.jpg", 
+            "width": 900
+        }
+    ], 
+    "category": 0, 
+    "collection": 1586, 
+    "cover": {
+        "cloudinary_id": "lp6y8ulp1nn3teykpm4u", 
+        "height": 2800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lp6y8ulp1nn3teykpm4u.jpg", 
+        "width": 2404
+    }, 
+    "created_at": 1469048416146, 
+    "developers": [
+        1394
+    ], 
+    "first_release_date": 1364601600000, 
+    "franchise": 225, 
+    "franchises": [
+        225
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        59516, 
+        25311, 
+        55289, 
+        19448, 
+        26766, 
+        36926, 
+        47823, 
+        25300, 
+        17001, 
+        28380
+    ], 
+    "genres": [
+        4, 
+        12, 
+        31
+    ], 
+    "id": 20857, 
+    "keywords": [
+        4, 
+        78, 
+        960, 
+        1231, 
+        2071, 
+        4134, 
+        4367, 
+        4670, 
+        9823, 
+        9824
+    ], 
+    "name": "One Piece: Pirate Warriors 2", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        3958
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1364601600000, 
+            "human": "2013-Mar-30", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1377820800000, 
+            "human": "2013-Aug-30", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1378166400000, 
+            "human": "2013-Sep-03", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "idsatev0oldlpaqr4zw9", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/idsatev0oldlpaqr4zw9.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "skfg1fcdehuqdnxoe5zt", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/skfg1fcdehuqdnxoe5zt.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "czwgl7ltwgealsuyrnyt", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/czwgl7ltwgealsuyrnyt.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "cccbl4isqkoqalccld6t", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cccbl4isqkoqalccld6t.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "kntpwesfxkqyfeueebfr", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kntpwesfxkqyfeueebfr.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "one-piece-pirate-warriors-2", 
+    "summary": "One Piece: Pirate Warriors 2 is the breathtaking sequel of One Piece: Pirate Warriors, a big action/adventure game in which you will take down hordes of Pirates in the beloved world of One Piece. Immerse yourself by playing the \u201cNew World\u201d, with your favorite\u2019s characters and their latest techniques and costumes!", 
+    "tags": [
+        1, 
+        268435460, 
+        268435468, 
+        268435487, 
+        536870916, 
+        536870990, 
+        536871872, 
+        536872143, 
+        536872983, 
+        536875046, 
+        536875279, 
+        536875582, 
+        536880735, 
+        536880736
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1527694660212, 
+    "url": "https://www.igdb.com/games/one-piece-pirate-warriors-2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "TPA19ZZjMok"
+        }, 
+        {
+            "name": "Japan Expo 2013 Trailer", 
+            "video_id": "twHT7BFAvP4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.onepiece-piratewarriors2.com/en"
+        }
+    ]
+}

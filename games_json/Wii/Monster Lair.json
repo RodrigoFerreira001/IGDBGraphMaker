@@ -1,0 +1,106 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bd2w7b8r9j3lwkzfubyr", 
+        "height": 1420, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bd2w7b8r9j3lwkzfubyr.jpg", 
+        "width": 1426
+    }, 
+    "created_at": 1499067050071, 
+    "first_release_date": 1197849600000, 
+    "games": [
+        36608, 
+        2940, 
+        40524, 
+        34919, 
+        71581, 
+        29660, 
+        1070, 
+        23175, 
+        76438, 
+        16468
+    ], 
+    "id": 42019, 
+    "name": "Monster Lair", 
+    "platforms": [
+        5
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1208217600000, 
+            "human": "2008-Apr-15", 
+            "m": 4, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1198195200000, 
+            "human": "2007-Dec-21", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1197849600000, 
+            "human": "2007-Dec-17", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zxvrevtkeuyslmbzsdt3", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zxvrevtkeuyslmbzsdt3.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ram8kndyava2e2j1ujrs", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ram8kndyava2e2j1ujrs.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "r2mnbwrcvup3mo4xkir1", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r2mnbwrcvup3mo4xkir1.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ellbhyt1pb36cvwot2rs", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ellbhyt1pb36cvwot2rs.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "sruc4d5yf6juvuhftxtp", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sruc4d5yf6juvuhftxtp.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "q4tsspvg0s8o3z6q9zme", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q4tsspvg0s8o3z6q9zme.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "monster-lair", 
+    "summary": "A PC-88 game where players escape from monsters.", 
+    "tags": [
+        1
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1518073552205, 
+    "url": "https://www.igdb.com/games/monster-lair"
+}

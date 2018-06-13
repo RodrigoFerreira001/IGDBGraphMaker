@@ -1,0 +1,125 @@
+{
+    "aggregated_rating": 93.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "o2pmamjsebldenjqaxll", 
+        "height": 786, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/o2pmamjsebldenjqaxll.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1472930711090, 
+    "first_release_date": 1444694400000, 
+    "games": [
+        25646, 
+        25311, 
+        27266, 
+        51978, 
+        55289, 
+        37022, 
+        29525, 
+        25300, 
+        25222, 
+        34919
+    ], 
+    "genres": [
+        9, 
+        31, 
+        32
+    ], 
+    "id": 23373, 
+    "name": "The Talos Principle: Deluxe Edition", 
+    "platforms": [
+        48
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        634
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1444694400000, 
+            "human": "2015-Oct-13", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1444694400000, 
+            "human": "2015-Oct-13", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1447372800000, 
+            "human": "2015-Nov-13", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qpdvytosynu7apnrmm7f", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qpdvytosynu7apnrmm7f.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "faezziue94hh8c819qiv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/faezziue94hh8c819qiv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pskbylkx74afndxhgjb9", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pskbylkx74afndxhgjb9.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "epcfbaiov4epakxklwzc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/epcfbaiov4epakxklwzc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yidskw6duh0sfbxm044f", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yidskw6duh0sfbxm044f.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "the-talos-principle-deluxe-edition", 
+    "summary": "The Talos Principle is a philosophical first-person puzzle game from Croteam, the creators of the Serious Sam series, and written by Tom Jubert (FTL, The Swapper) and Jonas Kyratzes (Infinite Ocean). Players are tasked with solving a series of increasingly difficult and complex puzzles woven into a metaphysical parable about intelligence and meaning in an inevitably doomed world. \n \nThis definitive version contains the original puzzler in all of its glory and the ambitious expansion The Talos Principle: Road to Gehenna.", 
+    "tags": [
+        1, 
+        18, 
+        268435465, 
+        268435487, 
+        268435488
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 93.3333333333333, 
+    "total_rating_count": 3, 
+    "updated_at": 1526368749452, 
+    "url": "https://www.igdb.com/games/the-talos-principle-deluxe-edition", 
+    "version_parent": 7386, 
+    "version_title": "Deluxe Edition", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.croteam.com/talosprinciple/"
+        }
+    ]
+}

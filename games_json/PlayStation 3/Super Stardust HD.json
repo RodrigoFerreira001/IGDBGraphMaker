@@ -1,0 +1,251 @@
+{
+    "aggregated_rating": 83.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "SSHD"
+        }, 
+        {
+            "name": "Star Strike HD"
+        }
+    ], 
+    "category": 0, 
+    "collection": 432, 
+    "cover": {
+        "cloudinary_id": "ze16amqombdayvuvveop", 
+        "height": 240, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ze16amqombdayvuvveop.jpg", 
+        "width": 240
+    }, 
+    "created_at": 1371902144589, 
+    "developers": [
+        1006
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 1182988800000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        26766, 
+        11253, 
+        68287, 
+        36950, 
+        11156, 
+        6007, 
+        27314, 
+        7600, 
+        7350, 
+        1595
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 2133, 
+    "keywords": [
+        165, 
+        166, 
+        558, 
+        939, 
+        947, 
+        970, 
+        1503, 
+        1623, 
+        2152, 
+        4210, 
+        4239, 
+        4245, 
+        4263, 
+        4282, 
+        4283, 
+        4301, 
+        4391, 
+        4393, 
+        4698, 
+        4726, 
+        4869, 
+        4910, 
+        5116, 
+        5208, 
+        5303, 
+        5311, 
+        5850, 
+        6137, 
+        6229, 
+        6647, 
+        8928, 
+        11082, 
+        11583, 
+        11591, 
+        11975, 
+        13083, 
+        13100
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Super Stardust HD", 
+    "platforms": [
+        9
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.666666666666667, 
+    "rating": 79.5273849847859, 
+    "rating_count": 10, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1183075200000, 
+            "human": "2007-Jun-29", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1183075200000, 
+            "human": "2007-Jun-29", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182988800000, 
+            "human": "2007-Jun-28", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182988800000, 
+            "human": "2007-Jun-28", 
+            "m": 6, 
+            "platform": 9, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "smqx4bxdvymmm3gwgnn4", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/smqx4bxdvymmm3gwgnn4.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "i1nrxue21gf62cjt95rn", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i1nrxue21gf62cjt95rn.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "iuip2cihf5wv3wjdckyx", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iuip2cihf5wv3wjdckyx.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "ofqauhg3twof1nt3guhf", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ofqauhg3twof1nt3guhf.jpg", 
+            "width": 854
+        }, 
+        {
+            "cloudinary_id": "vn8mrgbwpbtax1t0amtd", 
+            "height": 375, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vn8mrgbwpbtax1t0amtd.jpg", 
+            "width": 600
+        }
+    ], 
+    "slug": "super-stardust-hd", 
+    "storyline": "In Super Stardust HD, the player controls a space fighter craft that can move in any direction on a spherical shield surrounding a planet, while simultaneously firing in any direction independent of its movement. The primary threats against the player are three types of asteroids and various enemy spacecraft, which appear on the playfield at certain time intervals. The ship is equipped with three upgradeable weapons, a limited arsenal of bombs, and a boost capability that grants temporary invincibility and recharges after use. Each weapon is more effective against certain types of asteroid and enemies than others. Items include weapon upgrades and a shield that absorbs one fatal hit against the player's ship.", 
+    "summary": "Super Stardust HD is a downloadable game for the PlayStation 3 video game console, developed by the Finnish company Housemarque. In Japan it is known as Star Strike HD. \nSuper Stardust HD was the first title with trophy support on the PlayStation 3.", 
+    "tags": [
+        18, 
+        268435461, 
+        536871077, 
+        536871078, 
+        536871470, 
+        536871851, 
+        536871859, 
+        536871882, 
+        536872415, 
+        536872535, 
+        536873064, 
+        536875122, 
+        536875151, 
+        536875157, 
+        536875175, 
+        536875194, 
+        536875195, 
+        536875213, 
+        536875303, 
+        536875305, 
+        536875610, 
+        536875638, 
+        536875781, 
+        536875822, 
+        536876028, 
+        536876120, 
+        536876215, 
+        536876223, 
+        536876762, 
+        536877049, 
+        536877141, 
+        536877559, 
+        536879840, 
+        536881994, 
+        536882495, 
+        536882503, 
+        536882887, 
+        536883995, 
+        536884012, 
+        1073741827
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 81.4303591590596, 
+    "total_rating_count": 13, 
+    "updated_at": 1528347491200, 
+    "url": "https://www.igdb.com/games/super-stardust-hd", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "pYql98tL-t4"
+        }
+    ]
+}

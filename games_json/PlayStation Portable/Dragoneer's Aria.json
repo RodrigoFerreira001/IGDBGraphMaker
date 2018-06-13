@@ -1,0 +1,74 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "artworks": [
+        {
+            "cloudinary_id": "snhkgjbppzg0ryt0s7ww", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/snhkgjbppzg0ryt0s7ww.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "escc0abobjdnu68ipjqb", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/escc0abobjdnu68ipjqb.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "crkxlmak22vfn3uhozae", 
+            "height": 1420, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/crkxlmak22vfn3uhozae.jpg", 
+            "width": 800
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "eh7x1wiap1itkjf3qkfq", 
+        "height": 3975, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/eh7x1wiap1itkjf3qkfq.jpg", 
+        "width": 2279
+    }, 
+    "created_at": 1474571996320, 
+    "first_release_date": 1190332800000, 
+    "games": [
+        49414, 
+        25636, 
+        21842, 
+        28080, 
+        36608, 
+        18862, 
+        75102, 
+        23913, 
+        47472, 
+        44922
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 24279, 
+    "name": "Dragoneer's Aria", 
+    "platforms": [
+        38
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1190332800000, 
+            "human": "2007-Sep-21", 
+            "m": 9, 
+            "platform": 38, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "slug": "dragoneers-aria", 
+    "summary": "The world was at peace thanks to the six elemental dragons of water, fire, thunder, earth, wind, and ice. In this world, dragons control both nature and the climate; therefor they are worshipped by human beings and humanoids as the gaurdians of the world, and protected by those known as Dragoneers. When a black dragon suddenly appears and starts to destroy the land, it's up to one young dragoneer to stop it with the help of his friends.", 
+    "tags": [
+        268435468
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1525180839357, 
+    "url": "https://www.igdb.com/games/dragoneers-aria"
+}

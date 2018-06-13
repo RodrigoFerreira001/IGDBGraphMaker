@@ -1,0 +1,71 @@
+{
+    "aggregated_rating": 73.75, 
+    "aggregated_rating_count": 4, 
+    "category": 1, 
+    "collection": 1956, 
+    "cover": {
+        "cloudinary_id": "hfvsenwnqdajezwamcni", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hfvsenwnqdajezwamcni.jpg", 
+        "width": 350
+    }, 
+    "created_at": 1468175357253, 
+    "first_release_date": 1366070400000, 
+    "game": 1122, 
+    "id": 20154, 
+    "name": "Call of Duty: Black Ops II - Uprising", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1368662400000, 
+            "human": "2013-May-16", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1368662400000, 
+            "human": "2013-May-16", 
+            "m": 5, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1366070400000, 
+            "human": "2013-Apr-16", 
+            "m": 4, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "azoyshx0yvl0iuyyyupe", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/azoyshx0yvl0iuyyyupe.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "call-of-duty-black-ops-ii-uprising", 
+    "total_rating": 73.75, 
+    "total_rating_count": 4, 
+    "updated_at": 1493745508181, 
+    "url": "https://www.igdb.com/games/call-of-duty-black-ops-ii-uprising", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://callofduty.wikia.com/wiki/Uprising"
+        }
+    ]
+}

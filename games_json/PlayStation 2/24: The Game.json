@@ -1,0 +1,130 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kvcukeyrsvm2njkkaksa", 
+        "height": 707, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kvcukeyrsvm2njkkaksa.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1397598662062, 
+    "developers": [
+        749
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1141084800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        22425, 
+        22481, 
+        22490, 
+        22406, 
+        22482, 
+        22426, 
+        22472, 
+        29730, 
+        22470, 
+        25222
+    ], 
+    "genres": [
+        5, 
+        31
+    ], 
+    "id": 6062, 
+    "keywords": [
+        125
+    ], 
+    "name": "24: The Game", 
+    "platforms": [
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        334, 
+        8
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1145664000000, 
+            "human": "2006-Apr-22", 
+            "m": 4, 
+            "platform": 8, 
+            "region": 3, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1142553600000, 
+            "human": "2006-Mar-17", 
+            "m": 3, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1141084800000, 
+            "human": "2006-Feb-28", 
+            "m": 2, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bac2faxjslm3pqeu9ekl", 
+            "height": 960, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bac2faxjslm3pqeu9ekl.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "24-the-game", 
+    "summary": "CTU is investigating a series of terrorist attacks in the Los Angeles area ranging from an assassination attempt on the vice president to the kidnapping of the chairman of a highly profitable corporation. CTU identifies Peter Madsen, a former employee of Jack Bauer, as the leader of the terrorist cell responsible for the attacks on Los Angeles. What remains unknown to CTU is that the attacks have been arranged by an old enemy who plans on smuggling nuclear weapons into the hands of Middle Eastern terrorist networks. Jack Bauer must shoot, drive, and interrogate his way to the truth behind the attacks.", 
+    "tags": [
+        1, 
+        42, 
+        268435461, 
+        268435465, 
+        268435487, 
+        536870990, 
+        536871037, 
+        536871255, 
+        536871759, 
+        536872873, 
+        536873787, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1522388582039, 
+    "url": "https://www.igdb.com/games/24-the-game", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "r412OrRORf0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/24:_The_Game"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://24.wikia.com/wiki/24:_The_Game"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ruwz1t8k9d6zphaekghw", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ruwz1t8k9d6zphaekghw.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1495749855006, 
+    "external": {
+        "steam": "438910"
+    }, 
+    "first_release_date": 1472601600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        11423, 
+        19448, 
+        13189, 
+        55289, 
+        27717, 
+        25222, 
+        25646, 
+        6732, 
+        37022, 
+        25311
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 33600, 
+    "keywords": [
+        1027, 
+        1293, 
+        1494, 
+        4004, 
+        4134
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Hack, Slash & Backstab", 
+    "platforms": [
+        6, 
+        14, 
+        49, 
+        3
+    ], 
+    "popularity": 1.666666666666667, 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1472601600000, 
+            "human": "2016-Aug-31", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472601600000, 
+            "human": "2016-Aug-31", 
+            "m": 8, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472601600000, 
+            "human": "2016-Aug-31", 
+            "m": 8, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472601600000, 
+            "human": "2016-Aug-31", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "suryfmffgsaqplnpv8f9", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/suryfmffgsaqplnpv8f9.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hk3zjx0bybmzdzbu3n5y", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hk3zjx0bybmzdzbu3n5y.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qupig4ghafehedqkszzk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qupig4ghafehedqkszzk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lbmjd9ezmniwinswywwv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lbmjd9ezmniwinswywwv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uaftqhzcd1qutmslwzbm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uaftqhzcd1qutmslwzbm.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "hack-slash-and-backstab", 
+    "summary": "Hack, Slash & Backstab is a 1 - 4 player arcade dungeon crawler with a twist! Work together as warrior, rogue, wizard and archer to survive a dangerous world. But only one player will be crowned the winner: it becomes a fight to the death, as betrayal and backstab become the tools of choice.", 
+    "tags": [
+        1, 
+        268435487, 
+        268435488, 
+        536871939, 
+        536872205, 
+        536872406, 
+        536874916, 
+        536875046
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1526729236643, 
+    "url": "https://www.igdb.com/games/hack-slash-and-backstab", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://hackslashbackstab.rit.edu/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/438910"
+        }
+    ]
+}

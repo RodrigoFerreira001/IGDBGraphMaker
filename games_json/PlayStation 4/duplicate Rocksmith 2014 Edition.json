@@ -1,0 +1,89 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mam3o7h66csbgixept22", 
+        "height": 565, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mam3o7h66csbgixept22.jpg", 
+        "width": 452
+    }, 
+    "created_at": 1501431077167, 
+    "first_release_date": 1415059200000, 
+    "id": 52737, 
+    "keywords": [
+        1094
+    ], 
+    "name": "duplicate Rocksmith 2014 Edition", 
+    "platforms": [
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        7041
+    ], 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1415318400000, 
+            "human": "2014-Nov-07", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415059200000, 
+            "human": "2014-Nov-04", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pxqqgjirpbkgxovkaljk", 
+            "height": 844, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pxqqgjirpbkgxovkaljk.jpg", 
+            "width": 1500
+        }, 
+        {
+            "cloudinary_id": "wwgodjb02xmfrovxqdc3", 
+            "height": 844, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wwgodjb02xmfrovxqdc3.jpg", 
+            "width": 1500
+        }, 
+        {
+            "cloudinary_id": "xqnz8k0rqss1stwlfrby", 
+            "height": 844, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xqnz8k0rqss1stwlfrby.jpg", 
+            "width": 1500
+        }, 
+        {
+            "cloudinary_id": "xsp9dq1zdqzajrwapxct", 
+            "height": 844, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xsp9dq1zdqzajrwapxct.jpg", 
+            "width": 1500
+        }, 
+        {
+            "cloudinary_id": "egadhvhlycxdaezgpaym", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/egadhvhlycxdaezgpaym.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "duplicate-rocksmith-2014-edition", 
+    "summary": "Rocksmith 2014 Edition is bigger, better, and faster than ever.", 
+    "total_rating": 90.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1525549069998, 
+    "url": "https://www.igdb.com/games/duplicate-rocksmith-2014-edition", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://rocksmith.ubi.com"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "category": 3, 
+    "collection": 349, 
+    "cover": {
+        "cloudinary_id": "xqhynwamgvooad3rx3f9", 
+        "height": 1236, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xqhynwamgvooad3rx3f9.jpg", 
+        "width": 1138
+    }, 
+    "created_at": 1495818553714, 
+    "developers": [
+        108
+    ], 
+    "external": {
+        "steam": "383150"
+    }, 
+    "first_release_date": 1464652800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        68142, 
+        68287, 
+        12579, 
+        26192, 
+        6036, 
+        24369, 
+        44076, 
+        59516, 
+        28029, 
+        7291
+    ], 
+    "genres": [
+        5, 
+        25
+    ], 
+    "id": 34951, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dead Island: Definitive Edition", 
+    "pegi": {
+        "rating": 5
+    }, 
+    "platforms": [
+        6, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        423
+    ], 
+    "pulse_count": 1, 
+    "rating": 80.0, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1464652800000, 
+            "human": "2016-May-31", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464652800000, 
+            "human": "2016-May-31", 
+            "m": 5, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464652800000, 
+            "human": "2016-May-31", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zd6aanf0j77wv1w0qo8s", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zd6aanf0j77wv1w0qo8s.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "z145yezfv4nvrhxquj4j", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z145yezfv4nvrhxquj4j.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "m2ssn5dvzvztjidhzkb5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m2ssn5dvzvztjidhzkb5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hosvmescfvh0oyf0rzxr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hosvmescfvh0oyf0rzxr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "stl1nmuckcibpwt6ereo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/stl1nmuckcibpwt6ereo.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "dead-island-definitive-edition", 
+    "summary": "Welcome to the zombie apocalypse experience of a lifetime \u2013 and now more beautiful than ever. Caught in the midst of an epic zombie outbreak on the tropical island of Banoi, your only thought is: Survive!", 
+    "tags": [
+        1, 
+        19, 
+        21, 
+        268435461, 
+        268435481, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        19, 
+        21
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1528352201220, 
+    "url": "https://www.igdb.com/games/dead-island-definitive-edition", 
+    "version_parent": 536, 
+    "version_title": "Definitive Edition", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "65mbaZqaHlM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://deadisland.deepsilver.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/383150"
+        }
+    ]
+}

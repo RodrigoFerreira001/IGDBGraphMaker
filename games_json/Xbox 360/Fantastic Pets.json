@@ -1,0 +1,85 @@
+{
+    "aggregated_rating": 55.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "dvah9qwo1tfr9bkbw032", 
+        "height": 1500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dvah9qwo1tfr9bkbw032.jpg", 
+        "width": 1500
+    }, 
+    "created_at": 1468175910922, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1305158400000, 
+    "games": [
+        54524, 
+        44242, 
+        19290, 
+        19934, 
+        18623, 
+        22470, 
+        29173, 
+        22425, 
+        26145, 
+        19301
+    ], 
+    "genres": [
+        13
+    ], 
+    "id": 20165, 
+    "keywords": [
+        296, 
+        1148, 
+        1293, 
+        4134, 
+        4869, 
+        5348, 
+        5783, 
+        6878
+    ], 
+    "name": "Fantastic Pets", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.0, 
+    "rating": 75.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1305158400000, 
+            "human": "2011-May-12", 
+            "m": 5, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "aehkzaahst77qnpkcr4t", 
+            "height": 385, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aehkzaahst77qnpkcr4t.jpg", 
+            "width": 655
+        }
+    ], 
+    "slug": "fantastic-pets", 
+    "summary": "A pet simulator for Kinect on Xbox 360, developed by THQ. Players choose from a dog, a cat, a horse or a lizard and customise from there...", 
+    "tags": [
+        268435469, 
+        536871208, 
+        536872060, 
+        536872205, 
+        536875046, 
+        536875781, 
+        536876260, 
+        536876695, 
+        536877790
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1515839301214, 
+    "url": "https://www.igdb.com/games/fantastic-pets"
+}

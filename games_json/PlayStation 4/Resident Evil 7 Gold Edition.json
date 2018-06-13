@@ -1,0 +1,49 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "rtvmnjauwzfva379cno1", 
+        "height": 364, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rtvmnjauwzfva379cno1.jpg", 
+        "width": 505
+    }, 
+    "created_at": 1509981320580, 
+    "first_release_date": 1513036800000, 
+    "id": 75449, 
+    "name": "Resident Evil 7 Gold Edition", 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "popularity": 2.0, 
+    "pulse_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1513036800000, 
+            "human": "2017-Dec-12", 
+            "m": 12, 
+            "platform": 49, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513036800000, 
+            "human": "2017-Dec-12", 
+            "m": 12, 
+            "platform": 48, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "capxzh41nmiqaktoo081", 
+            "height": 664, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/capxzh41nmiqaktoo081.jpg", 
+            "width": 1255
+        }
+    ], 
+    "slug": "resident-evil-7-gold-edition", 
+    "updated_at": 1520433464160, 
+    "url": "https://www.igdb.com/games/resident-evil-7-gold-edition", 
+    "version_parent": 19562
+}

@@ -1,0 +1,135 @@
+{
+    "aggregated_rating": 53.5714285714286, 
+    "aggregated_rating_count": 7, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "wbmiinmqheqd1rhiteqe", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wbmiinmqheqd1rhiteqe.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1467970394464, 
+    "external": {
+        "steam": "369570"
+    }, 
+    "first_release_date": 1431043200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        28465, 
+        34919, 
+        33603, 
+        36962, 
+        40524, 
+        55888, 
+        65827, 
+        23314, 
+        28277, 
+        16468
+    ], 
+    "genres": [
+        10, 
+        32
+    ], 
+    "id": 19960, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Spectra", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1466
+    ], 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1431043200000, 
+            "human": "2015-May-08", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1436486400000, 
+            "human": "2015-Jul-10", 
+            "m": 7, 
+            "platform": 6, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "osg1kbzla5yiao8hhcno", 
+            "height": 857, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/osg1kbzla5yiao8hhcno.jpg", 
+            "width": 1524
+        }, 
+        {
+            "cloudinary_id": "b9obvrpmm5qiskbnv08q", 
+            "height": 857, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b9obvrpmm5qiskbnv08q.jpg", 
+            "width": 1524
+        }, 
+        {
+            "cloudinary_id": "xphjmlexvfdfmsvmgael", 
+            "height": 857, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xphjmlexvfdfmsvmgael.jpg", 
+            "width": 1524
+        }, 
+        {
+            "cloudinary_id": "e79pqyebtocgfbfcajka", 
+            "height": 857, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e79pqyebtocgfbfcajka.jpg", 
+            "width": 1524
+        }, 
+        {
+            "cloudinary_id": "rxtrvs4qekjs3oyycb6n", 
+            "height": 745, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rxtrvs4qekjs3oyycb6n.jpg", 
+            "width": 1917
+        }
+    ], 
+    "slug": "spectra", 
+    "summary": "Spectra is a dynamic twitch racing game that will keep you on the edge of your seat! Blast your nimble ship down intricate ribbons of light in time to the dynamic beats and original soundtrack by chiptune artist legend Chipzel.", 
+    "tags": [
+        268435466, 
+        268435488
+    ], 
+    "total_rating": 56.7857142857143, 
+    "total_rating_count": 7, 
+    "updated_at": 1528358084364, 
+    "url": "https://www.igdb.com/games/spectra", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://SpectraGame.info/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/369570"
+        }
+    ]
+}

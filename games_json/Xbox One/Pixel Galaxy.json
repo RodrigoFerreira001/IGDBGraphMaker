@@ -1,0 +1,166 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "sdtcbrbmfffq7iterwfj", 
+        "height": 1063, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sdtcbrbmfffq7iterwfj.jpg", 
+        "width": 1751
+    }, 
+    "created_at": 1475437086875, 
+    "developers": [
+        6352
+    ], 
+    "external": {
+        "steam": "370480"
+    }, 
+    "first_release_date": 1443744000000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        10039, 
+        32902, 
+        34919, 
+        16468, 
+        54639, 
+        40524, 
+        28029, 
+        55289, 
+        68324, 
+        64204
+    ], 
+    "genres": [
+        5, 
+        32
+    ], 
+    "id": 24615, 
+    "keywords": [
+        166, 
+        844, 
+        911
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Pixel Galaxy", 
+    "platforms": [
+        6, 
+        14, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        6352
+    ], 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 49, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1443744000000, 
+            "human": "2015-Oct-02", 
+            "m": 10, 
+            "platform": 14, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1443744000000, 
+            "human": "2015-Oct-02", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "u9detx6wrgib3umwqa5z", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u9detx6wrgib3umwqa5z.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "iei8afohjj9xiojxfvva", 
+            "height": 337, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iei8afohjj9xiojxfvva.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "y9g7bzflyvqurpot1nte", 
+            "height": 337, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y9g7bzflyvqurpot1nte.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "kejdskgjmnpodryhq3zo", 
+            "height": 337, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kejdskgjmnpodryhq3zo.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "cx5dstkpqmdgsxbfqunv", 
+            "height": 337, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cx5dstkpqmdgsxbfqunv.jpg", 
+            "width": 600
+        }
+    ], 
+    "slug": "pixel-galaxy", 
+    "summary": "In this non-shooting shoot 'em up, you are a single white pixel who can absorb the bodies, abilities, and weapons of every enemy pixel you collect. It's up to you to stay either a small and nimble ship, or turn large and powerful. Just remember: protect your core white pixel, because every mistake could be your last.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435488, 
+        536871078, 
+        536871756, 
+        536871823, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1523417423909, 
+    "url": "https://www.igdb.com/games/pixel-galaxy", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "kezx1cIy49c"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "izoRSNclopM"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "E6nQ3Bq1lKk"
+        }
+    ]
+}

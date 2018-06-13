@@ -1,0 +1,91 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "syamzjvj7lbbeivtwyxg", 
+        "height": 266, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/syamzjvj7lbbeivtwyxg.jpg", 
+        "width": 349
+    }, 
+    "created_at": 1513535935750, 
+    "first_release_date": 1292544000000, 
+    "games": [
+        44242, 
+        18623, 
+        22470, 
+        29173, 
+        55689, 
+        23867, 
+        26145, 
+        55590, 
+        11419, 
+        22425
+    ], 
+    "genres": [
+        13
+    ], 
+    "id": 78373, 
+    "keywords": [
+        1148, 
+        1495
+    ], 
+    "name": "Biorhythm", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1357776000000, 
+            "human": "2013-Jan-10", 
+            "m": 1, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1292544000000, 
+            "human": "2010-Dec-17", 
+            "m": 12, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qrprza15hnukdnrvshqi", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qrprza15hnukdnrvshqi.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "vjr1xbcc2mpogjoehg0j", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vjr1xbcc2mpogjoehg0j.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "jbbx4oby2x1lwncyemcd", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jbbx4oby2x1lwncyemcd.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "lt6dgc9bvet94qdzahh3", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lt6dgc9bvet94qdzahh3.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "biorhythm", 
+    "summary": "A game for the RCA Studio II.", 
+    "tags": [
+        268435469, 
+        536872060, 
+        536872407
+    ], 
+    "updated_at": 1518049542474, 
+    "url": "https://www.igdb.com/games/biorhythm"
+}

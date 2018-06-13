@@ -1,0 +1,435 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Sonic 3D: Flickies' Island"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30bd\u30cb\u30c3\u30af\uff13\uff24 \u30d5\u30ea\u30c3\u30ad\u30fc\u30a2\u30a4\u30e9\u30f3\u30c9"
+        }
+    ], 
+    "category": 0, 
+    "collection": 93, 
+    "cover": {
+        "cloudinary_id": "s6pwwkdqm5dzfzeqj0zt", 
+        "height": 1008, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/s6pwwkdqm5dzfzeqj0zt.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1428192441648, 
+    "developers": [
+        292
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 847152000000, 
+    "franchise": 814, 
+    "franchises": [
+        814
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        21062, 
+        6797, 
+        21063, 
+        3192, 
+        16036, 
+        358, 
+        4438, 
+        6283, 
+        10031, 
+        1078
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 9476, 
+    "keywords": [
+        126, 
+        250, 
+        296, 
+        383, 
+        733, 
+        1019, 
+        1158, 
+        1710, 
+        2115, 
+        2152, 
+        2154, 
+        3297, 
+        3403, 
+        3833, 
+        4134, 
+        4162, 
+        4164, 
+        4176, 
+        4297, 
+        4449, 
+        4455, 
+        4457, 
+        4458, 
+        4459, 
+        4522, 
+        4529, 
+        4694, 
+        4711, 
+        4746, 
+        4758, 
+        4760, 
+        4776, 
+        4777, 
+        4828, 
+        4904, 
+        4943, 
+        4958, 
+        4959, 
+        5022, 
+        5171, 
+        5208, 
+        5210, 
+        5419, 
+        5420, 
+        5441, 
+        5525, 
+        5594, 
+        5603, 
+        5614, 
+        5634, 
+        5672, 
+        5676, 
+        5801, 
+        5814, 
+        6040, 
+        6094, 
+        6767, 
+        6811, 
+        7549, 
+        8894, 
+        9060, 
+        9209, 
+        9412, 
+        13491, 
+        14502
+    ], 
+    "name": "Sonic 3D Blast", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        29, 
+        6, 
+        92, 
+        32, 
+        47, 
+        5
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        112
+    ], 
+    "pulse_count": 2, 
+    "rating": 60.6177633129079, 
+    "rating_count": 21, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1192492800000, 
+            "human": "2007-Oct-16", 
+            "m": 10, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1193961600000, 
+            "human": "2007-Nov-02", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1195430400000, 
+            "human": "2007-Nov-19", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1193961600000, 
+            "human": "2007-Nov-02", 
+            "m": 11, 
+            "platform": 47, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1192492800000, 
+            "human": "2007-Oct-16", 
+            "m": 10, 
+            "platform": 47, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 875577600000, 
+            "human": "1997-Sep-30", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 855792000000, 
+            "human": "1997-Feb-13", 
+            "m": 2, 
+            "platform": 32, 
+            "region": 1, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 908323200000, 
+            "human": "1998-Oct-14", 
+            "m": 10, 
+            "platform": 32, 
+            "region": 5, 
+            "y": 1998
+        }, 
+        {
+            "category": 0, 
+            "date": 847152000000, 
+            "human": "1996-Nov-05", 
+            "m": 11, 
+            "platform": 29, 
+            "region": 1, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 1195430400000, 
+            "human": "2007-Nov-19", 
+            "m": 11, 
+            "platform": 47, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 875145600000, 
+            "human": "1997-Sep-25", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 849312000000, 
+            "human": "1996-Nov-30", 
+            "m": 11, 
+            "platform": 32, 
+            "region": 2, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 1275350400000, 
+            "human": "2010-Jun-01", 
+            "m": 6, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 847756800000, 
+            "human": "1996-Nov-12", 
+            "m": 11, 
+            "platform": 29, 
+            "region": 2, 
+            "y": 1996
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rnjctscj9gfmmqvufg2b", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rnjctscj9gfmmqvufg2b.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "odufoy1enr5iu8p4bybw", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/odufoy1enr5iu8p4bybw.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "igaxqvcsqgzqbrdkqgfn", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/igaxqvcsqgzqbrdkqgfn.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "jtanqranlbzjg9slawks", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jtanqranlbzjg9slawks.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "biybtdc5jbbe6wsfwyhs", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/biybtdc5jbbe6wsfwyhs.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "bmvp1jhnjjgep1uuarct", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bmvp1jhnjjgep1uuarct.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "bjv94xcotusawmwotayn", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bjv94xcotusawmwotayn.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "z1dd2yi72rq9rr9etmkm", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z1dd2yi72rq9rr9etmkm.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "fhjc8hfviyjhuhbgtny2", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fhjc8hfviyjhuhbgtny2.jpg", 
+            "width": 641
+        }, 
+        {
+            "cloudinary_id": "vntc4ruz0j4t3avv01hw", 
+            "height": 188, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vntc4ruz0j4t3avv01hw.jpg", 
+            "width": 268
+        }, 
+        {
+            "cloudinary_id": "om8znwjx1fb2ssfhsr0y", 
+            "height": 192, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/om8znwjx1fb2ssfhsr0y.jpg", 
+            "width": 263
+        }, 
+        {
+            "cloudinary_id": "p2jtsfq0apibpzv1o9mp", 
+            "height": 309, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p2jtsfq0apibpzv1o9mp.jpg", 
+            "width": 425
+        }
+    ], 
+    "slug": "sonic-3d-blast", 
+    "summary": "Sonic 3D Blast is a 1996 platform video game developed by Traveller's Tales and Sonic Team, and published by Sega for the Genesis, Saturn, and Windows. Part of the Sonic the Hedgehog series, the game abandons previous Sonic games' side-scrolling style in favor of isometric gameplay, making use of some pre-rendered 3D models converted into sprites. The game features creatures known as Flickies, which first appeared in the 1984 arcade game Flicky. Controlling only Sonic himself, the player's goal is to collect Flickies and carry them to safety, periodically sparring with the series antagonist Dr. Robotnik, who is imprisoning them within robots.", 
+    "tags": [
+        1, 
+        268435464, 
+        536871038, 
+        536871162, 
+        536871208, 
+        536871295, 
+        536871645, 
+        536871931, 
+        536872070, 
+        536872622, 
+        536873027, 
+        536873064, 
+        536873066, 
+        536874209, 
+        536874315, 
+        536874745, 
+        536875046, 
+        536875074, 
+        536875076, 
+        536875088, 
+        536875209, 
+        536875361, 
+        536875367, 
+        536875369, 
+        536875370, 
+        536875371, 
+        536875434, 
+        536875441, 
+        536875606, 
+        536875623, 
+        536875658, 
+        536875670, 
+        536875672, 
+        536875688, 
+        536875689, 
+        536875740, 
+        536875816, 
+        536875855, 
+        536875870, 
+        536875871, 
+        536875934, 
+        536876083, 
+        536876120, 
+        536876122, 
+        536876331, 
+        536876332, 
+        536876353, 
+        536876437, 
+        536876506, 
+        536876515, 
+        536876526, 
+        536876546, 
+        536876584, 
+        536876588, 
+        536876713, 
+        536876726, 
+        536876952, 
+        536877006, 
+        536877679, 
+        536877723, 
+        536878461, 
+        536879806, 
+        536879972, 
+        536880121, 
+        536880324, 
+        536884403, 
+        536885414
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 60.6177633129079, 
+    "total_rating_count": 21, 
+    "updated_at": 1525876746581, 
+    "url": "https://www.igdb.com/games/sonic-3d-blast", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Sonic_3D_Blast"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://sonic.wikia.com/wiki/Sonic_3D_Blast"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/34278"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.sega.com/"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "krcnsprjw6pfsponauzg", 
+        "height": 768, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/krcnsprjw6pfsponauzg.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1517413849234, 
+    "first_release_date": 1292803200000, 
+    "id": 85545, 
+    "name": "Cosmo Fighters", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1294358400000, 
+            "human": "2011-Jan-07", 
+            "m": 1, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1292803200000, 
+            "human": "2010-Dec-20", 
+            "m": 12, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bri8pebhgwvdh6ypkvim", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bri8pebhgwvdh6ypkvim.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "jshdik6cgrha1kiwnwzv", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jshdik6cgrha1kiwnwzv.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "eg3zkqd2mjonpuwifcv2", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eg3zkqd2mjonpuwifcv2.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "voehbtk9et8y5gglu0nm", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/voehbtk9et8y5gglu0nm.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "cosmo-fighters", 
+    "summary": "All can play, only the one well trained will win!", 
+    "updated_at": 1518053850975, 
+    "url": "https://www.igdb.com/games/cosmo-fighters"
+}

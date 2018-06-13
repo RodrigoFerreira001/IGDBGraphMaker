@@ -1,0 +1,114 @@
+{
+    "category": 1, 
+    "collection": 107, 
+    "cover": {
+        "cloudinary_id": "q1m8ggzdyp45euknxngx", 
+        "height": 661, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/q1m8ggzdyp45euknxngx.jpg", 
+        "width": 472
+    }, 
+    "created_at": 1469820423624, 
+    "first_release_date": 1296518400000, 
+    "game": 545, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        9760, 
+        22639, 
+        22622, 
+        22616, 
+        15917, 
+        10043, 
+        43115, 
+        21642, 
+        55029, 
+        12982
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 21859, 
+    "name": "Call of Duty: Black Ops - First Strike", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 2.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1301011200000, 
+            "human": "2011-Mar-25", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1299110400000, 
+            "human": "2011-Mar-03", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1296518400000, 
+            "human": "2011-Feb-01", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "goaeesd092o3grjjigro", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/goaeesd092o3grjjigro.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "rmug2o4ukn9nmunfi891", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rmug2o4ukn9nmunfi891.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "t97itrrwe6yched9kbyd", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t97itrrwe6yched9kbyd.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "ezlpucp4dx55fhqqf25u", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ezlpucp4dx55fhqqf25u.jpg", 
+            "width": 1200
+        }
+    ], 
+    "slug": "call-of-duty-black-ops-first-strike", 
+    "tags": [
+        39, 
+        1073741825
+    ], 
+    "themes": [
+        39
+    ], 
+    "updated_at": 1501123290481, 
+    "url": "https://www.igdb.com/games/call-of-duty-black-ops-first-strike", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://callofduty.wikia.com/wiki/First_Strike"
+        }
+    ]
+}

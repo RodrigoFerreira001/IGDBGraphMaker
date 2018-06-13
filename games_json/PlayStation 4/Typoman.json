@@ -1,0 +1,285 @@
+{
+    "aggregated_rating": 69.1666666666667, 
+    "aggregated_rating_count": 6, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Typoman: Revised"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jxq2j3raorfftqm4ionj", 
+        "height": 367, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jxq2j3raorfftqm4ionj.jpg", 
+        "width": 268
+    }, 
+    "created_at": 1434667870505, 
+    "developers": [
+        5914
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "336240"
+    }, 
+    "first_release_date": 1447891200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        6732, 
+        11423, 
+        18167, 
+        9174, 
+        27717, 
+        25222, 
+        13163, 
+        28113, 
+        7344, 
+        19082
+    ], 
+    "genres": [
+        8, 
+        9, 
+        31, 
+        32
+    ], 
+    "hypes": 3, 
+    "id": 11225, 
+    "keywords": [
+        1158, 
+        1293, 
+        1341, 
+        1494, 
+        2049, 
+        2875, 
+        4004, 
+        4134, 
+        4150, 
+        4510, 
+        4882, 
+        5343, 
+        5379, 
+        6200
+    ], 
+    "name": "Typoman", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        6, 
+        92, 
+        14, 
+        41, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        5914, 
+        6218, 
+        3010
+    ], 
+    "rating": 90.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1447891200000, 
+            "human": "2015-Nov-19", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1471219200000, 
+            "human": "2016-Aug-15", 
+            "m": 8, 
+            "platform": 92, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1471219200000, 
+            "human": "2016-Aug-15", 
+            "m": 8, 
+            "platform": 14, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1471219200000, 
+            "human": "2016-Aug-15", 
+            "m": 8, 
+            "platform": 6, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1519257600000, 
+            "human": "2018-Feb-22", 
+            "m": 2, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1487289600000, 
+            "human": "2017-Feb-17", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1447891200000, 
+            "human": "2015-Nov-19", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1487635200000, 
+            "human": "2017-Feb-21", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1447891200000, 
+            "human": "2015-Nov-19", 
+            "m": 11, 
+            "platform": 41, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pieefjdpefx8xkmb1pbl", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pieefjdpefx8xkmb1pbl.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "h43spcmobrtsskdznbob", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h43spcmobrtsskdznbob.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tgm47niqm7zjjduumxvj", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tgm47niqm7zjjduumxvj.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "epfgflxvnaq6uwzsirgz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/epfgflxvnaq6uwzsirgz.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jr4d34m2qwrymxyu5ccc", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jr4d34m2qwrymxyu5ccc.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "n1s3efd6l75xk1tp5ynw", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n1s3efd6l75xk1tp5ynw.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zym0vqqwkhtkeuudhtjw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zym0vqqwkhtkeuudhtjw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "a1zabiykpmbewtzztu6v", 
+            "height": 460, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a1zabiykpmbewtzztu6v.jpg", 
+            "width": 838
+        }, 
+        {
+            "cloudinary_id": "bbirt2qphxj9zbpabraa", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bbirt2qphxj9zbpabraa.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "s1icrhirsmelkykxwwmr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s1icrhirsmelkykxwwmr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "olfzkbg3pltbyitffo6q", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/olfzkbg3pltbyitffo6q.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "typoman", 
+    "summary": "Typoman is a two dimensional puzzle platformer distinguished by a unique game world. You slip into the role of the HERO struggling to make your way through a dark, surreal world. Despite your small stature you have a powerful gift: You can use letters to alter your environment! \n \nBe the HERO and set out on the journey to become whole and gain the powers you need to defeat the giant, evil demon that rules the world you are trapped in.", 
+    "tags": [
+        268435464, 
+        268435465, 
+        268435487, 
+        268435488, 
+        536872070, 
+        536872205, 
+        536872253, 
+        536872406, 
+        536872961, 
+        536873787, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875422, 
+        536875794, 
+        536876255, 
+        536876291, 
+        536877112, 
+        1073741828
+    ], 
+    "total_rating": 79.58333333333334, 
+    "total_rating_count": 8, 
+    "updated_at": 1523430006831, 
+    "url": "https://www.igdb.com/games/typoman", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "PH9F_423F6U"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "dVzoxSU6Knw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/336240"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.typoman.net"
+        }
+    ]
+}

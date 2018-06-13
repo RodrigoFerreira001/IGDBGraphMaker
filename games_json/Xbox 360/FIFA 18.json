@@ -1,0 +1,337 @@
+{
+    "aggregated_rating": 80.4, 
+    "aggregated_rating_count": 22, 
+    "category": 0, 
+    "collection": 91, 
+    "cover": {
+        "cloudinary_id": "ybvx0zc8nxkqorpfjjsp", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ybvx0zc8nxkqorpfjjsp.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1486507966716, 
+    "developers": [
+        277, 
+        4148
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is a soccer simulation game in which players engage in realistic matches with teams across international leagues. Players can practice penalty kicks, assign on-field strategies, and participate in a variety of game modes to improve their soccer skills."
+    }, 
+    "first_release_date": 1506643200000, 
+    "game_engines": [
+        2
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        36926, 
+        26772, 
+        28552, 
+        36872, 
+        51486, 
+        28540, 
+        28862, 
+        36952, 
+        26709, 
+        36662
+    ], 
+    "genres": [
+        14
+    ], 
+    "hypes": 28, 
+    "id": 27081, 
+    "keywords": [
+        26, 
+        1166, 
+        4134, 
+        4154, 
+        4221, 
+        4224, 
+        4357, 
+        4358, 
+        4518, 
+        4519, 
+        4520, 
+        4521, 
+        12087, 
+        12152, 
+        12556, 
+        16826, 
+        16827, 
+        16828, 
+        16894
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 22, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "FIFA 18", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        48, 
+        12, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 74.33333333333333, 
+    "publishers": [
+        454
+    ], 
+    "pulse_count": 246, 
+    "rating": 78.64667655132669, 
+    "rating_count": 46, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1507593600000, 
+            "human": "2017-Oct-10", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506643200000, 
+            "human": "2017-Sep-29", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506643200000, 
+            "human": "2017-Sep-29", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506643200000, 
+            "human": "2017-Sep-29", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506643200000, 
+            "human": "2017-Sep-29", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506643200000, 
+            "human": "2017-Sep-29", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506643200000, 
+            "human": "2017-Sep-29", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506643200000, 
+            "human": "2017-Sep-29", 
+            "m": 9, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506643200000, 
+            "human": "2017-Sep-29", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "li43va0vnqjbsyaqjkhc", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/li43va0vnqjbsyaqjkhc.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "gethxkgfqeadq8z4kkdq", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gethxkgfqeadq8z4kkdq.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nzmqdpnkdjgqhgjzoutu", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nzmqdpnkdjgqhgjzoutu.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nwpi8g3dbxazjftents8", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nwpi8g3dbxazjftents8.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hlcbjh2m7pw1buxukyui", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hlcbjh2m7pw1buxukyui.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "dludiatdm9lpkeguoprm", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dludiatdm9lpkeguoprm.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "cbt9ooc8irnm4jx49nfg", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cbt9ooc8irnm4jx49nfg.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "wceortcxft58cwvobtik", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wceortcxft58cwvobtik.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xfaevz5ale6po2ke5xsz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xfaevz5ale6po2ke5xsz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "znfeta90wlw14djxckpx", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/znfeta90wlw14djxckpx.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "ql70yg9xfolcvfebxbuu", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ql70yg9xfolcvfebxbuu.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "sgs8wklzvnfzdvkmzmr8", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sgs8wklzvnfzdvkmzmr8.jpg", 
+            "width": 1024
+        }
+    ], 
+    "slug": "fifa-18", 
+    "summary": "Powered by Frostbite\u2122,\u00a0EA SPORTS\u2122 FIFA 18\u00a0blurs the line between the virtual and real worlds, bringing to life the players, teams, and atmospheres that immerse you in the emotion of The World\u2019s Game. The biggest step in gameplay innovation in franchise history,\u00a0FIFA 18\u00a0introduces\u00a0Real Player Motion Technology, an all-new animation system which unlocks a new level of responsiveness, and player personality \u2013 now Cristiano Ronaldo and other top players feel and move exactly like they do on the real pitch.\u00a0Player Control\u00a0combined with new\u00a0Team Styles and Positioning\u00a0give you the tools to deliver\u00a0Dramatic Moments\u00a0that ignite Immersive Atmospheres\u00a0around the world. The World\u2019s Game also takes you on a global journey as Alex\u00a0Hunter\u00a0Returns\u00a0along with a star-studded cast of characters, including Cristiano Ronaldo and other European football stars. And in FIFA Ultimate Team\u2122,\u00a0FUT ICONS,\u00a0featuring Ronaldo Naz\u00e1rio and other football legends, are coming to\u00a0FIFA 18\u00a0on PlayStation 4, Xbox One, and PC when the game launches on September 29, 2017.", 
+    "tags": [
+        268435470, 
+        536870938, 
+        536872078, 
+        536875046, 
+        536875066, 
+        536875133, 
+        536875136, 
+        536875269, 
+        536875270, 
+        536875430, 
+        536875431, 
+        536875432, 
+        536875433, 
+        536882999, 
+        536883064, 
+        536883468, 
+        536887738, 
+        536887739, 
+        536887740, 
+        536887806, 
+        1073741827
+    ], 
+    "total_rating": 79.52333827566335, 
+    "total_rating_count": 68, 
+    "updated_at": 1528666581336, 
+    "url": "https://www.igdb.com/games/fifa-18", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "3Ty4064UZ_c"
+        }, 
+        {
+            "name": "Interview", 
+            "video_id": "GbK_Xw5BiSw"
+        }, 
+        {
+            "name": "E3 2017 Gameplay Trailer", 
+            "video_id": "z_7Gz_RFLnE"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "l1FJfr_spJQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/FIFA_18"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/easportsfifa"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/easportsfifa"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.easports.com/fifa/"
+        }
+    ]
+}

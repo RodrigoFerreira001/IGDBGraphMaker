@@ -1,0 +1,80 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "oumjcdqdkwapfovmndyv", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/oumjcdqdkwapfovmndyv.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1516470502039, 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "first_release_date": 1424304000000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "id": 82548, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 16, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "DEAD OR ALIVE 5 Last Round: Core Fighters", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 1.0, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1424304000000, 
+            "human": "2015-Feb-19", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ragxeauwt1e3o11rdptr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ragxeauwt1e3o11rdptr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "m0errzv9khuytwjqxert", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m0errzv9khuytwjqxert.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wbiqirhzshc6uuy1eg2b", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wbiqirhzshc6uuy1eg2b.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "dead-or-alive-5-last-round-core-fighters", 
+    "summary": "The final word in fighting entertainment - DEAD OR ALIVE 5 Last Round!\n\nThis is a free version which allows use of most game modes, including online play. However, only a limited number of playable characters are available, and Story Mode is locked. Other characters and Story Mode are available as separate downloadable content purchases.", 
+    "total_rating": 80.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1526727569391, 
+    "url": "https://www.igdb.com/games/dead-or-alive-5-last-round-core-fighters"
+}

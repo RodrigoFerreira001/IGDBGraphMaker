@@ -1,0 +1,69 @@
+{
+    "aggregated_rating": 74.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ggqbbbi5l3sjg8lshyq2", 
+        "height": 993, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ggqbbbi5l3sjg8lshyq2.jpg", 
+        "width": 1101
+    }, 
+    "created_at": 1469312578839, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1208044800000, 
+    "games": [
+        55036, 
+        29173, 
+        55590, 
+        23345, 
+        19376, 
+        11362, 
+        9760, 
+        33603, 
+        36962, 
+        55888
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 21487, 
+    "keywords": [
+        3782
+    ], 
+    "name": "Drone Tactics", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1208044800000, 
+            "human": "2008-Apr-13", 
+            "m": 4, 
+            "platform": 20, 
+            "region": 8, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "l5abnu0graqgnhpuj0mt", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l5abnu0graqgnhpuj0mt.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "drone-tactics", 
+    "summary": "Transported to an alien world, you find yourself in the middle of a great conflict. An army of evil Drones is on the march, threatening to obliterate the land of Cimexus. Its inhabitants now turn to you to lead them in battle against the Black Swarm. Each level offers new challenges, and taking full advantage of each Drone's unique specialties will be the difference between success and defeat!", 
+    "tags": [
+        268435471, 
+        536874694
+    ], 
+    "total_rating": 74.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1515703160133, 
+    "url": "https://www.igdb.com/games/drone-tactics"
+}

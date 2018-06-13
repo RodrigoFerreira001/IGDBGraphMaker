@@ -1,0 +1,106 @@
+{
+    "category": 0, 
+    "created_at": 1499419238932, 
+    "external": {
+        "steam": "672030"
+    }, 
+    "first_release_date": 1496275200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        40524, 
+        34919, 
+        76438, 
+        16468, 
+        68324, 
+        37022, 
+        25640, 
+        55289, 
+        75158, 
+        32902
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 44217, 
+    "name": "Swap Blocks", 
+    "platforms": [
+        6, 
+        41
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1496275200000, 
+            "human": "2017-Jun-01", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 1, 
+            "date": 1498867200000, 
+            "human": "2017-Jul", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ksglenb3ia9xmvdkpp5h", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ksglenb3ia9xmvdkpp5h.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mhackn7dn4eenm92h9io", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mhackn7dn4eenm92h9io.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "x2qtu2fotimijws1yjlw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x2qtu2fotimijws1yjlw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "z7fiwfrpem354kufjrgc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z7fiwfrpem354kufjrgc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wkbkl3okfymxruzuvxa6", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wkbkl3okfymxruzuvxa6.jpg", 
+            "width": 512
+        }
+    ], 
+    "slug": "swap-blocks", 
+    "summary": "In Swap Blocks you will match 3 or more similar blocks on a game board by swapping blocks. Play solo game modes, or play against a CPU or another player. There are also various challenge puzzles to test you.", 
+    "tags": [
+        1, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1523338036196, 
+    "url": "https://www.igdb.com/games/swap-blocks", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://wizbytegames.weebly.com/swap-blocks.html"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/672030"
+        }
+    ]
+}

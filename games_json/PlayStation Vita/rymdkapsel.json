@@ -1,0 +1,190 @@
+{
+    "aggregated_rating": 83.3333333333333, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "erawvde5gjxlylrb4jvn", 
+        "height": 978, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/erawvde5gjxlylrb4jvn.jpg", 
+        "width": 908
+    }, 
+    "created_at": 1461156650034, 
+    "developers": [
+        9573
+    ], 
+    "external": {
+        "steam": "253790"
+    }, 
+    "first_release_date": 1367971200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        29173, 
+        9789, 
+        19301, 
+        55590, 
+        55689, 
+        18623, 
+        23212, 
+        19290, 
+        19934, 
+        25311
+    ], 
+    "genres": [
+        13, 
+        15, 
+        32
+    ], 
+    "id": 18830, 
+    "keywords": [
+        970, 
+        994, 
+        1148, 
+        1495, 
+        1905, 
+        3292, 
+        4134, 
+        4240, 
+        4963, 
+        5304, 
+        5631
+    ], 
+    "name": "rymdkapsel", 
+    "platforms": [
+        34, 
+        6, 
+        39, 
+        14, 
+        46, 
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "pulse_count": 1, 
+    "rating": 82.06490203357131, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1367971200000, 
+            "human": "2013-May-08", 
+            "m": 5, 
+            "platform": 46, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1375315200000, 
+            "human": "2013-Aug-01", 
+            "m": 8, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1375315200000, 
+            "human": "2013-Aug-01", 
+            "m": 8, 
+            "platform": 34, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 1, 
+            "date": 1388534400000, 
+            "human": "2014-Jan", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 1, 
+            "date": 1388534400000, 
+            "human": "2014-Jan", 
+            "m": 1, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 1, 
+            "date": 1388534400000, 
+            "human": "2014-Jan", 
+            "m": 1, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "m3yhqlevpveaxdh3gj77", 
+            "height": 888, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m3yhqlevpveaxdh3gj77.jpg", 
+            "width": 1806
+        }, 
+        {
+            "cloudinary_id": "ryekoow2l7kxmvsn8olx", 
+            "height": 888, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ryekoow2l7kxmvsn8olx.jpg", 
+            "width": 1806
+        }, 
+        {
+            "cloudinary_id": "iizdoo0czv38gdyvkgdj", 
+            "height": 888, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iizdoo0czv38gdyvkgdj.jpg", 
+            "width": 1806
+        }, 
+        {
+            "cloudinary_id": "gff9mv89o2pw3dakrepm", 
+            "height": 1440, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gff9mv89o2pw3dakrepm.jpg", 
+            "width": 2560
+        }, 
+        {
+            "cloudinary_id": "n7un4x0qyhmkbtdpuegy", 
+            "height": 821, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n7un4x0qyhmkbtdpuegy.jpg", 
+            "width": 1308
+        }
+    ], 
+    "slug": "rymdkapsel", 
+    "summary": "rymdkapsel is a slow, meditiative strategy game set in space. It builds upon the legacy of Martins earlier games by requiring minimal user input, but that doesn't make you a passenger. It's rather the opposite as you are tasked with the higher level problem of building the best possible station and ordering your minions around.\n\nThe game originally launched on the Vita in early May 2013, and later had a wider release on iOS and Android in August.", 
+    "tags": [
+        18, 
+        268435469, 
+        268435471, 
+        268435488, 
+        536871882, 
+        536871906, 
+        536872060, 
+        536872407, 
+        536872817, 
+        536874204, 
+        536875046, 
+        536875152, 
+        536875875, 
+        536876216, 
+        536876543
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 82.6991176834523, 
+    "total_rating_count": 7, 
+    "updated_at": 1523265464730, 
+    "url": "https://www.igdb.com/games/rymdkapsel", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/253790"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://rymdkapsel.com"
+        }
+    ]
+}

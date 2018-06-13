@@ -1,0 +1,425 @@
+{
+    "aggregated_rating": 76.5, 
+    "aggregated_rating_count": 23, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "LEGO City Stories"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "zwra7n7oy0fh6nostvoy", 
+            "height": 1250, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zwra7n7oy0fh6nostvoy.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "lwrkdbyvz6pb1vny7jns", 
+            "height": 660, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lwrkdbyvz6pb1vny7jns.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "vmkxkk8efym8idsbvdse", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vmkxkk8efym8idsbvdse.jpg", 
+            "width": 1100
+        }, 
+        {
+            "cloudinary_id": "gvcsiuivwinwgw5my07f", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gvcsiuivwinwgw5my07f.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "wojglqqhzcmh90j4ynpp", 
+            "height": 870, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wojglqqhzcmh90j4ynpp.jpg", 
+            "width": 1200
+        }
+    ], 
+    "category": 0, 
+    "collection": 3689, 
+    "cover": {
+        "cloudinary_id": "gctqgrslwfyhpgwlvafq", 
+        "height": 903, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gctqgrslwfyhpgwlvafq.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1372168890257, 
+    "developers": [
+        1290
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": ""
+    }, 
+    "external": {
+        "steam": "578330"
+    }, 
+    "first_release_date": 1363564800000, 
+    "franchise": 51, 
+    "franchises": [
+        51
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        55752, 
+        17001, 
+        7329, 
+        36868, 
+        72373, 
+        25300, 
+        28815, 
+        28552, 
+        1905, 
+        19561
+    ], 
+    "genres": [
+        8, 
+        10, 
+        25, 
+        31
+    ], 
+    "id": 2177, 
+    "keywords": [
+        350, 
+        390, 
+        403, 
+        410, 
+        778, 
+        982, 
+        1019, 
+        1033, 
+        1459, 
+        1669, 
+        1783, 
+        2049, 
+        2152, 
+        2337, 
+        3794, 
+        3994, 
+        4134, 
+        4142, 
+        4157, 
+        4161, 
+        4181, 
+        4242, 
+        4359, 
+        4438, 
+        4484, 
+        4651, 
+        4738, 
+        4813, 
+        4842, 
+        4910, 
+        4927, 
+        4937, 
+        5011, 
+        5369, 
+        5507, 
+        5511, 
+        5655, 
+        6138, 
+        6711, 
+        7303, 
+        7503, 
+        9501, 
+        9951, 
+        11910
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "LEGO City Undercover", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        6, 
+        41, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.666666666666667, 
+    "publishers": [
+        70, 
+        50
+    ], 
+    "pulse_count": 31, 
+    "rating": 70.0857629028701, 
+    "rating_count": 10, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1491523200000, 
+            "human": "2017-Apr-07", 
+            "m": 4, 
+            "platform": 130, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491264000000, 
+            "human": "2017-Apr-04", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491264000000, 
+            "human": "2017-Apr-04", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491523200000, 
+            "human": "2017-Apr-07", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491264000000, 
+            "human": "2017-Apr-04", 
+            "m": 4, 
+            "platform": 6, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491264000000, 
+            "human": "2017-Apr-04", 
+            "m": 4, 
+            "platform": 49, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491264000000, 
+            "human": "2017-Apr-04", 
+            "m": 4, 
+            "platform": 48, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1363564800000, 
+            "human": "2013-Mar-18", 
+            "m": 3, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1364428800000, 
+            "human": "2013-Mar-28", 
+            "m": 3, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mjwvug4peksoastw8qlr", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mjwvug4peksoastw8qlr.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jyweaqswz37beexdocjv", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jyweaqswz37beexdocjv.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "v1pbulm6z0afpaeowem1", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v1pbulm6z0afpaeowem1.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "iynvfs2ldhrlaogouhlf", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iynvfs2ldhrlaogouhlf.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "cc7nftiwlxtqglhlburu", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cc7nftiwlxtqglhlburu.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rl6todmgh1qrou3260fl", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rl6todmgh1qrou3260fl.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "yjjguh0znzqkaudpvzmn", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yjjguh0znzqkaudpvzmn.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "a1ssubjbxjfrn02on9ns", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a1ssubjbxjfrn02on9ns.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "g8vhh54ckzruth4akvrr", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g8vhh54ckzruth4akvrr.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "f7j1fh4bl2k5t6uipook", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f7j1fh4bl2k5t6uipook.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ur6b3qamcfrm4zlw7dam", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ur6b3qamcfrm4zlw7dam.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "diucdsyvdh6lj1yashob", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/diucdsyvdh6lj1yashob.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "lego-city-undercover", 
+    "storyline": "Chase McCain returns to LEGO City after years of being away. The city that once embraced him now in the throes of a massive crime wave the likes of which have never been seen only once before.", 
+    "summary": "As Chase McCain, you'll become an expert at hand-to-hand combat, fighting your foes and wrestling them to the ground until you can slap the cuffs on 'em. The best officers are also pros at free running, jumping, climbing, and traversing the city on special blue and white bricks. Do you have what it takes?", 
+    "tags": [
+        1, 
+        27, 
+        38, 
+        268435464, 
+        268435466, 
+        268435481, 
+        268435487, 
+        536871262, 
+        536871302, 
+        536871315, 
+        536871322, 
+        536871690, 
+        536871894, 
+        536871931, 
+        536871945, 
+        536872371, 
+        536872581, 
+        536872695, 
+        536872961, 
+        536873064, 
+        536873249, 
+        536874706, 
+        536874906, 
+        536875046, 
+        536875054, 
+        536875069, 
+        536875073, 
+        536875093, 
+        536875154, 
+        536875271, 
+        536875350, 
+        536875396, 
+        536875563, 
+        536875650, 
+        536875725, 
+        536875754, 
+        536875822, 
+        536875839, 
+        536875849, 
+        536875923, 
+        536876281, 
+        536876419, 
+        536876423, 
+        536876567, 
+        536877050, 
+        536877623, 
+        536878215, 
+        536878415, 
+        536880413, 
+        536880863, 
+        536882822, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        27, 
+        38
+    ], 
+    "total_rating": 73.29288145143505, 
+    "total_rating_count": 33, 
+    "updated_at": 1528354862582, 
+    "url": "https://www.igdb.com/games/lego-city-undercover", 
+    "videos": [
+        {
+            "name": "Vehicles Trailer", 
+            "video_id": "OWMejUP75FE"
+        }, 
+        {
+            "name": "Hero Trailer", 
+            "video_id": "REh3m3qbza0"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "VW3F1UGmrYw"
+        }, 
+        {
+            "name": "Announcement Trailer", 
+            "video_id": "Qbg3nF9nExE"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Lego_City_Undercover"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.lego.com/en-us/city/games/legocityundercover"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/578330"
+        }
+    ]
+}

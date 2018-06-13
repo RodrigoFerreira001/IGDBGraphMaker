@@ -1,0 +1,148 @@
+{
+    "category": 0, 
+    "collection": 3370, 
+    "cover": {
+        "cloudinary_id": "rxrpqqva7p2fbezotgrj", 
+        "height": 440, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rxrpqqva7p2fbezotgrj.jpg", 
+        "width": 312
+    }, 
+    "created_at": 1499872510816, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1371686400000, 
+    "games": [
+        17446, 
+        10403, 
+        22399, 
+        30023, 
+        36608, 
+        34919, 
+        16468, 
+        23175, 
+        36594, 
+        40524
+    ], 
+    "id": 47656, 
+    "keywords": [
+        19, 
+        25, 
+        3627, 
+        4225
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Bugs vs. Tanks!", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        837
+    ], 
+    "rating": 53.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1371686400000, 
+            "human": "2013-Jun-20", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1371686400000, 
+            "human": "2013-Jun-20", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1374278400000, 
+            "human": "2013-Jul-20", 
+            "m": 7, 
+            "platform": 37, 
+            "region": 8, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tr9weonuwx7ppmbrwhag", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tr9weonuwx7ppmbrwhag.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "ki3olkc2wu2ptf9g2kky", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ki3olkc2wu2ptf9g2kky.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "ta7rpulgffo4wyjqvyja", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ta7rpulgffo4wyjqvyja.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "fzajrr4h8ntiqdpx8gcs", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fzajrr4h8ntiqdpx8gcs.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "deaqb07bvfcchoh6gwbm", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/deaqb07bvfcchoh6gwbm.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "u8bb5jpjynrbxznztlc0", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u8bb5jpjynrbxznztlc0.jpg", 
+            "width": 400
+        }
+    ], 
+    "slug": "bugs-vs-tanks", 
+    "summary": "An action game developed by Keiji Inafune's Comcept studio and Level-5.", 
+    "tags": [
+        1, 
+        536870931, 
+        536870937, 
+        536874539, 
+        536875137
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 53.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1521719092702, 
+    "url": "https://www.igdb.com/games/bugs-vs-tanks", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://level5ia.com/blackbox/"
+        }
+    ]
+}

@@ -1,0 +1,762 @@
+{
+    "aggregated_rating": 78.6666666666667, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "ARCADE GAME SERIES: Pac-Man"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Puck-Man"
+        }, 
+        {
+            "name": "Puck Man"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30d1\u30c3\u30af\u30de\u30f3"
+        }
+    ], 
+    "category": 0, 
+    "collection": 526, 
+    "cover": {
+        "cloudinary_id": "fjha7u66xzhwtlpqyjtf", 
+        "height": 1000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fjha7u66xzhwtlpqyjtf.jpg", 
+        "width": 774
+    }, 
+    "created_at": 1374872656745, 
+    "developers": [
+        13956
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 327801600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        7452, 
+        2751, 
+        358, 
+        2636, 
+        50327, 
+        18167, 
+        7170, 
+        25151, 
+        20900, 
+        7344
+    ], 
+    "genres": [
+        9, 
+        15, 
+        33
+    ], 
+    "id": 2750, 
+    "keywords": [
+        16, 
+        339, 
+        394, 
+        558, 
+        687, 
+        960, 
+        1158, 
+        1293, 
+        1437, 
+        1440, 
+        1682, 
+        1705, 
+        2152, 
+        2416, 
+        2478, 
+        2678, 
+        2875, 
+        3079, 
+        3699, 
+        3782, 
+        4134, 
+        4144, 
+        4148, 
+        4162, 
+        4163, 
+        4169, 
+        4184, 
+        4206, 
+        4207, 
+        4208, 
+        4239, 
+        4288, 
+        4297, 
+        4400, 
+        4438, 
+        4484, 
+        4485, 
+        4492, 
+        4522, 
+        4523, 
+        4541, 
+        4605, 
+        4611, 
+        4613, 
+        4695, 
+        4727, 
+        4749, 
+        4754, 
+        4779, 
+        4869, 
+        4890, 
+        4918, 
+        4925, 
+        4958, 
+        5030, 
+        5093, 
+        5096, 
+        5175, 
+        5208, 
+        5265, 
+        5360, 
+        5417, 
+        5442, 
+        5450, 
+        5523, 
+        5633, 
+        5645, 
+        5647, 
+        5730, 
+        5744, 
+        5745, 
+        5746, 
+        5747, 
+        5801, 
+        5802, 
+        5803, 
+        5804, 
+        5806, 
+        6018, 
+        6365, 
+        6490, 
+        6505, 
+        7028, 
+        7280, 
+        8100, 
+        8157, 
+        8286, 
+        9661, 
+        10095, 
+        10172, 
+        10205, 
+        10211, 
+        11209, 
+        11566, 
+        11789, 
+        11853, 
+        14006, 
+        14126, 
+        14195, 
+        14661
+    ], 
+    "name": "Pac-Man", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        74, 
+        71, 
+        52, 
+        67, 
+        35, 
+        45, 
+        6, 
+        36, 
+        66, 
+        59, 
+        13, 
+        65, 
+        127, 
+        75, 
+        149, 
+        152, 
+        41, 
+        125, 
+        157, 
+        120, 
+        15, 
+        26, 
+        77, 
+        47, 
+        37, 
+        33, 
+        5, 
+        18, 
+        55, 
+        129, 
+        27
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 3.666666666666667, 
+    "publishers": [
+        13956, 
+        10317, 
+        2067, 
+        13721, 
+        1474, 
+        2406, 
+        1121
+    ], 
+    "pulse_count": 6, 
+    "rating": 82.30429965416191, 
+    "rating_count": 43, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1309996800000, 
+            "human": "2011-Jul-07", 
+            "m": 7, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1312416000000, 
+            "human": "2011-Aug-04", 
+            "m": 8, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1314835200000, 
+            "human": "2011-Sep-01", 
+            "m": 9, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1368576000000, 
+            "human": "2013-May-15", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1367452800000, 
+            "human": "2013-May-02", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1367452800000, 
+            "human": "2013-May-02", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1176768000000, 
+            "human": "2007-Apr-17", 
+            "m": 4, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1176422400000, 
+            "human": "2007-Apr-13", 
+            "m": 4, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1179100800000, 
+            "human": "2007-May-14", 
+            "m": 5, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 157, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 152, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 75, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 410140800000, 
+            "human": "1982", 
+            "m": 12, 
+            "platform": 65, 
+            "region": 2, 
+            "y": 1982
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 129, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 77, 
+            "region": 5, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 0, 
+            "date": 721612800000, 
+            "human": "1992-Nov-13", 
+            "m": 11, 
+            "platform": 149, 
+            "region": 5, 
+            "y": 1992
+        }, 
+        {
+            "category": 0, 
+            "date": 935625600000, 
+            "human": "1999-Aug-26", 
+            "m": 8, 
+            "platform": 120, 
+            "region": 5, 
+            "y": 1999
+        }, 
+        {
+            "category": 0, 
+            "date": 439084800000, 
+            "human": "1983-Dec-01", 
+            "m": 12, 
+            "platform": 125, 
+            "region": 5, 
+            "y": 1983
+        }, 
+        {
+            "category": 0, 
+            "date": 1294099200000, 
+            "human": "2011-Jan-04", 
+            "m": 1, 
+            "platform": 74, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1176422400000, 
+            "human": "2007-Apr-13", 
+            "m": 4, 
+            "platform": 47, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 2, 
+            "date": 1072828800000, 
+            "human": "2003", 
+            "m": 12, 
+            "platform": 55, 
+            "region": 8, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 665107200000, 
+            "human": "1991-Jan-29", 
+            "m": 1, 
+            "platform": 35, 
+            "region": 5, 
+            "y": 1991
+        }, 
+        {
+            "category": 0, 
+            "date": 658713600000, 
+            "human": "1990-Nov-16", 
+            "m": 11, 
+            "platform": 33, 
+            "region": 5, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 27, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 0, 
+            "date": 468201600000, 
+            "human": "1984-Nov-02", 
+            "m": 11, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 67, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 378604800000, 
+            "human": "1981", 
+            "m": 12, 
+            "platform": 71, 
+            "region": 5, 
+            "y": 1981
+        }, 
+        {
+            "category": 2, 
+            "date": 410140800000, 
+            "human": "1982", 
+            "m": 12, 
+            "platform": 66, 
+            "region": 2, 
+            "y": 1982
+        }, 
+        {
+            "category": 2, 
+            "date": 410140800000, 
+            "human": "1982", 
+            "m": 12, 
+            "platform": 59, 
+            "region": 2, 
+            "y": 1982
+        }, 
+        {
+            "category": 2, 
+            "date": 1262217600000, 
+            "human": "2009", 
+            "m": 12, 
+            "platform": 127, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1081468800000, 
+            "human": "2004-Apr-09", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1393372800000, 
+            "human": "2014-Feb-26", 
+            "m": 2, 
+            "platform": 36, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1393286400000, 
+            "human": "2014-Feb-25", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 327801600000, 
+            "human": "1980-May-22", 
+            "m": 5, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1980
+        }, 
+        {
+            "category": 1, 
+            "date": 339206400000, 
+            "human": "1980-Oct", 
+            "m": 10, 
+            "platform": 52, 
+            "region": 2, 
+            "y": 1980
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "kr4ab83g3iclfdfznbtt", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kr4ab83g3iclfdfznbtt.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "lj2kcqipjyn6blp6qqgo", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lj2kcqipjyn6blp6qqgo.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "fqsevqrwrwoybmhqh145", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fqsevqrwrwoybmhqh145.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "v2mtc3nrgfxmldu22k9g", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v2mtc3nrgfxmldu22k9g.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "xpuxy1rebcfuvuvnjmxe", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xpuxy1rebcfuvuvnjmxe.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "j3w4exqo8e9q5rzqp2zc", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j3w4exqo8e9q5rzqp2zc.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "q7zchepiti3kzcslb0oi", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q7zchepiti3kzcslb0oi.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "uit2mklgvhh3fkacw9cw", 
+            "height": 290, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uit2mklgvhh3fkacw9cw.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "afl3b62iw0owcit4nwhh", 
+            "height": 290, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/afl3b62iw0owcit4nwhh.jpg", 
+            "width": 319
+        }, 
+        {
+            "cloudinary_id": "upvsfbd3inxtk4yygswk", 
+            "height": 288, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/upvsfbd3inxtk4yygswk.jpg", 
+            "width": 322
+        }, 
+        {
+            "cloudinary_id": "u182ubxsvax4gsf3awjx", 
+            "height": 290, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u182ubxsvax4gsf3awjx.jpg", 
+            "width": 319
+        }, 
+        {
+            "cloudinary_id": "v1urtvrki2fao4uxl42u", 
+            "height": 783, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v1urtvrki2fao4uxl42u.jpg", 
+            "width": 620
+        }
+    ], 
+    "slug": "pac-man", 
+    "summary": "Pac-Man is an arcade game developed by Namco and first released in Japan on May 22, 1980. it is considered one of the classics of the medium, virtually synonymous with video games, and an icon of 1980s popular culture. The player controls Pac-Man through a maze, eating pac-dots (also called pellets or just dots). When all pac-dots are eaten, Pac-Man is taken to the next stage. Four enemies (Blinky, Pinky, Inky and Clyde) roam the maze, trying to catch Pac-Man. If an enemy touches Pac-Man, a life is lost and the Pac-Man itself withers and dies. When all lives have been lost, the game ends. Near the corners of the maze are four larger, flashing dots known as power pellets that provide Pac-Man with the temporary ability to eat the enemies. The enemies turn deep blue, reverse direction and usually move more slowly. When an enemy is eaten, its eyes remain and return to the center box where it is regenerated in its normal color. Blue enemies flash white to signal that they are about to become dangerous again and the length of time for which the enemies remain vulnerable varies from one stage to the next, generally becoming shorter as the game progresses.", 
+    "tags": [
+        1, 
+        21, 
+        268435465, 
+        268435471, 
+        268435489, 
+        536870928, 
+        536871251, 
+        536871306, 
+        536871470, 
+        536871599, 
+        536871872, 
+        536872070, 
+        536872205, 
+        536872349, 
+        536872352, 
+        536872594, 
+        536872617, 
+        536873064, 
+        536873328, 
+        536873390, 
+        536873590, 
+        536873787, 
+        536873991, 
+        536874611, 
+        536874694, 
+        536875046, 
+        536875056, 
+        536875060, 
+        536875074, 
+        536875075, 
+        536875081, 
+        536875096, 
+        536875118, 
+        536875119, 
+        536875120, 
+        536875151, 
+        536875200, 
+        536875209, 
+        536875312, 
+        536875350, 
+        536875396, 
+        536875397, 
+        536875404, 
+        536875434, 
+        536875435, 
+        536875453, 
+        536875517, 
+        536875523, 
+        536875525, 
+        536875607, 
+        536875639, 
+        536875661, 
+        536875666, 
+        536875691, 
+        536875781, 
+        536875802, 
+        536875830, 
+        536875837, 
+        536875870, 
+        536875942, 
+        536876005, 
+        536876008, 
+        536876087, 
+        536876120, 
+        536876177, 
+        536876272, 
+        536876329, 
+        536876354, 
+        536876362, 
+        536876435, 
+        536876545, 
+        536876557, 
+        536876559, 
+        536876642, 
+        536876656, 
+        536876657, 
+        536876658, 
+        536876659, 
+        536876713, 
+        536876714, 
+        536876715, 
+        536876716, 
+        536876718, 
+        536876930, 
+        536877277, 
+        536877402, 
+        536877417, 
+        536877940, 
+        536878192, 
+        536879012, 
+        536879069, 
+        536879198, 
+        536880573, 
+        536881007, 
+        536881084, 
+        536881117, 
+        536881123, 
+        536882121, 
+        536882478, 
+        536882701, 
+        536882765, 
+        536884918, 
+        536885038, 
+        536885107, 
+        536885573, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        21
+    ], 
+    "total_rating": 80.4854831604143, 
+    "total_rating_count": 46, 
+    "updated_at": 1526069753718, 
+    "url": "https://www.igdb.com/games/pac-man", 
+    "videos": [
+        {
+            "name": "VR", 
+            "video_id": "9-ot7wUVgyo"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://pacman.com/"
+        }
+    ]
+}

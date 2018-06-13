@@ -1,0 +1,278 @@
+{
+    "aggregated_rating": 100.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "fa6pu1dt9koc0bll2tg1", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fa6pu1dt9koc0bll2tg1.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1411864834912, 
+    "developers": [
+        3688
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "287980"
+    }, 
+    "first_release_date": 1445472000000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19934, 
+        6732, 
+        19290, 
+        29173, 
+        19376, 
+        18167, 
+        55590, 
+        72373, 
+        55689, 
+        18623
+    ], 
+    "genres": [
+        9, 
+        13, 
+        15, 
+        32
+    ], 
+    "hypes": 1, 
+    "id": 7767, 
+    "keywords": [
+        117, 
+        994, 
+        1019, 
+        1148, 
+        1158, 
+        1225, 
+        1226, 
+        1429, 
+        1495, 
+        2875, 
+        4134, 
+        4138, 
+        4146, 
+        4147, 
+        4148, 
+        4150, 
+        4151, 
+        4365, 
+        4520, 
+        4609, 
+        4958, 
+        5360, 
+        5379, 
+        5632
+    ], 
+    "name": "Mini Metro", 
+    "platforms": [
+        34, 
+        6, 
+        39, 
+        92, 
+        14, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 3.333333333333333, 
+    "publishers": [
+        3688, 
+        4363, 
+        11360
+    ], 
+    "pulse_count": 2, 
+    "rating": 74.67179980719979, 
+    "rating_count": 26, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1451001600000, 
+            "human": "2015-Dec-25", 
+            "m": 12, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1445472000000, 
+            "human": "2015-Oct-22", 
+            "m": 10, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 130, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1446768000000, 
+            "human": "2015-Nov-06", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1446768000000, 
+            "human": "2015-Nov-06", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1446768000000, 
+            "human": "2015-Nov-06", 
+            "m": 11, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1446768000000, 
+            "human": "2015-Nov-06", 
+            "m": 11, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1476748800000, 
+            "human": "2016-Oct-18", 
+            "m": 10, 
+            "platform": 34, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "u0rmlwatc1whsebc9sfv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u0rmlwatc1whsebc9sfv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qs6avqzt2alxiiathdeq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qs6avqzt2alxiiathdeq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "aacvmvss7ssxs3d3m8ap", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aacvmvss7ssxs3d3m8ap.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mohmreqn27qwrpsmiaca", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mohmreqn27qwrpsmiaca.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zy4isii30pcvoasy5o1n", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zy4isii30pcvoasy5o1n.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "mini-metro", 
+    "summary": "In Mini Metro, you take on the task of designing the subway layout for a rapidly expanding city. Your city starts with three stations. Draw routes between these stations to connect them with subway lines. Commuters travel along your lines to get around the city as fast as they can. Each station can only hold a handful of waiting commuters so your subway network will need to be well-designed to avoid delays.\n\nThe city is growing. More stations are opening, and commuters are appearing faster. The demands on your network are ever-increasing. You'll be constantly redesigning your lines to maximise efficiency. The new assets you earn every week will help immensely \u2014 as long as they're used wisely. \n\nEventually your network will fail. Stations will open too quickly. Commuters will crowd the platforms. How long the city keeps moving is up to you.", 
+    "tags": [
+        28, 
+        268435465, 
+        268435469, 
+        268435471, 
+        268435488, 
+        536871029, 
+        536871906, 
+        536871931, 
+        536872060, 
+        536872070, 
+        536872137, 
+        536872138, 
+        536872341, 
+        536872407, 
+        536873787, 
+        536875046, 
+        536875050, 
+        536875058, 
+        536875059, 
+        536875060, 
+        536875062, 
+        536875063, 
+        536875277, 
+        536875432, 
+        536875521, 
+        536875870, 
+        536876272, 
+        536876291, 
+        536876544, 
+        1073741827
+    ], 
+    "themes": [
+        28
+    ], 
+    "total_rating": 87.3358999035999, 
+    "total_rating_count": 27, 
+    "updated_at": 1528534435314, 
+    "url": "https://www.igdb.com/games/mini-metro", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "w22NFOtaWVU"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "WJHKzzPtDDI"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "Zbk_msu-iYI"
+        }, 
+        {
+            "name": "Teaser", 
+            "video_id": "4OVIDHX-XD8"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 12, 
+            "url": "https://play.google.com/store/apps/details?id=nz.co.codepoint.minimetro&hl=en&gl=us"
+        }, 
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/mini-metro/id837860959?mt=8&uo=4"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://dinopoloclub.com/minimetro"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/287980"
+        }
+    ]
+}

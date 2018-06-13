@@ -1,0 +1,146 @@
+{
+    "aggregated_rating": 77.5, 
+    "aggregated_rating_count": 3, 
+    "category": 1, 
+    "collection": 135, 
+    "cover": {
+        "cloudinary_id": "i25lhomghpdan7phdb7x", 
+        "height": 480, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/i25lhomghpdan7phdb7x.jpg", 
+        "width": 480
+    }, 
+    "created_at": 1491340483507, 
+    "developers": [
+        4223
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1477353600000, 
+    "game": 8260, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        236, 
+        36792, 
+        23719, 
+        26163, 
+        1221, 
+        14605, 
+        37088, 
+        26848, 
+        47823, 
+        43130
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 28065, 
+    "name": "King's Quest - Chapter 5: The Good Knight", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        24
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "slug": "kings-quest-chapter-5-the-good-knight", 
+    "summary": "In his latest adventure, King Graham tells of his final battle with the Goblin Sorcerer Manannan and his final adventure.", 
+    "tags": [
+        17, 
+        268435487
+    ], 
+    "themes": [
+        17
+    ], 
+    "total_rating": 77.5, 
+    "total_rating_count": 3, 
+    "updated_at": 1491513341509, 
+    "url": "https://www.igdb.com/games/kings-quest-chapter-5-the-good-knight", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "iJHOhmmnGU4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/373491"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://gaming.youtube.com/game/UC9E3raw6cUQ_t0mB-DvoU_A"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://kingsquest.wikia.com/wiki/Chapter_V:_The_Good_Knight"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.sierra.com/kingsquest"
+        }
+    ]
+}

@@ -1,0 +1,370 @@
+{
+    "aggregated_rating": 88.9130434782609, 
+    "aggregated_rating_count": 29, 
+    "artworks": [
+        {
+            "cloudinary_id": "ogoeq52lwqow9lsnojzx", 
+            "height": 680, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ogoeq52lwqow9lsnojzx.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "faz6smqhpjpgpyvigyuc", 
+            "height": 460, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/faz6smqhpjpgpyvigyuc.jpg", 
+            "width": 1500
+        }, 
+        {
+            "cloudinary_id": "wfbsamtghbv8ymwewsdt", 
+            "height": 650, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wfbsamtghbv8ymwewsdt.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "bhdihbnwdq5eh7euvxzs", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bhdihbnwdq5eh7euvxzs.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "mvtttzvoirnvwibrgvpt", 
+            "height": 710, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mvtttzvoirnvwibrgvpt.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "ieu5fkkxvwm0nesexbtf", 
+            "height": 700, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ieu5fkkxvwm0nesexbtf.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "myx4h1o0oqw0a7nlz7cn", 
+            "height": 780, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/myx4h1o0oqw0a7nlz7cn.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "fxrkyzoqdbfzsocmtvqo", 
+            "height": 650, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fxrkyzoqdbfzsocmtvqo.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "b8ukdrmfbvdrrsl65guk", 
+            "height": 650, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b8ukdrmfbvdrrsl65guk.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "azr3qspvkeizloyctgsp", 
+            "height": 690, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/azr3qspvkeizloyctgsp.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "su8d2znotgdx1szlrvua", 
+            "height": 760, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/su8d2znotgdx1szlrvua.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "s89vyiogyaplxrfkefwx", 
+            "height": 955, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s89vyiogyaplxrfkefwx.jpg", 
+            "width": 1200
+        }
+    ], 
+    "category": 0, 
+    "collection": 2045, 
+    "cover": {
+        "cloudinary_id": "fhbeilnghyhhmjqhinqa", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fhbeilnghyhhmjqhinqa.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1454930150380, 
+    "developers": [
+        1002
+    ], 
+    "dlcs": [
+        36700
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "first_release_date": 1477612800000, 
+    "game_engines": [
+        3
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        18320, 
+        11156, 
+        7349, 
+        36952, 
+        28552, 
+        25076, 
+        11567, 
+        27314, 
+        7350, 
+        36950
+    ], 
+    "genres": [
+        5
+    ], 
+    "hypes": 19, 
+    "id": 17447, 
+    "keywords": [
+        167, 
+        170, 
+        453, 
+        784, 
+        1293, 
+        2071, 
+        2155, 
+        4134, 
+        4161, 
+        4221, 
+        4245, 
+        4345, 
+        4357, 
+        4386, 
+        4520, 
+        4586, 
+        4588, 
+        4883, 
+        4893, 
+        4895, 
+        4903, 
+        5409, 
+        6588, 
+        14050, 
+        14051, 
+        14052, 
+        14062, 
+        14063, 
+        14070
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 16, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Titanfall 2", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 16.0, 
+    "publishers": [
+        1
+    ], 
+    "pulse_count": 355, 
+    "rating": 82.0233322621455, 
+    "rating_count": 76, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1477612800000, 
+            "human": "2016-Oct-28", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477612800000, 
+            "human": "2016-Oct-28", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477612800000, 
+            "human": "2016-Oct-28", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477612800000, 
+            "human": "2016-Oct-28", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477612800000, 
+            "human": "2016-Oct-28", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477612800000, 
+            "human": "2016-Oct-28", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "eaekyhzn9mhhmmlxunbn", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eaekyhzn9mhhmmlxunbn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "heb6qececcuwwawf7ejl", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/heb6qececcuwwawf7ejl.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "doorxae58bgtpzrt7jn8", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/doorxae58bgtpzrt7jn8.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "qy2bgghguemmc0gdejw0", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qy2bgghguemmc0gdejw0.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "usxp23rj6x6vy4gnodu7", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/usxp23rj6x6vy4gnodu7.jpg", 
+            "width": 3840
+        }
+    ], 
+    "slug": "titanfall-2", 
+    "summary": "Titanfall 2 will deliver a crafted experience that explores the unique bond between man and machine. Playable offline, the single player campaign in Titanfall 2 will let fans step out onto the Frontier as a Militia rifleman with aspirations of becoming an elite Pilot. Stranded behind enemy lines and facing overwhelming odds, players must team up with a veteran Titan to uphold a mission they were never meant to carry out.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        536871079, 
+        536871082, 
+        536871365, 
+        536871696, 
+        536872205, 
+        536872983, 
+        536873067, 
+        536875046, 
+        536875073, 
+        536875133, 
+        536875157, 
+        536875257, 
+        536875269, 
+        536875298, 
+        536875432, 
+        536875498, 
+        536875500, 
+        536875795, 
+        536875805, 
+        536875807, 
+        536875815, 
+        536876321, 
+        536877500, 
+        536884962, 
+        536884963, 
+        536884964, 
+        536884974, 
+        536884975, 
+        536884982, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 85.4681878702032, 
+    "total_rating_count": 105, 
+    "updated_at": 1528432737546, 
+    "url": "https://www.igdb.com/games/titanfall-2", 
+    "videos": [
+        {
+            "name": "Teaser", 
+            "video_id": "hJ1r2f1Jv0Y"
+        }, 
+        {
+            "name": "Launch Trailer: Become One", 
+            "video_id": "zBcWai9LUG8"
+        }, 
+        {
+            "name": "Multiplayer Gameplay Trailer", 
+            "video_id": "BI6M5-iaERQ"
+        }, 
+        {
+            "name": "Single Player Gameplay Trailer", 
+            "video_id": "VFjGz71pH_w"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 14, 
+            "url": "https://www.reddit.com/r/titanfall"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/TitanFallGame"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/titanfallgame"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/Titanfallgame"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Titanfall_2"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://titanfall.wikia.com/wiki/Titanfall_2"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.ea.com/games/titanfall/titanfall-2"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/Titanfallgame"
+        }
+    ]
+}

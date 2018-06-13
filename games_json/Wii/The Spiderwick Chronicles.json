@@ -1,0 +1,182 @@
+{
+    "aggregated_rating": 69.2, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "rehr7yeta9eyedokd7zy", 
+        "height": 317, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rehr7yeta9eyedokd7zy.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1391981416068, 
+    "developers": [
+        1046
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1202169600000, 
+    "franchise": 345, 
+    "franchises": [
+        345
+    ], 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        36926, 
+        19333, 
+        26766, 
+        47823, 
+        25300, 
+        36950, 
+        12632, 
+        11169, 
+        36534, 
+        55092
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 5182, 
+    "keywords": [
+        226, 
+        227, 
+        296, 
+        697, 
+        1026, 
+        1293, 
+        4142, 
+        4210, 
+        4382, 
+        4611, 
+        4658, 
+        5584, 
+        5782, 
+        6947, 
+        9292, 
+        10246, 
+        12123
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 8, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "The Spiderwick Chronicles", 
+    "platforms": [
+        6, 
+        12, 
+        20, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        24
+    ], 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1202169600000, 
+            "human": "2008-Feb-05", 
+            "m": 2, 
+            "platform": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1202169600000, 
+            "human": "2008-Feb-05", 
+            "m": 2, 
+            "platform": 12, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1202169600000, 
+            "human": "2008-Feb-05", 
+            "m": 2, 
+            "platform": 20, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1202169600000, 
+            "human": "2008-Feb-05", 
+            "m": 2, 
+            "platform": 6, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1202169600000, 
+            "human": "2008-Feb-05", 
+            "m": 2, 
+            "platform": 8, 
+            "y": 2008
+        }
+    ], 
+    "slug": "the-spiderwick-chronicles", 
+    "summary": "Based loosely on the events of the motion picture, The Spiderwick Chronicles puts you in control as Jared, Simon and Mallory.", 
+    "tags": [
+        1, 
+        268435487, 
+        536871138, 
+        536871139, 
+        536871208, 
+        536871609, 
+        536871938, 
+        536872205, 
+        536875054, 
+        536875122, 
+        536875294, 
+        536875523, 
+        536875570, 
+        536876496, 
+        536876694, 
+        536877859, 
+        536880204, 
+        536881158, 
+        536883035, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 59.6, 
+    "total_rating_count": 6, 
+    "updated_at": 1520002649113, 
+    "url": "https://www.igdb.com/games/the-spiderwick-chronicles"
+}

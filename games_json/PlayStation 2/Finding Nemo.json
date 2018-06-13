@@ -1,0 +1,182 @@
+{
+    "aggregated_rating": 61.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 4513, 
+    "cover": {
+        "cloudinary_id": "nu2ndolfhru3zjg9zb63", 
+        "height": 363, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nu2ndolfhru3zjg9zb63.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1390058966820, 
+    "developers": [
+        292, 
+        72, 
+        258
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "331450"
+    }, 
+    "first_release_date": 1052092800000, 
+    "franchise": 167, 
+    "franchises": [
+        167
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        23175, 
+        59516, 
+        13189, 
+        27314, 
+        55289, 
+        25222, 
+        25646, 
+        26914, 
+        25311, 
+        22425
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 3781, 
+    "keywords": [
+        534, 
+        1027, 
+        4142, 
+        4320, 
+        4382
+    ], 
+    "name": "Finding Nemo", 
+    "platforms": [
+        6, 
+        14, 
+        11, 
+        24, 
+        21, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        197
+    ], 
+    "rating": 60.0, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1052092800000, 
+            "human": "2003-May-05", 
+            "m": 5, 
+            "platform": 6, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1052092800000, 
+            "human": "2003-May-05", 
+            "m": 5, 
+            "platform": 14, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1052438400000, 
+            "human": "2003-May-09", 
+            "m": 5, 
+            "platform": 8, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1052438400000, 
+            "human": "2003-May-09", 
+            "m": 5, 
+            "platform": 11, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1052524800000, 
+            "human": "2003-May-10", 
+            "m": 5, 
+            "platform": 24, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1052697600000, 
+            "human": "2003-May-12", 
+            "m": 5, 
+            "platform": 21, 
+            "y": 2003
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qsdsbhhvtmbxukwhmauo", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qsdsbhhvtmbxukwhmauo.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "hqs7shtpvidxvxpjcb89", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hqs7shtpvidxvxpjcb89.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "ekcvxuzxrrz153zd0wix", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ekcvxuzxrrz153zd0wix.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "cybkczv0zh3hiiijv2ad", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cybkczv0zh3hiiijv2ad.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "guquvv25uzbnd6bdxmmn", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/guquvv25uzbnd6bdxmmn.jpg", 
+            "width": 800
+        }
+    ], 
+    "slug": "finding-nemo", 
+    "summary": "Based off the 2003 feature film, Disney\u2022Pixar's Finding Nemo, play as Marlin and Nemo in two separate major story lines!", 
+    "tags": [
+        1, 
+        34, 
+        268435487, 
+        536871446, 
+        536871939, 
+        536875054, 
+        536875232, 
+        536875294, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        34
+    ], 
+    "total_rating": 60.5, 
+    "total_rating_count": 6, 
+    "updated_at": 1527758256657, 
+    "url": "https://www.igdb.com/games/finding-nemo", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/331450"
+        }
+    ]
+}

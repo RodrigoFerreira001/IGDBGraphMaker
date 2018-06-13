@@ -1,0 +1,382 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "3D Galaxy Force 2"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "3D Galaxy Force II"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Galaxy Force 2"
+        }, 
+        {
+            "name": "Galaxy Force"
+        }
+    ], 
+    "category": 0, 
+    "collection": 5045, 
+    "cover": {
+        "cloudinary_id": "xralh2sflrdjdhnrx05e", 
+        "height": 759, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xralh2sflrdjdhnrx05e.jpg", 
+        "width": 540
+    }, 
+    "created_at": 1400167342520, 
+    "developers": [
+        830
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "34310"
+    }, 
+    "first_release_date": 599529600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        68287, 
+        36950, 
+        7350, 
+        27314, 
+        19448, 
+        25300, 
+        10724, 
+        3277, 
+        28029, 
+        11253
+    ], 
+    "genres": [
+        5, 
+        33
+    ], 
+    "id": 6799, 
+    "keywords": [
+        589, 
+        947, 
+        970, 
+        1025, 
+        1057, 
+        1058, 
+        1158, 
+        1705, 
+        2109, 
+        2152, 
+        4134, 
+        4135, 
+        4163, 
+        4282, 
+        4522, 
+        4841, 
+        4910, 
+        4958, 
+        4959, 
+        4965, 
+        5029, 
+        5030, 
+        5525, 
+        5814, 
+        5904, 
+        6582, 
+        6767, 
+        7524, 
+        8156, 
+        9849
+    ], 
+    "name": "Galaxy Force II", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        29, 
+        52, 
+        63, 
+        118, 
+        16, 
+        32, 
+        15, 
+        26, 
+        25, 
+        5, 
+        64, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        11739, 
+        1884, 
+        66
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1233619200000, 
+            "human": "2009-Feb-03", 
+            "m": 2, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1241136000000, 
+            "human": "2009-May-01", 
+            "m": 5, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1242000000000, 
+            "human": "2009-May-11", 
+            "m": 5, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 0, 
+            "date": 667785600000, 
+            "human": "1991-Mar-01", 
+            "m": 3, 
+            "platform": 118, 
+            "region": 5, 
+            "y": 1991
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 25, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 16, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 0, 
+            "date": 1180656000000, 
+            "human": "2007-Jun-01", 
+            "m": 6, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 2, 
+            "date": 915062400000, 
+            "human": "1998", 
+            "m": 12, 
+            "platform": 32, 
+            "region": 5, 
+            "y": 1998
+        }, 
+        {
+            "category": 0, 
+            "date": 684720000000, 
+            "human": "1991-Sep-13", 
+            "m": 9, 
+            "platform": 29, 
+            "region": 5, 
+            "y": 1991
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 64, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 64, 
+            "y": 1989
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zopssm5xypuckosibhbe", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zopssm5xypuckosibhbe.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "wa747zy6p3s6wkixqtor", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wa747zy6p3s6wkixqtor.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "j2cgdqrero7d1lauf2y8", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j2cgdqrero7d1lauf2y8.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "ubnxjzladmnfwtgodxmw", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ubnxjzladmnfwtgodxmw.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "viag4lmaymgv4mv8cexz", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/viag4lmaymgv4mv8cexz.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "pzpdik2ubduno9tllp45", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pzpdik2ubduno9tllp45.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "kdshukrfnjpufbps7o8x", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kdshukrfnjpufbps7o8x.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "hsyv7sn22ncqgqjclsye", 
+            "height": 370, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hsyv7sn22ncqgqjclsye.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "ef0xbjkh2ryz3ugjzre8", 
+            "height": 370, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ef0xbjkh2ryz3ugjzre8.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "texvdeltl4oveycmbm7q", 
+            "height": 370, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/texvdeltl4oveycmbm7q.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "xvta7kxhtc6tvk2dns7t", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xvta7kxhtc6tvk2dns7t.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "k1lwqmalgmjvr8sc7lfc", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k1lwqmalgmjvr8sc7lfc.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "galaxy-force-ii", 
+    "summary": "The peaceful and prosperous solar system Junos was located at the end of the Milky Way. Those who called its five planets home had no idea what was about to happen... \nHalcyon, ruler of the Fourth Empire, had Junos marked as its final target in the galactic massacre, and had sent the bulk of his attacking force in with a single purpose \u2013 the elimination of all life forms in the system, and the construction of a gigantic fortress on each of the five planets from which to rule the galaxy. \n \nGalaxy Force II is not a true sequel to the orginal game but a an enhanced version of the original. It was released roughly two months after the release of the first part thus making it obsolete.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435489, 
+        536871501, 
+        536871859, 
+        536871882, 
+        536871937, 
+        536871969, 
+        536871970, 
+        536872070, 
+        536872617, 
+        536873021, 
+        536873064, 
+        536875046, 
+        536875047, 
+        536875075, 
+        536875194, 
+        536875434, 
+        536875753, 
+        536875822, 
+        536875870, 
+        536875871, 
+        536875877, 
+        536875941, 
+        536875942, 
+        536876437, 
+        536876726, 
+        536876816, 
+        536877494, 
+        536877679, 
+        536878436, 
+        536879068, 
+        536880761, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "updated_at": 1523279812858, 
+    "url": "https://www.igdb.com/games/galaxy-force-ii", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.sega.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/34310"
+        }
+    ]
+}

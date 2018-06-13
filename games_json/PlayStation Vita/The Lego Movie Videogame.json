@@ -1,0 +1,429 @@
+{
+    "aggregated_rating": 63.5, 
+    "aggregated_rating_count": 10, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "The LEGO Movie Video Game"
+        }
+    ], 
+    "category": 0, 
+    "collection": 3015, 
+    "cover": {
+        "cloudinary_id": "cjofglgi863fpk1hbx2h", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cjofglgi863fpk1hbx2h.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1391400083037, 
+    "developers": [
+        1290
+    ], 
+    "external": {
+        "steam": "267530"
+    }, 
+    "first_release_date": 1391472000000, 
+    "franchise": 51, 
+    "franchises": [
+        51
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        27421, 
+        36868, 
+        55752, 
+        7349, 
+        76098, 
+        72373, 
+        19516, 
+        28113, 
+        25300, 
+        1905
+    ], 
+    "genres": [
+        31
+    ], 
+    "hypes": 1, 
+    "id": 4845, 
+    "keywords": [
+        350, 
+        410, 
+        1033, 
+        1293, 
+        1783, 
+        2337, 
+        2543, 
+        3794, 
+        4142, 
+        4161, 
+        4181, 
+        4186, 
+        4245, 
+        4287, 
+        4329, 
+        4347, 
+        4382, 
+        4525, 
+        4576, 
+        4611, 
+        4651, 
+        4694, 
+        4717, 
+        4737, 
+        4738, 
+        4831, 
+        4890, 
+        4925, 
+        4930, 
+        4931, 
+        4932, 
+        4933, 
+        4937, 
+        4964, 
+        5328, 
+        5374, 
+        5386, 
+        5498, 
+        5503, 
+        5782, 
+        5850, 
+        5851, 
+        5852, 
+        5853
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "The Lego Movie Videogame", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        6, 
+        41, 
+        46, 
+        9, 
+        48, 
+        12, 
+        49, 
+        37
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 3.666666666666667, 
+    "publishers": [
+        50
+    ], 
+    "pulse_count": 1, 
+    "rating": 65.21905313550579, 
+    "rating_count": 11, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1392336000000, 
+            "human": "2014-Feb-14", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1391731200000, 
+            "human": "2014-Feb-07", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1392336000000, 
+            "human": "2014-Feb-14", 
+            "m": 2, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1391731200000, 
+            "human": "2014-Feb-07", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1392336000000, 
+            "human": "2014-Feb-14", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1391731200000, 
+            "human": "2014-Feb-07", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1391472000000, 
+            "human": "2014-Feb-04", 
+            "m": 2, 
+            "platform": 49, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1391472000000, 
+            "human": "2014-Feb-04", 
+            "m": 2, 
+            "platform": 6, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1391472000000, 
+            "human": "2014-Feb-04", 
+            "m": 2, 
+            "platform": 37, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1391472000000, 
+            "human": "2014-Feb-04", 
+            "m": 2, 
+            "platform": 9, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1391472000000, 
+            "human": "2014-Feb-04", 
+            "m": 2, 
+            "platform": 48, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1391472000000, 
+            "human": "2014-Feb-04", 
+            "m": 2, 
+            "platform": 46, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1391472000000, 
+            "human": "2014-Feb-04", 
+            "m": 2, 
+            "platform": 41, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1391472000000, 
+            "human": "2014-Feb-04", 
+            "m": 2, 
+            "platform": 12, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bkoewr4u2bkyucphleij", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bkoewr4u2bkyucphleij.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "sldudxxft2ktkglym8hf", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sldudxxft2ktkglym8hf.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "iev5vchksmwpzg2jl3ka", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iev5vchksmwpzg2jl3ka.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "iiutzh5wmhvk5djwpnxe", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iiutzh5wmhvk5djwpnxe.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "wboha1kuh13bceke3mln", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wboha1kuh13bceke3mln.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "eqxdinjsp1btutxjjjlk", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eqxdinjsp1btutxjjjlk.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "elq5ktcs9j6hbymb3fv1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/elq5ktcs9j6hbymb3fv1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hwfdvslfnj7zmu4n057f", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hwfdvslfnj7zmu4n057f.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mwlzdijjbc1gzyzs5pfq", 
+            "height": 1045, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mwlzdijjbc1gzyzs5pfq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wxjnsqomognluyumvhtw", 
+            "height": 1045, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wxjnsqomognluyumvhtw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kmpu2uc6oeuziysrrcsz", 
+            "height": 1056, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kmpu2uc6oeuziysrrcsz.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "the-lego-movie-videogame", 
+    "summary": "Transform the ordinary into the extraordinary and experience the ultimate LEGO building experience in the all new The LEGO\u00ae Movie Videogame. Step into the world of Emmet, an ordinary, rules-following, perfectly average citizen who is mistakenly identified as the most extraordinary person and the key to saving the world. Players guide him as he is drafted into a fellowship of strangers on an epic quest to stop an evil tyrant, a journey for which Emmet is hopelessly and hilariously underprepared.", 
+    "tags": [
+        1, 
+        27, 
+        268435487, 
+        536871262, 
+        536871322, 
+        536871945, 
+        536872205, 
+        536872695, 
+        536873249, 
+        536873455, 
+        536874706, 
+        536875054, 
+        536875073, 
+        536875093, 
+        536875098, 
+        536875157, 
+        536875199, 
+        536875241, 
+        536875259, 
+        536875294, 
+        536875437, 
+        536875488, 
+        536875523, 
+        536875563, 
+        536875606, 
+        536875629, 
+        536875649, 
+        536875650, 
+        536875743, 
+        536875802, 
+        536875837, 
+        536875842, 
+        536875843, 
+        536875844, 
+        536875845, 
+        536875849, 
+        536875876, 
+        536876240, 
+        536876286, 
+        536876298, 
+        536876410, 
+        536876415, 
+        536876694, 
+        536876762, 
+        536876763, 
+        536876764, 
+        536876765, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 64.3595265677529, 
+    "total_rating_count": 21, 
+    "updated_at": 1528359030877, 
+    "url": "https://www.igdb.com/games/the-lego-movie-videogame", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "rHUZSMDPToo"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/The_Lego_Movie_Videogame"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.lego.com/thelegomovie"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/267530"
+        }
+    ]
+}

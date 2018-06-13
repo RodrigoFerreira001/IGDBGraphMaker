@@ -1,0 +1,121 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "sbcslmmg7jrssasu61wf", 
+        "height": 70, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sbcslmmg7jrssasu61wf.jpg", 
+        "width": 91
+    }, 
+    "created_at": 1499973860018, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 891388800000, 
+    "games": [
+        60044, 
+        25222, 
+        14047, 
+        19222, 
+        41348, 
+        26223, 
+        10225, 
+        27266, 
+        83207, 
+        83155
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 48957, 
+    "keywords": [
+        2875
+    ], 
+    "name": "Brain Drain", 
+    "platforms": [
+        159, 
+        33, 
+        56
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1275609600000, 
+            "human": "2010-Jun-04", 
+            "m": 6, 
+            "platform": 56, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1272240000000, 
+            "human": "2010-Apr-26", 
+            "m": 4, 
+            "platform": 56, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1273795200000, 
+            "human": "2010-May-14", 
+            "m": 5, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1277683200000, 
+            "human": "2010-Jun-28", 
+            "m": 6, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 891388800000, 
+            "human": "1998-Apr-01", 
+            "m": 4, 
+            "platform": 33, 
+            "region": 8, 
+            "y": 1998
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wg4sah1m2f4ucw0jfvlw", 
+            "height": 381, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wg4sah1m2f4ucw0jfvlw.jpg", 
+            "width": 254
+        }, 
+        {
+            "cloudinary_id": "eh8gjf5b0qkecmepfnqt", 
+            "height": 380, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eh8gjf5b0qkecmepfnqt.jpg", 
+            "width": 254
+        }, 
+        {
+            "cloudinary_id": "jvvfk7xfyry4rvcczrfo", 
+            "height": 382, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jvvfk7xfyry4rvcczrfo.jpg", 
+            "width": 253
+        }, 
+        {
+            "cloudinary_id": "zxjzvf0nbtbntnwx04jb", 
+            "height": 381, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zxjzvf0nbtbntnwx04jb.jpg", 
+            "width": 253
+        }
+    ], 
+    "slug": "brain-drain", 
+    "summary": "Brain Drain is a puzzle game in which the player has to recreate a pattern, consisting of different symbols like apples or hearts, which is shown in the corner of the screen. The main playing field consists of said symbols, but randomly switched around. The player controls a frame which encloses four of the symbols. When pressing a button, the symbols are rotated clockwise around the frame. Of course the levels have to be solved within a time limit. \n \nIn the higher difficulty levels, the player also has to deal with so-called special effects which occasionally kick in during play, e.g. some symbols get hidden by \"?\" blocks, symbols rotate on their own or the controls are reversed. Three power-ups can be earned by completing bonus levels or finishing a level really fast: clock (stops time for 20 seconds), flash (skips the current level) and credit (gives a second try after time has run out). Clock and flash have to be activated manually; credits is applied automatically. Besides the regular playing mode, there is also the \"Brain Race\" available which involves solving a certain number of levels (depending on the difficulty) as fast as possible.", 
+    "tags": [
+        268435465, 
+        536873787
+    ], 
+    "updated_at": 1518050861541, 
+    "url": "https://www.igdb.com/games/brain-drain"
+}

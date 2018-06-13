@@ -1,0 +1,358 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 10, 
+    "alternative_names": [
+        {
+            "name": "EDFIA"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "EDF Insect Armageddon"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "bssyglv1u06idhmduxz6", 
+            "height": 467, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bssyglv1u06idhmduxz6.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "vz8vkiftrzngutepswsx", 
+            "height": 494, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vz8vkiftrzngutepswsx.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "h5kextsvxquifcjoez28", 
+            "height": 790, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h5kextsvxquifcjoez28.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "utktz3vyccysinl9jhoa", 
+            "height": 1070, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/utktz3vyccysinl9jhoa.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "csjwvdovvpg9iq9yfdke", 
+            "height": 1088, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/csjwvdovvpg9iq9yfdke.jpg", 
+            "width": 1600
+        }
+    ], 
+    "category": 0, 
+    "collection": 818, 
+    "cover": {
+        "cloudinary_id": "xovchnswhvfxcm7ebdk4", 
+        "height": 2489, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xovchnswhvfxcm7ebdk4.jpg", 
+        "width": 2025
+    }, 
+    "created_at": 1394980822903, 
+    "developers": [
+        448
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is a third-person shooter in which players help members of an Earth Defense Force save a city from giant alien insects and robots. Players use machine guns, shotguns, rocket launchers, and turrets to shoot and kill fantasy creatures (e.g., alien spacecraft, giant ants, a robotic praying mantis). Realistic gunfire and explosions highlight the frenetic battles; enemies generally shriek and emit large splashes of green blood when hit. The game includes a photo gallery that depicts a few women in suggestive poses and/or outfits (e.g., fishnet stockings, short-shorts, tops that expose some cleavage). The words \"bastard,\"\"damn,\" and \"hell\" can be heard in the dialogue. "
+    }, 
+    "external": {
+        "steam": "23530"
+    }, 
+    "first_release_date": 1309824000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        7350, 
+        6732, 
+        11423, 
+        68287, 
+        21429, 
+        19082, 
+        28113, 
+        11253, 
+        36950, 
+        2113
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 5584, 
+    "keywords": [
+        167, 
+        236, 
+        328, 
+        575, 
+        864, 
+        970, 
+        1025, 
+        1158, 
+        1293, 
+        1739, 
+        1821, 
+        1971, 
+        2111, 
+        2962, 
+        3741, 
+        4004, 
+        4134, 
+        4150, 
+        4235, 
+        4245, 
+        4681, 
+        4698, 
+        4795, 
+        4992, 
+        5304, 
+        5350, 
+        5453, 
+        5633, 
+        5775, 
+        5783, 
+        6022, 
+        6027, 
+        6278, 
+        6351, 
+        6397, 
+        6589, 
+        6861, 
+        7042, 
+        7369, 
+        8678, 
+        8877, 
+        9117, 
+        9951, 
+        9968, 
+        10628, 
+        12189
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 6, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Earth Defense Force: Insect Armageddon", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        449
+    ], 
+    "rating": 69.9958418970454, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1309996800000, 
+            "human": "2011-Jul-07", 
+            "m": 7, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1309996800000, 
+            "human": "2011-Jul-07", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1309824000000, 
+            "human": "2011-Jul-05", 
+            "m": 7, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1309824000000, 
+            "human": "2011-Jul-05", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1311292800000, 
+            "human": "2011-Jul-22", 
+            "m": 7, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1311292800000, 
+            "human": "2011-Jul-22", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1311206400000, 
+            "human": "2011-Jul-21", 
+            "m": 7, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1311206400000, 
+            "human": "2011-Jul-21", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1323907200000, 
+            "human": "2011-Dec-15", 
+            "m": 12, 
+            "platform": 6, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bmys5lc6lt4wjwlmzjbp", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bmys5lc6lt4wjwlmzjbp.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "ci1amtdtxcb7hs2wdwxk", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ci1amtdtxcb7hs2wdwxk.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "etlcbqya5rxlbhzr06kn", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/etlcbqya5rxlbhzr06kn.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "s7jlkags2iqqgjwxn5nf", 
+            "height": 804, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s7jlkags2iqqgjwxn5nf.jpg", 
+            "width": 1286
+        }, 
+        {
+            "cloudinary_id": "wgikcgjs9t1gpgdpshhw", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wgikcgjs9t1gpgdpshhw.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "earth-defense-force-insect-armageddon", 
+    "summary": "Thousands of giant insects and aliens once again ravage the earth, and only the Earth Defense Force can stop them. Defend the city of New Detroit against an infestation bigger and meaner than ever before. Destroy these monsters at all costs, even if it means turning entire city blocks into rubble! \n \nEnjoy raw arcade shooter satisfaction on a gigantic modern scale. Collect over 300 weapons: assault rifles, rocket launchers, energy weapons, sniper rifles, grenade launchers and more! Play with 4 upgradeable armor types: Jetpack, Battle, Tactical, and Trooper. Experience Massive replayability through arcade style scoring, tons of weapons to collect, and multiple difficulty levels in every game mode! \n \nIn addition, the game also features a six player Survival mode that pits a human squad against a nonstop onslaught of the largest enemies the aliens have to offer. New Detroit\u2019s giant bug problem is unavoidable, and mankind\u2019s last hope lies with the Earth Defense Force. Defend the world from the insect invasion, even if it means blowing up the entire city as part of the extermination process. \n \nEarth Defense Force: Insect Armageddon and the soldiers are equipped better than ever in the latest cult classic iteration that follows in the footsteps of Earth Defense Force 2017 (Japanese Title \u201cEarth Defense Force 3\u201d developed by Sandlot), and Earth Defense Force: Insect Armageddon continues the rich history and hardcore fun of the series.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        536871079, 
+        536871148, 
+        536871240, 
+        536871487, 
+        536871776, 
+        536871882, 
+        536871937, 
+        536872070, 
+        536872205, 
+        536872651, 
+        536872733, 
+        536872883, 
+        536873023, 
+        536873874, 
+        536874653, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875147, 
+        536875157, 
+        536875593, 
+        536875610, 
+        536875707, 
+        536875904, 
+        536876216, 
+        536876262, 
+        536876365, 
+        536876545, 
+        536876687, 
+        536876695, 
+        536876934, 
+        536876939, 
+        536877190, 
+        536877263, 
+        536877309, 
+        536877501, 
+        536877773, 
+        536877954, 
+        536878281, 
+        536879590, 
+        536879789, 
+        536880029, 
+        536880863, 
+        536880880, 
+        536881540, 
+        536883101, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 69.9979209485227, 
+    "total_rating_count": 14, 
+    "updated_at": 1524809124953, 
+    "url": "https://www.igdb.com/games/earth-defense-force-insect-armageddon", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "NmtmM3faRpE"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.edfia.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/23530"
+        }
+    ]
+}

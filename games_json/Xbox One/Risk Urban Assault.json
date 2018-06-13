@@ -1,0 +1,140 @@
+{
+    "category": 0, 
+    "collection": 1302, 
+    "cover": {
+        "cloudinary_id": "ffftbhy30aos1iq6hkdk", 
+        "height": 1024, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ffftbhy30aos1iq6hkdk.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1504703580432, 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "first_release_date": 1470096000000, 
+    "game_modes": [
+        2
+    ], 
+    "games": [
+        19083, 
+        11588, 
+        19376, 
+        28213, 
+        25217, 
+        19082, 
+        11423, 
+        19934, 
+        11529, 
+        29173
+    ], 
+    "genres": [
+        15, 
+        26
+    ], 
+    "id": 58036, 
+    "keywords": [
+        69, 
+        1293, 
+        2601, 
+        3782, 
+        4134, 
+        4139
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 5, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Risk Urban Assault", 
+    "platforms": [
+        45, 
+        48, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1470096000000, 
+            "human": "2016-Aug-02", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1470096000000, 
+            "human": "2016-Aug-02", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1470096000000, 
+            "human": "2016-Aug-02", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vlgj3jyxziniwxiy2lns", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vlgj3jyxziniwxiy2lns.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kginmyvmgb3l1yzwnawf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kginmyvmgb3l1yzwnawf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ao5x1mmluj0v5a2voent", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ao5x1mmluj0v5a2voent.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xm3vmjxn1hijaoeapp2v", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xm3vmjxn1hijaoeapp2v.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "risk-urban-assault", 
+    "summary": "Lead your troops to victory with Risk Urban Assault! In a post-apocalyptic world, rally your armies and march across some of the most famous cities around the globe. From Shanghai to New York, be cunning and play strategically to defeat your opponents.", 
+    "tags": [
+        268435471, 
+        268435482, 
+        536870981, 
+        536872205, 
+        536873513, 
+        536874694, 
+        536875046, 
+        536875051
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1526732576754, 
+    "url": "https://www.igdb.com/games/risk-urban-assault"
+}

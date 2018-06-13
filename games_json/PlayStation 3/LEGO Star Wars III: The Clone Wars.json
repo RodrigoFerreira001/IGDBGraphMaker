@@ -1,0 +1,445 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 4, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "LEGO Star Wars 3: The Clone Wars"
+        }, 
+        {
+            "name": "LEGO Star Wars: The Clone Wars"
+        }
+    ], 
+    "category": 0, 
+    "collection": 55, 
+    "cover": {
+        "cloudinary_id": "whttqgdijgaku13ioi5b", 
+        "height": 2150, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/whttqgdijgaku13ioi5b.jpg", 
+        "width": 1506
+    }, 
+    "created_at": 1400598050783, 
+    "developers": [
+        292, 
+        1290
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is an adventure game in which players control small Lego figures modeled after characters from the Star Wars universe. As players traverse caverns, fields, and outer space environments, they swing light sabers and use fantastical weapons (e.g., laser blasters) to shoot colorful projectiles at robot \"droids\" and enemy vehicles (e.g., hovercrafts, starships). Laser sounds, large explosions, and battle cries can be heard during the sometimes frenetic combat; enemies burst into Lego pieces when defeated. One cutscene depicts a character struck in the face with a baby's soiled diaper."
+    }, 
+    "external": {
+        "steam": "32510"
+    }, 
+    "first_release_date": 1298851200000, 
+    "franchise": 51, 
+    "franchises": [
+        51, 
+        1
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        7350, 
+        26401, 
+        6732, 
+        55752, 
+        26766, 
+        13163, 
+        11423, 
+        19448, 
+        25300, 
+        19082
+    ], 
+    "genres": [
+        8, 
+        31
+    ], 
+    "id": 6844, 
+    "keywords": [
+        410, 
+        896, 
+        970, 
+        1118, 
+        1158, 
+        1293, 
+        1563, 
+        1637, 
+        2049, 
+        2071, 
+        2152, 
+        4134, 
+        4142, 
+        4161, 
+        4181, 
+        4245, 
+        4266, 
+        4359, 
+        4651, 
+        4813, 
+        4923, 
+        4927, 
+        4935, 
+        5328, 
+        5657, 
+        5731, 
+        5783, 
+        5850, 
+        5909, 
+        6007, 
+        6039, 
+        6281, 
+        6801, 
+        7223, 
+        7224, 
+        7357, 
+        7369, 
+        8784, 
+        8785, 
+        8789, 
+        8840, 
+        8853, 
+        10727, 
+        11784, 
+        12189, 
+        12349, 
+        12462, 
+        12870
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 38, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "LEGO Star Wars III: The Clone Wars", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        9, 
+        38, 
+        12, 
+        20, 
+        37, 
+        5
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        23, 
+        10
+    ], 
+    "rating": 73.1171807672381, 
+    "rating_count": 14, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1319673600000, 
+            "human": "2011-Oct-27", 
+            "m": 10, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301011200000, 
+            "human": "2011-Mar-25", 
+            "m": 3, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301011200000, 
+            "human": "2011-Mar-25", 
+            "m": 3, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301011200000, 
+            "human": "2011-Mar-25", 
+            "m": 3, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301184000000, 
+            "human": "2011-Mar-27", 
+            "m": 3, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1300752000000, 
+            "human": "2011-Mar-22", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301011200000, 
+            "human": "2011-Mar-25", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1298851200000, 
+            "human": "2011-Feb-28", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1300752000000, 
+            "human": "2011-Mar-22", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1300752000000, 
+            "human": "2011-Mar-22", 
+            "m": 3, 
+            "platform": 14, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1300752000000, 
+            "human": "2011-Mar-22", 
+            "m": 3, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1300752000000, 
+            "human": "2011-Mar-22", 
+            "m": 3, 
+            "platform": 38, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1300752000000, 
+            "human": "2011-Mar-22", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1300752000000, 
+            "human": "2011-Mar-22", 
+            "m": 3, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mbhttsndsxyfjcxyygfn", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mbhttsndsxyfjcxyygfn.jpg", 
+            "width": 376
+        }, 
+        {
+            "cloudinary_id": "nyjwhkgpuqp8l7g2fqlc", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nyjwhkgpuqp8l7g2fqlc.jpg", 
+            "width": 376
+        }, 
+        {
+            "cloudinary_id": "wtjudfs29ihfzvkuu3pi", 
+            "height": 500, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wtjudfs29ihfzvkuu3pi.jpg", 
+            "width": 375
+        }, 
+        {
+            "cloudinary_id": "xxubmjp4wuong39zzlaz", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xxubmjp4wuong39zzlaz.jpg", 
+            "width": 361
+        }, 
+        {
+            "cloudinary_id": "ekgbwcumobroofg0eqn6", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ekgbwcumobroofg0eqn6.jpg", 
+            "width": 359
+        }, 
+        {
+            "cloudinary_id": "yxkvwuk3vnrbvetfvxjo", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yxkvwuk3vnrbvetfvxjo.jpg", 
+            "width": 360
+        }, 
+        {
+            "cloudinary_id": "msfw1ed3wxeztvzgeplw", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/msfw1ed3wxeztvzgeplw.jpg", 
+            "width": 361
+        }, 
+        {
+            "cloudinary_id": "lk07gwnnkexmdzhk34uf", 
+            "height": 891, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lk07gwnnkexmdzhk34uf.jpg", 
+            "width": 1585
+        }, 
+        {
+            "cloudinary_id": "unmmzbrhqnrnjjqfighy", 
+            "height": 897, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/unmmzbrhqnrnjjqfighy.jpg", 
+            "width": 1593
+        }, 
+        {
+            "cloudinary_id": "g1nimshnk1bqblaj60dt", 
+            "height": 895, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g1nimshnk1bqblaj60dt.jpg", 
+            "width": 1589
+        }, 
+        {
+            "cloudinary_id": "aedrcyisreiopahduzqq", 
+            "height": 897, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aedrcyisreiopahduzqq.jpg", 
+            "width": 1589
+        }, 
+        {
+            "cloudinary_id": "jeo3nfdyf5csiglpmdiu", 
+            "height": 892, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jeo3nfdyf5csiglpmdiu.jpg", 
+            "width": 1590
+        }
+    ], 
+    "slug": "lego-star-wars-iii-the-clone-wars", 
+    "summary": "The Saga continues. Build, battle and laugh your way across the Star Wars universe like never before! Play as Anakin Skywalker and Obi-Wan Kenobi through a story spanning the entire Clone Wars era. LEGO Star Wars III: The Clone Wars combines epic space battles, challenging puzzles and of course, the imaginative gameplay of LEGO. \n \nThe Sith and their allies have declared war on the Jedi Council with an army of droids, and it\u2019s up to you to stop them. With the Dark Side gathering power and entire star systems in turmoil, galactic freedom hangs in the balance.", 
+    "tags": [
+        1, 
+        18, 
+        40, 
+        268435464, 
+        268435487, 
+        536871322, 
+        536871808, 
+        536871882, 
+        536872030, 
+        536872070, 
+        536872205, 
+        536872475, 
+        536872549, 
+        536872961, 
+        536872983, 
+        536873064, 
+        536875046, 
+        536875054, 
+        536875073, 
+        536875093, 
+        536875157, 
+        536875178, 
+        536875271, 
+        536875563, 
+        536875725, 
+        536875835, 
+        536875839, 
+        536875847, 
+        536876240, 
+        536876569, 
+        536876643, 
+        536876695, 
+        536876762, 
+        536876821, 
+        536876919, 
+        536876951, 
+        536877193, 
+        536877713, 
+        536878135, 
+        536878136, 
+        536878269, 
+        536878281, 
+        536879696, 
+        536879697, 
+        536879701, 
+        536879752, 
+        536879765, 
+        536881639, 
+        536882696, 
+        536883101, 
+        536883261, 
+        536883374, 
+        536883782, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18, 
+        40
+    ], 
+    "total_rating": 71.55859038361905, 
+    "total_rating_count": 18, 
+    "updated_at": 1527417372697, 
+    "url": "https://www.igdb.com/games/lego-star-wars-iii-the-clone-wars", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "MCCWs05P-xA"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://legostarwars.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/32510"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://starwars.wikia.com/wiki/LEGO_Star_Wars_III%3A_The_Clone_Wars"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Lego_Star_Wars_III:_The_Clone_Wars"
+        }
+    ]
+}

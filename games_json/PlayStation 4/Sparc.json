@@ -1,0 +1,197 @@
+{
+    "aggregated_rating": 76.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "sqc0fuck5gti9vne6jut", 
+        "height": 1200, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sqc0fuck5gti9vne6jut.jpg", 
+        "width": 1200
+    }, 
+    "created_at": 1488252821254, 
+    "developers": [
+        853
+    ], 
+    "external": {
+        "steam": "601770"
+    }, 
+    "first_release_date": 1503964800000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        11253, 
+        25300, 
+        36950, 
+        25311, 
+        27314, 
+        22690, 
+        64204, 
+        68287, 
+        19448, 
+        23212
+    ], 
+    "genres": [
+        14, 
+        32
+    ], 
+    "id": 27430, 
+    "keywords": [
+        286, 
+        970, 
+        1166, 
+        4154, 
+        4222, 
+        4224, 
+        4234, 
+        4439, 
+        8306
+    ], 
+    "name": "Sparc", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        853
+    ], 
+    "pulse_count": 11, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 2, 
+            "date": 1514678400000, 
+            "human": "2017", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 2, 
+            "date": 1514678400000, 
+            "human": "2017", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "v4jnnclfk7wnjhczxxz6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v4jnnclfk7wnjhczxxz6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "w1uungflemwaigyt9oby", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w1uungflemwaigyt9oby.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ulrg4gcppxwp7iszuaav", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ulrg4gcppxwp7iszuaav.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "or1ubjxw8yn4ygaxusl6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/or1ubjxw8yn4ygaxusl6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hyham3gmw4gfma6ixmay", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hyham3gmw4gfma6ixmay.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "sparc", 
+    "summary": "Sparc is a VR sport.", 
+    "tags": [
+        1, 
+        18, 
+        268435470, 
+        268435488, 
+        536871198, 
+        536871882, 
+        536872078, 
+        536875066, 
+        536875134, 
+        536875136, 
+        536875146, 
+        536875351, 
+        536879218, 
+        1073741831
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 78.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1523355180497, 
+    "url": "https://www.igdb.com/games/sparc", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "tHg3j4C03Nw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/601770"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.PlaySparc.com"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/channel/UCNDyVfgabHkF1ra-sTfB0Tw"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/PlaySparc"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://www.twitter.com/PlaySparc"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/PlaySparc"
+        }
+    ]
+}

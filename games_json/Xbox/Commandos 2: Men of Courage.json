@@ -1,0 +1,372 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Chinese title", 
+            "name": "\u76df\u519b\u6562\u6b7b\u961f2\uff1a\u52c7\u5f80\u76f4\u524d"
+        }, 
+        {
+            "comment": "Hebrew title", 
+            "name": "\u05e7\u05d5\u05de\u05e0\u05d3\u05d5 2: \u05d0\u05d5\u05de\u05e5 \u05ea\u05d7\u05ea \u05d0\u05e9"
+        }, 
+        {
+            "comment": "Russian title", 
+            "name": "Commandos 2: \u041d\u0430\u0433\u0440\u0430\u0434\u0430 \u0437\u0430 \u0441\u043c\u0435\u043b\u043e\u0441\u0442\u044c"
+        }, 
+        {
+            "comment": "Brazilian title", 
+            "name": "Commandos 2: Homens de Coragem"
+        }
+    ], 
+    "category": 0, 
+    "collection": 140, 
+    "cover": {
+        "cloudinary_id": "cjrzuk0ll5dez6iowpnr", 
+        "height": 772, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cjrzuk0ll5dez6iowpnr.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1317748737000, 
+    "developers": [
+        498, 
+        631
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "6830"
+    }, 
+    "first_release_date": 1000944000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        477, 
+        961, 
+        879, 
+        36594, 
+        18167, 
+        27789, 
+        848, 
+        313, 
+        11423, 
+        19085
+    ], 
+    "genres": [
+        5, 
+        11, 
+        15, 
+        24, 
+        31
+    ], 
+    "id": 653, 
+    "keywords": [
+        2, 
+        19, 
+        132, 
+        544, 
+        683, 
+        805, 
+        993, 
+        1158, 
+        1345, 
+        1735, 
+        2542, 
+        3270, 
+        3673, 
+        3782, 
+        4134, 
+        4225, 
+        4346, 
+        4446, 
+        4449, 
+        4508, 
+        4575, 
+        4619, 
+        4660, 
+        4698, 
+        4861, 
+        4905, 
+        4927, 
+        5350, 
+        5565, 
+        5578, 
+        5587, 
+        5663, 
+        5674, 
+        5775, 
+        5886, 
+        5892, 
+        6002, 
+        6058, 
+        6061, 
+        6257, 
+        6352, 
+        6528, 
+        6589, 
+        6625, 
+        6731, 
+        6737, 
+        6767, 
+        6889, 
+        6916, 
+        7016, 
+        7053, 
+        7091, 
+        7093, 
+        7215, 
+        7414, 
+        7498, 
+        7501, 
+        7508, 
+        7661, 
+        8153, 
+        8695, 
+        8806, 
+        9268, 
+        9382, 
+        9744, 
+        10085, 
+        12348, 
+        13213, 
+        13295
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Commandos 2: Men of Courage", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Realistic looking violence."
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        11, 
+        8
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 4.333333333333334, 
+    "publishers": [
+        4, 
+        23
+    ], 
+    "rating": 86.3670846960737, 
+    "rating_count": 58, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1000944000000, 
+            "human": "2001-Sep-20", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 1030492800000, 
+            "human": "2002-Aug-28", 
+            "m": 8, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1031875200000, 
+            "human": "2002-Sep-13", 
+            "m": 9, 
+            "platform": 11, 
+            "region": 1, 
+            "y": 2002
+        }, 
+        {
+            "category": 2, 
+            "date": 1135987200000, 
+            "human": "2005", 
+            "m": 12, 
+            "platform": 14, 
+            "region": 2, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1001635200000, 
+            "human": "2001-Sep-28", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 1031270400000, 
+            "human": "2002-Sep-06", 
+            "m": 9, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1032307200000, 
+            "human": "2002-Sep-18", 
+            "m": 9, 
+            "platform": 11, 
+            "region": 2, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1173916800000, 
+            "human": "2007-Mar-15", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "i3dei28qiwsnjjywhh4g", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i3dei28qiwsnjjywhh4g.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "kmtu2dugfpasvzp10ri6", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kmtu2dugfpasvzp10ri6.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "dh77cricth3ndf31fzl1", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dh77cricth3ndf31fzl1.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "nhpeijfxny9mfkame0b7", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nhpeijfxny9mfkame0b7.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "eyf6rzqyz3cwbk5mftor", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eyf6rzqyz3cwbk5mftor.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "commandos-2-men-of-courage", 
+    "summary": "From the heart of the Third Reich to the most remote islands in the South Pacific, Sergeant Jack \"Butcher\" O'Hara and his elite group of gritty soldiers must combine their expertise and venture deep into enemy territory... in an attempt to change the course of the war.From the deepest bunkers and artillery posts of the Third Reich or the dreaded Colditz castle prison to the bulkhead of an aircraft carrier at sea, Commandos 2 features the most realistic and detailed gaming environments ever seen. Once again players take command of the elite platoon, utilising each of their unique abilities to complete missions deep in enemy territory. Commandos 2 is the most immersive and realistic PC strategy gaming experience there is, creating a new benchmark.", 
+    "tags": [
+        1, 
+        22, 
+        23, 
+        268435461, 
+        268435467, 
+        268435471, 
+        268435480, 
+        268435487, 
+        536870914, 
+        536870931, 
+        536871044, 
+        536871456, 
+        536871595, 
+        536871717, 
+        536871905, 
+        536872070, 
+        536872257, 
+        536872647, 
+        536873454, 
+        536874182, 
+        536874585, 
+        536874694, 
+        536875046, 
+        536875137, 
+        536875258, 
+        536875358, 
+        536875361, 
+        536875420, 
+        536875487, 
+        536875531, 
+        536875572, 
+        536875610, 
+        536875773, 
+        536875817, 
+        536875839, 
+        536876262, 
+        536876477, 
+        536876490, 
+        536876499, 
+        536876575, 
+        536876586, 
+        536876687, 
+        536876798, 
+        536876804, 
+        536876914, 
+        536876970, 
+        536876973, 
+        536877169, 
+        536877264, 
+        536877440, 
+        536877501, 
+        536877537, 
+        536877643, 
+        536877649, 
+        536877679, 
+        536877801, 
+        536877828, 
+        536877928, 
+        536877965, 
+        536878003, 
+        536878005, 
+        536878127, 
+        536878326, 
+        536878410, 
+        536878413, 
+        536878420, 
+        536878573, 
+        536879065, 
+        536879607, 
+        536879718, 
+        536880180, 
+        536880294, 
+        536880656, 
+        536880997, 
+        536883260, 
+        536884125, 
+        536884207, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        22, 
+        23
+    ], 
+    "total_rating": 88.18354234803685, 
+    "total_rating_count": 59, 
+    "updated_at": 1527708356066, 
+    "url": "https://www.igdb.com/games/commandos-2-men-of-courage"
+}

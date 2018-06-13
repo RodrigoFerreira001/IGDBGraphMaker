@@ -1,0 +1,317 @@
+{
+    "aggregated_rating": 78.3636363636364, 
+    "aggregated_rating_count": 13, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Fire Emblem Musou"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30d5\u30a1\u30a4\u30a2\u30fc\u30a8\u30e0\u30d6\u30ec\u30e0\u7121\u53cc"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "pjgehpdjv2kljy7gyw9m", 
+            "height": 710, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pjgehpdjv2kljy7gyw9m.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "qbcmd5cnegdx2fuiafpv", 
+            "height": 650, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qbcmd5cnegdx2fuiafpv.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "uevihuczoezf4ytkoxg7", 
+            "height": 650, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uevihuczoezf4ytkoxg7.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "bwzhcvnodsb65iihbd3t", 
+            "height": 1300, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bwzhcvnodsb65iihbd3t.jpg", 
+            "width": 1000
+        }
+    ], 
+    "category": 0, 
+    "collection": 303, 
+    "cover": {
+        "cloudinary_id": "mjz3mqelhvvalnusbq53", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mjz3mqelhvvalnusbq53.jpg", 
+        "width": 440
+    }, 
+    "created_at": 1484307496999, 
+    "developers": [
+        765, 
+        769, 
+        1394
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is an action game in which players assume the roles of royal twin siblings as they battle to reclaim their kingdom from an evil force. As players traverse through battlefields, they use swords, axes, and spears to defeat monsters and human soldiers in melee-style combat. Battles are often frenetic, highlighted by cries of pain, impact sounds, and bright light effects. Cutscenes can depict additional acts of violence: a man impaled with a sword through the chest; a man stabbed (offscreen) in the stomach by a villain. One female character wears a low-cut top that exposes deep cleavage; in some sequences, the camera lingers or pans slowly over her body."
+    }, 
+    "first_release_date": 1506556800000, 
+    "franchise": 769, 
+    "franchises": [
+        769
+    ], 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        27092, 
+        27316, 
+        47823, 
+        23345, 
+        12632, 
+        16468, 
+        17583, 
+        76882, 
+        76888, 
+        36534
+    ], 
+    "genres": [
+        12, 
+        15, 
+        24, 
+        25
+    ], 
+    "hypes": 2, 
+    "id": 26769, 
+    "keywords": [
+        151, 
+        296, 
+        1075, 
+        1682, 
+        2229, 
+        3782, 
+        4224
+    ], 
+    "name": "Fire Emblem Warriors", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        137, 
+        37, 
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 22.33333333333333, 
+    "publishers": [
+        70, 
+        858
+    ], 
+    "pulse_count": 218, 
+    "rating": 78.0, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1508457600000, 
+            "human": "2017-Oct-20", 
+            "m": 10, 
+            "platform": 137, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1508457600000, 
+            "human": "2017-Oct-20", 
+            "m": 10, 
+            "platform": 137, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1508457600000, 
+            "human": "2017-Oct-20", 
+            "m": 10, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1508457600000, 
+            "human": "2017-Oct-20", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1508457600000, 
+            "human": "2017-Oct-20", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1508457600000, 
+            "human": "2017-Oct-20", 
+            "m": 10, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506556800000, 
+            "human": "2017-Sep-28", 
+            "m": 9, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506556800000, 
+            "human": "2017-Sep-28", 
+            "m": 9, 
+            "platform": 130, 
+            "region": 5, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "oseav4iifm6uhq1sg4pe", 
+            "height": 427, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oseav4iifm6uhq1sg4pe.jpg", 
+            "width": 356
+        }, 
+        {
+            "cloudinary_id": "xegbfcje7yvbelu8pigc", 
+            "height": 427, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xegbfcje7yvbelu8pigc.jpg", 
+            "width": 356
+        }, 
+        {
+            "cloudinary_id": "ejsvjhl4asrcvx0fqhw5", 
+            "height": 427, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ejsvjhl4asrcvx0fqhw5.jpg", 
+            "width": 356
+        }, 
+        {
+            "cloudinary_id": "h4boqysz7d69mdfbtrz7", 
+            "height": 427, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h4boqysz7d69mdfbtrz7.jpg", 
+            "width": 356
+        }, 
+        {
+            "cloudinary_id": "v5xmgxneaz4om3jaatjq", 
+            "height": 427, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v5xmgxneaz4om3jaatjq.jpg", 
+            "width": 356
+        }, 
+        {
+            "cloudinary_id": "wbjmbd7pipc7wbdwgzqv", 
+            "height": 427, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wbjmbd7pipc7wbdwgzqv.jpg", 
+            "width": 356
+        }, 
+        {
+            "cloudinary_id": "xqatcgsxn9ae2ntccrep", 
+            "height": 427, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xqatcgsxn9ae2ntccrep.jpg", 
+            "width": 356
+        }, 
+        {
+            "cloudinary_id": "qnrqwdwbokg6lb9ldmjf", 
+            "height": 563, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qnrqwdwbokg6lb9ldmjf.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "v8mjfw2ww1kby7kksp7a", 
+            "height": 563, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v8mjfw2ww1kby7kksp7a.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "yi9yaulgd5ploailnifi", 
+            "height": 563, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yi9yaulgd5ploailnifi.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "mu6vql3ujyg7ap0cbgmp", 
+            "height": 563, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mu6vql3ujyg7ap0cbgmp.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "rbdzoq9pvxyyo4gsta1i", 
+            "height": 563, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rbdzoq9pvxyyo4gsta1i.jpg", 
+            "width": 1000
+        }
+    ], 
+    "slug": "fire-emblem-warriors", 
+    "storyline": "That day, the country of Aitriss was covered in uttermost darkness. There was no warning when the \u201cGates of the Other World\u201d suddenly appeared in the royal castle. Then, powerful monsters gushed out one after the other, trampling the castle garrison.  \n  \n\u2014The royal castle quickly fell. And slowly but surely, darkness ate into the country.  \n  \nHowever, there is still hope. The two shadows who escaped the royal castle covered in flames were Shion and Liane, the children of the late king. And then, the thread of fate spun by the legendary heroes began to spin\u2026  \n  \nCarrying the \u201cFire Shield\u201d given to them by their mother, the two heroes\u2019 journey to confront the powerful darkness begins here.", 
+    "summary": "\"Clash with legions of soldiers and fierce monsters as Marth, Xander, Corrin, and other Fire Emblem heroes unleashing over-the-top-powerful Dynasty Warriors-style moves. Take direct control of known and original Fire Emblem characters, issue them strategic commands in the midst of battle, pair up heroes to unleash stunning attacks, and more. Unlock new playable heroes, each with their own unique moves, special attacks, weapon types, and voiced dialogue in this large-scale action game from the Hyrule Warriors team.\"", 
+    "tags": [
+        1, 
+        17, 
+        22, 
+        268435468, 
+        268435471, 
+        268435480, 
+        268435481, 
+        536871063, 
+        536871208, 
+        536871987, 
+        536872594, 
+        536873141, 
+        536874694, 
+        536875136, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        22
+    ], 
+    "total_rating": 78.1818181818182, 
+    "total_rating_count": 16, 
+    "updated_at": 1528822393502, 
+    "url": "https://www.igdb.com/games/fire-emblem-warriors", 
+    "videos": [
+        {
+            "name": "E3 2017 Demonstration video", 
+            "video_id": "O8KQp71d5OU"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "R8Ia_PCKPpY"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://fireemblemwarriors.nintendo.com/"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Fire_Emblem_Warriors"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://fireemblem.wikia.com/wiki/Fire_Emblem_Warriors"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Chocobo and the Magic Picture Book"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "kx3dr301iwzos0s0psib", 
+            "height": 850, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kx3dr301iwzos0s0psib.jpg", 
+            "width": 740
+        }, 
+        {
+            "cloudinary_id": "qrocvct43pztnvwtvx6o", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qrocvct43pztnvwtvx6o.jpg", 
+            "width": 700
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "c7etwgt8guhaqberqi5t", 
+        "height": 1370, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/c7etwgt8guhaqberqi5t.jpg", 
+        "width": 1532
+    }, 
+    "created_at": 1498989656593, 
+    "first_release_date": 1175558400000, 
+    "games": [
+        14605, 
+        17469, 
+        75586, 
+        25130, 
+        43130, 
+        23175, 
+        28277, 
+        63734, 
+        29646, 
+        27266
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 41830, 
+    "name": "Final Fantasy Fables: Chocobo Tales", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        26
+    ], 
+    "rating": 68.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1180051200000, 
+            "human": "2007-May-25", 
+            "m": 5, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1175558400000, 
+            "human": "2007-Apr-03", 
+            "m": 4, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1178150400000, 
+            "human": "2007-May-03", 
+            "m": 5, 
+            "platform": 20, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "slug": "final-fantasy-fables-chocobo-tales", 
+    "summary": "Final Fantasy Fables: Chocobo Tales starts when the Final Fantasy black magician brings a picture book onto the Chocobo farm. This book is actually home to the great devil Bebuzu, and it sucks the entire farm into its pages! Chocobo heads on an adventure with the white and black magicians in order to stop Bebezu from reviving himself to full form.", 
+    "tags": [
+        268435487
+    ], 
+    "total_rating": 68.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1525204015214, 
+    "url": "https://www.igdb.com/games/final-fantasy-fables-chocobo-tales", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.square-enix.co.jp/chocobo/"
+        }
+    ]
+}

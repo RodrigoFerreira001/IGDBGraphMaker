@@ -1,0 +1,300 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "TF2"
+        }
+    ], 
+    "category": 0, 
+    "collection": 218, 
+    "cover": {
+        "cloudinary_id": "ijp2rheve0eccuhtanli", 
+        "height": 361, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ijp2rheve0eccuhtanli.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1317749390000, 
+    "developers": [
+        56
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "440"
+    }, 
+    "first_release_date": 1191888000000, 
+    "game_engines": [
+        3
+    ], 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        7329, 
+        28552, 
+        28204, 
+        37016, 
+        28751, 
+        25657, 
+        1595, 
+        124, 
+        15536, 
+        8173
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 891, 
+    "keywords": [
+        124, 
+        350, 
+        453, 
+        907, 
+        988, 
+        1025, 
+        1219, 
+        1898, 
+        1970, 
+        2071, 
+        2385, 
+        4199, 
+        4358, 
+        4400, 
+        4625, 
+        4660, 
+        4895, 
+        4907, 
+        5323, 
+        5634, 
+        5753, 
+        5778, 
+        5846, 
+        5923, 
+        6036, 
+        6137, 
+        6315, 
+        6385, 
+        6521, 
+        6527, 
+        6777, 
+        7064, 
+        10329, 
+        11488, 
+        11844, 
+        15312, 
+        15313, 
+        15314, 
+        15315, 
+        15316, 
+        15317, 
+        15318, 
+        15319
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": true, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 6, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Team Fortress 2", 
+    "pegi": {
+        "rating": 4
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        9, 
+        12, 
+        3
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 4.666666666666666, 
+    "publishers": [
+        1, 
+        56
+    ], 
+    "pulse_count": 71, 
+    "rating": 83.69260171576981, 
+    "rating_count": 229, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1191888000000, 
+            "human": "2007-Oct-09", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1276128000000, 
+            "human": "2010-Jun-10", 
+            "m": 6, 
+            "platform": 14, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1191888000000, 
+            "human": "2007-Oct-09", 
+            "m": 10, 
+            "platform": 12, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1195776000000, 
+            "human": "2007-Nov-23", 
+            "m": 11, 
+            "platform": 9, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1360800000000, 
+            "human": "2013-Feb-14", 
+            "m": 2, 
+            "platform": 3, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "m9ucxunhqbbl6971fbxv", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m9ucxunhqbbl6971fbxv.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "f31pdus03mzin8nimsq3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f31pdus03mzin8nimsq3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cuhmhziluo19znrtshop", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cuhmhziluo19znrtshop.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "smowf8tfz4cxwbtxztun", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/smowf8tfz4cxwbtxztun.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uxx4vdnafckr2zyfcu8f", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uxx4vdnafckr2zyfcu8f.jpg", 
+            "width": 1600
+        }
+    ], 
+    "slug": "team-fortress-2", 
+    "summary": "Choose from a selection of 9 unique classes with entertaining personalities to capture or defend the objective against the enemy team, consisting of your alternately coloured counterparts, with a wide variety of weapons and cosmetics to customize your multiplayer experience.", 
+    "tags": [
+        1, 
+        27, 
+        268435461, 
+        536871036, 
+        536871262, 
+        536871365, 
+        536871819, 
+        536871900, 
+        536871937, 
+        536872131, 
+        536872810, 
+        536872882, 
+        536872983, 
+        536873297, 
+        536875111, 
+        536875270, 
+        536875312, 
+        536875537, 
+        536875572, 
+        536875807, 
+        536875819, 
+        536876235, 
+        536876546, 
+        536876665, 
+        536876690, 
+        536876758, 
+        536876835, 
+        536876948, 
+        536877049, 
+        536877227, 
+        536877297, 
+        536877433, 
+        536877439, 
+        536877689, 
+        536877976, 
+        536881241, 
+        536882400, 
+        536882756, 
+        536886224, 
+        536886225, 
+        536886226, 
+        536886227, 
+        536886228, 
+        536886229, 
+        536886230, 
+        536886231, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "time_to_beat": {
+        "completely": 3600000, 
+        "normally": 334800
+    }, 
+    "total_rating": 81.8463008578849, 
+    "total_rating_count": 232, 
+    "updated_at": 1528603678551, 
+    "url": "https://www.igdb.com/games/team-fortress-2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "C4cfo0f88Ug"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/teamfortress"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Team_Fortress_2"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/440"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://wiki.teamfortress.com/wiki/Main_Page"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.teamfortress.com/"
+        }
+    ]
+}

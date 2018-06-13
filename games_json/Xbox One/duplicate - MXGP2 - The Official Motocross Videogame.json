@@ -1,0 +1,137 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vclpycd8d4mkgy86n1wn", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vclpycd8d4mkgy86n1wn.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1495799377762, 
+    "first_release_date": 1459987200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        23835, 
+        33644, 
+        28465, 
+        40470, 
+        44242, 
+        34919, 
+        55715, 
+        33603, 
+        19803, 
+        36962
+    ], 
+    "genres": [
+        10, 
+        13, 
+        14
+    ], 
+    "id": 34487, 
+    "keywords": [
+        1094
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 12, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "duplicate - MXGP2 - The Official Motocross Videogame", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1459
+    ], 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459987200000, 
+            "human": "2016-Apr-07", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tryxn9iyiojavvtpbnha", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tryxn9iyiojavvtpbnha.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vr82xodu2papzgozwz9h", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vr82xodu2papzgozwz9h.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jg5pvltfkznqefait4ay", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jg5pvltfkznqefait4ay.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dkbfayczcxkqfuegbcv3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dkbfayczcxkqfuegbcv3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kb18mplk67ufdg71h5iq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kb18mplk67ufdg71h5iq.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "duplicate-mxgp2-the-official-motocross-videogame", 
+    "summary": "MXGP2 - The Official Motocross Videogame is the evolution of the previous Milestone\u2019s Motocross game MXGP. The game is based on the 2015 FIM Motocross World Championship license.", 
+    "tags": [
+        268435466, 
+        268435469, 
+        268435470, 
+        536872006
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1518399848593, 
+    "url": "https://www.igdb.com/games/duplicate-mxgp2-the-official-motocross-videogame", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://mxgpvideogame.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/400800"
+        }
+    ]
+}

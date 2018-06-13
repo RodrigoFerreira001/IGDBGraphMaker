@@ -1,0 +1,144 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mssglwam2kvyubtwi7mg", 
+        "height": 136, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mssglwam2kvyubtwi7mg.jpg", 
+        "width": 292
+    }, 
+    "created_at": 1495893219585, 
+    "external": {
+        "steam": "290000"
+    }, 
+    "first_release_date": 1468886400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        10039, 
+        32902, 
+        34919, 
+        16468, 
+        40524, 
+        54639, 
+        28029, 
+        68324, 
+        55289, 
+        37022
+    ], 
+    "genres": [
+        5, 
+        7, 
+        32
+    ], 
+    "id": 36348, 
+    "keywords": [
+        4137
+    ], 
+    "name": "DubWars", 
+    "platforms": [
+        6, 
+        14, 
+        41, 
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468886400000, 
+            "human": "2016-Jul-19", 
+            "m": 7, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468886400000, 
+            "human": "2016-Jul-19", 
+            "m": 7, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468886400000, 
+            "human": "2016-Jul-19", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "reanw3jp9jb7vrrn4zxf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/reanw3jp9jb7vrrn4zxf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "eczr0qrqdbr7npcz0dbl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eczr0qrqdbr7npcz0dbl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nsdrmwgfadsgb8yl6ddg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nsdrmwgfadsgb8yl6ddg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "x6uqeoxlupkpnvqkekl9", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x6uqeoxlupkpnvqkekl9.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ngqeyehvmhkelsovdbs9", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ngqeyehvmhkelsovdbs9.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "dubwars", 
+    "summary": "DubWars is a music game that combines the mechanics of a top-down shooter with the power of Dubstep and Electronic music. Your weapons are synced to the music creating times of intense weapon load outs and calm moments where your survival skills are tested.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435463, 
+        268435488, 
+        536875049
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523257732901, 
+    "url": "https://www.igdb.com/games/dubwars", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.dubwars.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/290000"
+        }
+    ]
+}

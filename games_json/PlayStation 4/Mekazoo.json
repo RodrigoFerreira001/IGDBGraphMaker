@@ -1,0 +1,276 @@
+{
+    "aggregated_rating": 68.3333333333333, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ouqao6p96azfdu1mget2", 
+        "height": 309, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ouqao6p96azfdu1mget2.jpg", 
+        "width": 1008
+    }, 
+    "created_at": 1463313208813, 
+    "developers": [
+        9876
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "-"
+    }, 
+    "external": {
+        "steam": "390330"
+    }, 
+    "first_release_date": 1479168000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        19448, 
+        19376, 
+        6732, 
+        55752, 
+        22747, 
+        19174, 
+        51485, 
+        19290, 
+        26848, 
+        19934
+    ], 
+    "genres": [
+        8, 
+        31, 
+        32
+    ], 
+    "id": 19203, 
+    "keywords": [
+        117, 
+        575, 
+        2049, 
+        4134, 
+        4882, 
+        5379
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Mekazoo", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Non realistic looking violence towards fantasy characters -"
+    }, 
+    "platforms": [
+        6, 
+        41, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        9876
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479168000000, 
+            "human": "2016-Nov-15", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479168000000, 
+            "human": "2016-Nov-15", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479168000000, 
+            "human": "2016-Nov-15", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479168000000, 
+            "human": "2016-Nov-15", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479168000000, 
+            "human": "2016-Nov-15", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "etfgxnnindetpmw9wxe5", 
+            "height": 682, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/etfgxnnindetpmw9wxe5.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "hpeicvhsuvcvlkgkgl9p", 
+            "height": 682, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hpeicvhsuvcvlkgkgl9p.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "b0t08xhge7limowwccqv", 
+            "height": 682, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b0t08xhge7limowwccqv.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "vgyvobqv9c94l4syzq7d", 
+            "height": 682, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vgyvobqv9c94l4syzq7d.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "ho2fqwqtgbmi5r7hyqel", 
+            "height": 682, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ho2fqwqtgbmi5r7hyqel.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "tdq3pqautyowb4s4obp6", 
+            "height": 682, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tdq3pqautyowb4s4obp6.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "kgmqa18tkrwpssuw7gvk", 
+            "height": 682, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kgmqa18tkrwpssuw7gvk.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "firzgy3ceng4iyhuvc6s", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/firzgy3ceng4iyhuvc6s.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rn8rb5eaxsnyu37q2yvz", 
+            "height": 443, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rn8rb5eaxsnyu37q2yvz.jpg", 
+            "width": 707
+        }, 
+        {
+            "cloudinary_id": "lvh75wwwftjo7pwevout", 
+            "height": 443, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lvh75wwwftjo7pwevout.jpg", 
+            "width": 685
+        }, 
+        {
+            "cloudinary_id": "s7zbrlu9hafraoc5ho8s", 
+            "height": 469, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s7zbrlu9hafraoc5ho8s.jpg", 
+            "width": 664
+        }, 
+        {
+            "cloudinary_id": "dmsx8k2t6j8g99aixh6b", 
+            "height": 443, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dmsx8k2t6j8g99aixh6b.jpg", 
+            "width": 707
+        }
+    ], 
+    "slug": "mekazoo", 
+    "summary": "Mekazoo is a throwback 2d platformer with vibrant and fully 3d worlds that can be explored and conquered with a kinetically diverse cast of Mekanimals. \n \n*Use pairs of Mekanimals to swing, boost, bounce, climb, and fly through fast and flowy platforming environments. \n*Take on an insectoid army, and overcome the many challenges that lie ahead. \n*Defeat Gigantic Mekanimal Bosses to unlock their power. \n*Collect shiny medals, sparkling gems, and bountiful Mekaballs for wondrous rewards. \n*Explore a variety of lush environments inside and out, and discover the secrets of the Mekanasphere.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536871487, 
+        536872961, 
+        536875046, 
+        536875794, 
+        536876291, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 74.16666666666666, 
+    "total_rating_count": 4, 
+    "updated_at": 1528355394219, 
+    "url": "https://www.igdb.com/games/mekazoo", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "SOjc0TqtwGs"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/390330"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.goodmoodcreators.com/Mekazoo.html"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/MekazooGame/"
+        }
+    ]
+}

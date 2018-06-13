@@ -1,0 +1,247 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Area 88"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30a8\u30ea\u30a288"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "Eria Hachi-J\u016b-Hachi"
+        }
+    ], 
+    "category": 0, 
+    "collection": 4148, 
+    "cover": {
+        "cloudinary_id": "dtjioweblrg35nlwb4q6", 
+        "height": 489, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dtjioweblrg35nlwb4q6.jpg", 
+        "width": 704
+    }, 
+    "created_at": 1348913278990, 
+    "developers": [
+        37
+    ], 
+    "first_release_date": 631065600000, 
+    "franchise": 482, 
+    "franchises": [
+        482
+    ], 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        36594, 
+        22399, 
+        848, 
+        28751, 
+        15894, 
+        55029, 
+        30229, 
+        12982, 
+        17583, 
+        9789
+    ], 
+    "genres": [
+        5, 
+        11, 
+        15
+    ], 
+    "id": 1357, 
+    "keywords": [
+        1, 
+        21, 
+        78, 
+        166, 
+        613, 
+        790, 
+        1059, 
+        1186, 
+        1471, 
+        1739, 
+        1821, 
+        2109, 
+        3782, 
+        4141, 
+        4259, 
+        4388, 
+        4391, 
+        4397, 
+        4910, 
+        5303, 
+        5500, 
+        5941, 
+        6364, 
+        6523, 
+        7304, 
+        8928, 
+        9947, 
+        11177, 
+        12435
+    ], 
+    "name": "U.N. Squadron", 
+    "platforms": [
+        52, 
+        63, 
+        16, 
+        19
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        37, 
+        227
+    ], 
+    "rating": 89.9209890061563, 
+    "rating_count": 7, 
+    "release_dates": [
+        {
+            "category": 5, 
+            "date": 686188800000, 
+            "human": "1991-Q3", 
+            "m": 9, 
+            "platform": 19, 
+            "region": 5, 
+            "y": 1991
+        }, 
+        {
+            "category": 5, 
+            "date": 686188800000, 
+            "human": "1991-Q3", 
+            "m": 9, 
+            "platform": 19, 
+            "region": 2, 
+            "y": 1991
+        }, 
+        {
+            "category": 6, 
+            "date": 725760000000, 
+            "human": "1992-Q4", 
+            "m": 12, 
+            "platform": 19, 
+            "region": 1, 
+            "y": 1992
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 52, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 16, 
+            "y": 1990
+        }, 
+        {
+            "category": 6, 
+            "date": 725760000000, 
+            "human": "1992-Q4", 
+            "m": 12, 
+            "platform": 63, 
+            "y": 1992
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bx0oevi28kdgwp1veska", 
+            "height": 239, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bx0oevi28kdgwp1veska.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "sclyemwtbi3mize5dsux", 
+            "height": 239, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclyemwtbi3mize5dsux.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "u10bmqn85emhnmygajj7", 
+            "height": 239, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u10bmqn85emhnmygajj7.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "fuvxiqnk0hmitkw8hkwm", 
+            "height": 239, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fuvxiqnk0hmitkw8hkwm.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ytgity2jgtwplc2eeyo5", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ytgity2jgtwplc2eeyo5.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "qeczgqlkaxx35mwa1ani", 
+            "height": 256, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qeczgqlkaxx35mwa1ani.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "u-n-squadron", 
+    "summary": "Side-scrolling shoot-em-up, in a similar style to such games as Gradius, R-Type and Scramble. The aim is to wipe out the enemy, which has gathered around the allied airspace of 'Area 88', in a series of military aircraft-based scenarios. You choose one of three unique pilots; Shin Kazama, Micky Schymon or Greg Gates, each with varying abilities at damage repair, weapon handling and flying skill, and engage the enemy over a series of challenging missions. The player starts out with the weakest plane, the F8E Crusader, which can only be armed with a very basic range weapons. But, through completing various missions, enough cash can be raised to purchase higher-quality aircraft. These superior planes are more agile, have improved resilience to damage and have a greater range of fire. Furthermore, the more advanced fighters can be armed with superior special weapons, such as napalm. The missions include attacks on sand bases, the nuclear submarine 'Seavet' and enemy supply camps, as well as seeing off groups of airborne 'bandits' who swarm-in on Area 88. The enemy is plentiful, and the pace is frantic. Shoot at everything on the screen that moves, and the allied forces might just come out on top......", 
+    "tags": [
+        1, 
+        39, 
+        268435461, 
+        268435467, 
+        268435471, 
+        536870913, 
+        536870933, 
+        536870990, 
+        536871078, 
+        536871525, 
+        536871702, 
+        536871971, 
+        536872098, 
+        536872383, 
+        536872651, 
+        536872733, 
+        536873021, 
+        536874694, 
+        536875053, 
+        536875171, 
+        536875300, 
+        536875303, 
+        536875309, 
+        536875822, 
+        536876215, 
+        536876412, 
+        536876853, 
+        536877276, 
+        536877435, 
+        536878216, 
+        536879840, 
+        536880859, 
+        536882089, 
+        536883347, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        39
+    ], 
+    "total_rating": 89.9209890061563, 
+    "total_rating_count": 7, 
+    "updated_at": 1528638195792, 
+    "url": "https://www.igdb.com/games/u-n-squadron", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://capcom.wikia.com/wiki/U.N._Squadron"
+        }
+    ]
+}

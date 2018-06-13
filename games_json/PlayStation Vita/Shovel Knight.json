@@ -1,0 +1,473 @@
+{
+    "aggregated_rating": 88.7777777777778, 
+    "aggregated_rating_count": 19, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Shovel Knight: Shovel of Hope"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Shovel Knight: Treasure Trove"
+        }
+    ], 
+    "category": 0, 
+    "collection": 3153, 
+    "cover": {
+        "cloudinary_id": "oezfvnmdwg0ugkxic82y", 
+        "height": 374, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/oezfvnmdwg0ugkxic82y.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1403875148108, 
+    "developers": [
+        3087
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is an adventure game in which players assume the role of the Shovel Knight on a quest to stop an evil enchantress. As players run and jump through side-scrolling levels, they use a shovel to swat or hop on fantastical enemies (e.g., giant insects, skeletons). Enemies disappear amid puffs of smoke and scattered jewels when defeated."
+    }, 
+    "expansions": [
+        20027, 
+        23910
+    ], 
+    "first_release_date": 1403740800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        7344, 
+        7329, 
+        6732, 
+        55752, 
+        6705, 
+        23689, 
+        14593, 
+        1907, 
+        72373, 
+        1968
+    ], 
+    "genres": [
+        8, 
+        31, 
+        32
+    ], 
+    "id": 7444, 
+    "keywords": [
+        126, 
+        296, 
+        350, 
+        426, 
+        509, 
+        538, 
+        2016, 
+        2049, 
+        2109, 
+        2229, 
+        2542, 
+        3297, 
+        3833, 
+        4134, 
+        4135, 
+        4145, 
+        4163, 
+        4169, 
+        4215, 
+        4276, 
+        4320, 
+        4397, 
+        4405, 
+        4465, 
+        4466, 
+        4541, 
+        4619, 
+        4699, 
+        4717, 
+        4841, 
+        4854, 
+        4931, 
+        4932, 
+        4933, 
+        4957, 
+        4959, 
+        5009, 
+        5030, 
+        5114, 
+        5175, 
+        5305, 
+        5310, 
+        5316, 
+        5327, 
+        5342, 
+        5379, 
+        5584, 
+        5594, 
+        5629, 
+        5632, 
+        5638, 
+        5818, 
+        6029, 
+        6129, 
+        6200, 
+        6648, 
+        7223, 
+        7303, 
+        7357, 
+        7453, 
+        7454, 
+        7455
+    ], 
+    "name": "Shovel Knight", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Non realistic looking violence towards fantasy characters - Non realistic looking violence towards characters which although human are not very detailed"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        14, 
+        41, 
+        46, 
+        9, 
+        48, 
+        49, 
+        3, 
+        37
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 7.666666666666667, 
+    "publishers": [
+        3087
+    ], 
+    "pulse_count": 28, 
+    "rating": 88.1521978239561, 
+    "rating_count": 187, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1415145600000, 
+            "human": "2014-Nov-05", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403740800000, 
+            "human": "2014-Jun-26", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1433980800000, 
+            "human": "2015-Jun-11", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1403740800000, 
+            "human": "2014-Jun-26", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1429747200000, 
+            "human": "2015-Apr-23", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429574400000, 
+            "human": "2015-Apr-21", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429747200000, 
+            "human": "2015-Apr-23", 
+            "m": 4, 
+            "platform": 45, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1403740800000, 
+            "human": "2014-Jun-26", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403740800000, 
+            "human": "2014-Jun-26", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403740800000, 
+            "human": "2014-Jun-26", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1410566400000, 
+            "human": "2014-Sep-13", 
+            "m": 9, 
+            "platform": 14, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412726400000, 
+            "human": "2014-Oct-08", 
+            "m": 10, 
+            "platform": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1429574400000, 
+            "human": "2015-Apr-21", 
+            "m": 4, 
+            "platform": 9, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429574400000, 
+            "human": "2015-Apr-21", 
+            "m": 4, 
+            "platform": 46, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429574400000, 
+            "human": "2015-Apr-21", 
+            "m": 4, 
+            "platform": 48, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1430265600000, 
+            "human": "2015-Apr-29", 
+            "m": 4, 
+            "platform": 49, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "yxglg6uo4rkskd7fm5mn", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yxglg6uo4rkskd7fm5mn.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "aiobkf0h0plvavogv8j4", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aiobkf0h0plvavogv8j4.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "u1xp8rutziw8wvnpdhds", 
+            "height": 1079, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u1xp8rutziw8wvnpdhds.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "nyuhuhv2wbxelyrclqln", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nyuhuhv2wbxelyrclqln.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "k331lnh5fbe9exxrug7s", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k331lnh5fbe9exxrug7s.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "fa8kfkg4temt3pi8vb6w", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fa8kfkg4temt3pi8vb6w.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "q13dt2sycxgebh79av01", 
+            "height": 648, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q13dt2sycxgebh79av01.jpg", 
+            "width": 1152
+        }, 
+        {
+            "cloudinary_id": "sciinqzcyrhdkjsd8wkd", 
+            "height": 394, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciinqzcyrhdkjsd8wkd.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "s7dqmmyppgfphyasdbuj", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s7dqmmyppgfphyasdbuj.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "outycdkalqornawemrt8", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/outycdkalqornawemrt8.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uauilutxjdxhdnx1hvs6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uauilutxjdxhdnx1hvs6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "x5cwsuqveb8lrqg33ulq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x5cwsuqveb8lrqg33ulq.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "shovel-knight", 
+    "standalone_expansions": [
+        27241, 
+        27242, 
+        27240
+    ], 
+    "status": 5, 
+    "summary": "Shovel Knight is a sweeping classic action adventure game with awesome gameplay, memorable characters, and an 8-bit retro aesthetic. It's a hot mashup of new and old! You play as the eponymous Shovel Knight, a small knight with a huge quest. Shovel Knight has come to this land with two goals: to defeat the evil Enchantress and quest for his lost beloved. He wields a Shovel Blade: a multipurpose weapon whose techniques have now been lost to the ages. Always honest and helpful, Shovel Knight is a shining example of the code of Shovelry: Slash Mercilessly and Dig Tirelessly! \n \nBut, between Shovel Knight and his beloved stands a cadre of villainous knights. These terrible foes, known as The Order of No Quarter, have been dispatched to prevent Shovel Knight from reaching the Enchantress, and will pursue their mission at any cost. If you love games with perfect platforming, beautiful art, infectious music, crazy bosses, humor and levity, and real heart\u2026 Shovel Knight is for you!", 
+    "tags": [
+        1, 
+        17, 
+        27, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536871038, 
+        536871208, 
+        536871262, 
+        536871338, 
+        536871421, 
+        536871450, 
+        536872928, 
+        536872961, 
+        536873021, 
+        536873141, 
+        536873454, 
+        536874209, 
+        536874745, 
+        536875046, 
+        536875047, 
+        536875057, 
+        536875075, 
+        536875081, 
+        536875127, 
+        536875188, 
+        536875232, 
+        536875309, 
+        536875317, 
+        536875377, 
+        536875378, 
+        536875453, 
+        536875531, 
+        536875611, 
+        536875629, 
+        536875753, 
+        536875766, 
+        536875843, 
+        536875844, 
+        536875845, 
+        536875869, 
+        536875871, 
+        536875921, 
+        536875942, 
+        536876026, 
+        536876087, 
+        536876217, 
+        536876222, 
+        536876228, 
+        536876239, 
+        536876254, 
+        536876291, 
+        536876496, 
+        536876506, 
+        536876541, 
+        536876544, 
+        536876550, 
+        536876730, 
+        536876941, 
+        536877041, 
+        536877112, 
+        536877560, 
+        536878135, 
+        536878215, 
+        536878269, 
+        536878365, 
+        536878366, 
+        536878367, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17, 
+        27
+    ], 
+    "time_to_beat": {
+        "completely": 36000, 
+        "hastly": 9600, 
+        "normally": 27600
+    }, 
+    "total_rating": 88.46498780086695, 
+    "total_rating_count": 206, 
+    "updated_at": 1528474775866, 
+    "url": "https://www.igdb.com/games/shovel-knight", 
+    "videos": [
+        {
+            "name": "Official Trailer #1", 
+            "video_id": "unn0rgsa5UU"
+        }, 
+        {
+            "name": "Official Trailer #2", 
+            "video_id": "wcV-EQPrCkI"
+        }, 
+        {
+            "name": "Release Trailer", 
+            "video_id": "QNiZM2qGMss"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://yachtclubgames.com/shovel-knight/"
+        }
+    ]
+}

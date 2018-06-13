@@ -1,0 +1,220 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ymku2xbehzmhwtzsrdsg", 
+        "height": 329, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ymku2xbehzmhwtzsrdsg.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1390145163723, 
+    "developers": [
+        451
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "719070"
+    }, 
+    "first_release_date": 1067299200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        68287, 
+        36950, 
+        27314, 
+        28029, 
+        19448, 
+        64204, 
+        25300, 
+        142, 
+        11253, 
+        71455
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 3825, 
+    "keywords": [
+        163, 
+        660, 
+        970, 
+        1025, 
+        1059, 
+        2543, 
+        4134, 
+        4287, 
+        4359, 
+        5783, 
+        5814, 
+        5941, 
+        9893, 
+        13295, 
+        14149
+    ], 
+    "name": "BlowOut", 
+    "platforms": [
+        6, 
+        11, 
+        12, 
+        21, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        700
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1067299200000, 
+            "human": "2003-Oct-28", 
+            "m": 10, 
+            "platform": 21, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1067299200000, 
+            "human": "2003-Oct-28", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1067299200000, 
+            "human": "2003-Oct-28", 
+            "m": 10, 
+            "platform": 8, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1067299200000, 
+            "human": "2003-Oct-28", 
+            "m": 10, 
+            "platform": 11, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1067299200000, 
+            "human": "2003-Oct-28", 
+            "m": 10, 
+            "platform": 12, 
+            "y": 2003
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "iqbfbu6ty6f3ehvuceqq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iqbfbu6ty6f3ehvuceqq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ghpehsfbo6s2pxtkt1wa", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ghpehsfbo6s2pxtkt1wa.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "u9uydcnxb5gsvuxfggjj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u9uydcnxb5gsvuxfggjj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "t6eylvysjvbybwhcedmu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t6eylvysjvbybwhcedmu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kkuz32apztaxbl4jjm8a", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kkuz32apztaxbl4jjm8a.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pbqumvdxlsddi6wcjlrw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pbqumvdxlsddi6wcjlrw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "anptbgvorcwiiao5t9oy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/anptbgvorcwiiao5t9oy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uksrhtzjyo1wqlag8jd0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uksrhtzjyo1wqlag8jd0.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "adqjb0csu7iyf89gua1g", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/adqjb0csu7iyf89gua1g.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "z2oysd8fp5q9anlj2gu1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z2oysd8fp5q9anlj2gu1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ypbz3kbi17ims3o6jgvk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ypbz3kbi17ims3o6jgvk.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "blowout", 
+    "summary": "As Major John \"Dutch\" Cane, you'll lead an elite platoon of mercenary commandos, outfitted with the most deadly experimental weaponry, into the pit of evil. It's your job to rid the world of mutated beasts and alien insects through 10 levels of intense action. To ensure your team's success, the military has given you access to a variety of weapons, including a 20mm pump-action shotgun, eight-meter flamethrower, plasma rifle, machine gun, and an eight-inch nailgun. Blast through walls, ceilings, and floors to discover secrets and power-ups that enhance your weapons.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        536871075, 
+        536871572, 
+        536871882, 
+        536871937, 
+        536871971, 
+        536873455, 
+        536875046, 
+        536875199, 
+        536875271, 
+        536876695, 
+        536876726, 
+        536876853, 
+        536880805, 
+        536884207, 
+        536885061, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1523327213156, 
+    "url": "https://www.igdb.com/games/blowout", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/719070"
+        }
+    ]
+}

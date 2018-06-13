@@ -1,0 +1,395 @@
+{
+    "aggregated_rating": 46.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "Shad\u014d za Hejjihoggu \u30b7\u30e3\u30c9\u30a6\u30fb\u30b6\u30fb\u30d8\u30c3\u30b8\u30db\u30c3\u30b0"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2156, 
+    "cover": {
+        "cloudinary_id": "bgd3dudmo6wye7wbzqxs", 
+        "height": 318, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bgd3dudmo6wye7wbzqxs.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1390529287676, 
+    "developers": [
+        395
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1132012800000, 
+    "franchise": 814, 
+    "franchises": [
+        814
+    ], 
+    "game_engines": [
+        41
+    ], 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        21063, 
+        36950, 
+        19561, 
+        1936, 
+        37016, 
+        27011, 
+        11567, 
+        68287, 
+        27314, 
+        21062
+    ], 
+    "genres": [
+        5, 
+        8, 
+        31
+    ], 
+    "id": 4105, 
+    "keywords": [
+        57, 
+        69, 
+        296, 
+        558, 
+        575, 
+        733, 
+        970, 
+        1025, 
+        1313, 
+        1682, 
+        2049, 
+        2152, 
+        2155, 
+        2184, 
+        4162, 
+        4176, 
+        4282, 
+        4287, 
+        4297, 
+        4359, 
+        4446, 
+        4455, 
+        4457, 
+        4458, 
+        4459, 
+        4463, 
+        4525, 
+        4529, 
+        4660, 
+        4694, 
+        4746, 
+        4828, 
+        4850, 
+        4907, 
+        4956, 
+        4971, 
+        5022, 
+        5171, 
+        5287, 
+        5441, 
+        5558, 
+        5593, 
+        5915, 
+        6084, 
+        6094, 
+        6117, 
+        6463, 
+        6811, 
+        9406, 
+        9412, 
+        9529, 
+        10435, 
+        12755, 
+        13109, 
+        13295, 
+        14609, 
+        15189, 
+        15190
+    ], 
+    "name": "Shadow the Hedgehog", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        45, 
+        11, 
+        21, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        112
+    ], 
+    "rating": 52.69493562122931, 
+    "rating_count": 23, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1371600000000, 
+            "human": "2013-Jun-19", 
+            "m": 6, 
+            "platform": 45, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1133308800000, 
+            "human": "2005-Nov-30", 
+            "m": 11, 
+            "platform": 8, 
+            "region": 3, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1132272000000, 
+            "human": "2005-Nov-18", 
+            "m": 11, 
+            "platform": 11, 
+            "region": 1, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1132272000000, 
+            "human": "2005-Nov-18", 
+            "m": 11, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1132272000000, 
+            "human": "2005-Nov-18", 
+            "m": 11, 
+            "platform": 21, 
+            "region": 1, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1132012800000, 
+            "human": "2005-Nov-15", 
+            "m": 11, 
+            "platform": 11, 
+            "region": 2, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1132012800000, 
+            "human": "2005-Nov-15", 
+            "m": 11, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1132012800000, 
+            "human": "2005-Nov-15", 
+            "m": 11, 
+            "platform": 21, 
+            "region": 2, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1134604800000, 
+            "human": "2005-Dec-15", 
+            "m": 12, 
+            "platform": 11, 
+            "region": 5, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1134604800000, 
+            "human": "2005-Dec-15", 
+            "m": 12, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1134604800000, 
+            "human": "2005-Dec-15", 
+            "m": 12, 
+            "platform": 21, 
+            "region": 5, 
+            "y": 2005
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "sxyhpvkmxgadnec9baby", 
+            "height": 560, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sxyhpvkmxgadnec9baby.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "hhrigi9sasgmpsa9ptwm", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hhrigi9sasgmpsa9ptwm.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "kkoobuaxijvk3ziqrcie", 
+            "height": 560, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kkoobuaxijvk3ziqrcie.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "y8mo9nablqtjwbd5clup", 
+            "height": 560, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y8mo9nablqtjwbd5clup.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "xtnpmfalpvl4myni8tlm", 
+            "height": 560, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xtnpmfalpvl4myni8tlm.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "wek7j8h2lpd3alxf9lgp", 
+            "height": 560, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wek7j8h2lpd3alxf9lgp.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "b61pn5pgbxdu1xmw3ljh", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b61pn5pgbxdu1xmw3ljh.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "hhm3epbxtfcbklhmkgfp", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hhm3epbxtfcbklhmkgfp.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "lodl5nsdqvgga60a5n0p", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lodl5nsdqvgga60a5n0p.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "kqoeztxmitbtnejti5jx", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kqoeztxmitbtnejti5jx.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "kxa4vqnhyymzz89kkxpl", 
+            "height": 218, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kxa4vqnhyymzz89kkxpl.jpg", 
+            "width": 305
+        }, 
+        {
+            "cloudinary_id": "rpqvciqpuoxoy37shvl0", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rpqvciqpuoxoy37shvl0.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "shadow-the-hedgehog", 
+    "summary": "The world is in peril as forces, both good and evil, make a play for the powerful Chaos Emeralds. In Shadow the Hedgehog, you can control Shadow and choose which side to fight for. This 3D platformer lets you use weapons, vehicles, environmental objects, and time and space manipulation to combat your foes. \n \nAlthough it is a 3D platform game as with the more recent Sonic Adventure games, the game's levels each feature up to three different missions (Hero, Dark, Normal) that the player may choose to complete. The game's plot depends on which mission is completed as well as subsequent playable levels. The game stars Shadow the Hedgehog and his quest to recover his memory, a goal he has been pursuing since his debut in Sonic Adventure 2, while an evil alien race known as the Black Arms is invading the planet.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435464, 
+        268435487, 
+        536870969, 
+        536870981, 
+        536871208, 
+        536871470, 
+        536871487, 
+        536871645, 
+        536871882, 
+        536871937, 
+        536872225, 
+        536872594, 
+        536872961, 
+        536873064, 
+        536873067, 
+        536873096, 
+        536875074, 
+        536875088, 
+        536875194, 
+        536875199, 
+        536875209, 
+        536875271, 
+        536875358, 
+        536875367, 
+        536875369, 
+        536875370, 
+        536875371, 
+        536875375, 
+        536875437, 
+        536875441, 
+        536875572, 
+        536875606, 
+        536875658, 
+        536875740, 
+        536875762, 
+        536875819, 
+        536875868, 
+        536875883, 
+        536875934, 
+        536876083, 
+        536876199, 
+        536876353, 
+        536876470, 
+        536876505, 
+        536876827, 
+        536876996, 
+        536877006, 
+        536877029, 
+        536877375, 
+        536877723, 
+        536880318, 
+        536880324, 
+        536880441, 
+        536881347, 
+        536883667, 
+        536884021, 
+        536884207, 
+        536885521, 
+        536886101, 
+        536886102, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 49.34746781061465, 
+    "total_rating_count": 25, 
+    "updated_at": 1528746259692, 
+    "url": "https://www.igdb.com/games/shadow-the-hedgehog", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Shadow_the_Hedgehog_(video_game)"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://sonic.wikia.com/wiki/Shadow_the_Hedgehog_(game)"
+        }
+    ]
+}

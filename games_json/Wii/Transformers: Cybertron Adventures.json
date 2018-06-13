@@ -1,0 +1,98 @@
+{
+    "aggregated_rating": 23.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "lobemgjxd0xtv9vutemd", 
+        "height": 359, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lobemgjxd0xtv9vutemd.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1392001182873, 
+    "developers": [
+        1054
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1277164800000, 
+    "franchise": 7, 
+    "franchises": [
+        7
+    ], 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        46892, 
+        41258, 
+        76246, 
+        19341, 
+        28029, 
+        32902, 
+        97018, 
+        96550, 
+        93794, 
+        88910
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 5242, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 5, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Transformers: Cybertron Adventures", 
+    "platforms": [
+        5
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        66
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1277164800000, 
+            "human": "2010-Jun-22", 
+            "m": 6, 
+            "platform": 5, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hp8i1jlozjy2y4ioukcg", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hp8i1jlozjy2y4ioukcg.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "transformers-cybertron-adventures", 
+    "summary": "Transformers: Cybertron Adventures features separate campaigns for the Autobots and Decepticons, but instead of being a third person shooter like War for Cybertron, this game is a rail shooter, utilizing a gameplay similar to Time Crisis series. Players must defeat a group of enemies in one area from a cover point. After all enemies are defeated, the character will move along a pre-defined path to another area, and so on. Occasionally during gameplay the character will transform into vehicle, and the player must control them to reach one point, destroying obstacles on the way. Offline co-op is also featured. The game delivers only 6 levels and a couple challenges.", 
+    "tags": [
+        268435461, 
+        1073741826
+    ], 
+    "total_rating": 23.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1501017878913, 
+    "url": "https://www.igdb.com/games/transformers-cybertron-adventures"
+}

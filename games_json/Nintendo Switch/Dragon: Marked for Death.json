@@ -1,0 +1,125 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "tfhzhzjqcxfqaxocvhyz", 
+        "height": 2048, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tfhzhzjqcxfqaxocvhyz.jpg", 
+        "width": 1459
+    }, 
+    "created_at": 1504116806554, 
+    "developers": [
+        2344
+    ], 
+    "first_release_date": 1546214400000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        47823, 
+        12632, 
+        36926, 
+        18398, 
+        36534, 
+        16468, 
+        37088, 
+        55092, 
+        59516, 
+        26766
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "id": 55199, 
+    "keywords": [
+        296, 
+        537, 
+        1026
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "platform": 130, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dragon: Marked for Death", 
+    "platforms": [
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2344
+    ], 
+    "pulse_count": 12, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "uamrdoowgrghqvsr2li0", 
+            "height": 563, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uamrdoowgrghqvsr2li0.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "bkpbrm7hbmoamokmlvrj", 
+            "height": 563, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bkpbrm7hbmoamokmlvrj.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "eisiprezkafbjcpb1hyd", 
+            "height": 563, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eisiprezkafbjcpb1hyd.jpg", 
+            "width": 1000
+        }
+    ], 
+    "slug": "dragon-marked-for-death", 
+    "summary": "A side scrolling action RPG developed by Inti Creates.", 
+    "tags": [
+        1, 
+        17, 
+        268435468, 
+        268435487, 
+        536871208, 
+        536871449, 
+        536871938, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "updated_at": 1516573013901, 
+    "url": "https://www.igdb.com/games/dragon-marked-for-death", 
+    "websites": [
+        {
+            "category": 5, 
+            "url": "https://twitter.com/DragonMFD"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://dragonmfd.com/"
+        }
+    ]
+}

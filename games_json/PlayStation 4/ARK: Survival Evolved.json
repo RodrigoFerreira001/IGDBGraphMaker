@@ -1,0 +1,330 @@
+{
+    "aggregated_rating": 68.875, 
+    "aggregated_rating_count": 10, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "abo2bjo9wt1yb0hnprml", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/abo2bjo9wt1yb0hnprml.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1431432289392, 
+    "developers": [
+        5750, 
+        6068
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is a massively multiplayer online (MMO) role-playing game set on the mysterious island of ARK. Players can shift between first- and third-person perspectives as they explore the open-world environment. Players search for resources, craft tools, build shelters, and create weapons (e.g., spears, bows, machine guns) to hunt and tame dinosaurs and other prehistoric creatures. Blood-splatter effects occur as players attack creatures and other human characters; blood can also stain the bodies of defeated enemies. During the course of the game, animals and human characters can be seen defecating, leaving balls of feces on the ground; flatulence sounds can be heard throughout the game. Players' character can craft and consume beer, which results in a screen-blurring effect."
+    }, 
+    "expansions": [
+        76206
+    ], 
+    "external": {
+        "steam": "346110"
+    }, 
+    "first_release_date": 1480982400000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        5
+    ], 
+    "games": [
+        36926, 
+        11567, 
+        28552, 
+        25300, 
+        17001, 
+        16999, 
+        19301, 
+        19561, 
+        11137, 
+        3277
+    ], 
+    "genres": [
+        5, 
+        12, 
+        31, 
+        32
+    ], 
+    "hypes": 5, 
+    "id": 10239, 
+    "keywords": [
+        87, 
+        510, 
+        1033, 
+        1333, 
+        1370, 
+        1403, 
+        1425, 
+        3510, 
+        4131, 
+        4154, 
+        4261, 
+        4306, 
+        4356, 
+        4357, 
+        4871, 
+        4873, 
+        4882, 
+        4883, 
+        5379, 
+        5790, 
+        5972, 
+        16827, 
+        16828, 
+        16894
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 64, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "ARK: Survival Evolved", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence"
+    }, 
+    "platforms": [
+        6, 
+        92, 
+        14, 
+        48, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        1, 
+        2, 
+        7
+    ], 
+    "popularity": 22.33333333333333, 
+    "publishers": [
+        5750
+    ], 
+    "pulse_count": 214, 
+    "rating": 65.8856021655941, 
+    "rating_count": 39, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1480982400000, 
+            "human": "2016-Dec-06", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1480982400000, 
+            "human": "2016-Dec-06", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1503964800000, 
+            "human": "2017-Aug-29", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gecvxp7rpd1yltfthjjm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gecvxp7rpd1yltfthjjm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jtlpukx1leehhkoi3cjb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jtlpukx1leehhkoi3cjb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "j0i8vshohfugiuuy6zz3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j0i8vshohfugiuuy6zz3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kbgkqpbrhmvlqnzjfolu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kbgkqpbrhmvlqnzjfolu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lzmrdnhiofonnoffki5w", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lzmrdnhiofonnoffki5w.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "ark-survival-evolved", 
+    "summary": "ARK: Survival Evolved takes on the survival genre with a unique blend of emergent multiplayer cooperation and competition. Players awake naked and starving on the beach of a mysterious island among a herd of other confused humans. On ARK, they must then hunt, harvest, craft, research technology, and build shelters to protect against scorching days, freezing nights, volatile weather systems, dangerous wildlife, and potential enemies. \n \nUse cunning strategy and tactics to tame and ride the many dinosaurs and other primeval creatures roaming the dynamic, persistent ecosystems across land, sea, air, and even underground. Build your character\u2019s strengths and gain items, skills, and pet creatures using in-depth role-playing systems. Start a tribe with hundreds of other players to survive and dominate competing tribes...and ultimately discover the ARK\u2019s true purpose.", 
+    "tags": [
+        1, 
+        21, 
+        38, 
+        268435461, 
+        268435468, 
+        268435487, 
+        268435488, 
+        536870999, 
+        536871422, 
+        536871945, 
+        536872245, 
+        536872282, 
+        536872315, 
+        536872337, 
+        536874422, 
+        536875043, 
+        536875066, 
+        536875173, 
+        536875218, 
+        536875268, 
+        536875269, 
+        536875783, 
+        536875785, 
+        536875794, 
+        536875795, 
+        536876291, 
+        536876702, 
+        536876884, 
+        536887739, 
+        536887740, 
+        536887806, 
+        1073741825, 
+        1073741826, 
+        1073741831
+    ], 
+    "themes": [
+        1, 
+        21, 
+        38
+    ], 
+    "total_rating": 67.38030108279705, 
+    "total_rating_count": 49, 
+    "updated_at": 1528350624902, 
+    "url": "https://www.igdb.com/games/ark-survival-evolved", 
+    "videos": [
+        {
+            "name": "Gamescom 2015 Trailer", 
+            "video_id": "hh2VkuYQQHE"
+        }, 
+        {
+            "name": "Reveal Trailer", 
+            "video_id": "kJ8Io-vOejA"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.playark.com"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Ark:_Survival_Evolved"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/346110"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/survivetheark"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/survivetheark"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://ark.gamepedia.com/ARK:_Survival_Evolved_Wiki"
+        }
+    ]
+}

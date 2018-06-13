@@ -1,0 +1,177 @@
+{
+    "aggregated_rating": 68.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "lr6dpuw5hiqelfqk4fbg", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lr6dpuw5hiqelfqk4fbg.jpg", 
+        "width": 375
+    }, 
+    "created_at": 1478895948742, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "532270"
+    }, 
+    "first_release_date": 1478563200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19341, 
+        28751, 
+        34919, 
+        36718, 
+        27314, 
+        28552, 
+        28029, 
+        10039, 
+        25311, 
+        17446
+    ], 
+    "genres": [
+        5, 
+        13
+    ], 
+    "id": 25743, 
+    "keywords": [
+        453, 
+        4234, 
+        4245, 
+        4437, 
+        4438, 
+        4446, 
+        4747, 
+        4748
+    ], 
+    "name": "Lethal VR", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        1, 
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        5793
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1482192000000, 
+            "human": "2016-Dec-20", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1478563200000, 
+            "human": "2016-Nov-08", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dbttz4lbe46c5ndqrs4s", 
+            "height": 1009, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dbttz4lbe46c5ndqrs4s.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ijuu4tvlyltrxzsu7ts1", 
+            "height": 1066, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ijuu4tvlyltrxzsu7ts1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "doehkzgho5koascz9p1x", 
+            "height": 1066, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/doehkzgho5koascz9p1x.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mopljdmha4cbpuaskdpa", 
+            "height": 1066, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mopljdmha4cbpuaskdpa.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "a2fvdky1mxrbyy0zu0pl", 
+            "height": 444, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a2fvdky1mxrbyy0zu0pl.jpg", 
+            "width": 790
+        }
+    ], 
+    "slug": "lethal-vr", 
+    "summary": "Lethal VR is an immersive Virtual Reality weapons experience created especially for the HTC Vive by Three Fields Entertainment, creators of Burnout, BLACK and Dangerous Golf. Step into our VR Weapons Range and prepare for your skills to be tested.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435469, 
+        536871365, 
+        536875146, 
+        536875157, 
+        536875349, 
+        536875350, 
+        536875358, 
+        536875659, 
+        536875660, 
+        1073741825, 
+        1073741831
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 74.16666666666666, 
+    "total_rating_count": 3, 
+    "updated_at": 1523374655892, 
+    "url": "https://www.igdb.com/games/lethal-vr", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/532270"
+        }
+    ]
+}

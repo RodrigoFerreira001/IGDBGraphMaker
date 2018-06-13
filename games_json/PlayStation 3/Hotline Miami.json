@@ -1,0 +1,350 @@
+{
+    "aggregated_rating": 86.2, 
+    "aggregated_rating_count": 13, 
+    "category": 0, 
+    "collection": 430, 
+    "cover": {
+        "cloudinary_id": "dp3p8xtimhchpujpsq4p", 
+        "height": 1934, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dp3p8xtimhchpujpsq4p.jpg", 
+        "width": 1331
+    }, 
+    "created_at": 1349020426952, 
+    "developers": [
+        1003, 
+        2345
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "219150"
+    }, 
+    "first_release_date": 1350950400000, 
+    "game_engines": [
+        79
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        6732, 
+        2126, 
+        19934, 
+        11423, 
+        11157, 
+        72373, 
+        27088, 
+        76110, 
+        530, 
+        7344
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 1384, 
+    "keywords": [
+        140, 
+        382, 
+        524, 
+        894, 
+        960, 
+        1158, 
+        1669, 
+        1705, 
+        2679, 
+        3102, 
+        3776, 
+        3922, 
+        4134, 
+        4135, 
+        4179, 
+        4187, 
+        4219, 
+        4282, 
+        4346, 
+        4418, 
+        4428, 
+        4446, 
+        4509, 
+        4580, 
+        4614, 
+        4658, 
+        4718, 
+        4726, 
+        4779, 
+        4825, 
+        5213, 
+        5280, 
+        5328, 
+        5545, 
+        5665, 
+        5694, 
+        6371, 
+        6392, 
+        6394, 
+        6398, 
+        6461, 
+        6471, 
+        6492, 
+        6637, 
+        7294, 
+        7551, 
+        9156, 
+        11028
+    ], 
+    "name": "Hotline Miami", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\n\r\nIt contains: Realistic looking violence - Strong language"
+    }, 
+    "platforms": [
+        34, 
+        45, 
+        6, 
+        14, 
+        46, 
+        9, 
+        48, 
+        3
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 7.666666666666667, 
+    "publishers": [
+        634
+    ], 
+    "pulse_count": 6, 
+    "rating": 86.0019048183181, 
+    "rating_count": 388, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1372204800000, 
+            "human": "2013-Jun-26", 
+            "m": 6, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1372118400000, 
+            "human": "2013-Jun-25", 
+            "m": 6, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1350950400000, 
+            "human": "2012-Oct-23", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1363651200000, 
+            "human": "2013-Mar-19", 
+            "m": 3, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1372118400000, 
+            "human": "2013-Jun-25", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1372118400000, 
+            "human": "2013-Jun-25", 
+            "m": 6, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1378684800000, 
+            "human": "2013-Sep-09", 
+            "m": 9, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1372204800000, 
+            "human": "2013-Jun-26", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1372204800000, 
+            "human": "2013-Jun-26", 
+            "m": 6, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408492800000, 
+            "human": "2014-Aug-20", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1427673600000, 
+            "human": "2015-Mar-30", 
+            "m": 3, 
+            "platform": 34, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "czluiyzytlkkchwn1mga", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/czluiyzytlkkchwn1mga.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xnzetcofuyj7oo9dtsjd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xnzetcofuyj7oo9dtsjd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "oxtvgvfdli3odbcs03d8", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oxtvgvfdli3odbcs03d8.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qv1iqu0f1g1wmygyvsga", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qv1iqu0f1g1wmygyvsga.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "igebxlcq4lz9pqpam3bo", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/igebxlcq4lz9pqpam3bo.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "hotline-miami", 
+    "summary": "Answer the phone, drive to your destination, put on your mask, kill everyone. Hotline Miami is a very fast paced two dimensional top-down shooter/slasher set in the 80s Miami, where you play as an unnamed character with the objective of ending everyones lives with different melee or ranged weapons while wearing an animal mask. The player starts with one mask but different masks, each with a unique effect, are unlocked as the game progresses. \n \nHotline Miami features an instant level restart system which further increases the pace of the game and enables the player to quickly try out different strategies on each map. After each mission the performance of the player is graded and he is given a score, which can unlock new masks and weapons, if the score is sufficiently high.", 
+    "tags": [
+        1, 
+        268435488, 
+        536871052, 
+        536871294, 
+        536871436, 
+        536871806, 
+        536871872, 
+        536872070, 
+        536872581, 
+        536872617, 
+        536873591, 
+        536874014, 
+        536874688, 
+        536874834, 
+        536875046, 
+        536875047, 
+        536875091, 
+        536875099, 
+        536875131, 
+        536875194, 
+        536875258, 
+        536875330, 
+        536875340, 
+        536875358, 
+        536875421, 
+        536875492, 
+        536875526, 
+        536875570, 
+        536875630, 
+        536875638, 
+        536875691, 
+        536875737, 
+        536876125, 
+        536876192, 
+        536876240, 
+        536876457, 
+        536876577, 
+        536876606, 
+        536877283, 
+        536877304, 
+        536877306, 
+        536877310, 
+        536877373, 
+        536877383, 
+        536877404, 
+        536877549, 
+        536878206, 
+        536878463, 
+        536880068, 
+        536881940, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "time_to_beat": {
+        "completely": 48000, 
+        "hastly": 11700, 
+        "normally": 22500
+    }, 
+    "total_rating": 86.10095240915905, 
+    "total_rating_count": 401, 
+    "updated_at": 1528659632951, 
+    "url": "https://www.igdb.com/games/hotline-miami", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "2o9SUPgyZRY"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/219150"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Hotline_Miami"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://hotlinemiami.com"
+        }
+    ]
+}

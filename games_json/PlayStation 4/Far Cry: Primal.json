@@ -1,0 +1,317 @@
+{
+    "aggregated_rating": 76.15, 
+    "aggregated_rating_count": 23, 
+    "artworks": [
+        {
+            "cloudinary_id": "xbg5lmfntwyeswpltb6a", 
+            "height": 1150, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xbg5lmfntwyeswpltb6a.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "bgbwvzgss3szv4iyu8nz", 
+            "height": 610, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bgbwvzgss3szv4iyu8nz.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "hfntb7xk7mrlhxkrtnfh", 
+            "height": 1380, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hfntb7xk7mrlhxkrtnfh.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "jupvla2zxbj57p4u3rdp", 
+            "height": 1110, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jupvla2zxbj57p4u3rdp.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "so4lhiziskk9algfhmju", 
+            "height": 1330, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/so4lhiziskk9algfhmju.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "kz5jkfhnytzoxr4z5mge", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kz5jkfhnytzoxr4z5mge.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "decvcaegrg2zo3w11wjv", 
+            "height": 710, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/decvcaegrg2zo3w11wjv.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "jdzsz8axcujl2ihii44h", 
+            "height": 710, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jdzsz8axcujl2ihii44h.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "rnwfxoczsueq2adhn30f", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rnwfxoczsueq2adhn30f.jpg", 
+            "width": 900
+        }
+    ], 
+    "category": 0, 
+    "collection": 103, 
+    "cover": {
+        "cloudinary_id": "xfieyc0oilm5nqyfsprp", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xfieyc0oilm5nqyfsprp.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1444160609409, 
+    "developers": [
+        38
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "371660"
+    }, 
+    "first_release_date": 1456185600000, 
+    "game_engines": [
+        118
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        37777, 
+        103054, 
+        37016, 
+        36832, 
+        27314, 
+        83728, 
+        27316, 
+        36950, 
+        101211, 
+        37062
+    ], 
+    "genres": [
+        5, 
+        31
+    ], 
+    "hypes": 11, 
+    "id": 13182, 
+    "keywords": [
+        1033, 
+        1370, 
+        1682, 
+        1729, 
+        2561, 
+        4169, 
+        4330, 
+        4345, 
+        4392, 
+        4541, 
+        4796, 
+        4895, 
+        4902, 
+        6878, 
+        15077, 
+        15078
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Far Cry: Primal", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 8.0, 
+    "publishers": [
+        104
+    ], 
+    "pulse_count": 6, 
+    "rating": 72.6276486492314, 
+    "rating_count": 89, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1456185600000, 
+            "human": "2016-Feb-23", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1456185600000, 
+            "human": "2016-Feb-23", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1456185600000, 
+            "human": "2016-Feb-23", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1456185600000, 
+            "human": "2016-Feb-23", 
+            "m": 2, 
+            "platform": 48, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1456185600000, 
+            "human": "2016-Feb-23", 
+            "m": 2, 
+            "platform": 49, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1456790400000, 
+            "human": "2016-Mar-01", 
+            "m": 3, 
+            "platform": 6, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zeq2ua0mdmp1xkenqtwx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zeq2ua0mdmp1xkenqtwx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "d7kd48vtry0jnw362qx4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d7kd48vtry0jnw362qx4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vjiehifbq6l1jxvo5ung", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vjiehifbq6l1jxvo5ung.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bkpdhculvgpuftpqz7rc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bkpdhculvgpuftpqz7rc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mjny7prkbsvqnzwk6vgn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mjny7prkbsvqnzwk6vgn.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "far-cry-primal", 
+    "summary": "Gamers play as TAKKAR, a seasoned hunter and the last surviving member of his hunting group. Arriving in the majestic and savage land of Oros, players will pursue one single goal; survive in a world where humans are the prey. They will meet a cast of memorable characters who will help them push back and tame the dangers of the wild. \n\nPlayers will journey as the first human to tame the wilderness and rise above extinction. Along the way, they will have to hunt for food, master fire, fend off fierce predators, craft weapons and tools partly from the bones of slain beasts, and face off against other tribes to conquer Oros.", 
+    "tags": [
+        1, 
+        22, 
+        268435461, 
+        268435487, 
+        536871945, 
+        536872282, 
+        536872594, 
+        536872641, 
+        536873473, 
+        536875081, 
+        536875242, 
+        536875257, 
+        536875304, 
+        536875453, 
+        536875708, 
+        536875807, 
+        536875814, 
+        536877790, 
+        536885989, 
+        536885990, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        22
+    ], 
+    "time_to_beat": {
+        "normally": 84240
+    }, 
+    "total_rating": 74.38882432461571, 
+    "total_rating_count": 112, 
+    "updated_at": 1528846200154, 
+    "url": "https://www.igdb.com/games/far-cry-primal", 
+    "videos": [
+        {
+            "name": "Behind the Scenes 3", 
+            "video_id": "8ZymcuTQfgw"
+        }, 
+        {
+            "name": "King of Oros", 
+            "video_id": "-KVA5CeTsro"
+        }, 
+        {
+            "name": "101 Trailer", 
+            "video_id": "CQOiedRo-dc"
+        }, 
+        {
+            "name": "Announcement Trailer", 
+            "video_id": "4E6THsoiokA"
+        }, 
+        {
+            "name": "Behind the Scenes Trailer", 
+            "video_id": "bqMmERKezpk"
+        }, 
+        {
+            "name": "Beast Master Trailer", 
+            "video_id": "Y-ejYYRZpxg"
+        }, 
+        {
+            "name": "Gameplay Walkthrough #1", 
+            "video_id": "idnMSPnpI6c"
+        }, 
+        {
+            "name": "Wildlife Vignette", 
+            "video_id": "kRbzkZODGy0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/371660"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://far-cry.ubisoft.com/primal/"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/FarCrygame"
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ji8luekxnz2vhnkg6rgc", 
+        "height": 263, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ji8luekxnz2vhnkg6rgc.jpg", 
+        "width": 191
+    }, 
+    "created_at": 1415226581621, 
+    "developers": [
+        426, 
+        1238, 
+        1233, 
+        141
+    ], 
+    "first_release_date": 752976000000, 
+    "franchise": 26, 
+    "franchises": [
+        26, 
+        488
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        26848, 
+        16468, 
+        1070, 
+        10039, 
+        37094, 
+        27239, 
+        28010, 
+        29032, 
+        37088, 
+        47823
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 8118, 
+    "keywords": [
+        645, 
+        1267
+    ], 
+    "name": "Disney's Aladdin", 
+    "platforms": [
+        29, 
+        6, 
+        22, 
+        13, 
+        16, 
+        33, 
+        18
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 3.333333333333333, 
+    "publishers": [
+        112, 
+        141
+    ], 
+    "rating": 83.9453077064824, 
+    "rating_count": 45, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 752976000000, 
+            "human": "1993-Nov-11", 
+            "m": 11, 
+            "platform": 29, 
+            "region": 2, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 752976000000, 
+            "human": "1993-Nov-11", 
+            "m": 11, 
+            "platform": 29, 
+            "region": 1, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 753062400000, 
+            "human": "1993-Nov-12", 
+            "m": 11, 
+            "platform": 29, 
+            "region": 5, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 788832000000, 
+            "human": "1994-Dec-31", 
+            "m": 12, 
+            "platform": 18, 
+            "region": 1, 
+            "y": 1994
+        }, 
+        {
+            "category": 2, 
+            "date": 788832000000, 
+            "human": "1994", 
+            "m": 12, 
+            "platform": 16, 
+            "region": 1, 
+            "y": 1994
+        }, 
+        {
+            "category": 2, 
+            "date": 788832000000, 
+            "human": "1994", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 1, 
+            "y": 1994
+        }, 
+        {
+            "category": 2, 
+            "date": 788832000000, 
+            "human": "1994", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1994
+        }, 
+        {
+            "category": 1, 
+            "date": 812505600000, 
+            "human": "1995-Oct", 
+            "m": 10, 
+            "platform": 33, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 973814400000, 
+            "human": "2000-Nov-10", 
+            "m": 11, 
+            "platform": 22, 
+            "region": 1, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 975542400000, 
+            "human": "2000-Nov-30", 
+            "m": 11, 
+            "platform": 22, 
+            "region": 2, 
+            "y": 2000
+        }, 
+        {
+            "category": 2, 
+            "date": 1167523200000, 
+            "human": "2006", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "debho9atri1ctj5m7zai", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/debho9atri1ctj5m7zai.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "j3f5iem9ive8rsddx6ny", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j3f5iem9ive8rsddx6ny.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "zd0vphii4ncdjxjwqopz", 
+            "height": 160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zd0vphii4ncdjxjwqopz.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "acdij0mwpvfeiex4idnh", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/acdij0mwpvfeiex4idnh.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "disneys-aladdin", 
+    "storyline": "The player controls Aladdin, who must make his way through several levels based on locations from the movie: from the streets and rooftops of Agrabah, the Cave of Wonders and the Sultan's dungeon to the final confrontation in Grand Vizier Jafar's palace. The Sultan's guards and also animals of the desert want to hinder Aladdin in his way", 
+    "summary": "Disney's Aladdin is a platform video game developed by Virgin Interactive based on the 1992 motion picture of the same name. The game was released for the Sega Genesis/Mega Drive in November 1993 and was later ported to the Nintendo Entertainment System, Game Boy, and home computers. It is one of several video games based on this film, including one game that was released in the same month by Capcom for the Super Nintendo Entertainment System.", 
+    "tags": [
+        1, 
+        17, 
+        27, 
+        268435464, 
+        536871557, 
+        536872179, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17, 
+        27
+    ], 
+    "total_rating": 81.9726538532412, 
+    "total_rating_count": 46, 
+    "updated_at": 1527891888537, 
+    "url": "https://www.igdb.com/games/disneys-aladdin", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "zn6wjsaGePQ"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "r6KTNlXQjPs"
+        }
+    ]
+}

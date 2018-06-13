@@ -1,0 +1,99 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "xnqma79y9vzmhk8uwwam", 
+        "height": 724, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xnqma79y9vzmhk8uwwam.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1488918740374, 
+    "first_release_date": 728524800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19222, 
+        41348, 
+        10225, 
+        27266, 
+        28029, 
+        43453, 
+        40114, 
+        40096, 
+        76246, 
+        19341
+    ], 
+    "genres": [
+        5, 
+        8, 
+        9
+    ], 
+    "id": 27700, 
+    "keywords": [
+        558, 
+        2049, 
+        4188, 
+        5208
+    ], 
+    "name": "Bob", 
+    "platforms": [
+        29
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 728524800000, 
+            "human": "1993-Feb-01", 
+            "m": 2, 
+            "platform": 29, 
+            "region": 8, 
+            "y": 1993
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qqyesih1e8dp5h39fws5", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qqyesih1e8dp5h39fws5.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "a8zuwghyv37iradj7roz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a8zuwghyv37iradj7roz.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xckhk8r16xujucflqovr", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xckhk8r16xujucflqovr.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "sa3xkz48ueoccuaonh0l", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sa3xkz48ueoccuaonh0l.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "bob", 
+    "status": 4, 
+    "summary": "Bob is a game of discovery and experimentation, alongside which runs a light philosophical narrative which raises questions about what we think possible and how those beliefs effect our reality. Bob attempts to generate a sense of achievement from discovery. \n \nPrimarily Bob is a 3D puzzle game designed for mobile and tablet devices.", 
+    "tags": [
+        268435461, 
+        268435465, 
+        1073741826
+    ], 
+    "updated_at": 1512981611811, 
+    "url": "https://www.igdb.com/games/bob", 
+    "websites": [
+        {
+            "category": 12, 
+            "url": "https://play.google.com/store/apps/details?id=com.GladiusGames.Box"
+        }
+    ]
+}

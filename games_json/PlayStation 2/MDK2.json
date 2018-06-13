@@ -1,0 +1,480 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "MDK2 Armageddon"
+        }, 
+        {
+            "comment": "Chinese title", 
+            "name": "\u5b64\u80c6\u67aa\u624b2"
+        }, 
+        {
+            "comment": "PlayStation 2 title", 
+            "name": "MDK 2: Armageddon"
+        }
+    ], 
+    "category": 0, 
+    "collection": 32, 
+    "cover": {
+        "cloudinary_id": "orcvy3auf0idwgz3zfz9", 
+        "height": 520, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/orcvy3auf0idwgz3zfz9.jpg", 
+        "width": 432
+    }, 
+    "created_at": 1300287248000, 
+    "developers": [
+        2, 
+        5071
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "38460"
+    }, 
+    "first_release_date": 954460800000, 
+    "game_engines": [
+        190
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        219, 
+        2031, 
+        26401, 
+        11270, 
+        7342, 
+        536, 
+        27789, 
+        7351, 
+        11065, 
+        19562
+    ], 
+    "genres": [
+        5, 
+        8, 
+        31
+    ], 
+    "id": 218, 
+    "keywords": [
+        3, 
+        103, 
+        274, 
+        301, 
+        350, 
+        467, 
+        544, 
+        558, 
+        575, 
+        598, 
+        872, 
+        897, 
+        923, 
+        966, 
+        970, 
+        1025, 
+        1033, 
+        1158, 
+        1186, 
+        1735, 
+        1935, 
+        2049, 
+        2071, 
+        2115, 
+        2381, 
+        2773, 
+        2962, 
+        3486, 
+        3741, 
+        3833, 
+        4134, 
+        4162, 
+        4169, 
+        4194, 
+        4203, 
+        4304, 
+        4317, 
+        4359, 
+        4374, 
+        4414, 
+        4432, 
+        4446, 
+        4525, 
+        4541, 
+        4552, 
+        4571, 
+        4576, 
+        4594, 
+        4619, 
+        4660, 
+        4661, 
+        4730, 
+        4829, 
+        4843, 
+        4990, 
+        5171, 
+        5181, 
+        5350, 
+        5371, 
+        5421, 
+        5422, 
+        5426, 
+        5441, 
+        5506, 
+        5578, 
+        5592, 
+        5714, 
+        5742, 
+        5757, 
+        5775, 
+        6119, 
+        6124, 
+        6137, 
+        6145, 
+        6223, 
+        6257, 
+        6318, 
+        6328, 
+        6378, 
+        6477, 
+        6481, 
+        6540, 
+        6621, 
+        6627, 
+        6716, 
+        6962, 
+        7042, 
+        7049, 
+        7092, 
+        7506, 
+        7516, 
+        7661, 
+        8130, 
+        8236, 
+        9160, 
+        9171, 
+        9261, 
+        9748, 
+        9779, 
+        10245, 
+        10251, 
+        11469, 
+        12972
+    ], 
+    "name": "MDK2", 
+    "platforms": [
+        6, 
+        23, 
+        56, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        5
+    ], 
+    "pulse_count": 1, 
+    "rating": 80.5234693001134, 
+    "rating_count": 22, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1304899200000, 
+            "human": "2011-May-09", 
+            "m": 5, 
+            "platform": 56, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 954460800000, 
+            "human": "2000-Mar-31", 
+            "m": 3, 
+            "platform": 23, 
+            "region": 2, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 959212800000, 
+            "human": "2000-May-25", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 985564800000, 
+            "human": "2001-Mar-26", 
+            "m": 3, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 1304899200000, 
+            "human": "2011-May-09", 
+            "m": 5, 
+            "platform": 56, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 960508800000, 
+            "human": "2000-Jun-09", 
+            "m": 6, 
+            "platform": 23, 
+            "region": 1, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 962409600000, 
+            "human": "2000-Jul-01", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 962236800000, 
+            "human": "2000-Jun-29", 
+            "m": 6, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 1225152000000, 
+            "human": "2008-Oct-28", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "odxrzfqfwfqoik50rdgo", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/odxrzfqfwfqoik50rdgo.jpg", 
+            "width": 559
+        }, 
+        {
+            "cloudinary_id": "ukf64ltcdnic3xtcqtv3", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ukf64ltcdnic3xtcqtv3.jpg", 
+            "width": 559
+        }, 
+        {
+            "cloudinary_id": "tpz5bzfislqgfncah2a6", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tpz5bzfislqgfncah2a6.jpg", 
+            "width": 559
+        }, 
+        {
+            "cloudinary_id": "srr6fzd94qwt0bbsvsme", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/srr6fzd94qwt0bbsvsme.jpg", 
+            "width": 559
+        }, 
+        {
+            "cloudinary_id": "jhn3lufrsgpocdseeqab", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jhn3lufrsgpocdseeqab.jpg", 
+            "width": 559
+        }, 
+        {
+            "cloudinary_id": "zli8lwmltba9umiorpuq", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zli8lwmltba9umiorpuq.jpg", 
+            "width": 559
+        }, 
+        {
+            "cloudinary_id": "q8swfg8b50pcqkntn3jp", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q8swfg8b50pcqkntn3jp.jpg", 
+            "width": 559
+        }, 
+        {
+            "cloudinary_id": "tuth6lfivfliskouplfj", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tuth6lfivfliskouplfj.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "t8i3owyotxwqwvabtts0", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t8i3owyotxwqwvabtts0.jpg", 
+            "width": 638
+        }, 
+        {
+            "cloudinary_id": "lskupr3hf7yhaba0c6wb", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lskupr3hf7yhaba0c6wb.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "qa1nu1dwm1ziicdexgeh", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qa1nu1dwm1ziicdexgeh.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "tgt3wuyqcla9i1mjcrho", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tgt3wuyqcla9i1mjcrho.jpg", 
+            "width": 1024
+        }
+    ], 
+    "slug": "mdk2", 
+    "summary": "Kurt Hectic in his snazzy suit with ribbon chute is back to save the universe. This time he is teamed with the genius Dr. Hawkins and the 6-legged gun-toting robotic dog, Max. Together they must out-sneak, out-blast and out-think their enemies as they attempt to reclaim the Earth from a vile alien menace. \n \nAll three characters - Kurt, Doctor Hawkins and Max are playable, each has his own levels, powers and items and a completely different gameplay focus. Kurt is about stealth and sniping, the Doctor has a few direct attacks but also has the ability to create items and effects out of simple household objects, while Max is a cigar smoking, quad gun toting demolition squad of a dog.", 
+    "tags": [
+        1, 
+        18, 
+        27, 
+        268435461, 
+        268435464, 
+        268435487, 
+        536870915, 
+        536871015, 
+        536871186, 
+        536871213, 
+        536871262, 
+        536871379, 
+        536871456, 
+        536871470, 
+        536871487, 
+        536871510, 
+        536871784, 
+        536871809, 
+        536871835, 
+        536871878, 
+        536871882, 
+        536871937, 
+        536871945, 
+        536872070, 
+        536872098, 
+        536872647, 
+        536872847, 
+        536872961, 
+        536872983, 
+        536873027, 
+        536873293, 
+        536873685, 
+        536873874, 
+        536874398, 
+        536874653, 
+        536874745, 
+        536875046, 
+        536875074, 
+        536875081, 
+        536875106, 
+        536875115, 
+        536875216, 
+        536875229, 
+        536875271, 
+        536875286, 
+        536875326, 
+        536875344, 
+        536875358, 
+        536875437, 
+        536875453, 
+        536875464, 
+        536875483, 
+        536875488, 
+        536875506, 
+        536875531, 
+        536875572, 
+        536875573, 
+        536875642, 
+        536875741, 
+        536875755, 
+        536875902, 
+        536876083, 
+        536876093, 
+        536876262, 
+        536876283, 
+        536876333, 
+        536876334, 
+        536876338, 
+        536876353, 
+        536876418, 
+        536876490, 
+        536876504, 
+        536876626, 
+        536876654, 
+        536876669, 
+        536876687, 
+        536877031, 
+        536877036, 
+        536877049, 
+        536877057, 
+        536877135, 
+        536877169, 
+        536877230, 
+        536877240, 
+        536877290, 
+        536877389, 
+        536877393, 
+        536877452, 
+        536877533, 
+        536877539, 
+        536877628, 
+        536877874, 
+        536877954, 
+        536877961, 
+        536878004, 
+        536878418, 
+        536878428, 
+        536878573, 
+        536879042, 
+        536879148, 
+        536880072, 
+        536880083, 
+        536880173, 
+        536880660, 
+        536880691, 
+        536881157, 
+        536881163, 
+        536882381, 
+        536883884, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18, 
+        27
+    ], 
+    "total_rating": 85.2617346500567, 
+    "total_rating_count": 23, 
+    "updated_at": 1528341834990, 
+    "url": "https://www.igdb.com/games/mdk2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "L6ZU9EQ2ghc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/38460"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.bioware.com/en/games/#game-mdk2"
+        }
+    ]
+}

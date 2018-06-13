@@ -1,0 +1,97 @@
+{
+    "category": 0, 
+    "collection": 1764, 
+    "cover": {
+        "cloudinary_id": "gg0iumc2vfbgrbdbbmct", 
+        "height": 710, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gg0iumc2vfbgrbdbbmct.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1474536224457, 
+    "first_release_date": 1019779200000, 
+    "games": [
+        13196, 
+        64061, 
+        19698, 
+        68393, 
+        49414, 
+        59427, 
+        36608, 
+        25636, 
+        47823, 
+        12632
+    ], 
+    "genres": [
+        12, 
+        24
+    ], 
+    "id": 24080, 
+    "keywords": [
+        296
+    ], 
+    "name": "Utawarerumono", 
+    "platforms": [
+        6, 
+        38, 
+        8
+    ], 
+    "popularity": 1.0, 
+    "pulse_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1019779200000, 
+            "human": "2002-Apr-26", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1161820800000, 
+            "human": "2006-Oct-26", 
+            "m": 10, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1243468800000, 
+            "human": "2009-May-28", 
+            "m": 5, 
+            "platform": 38, 
+            "region": 5, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "fqrnwy4qazs0iykov3dx", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fqrnwy4qazs0iykov3dx.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "wvfzdjj8x2qbb3xolszc", 
+            "height": 482, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wvfzdjj8x2qbb3xolszc.jpg", 
+            "width": 643
+        }, 
+        {
+            "cloudinary_id": "vqq2no9eu3jww1vosjuj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vqq2no9eu3jww1vosjuj.jpg", 
+            "width": 1440
+        }
+    ], 
+    "slug": "utawarerumono", 
+    "tags": [
+        268435468, 
+        268435480, 
+        536871208
+    ], 
+    "updated_at": 1474553540759, 
+    "url": "https://www.igdb.com/games/utawarerumono"
+}

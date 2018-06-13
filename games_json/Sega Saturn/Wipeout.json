@@ -1,0 +1,182 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 241, 
+    "cover": {
+        "cloudinary_id": "svjswdmicpzu6zabknts", 
+        "height": 598, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/svjswdmicpzu6zabknts.jpg", 
+        "width": 607
+    }, 
+    "created_at": 1339946093517, 
+    "developers": [
+        764
+    ], 
+    "first_release_date": 812332800000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        23314, 
+        17469, 
+        18699, 
+        28029, 
+        19740, 
+        12175, 
+        23297, 
+        76259, 
+        27922, 
+        54725
+    ], 
+    "genres": [
+        10
+    ], 
+    "id": 1083, 
+    "name": "Wipeout", 
+    "platforms": [
+        45, 
+        13, 
+        32, 
+        7
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        764
+    ], 
+    "rating": 80.9157804264344, 
+    "rating_count": 7, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1182470400000, 
+            "human": "2007-Jun-22", 
+            "m": 6, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1178150400000, 
+            "human": "2007-May-03", 
+            "m": 5, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 812332800000, 
+            "human": "1995-Sep-29", 
+            "m": 9, 
+            "platform": 7, 
+            "region": 1, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 816912000000, 
+            "human": "1995-Nov-21", 
+            "m": 11, 
+            "platform": 7, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 812332800000, 
+            "human": "1995-Sep-29", 
+            "m": 9, 
+            "platform": 7, 
+            "y": 1995
+        }, 
+        {
+            "category": 1, 
+            "date": 823132800000, 
+            "human": "1996-Feb", 
+            "m": 2, 
+            "platform": 32, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 1173312000000, 
+            "human": "2007-Mar-08", 
+            "m": 3, 
+            "platform": 45, 
+            "y": 2007
+        }, 
+        {
+            "category": 1, 
+            "date": 812505600000, 
+            "human": "1995-Oct", 
+            "m": 10, 
+            "platform": 13, 
+            "y": 1995
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vbekfxuzmbzlqbaien2w", 
+            "height": 470, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vbekfxuzmbzlqbaien2w.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "cbaraaqbmagqv1azhy7f", 
+            "height": 470, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cbaraaqbmagqv1azhy7f.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "hh969qvgq1hbsnbdgnw6", 
+            "height": 470, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hh969qvgq1hbsnbdgnw6.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "wggbs0nzy1awcife06en", 
+            "height": 470, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wggbs0nzy1awcife06en.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "vswtjinwfaxoxdqv8t5b", 
+            "height": 200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vswtjinwfaxoxdqv8t5b.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "wipeout", 
+    "storyline": "Set in the year 2052, players compete in the F3600 anti-gravity racing league, piloting one of a selection of craft in races on several different tracks around the world.", 
+    "summary": "Fast paced future racing game. Features F-Zero style recharging energy armor.", 
+    "tags": [
+        18, 
+        268435466, 
+        1073741826
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 77.9578902132172, 
+    "total_rating_count": 9, 
+    "updated_at": 1526033763963, 
+    "url": "https://www.igdb.com/games/wipeout", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "GRKWc6XxiXk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Wipeout_(video_game)"
+        }
+    ]
+}

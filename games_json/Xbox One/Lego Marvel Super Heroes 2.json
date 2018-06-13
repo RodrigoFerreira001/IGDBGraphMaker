@@ -1,0 +1,354 @@
+{
+    "aggregated_rating": 74.5, 
+    "aggregated_rating_count": 13, 
+    "category": 0, 
+    "collection": 2715, 
+    "cover": {
+        "cloudinary_id": "z7ckgso0i5xnkiencyce", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/z7ckgso0i5xnkiencyce.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1494857774494, 
+    "developers": [
+        293
+    ], 
+    "dlcs": [
+        101057, 
+        101058
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is an action-adventure game in which players control Lego-versions of Marvel superheroes (e.g., Guardians of the Galaxy, Avengers, Spider-man) as they attempt to stop a time-traveling villain. Players punch, kick, and use an assortment of weapons (e.g., laser blasters, swords, hammers) to defeat enemy villains and time-displaced minions in frenetic melee-style combat. Players also use various abilities (e.g., time manipulation, lighting strikes) to defeat enemies. Battles are frenetic with large explosions, realistic gunfire, and cries of pain; characters burst into \"cartoony\" Lego pieces when defeated. During some sequences, players can mount and fire projectiles from turrets to destroy enemy vehicles."
+    }, 
+    "external": {
+        "steam": "647830"
+    }, 
+    "first_release_date": 1510617600000, 
+    "franchise": 51, 
+    "franchises": [
+        51, 
+        124
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        36926, 
+        28552, 
+        28380, 
+        21063, 
+        11567, 
+        36950, 
+        28856, 
+        36897, 
+        36662, 
+        51464
+    ], 
+    "genres": [
+        25
+    ], 
+    "hypes": 11, 
+    "id": 28815, 
+    "keywords": [
+        14, 
+        350, 
+        410, 
+        698, 
+        1935, 
+        2041, 
+        2071, 
+        2154, 
+        2387, 
+        3540, 
+        4154, 
+        4224, 
+        4310, 
+        4357, 
+        4651, 
+        4806, 
+        4813, 
+        4937, 
+        4938, 
+        5205, 
+        5206, 
+        6020, 
+        7311, 
+        7541, 
+        8298, 
+        16827
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 130, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Lego Marvel Super Heroes 2", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Non realistic looking violence towards fantasy characters -"
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 27.0, 
+    "publishers": [
+        50
+    ], 
+    "pulse_count": 53, 
+    "rating": 80.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1512086400000, 
+            "human": "2017-Dec-01", 
+            "m": 12, 
+            "platform": 130, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510617600000, 
+            "human": "2017-Nov-14", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510617600000, 
+            "human": "2017-Nov-14", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510876800000, 
+            "human": "2017-Nov-17", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510876800000, 
+            "human": "2017-Nov-17", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510617600000, 
+            "human": "2017-Nov-14", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510617600000, 
+            "human": "2017-Nov-14", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510617600000, 
+            "human": "2017-Nov-14", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "l67lqbmievc4wxaevh0a", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l67lqbmievc4wxaevh0a.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qej80dtqsdyhlfipcrjq", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qej80dtqsdyhlfipcrjq.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ymiozwrupqoexbwcrnex", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ymiozwrupqoexbwcrnex.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "h5rmbz2o7esbxlpsopyh", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h5rmbz2o7esbxlpsopyh.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "fuwhxxsj5wglff0fiqq0", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fuwhxxsj5wglff0fiqq0.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zhjasaep7ls1nzklxmwe", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zhjasaep7ls1nzklxmwe.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "lyx0ubtgjswreukfybhu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lyx0ubtgjswreukfybhu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "duswpa0mczfh3lkzhd3n", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/duswpa0mczfh3lkzhd3n.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cfhsp4vsazdrlhasxdqn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cfhsp4vsazdrlhasxdqn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rkdmulrsy150wzeikbhq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rkdmulrsy150wzeikbhq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hgoxpkzrqsfqpvtyakqi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hgoxpkzrqsfqpvtyakqi.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "lego-marvel-super-heroes-2", 
+    "summary": "Marvel Super Heroes 2 is an all-new, original adventure and sequel to the smash hit, Lego Marvel Super Heroes. Bringing together iconic Marvel Super Heroes and Super Villains from different eras and realities, along with signature LEGO humor, the latest adventure transports players into a cosmic battle across a myriad of Marvel locations ripped from time and space into the incredible open hub world of Chronopolis. \n \nPlayers will go head-to-head with the time-traveling Kang the Conqueror in an epic battle across Chronopolis, from Ancient Egypt and The Old West to Sakaar and New York City in 2099. Along the way, gamers will be able to take control of a host of iconic characters, from Cowboy Captain America from the past to Spider-Man 2099 from the future along with Thor, Hulk, the Guardians of the Galaxy, Black Panther, Captain Marvel, Doctor Strange, Green Goblin, and dozens of other Marvel Super Heroes and Super Villains.", 
+    "tags": [
+        1, 
+        27, 
+        268435481, 
+        536870926, 
+        536871262, 
+        536871322, 
+        536871610, 
+        536872847, 
+        536872953, 
+        536872983, 
+        536873066, 
+        536873299, 
+        536874452, 
+        536875066, 
+        536875136, 
+        536875222, 
+        536875269, 
+        536875563, 
+        536875718, 
+        536875725, 
+        536875849, 
+        536875850, 
+        536876117, 
+        536876118, 
+        536876932, 
+        536878223, 
+        536878453, 
+        536879210, 
+        536887739, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 77.25, 
+    "total_rating_count": 15, 
+    "updated_at": 1528354884973, 
+    "url": "https://www.igdb.com/games/lego-marvel-super-heroes-2", 
+    "videos": [
+        {
+            "name": "Story Trailer", 
+            "video_id": "aljLzNJcjYk"
+        }, 
+        {
+            "name": "Inhumans Trailer", 
+            "video_id": "kvCYYFTVzto"
+        }, 
+        {
+            "name": "Kang Trailer", 
+            "video_id": "iwfiMEZT0ng"
+        }, 
+        {
+            "name": "E3 2017 Game Demo", 
+            "video_id": "BvYFUn-52fM"
+        }, 
+        {
+            "name": "Teaser", 
+            "video_id": "8Zt43Cj1_ao"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/647830"
+        }
+    ]
+}

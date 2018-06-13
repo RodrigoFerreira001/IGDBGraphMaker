@@ -1,0 +1,126 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "tlwalttkgm58pdn89cov", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tlwalttkgm58pdn89cov.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1495817867593, 
+    "external": {
+        "steam": "384320"
+    }, 
+    "first_release_date": 1448582400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        11253, 
+        22690, 
+        54662, 
+        17088, 
+        15851, 
+        28862, 
+        39920, 
+        27081, 
+        8674, 
+        81281
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 34927, 
+    "keywords": [
+        1166, 
+        1588, 
+        4726, 
+        7201
+    ], 
+    "name": "Handball 16", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        1460, 
+        1803
+    ], 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1448841600000, 
+            "human": "2015-Nov-30", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1448582400000, 
+            "human": "2015-Nov-27", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "p99bdfdingv4l9ckntx2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p99bdfdingv4l9ckntx2.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fkmr6vfcauqmzkrdyesc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fkmr6vfcauqmzkrdyesc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "abkmjv0ksrg3phnt1f4v", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/abkmjv0ksrg3phnt1f4v.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "eeanpndkdgdgb5l4kzef", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eeanpndkdgdgb5l4kzef.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bjllamcittsnyaziywcv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bjllamcittsnyaziywcv.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "handball-16", 
+    "summary": "Play with all your favourite players in THE handball simulation. \nUse all the real handball moves and tactics and challenge other players online.", 
+    "tags": [
+        268435470, 
+        536872078, 
+        536872500, 
+        536875638, 
+        536878113
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1522079245029, 
+    "url": "https://www.igdb.com/games/handball-16", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/384320"
+        }
+    ]
+}

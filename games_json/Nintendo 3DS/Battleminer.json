@@ -1,0 +1,119 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "efiufzmovc7cjdnxyegb", 
+        "height": 134, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/efiufzmovc7cjdnxyegb.jpg", 
+        "width": 140
+    }, 
+    "created_at": 1513156145120, 
+    "first_release_date": 1416441600000, 
+    "games": [
+        23175, 
+        78353, 
+        77663, 
+        77455, 
+        76135, 
+        74831, 
+        71457, 
+        67882, 
+        67176, 
+        66627
+    ], 
+    "id": 77772, 
+    "keywords": [
+        1033
+    ], 
+    "name": "Battleminer", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.0, 
+    "rating": 73.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1418256000000, 
+            "human": "2014-Dec-11", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1416441600000, 
+            "human": "2014-Nov-20", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bacekwhefklnpc6t6mno", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bacekwhefklnpc6t6mno.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "ebckgtm9ym6ap3ieunu6", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ebckgtm9ym6ap3ieunu6.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "owtde3ule62leggsgioe", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/owtde3ule62leggsgioe.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "fmzbdoo21wukpdwcpedc", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fmzbdoo21wukpdwcpedc.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "rlkxrzz8tzlau9ez0rtm", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rlkxrzz8tzlau9ez0rtm.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "fpnhd8lzsxj75yranhhk", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fpnhd8lzsxj75yranhhk.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "dravnyetvsvdkhvpc7nq", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dravnyetvsvdkhvpc7nq.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "eqpawkfad5zh2mex9mb5", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eqpawkfad5zh2mex9mb5.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "uf1eck3npzkfanzqjahj", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uf1eck3npzkfanzqjahj.jpg", 
+            "width": 400
+        }
+    ], 
+    "slug": "battleminer", 
+    "summary": "In a world taken over by Ants, the player must find resources and craft items in order to rescue the Survivors.", 
+    "tags": [
+        536871945
+    ], 
+    "total_rating": 73.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1518048780023, 
+    "url": "https://www.igdb.com/games/battleminer"
+}

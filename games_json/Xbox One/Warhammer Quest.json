@@ -1,0 +1,209 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 30, 
+    "cover": {
+        "cloudinary_id": "clrl531t9eocbllxgwes", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/clrl531t9eocbllxgwes.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1420702115544, 
+    "developers": [
+        4460, 
+        4459
+    ], 
+    "external": {
+        "steam": "326670"
+    }, 
+    "first_release_date": 1369872000000, 
+    "franchise": 509, 
+    "franchises": [
+        509
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        11423, 
+        47823, 
+        19301, 
+        11214, 
+        21429, 
+        17001, 
+        11800, 
+        16513, 
+        3277, 
+        6732
+    ], 
+    "genres": [
+        12, 
+        15, 
+        16, 
+        31
+    ], 
+    "id": 8480, 
+    "keywords": [
+        296, 
+        415, 
+        1027, 
+        1158, 
+        1360, 
+        1361, 
+        1494, 
+        4004, 
+        4134, 
+        5262
+    ], 
+    "name": "Warhammer Quest", 
+    "platforms": [
+        6, 
+        39, 
+        14, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        4461
+    ], 
+    "pulse_count": 2, 
+    "rating": 67.3410772803753, 
+    "rating_count": 5, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1369872000000, 
+            "human": "2013-May-30", 
+            "m": 5, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1487894400000, 
+            "human": "2017-Feb-24", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1420588800000, 
+            "human": "2015-Jan-07", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1420588800000, 
+            "human": "2015-Jan-07", 
+            "m": 1, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1420588800000, 
+            "human": "2015-Jan-07", 
+            "m": 1, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "q5jx3u2rdn1vkvvcmy7x", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q5jx3u2rdn1vkvvcmy7x.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ufpagon0in29jj85u8ei", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ufpagon0in29jj85u8ei.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "dlyywz4meohxmk0t3w1f", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dlyywz4meohxmk0t3w1f.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xeih6akvmmndmlsivpqe", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xeih6akvmmndmlsivpqe.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "bwzcomyn584rmi9zjsuc", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bwzcomyn584rmi9zjsuc.jpg", 
+            "width": 600
+        }
+    ], 
+    "slug": "warhammer-quest", 
+    "summary": "Dungeon Adventures in the Warhammer World! \nLead your group of brave adventurers through the perilous dungeons of the Warhammer world in the search for wealth and glory! Based on the classic Games Workshop board game, Warhammer Quest is a mix of adventure, strategy and role-playing.", 
+    "tags": [
+        17, 
+        21, 
+        268435468, 
+        268435471, 
+        268435472, 
+        268435487, 
+        536871208, 
+        536871327, 
+        536871939, 
+        536872070, 
+        536872272, 
+        536872273, 
+        536872406, 
+        536874916, 
+        536875046, 
+        536876174, 
+        1073741827
+    ], 
+    "themes": [
+        17, 
+        21
+    ], 
+    "total_rating": 58.67053864018765, 
+    "total_rating_count": 7, 
+    "updated_at": 1523432960249, 
+    "url": "https://www.igdb.com/games/warhammer-quest", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "a0C3669FD84"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/warhammer-quest/id573516833?mt=8&uo=4"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/326670"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://warhammerquestgame.com"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Warhammer_Quest"
+        }
+    ]
+}

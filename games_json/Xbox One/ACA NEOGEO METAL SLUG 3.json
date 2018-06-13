@@ -1,0 +1,88 @@
+{
+    "category": 0, 
+    "collection": 298, 
+    "cover": {
+        "cloudinary_id": "zlvzga9nfjitn2oyhd8j", 
+        "height": 698, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zlvzga9nfjitn2oyhd8j.jpg", 
+        "width": 584
+    }, 
+    "created_at": 1519382739446, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1513814400000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        46892, 
+        41258, 
+        76246, 
+        19341, 
+        28029, 
+        32902, 
+        97018, 
+        96550, 
+        93794, 
+        80488
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 88910, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "ACA NEOGEO METAL SLUG 3", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 1.0, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1513814400000, 
+            "human": "2017-Dec-21", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "w86gxqkka0ttbntdbmog", 
+            "height": 810, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w86gxqkka0ttbntdbmog.jpg", 
+            "width": 1440
+        }
+    ], 
+    "slug": "aca-neogeo-metal-slug-3", 
+    "summary": "METAL SLUG 3 is an action game released by SNK in 2000.\nIt is actually the fourth entry in the METAL SLUG Series of games. Players will be able to use four different characters as they take to the battlefield with an array of weaponry.\nNew Slugs such as a Drill Slug will also show up in gameplay, leading to even more fierce and exciting action!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players \ncan also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.", 
+    "tags": [
+        268435461
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1528213208413, 
+    "url": "https://www.igdb.com/games/aca-neogeo-metal-slug-3", 
+    "version_parent": 1408, 
+    "version_title": "ACA NEOGEO"
+}

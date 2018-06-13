@@ -1,0 +1,110 @@
+{
+    "aggregated_rating": 57.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ivzzpgaz7manndtzexhl", 
+        "height": 658, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ivzzpgaz7manndtzexhl.jpg", 
+        "width": 480
+    }, 
+    "created_at": 1469143065501, 
+    "first_release_date": 1481760000000, 
+    "games": [
+        80837, 
+        78577, 
+        78198, 
+        77475, 
+        73199, 
+        70998, 
+        69681, 
+        69352, 
+        69020, 
+        66738
+    ], 
+    "id": 20961, 
+    "keywords": [
+        166
+    ], 
+    "name": "Teslapunk", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1481760000000, 
+            "human": "2016-Dec-15", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dc3won5pwhewailxbk6u", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dc3won5pwhewailxbk6u.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "z1l0malfsxqfgsdpgexj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z1l0malfsxqfgsdpgexj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fz8owxowlyhtqk8gmdrn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fz8owxowlyhtqk8gmdrn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "sf4j22ade0qusawnqox2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sf4j22ade0qusawnqox2.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kuzx3mw1we4fhyrjf1tu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kuzx3mw1we4fhyrjf1tu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vcnixa4snqao6rmltxun", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vcnixa4snqao6rmltxun.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qg71nmg5hugk82eqhxim", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qg71nmg5hugk82eqhxim.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wu8dolxz0ry8ut54v2xx", 
+            "height": 640, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wu8dolxz0ry8ut54v2xx.jpg", 
+            "width": 1138
+        }
+    ], 
+    "slug": "teslapunk", 
+    "summary": "Save the world from a Martian DJ in this 2D shoot'em up.", 
+    "tags": [
+        536871078
+    ], 
+    "total_rating": 57.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1518014722740, 
+    "url": "https://www.igdb.com/games/teslapunk", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.teslapunk-game.com"
+        }
+    ]
+}

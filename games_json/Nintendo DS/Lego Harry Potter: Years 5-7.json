@@ -1,0 +1,449 @@
+{
+    "aggregated_rating": 76.1428571428571, 
+    "aggregated_rating_count": 7, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "LEGO Harry Potter 2"
+        }, 
+        {
+            "comment": "French title", 
+            "name": "Lego Harry Potter: Ann\u00e9e 5 \u00e0 7"
+        }
+    ], 
+    "category": 0, 
+    "collection": 573, 
+    "cover": {
+        "cloudinary_id": "npwh0652hrl8jbuesale", 
+        "height": 1869, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/npwh0652hrl8jbuesale.jpg", 
+        "width": 1501
+    }, 
+    "created_at": 1384358599072, 
+    "developers": [
+        292
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is an adventure game in which players assume the role of small Lego-versions of Harry Potter and his friends as they practice magic spells and defeat enemy creatures at the Hogwarts magic school. Players use a wand to fire fantastical blasts at ghostly figures, giant snakes and spiders, and other wizards. Characters screech or cry out in pain when hit, and often break apart into smaller Lego pieces when defeated. In some sequences, players engage in one-on-one wand duels with other characters; one duel ends with a character dramatically dissolving into the air. A few scenes include instances of slapstick humor: a skeleton creature burping; a character floating from a geyser in a toilet; a wizard covering up after his pants are zapped away."
+    }, 
+    "external": {
+        "steam": "204120"
+    }, 
+    "first_release_date": 1320969600000, 
+    "franchise": 133, 
+    "franchises": [
+        133, 
+        51
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        117, 
+        28113, 
+        6732, 
+        19082, 
+        55752, 
+        36868, 
+        27421, 
+        18387, 
+        72, 
+        18167
+    ], 
+    "genres": [
+        8, 
+        9, 
+        31
+    ], 
+    "id": 3150, 
+    "keywords": [
+        16, 
+        147, 
+        226, 
+        296, 
+        350, 
+        410, 
+        523, 
+        1033, 
+        1118, 
+        1158, 
+        1293, 
+        1638, 
+        1710, 
+        2049, 
+        2071, 
+        2152, 
+        2242, 
+        3313, 
+        4134, 
+        4142, 
+        4143, 
+        4161, 
+        4241, 
+        4245, 
+        4266, 
+        4353, 
+        4359, 
+        4404, 
+        4484, 
+        4486, 
+        4578, 
+        4619, 
+        4651, 
+        4698, 
+        4726, 
+        4813, 
+        4869, 
+        4919, 
+        4937, 
+        5272, 
+        5328, 
+        5344, 
+        5373, 
+        5730, 
+        5783, 
+        5814, 
+        5939, 
+        6039, 
+        7195, 
+        7357, 
+        8786, 
+        8789, 
+        11782
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Lego Harry Potter: Years 5-7", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        6, 
+        39, 
+        14, 
+        46, 
+        9, 
+        38, 
+        12, 
+        20, 
+        37, 
+        5
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        50, 
+        23
+    ], 
+    "rating": 76.9453068459317, 
+    "rating_count": 18, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1332374400000, 
+            "human": "2012-Mar-22", 
+            "m": 3, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1321574400000, 
+            "human": "2011-Nov-18", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1320969600000, 
+            "human": "2011-Nov-11", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1321574400000, 
+            "human": "2011-Nov-18", 
+            "m": 11, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1320969600000, 
+            "human": "2011-Nov-11", 
+            "m": 11, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1321574400000, 
+            "human": "2011-Nov-18", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1320969600000, 
+            "human": "2011-Nov-11", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1330992000000, 
+            "human": "2012-Mar-06", 
+            "m": 3, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1331251200000, 
+            "human": "2012-Mar-09", 
+            "m": 3, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1320969600000, 
+            "human": "2011-Nov-11", 
+            "m": 11, 
+            "platform": 39, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1332374400000, 
+            "human": "2012-Mar-22", 
+            "m": 3, 
+            "platform": 14, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1320969600000, 
+            "human": "2011-Nov-11", 
+            "m": 11, 
+            "platform": 6, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1320969600000, 
+            "human": "2011-Nov-11", 
+            "m": 11, 
+            "platform": 37, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1320969600000, 
+            "human": "2011-Nov-11", 
+            "m": 11, 
+            "platform": 20, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1320969600000, 
+            "human": "2011-Nov-11", 
+            "m": 11, 
+            "platform": 9, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1320969600000, 
+            "human": "2011-Nov-11", 
+            "m": 11, 
+            "platform": 38, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1330992000000, 
+            "human": "2012-Mar-06", 
+            "m": 3, 
+            "platform": 46, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1320969600000, 
+            "human": "2011-Nov-11", 
+            "m": 11, 
+            "platform": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1320969600000, 
+            "human": "2011-Nov-11", 
+            "m": 11, 
+            "platform": 12, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "slqsfobhfdpsbxiirupt", 
+            "height": 1058, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/slqsfobhfdpsbxiirupt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xgpqxzo0ccghzwdxjy3e", 
+            "height": 1058, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xgpqxzo0ccghzwdxjy3e.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nkbkfx57gyhylwqhokc3", 
+            "height": 405, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nkbkfx57gyhylwqhokc3.jpg", 
+            "width": 720
+        }, 
+        {
+            "cloudinary_id": "mtrlsbhpt6u5x3oo9ar3", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mtrlsbhpt6u5x3oo9ar3.jpg", 
+            "width": 1680
+        }, 
+        {
+            "cloudinary_id": "hpgh6l872vbsm3ovlc7v", 
+            "height": 563, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hpgh6l872vbsm3ovlc7v.jpg", 
+            "width": 1000
+        }
+    ], 
+    "slug": "lego-harry-potter-years-5-7", 
+    "summary": "The game will whisk you away to familiar locations from books 5-7 Order of the Phoenix, Half-Blood Prince and The Deathly Hallows, including Grimmauld Place, the Ministry of Magic and Godric's Hollow.", 
+    "tags": [
+        1, 
+        27, 
+        40, 
+        268435464, 
+        268435465, 
+        268435487, 
+        536870928, 
+        536871059, 
+        536871138, 
+        536871208, 
+        536871262, 
+        536871322, 
+        536871435, 
+        536871945, 
+        536872030, 
+        536872070, 
+        536872205, 
+        536872550, 
+        536872622, 
+        536872961, 
+        536872983, 
+        536873064, 
+        536873154, 
+        536874225, 
+        536875046, 
+        536875054, 
+        536875055, 
+        536875073, 
+        536875153, 
+        536875157, 
+        536875178, 
+        536875265, 
+        536875271, 
+        536875316, 
+        536875396, 
+        536875398, 
+        536875490, 
+        536875531, 
+        536875563, 
+        536875610, 
+        536875638, 
+        536875725, 
+        536875781, 
+        536875831, 
+        536875849, 
+        536876184, 
+        536876240, 
+        536876256, 
+        536876285, 
+        536876642, 
+        536876695, 
+        536876726, 
+        536876851, 
+        536876951, 
+        536878107, 
+        536878269, 
+        536879698, 
+        536879701, 
+        536882694, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        27, 
+        40
+    ], 
+    "time_to_beat": {
+        "normally": 59700
+    }, 
+    "total_rating": 76.54408199439439, 
+    "total_rating_count": 25, 
+    "updated_at": 1528463812255, 
+    "url": "https://www.igdb.com/games/lego-harry-potter-years-5-7", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "ghUZUpN9rks"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://harrypotter.lego.com"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Lego_Harry_Potter:_Years_5\u20137"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/204120"
+        }
+    ]
+}

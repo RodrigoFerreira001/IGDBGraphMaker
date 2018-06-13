@@ -1,0 +1,140 @@
+{
+    "aggregated_rating": 77.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "hqfbn5talvxh4dihzmai", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hqfbn5talvxh4dihzmai.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1460313799524, 
+    "external": {
+        "steam": "425670"
+    }, 
+    "first_release_date": 1461110400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        68287, 
+        28029, 
+        36950, 
+        64204, 
+        142, 
+        71455, 
+        27314, 
+        27523, 
+        25300, 
+        14364
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 18717, 
+    "keywords": [
+        163, 
+        970, 
+        1025
+    ], 
+    "name": "Seraph", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        6028
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1477958400000, 
+            "human": "2016-Nov-01", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1461110400000, 
+            "human": "2016-Apr-20", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1474329600000, 
+            "human": "2016-Sep-20", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hgi2dq4qznvoo8vli1fr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hgi2dq4qznvoo8vli1fr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yqtsahdw0zrxt1tyazx5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yqtsahdw0zrxt1tyazx5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dc1to4vrfddstsiptnil", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dc1to4vrfddstsiptnil.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pyntd4hsahrfjgmpu7sd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pyntd4hsahrfjgmpu7sd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "drw4b9gmqzlgkbya5cww", 
+            "height": 215, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/drw4b9gmqzlgkbya5cww.jpg", 
+            "width": 460
+        }
+    ], 
+    "slug": "seraph", 
+    "summary": "Seraph is a skill based, acrobatic side-scrolling shooter. Play as an angel, known as Seraph, who is fighting to restore her lost power and ultimately escape a prison infested with demons. Dark magic has trapped the angel inside her human Vessel: if the Vessel dies, so will Seraph.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        536871075, 
+        536871882, 
+        536871937
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 78.66666666666666, 
+    "total_rating_count": 3, 
+    "updated_at": 1522065437296, 
+    "url": "https://www.igdb.com/games/seraph", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.seraph-game.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/425670"
+        }
+    ]
+}

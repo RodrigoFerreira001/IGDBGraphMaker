@@ -1,0 +1,126 @@
+{
+    "aggregated_rating": 40.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 956, 
+    "cover": {
+        "cloudinary_id": "y3c9apjwkweg1iljusqp", 
+        "height": 320, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/y3c9apjwkweg1iljusqp.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1401214339593, 
+    "developers": [
+        2207
+    ], 
+    "first_release_date": 1223942400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        47823, 
+        23175, 
+        59516, 
+        36926, 
+        68324, 
+        55289, 
+        13189, 
+        37022, 
+        25222, 
+        25646
+    ], 
+    "genres": [
+        25, 
+        31
+    ], 
+    "id": 7001, 
+    "keywords": [
+        296, 
+        1027
+    ], 
+    "name": "Golden Axe: Beast Rider", 
+    "pegi": {
+        "rating": 5
+    }, 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        112
+    ], 
+    "rating": 70.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1311811200000, 
+            "human": "2011-Jul-28", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1224201600000, 
+            "human": "2008-Oct-17", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1223942400000, 
+            "human": "2008-Oct-14", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1223942400000, 
+            "human": "2008-Oct-14", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1224201600000, 
+            "human": "2008-Oct-17", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "awe99gm2mu98nqyk8dc0", 
+            "height": 215, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/awe99gm2mu98nqyk8dc0.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "golden-axe-beast-rider", 
+    "summary": "Beast Rider is the first Golden Axe game in 3D as opposed to side scrolling hack and slash. While this is a major shift in game style from the previous games, Beast Rider maintains many of the elements from the originals such as magic and riding beasts, as well as sending the player on a quest to defeat Death Adder.", 
+    "tags": [
+        1, 
+        268435481, 
+        268435487, 
+        536871208, 
+        536871939
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 55.0, 
+    "total_rating_count": 4, 
+    "updated_at": 1517270977970, 
+    "url": "https://www.igdb.com/games/golden-axe-beast-rider"
+}

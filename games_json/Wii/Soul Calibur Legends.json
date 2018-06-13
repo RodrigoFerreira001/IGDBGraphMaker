@@ -1,0 +1,73 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "idorclqetbjxrjhlrkxp", 
+        "height": 2160, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/idorclqetbjxrjhlrkxp.jpg", 
+        "width": 1520
+    }, 
+    "created_at": 1500050339393, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1198108800000, 
+    "games": [
+        23175, 
+        37022, 
+        55289, 
+        42080, 
+        59516, 
+        44191, 
+        12579, 
+        25646, 
+        25311, 
+        1221
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 50589, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 5, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Soul Calibur Legends", 
+    "platforms": [
+        5
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1198108800000, 
+            "human": "2007-Dec-20", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "slug": "soul-calibur-legends", 
+    "summary": "The story of Soul Calibur Legends takes place between Soul Edge and Soul Calibur, and is based around Siegfried Schtauffen's transformation into Nightmare. The game begins as Siegfried finds Soul Edge on a ship. He battles Cervantes on the deck of the ship. Later, Siegfried is tasked by the Masked Emperor of the Holy Roman Empire to find the remaining pieces of Soul Edge in order to use it to win the war against Barbaros of the Ottoman Empire.", 
+    "tags": [
+        1, 
+        268435487
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1501068198211, 
+    "url": "https://www.igdb.com/games/soul-calibur-legends"
+}

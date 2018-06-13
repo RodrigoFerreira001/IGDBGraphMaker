@@ -1,0 +1,95 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ntl6o3hxn1xnwfiy2dlq", 
+        "height": 204, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ntl6o3hxn1xnwfiy2dlq.jpg", 
+        "width": 272
+    }, 
+    "created_at": 1517341674037, 
+    "first_release_date": 1286150400000, 
+    "games": [
+        11588, 
+        90049, 
+        88882, 
+        88777, 
+        88466, 
+        87269, 
+        86842, 
+        51259, 
+        23867, 
+        86906
+    ], 
+    "id": 84850, 
+    "keywords": [
+        1118, 
+        1361
+    ], 
+    "name": "Rummikub", 
+    "platforms": [
+        39, 
+        159
+    ], 
+    "popularity": 1.0, 
+    "rating": 30.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1427846400000, 
+            "human": "2015-Apr-01", 
+            "m": 4, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1345680000000, 
+            "human": "2012-Aug-23", 
+            "m": 8, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1286150400000, 
+            "human": "2010-Oct-04", 
+            "m": 10, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jthklzh5ubds36tk22d2", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jthklzh5ubds36tk22d2.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "pk2w9e6vylohp1oh1m79", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pk2w9e6vylohp1oh1m79.jpg", 
+            "width": 272
+        }
+    ], 
+    "slug": "rummikub", 
+    "summary": "For more than 50 years, players have loved Rummikub for its combination of tactical thinking, luck and tense competition.", 
+    "tags": [
+        536872030, 
+        536872273
+    ], 
+    "total_rating": 30.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523428064399, 
+    "url": "https://www.igdb.com/games/rummikub", 
+    "websites": [
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/rummikub/id973113361?mt=8&uo=4"
+        }
+    ]
+}

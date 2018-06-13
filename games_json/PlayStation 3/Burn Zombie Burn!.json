@@ -1,0 +1,364 @@
+{
+    "aggregated_rating": 78.8, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ejzjmv6uhlse8mko8r5q", 
+        "height": 613, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ejzjmv6uhlse8mko8r5q.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1452846200248, 
+    "developers": [
+        807
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "50510"
+    }, 
+    "first_release_date": 1238025600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        7329, 
+        7350, 
+        6732, 
+        18167, 
+        19561, 
+        11423, 
+        1905, 
+        9174, 
+        536, 
+        7323
+    ], 
+    "genres": [
+        5, 
+        31, 
+        33
+    ], 
+    "id": 16174, 
+    "keywords": [
+        5, 
+        79, 
+        129, 
+        166, 
+        301, 
+        350, 
+        558, 
+        594, 
+        1025, 
+        1027, 
+        1120, 
+        1158, 
+        1320, 
+        1495, 
+        1623, 
+        1699, 
+        2152, 
+        3831, 
+        4004, 
+        4135, 
+        4150, 
+        4151, 
+        4210, 
+        4245, 
+        4246, 
+        4283, 
+        4346, 
+        4359, 
+        4446, 
+        4541, 
+        4571, 
+        4614, 
+        4658, 
+        4660, 
+        4698, 
+        4726, 
+        4735, 
+        4848, 
+        4869, 
+        4925, 
+        5027, 
+        5096, 
+        5153, 
+        5280, 
+        5331, 
+        5443, 
+        5444, 
+        5453, 
+        5523, 
+        5634, 
+        5657, 
+        5749, 
+        6376, 
+        6380, 
+        6637, 
+        6774, 
+        7159, 
+        7417, 
+        7684, 
+        8157
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Burn Zombie Burn!", 
+    "pegi": {
+        "rating": 5, 
+        "synopsis": "The content of this game is suitable for persons aged 18 years and over only.\r\r\nIt contains: Extreme violence - Multiple, motiveless killing\r\r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        34, 
+        6, 
+        39, 
+        92, 
+        14, 
+        9, 
+        72
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        11879, 
+        1117, 
+        11880, 
+        7637
+    ], 
+    "rating": 40.0, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1238025600000, 
+            "human": "2009-Mar-26", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1238025600000, 
+            "human": "2009-Mar-26", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1281571200000, 
+            "human": "2010-Aug-12", 
+            "m": 8, 
+            "platform": 92, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1281571200000, 
+            "human": "2010-Aug-12", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1284681600000, 
+            "human": "2010-Sep-17", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1368576000000, 
+            "human": "2013-May-15", 
+            "m": 5, 
+            "platform": 34, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1419379200000, 
+            "human": "2014-Dec-24", 
+            "m": 12, 
+            "platform": 39, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1407715200000, 
+            "human": "2014-Aug-11", 
+            "m": 8, 
+            "platform": 72, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1306972800000, 
+            "human": "2011-Jun-02", 
+            "m": 6, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1238025600000, 
+            "human": "2009-Mar-26", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hlrdktxtromceynyhosm", 
+            "height": 310, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hlrdktxtromceynyhosm.jpg", 
+            "width": 550
+        }, 
+        {
+            "cloudinary_id": "ziiodqmdehfrx9i2gvmw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ziiodqmdehfrx9i2gvmw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kg6y7nlctyhvivttx11q", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kg6y7nlctyhvivttx11q.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "e9evwzwt1h0a6gaebtyq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e9evwzwt1h0a6gaebtyq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lkquxqg6zrl9sjazjcko", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lkquxqg6zrl9sjazjcko.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "burn-zombie-burn", 
+    "summary": "Welcome to the char-grilled world of Burn Zombie Burn, where the best type of undead is barbequed undead. \n \nThe goals are simple: keep Bruce alive, as he tries to keep Daisy alive, and get the highest score possible. Standing (well, ambling) in your way is a never ending horde of the rotting, stinking and stupid undead. Fortunately our mild-mannered hero Bruce can get hold of some tasty weaponry. Burn, batter, shoot, maim, blow up, mince, and obliterate as many zombies as possible before they make Bruce their dinner\u2026 \n \nFlaming zombies are faster and more dangerous than regular uncooked zombies. But burning zombies drop better pickups and act as a score multiplier \u2013 light \u2018em up, score big, and have fun.", 
+    "tags": [
+        1, 
+        19, 
+        27, 
+        268435461, 
+        268435487, 
+        268435489, 
+        536870917, 
+        536870991, 
+        536871041, 
+        536871078, 
+        536871213, 
+        536871262, 
+        536871470, 
+        536871506, 
+        536871937, 
+        536871939, 
+        536872032, 
+        536872070, 
+        536872232, 
+        536872407, 
+        536872535, 
+        536872611, 
+        536873064, 
+        536874743, 
+        536874916, 
+        536875047, 
+        536875062, 
+        536875063, 
+        536875122, 
+        536875157, 
+        536875158, 
+        536875195, 
+        536875258, 
+        536875271, 
+        536875358, 
+        536875453, 
+        536875483, 
+        536875526, 
+        536875570, 
+        536875572, 
+        536875610, 
+        536875638, 
+        536875647, 
+        536875760, 
+        536875781, 
+        536875837, 
+        536875939, 
+        536876008, 
+        536876065, 
+        536876192, 
+        536876243, 
+        536876355, 
+        536876356, 
+        536876365, 
+        536876435, 
+        536876546, 
+        536876569, 
+        536876661, 
+        536877288, 
+        536877292, 
+        536877549, 
+        536877686, 
+        536878071, 
+        536878329, 
+        536878596, 
+        536879069, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        19, 
+        27
+    ], 
+    "total_rating": 59.4, 
+    "total_rating_count": 9, 
+    "updated_at": 1528345970790, 
+    "url": "https://www.igdb.com/games/burn-zombie-burn", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.p2games.co.uk/burn-zombie-burn"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/50510"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Burn_Zombie_Burn"
+        }
+    ]
+}

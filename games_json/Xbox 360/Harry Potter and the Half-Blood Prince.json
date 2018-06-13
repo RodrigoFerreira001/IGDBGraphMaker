@@ -1,0 +1,477 @@
+{
+    "aggregated_rating": 65.5714285714286, 
+    "aggregated_rating_count": 9, 
+    "alternative_names": [
+        {
+            "comment": "German title", 
+            "name": "Harry Potter und der Halbblutprinz"
+        }
+    ], 
+    "category": 0, 
+    "collection": 1502, 
+    "cover": {
+        "cloudinary_id": "jcirwfwja7abifwdiymb", 
+        "height": 315, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jcirwfwja7abifwdiymb.jpg", 
+        "width": 252
+    }, 
+    "created_at": 1391565187212, 
+    "developers": [
+        2142
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1246320000000, 
+    "franchise": 133, 
+    "franchises": [
+        133
+    ], 
+    "game_engines": [
+        542
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        6958, 
+        113, 
+        27421, 
+        1887, 
+        3025, 
+        2909, 
+        5503, 
+        1352, 
+        117, 
+        359
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 4906, 
+    "keywords": [
+        16, 
+        72, 
+        147, 
+        226, 
+        296, 
+        301, 
+        594, 
+        670, 
+        846, 
+        992, 
+        1033, 
+        1180, 
+        1240, 
+        1270, 
+        1286, 
+        1293, 
+        1302, 
+        1440, 
+        1459, 
+        1478, 
+        1538, 
+        1563, 
+        1638, 
+        1710, 
+        2045, 
+        2242, 
+        4142, 
+        4146, 
+        4169, 
+        4194, 
+        4203, 
+        4235, 
+        4241, 
+        4245, 
+        4287, 
+        4353, 
+        4359, 
+        4382, 
+        4404, 
+        4425, 
+        4438, 
+        4484, 
+        4525, 
+        4541, 
+        4544, 
+        4576, 
+        4611, 
+        4613, 
+        4674, 
+        4711, 
+        4829, 
+        4852, 
+        4879, 
+        4885, 
+        4897, 
+        4910, 
+        4919, 
+        5095, 
+        5175, 
+        5272, 
+        5373, 
+        5559, 
+        5581, 
+        5587, 
+        5709, 
+        5782, 
+        5857, 
+        6072, 
+        6117, 
+        6598, 
+        7619, 
+        8786, 
+        8857, 
+        8909, 
+        8959, 
+        9292, 
+        9448, 
+        11305, 
+        11306, 
+        11307, 
+        11308, 
+        12440, 
+        12837, 
+        12953, 
+        13076, 
+        14008
+    ], 
+    "name": "Harry Potter and the Half-Blood Prince", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters"
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        38, 
+        12, 
+        20, 
+        5, 
+        55, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1
+    ], 
+    "rating": 70.3896442859517, 
+    "rating_count": 15, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1246579200000, 
+            "human": "2009-Jul-03", 
+            "m": 7, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246579200000, 
+            "human": "2009-Jul-03", 
+            "m": 7, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246579200000, 
+            "human": "2009-Jul-03", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 12, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 9, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 6, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 20, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 8, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 55, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 38, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rfehsufi4ig60aea8ssa", 
+            "height": 192, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rfehsufi4ig60aea8ssa.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "afprtkohdahn8nqqf8yo", 
+            "height": 192, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/afprtkohdahn8nqqf8yo.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "wdjq2e5lozxfpmrl7yix", 
+            "height": 192, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wdjq2e5lozxfpmrl7yix.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "p1rqksfwank0t7ek6msj", 
+            "height": 192, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p1rqksfwank0t7ek6msj.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "hwd6xqimyz9t3hslwmlv", 
+            "height": 343, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hwd6xqimyz9t3hslwmlv.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "sdzrrnknfiss4pfav3st", 
+            "height": 192, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sdzrrnknfiss4pfav3st.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "kj53arlqf0b82lzhtbzc", 
+            "height": 193, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kj53arlqf0b82lzhtbzc.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "k4gxhymxeztiebcdx5yi", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k4gxhymxeztiebcdx5yi.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "lsazllvlvjsjzrnd74oc", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lsazllvlvjsjzrnd74oc.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "h7jrxah2ajrwrvh18m0u", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h7jrxah2ajrwrvh18m0u.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rykgu6uu4veu3hoxqcsf", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rykgu6uu4veu3hoxqcsf.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "xwc6krj9p0rkflblnvpy", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xwc6krj9p0rkflblnvpy.jpg", 
+            "width": 1024
+        }
+    ], 
+    "slug": "harry-potter-and-the-half-blood-prince", 
+    "summary": "In Harry Potter and the Half-Blood Prince the Video Game, Voldemort is tightening his grip on both the Muggle and wizarding worlds and Hogwarts is no longer the safe haven it once was. Harry suspects that dangers may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle that he knows is fast approaching. Together they work to find the key to unlock Voldemort\u2019s defenses and, to this end, Dumbledore recruits his old friend and colleague, the well-connected and unsuspecting bon vivant Professor Horace Slughorn, whom he believes holds crucial information. \n \nMeanwhile, the students are under attack from a very different, but equally unavoidable adversary as teenage hormones rage across the ramparts. Harry finds himself more and more drawn to Ginny, but so is Dean Thomas. And Lavender Brown has decided that Ron is the one for her, only she hadn't counted on Romilda Vane\u2019s chocolates. And then there\u2019s Hermione, simmering with jealously, but determined not to show her feelings. Yet as romance blossoms throughout Hogwarts, one student remains aloof. He is determined to make his mark, albeit a dark one. Love is in the air, but tragedy lies ahead and Hogwarts may never be the same again.", 
+    "tags": [
+        1, 
+        17, 
+        268435487, 
+        536870928, 
+        536870984, 
+        536871059, 
+        536871138, 
+        536871208, 
+        536871213, 
+        536871506, 
+        536871582, 
+        536871758, 
+        536871904, 
+        536871945, 
+        536872092, 
+        536872152, 
+        536872182, 
+        536872198, 
+        536872205, 
+        536872214, 
+        536872352, 
+        536872371, 
+        536872390, 
+        536872450, 
+        536872475, 
+        536872550, 
+        536872622, 
+        536872957, 
+        536873154, 
+        536875054, 
+        536875058, 
+        536875081, 
+        536875106, 
+        536875115, 
+        536875147, 
+        536875153, 
+        536875157, 
+        536875199, 
+        536875265, 
+        536875271, 
+        536875294, 
+        536875316, 
+        536875337, 
+        536875350, 
+        536875396, 
+        536875437, 
+        536875453, 
+        536875456, 
+        536875488, 
+        536875523, 
+        536875525, 
+        536875586, 
+        536875623, 
+        536875741, 
+        536875764, 
+        536875791, 
+        536875797, 
+        536875809, 
+        536875822, 
+        536875831, 
+        536876007, 
+        536876087, 
+        536876184, 
+        536876285, 
+        536876471, 
+        536876493, 
+        536876499, 
+        536876621, 
+        536876694, 
+        536876769, 
+        536876984, 
+        536877029, 
+        536877510, 
+        536878531, 
+        536879698, 
+        536879769, 
+        536879821, 
+        536879871, 
+        536880204, 
+        536880360, 
+        536882217, 
+        536882218, 
+        536882219, 
+        536882220, 
+        536883352, 
+        536883749, 
+        536883865, 
+        536883988, 
+        536884920, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 67.98053642869016, 
+    "total_rating_count": 24, 
+    "updated_at": 1525127119002, 
+    "url": "https://www.igdb.com/games/harry-potter-and-the-half-blood-prince", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "GBb4i88ZU6U"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://harrypotter.wikia.com/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)"
+        }
+    ]
+}

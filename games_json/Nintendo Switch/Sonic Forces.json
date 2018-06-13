@@ -1,0 +1,404 @@
+{
+    "aggregated_rating": 57.4, 
+    "aggregated_rating_count": 12, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Project 2017"
+        }, 
+        {
+            "name": "Project Sonic 2017"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "ljjcg02vio9k6c1dqtmm", 
+            "height": 822, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ljjcg02vio9k6c1dqtmm.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "muotl56q3qifkagwrwiv", 
+            "height": 2228, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/muotl56q3qifkagwrwiv.jpg", 
+            "width": 4337
+        }, 
+        {
+            "cloudinary_id": "jpg2agk9zfl0asm33rsn", 
+            "height": 2228, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jpg2agk9zfl0asm33rsn.jpg", 
+            "width": 4337
+        }, 
+        {
+            "cloudinary_id": "ary1r1l2naxdrpxdqsgs", 
+            "height": 2228, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ary1r1l2naxdrpxdqsgs.jpg", 
+            "width": 4337
+        }, 
+        {
+            "cloudinary_id": "padafwgfuqpxnllqnicj", 
+            "height": 2228, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/padafwgfuqpxnllqnicj.jpg", 
+            "width": 4337
+        }, 
+        {
+            "cloudinary_id": "jfks7ddwwqndw5u2saqz", 
+            "height": 2228, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jfks7ddwwqndw5u2saqz.jpg", 
+            "width": 4337
+        }, 
+        {
+            "cloudinary_id": "bbttj6tpnhp76xu7qhtf", 
+            "height": 2228, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bbttj6tpnhp76xu7qhtf.jpg", 
+            "width": 4337
+        }, 
+        {
+            "cloudinary_id": "ynqzinncovakufezuuvz", 
+            "height": 2228, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ynqzinncovakufezuuvz.jpg", 
+            "width": 4337
+        }
+    ], 
+    "category": 0, 
+    "collection": 93, 
+    "cover": {
+        "cloudinary_id": "x1kfyx5ehwnufchjxr7e", 
+        "height": 765, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/x1kfyx5ehwnufchjxr7e.jpg", 
+        "width": 650
+    }, 
+    "created_at": 1469251240129, 
+    "developers": [
+        395
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is an adventure platformer in which players help Sonic and his friend defeat Dr. Eggman and his evil plans. As players speed through different landscapes, they collect items (e.g., gold rings), avoid hazards, and use spin attacks to defeat robotic foes and bosses. Players can also use a created character to fire grappling hooks and other cartoony weapons (e.g., fire blasters, electric whip) to defeat enemies. During some boss encounters, players can perform close-up finishing blows that knock opponents out in dramatic fashion."
+    }, 
+    "external": {
+        "steam": "637100"
+    }, 
+    "first_release_date": 1510012800000, 
+    "franchise": 814, 
+    "franchises": [
+        814
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        36926, 
+        11567, 
+        36950, 
+        26766, 
+        55752, 
+        54842, 
+        25300, 
+        36868, 
+        19099, 
+        17583
+    ], 
+    "genres": [
+        8, 
+        15, 
+        31
+    ], 
+    "hypes": 45, 
+    "id": 21063, 
+    "keywords": [
+        67, 
+        69, 
+        78, 
+        296, 
+        575, 
+        902, 
+        970, 
+        1026, 
+        1228, 
+        1716, 
+        1935, 
+        2049, 
+        2071, 
+        3782, 
+        4154, 
+        4166, 
+        4176, 
+        4224, 
+        4297, 
+        4329, 
+        4357, 
+        4455, 
+        4458, 
+        4459, 
+        4823
+    ], 
+    "name": "Sonic Forces", 
+    "platforms": [
+        6, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 47.0, 
+    "publishers": [
+        1666, 
+        229, 
+        4468
+    ], 
+    "pulse_count": 189, 
+    "rating": 59.7643949387113, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1510012800000, 
+            "human": "2017-Nov-07", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510012800000, 
+            "human": "2017-Nov-07", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510185600000, 
+            "human": "2017-Nov-09", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510012800000, 
+            "human": "2017-Nov-07", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510012800000, 
+            "human": "2017-Nov-07", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510012800000, 
+            "human": "2017-Nov-07", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510012800000, 
+            "human": "2017-Nov-07", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510185600000, 
+            "human": "2017-Nov-09", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510185600000, 
+            "human": "2017-Nov-09", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510185600000, 
+            "human": "2017-Nov-09", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "amgqffoe8o2dedpafsnq", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/amgqffoe8o2dedpafsnq.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "nrbj64avcqroluiu5zn9", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nrbj64avcqroluiu5zn9.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "foaaso39cnxl96pljtaj", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/foaaso39cnxl96pljtaj.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "h6l4xtbpslur8txpmnry", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h6l4xtbpslur8txpmnry.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "neunoshtawpdhk1m4zcw", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/neunoshtawpdhk1m4zcw.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "ec70ixjsn6yahlaag7le", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ec70ixjsn6yahlaag7le.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "lsrtnfaseo8knmhpvshh", 
+            "height": 2880, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lsrtnfaseo8knmhpvshh.jpg", 
+            "width": 5120
+        }, 
+        {
+            "cloudinary_id": "ewn7lwwuvt5rb0a5iefb", 
+            "height": 2880, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ewn7lwwuvt5rb0a5iefb.jpg", 
+            "width": 5120
+        }, 
+        {
+            "cloudinary_id": "tiqdiztcifz2u8lqabun", 
+            "height": 2880, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tiqdiztcifz2u8lqabun.jpg", 
+            "width": 5120
+        }, 
+        {
+            "cloudinary_id": "bdqlyrtxslkhirwrnfpc", 
+            "height": 2880, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bdqlyrtxslkhirwrnfpc.jpg", 
+            "width": 5120
+        }, 
+        {
+            "cloudinary_id": "kbkvkhjqpxj8o7160zep", 
+            "height": 2880, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kbkvkhjqpxj8o7160zep.jpg", 
+            "width": 5120
+        }
+    ], 
+    "slug": "sonic-forces", 
+    "summary": "The game follows Sonic the Hedgehog as a member of a resistance force against Doctor Eggman, who has taken over the world with the help of his robot army and a mysterious new villain known as Infinite. Gameplay is similar to Sonic Generations with players controlling \"Classic\" and \"Modern\" versions of the titular character; the former plays from a 2.5D side-scrolling view reminiscent of the original Sonic games on the Sega Genesis, while the latter uses three-dimensional gameplay similar to Sonic Unleashed and Sonic Colors. In addition to the two Sonics, Sonic Forces also introduces a third gameplay mode featuring the \"Avatar\", the player's own custom character.", 
+    "tags": [
+        1, 
+        18, 
+        268435464, 
+        268435471, 
+        268435487, 
+        536870979, 
+        536870981, 
+        536870990, 
+        536871208, 
+        536871487, 
+        536871814, 
+        536871882, 
+        536871938, 
+        536872140, 
+        536872628, 
+        536872847, 
+        536872961, 
+        536872983, 
+        536874694, 
+        536875066, 
+        536875078, 
+        536875088, 
+        536875136, 
+        536875209, 
+        536875241, 
+        536875269, 
+        536875367, 
+        536875370, 
+        536875371, 
+        536875735, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 58.58219746935565, 
+    "total_rating_count": 18, 
+    "updated_at": 1528358024224, 
+    "url": "https://www.igdb.com/games/sonic-forces", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "uU3FawgeiAk"
+        }, 
+        {
+            "name": "Villains E3 2017 Trailer", 
+            "video_id": "sOI1Y54akRA"
+        }, 
+        {
+            "name": "Custom Character Trailer", 
+            "video_id": "mR57-iNK2og"
+        }, 
+        {
+            "name": "Debut Trailer", 
+            "video_id": "FzeWMKDGSAA"
+        }, 
+        {
+            "name": "Modern Sonic Gameplay Trailer", 
+            "video_id": "xgJyVUyogyk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/637100"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/sonic_hedgehog"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://sonic.wikia.com/wiki/Sonic_Forces"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.sonicthehedgehog.com/sonic-forces"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Sonic_Forces"
+        }
+    ]
+}

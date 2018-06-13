@@ -1,0 +1,106 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "p9sc0wcnjrenzs6hh4k9", 
+        "height": 900, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/p9sc0wcnjrenzs6hh4k9.jpg", 
+        "width": 760
+    }, 
+    "created_at": 1506584727840, 
+    "developers": [
+        14263
+    ], 
+    "first_release_date": 1502323200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        10209, 
+        10213, 
+        10210, 
+        7065, 
+        28029, 
+        10212, 
+        76246, 
+        19341, 
+        10039, 
+        85191
+    ], 
+    "genres": [
+        5, 
+        33
+    ], 
+    "id": 69502, 
+    "keywords": [
+        166, 
+        911
+    ], 
+    "name": "Aka to Blue", 
+    "platforms": [
+        34, 
+        39, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.0, 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 130, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1502323200000, 
+            "human": "2017-Aug-10", 
+            "m": 8, 
+            "platform": 34, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1502323200000, 
+            "human": "2017-Aug-10", 
+            "m": 8, 
+            "platform": 39, 
+            "y": 2017
+        }
+    ], 
+    "slug": "aka-to-blue", 
+    "summary": "Shoot 'em up/Bullet Hell game for mobile platforms (iOS/Android) by Tanoshimasu Co. Ltd", 
+    "tags": [
+        268435461, 
+        268435489, 
+        536871078, 
+        536871823, 
+        1073741827
+    ], 
+    "updated_at": 1516575697380, 
+    "url": "https://www.igdb.com/games/aka-to-blue", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "PumcRteI4lg"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 12, 
+            "url": "https://play.google.com/store/apps/details?id=com.tanoshimasu.akatoblue&hl=en"
+        }, 
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/jp/app/%E3%82%A2%E3%82%AB%E3%81%A8%E3%83%96%E3%83%AB%E3%83%BC/id1255167241"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://tanoshimasu.com/aka-to-blue/"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "aggregated_rating": 45.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kmhv5ndggtuqdsxtgfst", 
+        "height": 514, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kmhv5ndggtuqdsxtgfst.jpg", 
+        "width": 518
+    }, 
+    "created_at": 1467993108176, 
+    "first_release_date": 1438646400000, 
+    "games": [
+        23345, 
+        19376, 
+        18623, 
+        19934, 
+        55036, 
+        18918, 
+        19290, 
+        2015, 
+        30229, 
+        29173
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 20045, 
+    "keywords": [
+        117, 
+        151, 
+        3782, 
+        4134, 
+        5316, 
+        5379
+    ], 
+    "name": "The Castle Game", 
+    "platforms": [
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1438646400000, 
+            "human": "2015-Aug-04", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1438646400000, 
+            "human": "2015-Aug-04", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "weqw1gpedfzusdgqxdnz", 
+            "height": 350, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/weqw1gpedfzusdgqxdnz.jpg", 
+            "width": 620
+        }
+    ], 
+    "slug": "the-castle-game", 
+    "summary": "The Castle Game is a strategy castle building game from Neptune Interactive.", 
+    "tags": [
+        22, 
+        268435471, 
+        536871029, 
+        536871063, 
+        536874694, 
+        536875046, 
+        536876228, 
+        536876291
+    ], 
+    "themes": [
+        22
+    ], 
+    "total_rating": 45.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1516685805407, 
+    "url": "https://www.igdb.com/games/the-castle-game"
+}

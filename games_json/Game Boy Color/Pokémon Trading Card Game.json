@@ -1,0 +1,380 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Pokemon Card GB"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Pokemon Trading Card Game"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Pok\u00e9mon Card GB"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Pokemon Trading Card Game Online"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30dd\u30b1\u30e2\u30f3\u30ab\u30fc\u30c9GB "
+        }, 
+        {
+            "comment": "Acronym", 
+            "name": "Pok\u00e9mon TCG"
+        }
+    ], 
+    "category": 0, 
+    "collection": 1569, 
+    "cover": {
+        "cloudinary_id": "leui7arlxdq8mmlpu0p7", 
+        "height": 256, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/leui7arlxdq8mmlpu0p7.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1390803739395, 
+    "developers": [
+        864, 
+        1393
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 913939200000, 
+    "franchise": 60, 
+    "franchises": [
+        60
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        19301, 
+        26841, 
+        36926, 
+        18645, 
+        24423, 
+        1512, 
+        7202, 
+        19934, 
+        11214, 
+        1279
+    ], 
+    "genres": [
+        12, 
+        13, 
+        15, 
+        16, 
+        31
+    ], 
+    "id": 4567, 
+    "keywords": [
+        78, 
+        98, 
+        246, 
+        247, 
+        249, 
+        296, 
+        345, 
+        409, 
+        415, 
+        478, 
+        482, 
+        805, 
+        1026, 
+        1027, 
+        1090, 
+        1148, 
+        1159, 
+        1293, 
+        1333, 
+        1521, 
+        1682, 
+        1869, 
+        1926, 
+        2063, 
+        2079, 
+        2606, 
+        3171, 
+        3782, 
+        4134, 
+        4214, 
+        4270, 
+        4272, 
+        4358, 
+        4366, 
+        4400, 
+        4444, 
+        4487, 
+        4674, 
+        4676, 
+        5047, 
+        5049, 
+        5316, 
+        5476, 
+        6048, 
+        7741, 
+        7742, 
+        7994, 
+        8044, 
+        8045, 
+        8325, 
+        8328, 
+        8334, 
+        8337, 
+        8360, 
+        8366, 
+        8398, 
+        8409, 
+        8784, 
+        9681, 
+        9690, 
+        11577
+    ], 
+    "name": "Pok\u00e9mon Trading Card Game", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons."
+    }, 
+    "platforms": [
+        22, 
+        47, 
+        37
+    ], 
+    "player_perspectives": [
+        1, 
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        70
+    ], 
+    "rating": 76.1019637296922, 
+    "rating_count": 34, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1415836800000, 
+            "human": "2014-Nov-13", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1404950400000, 
+            "human": "2014-Jul-10", 
+            "m": 7, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 913939200000, 
+            "human": "1998-Dec-18", 
+            "m": 12, 
+            "platform": 22, 
+            "region": 5, 
+            "y": 1998
+        }, 
+        {
+            "category": 0, 
+            "date": 955324800000, 
+            "human": "2000-Apr-10", 
+            "m": 4, 
+            "platform": 22, 
+            "region": 2, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 976233600000, 
+            "human": "2000-Dec-08", 
+            "m": 12, 
+            "platform": 22, 
+            "region": 1, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 1404950400000, 
+            "human": "2014-Jul-10", 
+            "m": 7, 
+            "platform": 47, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1405036800000, 
+            "human": "2014-Jul-11", 
+            "m": 7, 
+            "platform": 47, 
+            "region": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415836800000, 
+            "human": "2014-Nov-13", 
+            "m": 11, 
+            "platform": 47, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1419379200000, 
+            "human": "2014-Dec-24", 
+            "m": 12, 
+            "platform": 47, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 2, 
+            "date": 978220800000, 
+            "human": "2000", 
+            "m": 12, 
+            "platform": 22, 
+            "region": 3, 
+            "y": 2000
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "aexykk0sb5sejc6uqnfs", 
+            "height": 474, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aexykk0sb5sejc6uqnfs.jpg", 
+            "width": 529
+        }, 
+        {
+            "cloudinary_id": "fxvsmaek05gxslsgnddi", 
+            "height": 481, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fxvsmaek05gxslsgnddi.jpg", 
+            "width": 530
+        }, 
+        {
+            "cloudinary_id": "h5sei8ontdbvzximekb8", 
+            "height": 479, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h5sei8ontdbvzximekb8.jpg", 
+            "width": 531
+        }, 
+        {
+            "cloudinary_id": "yblvnazqati8yduomrrd", 
+            "height": 477, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yblvnazqati8yduomrrd.jpg", 
+            "width": 533
+        }
+    ], 
+    "slug": "pokemon-trading-card-game", 
+    "summary": "Your goal in life is to become a Pokemon Card Master. In order to do that, you must pick a deck from three starter packs of cards based on Charmander, Squirtle, and Bulbasaur and travel to the eight card clubs and defeat their leaders. Along the way, you will challenge many players to collect new cards and the helpful Professor Mason will aid you by giving you cards as well. While becoming a card master is a laudable accomplishment, the real goal of the game is to collect all of the cards over 200 in all. If you want to collect all of the cards, you must play human opponents in the Pop mode to get a chance to earn rare cards. All of the complexity of the real-world game has been captured here. Play Pokemon Trading Card Game and become a Pokemon Card Master.", 
+    "tags": [
+        1, 
+        17, 
+        35, 
+        268435468, 
+        268435469, 
+        268435471, 
+        268435472, 
+        268435487, 
+        536870990, 
+        536871010, 
+        536871158, 
+        536871159, 
+        536871161, 
+        536871208, 
+        536871257, 
+        536871321, 
+        536871327, 
+        536871390, 
+        536871394, 
+        536871717, 
+        536871938, 
+        536871939, 
+        536872002, 
+        536872060, 
+        536872071, 
+        536872205, 
+        536872245, 
+        536872433, 
+        536872594, 
+        536872781, 
+        536872838, 
+        536872975, 
+        536872991, 
+        536873518, 
+        536874083, 
+        536874694, 
+        536875046, 
+        536875126, 
+        536875182, 
+        536875184, 
+        536875270, 
+        536875278, 
+        536875312, 
+        536875356, 
+        536875399, 
+        536875586, 
+        536875588, 
+        536875959, 
+        536875961, 
+        536876228, 
+        536876388, 
+        536876960, 
+        536878653, 
+        536878654, 
+        536878906, 
+        536878956, 
+        536878957, 
+        536879237, 
+        536879240, 
+        536879246, 
+        536879249, 
+        536879272, 
+        536879278, 
+        536879310, 
+        536879321, 
+        536879696, 
+        536880593, 
+        536880602, 
+        536882489, 
+        1073741825, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        17, 
+        35
+    ], 
+    "total_rating": 76.1019637296922, 
+    "total_rating_count": 34, 
+    "updated_at": 1527704230778, 
+    "url": "https://www.igdb.com/games/pokemon-trading-card-game", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://pokemon.wikia.com/"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.pokemon.com/us/pokemon-video-games/pokemon-trading-card-game/"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game_%28video_game%29"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/Pokemon"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/pokemon"
+        }
+    ]
+}

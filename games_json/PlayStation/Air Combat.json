@@ -1,0 +1,163 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Alternative title", 
+            "name": "Ace Combat"
+        }, 
+        {
+            "comment": "Initial Japanese title", 
+            "name": "\u30a8\u30a2\u30fc\u30b3\u30f3\u30d0\u30c3\u30c8"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30a8\u30fc\u30b9\u30b3\u30f3\u30d0\u30c3\u30c8"
+        }
+    ], 
+    "category": 0, 
+    "collection": 104, 
+    "cover": {
+        "cloudinary_id": "lmh2fmxzrjdflecnr5lu", 
+        "height": 801, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lmh2fmxzrjdflecnr5lu.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1448393135057, 
+    "developers": [
+        263, 
+        7301
+    ], 
+    "external": {
+        "steam": "746350"
+    }, 
+    "first_release_date": 804470400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        34919, 
+        19341, 
+        28465, 
+        32902, 
+        10039, 
+        25311, 
+        33603, 
+        36962, 
+        55888, 
+        65827
+    ], 
+    "genres": [
+        5, 
+        13, 
+        32
+    ], 
+    "id": 14691, 
+    "name": "Air Combat", 
+    "platforms": [
+        7
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        263
+    ], 
+    "rating": 69.9936622432246, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 810950400000, 
+            "human": "1995-Sep-13", 
+            "m": 9, 
+            "platform": 7, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 804470400000, 
+            "human": "1995-Jun-30", 
+            "m": 6, 
+            "platform": 7, 
+            "region": 5, 
+            "y": 1995
+        }, 
+        {
+            "category": 1, 
+            "date": 812505600000, 
+            "human": "1995-Oct", 
+            "m": 10, 
+            "platform": 7, 
+            "region": 1, 
+            "y": 1995
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xjt8tuyzfppucjnawd6r", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xjt8tuyzfppucjnawd6r.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fhmcie5oqojjbmaribvw", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fhmcie5oqojjbmaribvw.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "fvsak3tgqyzi0vzwpvhg", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvsak3tgqyzi0vzwpvhg.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "w9lmmmzarj25axpmixbc", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w9lmmmzarj25axpmixbc.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "cpkn3rfkobddggc9rmmo", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cpkn3rfkobddggc9rmmo.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "air-combat", 
+    "storyline": "You play as a freelance mercenary hired by world governments to strike against terrorists. The missions get harder as you proceed, but the money you earn for completing each mission makes it worthwhile. You can purchase additional aircraft and arms as you go along, as well as hire wingmen to make the going easier.", 
+    "summary": "The first game of the Ace Combat series. \n \nCombat flight simulator in which you play a mercenary pilot who hires his combat skills to several corporations, governments, etc. in order to get cash for weapons & upgrades. \n \nThe game progresses through a series of linear missions, and has a 2 player split-screen deathmatch mode plus a series of extras like hidden planes, mini-games, etc.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435469, 
+        268435488, 
+        1073741825, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "time_to_beat": {
+        "normally": 18000
+    }, 
+    "total_rating": 69.9968311216123, 
+    "total_rating_count": 7, 
+    "updated_at": 1526778322270, 
+    "url": "https://www.igdb.com/games/air-combat", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://skycoder.itch.io"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/746350"
+        }
+    ]
+}

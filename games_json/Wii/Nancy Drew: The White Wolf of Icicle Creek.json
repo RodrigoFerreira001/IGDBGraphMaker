@@ -1,0 +1,153 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 1030, 
+    "cover": {
+        "cloudinary_id": "f5weanu3ljj26vxci2ls", 
+        "height": 400, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/f5weanu3ljj26vxci2ls.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1391798703505, 
+    "developers": [
+        2246
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "31930"
+    }, 
+    "first_release_date": 1181174400000, 
+    "franchise": 332, 
+    "franchises": [
+        332
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        13189, 
+        25222, 
+        11296, 
+        13163, 
+        27314, 
+        19448, 
+        22425, 
+        11423, 
+        41895, 
+        11261
+    ], 
+    "genres": [
+        2, 
+        31
+    ], 
+    "id": 5050, 
+    "keywords": [
+        215, 
+        758, 
+        1027, 
+        1158, 
+        4145, 
+        4330, 
+        4331, 
+        4345, 
+        6270, 
+        8196, 
+        9344
+    ], 
+    "name": "Nancy Drew: The White Wolf of Icicle Creek", 
+    "platforms": [
+        6, 
+        5
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2246, 
+        112
+    ], 
+    "rating": 70.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1228176000000, 
+            "human": "2008-Dec-02", 
+            "m": 12, 
+            "platform": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1181174400000, 
+            "human": "2007-Jun-07", 
+            "m": 6, 
+            "platform": 6, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ylmoq99rksjoz6hk5qba", 
+            "height": 385, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ylmoq99rksjoz6hk5qba.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "n9rkpfpxzzveu6pfqzqf", 
+            "height": 385, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n9rkpfpxzzveu6pfqzqf.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "fgvf2pgxjbpbynejup2i", 
+            "height": 385, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fgvf2pgxjbpbynejup2i.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "kvinwpfq3nrq9unm3nlr", 
+            "height": 385, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kvinwpfq3nrq9unm3nlr.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "o6i6uoedstwtcdltbdil", 
+            "height": 385, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o6i6uoedstwtcdltbdil.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "nancy-drew-the-white-wolf-of-icicle-creek", 
+    "summary": "Follow a Trail to Hidden Secrets and Sabotage!", 
+    "tags": [
+        268435458, 
+        268435487, 
+        536871127, 
+        536871670, 
+        536871939, 
+        536872070, 
+        536875057, 
+        536875242, 
+        536875243, 
+        536875257, 
+        536877182, 
+        536879108, 
+        536880256
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1523280725570, 
+    "url": "https://www.igdb.com/games/nancy-drew-the-white-wolf-of-icicle-creek", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.herinteractive.com/shop-games/nancy-drew-the-white-wolf-of-icicle-creek/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/31930"
+        }
+    ]
+}

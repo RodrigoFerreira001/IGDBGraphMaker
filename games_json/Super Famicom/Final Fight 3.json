@@ -1,0 +1,396 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Final Fight Tough"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30a4\u30c8 \u30bf\u30d5"
+        }
+    ], 
+    "category": 0, 
+    "collection": 328, 
+    "cover": {
+        "cloudinary_id": "jmehiujlhwfka8wbu3ee", 
+        "height": 448, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jmehiujlhwfka8wbu3ee.jpg", 
+        "width": 629
+    }, 
+    "created_at": 1351290688675, 
+    "developers": [
+        37
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 819504000000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        1656, 
+        1655, 
+        6790, 
+        7364, 
+        1658, 
+        6787, 
+        6558, 
+        1664, 
+        1654, 
+        7329
+    ], 
+    "genres": [
+        4, 
+        25, 
+        33
+    ], 
+    "id": 1657, 
+    "keywords": [
+        21, 
+        61, 
+        107, 
+        215, 
+        221, 
+        558, 
+        872, 
+        889, 
+        963, 
+        969, 
+        977, 
+        982, 
+        998, 
+        1059, 
+        1107, 
+        1186, 
+        1188, 
+        1313, 
+        1358, 
+        1669, 
+        1675, 
+        2152, 
+        4161, 
+        4164, 
+        4213, 
+        4271, 
+        4286, 
+        4369, 
+        4449, 
+        4494, 
+        4508, 
+        4522, 
+        4626, 
+        4678, 
+        4698, 
+        4743, 
+        4819, 
+        4855, 
+        4959, 
+        5020, 
+        5154, 
+        5172, 
+        5354, 
+        5491, 
+        5578, 
+        5763, 
+        5911, 
+        5968, 
+        6077, 
+        6151, 
+        6152, 
+        6308, 
+        6711, 
+        7084, 
+        7280, 
+        7287, 
+        7300, 
+        7353, 
+        7593, 
+        9970, 
+        10083
+    ], 
+    "name": "Final Fight 3", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Violence in a sporting context."
+    }, 
+    "platforms": [
+        41, 
+        19, 
+        47, 
+        37, 
+        5, 
+        58
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        37
+    ], 
+    "rating": 81.0, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1474502400000, 
+            "human": "2016-Sep-22", 
+            "m": 9, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1473292800000, 
+            "human": "2016-Sep-08", 
+            "m": 9, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1380758400000, 
+            "human": "2013-Oct-03", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1380758400000, 
+            "human": "2013-Oct-03", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1260230400000, 
+            "human": "2009-Dec-08", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1265328000000, 
+            "human": "2010-Feb-05", 
+            "m": 2, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1262563200000, 
+            "human": "2010-Jan-04", 
+            "m": 1, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 819590400000, 
+            "human": "1995-Dec-22", 
+            "m": 12, 
+            "platform": 58, 
+            "region": 5, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 819504000000, 
+            "human": "1995-Dec-21", 
+            "m": 12, 
+            "platform": 19, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 826675200000, 
+            "human": "1996-Mar-13", 
+            "m": 3, 
+            "platform": 19, 
+            "region": 1, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 1260230400000, 
+            "human": "2009-Dec-08", 
+            "m": 12, 
+            "platform": 47, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1262563200000, 
+            "human": "2010-Jan-04", 
+            "m": 1, 
+            "platform": 47, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1265328000000, 
+            "human": "2010-Feb-05", 
+            "m": 2, 
+            "platform": 47, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1265328000000, 
+            "human": "2010-Feb-05", 
+            "m": 2, 
+            "platform": 47, 
+            "region": 3, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tq6xwhf0a9ziylkrnarm", 
+            "height": 182, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tq6xwhf0a9ziylkrnarm.jpg", 
+            "width": 209
+        }, 
+        {
+            "cloudinary_id": "ezrcxuxl5quxcckvtv8u", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ezrcxuxl5quxcckvtv8u.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "wgalakf1jxqkyr09il3y", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wgalakf1jxqkyr09il3y.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "wclh530pxefv3jjguudt", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wclh530pxefv3jjguudt.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "wyzeowat8ddgfeh4i4it", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wyzeowat8ddgfeh4i4it.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "qbfve9tzm6pvdwakfaim", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qbfve9tzm6pvdwakfaim.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "gfogbslasgfpzavk31xo", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gfogbslasgfpzavk31xo.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "rcj2o2jjp1e9avgfb6i4", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rcj2o2jjp1e9avgfb6i4.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "final-fight-3", 
+    "summary": "YOU CAN TEACH A NEW SKULL OLD TRICKS \n \nMetro City is under attack, and this time a new crime organization is claiming responsibility. Pulling pages from the Mad Gear Gang's guidebook, the feared group named SKULL CROSS are up to the same old tricks: arson, terrorism, assault, and armed robbery. \n \nMayor Mike Haggar returns with the potent Guy at his side. And with help from Cody's pal Lucia, and Dean, a revenge-seeking fighting machine, the Final Fight team will ambush the enemy at their next move. Choose to play one of the 4 characters, each with thier own fighting style and \"SUPER\" knock out techniques. Have a friend join in for a double assault on the city's scum and crush any punk that gets in your way! \n \n \n-9 huge levels of action that really packs a punch! \n-Pull off special attacks to power up your SUPER move meter and blam! The multiple-hit punch and kick barrage you unleash devastates your opponents! \n-Make decisions on directions to travel-makes your fight different every time! \n-Enjoy 2-player simultaneous fun, or try the new AUTO 2-PLAYER mode where the computer acts as your teammate! \n-24-MEGS-The biggest Final Fight ever!", 
+    "tags": [
+        1, 
+        268435460, 
+        268435481, 
+        268435489, 
+        536870933, 
+        536870973, 
+        536871019, 
+        536871127, 
+        536871133, 
+        536871470, 
+        536871784, 
+        536871801, 
+        536871875, 
+        536871881, 
+        536871889, 
+        536871894, 
+        536871910, 
+        536871971, 
+        536872019, 
+        536872098, 
+        536872100, 
+        536872225, 
+        536872270, 
+        536872581, 
+        536872587, 
+        536873064, 
+        536875073, 
+        536875076, 
+        536875125, 
+        536875183, 
+        536875198, 
+        536875281, 
+        536875361, 
+        536875406, 
+        536875420, 
+        536875434, 
+        536875538, 
+        536875590, 
+        536875610, 
+        536875655, 
+        536875731, 
+        536875767, 
+        536875871, 
+        536875932, 
+        536876066, 
+        536876084, 
+        536876266, 
+        536876403, 
+        536876490, 
+        536876675, 
+        536876823, 
+        536876880, 
+        536876989, 
+        536877063, 
+        536877064, 
+        536877220, 
+        536877623, 
+        536877996, 
+        536878192, 
+        536878199, 
+        536878212, 
+        536878265, 
+        536878505, 
+        536880882, 
+        536880995, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 81.0, 
+    "total_rating_count": 4, 
+    "updated_at": 1525643854494, 
+    "url": "https://www.igdb.com/games/final-fight-3", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "fN7wBOXuJ2Y"
+        }
+    ]
+}

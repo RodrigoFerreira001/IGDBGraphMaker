@@ -1,0 +1,134 @@
+{
+    "aggregated_rating": 46.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "hq3nazhiueh2wvepf2zk", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hq3nazhiueh2wvepf2zk.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1462590123332, 
+    "external": {
+        "steam": "370140"
+    }, 
+    "first_release_date": 1472428800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25222, 
+        14047, 
+        27266, 
+        26223, 
+        60044, 
+        25646, 
+        26239, 
+        51978, 
+        28465, 
+        34919
+    ], 
+    "genres": [
+        9, 
+        32
+    ], 
+    "id": 19039, 
+    "keywords": [
+        2875
+    ], 
+    "name": "Nebulous", 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1479254400000, 
+            "human": "2016-Nov-16", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472515200000, 
+            "human": "2016-Aug-30", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472428800000, 
+            "human": "2016-Aug-29", 
+            "m": 8, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472428800000, 
+            "human": "2016-Aug-29", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "yt13vffmearl7nryelse", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yt13vffmearl7nryelse.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nb3eydtsrvrrht9suktn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nb3eydtsrvrrht9suktn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "aeuvumajripgvzxvczat", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aeuvumajripgvzxvczat.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ny5u9h8uykuoewzbav4p", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ny5u9h8uykuoewzbav4p.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vhvdckyk0q3nhsughbb5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vhvdckyk0q3nhsughbb5.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "nebulous", 
+    "summary": "Nebulous is a physics-based puzzle game where you must help guide Commander Dash Johnson, a trapped astronaut, through maze-like levels, seeking the next wormhole to his eventual freedom. Arrange the pieces so that when he falls, gravity guides him safely (and probably painfully) to the end!", 
+    "tags": [
+        268435465, 
+        268435488, 
+        536873787, 
+        1073741831
+    ], 
+    "total_rating": 48.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1523417575797, 
+    "url": "https://www.igdb.com/games/nebulous"
+}

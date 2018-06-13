@@ -1,0 +1,158 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "Kakomunja"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u304b\u3053\u3080\u3093\u86c7"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Kakomun Hebi"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mqauevu7kouedmr2vls6", 
+        "height": 380, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mqauevu7kouedmr2vls6.jpg", 
+        "width": 330
+    }, 
+    "created_at": 1499974361210, 
+    "developers": [
+        2839
+    ], 
+    "first_release_date": 639360000000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        19934, 
+        76731, 
+        29173, 
+        55036, 
+        25311, 
+        23345, 
+        19376, 
+        55590, 
+        25640, 
+        22258
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 49021, 
+    "keywords": [
+        575, 
+        1739, 
+        1756, 
+        3782, 
+        4958, 
+        17184
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "platform": 33, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Serpent", 
+    "platforms": [
+        33
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        1136, 
+        2839
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 639360000000, 
+            "human": "1990-Apr-06", 
+            "m": 4, 
+            "platform": 33, 
+            "region": 5, 
+            "y": 1990
+        }, 
+        {
+            "category": 0, 
+            "date": 657417600000, 
+            "human": "1990-Nov-01", 
+            "m": 11, 
+            "platform": 33, 
+            "region": 2, 
+            "y": 1990
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "cq0pe4nhcrc5d1vapz2p", 
+            "height": 284, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cq0pe4nhcrc5d1vapz2p.jpg", 
+            "width": 314
+        }, 
+        {
+            "cloudinary_id": "e9vqto8u6ogbhvr1crnu", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e9vqto8u6ogbhvr1crnu.jpg", 
+            "width": 480
+        }, 
+        {
+            "cloudinary_id": "uoogbk86jjp8yckxubu1", 
+            "height": 1100, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uoogbk86jjp8yckxubu1.jpg", 
+            "width": 803
+        }, 
+        {
+            "cloudinary_id": "fikzycpducp3bapgwpmh", 
+            "height": 802, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fikzycpducp3bapgwpmh.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "sipnphledpnix2bikb2d", 
+            "height": 503, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sipnphledpnix2bikb2d.jpg", 
+            "width": 500
+        }
+    ], 
+    "slug": "serpent", 
+    "summary": "Serpent (\u304b\u3053\u3080\u3093\u86c7 Kakomunja) is a Game Boy snake game exclusive for the North American and Japanese markets. \n \nIn the future, there is a sport called Serpent. Two fighters in serpentine robotic machines try to box each other in to win the fight. The serpents are detailed in the fact that they aren't just a line, giving a greater sense of realism to the game. Each snake has a fixed amount of lives; with losing a life being a representation of \"losing the war.\" The \"game over\" message is a simple message saying \"the bitter taste of defeat\" with an animated picture of a snake crying and accompanied by a melancholic music in a waltz rhythm. \n \nThere are two modes with four difficulty levels; level 1 is considered to be the easiest (normal speed and enemy performance) while level 4 is the hardest (fast speed and enemies are likely to cheat death). The first mode allows players to simply compete against an opponent while the second mode brings in a series of small snakes that emerge when players take too long conquering a level. Missiles can be launched when the player collects them on the field. White numbers help the player develop a longer body while black numbers make the body shorter. \n \nMissiles can either make the enemy faster (black missiles) or slower (white missiles). Winning 7 of the 13 possible matches automatically makes the player into the \"champion of serpents.\"", 
+    "tags": [
+        1, 
+        268435471, 
+        536871487, 
+        536872651, 
+        536872668, 
+        536874694, 
+        536875870
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1527489500426, 
+    "url": "https://www.igdb.com/games/serpent", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "rfahrQKcwHQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Serpent_%28video_game%29"
+        }
+    ]
+}

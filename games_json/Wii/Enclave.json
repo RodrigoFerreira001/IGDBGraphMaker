@@ -1,0 +1,283 @@
+{
+    "aggregated_rating": 81.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Chinese title", 
+            "name": "\u56f0\u571f"
+        }, 
+        {
+            "comment": "Wii title", 
+            "name": "Enclave: Shadows of Twilight"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "pajzv2qaeq5afog8u9b1", 
+        "height": 1943, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pajzv2qaeq5afog8u9b1.jpg", 
+        "width": 1518
+    }, 
+    "created_at": 1348912885447, 
+    "developers": [
+        280
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": ""
+    }, 
+    "external": {
+        "steam": "253980"
+    }, 
+    "first_release_date": 1015718400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        36926, 
+        26841, 
+        7533, 
+        47823, 
+        11567, 
+        21429, 
+        55092, 
+        26769, 
+        12632, 
+        1593
+    ], 
+    "genres": [
+        12, 
+        25
+    ], 
+    "id": 1345, 
+    "keywords": [
+        22, 
+        96, 
+        147, 
+        151, 
+        174, 
+        226, 
+        227, 
+        296, 
+        389, 
+        478, 
+        1026, 
+        1033, 
+        1158, 
+        1559, 
+        2242, 
+        2414, 
+        2439, 
+        2561, 
+        4130, 
+        4134, 
+        4350, 
+        4392, 
+        4394, 
+        4404, 
+        4419, 
+        4460, 
+        4619, 
+        4826, 
+        4881, 
+        5020, 
+        5095, 
+        5750, 
+        6683, 
+        7048, 
+        7447, 
+        7457, 
+        7529, 
+        7561, 
+        9557, 
+        9744, 
+        12123, 
+        12414
+    ], 
+    "name": "Enclave", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence."
+    }, 
+    "platforms": [
+        6, 
+        11, 
+        5
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2507, 
+        147, 
+        1189
+    ], 
+    "rating": 76.6197457762031, 
+    "rating_count": 17, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1015718400000, 
+            "human": "2002-Mar-10", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1025308800000, 
+            "human": "2002-Jun-29", 
+            "m": 6, 
+            "platform": 11, 
+            "region": 2, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1337644800000, 
+            "human": "2012-May-22", 
+            "m": 5, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1027036800000, 
+            "human": "2002-Jul-19", 
+            "m": 7, 
+            "platform": 11, 
+            "region": 1, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1031788800000, 
+            "human": "2002-Sep-12", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1273536000000, 
+            "human": "2010-May-11", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "okfmx9iaa8vjfynrukkf", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/okfmx9iaa8vjfynrukkf.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "lacuifyuh68conhbakrd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lacuifyuh68conhbakrd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "izjcjkaplmostdxdicez", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/izjcjkaplmostdxdicez.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "eq9j7lewycgmgrw0zwwm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eq9j7lewycgmgrw0zwwm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jn64ptbo4raroen4aalo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jn64ptbo4raroen4aalo.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "enclave", 
+    "summary": "Experience incredibly atmospheric and intense medieval combat action! Go ahead and enter a new world, the award-winning world of Enclave. \n \nThe people of Light and Darkness are divided by a bottomless rift that split the earth many millennia ago. The lands of light are an Enclave of truth and order surrounded by the twisted and barren lands of the dark, known as the Outlands. Over the centuries the rift has started to close\u2026 \n \nAnd now it is only a matter of time before the forces of Light and Darkness will clash in an unprecedented, merciless struggle for survival! Remember... When a storm comes up, for some it\u2019s better to keep out of its way\u2026 while for others it\u2019s time to block its path!", 
+    "tags": [
+        1, 
+        17, 
+        22, 
+        268435468, 
+        268435481, 
+        536870934, 
+        536871008, 
+        536871059, 
+        536871063, 
+        536871086, 
+        536871138, 
+        536871139, 
+        536871208, 
+        536871301, 
+        536871390, 
+        536871938, 
+        536871945, 
+        536872070, 
+        536872471, 
+        536873154, 
+        536873326, 
+        536873351, 
+        536873473, 
+        536875042, 
+        536875046, 
+        536875262, 
+        536875304, 
+        536875306, 
+        536875316, 
+        536875331, 
+        536875372, 
+        536875531, 
+        536875738, 
+        536875793, 
+        536875932, 
+        536876007, 
+        536876662, 
+        536877595, 
+        536877960, 
+        536878359, 
+        536878369, 
+        536878441, 
+        536878473, 
+        536880469, 
+        536880656, 
+        536883035, 
+        536883326, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        22
+    ], 
+    "total_rating": 78.80987288810155, 
+    "total_rating_count": 19, 
+    "updated_at": 1523700076365, 
+    "url": "https://www.igdb.com/games/enclave", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "y_nZ-3ob3mU"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/253980"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.enclave-game.com/"
+        }
+    ]
+}

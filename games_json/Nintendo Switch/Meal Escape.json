@@ -1,0 +1,211 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "q0vejrzok31eqlsetple", 
+        "height": 998, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/q0vejrzok31eqlsetple.jpg", 
+        "width": 1801
+    }, 
+    "created_at": 1518225377283, 
+    "developers": [
+        14798
+    ], 
+    "first_release_date": 1577750400000, 
+    "game_engines": [
+        529
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        51485, 
+        26848, 
+        11588, 
+        41064, 
+        18918, 
+        19301, 
+        44076, 
+        19083, 
+        28289, 
+        9760
+    ], 
+    "genres": [
+        8, 
+        10, 
+        15, 
+        33
+    ], 
+    "id": 86513, 
+    "keywords": [
+        758, 
+        984, 
+        1356, 
+        3765
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 4, 
+            "platform": 14, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 4, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 4, 
+            "platform": 130, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Meal Escape", 
+    "platforms": [
+        6, 
+        14, 
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 6, 
+            "date": 1577750400000, 
+            "human": "2019-Q4", 
+            "m": 12, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2019
+        }, 
+        {
+            "category": 6, 
+            "date": 1577750400000, 
+            "human": "2019-Q4", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2019
+        }, 
+        {
+            "category": 6, 
+            "date": 1577750400000, 
+            "human": "2019-Q4", 
+            "m": 12, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2019
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ok4wihmdku2peqgq04tm", 
+            "height": 564, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ok4wihmdku2peqgq04tm.jpg", 
+            "width": 996
+        }, 
+        {
+            "cloudinary_id": "zk7a4cydhwzqhwuqlj5o", 
+            "height": 559, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zk7a4cydhwzqhwuqlj5o.jpg", 
+            "width": 987
+        }, 
+        {
+            "cloudinary_id": "ftd03elhop1q8xjiby2r", 
+            "height": 562, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ftd03elhop1q8xjiby2r.jpg", 
+            "width": 991
+        }, 
+        {
+            "cloudinary_id": "ff1lvwt8kogfhcx4mhqr", 
+            "height": 560, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ff1lvwt8kogfhcx4mhqr.jpg", 
+            "width": 992
+        }
+    ], 
+    "slug": "meal-escape", 
+    "status": 2, 
+    "storyline": "At the begining of 2016, Krist Alc\u00e1zar, a game programming teacher, was challenged by a student to create a model based on photogrammetry and animate it seamlessly. He accepted the challenge and he promised to do it over the weekend (because it happened on friday). \n \nHe was thinking about what thing he could do it. And thinking, he turned his head towards the kitchen and saw a leg of cured ham\u2026 we have to remember that he lives in Spain. \n \nThat led him to do the photogrammetry, rig the model and make a small demo for mobile, where with a slide, the leg of ham ran through a terrain. The result was a bit creepy but at the same time intoxicating and very funny. That gave him a great idea to make meal escape\u2026 \n \nSo he decided to propose to some students to make some game assets for this idea. It took them 3 months doing it on spare time. After that the idea took strength and Krist Alc\u00e1zar decided to review it to carry it out and look for financing to develop it. \n \n--- \n \nFeatures \n \nHave fun doing the hooligan without limits: \n \nFind the exit and break the score: The basic idea is like the classic board game \u201cChutes and Ladders\u201d where depending on where you step you can advance or delay your position. If you escape faster you will get achievements. You can also break the score exploring the limits of the level or creating more chaos. \n \nHilarious and arbitrary moments: Every moment will be unique, memorable and fully of humor. All the things of the scene will be interactable and each one will have their own mechanic. You can create your own gameplay. \n \nTransmit your sigh of life and create a legion: Life is what makes you different from other meals and you can share it by touching them. This will make your score grow creating more chaos with your crowd of meals. They will follow you as the leader that you are. \n \nDifferent types of places to eat and hungry people: We will have 3 main types of levels: the normal restaurant with waiters bringing food to the table, the free buffet where people go for the food and the family meal in the dining room of any house. Each place will have different food flows and different ways to escape. \n \nExplore the hundreds of levels: Some levels can be tricky and you will have to find the way to escape out. You will travel along the world discovering those levels, bonus stages, final bosses (cooks) and secret spots. \nAll there is to have fun: In this game you do not to kill or die, you can have fun with all items of the scene.", 
+    "summary": "Meal Escape is a survival/platformer/runner game. \n \nGive a sigh of life to the most representative meals of each country to escape from people who eat too much. \n \nYou can to put yourself in the shoes of these cute meals, using their own skills, to escape from the restaurants creating all the possible chaos! Because the chaos is fun (and as we will also see, sometimes it is practical).", 
+    "tags": [
+        21, 
+        27, 
+        268435464, 
+        268435466, 
+        268435471, 
+        268435489, 
+        536871670, 
+        536871896, 
+        536872268, 
+        536874677, 
+        1073741826
+    ], 
+    "themes": [
+        21, 
+        27
+    ], 
+    "updated_at": 1518367518125, 
+    "url": "https://www.igdb.com/games/meal-escape", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "kgSMl2mr9n8"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/channel/UC1ygP_oOQKH6yTEi8AhGoUw"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/cosmitogames"
+        }, 
+        {
+            "category": 6, 
+            "url": "https://www.twitch.tv/cosmitogames"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/CosmitoGames"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/CosmitoGames"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.cosmitogames.com/game/meal-escape/"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "l88ahv8bobugawjmnfgj", 
+        "height": 809, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/l88ahv8bobugawjmnfgj.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1517406196008, 
+    "first_release_date": 1483142400000, 
+    "id": 85462, 
+    "name": "UCraft", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "slug": "ucraft", 
+    "summary": "A Minecraft clone for the Wii U.", 
+    "updated_at": 1518018500229, 
+    "url": "https://www.igdb.com/games/ucraft"
+}

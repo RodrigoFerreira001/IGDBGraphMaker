@@ -1,0 +1,367 @@
+{
+    "aggregated_rating": 51.8, 
+    "aggregated_rating_count": 12, 
+    "alternative_names": [
+        {
+            "name": "sgw2"
+        }
+    ], 
+    "category": 0, 
+    "collection": 294, 
+    "cover": {
+        "cloudinary_id": "qwhcrzelmg9lx2opv8lm", 
+        "height": 957, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qwhcrzelmg9lx2opv8lm.jpg", 
+        "width": 738
+    }, 
+    "created_at": 1348923969127, 
+    "developers": [
+        926
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": ""
+    }, 
+    "external": {
+        "steam": "34870"
+    }, 
+    "first_release_date": 1363046400000, 
+    "game_engines": [
+        25
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        7843, 
+        7360, 
+        28204, 
+        7350, 
+        6801, 
+        529, 
+        17354, 
+        6732, 
+        27789, 
+        1372
+    ], 
+    "genres": [
+        5, 
+        24
+    ], 
+    "id": 1368, 
+    "keywords": [
+        1, 
+        124, 
+        132, 
+        453, 
+        1158, 
+        1293, 
+        1333, 
+        2141, 
+        2337, 
+        3794, 
+        4134, 
+        4245, 
+        4246, 
+        4259, 
+        4287, 
+        4330, 
+        4353, 
+        4484, 
+        4576, 
+        4579, 
+        4580, 
+        4681, 
+        4711, 
+        4730, 
+        4756, 
+        4895, 
+        4906, 
+        5117, 
+        5350, 
+        5362, 
+        5561, 
+        5609, 
+        5662, 
+        5783, 
+        5987, 
+        5999, 
+        6128, 
+        6216, 
+        6240, 
+        6254, 
+        6472, 
+        6829, 
+        7091, 
+        7134, 
+        7187, 
+        7341, 
+        7354, 
+        7503, 
+        7670, 
+        9154, 
+        9156, 
+        9797, 
+        9909, 
+        9951, 
+        10133, 
+        11108, 
+        12174, 
+        12374
+    ], 
+    "name": "Sniper: Ghost Warrior 2", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        926
+    ], 
+    "rating": 67.006057021045, 
+    "rating_count": 22, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1363305600000, 
+            "human": "2013-Mar-15", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1363046400000, 
+            "human": "2013-Mar-12", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1363046400000, 
+            "human": "2013-Mar-12", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1363046400000, 
+            "human": "2013-Mar-12", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1372291200000, 
+            "human": "2013-Jun-27", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1372291200000, 
+            "human": "2013-Jun-27", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1372291200000, 
+            "human": "2013-Jun-27", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1363305600000, 
+            "human": "2013-Mar-15", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1363305600000, 
+            "human": "2013-Mar-15", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1363651200000, 
+            "human": "2013-Mar-19", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1363651200000, 
+            "human": "2013-Mar-19", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1363651200000, 
+            "human": "2013-Mar-19", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "u9goxd9uqss41lwbit1z", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u9goxd9uqss41lwbit1z.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "okpcfy8u04srp1erxyia", 
+            "height": 618, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/okpcfy8u04srp1erxyia.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "o4l2irxtmxk4mtvgf7cv", 
+            "height": 671, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o4l2irxtmxk4mtvgf7cv.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "gvwxysezgcpzrhla0cs3", 
+            "height": 671, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gvwxysezgcpzrhla0cs3.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "wi79hzuqhdvpe8hmhr3c", 
+            "height": 671, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wi79hzuqhdvpe8hmhr3c.jpg", 
+            "width": 1200
+        }
+    ], 
+    "slug": "sniper-ghost-warrior-2", 
+    "summary": "Sniper: Ghost Warrior 2 is the only multi-platform, first-person, modern shooter exclusively designed around the sniper experience. It takes the bulls-eye precision of its predecessor to new and exciting heights, offering more diverse sniper challenges; a rebuilt AI system and the thrilling \u201cone shot, one kill\u201d precision that made the original a huge hit, selling 3 million copies worldwide. Taking advantage of the advanced capabilities of the CryENGINE3, Sniper: Ghost Warrior 2 also delivers striking graphic environments.", 
+    "tags": [
+        1, 
+        23, 
+        39, 
+        268435461, 
+        268435480, 
+        536870913, 
+        536871036, 
+        536871044, 
+        536871365, 
+        536872070, 
+        536872205, 
+        536872245, 
+        536873053, 
+        536873249, 
+        536874706, 
+        536875046, 
+        536875157, 
+        536875158, 
+        536875171, 
+        536875199, 
+        536875242, 
+        536875265, 
+        536875396, 
+        536875488, 
+        536875491, 
+        536875492, 
+        536875593, 
+        536875623, 
+        536875642, 
+        536875668, 
+        536875807, 
+        536875818, 
+        536876029, 
+        536876262, 
+        536876274, 
+        536876473, 
+        536876521, 
+        536876574, 
+        536876695, 
+        536876899, 
+        536876911, 
+        536877040, 
+        536877128, 
+        536877152, 
+        536877166, 
+        536877384, 
+        536877741, 
+        536878003, 
+        536878046, 
+        536878099, 
+        536878253, 
+        536878266, 
+        536878415, 
+        536878582, 
+        536880066, 
+        536880068, 
+        536880709, 
+        536880821, 
+        536880863, 
+        536881045, 
+        536882020, 
+        536883086, 
+        536883286, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        23, 
+        39
+    ], 
+    "total_rating": 59.4030285105225, 
+    "total_rating_count": 34, 
+    "updated_at": 1527494317361, 
+    "url": "https://www.igdb.com/games/sniper-ghost-warrior-2", 
+    "videos": [
+        {
+            "name": "Headshot Trailer", 
+            "video_id": "Et_cVts4CXE"
+        }, 
+        {
+            "name": "Tactical Optics Trailer", 
+            "video_id": "FDigtkUo5eo"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/34870"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://sniperghostwarrior2.com"
+        }
+    ]
+}

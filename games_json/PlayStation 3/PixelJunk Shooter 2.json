@@ -1,0 +1,215 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 1327, 
+    "cover": {
+        "cloudinary_id": "vf0lpzemjuwt5hcqyoni", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vf0lpzemjuwt5hcqyoni.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1468634333481, 
+    "external": {
+        "steam": "255870"
+    }, 
+    "first_release_date": 1298937600000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        19448, 
+        26766, 
+        25300, 
+        68287, 
+        11156, 
+        36950, 
+        7350, 
+        71455, 
+        19174, 
+        27314
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 20446, 
+    "keywords": [
+        970, 
+        1208, 
+        1333, 
+        1623, 
+        2451, 
+        2875, 
+        4134, 
+        4140, 
+        4239, 
+        4245, 
+        4282, 
+        4283, 
+        4541, 
+        4698, 
+        4903, 
+        6223, 
+        12462
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "PixelJunk Shooter 2", 
+    "platforms": [
+        45, 
+        6, 
+        46, 
+        9
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        748
+    ], 
+    "rating": 80.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1299110400000, 
+            "human": "2011-Mar-03", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1299024000000, 
+            "human": "2011-Mar-02", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1298937600000, 
+            "human": "2011-Mar-01", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1299024000000, 
+            "human": "2011-Mar-02", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1401840000000, 
+            "human": "2014-Jun-04", 
+            "m": 6, 
+            "platform": 46, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1445385600000, 
+            "human": "2015-Oct-21", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gi5eqverge4gzfq2ykrc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gi5eqverge4gzfq2ykrc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "k2s7ll5w6u9i2wp9jq6m", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k2s7ll5w6u9i2wp9jq6m.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hp0mvtzybz6ze2pt5tll", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hp0mvtzybz6ze2pt5tll.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xrihtmodyzdkymy2ibro", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xrihtmodyzdkymy2ibro.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tlpfq08nwpswejqigedh", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tlpfq08nwpswejqigedh.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "pixeljunk-shooter-2", 
+    "summary": "In PixelJunk\u2122 Shooter, you must pilot your spacecraft through a range of cavernous environments in a bid to save the scientists trapped underground. Making your way through the game will rely on your keen sense of observation and the ability to manipulate your surroundings. Add in a swarm of dangerous enemies, hazardous substances and stranded survivors in need of your help and your mission objectives are pretty clear! \n\nAction, adventure and entertainment await you. Be the hero and rescue the stranded scientists while enjoying a world of fun retro visuals and a dynamic soundtrack that reacts to the level of danger that you find yourself in!Key Features\nBattle across 15 stages with your spacecraft to save the scientists\nNavigate cavernous puzzles by manipulating water, magma and even a strange magnetic black liquid\nRecruit a friend and play local coop", 
+    "tags": [
+        1, 
+        18, 
+        268435465, 
+        536871882, 
+        536872120, 
+        536872245, 
+        536872535, 
+        536873363, 
+        536873787, 
+        536875046, 
+        536875052, 
+        536875151, 
+        536875157, 
+        536875194, 
+        536875195, 
+        536875453, 
+        536875610, 
+        536875815, 
+        536877135, 
+        536883374, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 6, 
+    "updated_at": 1523265147249, 
+    "url": "https://www.igdb.com/games/pixeljunk-shooter-2", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/255870"
+        }
+    ]
+}

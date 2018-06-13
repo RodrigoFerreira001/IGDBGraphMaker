@@ -1,0 +1,77 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "zrmfezmrlvrvpmylm5z6", 
+        "height": 420, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zrmfezmrlvrvpmylm5z6.jpg", 
+        "width": 605
+    }, 
+    "created_at": 1469228702339, 
+    "first_release_date": 1352332800000, 
+    "id": 21006, 
+    "name": "Johnny Hotshot", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1352937600000, 
+            "human": "2012-Nov-15", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1352332800000, 
+            "human": "2012-Nov-08", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dtjw9bpao2coodvd2lop", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dtjw9bpao2coodvd2lop.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "xd4zwdyaniinyftux8jj", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xd4zwdyaniinyftux8jj.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "sqkhrd94sgu1j8b7pgrp", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sqkhrd94sgu1j8b7pgrp.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "syiphpq6s2jibx1fklyw", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/syiphpq6s2jibx1fklyw.jpg", 
+            "width": 400
+        }
+    ], 
+    "slug": "johnny-hotshot", 
+    "summary": "YEEEEEEE-HAAAAAAA! Johnny HotShot is an arcade action unlike any other!", 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1518066710840, 
+    "url": "https://www.igdb.com/games/johnny-hotshot", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://ufointeractivegames.com/"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "hdgid6lsnpzba4autcti", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hdgid6lsnpzba4autcti.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1495739009540, 
+    "external": {
+        "steam": "453300"
+    }, 
+    "first_release_date": 1464825600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        75813, 
+        33603, 
+        36962, 
+        55888, 
+        25311, 
+        65827, 
+        16468, 
+        32283, 
+        74929, 
+        72412
+    ], 
+    "genres": [
+        12, 
+        15, 
+        32
+    ], 
+    "id": 33255, 
+    "name": "A Healer Only Lives Twice", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "popularity": 1.0, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1500940800000, 
+            "human": "2017-Jul-25", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1464825600000, 
+            "human": "2016-Jun-02", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lwc9pjj2csf8n51tkchz", 
+            "height": 545, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lwc9pjj2csf8n51tkchz.jpg", 
+            "width": 962
+        }, 
+        {
+            "cloudinary_id": "hwtd7togvsadg3uquxww", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hwtd7togvsadg3uquxww.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "jmhqytgkftgvq89nzcvl", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jmhqytgkftgvq89nzcvl.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "s6ofqqjbefubmxeafn9f", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s6ofqqjbefubmxeafn9f.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "rfu1akuvqnkrljjpurnd", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rfu1akuvqnkrljjpurnd.jpg", 
+            "width": 960
+        }
+    ], 
+    "slug": "a-healer-only-lives-twice", 
+    "summary": "All You Need Is Heal! \nMonsters have cornered you in the dungeon corridors. \nAs a newly hired Priest, your duties are to use your magical abilities to \nheal your comrade, a Knight on the front-line, and provide support during battle. \nWill these two brave souls live to see the light of day again?", 
+    "tags": [
+        268435468, 
+        268435471, 
+        268435488
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523397547645, 
+    "url": "https://www.igdb.com/games/a-healer-only-lives-twice", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/453300"
+        }
+    ]
+}

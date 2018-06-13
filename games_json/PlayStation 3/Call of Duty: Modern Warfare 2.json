@@ -1,0 +1,358 @@
+{
+    "aggregated_rating": 94.375, 
+    "aggregated_rating_count": 11, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "MW2"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Call of Duty: Modern Warfare 2"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "COD6"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Call of Duty 6"
+        }, 
+        {
+            "comment": "Acronym", 
+            "name": "COD MW 2"
+        }, 
+        {
+            "comment": "Nintendo DS title", 
+            "name": "Call of Duty: Modern Warfare: Mobilized"
+        }
+    ], 
+    "category": 0, 
+    "collection": 1957, 
+    "cover": {
+        "cloudinary_id": "ky6nhzxx6aoje50cryzs", 
+        "height": 862, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ky6nhzxx6aoje50cryzs.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1317716747000, 
+    "developers": [
+        319, 
+        438
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "This is a first-person shooter in which players assume the roles of members of an elite squadron on the trail of a Russian ultranationalist. Players defend the U.S. from Russian armed forces, engage in skirmishes and combat missions, and track the ultranationalist in an attempt to discover his true motivations and co-conspirators. Players use machine guns, sniper rifles, grenades, and missiles to kill enemy soldiers throughout the battlefields. Realistic gunfire, explosions, and cries of pain are heard during the frequent and fast-paced combat. The most intense depiction of violence occurs during a 'No Russian' mission where players take on the role of an undercover Ranger: Several civilians are gunned down at an airport as players are given a choice to participate in the killings (e.g., players can shoot a wounded civilian that is crawling on the ground), or walk by and observe without opening fire. In either case, civilians scream and emit pools of blood as they are shot to death. Within the multiplayer portion of the game, players can unlock 'emblems' to be used on their player name cards. Some of these emblems contain images that reference drugs (e.g., a cannabis leaf; a name card with a depiction of a joint). Dialogue in the game contains profanity in both English (e.g., 'sh*t') and Russian (e.g., 'f**k' and 'motherf**ker')."
+    }, 
+    "expansions": [
+        22971
+    ], 
+    "external": {
+        "steam": "10180"
+    }, 
+    "first_release_date": 1257033600000, 
+    "franchise": 726, 
+    "franchises": [
+        726
+    ], 
+    "game_engines": [
+        123
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        6632, 
+        18088, 
+        10964, 
+        471, 
+        28751, 
+        1595, 
+        9509, 
+        7331, 
+        37016, 
+        11171
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 559, 
+    "keywords": [
+        1, 
+        25, 
+        124, 
+        129, 
+        453, 
+        524, 
+        540, 
+        562, 
+        563, 
+        660, 
+        1403, 
+        2537, 
+        2740, 
+        4169, 
+        4259, 
+        4282, 
+        4336, 
+        4625, 
+        4829, 
+        4869, 
+        4897, 
+        4900, 
+        4907, 
+        4918, 
+        5323, 
+        5466, 
+        5481, 
+        5557, 
+        6137, 
+        6239, 
+        6463, 
+        7064, 
+        7073, 
+        7115, 
+        7356, 
+        7485, 
+        8144, 
+        8145, 
+        9904, 
+        11103, 
+        11206, 
+        13563, 
+        13564
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Call of Duty: Modern Warfare 2", 
+    "pegi": {
+        "rating": 5
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 12.0, 
+    "publishers": [
+        66
+    ], 
+    "pulse_count": 7, 
+    "rating": 79.4219362549, 
+    "rating_count": 377, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1260403200000, 
+            "human": "2009-Dec-10", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1257811200000, 
+            "human": "2009-Nov-10", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1257811200000, 
+            "human": "2009-Nov-10", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 1, 
+            "date": 1257033600000, 
+            "human": "2009-Nov", 
+            "m": 11, 
+            "platform": 6, 
+            "y": 2009
+        }, 
+        {
+            "category": 1, 
+            "date": 1257033600000, 
+            "human": "2009-Nov", 
+            "m": 11, 
+            "platform": 12, 
+            "y": 2009
+        }, 
+        {
+            "category": 1, 
+            "date": 1257033600000, 
+            "human": "2009-Nov", 
+            "m": 11, 
+            "platform": 9, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "fkb70asrevsakb59nw4u", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fkb70asrevsakb59nw4u.jpg", 
+            "width": 1919
+        }, 
+        {
+            "cloudinary_id": "s8ktfgdgraigmjksthd4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s8ktfgdgraigmjksthd4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ibfg74pbx0sv6t6tunfy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ibfg74pbx0sv6t6tunfy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "b21jr7nss4jikmgett1i", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b21jr7nss4jikmgett1i.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "st4aq06veb9xtawaxqwy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/st4aq06veb9xtawaxqwy.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "call-of-duty-modern-warfare-2", 
+    "storyline": "Despite the efforts of the U.S. Marine Corps and British Special Air Service in the previous game, the Ultranationalists seize control of Russia, and declare Imran Zakhaev a hero and martyr, erecting a statue of him in the heart of Red Square. This strains diplomatic relations with the United States. Meanwhile, Vladimir Makarov, one of Zakhaev's former lieutenants, begins a campaign of revenge for his death, by committing acts of terrorism over the course of five years", 
+    "summary": "Call of Duty: Modern Warfare 2 is a first-person shooter video game developed by Infinity Ward and published by Activision for the Xbox 360 and PlayStation 3 video game consoles and the Microsoft Windows operating system. Officially announced on February 11, 2009, the game was released worldwide on November 10, 2009. It is the sixth installment of the Call of Duty series and the direct sequel to Call of Duty 4: Modern Warfare, continuing the same storyline, with Call of Duty: Modern Warfare 3 set to end the storyline.", 
+    "tags": [
+        1, 
+        23, 
+        39, 
+        268435461, 
+        536870913, 
+        536870937, 
+        536871036, 
+        536871041, 
+        536871365, 
+        536871436, 
+        536871452, 
+        536871474, 
+        536871475, 
+        536871572, 
+        536872315, 
+        536873449, 
+        536873652, 
+        536875081, 
+        536875171, 
+        536875194, 
+        536875248, 
+        536875537, 
+        536875741, 
+        536875781, 
+        536875809, 
+        536875812, 
+        536875819, 
+        536875830, 
+        536876235, 
+        536876378, 
+        536876393, 
+        536876469, 
+        536877049, 
+        536877151, 
+        536877375, 
+        536877976, 
+        536877985, 
+        536878027, 
+        536878268, 
+        536878397, 
+        536879056, 
+        536879057, 
+        536880816, 
+        536882015, 
+        536882118, 
+        536884475, 
+        536884476, 
+        1073741825, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        23, 
+        39
+    ], 
+    "time_to_beat": {
+        "normally": 26360
+    }, 
+    "total_rating": 86.89846812745, 
+    "total_rating_count": 388, 
+    "updated_at": 1528726121130, 
+    "url": "https://www.igdb.com/games/call-of-duty-modern-warfare-2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "AzwBeDV5IAY"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "TiFSSpYdPuc"
+        }, 
+        {
+            "name": "Game intro", 
+            "video_id": "QE7Iiq3tQkM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.callofduty.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/10180"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/callofduty"
+        }, 
+        {
+            "category": 6, 
+            "url": "https://www.twitch.tv/callofduty"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/Callofduty"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Call_of_Duty%3A_Modern_Warfare_2"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://callofduty.wikia.com/wiki/Call_of_Duty:_Modern_Warfare_2"
+        }
+    ]
+}

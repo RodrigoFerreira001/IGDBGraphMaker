@@ -1,0 +1,111 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jnawhj9txiugytldhjv7", 
+        "height": 374, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jnawhj9txiugytldhjv7.jpg", 
+        "width": 262
+    }, 
+    "created_at": 1497224586126, 
+    "external": {
+        "steam": "780350"
+    }, 
+    "first_release_date": 1546214400000, 
+    "game_modes": [
+        1
+    ], 
+    "hypes": 2, 
+    "id": 37026, 
+    "name": "Unruly Heroes", 
+    "platforms": [
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "pulse_count": 5, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 130, 
+            "y": 2018
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 49
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 48
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "r6vb3sg72rkuhiamnyl0", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r6vb3sg72rkuhiamnyl0.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "x0ffvvrpkwt65yvfugv4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x0ffvvrpkwt65yvfugv4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "akrawtgl8plksvtxuudw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/akrawtgl8plksvtxuudw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "q4kkjepywpmrgbr7qui8", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q4kkjepywpmrgbr7qui8.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "unruly-heroes", 
+    "summary": "TBA", 
+    "tags": [
+        1073741828
+    ], 
+    "updated_at": 1525981004295, 
+    "url": "https://www.igdb.com/games/unruly-heroes", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "G8ukFQbJYYw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/channel/UCXKSFoM1TQvL5_-vThc21pQ"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/unrulyheroes"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/Unruly_Heroes"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/Unruly-Heroes-1322359467812914"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.unrulyheroes.com/"
+        }
+    ]
+}

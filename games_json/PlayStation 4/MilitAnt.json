@@ -1,0 +1,131 @@
+{
+    "aggregated_rating": 33.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jjet8ex6fljqgd5vmxeq", 
+        "height": 392, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jjet8ex6fljqgd5vmxeq.jpg", 
+        "width": 622
+    }, 
+    "created_at": 1469094672875, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "454520"
+    }, 
+    "first_release_date": 1468281600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        40524, 
+        34919, 
+        76438, 
+        16468, 
+        68324, 
+        37022, 
+        25640, 
+        55289, 
+        75158, 
+        32902
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 20877, 
+    "name": "MilitAnt", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        8070
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468281600000, 
+            "human": "2016-Jul-12", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hjjfj6kodlvpqmseka3p", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hjjfj6kodlvpqmseka3p.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ppqlihifc9yy7aucvniu", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ppqlihifc9yy7aucvniu.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nqazobup8myos6lyywes", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nqazobup8myos6lyywes.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ycwzfbfk9dugyin0vjoy", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ycwzfbfk9dugyin0vjoy.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "upkkzfr9xl02l3i3yuhw", 
+            "height": 389, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/upkkzfr9xl02l3i3yuhw.jpg", 
+            "width": 700
+        }
+    ], 
+    "slug": "militant", 
+    "summary": "MilitAnt\u2122 blends old school action with a 2.5D shooter gameplay for an epic platforming experience. Jump to the battlefield for a completely original experience of \u201cEpic-tiny proportions\u201d.", 
+    "tags": [
+        1, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 33.3333333333333, 
+    "total_rating_count": 3, 
+    "updated_at": 1523397179411, 
+    "url": "https://www.igdb.com/games/militant", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.militantgame.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/454520"
+        }
+    ]
+}

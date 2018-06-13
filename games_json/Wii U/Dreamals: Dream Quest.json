@@ -1,0 +1,111 @@
+{
+    "category": 0, 
+    "created_at": 1499088440403, 
+    "external": {
+        "steam": "658770"
+    }, 
+    "first_release_date": 1474502400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        40524, 
+        34919, 
+        76438, 
+        16468, 
+        68324, 
+        37022, 
+        25640, 
+        55289, 
+        75158, 
+        32902
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 43086, 
+    "name": "Dreamals: Dream Quest", 
+    "platforms": [
+        6, 
+        41
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1475107200000, 
+            "human": "2016-Sep-29", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1474502400000, 
+            "human": "2016-Sep-22", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1499299200000, 
+            "human": "2017-Jul-06", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "nwfpqsnvefexhmtp077l", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nwfpqsnvefexhmtp077l.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "d76lkfje7ex1niswfall", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d76lkfje7ex1niswfall.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "sypvuv3b9mydbead5ptw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sypvuv3b9mydbead5ptw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "k3ledcl2ycv2nl76ju4w", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k3ledcl2ycv2nl76ju4w.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "a1x1nevwkljf12rhe0jn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a1x1nevwkljf12rhe0jn.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "dreamals-dream-quest", 
+    "summary": "Wacky Adventure of Three Homeless animals for Saving Dreamland.", 
+    "tags": [
+        1, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1523341543927, 
+    "url": "https://www.igdb.com/games/dreamals-dream-quest", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/658770"
+        }
+    ]
+}

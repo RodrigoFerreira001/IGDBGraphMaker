@@ -1,0 +1,313 @@
+{
+    "aggregated_rating": 55.7142857142857, 
+    "aggregated_rating_count": 7, 
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30ac\u30f3\u30c0\u30e0\u7121\u53cc2"
+        }
+    ], 
+    "category": 0, 
+    "collection": 550, 
+    "cover": {
+        "cloudinary_id": "siujjupt5tqx3jek2ugo", 
+        "height": 287, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/siujjupt5tqx3jek2ugo.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1400996591206, 
+    "developers": [
+        630, 
+        1394
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1229558400000, 
+    "franchise": 907, 
+    "franchises": [
+        907, 
+        820
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        26766, 
+        25300, 
+        36911, 
+        21063, 
+        19099, 
+        29147, 
+        2558, 
+        25311, 
+        11567, 
+        51464
+    ], 
+    "genres": [
+        4, 
+        12, 
+        15, 
+        25
+    ], 
+    "id": 6978, 
+    "keywords": [
+        78, 
+        167, 
+        389, 
+        575, 
+        970, 
+        982, 
+        1026, 
+        1293, 
+        1682, 
+        2071, 
+        4141, 
+        4142, 
+        4245, 
+        4250, 
+        4287, 
+        4384, 
+        4494, 
+        4572, 
+        4611, 
+        4738, 
+        4858, 
+        4866, 
+        4977, 
+        5302, 
+        5354, 
+        5589, 
+        5676, 
+        6196, 
+        6325, 
+        6494, 
+        6537, 
+        6680, 
+        7081, 
+        8838, 
+        9200, 
+        9208, 
+        9539, 
+        9790, 
+        9888, 
+        10883, 
+        10885, 
+        10888, 
+        11477, 
+        12399, 
+        12400, 
+        13544
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dynasty Warriors: Gundam 2", 
+    "platforms": [
+        9, 
+        12, 
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        248
+    ], 
+    "rating": 85.0, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1240531200000, 
+            "human": "2009-Apr-24", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1240272000000, 
+            "human": "2009-Apr-21", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1229558400000, 
+            "human": "2008-Dec-18", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1229558400000, 
+            "human": "2008-Dec-18", 
+            "m": 12, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1229558400000, 
+            "human": "2008-Dec-18", 
+            "m": 12, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1240358400000, 
+            "human": "2009-Apr-22", 
+            "m": 4, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1240358400000, 
+            "human": "2009-Apr-22", 
+            "m": 4, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1240531200000, 
+            "human": "2009-Apr-24", 
+            "m": 4, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1240531200000, 
+            "human": "2009-Apr-24", 
+            "m": 4, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1240444800000, 
+            "human": "2009-Apr-23", 
+            "m": 4, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1240444800000, 
+            "human": "2009-Apr-23", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1240444800000, 
+            "human": "2009-Apr-23", 
+            "m": 4, 
+            "platform": 8, 
+            "region": 3, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "b7yi58fmntfwygqsx4xc", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b7yi58fmntfwygqsx4xc.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "dynasty-warriors-gundam-2", 
+    "summary": "Dynasty Warriors: Gundam 2 combines the devastating power of the mobile suit, the rich legacy of the anime Gundam universe, and the furious tactical action gameplay of the Dynasty Warriors series. For the first time, engage in melee battles against colossal enemies such as the Psycho Gundam who can quickly reconfigure their bodies into titanic mobile fortresses. Prepare to head off into the furthest reaches of space and wage war against legions of enemy mobile suits.", 
+    "tags": [
+        1, 
+        18, 
+        268435460, 
+        268435468, 
+        268435471, 
+        268435481, 
+        536870990, 
+        536871079, 
+        536871301, 
+        536871487, 
+        536871882, 
+        536871894, 
+        536871938, 
+        536872205, 
+        536872594, 
+        536872983, 
+        536875053, 
+        536875054, 
+        536875157, 
+        536875162, 
+        536875199, 
+        536875296, 
+        536875406, 
+        536875484, 
+        536875523, 
+        536875650, 
+        536875770, 
+        536875778, 
+        536875889, 
+        536876214, 
+        536876266, 
+        536876501, 
+        536876588, 
+        536877108, 
+        536877237, 
+        536877406, 
+        536877449, 
+        536877592, 
+        536877993, 
+        536879750, 
+        536880112, 
+        536880120, 
+        536880451, 
+        536880702, 
+        536880800, 
+        536881795, 
+        536881797, 
+        536881800, 
+        536882389, 
+        536883311, 
+        536883312, 
+        536884456
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 70.35714285714285, 
+    "total_rating_count": 10, 
+    "updated_at": 1524513852455, 
+    "url": "https://www.igdb.com/games/dynasty-warriors-gundam-2"
+}

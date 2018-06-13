@@ -1,0 +1,448 @@
+{
+    "aggregated_rating": 37.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Hexen: Beyond Heretic"
+        }, 
+        {
+            "comment": "Console title", 
+            "name": "Hexen"
+        }, 
+        {
+            "comment": "Windows re-release title", 
+            "name": "Hexen 95"
+        }
+    ], 
+    "category": 0, 
+    "collection": 176, 
+    "cover": {
+        "cloudinary_id": "cqncca5pvbnqgkaeacl7", 
+        "height": 291, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cqncca5pvbnqgkaeacl7.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1389103314608, 
+    "developers": [
+        71, 
+        1201, 
+        1435, 
+        4410
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": ""
+    }, 
+    "expansions": [
+        8851
+    ], 
+    "external": {
+        "steam": "2360"
+    }, 
+    "first_release_date": 815011200000, 
+    "game_engines": [
+        116
+    ], 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        7329, 
+        1911, 
+        6958, 
+        7351, 
+        7631, 
+        6362, 
+        28204, 
+        7350, 
+        1128, 
+        231
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 3512, 
+    "keywords": [
+        129, 
+        226, 
+        296, 
+        301, 
+        389, 
+        453, 
+        466, 
+        537, 
+        589, 
+        966, 
+        1025, 
+        1057, 
+        1120, 
+        1152, 
+        1186, 
+        1289, 
+        1313, 
+        1333, 
+        1405, 
+        1682, 
+        2472, 
+        4134, 
+        4150, 
+        4161, 
+        4163, 
+        4302, 
+        4330, 
+        4614, 
+        4727, 
+        4826, 
+        4848, 
+        4866, 
+        4891, 
+        4902, 
+        4907, 
+        4910, 
+        4979, 
+        4991, 
+        4995, 
+        5150, 
+        5193, 
+        5320, 
+        5371, 
+        5373, 
+        5374, 
+        5695, 
+        5748, 
+        5964, 
+        6068, 
+        6735, 
+        7043, 
+        7434, 
+        7576, 
+        7604, 
+        7655, 
+        8797, 
+        9004, 
+        9849, 
+        10047, 
+        10048, 
+        11567, 
+        11779, 
+        12533, 
+        12715, 
+        13121, 
+        13824, 
+        14022, 
+        14023, 
+        14024, 
+        14025, 
+        14026, 
+        14027, 
+        14028, 
+        14029, 
+        14030, 
+        14031, 
+        14032, 
+        14033, 
+        14034, 
+        14035, 
+        14036, 
+        14037, 
+        14038, 
+        14039, 
+        14040
+    ], 
+    "name": "Hexen: Beyond Heretic", 
+    "platforms": [
+        4, 
+        6, 
+        14, 
+        13, 
+        32, 
+        7
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        184, 
+        1807, 
+        205
+    ], 
+    "pulse_count": 2, 
+    "rating": 77.0663578464214, 
+    "rating_count": 12, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 865036800000, 
+            "human": "1997-May-31", 
+            "m": 5, 
+            "platform": 4, 
+            "region": 2, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 862358400000, 
+            "human": "1997-Apr-30", 
+            "m": 4, 
+            "platform": 32, 
+            "region": 2, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 867628800000, 
+            "human": "1997-Jun-30", 
+            "m": 6, 
+            "platform": 7, 
+            "region": 2, 
+            "y": 1997
+        }, 
+        {
+            "category": 1, 
+            "date": 833587200000, 
+            "human": "1996-Jun", 
+            "m": 6, 
+            "platform": 14, 
+            "region": 2, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 815011200000, 
+            "human": "1995-Oct-30", 
+            "m": 10, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 2, 
+            "date": 820368000000, 
+            "human": "1995", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 1, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 1186099200000, 
+            "human": "2007-Aug-03", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 857174400000, 
+            "human": "1997-Mar-01", 
+            "m": 3, 
+            "platform": 7, 
+            "region": 1, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 890265600000, 
+            "human": "1998-Mar-19", 
+            "m": 3, 
+            "platform": 7, 
+            "region": 5, 
+            "y": 1998
+        }, 
+        {
+            "category": 0, 
+            "date": 890870400000, 
+            "human": "1998-Mar-26", 
+            "m": 3, 
+            "platform": 32, 
+            "region": 5, 
+            "y": 1998
+        }, 
+        {
+            "category": 2, 
+            "date": 883526400000, 
+            "human": "1997", 
+            "m": 12, 
+            "platform": 32, 
+            "region": 1, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 882403200000, 
+            "human": "1997-Dec-18", 
+            "m": 12, 
+            "platform": 4, 
+            "region": 5, 
+            "y": 1997
+        }, 
+        {
+            "category": 6, 
+            "date": 883526400000, 
+            "human": "1997-Q4", 
+            "m": 12, 
+            "platform": 4, 
+            "region": 1, 
+            "y": 1997
+        }, 
+        {
+            "category": 2, 
+            "date": 883526400000, 
+            "human": "1997", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 1997
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "impfxcdxkma2i6kcvg9x", 
+            "height": 200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/impfxcdxkma2i6kcvg9x.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "xnqmv3n3wc2gmpbjg6j2", 
+            "height": 200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xnqmv3n3wc2gmpbjg6j2.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "tbvedz9qndwvcuuw631n", 
+            "height": 200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tbvedz9qndwvcuuw631n.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "c6i5hbxd46nknb6yfm8m", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c6i5hbxd46nknb6yfm8m.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qh7w9d7ekud4usmorkdr", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qh7w9d7ekud4usmorkdr.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "hexen-beyond-heretic", 
+    "summary": "While you were battling the evil forces of D'Sparil, the other Serpent Riders were busy sowing the seeds of destruction in other dimensions. One such dimension is the decaying world where Hexen takes place. A world littered with the mangled corpses of nonbelievers and inhabited by the undead followers that executed them. Only three humans &endash; a warrior, a mage and a cleric &endash; have escaped the leaders' vicious spell. Now these brave souls have sworn to crush the evil regime that threatens to destroy the world forever. Separated upon entering the mystical portal, the three are forced to attempt on their own what they had hoped to do together: find Korax's stronghold, destroy him and restore order in the physical world.\n\t\t\t\t\t\n\t\t\t\t\tBecome one of 3 heroes. Wield superhuman powers and lethal weapons.\n\t\t\t\t\tWalk. Run. Fly. Look all around. Inflict serious pain.\n\t\t\t\t\tPillage your way through earthquakes, crumbling bridges and fog.\n\t\t\t\t\tTrack down powerful artifacts and cast wicked spells.\n\t\t\t\t\tFour sick individuals can wreak havoc via network, two by modem.", 
+    "tags": [
+        1, 
+        17, 
+        19, 
+        268435461, 
+        536871041, 
+        536871138, 
+        536871208, 
+        536871213, 
+        536871301, 
+        536871365, 
+        536871378, 
+        536871449, 
+        536871501, 
+        536871878, 
+        536871937, 
+        536871969, 
+        536872032, 
+        536872064, 
+        536872098, 
+        536872201, 
+        536872225, 
+        536872245, 
+        536872317, 
+        536872594, 
+        536873384, 
+        536875046, 
+        536875062, 
+        536875073, 
+        536875075, 
+        536875214, 
+        536875242, 
+        536875526, 
+        536875639, 
+        536875738, 
+        536875760, 
+        536875778, 
+        536875803, 
+        536875814, 
+        536875819, 
+        536875822, 
+        536875891, 
+        536875903, 
+        536875907, 
+        536876062, 
+        536876105, 
+        536876232, 
+        536876283, 
+        536876285, 
+        536876286, 
+        536876607, 
+        536876660, 
+        536876876, 
+        536876980, 
+        536877647, 
+        536877955, 
+        536878346, 
+        536878488, 
+        536878516, 
+        536878567, 
+        536879709, 
+        536879916, 
+        536880761, 
+        536880959, 
+        536880960, 
+        536882479, 
+        536882691, 
+        536883445, 
+        536883627, 
+        536884033, 
+        536884736, 
+        536884934, 
+        536884935, 
+        536884936, 
+        536884937, 
+        536884938, 
+        536884939, 
+        536884940, 
+        536884941, 
+        536884942, 
+        536884943, 
+        536884944, 
+        536884945, 
+        536884946, 
+        536884947, 
+        536884948, 
+        536884949, 
+        536884950, 
+        536884951, 
+        536884952, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        17, 
+        19
+    ], 
+    "total_rating": 57.0331789232107, 
+    "total_rating_count": 14, 
+    "updated_at": 1523286214442, 
+    "url": "https://www.igdb.com/games/hexen-beyond-heretic", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/2360"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.ravensoftware.com/games/hexen/view-game/"
+        }
+    ]
+}

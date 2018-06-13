@@ -1,0 +1,161 @@
+{
+    "aggregated_rating": 73.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "texy1gwwnuckzm8emb9r", 
+        "height": 540, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/texy1gwwnuckzm8emb9r.jpg", 
+        "width": 960
+    }, 
+    "created_at": 1491463608883, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1497916800000, 
+    "franchise": 124, 
+    "franchises": [
+        124
+    ], 
+    "game_modes": [
+        2, 
+        3, 
+        5
+    ], 
+    "games": [
+        49414, 
+        25636, 
+        21842, 
+        36608, 
+        18862, 
+        75102, 
+        23913, 
+        47472, 
+        44922, 
+        36610
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 28080, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 99, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 5, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Marvel Heroes Omega", 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "popularity": 7.0, 
+    "pulse_count": 27, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1498780800000, 
+            "human": "2017-Jun-30", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1497916800000, 
+            "human": "2017-Jun-20", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1497916800000, 
+            "human": "2017-Jun-20", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "nd3age6r6zsnx19fmfgi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nd3age6r6zsnx19fmfgi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ymoon2mrqo7hltpjezqt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ymoon2mrqo7hltpjezqt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dby75p2tpirawtatktks", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dby75p2tpirawtatktks.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "emadofde7jltr74xaaas", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/emadofde7jltr74xaaas.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wezp9iusyvhlmthgw3xy", 
+            "height": 300, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wezp9iusyvhlmthgw3xy.jpg", 
+            "width": 966
+        }
+    ], 
+    "slug": "marvel-heroes-omega", 
+    "status": 5, 
+    "summary": "Marvel Heroes Omega assembles one of the largest gatherings of iconic Super Heroes, Super Villains, and locations from the Marvel Universe in gaming history for PlayStation 4, Xbox One, PC, and Mac.\n\nSet in the iconic Marvel Universe, Marvel Heroes Omega combines the core game-play style of Action RPGs and MMOs with the expansive library of heroes from the Marvel Universe. In the game, players can collect and play as their favorite Marvel Super Heroes (including Iron Man, Thor, Wolverine, Hulk, Spider-Man, Captain America and many others).\n\nTeam up with friends and try to stop Doctor Doom from devastating the world with the power of the Cosmic Cube in a story written by Marvel comic super-scribe Brian Michael Bendis.", 
+    "tags": [
+        268435468
+    ], 
+    "total_rating": 73.3333333333333, 
+    "total_rating_count": 3, 
+    "updated_at": 1520963694458, 
+    "url": "https://www.igdb.com/games/marvel-heroes-omega", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "vpQPRoyX-mU"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://marvelheroes.com/"
+        }
+    ]
+}

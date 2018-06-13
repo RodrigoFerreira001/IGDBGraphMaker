@@ -1,0 +1,80 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "upjkt5o0as7s276uf4k1", 
+        "height": 512, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/upjkt5o0as7s276uf4k1.jpg", 
+        "width": 512
+    }, 
+    "created_at": 1499429929099, 
+    "first_release_date": 1237248000000, 
+    "games": [
+        36794, 
+        41828, 
+        10039, 
+        2907, 
+        36608, 
+        36831, 
+        51485, 
+        34919, 
+        19658, 
+        76213
+    ], 
+    "genres": [
+        4, 
+        33
+    ], 
+    "id": 44570, 
+    "name": "Street Fighter IV Collector's Edition", 
+    "platforms": [
+        39, 
+        9
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1499817600000, 
+            "human": "2017-Jul-12", 
+            "m": 7, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1237248000000, 
+            "human": "2009-Mar-17", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ahdftwaubdtwmwem5rvg", 
+            "height": 623, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ahdftwaubdtwmwem5rvg.jpg", 
+            "width": 800
+        }
+    ], 
+    "slug": "street-fighter-iv-collectors-edition", 
+    "summary": "The Collector's Edition of Street Fighter IV includes a bonus disc with a 65-minute full-length Anime movie and promotional trailers; a CD soundtrack; a collectible Ryu figurine for the PS3 edition; a collectible C. Viper figurine for the Xbox 360 edition; a Udon/Prima Hint book; and 5 downloadable outfits.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435489
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1523427757524, 
+    "url": "https://www.igdb.com/games/street-fighter-iv-collectors-edition", 
+    "websites": [
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/street-fighter-iv-ce/id1239299402?mt=8&uo=4"
+        }
+    ]
+}

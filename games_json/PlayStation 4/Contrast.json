@@ -1,0 +1,403 @@
+{
+    "aggregated_rating": 56.6666666666667, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "xv6zguqyneqqux8ws6dz", 
+        "height": 600, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xv6zguqyneqqux8ws6dz.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1390146971752, 
+    "developers": [
+        1924
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "224460"
+    }, 
+    "first_release_date": 1370044800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        6705, 
+        3022, 
+        17354, 
+        7344, 
+        6732, 
+        9178, 
+        3230, 
+        7897, 
+        7342, 
+        9655
+    ], 
+    "genres": [
+        8, 
+        9, 
+        31, 
+        32
+    ], 
+    "id": 3839, 
+    "keywords": [
+        117, 
+        203, 
+        386, 
+        589, 
+        872, 
+        1033, 
+        1136, 
+        1158, 
+        1494, 
+        1800, 
+        2049, 
+        2052, 
+        2493, 
+        2875, 
+        2966, 
+        4004, 
+        4134, 
+        4135, 
+        4138, 
+        4145, 
+        4150, 
+        4161, 
+        4183, 
+        4186, 
+        4196, 
+        4199, 
+        4287, 
+        4330, 
+        4363, 
+        4369, 
+        4430, 
+        4432, 
+        4484, 
+        4525, 
+        4527, 
+        4611, 
+        4625, 
+        4725, 
+        4726, 
+        4880, 
+        4896, 
+        5011, 
+        5197, 
+        5209, 
+        5269, 
+        5305, 
+        5306, 
+        5332, 
+        5364, 
+        5390, 
+        5421, 
+        5570, 
+        5575, 
+        5771, 
+        6135, 
+        6232, 
+        6268, 
+        6451, 
+        6836, 
+        6977, 
+        7145, 
+        7303
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 82, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Contrast", 
+    "platforms": [
+        45, 
+        6, 
+        82, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        110
+    ], 
+    "rating": 50.60447808452771, 
+    "rating_count": 29, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1403740800000, 
+            "human": "2014-Jun-26", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1384473600000, 
+            "human": "2013-Nov-15", 
+            "m": 11, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385683200000, 
+            "human": "2013-Nov-29", 
+            "m": 11, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1370044800000, 
+            "human": "2013-Jun-01", 
+            "m": 6, 
+            "platform": 82, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384473600000, 
+            "human": "2013-Nov-15", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384473600000, 
+            "human": "2013-Nov-15", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384473600000, 
+            "human": "2013-Nov-15", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384473600000, 
+            "human": "2013-Nov-15", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384473600000, 
+            "human": "2013-Nov-15", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384473600000, 
+            "human": "2013-Nov-15", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384473600000, 
+            "human": "2013-Nov-15", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384473600000, 
+            "human": "2013-Nov-15", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384473600000, 
+            "human": "2013-Nov-15", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "l9mnghuebditgpr3ufdj", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l9mnghuebditgpr3ufdj.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rjgdo33a6pg9gjafcjs9", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rjgdo33a6pg9gjafcjs9.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zdabrluyxacdcj2oaxx1", 
+            "height": 885, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zdabrluyxacdcj2oaxx1.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "qtcejetopuh8ntzewlmq", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qtcejetopuh8ntzewlmq.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xl0sqkxglcr7abnxwj5h", 
+            "height": 383, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xl0sqkxglcr7abnxwj5h.jpg", 
+            "width": 670
+        }
+    ], 
+    "slug": "contrast", 
+    "storyline": "In this universe, where the boundaries between showmanship, magic, intrigue and deception are blurred, you play Dawn, the imaginary friend of a young girl named Didi. You have the power to slip from the 3D dreamscape into the parallel 2D shadow world bound to it. Cast light on a shadowy story by manipulating light sources in the 3D world to distort, enlarge or stretch the 2D shadow world. Manipulating and shifting between light and shadow will be the key elements that you will need to use to solve our world of shadow-based puzzles and help progress Didi's story!", 
+    "summary": "CONTRAST is a puzzle/platform game where you can move between a fantastic 3D world and a mysterious shadowy universe in 2D in the blink of an eye. Delve into a dreamlike and surreal 1920s world, inspired by the performance art world of vaudeville and film noir, and cradled by a smooth and sultry jazz ambiance.", 
+    "tags": [
+        268435464, 
+        268435465, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536871115, 
+        536871298, 
+        536871501, 
+        536871784, 
+        536871945, 
+        536872048, 
+        536872070, 
+        536872406, 
+        536872712, 
+        536872961, 
+        536872964, 
+        536873405, 
+        536873787, 
+        536873878, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875050, 
+        536875057, 
+        536875062, 
+        536875073, 
+        536875095, 
+        536875098, 
+        536875108, 
+        536875111, 
+        536875199, 
+        536875242, 
+        536875275, 
+        536875281, 
+        536875342, 
+        536875344, 
+        536875396, 
+        536875437, 
+        536875439, 
+        536875523, 
+        536875537, 
+        536875637, 
+        536875638, 
+        536875792, 
+        536875808, 
+        536875923, 
+        536876109, 
+        536876121, 
+        536876181, 
+        536876217, 
+        536876218, 
+        536876244, 
+        536876276, 
+        536876302, 
+        536876333, 
+        536876482, 
+        536876487, 
+        536876683, 
+        536877047, 
+        536877144, 
+        536877180, 
+        536877363, 
+        536877748, 
+        536877889, 
+        536878057, 
+        536878215, 
+        1073741826
+    ], 
+    "total_rating": 53.63557237559721, 
+    "total_rating_count": 35, 
+    "updated_at": 1528430270885, 
+    "url": "https://www.igdb.com/games/contrast", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "CsD0PA03c_Y"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "tqAnDdYuSng"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/224460"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.contrast-thegame.com/"
+        }
+    ]
+}

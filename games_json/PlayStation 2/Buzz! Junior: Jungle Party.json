@@ -1,0 +1,110 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 985, 
+    "cover": {
+        "cloudinary_id": "nncr9eev5ktsbtmqzpks", 
+        "height": 901, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nncr9eev5ktsbtmqzpks.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1469314069180, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1161302400000, 
+    "games": [
+        70906, 
+        28113, 
+        28213, 
+        67752, 
+        66035, 
+        66812, 
+        43506, 
+        4875, 
+        74390, 
+        19082
+    ], 
+    "id": 21524, 
+    "keywords": [
+        274, 
+        4328, 
+        5188, 
+        5190, 
+        13083, 
+        13100
+    ], 
+    "name": "Buzz! Junior: Jungle Party", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        9, 
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        13634
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1219881600000, 
+            "human": "2008-Aug-28", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1236816000000, 
+            "human": "2009-Mar-12", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1193702400000, 
+            "human": "2007-Oct-30", 
+            "m": 10, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1161302400000, 
+            "human": "2006-Oct-20", 
+            "m": 10, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hv23zybk307eccatmtgv", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hv23zybk307eccatmtgv.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "buzz-junior-jungle-party", 
+    "summary": "Buzz! Junior: Jungle Party will captivate the young and casual gamer through over a variety of competitive mini-games. Each mini-game offers a variety of fun fast paced gameplay of skill and speed that will appeal to the entire family -- from the young to the young at heart.", 
+    "tags": [
+        536871186, 
+        536875240, 
+        536876100, 
+        536876102, 
+        536883995, 
+        536884012
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1523808856586, 
+    "url": "https://www.igdb.com/games/buzz-junior-jungle-party"
+}

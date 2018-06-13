@@ -1,0 +1,108 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "cshywkjywf2b2chbd8tj", 
+        "height": 287, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cshywkjywf2b2chbd8tj.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1516326140505, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1516233600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        75202, 
+        22690, 
+        15851, 
+        57738, 
+        100789, 
+        95312, 
+        95098, 
+        95015, 
+        90703, 
+        88923
+    ], 
+    "genres": [
+        14, 
+        33
+    ], 
+    "id": 82392, 
+    "keywords": [
+        654
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "ACA NEOGEO POWER SPIKES II", 
+    "platforms": [
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        5346
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1516233600000, 
+            "human": "2018-Jan-18", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1516233600000, 
+            "human": "2018-Jan-18", 
+            "m": 1, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bxttlehuqwicftzti9e5", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bxttlehuqwicftzti9e5.jpg", 
+            "width": 745
+        }
+    ], 
+    "slug": "aca-neogeo-power-spikes-ii", 
+    "summary": "POWER SPIKES II is a sports game released in 1994 by VIDEO SYSTEM. It features the Hyper Mode where the world's strongest 8 teams compete along with the World Men's and World Women's teams in this futuristic fighting volleyball. In Hyper Mode, commands for special serves and spikes can be input for an intense battle.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.", 
+    "tags": [
+        268435470, 
+        268435489, 
+        536871566, 
+        1073741828
+    ], 
+    "updated_at": 1522074181907, 
+    "url": "https://www.igdb.com/games/aca-neogeo-power-spikes-ii", 
+    "version_parent": 39979, 
+    "version_title": "ACA NEOGEO"
+}

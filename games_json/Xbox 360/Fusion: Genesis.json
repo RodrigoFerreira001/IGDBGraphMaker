@@ -1,0 +1,101 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Fusion: Sentient"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jq2smlu8ezxxx3rjvri5", 
+        "height": 259, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jq2smlu8ezxxx3rjvri5.jpg", 
+        "width": 217
+    }, 
+    "created_at": 1472031262739, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1317600000000, 
+    "games": [
+        19448, 
+        19301, 
+        68287, 
+        26766, 
+        19350, 
+        25300, 
+        71455, 
+        36950, 
+        19174, 
+        11550
+    ], 
+    "id": 22935, 
+    "keywords": [
+        166, 
+        947, 
+        970, 
+        1333, 
+        1623, 
+        4134, 
+        4283, 
+        4890, 
+        5311, 
+        6229
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Fusion: Genesis", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1317600000000, 
+            "human": "2011-Oct-03", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "slug": "fusion-genesis", 
+    "summary": "Spanning light-years the Fusion: Genesis universe allows you to adventure through a vast array of levels and missions. Escort imperial convoys, defend your base from invading fleets, infiltrate enemy lines or mine for rare and exotic minerals to become the wealthiest trader alive! Choose to fight epic battles in player versus player warzones, or cooperate to defend space stations from Dark Legion Raids or join other heroes to overcome the terrible guardians of the mysterious Ark.The game features dynamic missions to give it an MMO like feel.", 
+    "tags": [
+        18, 
+        536871078, 
+        536871859, 
+        536871882, 
+        536872245, 
+        536872535, 
+        536875046, 
+        536875195, 
+        536875802, 
+        536876223, 
+        536877141
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1515856009877, 
+    "url": "https://www.igdb.com/games/fusion-genesis"
+}

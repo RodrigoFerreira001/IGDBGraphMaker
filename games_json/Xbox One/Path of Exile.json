@@ -1,0 +1,316 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 4, 
+    "alternative_names": [
+        {
+            "comment": "Acronym", 
+            "name": "PoE"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "f2thkll5tox2nhz1tnom", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/f2thkll5tox2nhz1tnom.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1359326185651, 
+    "developers": [
+        919
+    ], 
+    "esrb": {
+        "rating": 1
+    }, 
+    "expansions": [
+        75571, 
+        76101, 
+        75574, 
+        75573, 
+        75572, 
+        75570, 
+        51543
+    ], 
+    "external": {
+        "steam": "238960"
+    }, 
+    "first_release_date": 1382486400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        5
+    ], 
+    "games": [
+        47823, 
+        27092, 
+        11567, 
+        18822, 
+        11169, 
+        36926, 
+        28168, 
+        3231, 
+        25657, 
+        44076
+    ], 
+    "genres": [
+        12, 
+        25, 
+        31, 
+        32
+    ], 
+    "hypes": 3, 
+    "id": 1911, 
+    "keywords": [
+        92, 
+        129, 
+        226, 
+        227, 
+        250, 
+        296, 
+        301, 
+        389, 
+        476, 
+        579, 
+        580, 
+        900, 
+        1026, 
+        1120, 
+        1494, 
+        2385, 
+        4257, 
+        4284, 
+        4345, 
+        4357, 
+        4358, 
+        4392, 
+        4545, 
+        4746, 
+        4879, 
+        5115, 
+        5373, 
+        5374, 
+        5695, 
+        5792, 
+        6074, 
+        6543, 
+        6660, 
+        7080, 
+        7509, 
+        9248, 
+        9509, 
+        9737, 
+        10405, 
+        10506, 
+        11152, 
+        11782, 
+        12392, 
+        16826
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 6, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 6, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Path of Exile", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 17.0, 
+    "publishers": [
+        919
+    ], 
+    "pulse_count": 51, 
+    "rating": 84.5435150702192, 
+    "rating_count": 90, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1503532800000, 
+            "human": "2017-Aug-24", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 5, 
+            "date": 1506729600000, 
+            "human": "2017-Q3", 
+            "m": 9, 
+            "platform": 49, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1382486400000, 
+            "human": "2013-Oct-23", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "z0oauy6cm7vbost3s5bu", 
+            "height": 504, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z0oauy6cm7vbost3s5bu.jpg", 
+            "width": 896
+        }, 
+        {
+            "cloudinary_id": "ppxjci6gxdssqzj0cbr4", 
+            "height": 504, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ppxjci6gxdssqzj0cbr4.jpg", 
+            "width": 896
+        }, 
+        {
+            "cloudinary_id": "uzao7rfjfd7zu8dsmegi", 
+            "height": 504, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uzao7rfjfd7zu8dsmegi.jpg", 
+            "width": 896
+        }, 
+        {
+            "cloudinary_id": "qic9hhwl201kebjxib8a", 
+            "height": 504, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qic9hhwl201kebjxib8a.jpg", 
+            "width": 896
+        }, 
+        {
+            "cloudinary_id": "qv2vuxb0kr1yvmcovubq", 
+            "height": 504, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qv2vuxb0kr1yvmcovubq.jpg", 
+            "width": 896
+        }
+    ], 
+    "slug": "path-of-exile", 
+    "storyline": "All exiles are given the same choice: to sink or swim. Those that don't drown will reach the forsaken shores of Wraeclast, where the only welcome is the clinging embrace of undeath. However, a small band of survivors has managed to hold fast in a ruined lighthouse, desperately repelling both the grasping undead and the manic scavengers that stubbornly cling to their last shreds of humanity. Under the commanding gaze of Axiom Prison, snarling goatmen roam the craggy bluffs, always keeping their cloven feet well clear of the rhoa-infested swamps in the lowlands. All along the coast, rotting shipwrecks litter the shoreline, the spirits of the stranded sailors still haunting the wreckages of their ill-fated ships, waiting to take out their sorrow and rage on those who yet live. All the while, the Siren herself continues her sweet, sad song, luring ever more ships to their watery graves. \n \nFarther inland, through the twisting caves and darkened forests, the ruins of civilisation become more apparent. The ravages of time have worn many buildings to rubble, and stripped away decaying flesh, leaving only grotesquely grinning bones. The dark, fetid caves and underground passages are a clattering refuge for these skeletal ranks, while the open forests and riverways brim with monstrous beasts with a taste for blood. Recently, ragtag groups of bloodthirsty bandits have built fortified camps in the forest, openly challenging one another while extorting food and supplies from the small, struggling village that sits between them atop a stone dam. Ignored by the squabbling bandits, strange newcomers clad in black armor have been seen skulking around various large ruins, their purpose both mysterious yet unsettling. \n \nAtop a sheer cliff of ruptured mantle, straddling the river feeding a mighty waterfall, lies the fallen capital of the Eternal Empire. Its former glory rots amid the ruins of a blasted cityscape, the buildings decrepit and mouldering. But Sarn is far from uninhabited. Many of the original citizens still lurk the dark recesses, their humanity washed clean by the cataclysm of centuries past. These Undying monsters roam the city at night and skulk the shadows during the day, for the naked sunlight is anathema to their shrivelled, leathery skin. The sun-scarred days are far from peaceful, however. A legion of soldiers from Oriath has occupied the area to the west of the river, and is fighting an all-out war against the multifarious denizens of the city. Every day their black-clad soldiers battle twisted insects that scuttle and breed, feasting on anything that moves. Every day they throw battalions against the army of floating, red Ribbons that eviscerate all who trespass on their domain. Every day they skirmish against a small group of exiles who have barricaded themselves on a small island in the middle of the river, caught between certain death on both sides.", 
+    "summary": "Wraeclast: the land of the damned. This forsaken continent is home to many writhing horrors, murderous beasts, and ravenous undead. The very soil is permeated with dark, ancient power, the earth shivering with malice. The dead are refused peace, rising up and hopelessly wandering in eternal pain, sorrow and hunger. The wildlife is twisted and misshapen, unnaturally aggressive and savage. Lurking in the darkest of corners, unspeakable horrors lie in wait for unsuspecting prey, eager to rip apart the mind as well as the flesh. Wraeclast is a place where few remain alive, and fewer remain sane.", 
+    "tags": [
+        1, 
+        17, 
+        19, 
+        268435468, 
+        268435481, 
+        268435487, 
+        268435488, 
+        536871004, 
+        536871041, 
+        536871138, 
+        536871139, 
+        536871162, 
+        536871208, 
+        536871213, 
+        536871301, 
+        536871388, 
+        536871491, 
+        536871492, 
+        536871812, 
+        536871938, 
+        536872032, 
+        536872406, 
+        536873297, 
+        536875169, 
+        536875196, 
+        536875257, 
+        536875269, 
+        536875270, 
+        536875304, 
+        536875457, 
+        536875658, 
+        536875791, 
+        536876027, 
+        536876285, 
+        536876286, 
+        536876607, 
+        536876704, 
+        536876986, 
+        536877455, 
+        536877572, 
+        536877992, 
+        536878421, 
+        536880160, 
+        536880421, 
+        536880649, 
+        536881317, 
+        536881418, 
+        536882064, 
+        536882694, 
+        536883304, 
+        536887738, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        17, 
+        19
+    ], 
+    "total_rating": 82.2717575351096, 
+    "total_rating_count": 94, 
+    "updated_at": 1528411986641, 
+    "url": "https://www.igdb.com/games/path-of-exile", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "NDFO4E5OKSE"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "cN82BoHQJHM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Path_of_Exile"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://pathofexile.wikia.com/wiki/Path_of_Exile_Wiki"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/238960"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.pathofexile.com"
+        }
+    ]
+}

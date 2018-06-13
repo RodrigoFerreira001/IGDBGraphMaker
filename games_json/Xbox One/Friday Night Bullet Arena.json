@@ -1,0 +1,176 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "esugknmaurxbc4thnorj", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/esugknmaurxbc4thnorj.jpg", 
+        "width": 200
+    }, 
+    "created_at": 1495639682778, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "513840"
+    }, 
+    "first_release_date": 1475193600000, 
+    "game_modes": [
+        2
+    ], 
+    "games": [
+        11423, 
+        7350, 
+        25300, 
+        19448, 
+        28113, 
+        6732, 
+        76110, 
+        16513, 
+        25311, 
+        27314
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 31702, 
+    "keywords": [
+        970, 
+        1158, 
+        1293, 
+        4004, 
+        4134, 
+        4150, 
+        4346, 
+        4465, 
+        4754
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Friday Night Bullet Arena", 
+    "platforms": [
+        6, 
+        14, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1484265600000, 
+            "human": "2017-Jan-13", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1475193600000, 
+            "human": "2016-Sep-30", 
+            "m": 9, 
+            "platform": 14, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1475193600000, 
+            "human": "2016-Sep-30", 
+            "m": 9, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1475193600000, 
+            "human": "2016-Sep-30", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dwc6eqkzpepircbspylu", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dwc6eqkzpepircbspylu.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "umyc6s8oa7942dbfi2ch", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/umyc6s8oa7942dbfi2ch.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "gq15cmlp5vonny3r7w8r", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gq15cmlp5vonny3r7w8r.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "s7vmcbj7ch4a8ftqzsqy", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s7vmcbj7ch4a8ftqzsqy.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "gpr6o4kyfl7owde5xyvt", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gpr6o4kyfl7owde5xyvt.jpg", 
+            "width": 1600
+        }
+    ], 
+    "slug": "friday-night-bullet-arena", 
+    "summary": "Friday Night Bullet Arena is a top-down multiplayer shoot-a-thon with a twist: each player only gets one bullet! You can catch your own bullet to fire again, but catching other bullets is... not recommended.", 
+    "tags": [
+        1, 
+        18, 
+        268435488, 
+        536871882, 
+        536872070, 
+        536872205, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875258, 
+        536875377, 
+        536875666
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1526728799616, 
+    "url": "https://www.igdb.com/games/friday-night-bullet-arena", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.fnba.ca"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/513840"
+        }
+    ]
+}

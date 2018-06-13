@@ -1,0 +1,462 @@
+{
+    "aggregated_rating": 66.9090909090909, 
+    "aggregated_rating_count": 13, 
+    "category": 0, 
+    "collection": 559, 
+    "cover": {
+        "cloudinary_id": "pmbx9numbedqh8ovm89v", 
+        "height": 1500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pmbx9numbedqh8ovm89v.jpg", 
+        "width": 1061
+    }, 
+    "created_at": 1382390184835, 
+    "developers": [
+        318
+    ], 
+    "dlcs": [
+        10881, 
+        10878, 
+        10879, 
+        10880
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "This is a third-person shooter in which players assume the role of a US Army sniper during World War II. From first- and third-person perspectives, players use machine guns, scoped rifles, trip mines, and grenades to kill enemy soldiers and complete mission objectives. Players employ stealth tactics to dispatch enemies from various ranges (e.g., crouching behind rubble to take a shot; sneaking up and snapping a soldier's neck). Firefights are highlighted by screams of pain, realistic gunfire, explosions, and large splashes of blood. Performing accurate shots sometimes triggers a \u201ckill cam,\u201d which follows the bullet in slow motion to its intended target. These sequences depict X-ray views of enemies' bones, ligaments, and organs shattering or bursting apart. The word \u201csh*t\u201d can be heard in the dialogue."
+    }, 
+    "external": {
+        "steam": "63380"
+    }, 
+    "first_release_date": 1335744000000, 
+    "game_engines": [
+        36
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        28204, 
+        6732, 
+        8366, 
+        326, 
+        6801, 
+        11423, 
+        7350, 
+        27421, 
+        622, 
+        7360
+    ], 
+    "genres": [
+        5, 
+        13, 
+        24
+    ], 
+    "id": 3078, 
+    "keywords": [
+        19, 
+        124, 
+        132, 
+        276, 
+        1025, 
+        1148, 
+        1158, 
+        1219, 
+        1293, 
+        1333, 
+        1494, 
+        1507, 
+        1821, 
+        2071, 
+        2543, 
+        3640, 
+        3831, 
+        3988, 
+        4004, 
+        4134, 
+        4150, 
+        4225, 
+        4245, 
+        4279, 
+        4345, 
+        4353, 
+        4520, 
+        4525, 
+        4580, 
+        4614, 
+        4681, 
+        4698, 
+        4730, 
+        4869, 
+        4890, 
+        4901, 
+        4904, 
+        5025, 
+        5349, 
+        5451, 
+        5557, 
+        5652, 
+        5657, 
+        5783, 
+        5791, 
+        5850, 
+        5888, 
+        5889, 
+        5987, 
+        5999, 
+        6036, 
+        6237, 
+        6254, 
+        6376, 
+        6528, 
+        6693, 
+        6737, 
+        6739, 
+        6889, 
+        7016, 
+        7038, 
+        7053, 
+        7113, 
+        7354, 
+        7417, 
+        7498, 
+        7670, 
+        8693, 
+        8698, 
+        8709, 
+        9907, 
+        10106, 
+        10466, 
+        11364, 
+        11444, 
+        11474, 
+        12155
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Sniper Elite V2", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence -\r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        6, 
+        41, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 2.666666666666667, 
+    "publishers": [
+        318, 
+        445
+    ], 
+    "rating": 75.0478309873186, 
+    "rating_count": 67, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1369353600000, 
+            "human": "2013-May-24", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1369353600000, 
+            "human": "2013-May-24", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1336089600000, 
+            "human": "2012-May-04", 
+            "m": 5, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1335830400000, 
+            "human": "2012-May-01", 
+            "m": 5, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1336003200000, 
+            "human": "2012-May-03", 
+            "m": 5, 
+            "platform": 12, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1335744000000, 
+            "human": "2012-Apr-30", 
+            "m": 4, 
+            "platform": 6, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1335744000000, 
+            "human": "2012-Apr-30", 
+            "m": 4, 
+            "platform": 9, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1369094400000, 
+            "human": "2013-May-21", 
+            "m": 5, 
+            "platform": 41, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "flyu6eqjqj6dnroxlqnq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/flyu6eqjqj6dnroxlqnq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pzvu7ngw0dwrueugy99n", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pzvu7ngw0dwrueugy99n.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jetyqerns6wptobiqqsf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jetyqerns6wptobiqqsf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "d0zascwp8tuvsav2lh45", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d0zascwp8tuvsav2lh45.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ds8trct78mxr5ioyaqco", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ds8trct78mxr5ioyaqco.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "g3ub7db5iakojlorxh9q", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g3ub7db5iakojlorxh9q.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ngcd7p12qczinwtsjjgh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ngcd7p12qczinwtsjjgh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fkb7saytnxyon9zyl7fi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fkb7saytnxyon9zyl7fi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kcp5rk9fhwnpw0glbbhz", 
+            "height": 445, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kcp5rk9fhwnpw0glbbhz.jpg", 
+            "width": 970
+        }, 
+        {
+            "cloudinary_id": "nicolq89nnvagsdoiygj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nicolq89nnvagsdoiygj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "h59ytcvfclipeziayf3w", 
+            "height": 445, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h59ytcvfclipeziayf3w.jpg", 
+            "width": 970
+        }, 
+        {
+            "cloudinary_id": "hmfw3q4sdqzct2zrwjyi", 
+            "height": 445, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hmfw3q4sdqzct2zrwjyi.jpg", 
+            "width": 970
+        }
+    ], 
+    "slug": "sniper-elite-v2", 
+    "storyline": "The main character is Karl Fairburne, an OSS officer who is inserted into Berlin in 1945, during the final days of World War II. It references Operation Paperclip and its predecessor Operation Overcast, the plan by the USA to recruit the scientists of Nazi Germany. Fairburne comes up against both Nazi and Soviet opponents as he tracks key individuals involved with the development of the V-2 ballistic missile.", 
+    "summary": "Sniper Elite V2 is the eagerly-awaited sequel to the highly-acclaimed Sniper Elite, giving gamers the most authentic World War II sniping experience available. You are elite US sniper Karl Fairburne. Parachuted into Berlin amidst the Germans\u2019 final stand, your mission is to prevent Nazi V2 rocket program technology from falling into the hands of the besieging Red Army. You must aid key scientists keen to defect to the US, and terminate those who would help the Russians. \n \n \n \nTake advantage of authentic weaponry, learn how to stalk your targets, fortify your position, set up the shot, use your skill, patience and cunning to achieve your mission. Stealth gameplay is the key as you find yourself trapped between two desperate armies in a race against time. Watch as the celebrated \u2018bullet cam\u2019 from Sniper Elite returns, bloodier and more gruesome than ever \u2013 skilful shots are rewarded with a slow-motion flight of the bullet, then targets are graphically rendered in X-Ray as the bullet enters and destroys your victim. Organs shred, bones splinter, teeth shatter, as the true impact of the sniper\u2019s bullet is brought to life. \n \n \n \nAs World War Two ends and the Cold War begins, every shot counts. Use it wisely.", 
+    "tags": [
+        1, 
+        22, 
+        23, 
+        39, 
+        268435461, 
+        268435469, 
+        268435480, 
+        536870931, 
+        536871036, 
+        536871044, 
+        536871188, 
+        536871937, 
+        536872060, 
+        536872070, 
+        536872131, 
+        536872205, 
+        536872245, 
+        536872406, 
+        536872419, 
+        536872733, 
+        536872983, 
+        536873455, 
+        536874552, 
+        536874743, 
+        536874900, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875137, 
+        536875157, 
+        536875191, 
+        536875257, 
+        536875265, 
+        536875432, 
+        536875437, 
+        536875492, 
+        536875526, 
+        536875593, 
+        536875610, 
+        536875642, 
+        536875781, 
+        536875802, 
+        536875813, 
+        536875816, 
+        536875937, 
+        536876261, 
+        536876363, 
+        536876469, 
+        536876564, 
+        536876569, 
+        536876695, 
+        536876703, 
+        536876762, 
+        536876800, 
+        536876801, 
+        536876899, 
+        536876911, 
+        536876948, 
+        536877149, 
+        536877166, 
+        536877288, 
+        536877440, 
+        536877605, 
+        536877649, 
+        536877651, 
+        536877801, 
+        536877928, 
+        536877950, 
+        536877965, 
+        536878025, 
+        536878266, 
+        536878329, 
+        536878410, 
+        536878582, 
+        536879605, 
+        536879610, 
+        536879621, 
+        536880819, 
+        536881018, 
+        536881378, 
+        536882276, 
+        536882356, 
+        536882386, 
+        536883067, 
+        1073741825, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        22, 
+        23, 
+        39
+    ], 
+    "time_to_beat": {
+        "completely": 90000, 
+        "normally": 44400
+    }, 
+    "total_rating": 70.97846094820476, 
+    "total_rating_count": 80, 
+    "updated_at": 1528218905023, 
+    "url": "https://www.igdb.com/games/sniper-elite-v2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "hGWajzFYsYg"
+        }, 
+        {
+            "name": "Teaser", 
+            "video_id": "PxK5Rmb6YRI"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "-wJL544RcOU"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.sniperelitev2.com/"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/SniperElite"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://facebook.com/sniperelitegame"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/63380"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Sniper_Elite_V2"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://sniperelite.wikia.com/wiki/Sniper_Elite_V2"
+        }
+    ]
+}

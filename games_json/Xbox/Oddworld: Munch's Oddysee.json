@@ -1,0 +1,361 @@
+{
+    "aggregated_rating": 48.0, 
+    "aggregated_rating_count": 3, 
+    "artworks": [
+        {
+            "cloudinary_id": "bqumirjo9iu3zolbtnhw", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bqumirjo9iu3zolbtnhw.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "ckgr056kv3mchmlhoshs", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ckgr056kv3mchmlhoshs.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "m0mf4huacuxdnrxyumpm", 
+            "height": 1110, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m0mf4huacuxdnrxyumpm.jpg", 
+            "width": 750
+        }, 
+        {
+            "cloudinary_id": "qegi2ch4dnrn6xezldmb", 
+            "height": 970, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qegi2ch4dnrn6xezldmb.jpg", 
+            "width": 750
+        }, 
+        {
+            "cloudinary_id": "r5syu7lufttrglwqw4bi", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r5syu7lufttrglwqw4bi.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "xmbhvcr8bc0uk4rixqps", 
+            "height": 930, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xmbhvcr8bc0uk4rixqps.jpg", 
+            "width": 750
+        }, 
+        {
+            "cloudinary_id": "aittmgjl6k0j8byw13iq", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aittmgjl6k0j8byw13iq.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "wis5onfh7yguktwris1y", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wis5onfh7yguktwris1y.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "l1lb7wmjk3mvar8hb7fr", 
+            "height": 700, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l1lb7wmjk3mvar8hb7fr.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "fdmnjptswlqmofytfhjx", 
+            "height": 650, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fdmnjptswlqmofytfhjx.jpg", 
+            "width": 900
+        }
+    ], 
+    "category": 0, 
+    "collection": 223, 
+    "cover": {
+        "cloudinary_id": "sre5bke6skh57hapajci", 
+        "height": 815, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sre5bke6skh57hapajci.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1322574423000, 
+    "developers": [
+        727, 
+        729, 
+        728
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "15740"
+    }, 
+    "first_release_date": 1005696000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        18167, 
+        11423, 
+        16992, 
+        72, 
+        6732, 
+        7350, 
+        27421, 
+        19448, 
+        72373, 
+        11567
+    ], 
+    "genres": [
+        8, 
+        9, 
+        15, 
+        31
+    ], 
+    "id": 1001, 
+    "keywords": [
+        296, 
+        350, 
+        970, 
+        977, 
+        1027, 
+        1127, 
+        1152, 
+        1158, 
+        2875, 
+        3002, 
+        4004, 
+        4134, 
+        4161, 
+        4162, 
+        4177, 
+        4245, 
+        4287, 
+        4298, 
+        4345, 
+        4359, 
+        4418, 
+        4481, 
+        4523, 
+        4525, 
+        4611, 
+        4726, 
+        4858, 
+        4962, 
+        4968, 
+        5181, 
+        5405, 
+        5441, 
+        5658, 
+        5669, 
+        5672, 
+        5814, 
+        6061, 
+        6263, 
+        6365, 
+        6411, 
+        7237, 
+        7558, 
+        9222, 
+        9529, 
+        9956, 
+        9957, 
+        9958, 
+        11841, 
+        12052, 
+        13118, 
+        13119, 
+        13295, 
+        13951, 
+        14368, 
+        15222, 
+        15223, 
+        15224, 
+        15232, 
+        16456
+    ], 
+    "name": "Oddworld: Munch's Oddysee", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        92, 
+        11, 
+        24
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        53, 
+        1
+    ], 
+    "pulse_count": 1, 
+    "rating": 70.7791841858655, 
+    "rating_count": 11, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1292803200000, 
+            "human": "2010-Dec-20", 
+            "m": 12, 
+            "platform": 92, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1005696000000, 
+            "human": "2001-Nov-14", 
+            "m": 11, 
+            "platform": 11, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 1064361600000, 
+            "human": "2003-Sep-24", 
+            "m": 9, 
+            "platform": 24, 
+            "y": 2003
+        }, 
+        {
+            "category": 0, 
+            "date": 1292803200000, 
+            "human": "2010-Dec-20", 
+            "m": 12, 
+            "platform": 6, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "w6ownzprm77udpu7hvea", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w6ownzprm77udpu7hvea.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ughg4hxomuf6pvjjoozw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ughg4hxomuf6pvjjoozw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "edswtojwjr4uivp63eik", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/edswtojwjr4uivp63eik.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "iz77xigvaimialyyyfy6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iz77xigvaimialyyyfy6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yofbfcszwm3ojfrxnem4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yofbfcszwm3ojfrxnem4.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "oddworld-munch-s-oddysee", 
+    "summary": "How would you feel if you broke your leg in a scrab trap, were abducted by soulless scientists, had an alien device implanted in your skull, and found out your race had been hunted to extinction? Meet Munch, hero of the Oddest Oddysee of all. His luck is about to change \u2013 for the worse. \nDue to the rich variety of consumer products derived from gabbit species, their legacy has nearly come to its end. For the amphibous Gabbit, there is only one lonely individual that survives. However, it won\u2019t be spotted where one might typically find such a Gabbit. This one is currently an entrapped test subject within the horrible testing facility known as Vykkers Labs. \nIt\u2019s up to you to help guide Munch in efforts to rescue fellow test creatures. These critters will be forever loyal to Munch and in turn enable his escape . Once free, Munch teams up with Abe and together they are guided by the wisdom of the Almighty Raisin. They are informed as to how to accomplish their goals, but in order to do so, they must work together.For Munch, his dream is to bring back his species from the brink of extinction. For Abe, it is to rescue his Mudokon buddies. \nUsing special psychic powers, cool power-ups, and other special abilities to deliver payback to the Vykkers, Abe and Munch reclaim the last gabbit eggs on Oddworld, which have been packaged in a can of gabbiar. \nMay Odd help you!", 
+    "tags": [
+        1, 
+        18, 
+        27, 
+        268435464, 
+        268435465, 
+        268435471, 
+        268435487, 
+        536871208, 
+        536871262, 
+        536871882, 
+        536871889, 
+        536871939, 
+        536872039, 
+        536872064, 
+        536872070, 
+        536873787, 
+        536873914, 
+        536874916, 
+        536875046, 
+        536875073, 
+        536875074, 
+        536875089, 
+        536875157, 
+        536875199, 
+        536875210, 
+        536875257, 
+        536875271, 
+        536875330, 
+        536875393, 
+        536875435, 
+        536875437, 
+        536875523, 
+        536875638, 
+        536875770, 
+        536875874, 
+        536875880, 
+        536876093, 
+        536876317, 
+        536876353, 
+        536876570, 
+        536876581, 
+        536876584, 
+        536876726, 
+        536876973, 
+        536877175, 
+        536877277, 
+        536877323, 
+        536878149, 
+        536878470, 
+        536880134, 
+        536880441, 
+        536880868, 
+        536880869, 
+        536880870, 
+        536882753, 
+        536882964, 
+        536884030, 
+        536884031, 
+        536884207, 
+        536884863, 
+        536885280, 
+        536886134, 
+        536886135, 
+        536886136, 
+        536886144, 
+        536887368, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18, 
+        27
+    ], 
+    "total_rating": 59.38959209293275, 
+    "total_rating_count": 14, 
+    "updated_at": 1526999729298, 
+    "url": "https://www.igdb.com/games/oddworld-munch-s-oddysee", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "w3T0eUiqN5Q"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "1GUHrTdzGLc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 12, 
+            "url": "https://play.google.com/store/apps/details?id=com.oddworld.Munch&hl=en&gl=us"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.oddworld.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/15740"
+        }
+    ]
+}

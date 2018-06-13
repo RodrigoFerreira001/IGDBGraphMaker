@@ -1,0 +1,331 @@
+{
+    "aggregated_rating": 55.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 4087, 
+    "cover": {
+        "cloudinary_id": "ilkqbfxu6qb6ojdkgquf", 
+        "height": 600, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ilkqbfxu6qb6ojdkgquf.jpg", 
+        "width": 437
+    }, 
+    "created_at": 1363940121100, 
+    "developers": [
+        927, 
+        82
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 410140800000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        36868, 
+        55752, 
+        9174, 
+        117, 
+        8737, 
+        18167, 
+        22486, 
+        18822, 
+        51485, 
+        16992
+    ], 
+    "genres": [
+        8, 
+        9, 
+        33
+    ], 
+    "id": 1980, 
+    "keywords": [
+        16, 
+        126, 
+        128, 
+        137, 
+        332, 
+        589, 
+        658, 
+        1395, 
+        1495, 
+        1756, 
+        1761, 
+        2049, 
+        2875, 
+        3079, 
+        4161, 
+        4212, 
+        4245, 
+        4297, 
+        4449, 
+        4492, 
+        4615, 
+        4754, 
+        4958, 
+        5436, 
+        5543, 
+        5801, 
+        5806, 
+        6365, 
+        7028, 
+        8236, 
+        9935, 
+        10211, 
+        11247, 
+        14006
+    ], 
+    "name": "Q*bert", 
+    "platforms": [
+        71, 
+        68, 
+        52, 
+        67, 
+        84, 
+        66, 
+        59, 
+        13, 
+        133, 
+        65, 
+        9, 
+        15, 
+        33, 
+        18, 
+        129, 
+        27
+    ], 
+    "player_perspectives": [
+        3, 
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        129, 
+        9526, 
+        11624, 
+        303, 
+        1740, 
+        927, 
+        7392
+    ], 
+    "rating": 62.7442839273952, 
+    "rating_count": 14, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 129, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 84, 
+            "region": 5, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 410140800000, 
+            "human": "1982", 
+            "m": 12, 
+            "platform": 133, 
+            "region": 1, 
+            "y": 1982
+        }, 
+        {
+            "category": 2, 
+            "date": 473299200000, 
+            "human": "1984", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1984
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 66, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 71, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 27, 
+            "region": 5, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 65, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 68, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 67, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 59, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 0, 
+            "date": 695347200000, 
+            "human": "1992-Jan-14", 
+            "m": 1, 
+            "platform": 33, 
+            "region": 5, 
+            "y": 1992
+        }, 
+        {
+            "category": 0, 
+            "date": 602294400000, 
+            "human": "1989-Feb-01", 
+            "m": 2, 
+            "platform": 18, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 410140800000, 
+            "human": "1982", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 2, 
+            "y": 1982
+        }, 
+        {
+            "category": 0, 
+            "date": 1177632000000, 
+            "human": "2007-Apr-27", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1172102400000, 
+            "human": "2007-Feb-22", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "klxfadpqmfrqj3qb5odr", 
+            "height": 499, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/klxfadpqmfrqj3qb5odr.jpg", 
+            "width": 610
+        }
+    ], 
+    "slug": "q-bert", 
+    "storyline": "Q*bert is primarily a puzzle game where the title character must alter the colour of each cube in a pyramid by jumping on it, while avoiding the various monsters that seek to get in his way. No significant story was developed for the game, partly due to the original inception as an arcade game.", 
+    "summary": "Q*bert was a popular arcade game that was released on a large number of consoles in the early 1980s. It was developed and published by Gottlieb, and became their most successful game. The concept serves as a precursor to the isometric platformer genre, where the title character must work to turn all cubes to a certain colour in a psuedo-3D world, made 3D through isometric graphics in the same way that the Penrose Stairs was made. The game was widely successful and has become a highly recognizable brand of the 1980s gaming era.", 
+    "tags": [
+        1, 
+        27, 
+        268435464, 
+        268435465, 
+        268435489, 
+        536870928, 
+        536871038, 
+        536871040, 
+        536871049, 
+        536871244, 
+        536871501, 
+        536871570, 
+        536872307, 
+        536872407, 
+        536872668, 
+        536872673, 
+        536872961, 
+        536873787, 
+        536873991, 
+        536875073, 
+        536875124, 
+        536875157, 
+        536875209, 
+        536875361, 
+        536875404, 
+        536875527, 
+        536875666, 
+        536875870, 
+        536876348, 
+        536876455, 
+        536876713, 
+        536876718, 
+        536877277, 
+        536877940, 
+        536879148, 
+        536880847, 
+        536881123, 
+        536882159, 
+        536884918, 
+        1073741827, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 58.8721419636976, 
+    "total_rating_count": 15, 
+    "updated_at": 1526069763352, 
+    "url": "https://www.igdb.com/games/q-bert"
+}

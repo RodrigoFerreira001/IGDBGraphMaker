@@ -1,0 +1,164 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 5, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "lqcexmetoesfbllj1fmf", 
+        "height": 865, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lqcexmetoesfbllj1fmf.jpg", 
+        "width": 1538
+    }, 
+    "created_at": 1467883605958, 
+    "developers": [
+        10300
+    ], 
+    "first_release_date": 1468368000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        25222, 
+        60044, 
+        14047, 
+        26223, 
+        19289, 
+        72897, 
+        70010, 
+        69573, 
+        69244, 
+        64310
+    ], 
+    "genres": [
+        8, 
+        9
+    ], 
+    "hypes": 1, 
+    "id": 19917, 
+    "keywords": [
+        95, 
+        2049, 
+        2875
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Fru", 
+    "platforms": [
+        49
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        128
+    ], 
+    "pulse_count": 1, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1468368000000, 
+            "human": "2016-Jul-13", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468368000000, 
+            "human": "2016-Jul-13", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "es8223ectc8uz5kq9fqm", 
+            "height": 1152, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/es8223ectc8uz5kq9fqm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lwglz2yw59zc7nfyfh1u", 
+            "height": 1152, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lwglz2yw59zc7nfyfh1u.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "t5c34zrfyq6l4efeum6p", 
+            "height": 1152, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t5c34zrfyq6l4efeum6p.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bd3qn33nkkjgm2bnaxwp", 
+            "height": 1152, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bd3qn33nkkjgm2bnaxwp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dlhhsgfb6d7ij9k8s6ts", 
+            "height": 1152, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dlhhsgfb6d7ij9k8s6ts.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "fru", 
+    "summary": "FRU is a puzzle platformer that features an innovative use of Kinect, in which your silhouette becomes a \"portal\" between two worlds. \n \nYou will find yourself solving puzzles by strategically positioning your body, combining physical interaction with traditional platforming. \n \nThe game features four completely different chapters, all based around our innovative use of the silhouette, with a unique twist to each one of them. \n \nIn addition to moving and balancing your body to solve levels, you\u2019ll also find yourself swimming inside your silhouette, striking crazy poses to activate contraptions, and awkwardly tiptoeing to avoid dangerous hazards!", 
+    "tags": [
+        268435464, 
+        268435465, 
+        536871007, 
+        536872961, 
+        536873787, 
+        1073741828
+    ], 
+    "total_rating": 85.0, 
+    "total_rating_count": 5, 
+    "updated_at": 1528353503801, 
+    "url": "https://www.igdb.com/games/fru", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "pH2zzMEBb7E"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "zcoyqGmomzA"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "u9GU9XRTYAc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 5, 
+            "url": "https://twitter.com/FRU_Game?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://frugame.com/"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "N2"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2286, 
+    "cover": {
+        "cloudinary_id": "gtvmdovsbxcwe2915l0c", 
+        "height": 1370, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gtvmdovsbxcwe2915l0c.jpg", 
+        "width": 1532
+    }, 
+    "created_at": 1469227058069, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1205193600000, 
+    "games": [
+        68287, 
+        36950, 
+        27314, 
+        64204, 
+        28029, 
+        10209, 
+        26766, 
+        25300, 
+        11253, 
+        71455
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 20992, 
+    "keywords": [
+        166, 
+        947, 
+        970, 
+        992, 
+        1527, 
+        4510, 
+        4967, 
+        5143, 
+        6078, 
+        9167, 
+        13083
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 20, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Nanostray 2", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        14586
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1205193600000, 
+            "human": "2008-Mar-11", 
+            "m": 3, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1207872000000, 
+            "human": "2008-Apr-11", 
+            "m": 4, 
+            "platform": 20, 
+            "region": 8, 
+            "y": 2008
+        }
+    ], 
+    "slug": "nanostray-2", 
+    "summary": "Nanostray 2 is a sequel to the DS shoot-em-up Nanostray released in 2005. It features improvements over it's prequel such as a new weapon system, enhanced touch controls, and unlockable minigames. It is developed by Shin'en Multimedia and published by Majesco.", 
+    "tags": [
+        18, 
+        268435461, 
+        536871078, 
+        536871859, 
+        536871882, 
+        536871904, 
+        536872439, 
+        536875422, 
+        536875879, 
+        536876055, 
+        536876990, 
+        536880079, 
+        536883995
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1519806314488, 
+    "url": "https://www.igdb.com/games/nanostray-2", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.nanostray2.com/"
+        }
+    ]
+}

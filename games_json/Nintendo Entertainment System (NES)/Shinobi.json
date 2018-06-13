@@ -1,0 +1,412 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 512, 
+    "cover": {
+        "cloudinary_id": "xgggd4jywxcg4ajvlvdg", 
+        "height": 1368, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xgggd4jywxcg4ajvlvdg.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1400823046239, 
+    "developers": [
+        10180
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 567907200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        10039, 
+        10220, 
+        55752, 
+        6732, 
+        6876, 
+        21062, 
+        19934, 
+        2751, 
+        117, 
+        2623
+    ], 
+    "genres": [
+        4, 
+        5, 
+        8, 
+        33
+    ], 
+    "id": 6899, 
+    "keywords": [
+        16, 
+        61, 
+        164, 
+        389, 
+        558, 
+        1059, 
+        1373, 
+        1669, 
+        1784, 
+        1950, 
+        2049, 
+        2152, 
+        2679, 
+        3486, 
+        3776, 
+        4134, 
+        4144, 
+        4161, 
+        4163, 
+        4164, 
+        4330, 
+        4446, 
+        4522, 
+        4646, 
+        4866, 
+        4958, 
+        5098, 
+        5208, 
+        5287, 
+        5451, 
+        5633, 
+        5694, 
+        5773, 
+        6365, 
+        6381, 
+        6468, 
+        7593, 
+        9931, 
+        10008
+    ], 
+    "name": "Shinobi", 
+    "platforms": [
+        52, 
+        63, 
+        35, 
+        86, 
+        13, 
+        16, 
+        15, 
+        26, 
+        25, 
+        37, 
+        5, 
+        18, 
+        64, 
+        27
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.666666666666667, 
+    "publishers": [
+        2404, 
+        13377, 
+        12390, 
+        629, 
+        11739
+    ], 
+    "rating": 83.290712153577, 
+    "rating_count": 9, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1247529600000, 
+            "human": "2009-Jul-14", 
+            "m": 7, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1256256000000, 
+            "human": "2009-Oct-23", 
+            "m": 10, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1260144000000, 
+            "human": "2009-Dec-07", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1332979200000, 
+            "human": "2012-Mar-29", 
+            "m": 3, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1331683200000, 
+            "human": "2012-Mar-14", 
+            "m": 3, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1331769600000, 
+            "human": "2012-Mar-15", 
+            "m": 3, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 672624000000, 
+            "human": "1991-Apr-26", 
+            "m": 4, 
+            "platform": 35, 
+            "region": 5, 
+            "y": 1991
+        }, 
+        {
+            "category": 0, 
+            "date": 694137600000, 
+            "human": "1991-Dec-31", 
+            "m": 12, 
+            "platform": 35, 
+            "region": 1, 
+            "y": 1991
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 0, 
+            "date": 629078400000, 
+            "human": "1989-Dec-08", 
+            "m": 12, 
+            "platform": 86, 
+            "region": 5, 
+            "y": 1989
+        }, 
+        {
+            "category": 0, 
+            "date": 582681600000, 
+            "human": "1988-Jun-19", 
+            "m": 6, 
+            "platform": 64, 
+            "region": 5, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 18, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 27, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 25, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 16, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1987
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xfe1l6fufqdl4g6e9ynf", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xfe1l6fufqdl4g6e9ynf.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "kbrhebecae7c0hmg77dr", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kbrhebecae7c0hmg77dr.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "vyzlx4nycgnkr7c5oucm", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vyzlx4nycgnkr7c5oucm.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "bqfckcqptsncfs8iq4co", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bqfckcqptsncfs8iq4co.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "z2wlhqwqfgkvsua2alr3", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z2wlhqwqfgkvsua2alr3.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "iouexa654rbb2d7om5vs", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iouexa654rbb2d7om5vs.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "czigidagncen5cykuuyp", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/czigidagncen5cykuuyp.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "gixvi5fjhyelffs43z1j", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gixvi5fjhyelffs43z1j.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "m1wg2howev33jbdf1fxy", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m1wg2howev33jbdf1fxy.jpg", 
+            "width": 400
+        }
+    ], 
+    "slug": "shinobi", 
+    "storyline": "The player controls a ninja named Joe Musashi who has to stop a criminal organization called \"Zeed\" who are kidnapping the children of his ninja clan. Through five missions (consisting of three stages for the first mission and four stages each for the rest), Musashi must make his way to Zeed's headquarters and free all the hostages in the first two or three stages before confronting the boss at the final stage of each mission. At the start of each mission, the player is shown their objective, followed by a file containing a photograph of the enemy boss and a map display pinpointing the location of the next stage.", 
+    "summary": "The five missions in the game are each three or four stages long. Several hostages are being held in each stage; Joe must rescue all of them before he is allowed to finish the stage. The last stage in each mission has no hostages, but instead features a powerful boss character whom Joe must defeat. After completing each of the first four missions the player is taken to a bonus stage, where he can earn an extra life if he is able to kill all of the ninjas leaping towards him. Completing the fifth mission ends the game. Also, once the fifth mission begins, continues are no longer allowed; the player has to finish the game with however many lives he has left at that point. If the player earns a place on the high score board, the number of credits it took him to get that score is displayed along with his score. \n \nJoe's standard weapons are an unlimited supply of shuriken, along with punches and kicks when attacking at close range. One hostage per stage gives him a power-up. When powered-up, his throwing stars are replaced by a gun that fires large, explosive bullets, and his close-range attack becomes a katana slash. Joe can also perform \"ninja magic,\" which may be used only once per stage and kills (or damages, in the case of bosses) all enemies on the screen. The game also allows the enemies to hide behind boxes or use shields to block Musashi's shurikens.[4] \n \nJoe can be killed with one hit, provided he is hit by a projectile or melee attack, but if he does not find himself in those situations, the player can touch regular enemies and just be pushed back without being damaged. Since most enemies appear in the same place on each level, it is possible to master the game by memorizing their locations and devising patterns to defeat them. \n \nAt the end of each stage, the player receives score bonuses based on performance. Completing the stage without using ninja magic or without using any throwing stars or bullets earns the player a point bonus. The player has three minutes to complete each stage; remaining time at the end of the stage is also converted to bonus points and added to the player's score.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435461, 
+        268435464, 
+        268435489, 
+        536870928, 
+        536870973, 
+        536871076, 
+        536871301, 
+        536871470, 
+        536871971, 
+        536872285, 
+        536872581, 
+        536872696, 
+        536872862, 
+        536872961, 
+        536873064, 
+        536873591, 
+        536874398, 
+        536874688, 
+        536875046, 
+        536875056, 
+        536875073, 
+        536875075, 
+        536875076, 
+        536875242, 
+        536875358, 
+        536875434, 
+        536875558, 
+        536875778, 
+        536875870, 
+        536876010, 
+        536876120, 
+        536876199, 
+        536876363, 
+        536876545, 
+        536876606, 
+        536876685, 
+        536877277, 
+        536877293, 
+        536877380, 
+        536878505, 
+        536880843, 
+        536880920, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 71.6453560767885, 
+    "total_rating_count": 12, 
+    "updated_at": 1518008493876, 
+    "url": "https://www.igdb.com/games/shinobi", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "JjLI4djnBIg"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://en.wikipedia.org/wiki/Shinobi_(video_game)"
+        }
+    ]
+}

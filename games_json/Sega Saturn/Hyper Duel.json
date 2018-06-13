@@ -1,0 +1,87 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "donods2w0otxxtadthxa", 
+        "height": 2784, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/donods2w0otxxtadthxa.jpg", 
+        "width": 2832
+    }, 
+    "created_at": 1499506977913, 
+    "first_release_date": 757296000000, 
+    "games": [
+        68287, 
+        28029, 
+        36950, 
+        64204, 
+        142, 
+        71455, 
+        27314, 
+        27523, 
+        25300, 
+        14364
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 45459, 
+    "keywords": [
+        970, 
+        1025
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Hyper Duel", 
+    "platforms": [
+        52, 
+        32
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 757296000000, 
+            "human": "1993-Dec-31", 
+            "m": 12, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 851212800000, 
+            "human": "1996-Dec-22", 
+            "m": 12, 
+            "platform": 32, 
+            "region": 8, 
+            "y": 1996
+        }
+    ], 
+    "slug": "hyper-duel", 
+    "summary": "Hyper Duel is an Action game, developed and published by TechnoSoft, which was released in Japan in 1996.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        536871882, 
+        536871937
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "updated_at": 1516683564586, 
+    "url": "https://www.igdb.com/games/hyper-duel"
+}

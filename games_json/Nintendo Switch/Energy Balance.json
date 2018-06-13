@@ -1,0 +1,153 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "p5ofkeegiann27ntkcrk", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/p5ofkeegiann27ntkcrk.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1495825868963, 
+    "developers": [
+        10955
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "375010"
+    }, 
+    "first_release_date": 1435795200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25222, 
+        14047, 
+        27266, 
+        26223, 
+        60044, 
+        25646, 
+        26239, 
+        51978, 
+        28465, 
+        34919
+    ], 
+    "genres": [
+        9, 
+        32
+    ], 
+    "id": 35113, 
+    "keywords": [
+        2875
+    ], 
+    "name": "Energy Balance", 
+    "platforms": [
+        45, 
+        6, 
+        14, 
+        3, 
+        130
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        10955
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1516060800000, 
+            "human": "2018-Jan-16", 
+            "m": 1, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1496361600000, 
+            "human": "2017-Jun-02", 
+            "m": 6, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1435795200000, 
+            "human": "2015-Jul-02", 
+            "m": 7, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1435795200000, 
+            "human": "2015-Jul-02", 
+            "m": 7, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1435795200000, 
+            "human": "2015-Jul-02", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lpcexccsgraoknfthsns", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lpcexccsgraoknfthsns.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rv3yrgfnjatn8vlfyfok", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rv3yrgfnjatn8vlfyfok.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "q5aphsnkblm5dxaqxtoz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q5aphsnkblm5dxaqxtoz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ppezlkubpxjrctwxehbf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ppezlkubpxjrctwxehbf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nbkaeoapey1hxfjkva4d", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nbkaeoapey1hxfjkva4d.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "energy-balance", 
+    "summary": "Energy Balance is a number puzzle. You have to swap power units in such a way that their sums form correct chains both vertically and horizontally. The game is easy to learn, but very hard to master. So, are you ready to peep under the hood of an alien spaceship?", 
+    "tags": [
+        268435465, 
+        268435488, 
+        536873787
+    ], 
+    "updated_at": 1523415864758, 
+    "url": "https://www.igdb.com/games/energy-balance", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.sometimesyou.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/375010"
+        }
+    ]
+}

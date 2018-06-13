@@ -1,0 +1,100 @@
+{
+    "category": 0, 
+    "collection": 521, 
+    "cover": {
+        "cloudinary_id": "bbgj1jzqdbr34nob0hed", 
+        "height": 381, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bbgj1jzqdbr34nob0hed.jpg", 
+        "width": 255
+    }, 
+    "created_at": 1514219957783, 
+    "first_release_date": 1238544000000, 
+    "games": [
+        28558, 
+        37088, 
+        78773, 
+        47823, 
+        26563, 
+        3278, 
+        24048, 
+        16125, 
+        78424, 
+        65829
+    ], 
+    "id": 78772, 
+    "keywords": [
+        4329, 
+        4821, 
+        8221
+    ], 
+    "name": "Animal Crossing Clock", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        70
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1238544000000, 
+            "human": "2009-Apr-01", 
+            "m": 4, 
+            "platform": 159, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1244160000000, 
+            "human": "2009-Jun-05", 
+            "m": 6, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1241395200000, 
+            "human": "2009-May-04", 
+            "m": 5, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dsgpzx6jnm7rksrndzwe", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dsgpzx6jnm7rksrndzwe.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "sslovwepj79yagwa9any", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sslovwepj79yagwa9any.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "a4auqnkhqduke2sqrexv", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a4auqnkhqduke2sqrexv.jpg", 
+            "width": 272
+        }
+    ], 
+    "slug": "animal-crossing-clock", 
+    "summary": "An Animal Crossing themed clock for the DSiware", 
+    "tags": [
+        33, 
+        536875241, 
+        536875733, 
+        536879133
+    ], 
+    "themes": [
+        33
+    ], 
+    "updated_at": 1518046521737, 
+    "url": "https://www.igdb.com/games/animal-crossing-clock"
+}

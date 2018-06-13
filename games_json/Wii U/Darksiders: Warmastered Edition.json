@@ -1,0 +1,308 @@
+{
+    "aggregated_rating": 81.25, 
+    "aggregated_rating_count": 9, 
+    "artworks": [
+        {
+            "cloudinary_id": "vqvgkappadgzduvp0kwc", 
+            "height": 2415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vqvgkappadgzduvp0kwc.jpg", 
+            "width": 3579
+        }
+    ], 
+    "category": 0, 
+    "collection": 280, 
+    "cover": {
+        "cloudinary_id": "rpzrm8hrha2steswtxs2", 
+        "height": 2211, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rpzrm8hrha2steswtxs2.jpg", 
+        "width": 1554
+    }, 
+    "created_at": 1476879605291, 
+    "developers": [
+        10075
+    ], 
+    "external": {
+        "steam": "462780"
+    }, 
+    "first_release_date": 1479772800000, 
+    "franchise": 885, 
+    "franchises": [
+        885
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        37088, 
+        20048, 
+        26163, 
+        24048, 
+        16468, 
+        28380, 
+        1221, 
+        59516, 
+        47823, 
+        55289
+    ], 
+    "genres": [
+        12, 
+        25, 
+        31
+    ], 
+    "id": 25081, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Darksiders: Warmastered Edition", 
+    "pegi": {
+        "rating": 5
+    }, 
+    "platforms": [
+        6, 
+        41, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 3.0, 
+    "publishers": [
+        10075
+    ], 
+    "pulse_count": 20, 
+    "rating": 79.69298250613251, 
+    "rating_count": 9, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1495497600000, 
+            "human": "2017-May-23", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1495497600000, 
+            "human": "2017-May-23", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1479772800000, 
+            "human": "2016-Nov-22", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1480032000000, 
+            "human": "2016-Nov-25", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479772800000, 
+            "human": "2016-Nov-22", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479772800000, 
+            "human": "2016-Nov-22", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479772800000, 
+            "human": "2016-Nov-22", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479772800000, 
+            "human": "2016-Nov-22", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1480377600000, 
+            "human": "2016-Nov-29", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qgw5xbopnkeubnzaffrx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qgw5xbopnkeubnzaffrx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hqdg9vucj3mzxihdw7iw", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hqdg9vucj3mzxihdw7iw.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "fpjqlksp1br3cjuacupq", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fpjqlksp1br3cjuacupq.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "aexyyyvd4evw2umsqzli", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aexyyyvd4evw2umsqzli.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "tkmfckssvcgtdaohearp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tkmfckssvcgtdaohearp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gun6lmz4qormy4ve7ao6", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gun6lmz4qormy4ve7ao6.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "grp6xv18pltbicicmbh6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/grp6xv18pltbicicmbh6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hgtfxjaobemkyn0l69pc", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hgtfxjaobemkyn0l69pc.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "hg5n3pnq4eukoraciszf", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hg5n3pnq4eukoraciszf.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "ctr4fl7cvfdjhreeky3g", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ctr4fl7cvfdjhreeky3g.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "n2jbjlsmomy85dv1niez", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n2jbjlsmomy85dv1niez.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "y7hrrtpbquutwv6ytqkr", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y7hrrtpbquutwv6ytqkr.jpg", 
+            "width": 3840
+        }
+    ], 
+    "slug": "darksiders-warmastered-edition", 
+    "storyline": "Apocalyptic Power \u2013 Unleash the wrath of War, combining brutal attacks and supernatural abilities to decimate all who stand in your way\nExtreme Arsenal \u2013 Wield a devastating arsenal of angelic, demonic and Earthly weapons; and blaze a trail of destruction atop Ruin, War\u2019s fiery phantom steed\nEpic Quest \u2013 Battle across the wastelands and demon-infested dungeons of the decimated Earth in your quest for vengeance and redemption\nCharacter Progression \u2013 Uncover powerful ancient relics, upgrade your weapons, unlock new abilities, and customize your gameplay style\nBattle Heaven and Hell \u2013 Battle against all who stand in your way - from war-weary angelic forces to Hell\u2019s hideous demon hordes\nRemaster Edition Features:\nPS4, Xbox One and Wii U versions of Darksiders (Wrath of War)\nNative 1080p rendering resolution\nDoubled all the texture resolutions\nRendering improvements and rework\nBetter shadow rendering quality\nPost processing effects\n60 FPS in moment to moment gameplay (PS4, Xbox One, PC, 30 for WiiU)", 
+    "summary": "Deceived by the forces of evil into prematurely bringing about the end of the world, War \u2013 the first Horseman of the Apocalypse \u2013 stands accused of breaking the sacred law by inciting a war between Heaven and Hell. In the slaughter that ensued, the demonic forces defeated the heavenly hosts and laid claim to the Earth.\n\nBrought before the sacred Charred Council, War is indicted for his crimes and stripped of his powers. Dishonored and facing his own death, War is given the opportunity to return to Earth to search for the truth and punish those responsible.\n\nHunted by a vengeful group of Angels, War must take on the forces of Hell, forge uneasy alliances with the very demons he hunts, and journey across the ravaged remains of the Earth on his quest for vengeance and vindication.", 
+    "tags": [
+        1, 
+        17, 
+        38, 
+        268435468, 
+        268435481, 
+        268435487, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        38
+    ], 
+    "total_rating": 80.47149125306626, 
+    "total_rating_count": 18, 
+    "updated_at": 1527345717770, 
+    "url": "https://www.igdb.com/games/darksiders-warmastered-edition", 
+    "version_parent": 1270, 
+    "version_title": "Warmastered Edition", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "3V5cdXlMSbM"
+        }, 
+        {
+            "name": "Cinematic Intro Trailer", 
+            "video_id": "zhuajMsvcuI"
+        }, 
+        {
+            "name": "PC Release Trailer", 
+            "video_id": "JXMqeTprZgU"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 14, 
+            "url": "https://www.reddit.com/r/Darksiders"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/Darksiders"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Darksiders"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://darksiders.wikia.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/462780"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.thqnordic.com/games/darksiders"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/darksiders"
+        }
+    ]
+}

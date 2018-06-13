@@ -1,0 +1,163 @@
+{
+    "aggregated_rating": 20.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ysn72ow0f5gca3nicdby", 
+        "height": 700, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ysn72ow0f5gca3nicdby.jpg", 
+        "width": 643
+    }, 
+    "created_at": 1495803412777, 
+    "external": {
+        "steam": "603840"
+    }, 
+    "first_release_date": 1496707200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25300, 
+        19448, 
+        19174, 
+        25311, 
+        55752, 
+        27314, 
+        47823, 
+        19301, 
+        36950, 
+        19290
+    ], 
+    "genres": [
+        8, 
+        31, 
+        32
+    ], 
+    "id": 34659, 
+    "keywords": [
+        117, 
+        970, 
+        1033, 
+        2049, 
+        4134, 
+        4352, 
+        4768, 
+        4796, 
+        6779
+    ], 
+    "name": "Randall", 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "pulse_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1496707200000, 
+            "human": "2017-Jun-06", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1496707200000, 
+            "human": "2017-Jun-06", 
+            "m": 6, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1496707200000, 
+            "human": "2017-Jun-06", 
+            "m": 6, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1496707200000, 
+            "human": "2017-Jun-06", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "uxp2rkk4vr0ek8fwfcev", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uxp2rkk4vr0ek8fwfcev.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tt1qgvsetgdmqcudd7rn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tt1qgvsetgdmqcudd7rn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "o0qmj0gmid2khjuwjwqt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o0qmj0gmid2khjuwjwqt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "b6jphzxzzp02cyex5xyq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b6jphzxzzp02cyex5xyq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xn28ngsqkdmxbgtqoq8c", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xn28ngsqkdmxbgtqoq8c.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "randall", 
+    "summary": "In a dystopian world that doesn't seem like such a departure from our own future, people are content living under constant surveillance and absolute control. Players take on the part of Randall, a powerful telepath with a touch of schizophrenia. His abilities allow him to control and play as every single character on screen, seamlessly swapping between them, exploiting every power that they have.", 
+    "tags": [
+        1, 
+        18, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536871882, 
+        536871945, 
+        536872961, 
+        536875046, 
+        536875264, 
+        536875680, 
+        536875708, 
+        536877691
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 20.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1523354708758, 
+    "url": "https://www.igdb.com/games/randall", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://randallgame.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/603840"
+        }
+    ]
+}

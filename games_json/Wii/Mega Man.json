@@ -1,0 +1,481 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Rock ManMega Man Powered Up"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "Rockman"
+        }
+    ], 
+    "category": 0, 
+    "collection": 337, 
+    "cover": {
+        "cloudinary_id": "glpzjmzjp6vr9ujw9cmp", 
+        "height": 600, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/glpzjmzjp6vr9ujw9cmp.jpg", 
+        "width": 438
+    }, 
+    "created_at": 1352058894997, 
+    "developers": [
+        37
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 566697600000, 
+    "franchise": 38, 
+    "franchises": [
+        38
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        1720, 
+        12597, 
+        1716, 
+        358, 
+        1734, 
+        3186, 
+        7342, 
+        1026, 
+        78132, 
+        1718
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 1714, 
+    "keywords": [
+        301, 
+        394, 
+        558, 
+        575, 
+        594, 
+        966, 
+        970, 
+        1059, 
+        1098, 
+        1705, 
+        1986, 
+        2049, 
+        2109, 
+        2152, 
+        3079, 
+        3297, 
+        3794, 
+        3831, 
+        3833, 
+        4160, 
+        4161, 
+        4163, 
+        4165, 
+        4169, 
+        4171, 
+        4258, 
+        4288, 
+        4289, 
+        4297, 
+        4301, 
+        4317, 
+        4350, 
+        4372, 
+        4391, 
+        4393, 
+        4509, 
+        4522, 
+        4550, 
+        4552, 
+        4599, 
+        4620, 
+        4760, 
+        4777, 
+        4779, 
+        4822, 
+        4836, 
+        4940, 
+        4958, 
+        4974, 
+        4990, 
+        5004, 
+        5005, 
+        5022, 
+        5032, 
+        5171, 
+        5172, 
+        5328, 
+        5385, 
+        5436, 
+        5441, 
+        5479, 
+        5535, 
+        5587, 
+        5592, 
+        5594, 
+        5630, 
+        5731, 
+        5840, 
+        5966, 
+        5968, 
+        6102, 
+        6149, 
+        6318, 
+        6325, 
+        6655, 
+        6695, 
+        6696, 
+        6868, 
+        7028, 
+        7387, 
+        7601, 
+        7604, 
+        7682, 
+        8784, 
+        8845, 
+        9160, 
+        9478, 
+        9794, 
+        9947, 
+        10006, 
+        10251, 
+        11595
+    ], 
+    "name": "Mega Man", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        51, 
+        41, 
+        7, 
+        37, 
+        5, 
+        18
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 3.666666666666667, 
+    "publishers": [
+        37
+    ], 
+    "pulse_count": 15, 
+    "rating": 80.6639982117143, 
+    "rating_count": 54, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1370995200000, 
+            "human": "2013-Jun-12", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1367452800000, 
+            "human": "2013-May-02", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1367452800000, 
+            "human": "2013-May-02", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 566697600000, 
+            "human": "1987-Dec-17", 
+            "m": 12, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1987
+        }, 
+        {
+            "category": 0, 
+            "date": 1356566400000, 
+            "human": "2012-Dec-27", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1350518400000, 
+            "human": "2012-Oct-18", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1342569600000, 
+            "human": "2012-Jul-18", 
+            "m": 7, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1219017600000, 
+            "human": "2008-Aug-18", 
+            "m": 8, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1217289600000, 
+            "human": "2008-Jul-29", 
+            "m": 7, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1182470400000, 
+            "human": "2007-Jun-22", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 566697600000, 
+            "human": "1987-Dec-17", 
+            "m": 12, 
+            "platform": 51, 
+            "region": 5, 
+            "y": 1987
+        }, 
+        {
+            "category": 0, 
+            "date": 566697600000, 
+            "human": "1987-Dec-17", 
+            "m": 12, 
+            "platform": 18, 
+            "region": 2, 
+            "y": 1987
+        }, 
+        {
+            "category": 0, 
+            "date": 629510400000, 
+            "human": "1989-Dec-13", 
+            "m": 12, 
+            "platform": 18, 
+            "region": 1, 
+            "y": 1989
+        }, 
+        {
+            "category": 0, 
+            "date": 933811200000, 
+            "human": "1999-Aug-05", 
+            "m": 8, 
+            "platform": 7, 
+            "region": 5, 
+            "y": 1999
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pgdmmwmni3ihpjcsvasc", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pgdmmwmni3ihpjcsvasc.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "aiesb1d0azxfugt8gl0e", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aiesb1d0azxfugt8gl0e.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "bxqil4anqmmg0crnabxj", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bxqil4anqmmg0crnabxj.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "df1ya05xqaqpjykn44uw", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/df1ya05xqaqpjykn44uw.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "msexbzwgo27zq3ocacaz", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/msexbzwgo27zq3ocacaz.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "heqe4qdhqlcnafxuvyaj", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/heqe4qdhqlcnafxuvyaj.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "dxfw4jlkle63fpi5mwhe", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dxfw4jlkle63fpi5mwhe.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "w21jl1ix9evjjgyisouq", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w21jl1ix9evjjgyisouq.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "u1znlefssdqbdy6mjg3r", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u1znlefssdqbdy6mjg3r.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "bek1gfoerr7bxd9yc395", 
+            "height": 896, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bek1gfoerr7bxd9yc395.jpg", 
+            "width": 1152
+        }
+    ], 
+    "slug": "mega-man", 
+    "summary": "Brilliant scientist Dr. Light conceived the construction of fully-operational human-like experimental robots to perform specific everyday duties. Dr. Light, and his assistant Dr. Wily, encouraged by their very first near-human robot - Mega Man - proceeded to develop six additional Humanoids, all programmed to perform prescribed rituals. \n \nBut, with the exception of Mega Man, all of Dr. Light's near-human robot experimentation went awry. Assistant Dr. Wily turned disloyal, re-programming Dr. Light's Humanoids, now bent on destroying opposition so Dr. Wily could control the world and its resources. \n \nResisting re-programming, Mega Man is chosen as the defender of the universe and its inhabitants. Mega Man dares to single-handedly penetrate seven separate empires of Monsteropolis, eliminating the leaders and followers of these sovereignties.", 
+    "tags": [
+        1, 
+        18, 
+        268435464, 
+        536871213, 
+        536871306, 
+        536871470, 
+        536871487, 
+        536871506, 
+        536871878, 
+        536871882, 
+        536871971, 
+        536872010, 
+        536872617, 
+        536872898, 
+        536872961, 
+        536873021, 
+        536873064, 
+        536873991, 
+        536874209, 
+        536874706, 
+        536874743, 
+        536874745, 
+        536875072, 
+        536875073, 
+        536875075, 
+        536875077, 
+        536875081, 
+        536875083, 
+        536875170, 
+        536875200, 
+        536875201, 
+        536875209, 
+        536875213, 
+        536875229, 
+        536875262, 
+        536875284, 
+        536875303, 
+        536875305, 
+        536875421, 
+        536875434, 
+        536875462, 
+        536875464, 
+        536875511, 
+        536875532, 
+        536875672, 
+        536875689, 
+        536875691, 
+        536875734, 
+        536875748, 
+        536875852, 
+        536875870, 
+        536875886, 
+        536875902, 
+        536875916, 
+        536875917, 
+        536875934, 
+        536875944, 
+        536876083, 
+        536876084, 
+        536876240, 
+        536876297, 
+        536876348, 
+        536876353, 
+        536876391, 
+        536876447, 
+        536876499, 
+        536876504, 
+        536876506, 
+        536876542, 
+        536876643, 
+        536876752, 
+        536876878, 
+        536876880, 
+        536877014, 
+        536877061, 
+        536877230, 
+        536877237, 
+        536877567, 
+        536877607, 
+        536877608, 
+        536877780, 
+        536877940, 
+        536878299, 
+        536878513, 
+        536878516, 
+        536878594, 
+        536879696, 
+        536879757, 
+        536880072, 
+        536880390, 
+        536880706, 
+        536880859, 
+        536880918, 
+        536881163, 
+        536882507, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 80.6639982117143, 
+    "total_rating_count": 54, 
+    "updated_at": 1527784466150, 
+    "url": "https://www.igdb.com/games/mega-man", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "M1w_S2K37Lo"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Mega_Man"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://megaman.wikia.com"
+        }
+    ]
+}

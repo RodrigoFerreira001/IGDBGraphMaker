@@ -1,0 +1,185 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "yxh53ztyjicp27nqwhsq", 
+        "height": 1440, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yxh53ztyjicp27nqwhsq.jpg", 
+        "width": 1008
+    }, 
+    "created_at": 1488016038493, 
+    "developers": [
+        12192
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "497460"
+    }, 
+    "first_release_date": 1477353600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        26766, 
+        36926, 
+        25300, 
+        37088, 
+        36534, 
+        26223, 
+        11214, 
+        19333, 
+        27266, 
+        4843
+    ], 
+    "genres": [
+        9, 
+        12, 
+        31
+    ], 
+    "id": 27385, 
+    "keywords": [
+        151, 
+        227, 
+        1026, 
+        1425, 
+        2139, 
+        3402, 
+        4222, 
+        4234, 
+        4424, 
+        4438, 
+        4439
+    ], 
+    "name": "Mervils: A VR Adventure", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        6, 
+        92, 
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        12192
+    ], 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1487635200000, 
+            "human": "2017-Feb-21", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 92, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "cb5wfcgb0utyfqhvwszh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cb5wfcgb0utyfqhvwszh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "i5zkioaotvyfglk2srmy", 
+            "height": 2032, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i5zkioaotvyfglk2srmy.jpg", 
+            "width": 3612
+        }, 
+        {
+            "cloudinary_id": "diexg3ckvxcmjt9ttem3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/diexg3ckvxcmjt9ttem3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lxlwcyx0tnzbflibirdp", 
+            "height": 2032, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lxlwcyx0tnzbflibirdp.jpg", 
+            "width": 3612
+        }, 
+        {
+            "cloudinary_id": "i0roikuqynbvm1bbth5g", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i0roikuqynbvm1bbth5g.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "mervils-a-vr-adventure", 
+    "summary": "Mervils is an open world RPG platformer built specifically for third-person VR with over 6-8 hours of gameplay. In Mervils, you are tasked to defeat Balazar the Evil and save the four picturesque Mervil worlds from imminent destruction.", 
+    "tags": [
+        22, 
+        268435465, 
+        268435468, 
+        268435487, 
+        536871063, 
+        536871139, 
+        536871938, 
+        536872337, 
+        536873051, 
+        536874314, 
+        536875134, 
+        536875146, 
+        536875336, 
+        536875350, 
+        536875351
+    ], 
+    "themes": [
+        22
+    ], 
+    "total_rating": 67.5, 
+    "total_rating_count": 1, 
+    "updated_at": 1523386280798, 
+    "url": "https://www.igdb.com/games/mervils-a-vr-adventure", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Cl_Qen2w24E"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/497460"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/channel/UCjoFLO_8VJh_a9PoLkIEeXA"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/mervilsvr"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/groups/MushroomBallVR"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.mervils.com/"
+        }
+    ]
+}

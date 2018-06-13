@@ -1,0 +1,173 @@
+{
+    "aggregated_rating": 68.8181818181818, 
+    "aggregated_rating_count": 13, 
+    "alternative_names": [
+        {
+            "name": "\u30c6\u30a4\u30eb\u30ba\u30aa\u30d6\u30a8\u30af\u30b7\u30ea\u30a22"
+        }
+    ], 
+    "category": 0, 
+    "collection": 269, 
+    "cover": {
+        "cloudinary_id": "du8rf5eovf2a3u1kz4ca", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/du8rf5eovf2a3u1kz4ca.jpg", 
+        "width": 431
+    }, 
+    "created_at": 1341709836195, 
+    "developers": [
+        248
+    ], 
+    "first_release_date": 1351728000000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        12632, 
+        28010, 
+        36608, 
+        16468, 
+        19567, 
+        59516, 
+        55289, 
+        57372, 
+        25311, 
+        56353
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 1213, 
+    "keywords": [
+        76, 
+        78, 
+        521
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Tales of Xillia 2", 
+    "platforms": [
+        9
+    ], 
+    "player_perspectives": [
+        2, 
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        248
+    ], 
+    "pulse_count": 1, 
+    "rating": 71.7977528089888, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1408665600000, 
+            "human": "2014-Aug-22", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1351728000000, 
+            "human": "2012-Nov-01", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vcyv8trwliguwtprpc49", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vcyv8trwliguwtprpc49.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "cdro53fbe0vtp6fqzjtc", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cdro53fbe0vtp6fqzjtc.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "wr03q6b0j39gruqohw9m", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wr03q6b0j39gruqohw9m.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "wj442u7pir3bvcwzxvdd", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wj442u7pir3bvcwzxvdd.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "kpwkggarkxfa4kg3wqpi", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kpwkggarkxfa4kg3wqpi.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "tales-of-xillia-2", 
+    "summary": "The game takes place a year after Tales of Xillia. Elle Mel Marta is given specific instructions by her father to board a train and to find the Land of Canaan. Her train is hijacked before its departure and Ludger Will Kresnik boards it to save her. The train crashes and the two receive life saving treatment from Clanspia Inc. which puts Ludger in debt. Clanspia Inc. hires Ludger, intending to use his Kresnik powers to destroy alternative timelines because the spirit Origin can no longer sustain the abundance of souls in the worlds. While working off the debt, Ludger also searches for his brother, Julius Will Kresnik, who has been blamed for the train hijacking.", 
+    "tags": [
+        1, 
+        268435468, 
+        536870988, 
+        536870990, 
+        536871433, 
+        1073741828, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.3079673135853, 
+    "total_rating_count": 19, 
+    "updated_at": 1527842041724, 
+    "url": "https://www.igdb.com/games/tales-of-xillia-2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "dE0YDH9ecTo"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "Fz4VdUQrSb4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://tox2.tales-ch.jp/"
+        }
+    ]
+}

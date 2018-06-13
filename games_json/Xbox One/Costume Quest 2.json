@@ -1,0 +1,477 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "collection": 824, 
+    "cover": {
+        "cloudinary_id": "zbowl4agleiatp6pdflr", 
+        "height": 981, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zbowl4agleiatp6pdflr.jpg", 
+        "width": 711
+    }, 
+    "created_at": 1395868128428, 
+    "developers": [
+        85
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "275180"
+    }, 
+    "first_release_date": 1412640000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        7202, 
+        6732, 
+        36926, 
+        17354, 
+        26766, 
+        7344, 
+        72373, 
+        9061, 
+        7329, 
+        536
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "hypes": 4, 
+    "id": 5638, 
+    "keywords": [
+        67, 
+        80, 
+        170, 
+        296, 
+        301, 
+        350, 
+        415, 
+        575, 
+        594, 
+        658, 
+        760, 
+        908, 
+        1026, 
+        1098, 
+        1158, 
+        1207, 
+        1699, 
+        3203, 
+        3794, 
+        4004, 
+        4138, 
+        4150, 
+        4171, 
+        4186, 
+        4266, 
+        4324, 
+        4359, 
+        4410, 
+        4418, 
+        4450, 
+        4543, 
+        4590, 
+        4596, 
+        4599, 
+        4726, 
+        4738, 
+        4787, 
+        4831, 
+        4832, 
+        4833, 
+        4849, 
+        4880, 
+        4910, 
+        4977, 
+        5025, 
+        5161, 
+        5316, 
+        5432, 
+        5479, 
+        5561, 
+        5633, 
+        5754, 
+        5760, 
+        5766, 
+        6383, 
+        6431, 
+        6828, 
+        7009, 
+        7052, 
+        7418, 
+        8187, 
+        9750
+    ], 
+    "name": "Costume Quest 2", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Non realistic looking violence towards fantasy characters - Violence that is set in a cartoon, slapstick or child like setting that could be upsetting to very young children - Pictures or sounds likely to be scary to young children"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        41, 
+        9, 
+        48, 
+        12, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        2, 
+        3
+    ], 
+    "popularity": 2.0, 
+    "publishers": [
+        2512, 
+        700
+    ], 
+    "pulse_count": 4, 
+    "rating": 79.25472959081449, 
+    "rating_count": 8, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1414627200000, 
+            "human": "2014-Oct-30", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414540800000, 
+            "human": "2014-Oct-29", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1429056000000, 
+            "human": "2015-Apr-15", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1414627200000, 
+            "human": "2014-Oct-30", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414454400000, 
+            "human": "2014-Oct-28", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1429056000000, 
+            "human": "2015-Apr-15", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 3, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429056000000, 
+            "human": "2015-Apr-15", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429056000000, 
+            "human": "2015-Apr-15", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429056000000, 
+            "human": "2015-Apr-15", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414627200000, 
+            "human": "2014-Oct-30", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412640000000, 
+            "human": "2014-Oct-07", 
+            "m": 10, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414454400000, 
+            "human": "2014-Oct-28", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414454400000, 
+            "human": "2014-Oct-28", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414540800000, 
+            "human": "2014-Oct-29", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414540800000, 
+            "human": "2014-Oct-29", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hshwzc3ghdvvm6cl9aql", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hshwzc3ghdvvm6cl9aql.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "w451aq1hafnjodfjtaje", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w451aq1hafnjodfjtaje.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zcdkrg6azixmb1pusmua", 
+            "height": 2880, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zcdkrg6azixmb1pusmua.jpg", 
+            "width": 5120
+        }, 
+        {
+            "cloudinary_id": "jlh3jjnbv2kn8zcoqz2t", 
+            "height": 2880, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jlh3jjnbv2kn8zcoqz2t.jpg", 
+            "width": 5120
+        }, 
+        {
+            "cloudinary_id": "ez6srmyukfjygtv2wxnr", 
+            "height": 2880, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ez6srmyukfjygtv2wxnr.jpg", 
+            "width": 5120
+        }, 
+        {
+            "cloudinary_id": "u0waoybsyylqtbwarj4d", 
+            "height": 2880, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u0waoybsyylqtbwarj4d.jpg", 
+            "width": 5120
+        }, 
+        {
+            "cloudinary_id": "jvmflnp6d45xu3g3vp9a", 
+            "height": 2880, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jvmflnp6d45xu3g3vp9a.jpg", 
+            "width": 5120
+        }, 
+        {
+            "cloudinary_id": "gxllanz9qxlh2p0nqhbo", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gxllanz9qxlh2p0nqhbo.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "mgh1kha3q1uaknyuobnu", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mgh1kha3q1uaknyuobnu.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "adbqbkpctj2kw8qhv4fv", 
+            "height": 304, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/adbqbkpctj2kw8qhv4fv.jpg", 
+            "width": 530
+        }, 
+        {
+            "cloudinary_id": "xkmsubrxq1xjnworku2o", 
+            "height": 450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xkmsubrxq1xjnworku2o.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "xznuc36z4xky3r8tqb0h", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xznuc36z4xky3r8tqb0h.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "costume-quest-2--1", 
+    "summary": "In developer Double Fine\u2019s triumphant return to Auburn Pines, our candy-crazed crusaders Wren and Reynold must once again protect Halloween from untold horrors, and grown-ups! Your favorite trick-or-treaters will come armed with a new batch of costumes they wear to transform into giant super powered fantasy Hallowarriors. Fans of the original can look forward to a sweet upgraded battle system and a story that is unmistakably Double Fine.", 
+    "tags": [
+        1, 
+        27, 
+        268435468, 
+        268435487, 
+        536870979, 
+        536870992, 
+        536871082, 
+        536871208, 
+        536871213, 
+        536871262, 
+        536871327, 
+        536871487, 
+        536871506, 
+        536871570, 
+        536871672, 
+        536871820, 
+        536871938, 
+        536872010, 
+        536872070, 
+        536872119, 
+        536872611, 
+        536874115, 
+        536874706, 
+        536874916, 
+        536875050, 
+        536875062, 
+        536875083, 
+        536875098, 
+        536875178, 
+        536875236, 
+        536875271, 
+        536875322, 
+        536875330, 
+        536875362, 
+        536875455, 
+        536875502, 
+        536875508, 
+        536875511, 
+        536875638, 
+        536875650, 
+        536875699, 
+        536875743, 
+        536875744, 
+        536875745, 
+        536875761, 
+        536875792, 
+        536875822, 
+        536875889, 
+        536875937, 
+        536876073, 
+        536876228, 
+        536876344, 
+        536876391, 
+        536876473, 
+        536876545, 
+        536876666, 
+        536876672, 
+        536876678, 
+        536877295, 
+        536877343, 
+        536877740, 
+        536877921, 
+        536877964, 
+        536878330, 
+        536879099, 
+        536880662, 
+        1073741827, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "time_to_beat": {
+        "normally": 18000
+    }, 
+    "total_rating": 72.12736479540725, 
+    "total_rating_count": 14, 
+    "updated_at": 1525740912564, 
+    "url": "https://www.igdb.com/games/costume-quest-2--1", 
+    "videos": [
+        {
+            "name": "Teaser", 
+            "video_id": "ZrzmC9ONDRo"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "MrXSF27r2LE"
+        }
+    ]
+}

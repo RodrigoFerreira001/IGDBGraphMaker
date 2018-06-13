@@ -1,0 +1,410 @@
+{
+    "aggregated_rating": 90.3, 
+    "aggregated_rating_count": 12, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Fire Emblem 3DS"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Fire Emblem: Kakusei"
+        }, 
+        {
+            "name": "FE13"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30d5\u30a1\u30a4\u30a2\u30fc\u30a8\u30e0\u30d6\u30ec\u30e0\u899a\u9192"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "ro3mx7rrn1exdwexpikn", 
+            "height": 1450, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ro3mx7rrn1exdwexpikn.jpg", 
+            "width": 1250
+        }, 
+        {
+            "cloudinary_id": "aom9meb1zraieoib09p3", 
+            "height": 840, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aom9meb1zraieoib09p3.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "hmiirhq3xmo5az73yqwa", 
+            "height": 1100, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hmiirhq3xmo5az73yqwa.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "ra1hnslvdh5kyv0o607f", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ra1hnslvdh5kyv0o607f.jpg", 
+            "width": 1170
+        }, 
+        {
+            "cloudinary_id": "yx87w1enyokq9fjlt8fu", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yx87w1enyokq9fjlt8fu.jpg", 
+            "width": 1000
+        }
+    ], 
+    "category": 0, 
+    "collection": 303, 
+    "cover": {
+        "cloudinary_id": "p2bccrt2pgrbbfcumytw", 
+        "height": 400, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/p2bccrt2pgrbbfcumytw.jpg", 
+        "width": 393
+    }, 
+    "created_at": 1349603639068, 
+    "developers": [
+        866, 
+        765
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is a role-playing game in which players assume the role of a young adventurer who journeys through a fantasy world. Players engage in tactical battles by moving characters around grids and taking turns attacking enemies. Gameplay attacks consist of brief animations in which characters slash each other with swords, or attack with magic spells; light effects and cries of pain denote damage. Cutscenes also contain instances of violence: characters getting impaled with swords, lightning bolts; enemy soldiers attacking a village; a character jumping off a cliff to her death. During the course of the game, there is occasional suggestive dialogue/text (e.g., \u201cYour philandering is quite deplorable, but high marks on your attitude,\u201d \u201cNoble or not, you should be wearing at least a towel when you address a lady!\u201d and \u201cloins afire\u201d when a character is in love.); a few characters also wear low-cut tops that reveal deep cleavage. A handful of scenes feature characters discussing mead, wine, and being drunk. The words \u201car*e\u201d and \u201cp*ss off\u201d appear in dialogue."
+    }, 
+    "first_release_date": 1334793600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        23198, 
+        1440, 
+        36926, 
+        1907, 
+        12632, 
+        7202, 
+        26766, 
+        1454, 
+        26841, 
+        3022
+    ], 
+    "genres": [
+        12, 
+        15
+    ], 
+    "id": 1443, 
+    "keywords": [
+        78, 
+        226, 
+        296, 
+        301, 
+        415, 
+        558, 
+        594, 
+        826, 
+        846, 
+        1026, 
+        1881, 
+        1923, 
+        2606, 
+        3782, 
+        4134, 
+        4248, 
+        4249, 
+        4287, 
+        4359, 
+        4387, 
+        4388, 
+        4395, 
+        4408, 
+        4444, 
+        4510, 
+        4543, 
+        4622, 
+        4826, 
+        4862, 
+        4866, 
+        4869, 
+        5040, 
+        5307, 
+        5320, 
+        5361, 
+        5591, 
+        5610, 
+        5644, 
+        5818, 
+        6080, 
+        6167, 
+        6196, 
+        7223, 
+        7239, 
+        7303, 
+        7469, 
+        7470, 
+        7601, 
+        7605, 
+        7650, 
+        7693, 
+        9628, 
+        9634, 
+        9888, 
+        10501, 
+        10621, 
+        11625, 
+        11771, 
+        11772, 
+        11773, 
+        11774, 
+        11775, 
+        11776, 
+        11777
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": true, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 37, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Fire Emblem: Awakening", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters - Mild bad language - Violence causing minor injury only"
+    }, 
+    "platforms": [
+        37
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 22.0, 
+    "publishers": [
+        70
+    ], 
+    "rating": 88.17125550088781, 
+    "rating_count": 49, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1366416000000, 
+            "human": "2013-Apr-20", 
+            "m": 4, 
+            "platform": 37, 
+            "region": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1366329600000, 
+            "human": "2013-Apr-19", 
+            "m": 4, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1359936000000, 
+            "human": "2013-Feb-04", 
+            "m": 2, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1334793600000, 
+            "human": "2012-Apr-19", 
+            "m": 4, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "aiatrz16dgiogjwzfsgu", 
+            "height": 504, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aiatrz16dgiogjwzfsgu.jpg", 
+            "width": 416
+        }, 
+        {
+            "cloudinary_id": "lgajsdkcc5d0n0idqhnb", 
+            "height": 504, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lgajsdkcc5d0n0idqhnb.jpg", 
+            "width": 416
+        }, 
+        {
+            "cloudinary_id": "wlajxzecccaimkp1snwc", 
+            "height": 504, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wlajxzecccaimkp1snwc.jpg", 
+            "width": 416
+        }, 
+        {
+            "cloudinary_id": "tuvmth2xuqttdxsd9g9b", 
+            "height": 504, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tuvmth2xuqttdxsd9g9b.jpg", 
+            "width": 416
+        }, 
+        {
+            "cloudinary_id": "frefgppfb4rtcgledqvt", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/frefgppfb4rtcgledqvt.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "h5kbxju0ekwn3rb2gm8j", 
+            "height": 504, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h5kbxju0ekwn3rb2gm8j.jpg", 
+            "width": 416
+        }, 
+        {
+            "cloudinary_id": "quyqhcfijblkh0inwkpn", 
+            "height": 504, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/quyqhcfijblkh0inwkpn.jpg", 
+            "width": 416
+        }, 
+        {
+            "cloudinary_id": "vmj2gnop0qsidsu1td2u", 
+            "height": 380, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vmj2gnop0qsidsu1td2u.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "wjfyj8ybwjsqcpz599hm", 
+            "height": 379, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wjfyj8ybwjsqcpz599hm.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "af5mzwwwmdnjmghqfjdi", 
+            "height": 383, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/af5mzwwwmdnjmghqfjdi.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "xnsiyupzvvtybozzowfa", 
+            "height": 381, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xnsiyupzvvtybozzowfa.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "poc1wsvu7vdkzubv2mry", 
+            "height": 382, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/poc1wsvu7vdkzubv2mry.jpg", 
+            "width": 640
+        }
+    ], 
+    "slug": "fire-emblem-awakening", 
+    "summary": "Fire Emblem Awakening is a Japanese tactical role-playing game for the Nintendo 3DS. It is the thirteenth game in the Fire Emblem series. It is also the first to take place on two continents, Ylisse and Valm, the future forms of Archanea and Valentia respectively. \n \nThe story follows Prince Chrom of the Halidom of Ylisse and his companions as they struggle during a turbulent era. Players are able to combine the might of nearby allies using Pair Up and enter dual battles using the Dual System to defeat enemies. The traversable world map, last seen in Fire Emblem: The Sacred Stones, and special skills like Astra from Fire Emblem: Radiant Dawn return.", 
+    "tags": [
+        1, 
+        268435468, 
+        268435471, 
+        536870990, 
+        536871138, 
+        536871208, 
+        536871213, 
+        536871327, 
+        536871470, 
+        536871506, 
+        536871738, 
+        536871758, 
+        536871938, 
+        536872793, 
+        536872835, 
+        536873518, 
+        536874694, 
+        536875046, 
+        536875160, 
+        536875161, 
+        536875199, 
+        536875271, 
+        536875299, 
+        536875300, 
+        536875307, 
+        536875320, 
+        536875356, 
+        536875422, 
+        536875455, 
+        536875534, 
+        536875738, 
+        536875774, 
+        536875778, 
+        536875781, 
+        536875952, 
+        536876219, 
+        536876232, 
+        536876273, 
+        536876503, 
+        536876522, 
+        536876556, 
+        536876730, 
+        536876992, 
+        536877079, 
+        536877108, 
+        536878135, 
+        536878151, 
+        536878215, 
+        536878381, 
+        536878382, 
+        536878513, 
+        536878517, 
+        536878562, 
+        536878605, 
+        536880540, 
+        536880546, 
+        536880800, 
+        536881413, 
+        536881533, 
+        536882537, 
+        536882683, 
+        536882684, 
+        536882685, 
+        536882686, 
+        536882687, 
+        536882688, 
+        536882689, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "time_to_beat": {
+        "completely": 144000, 
+        "hastly": 42420, 
+        "normally": 76080
+    }, 
+    "total_rating": 89.23562775044391, 
+    "total_rating_count": 61, 
+    "updated_at": 1528683777950, 
+    "url": "https://www.igdb.com/games/fire-emblem-awakening", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "A3mAnZ40dgI"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "WOY3uwx3IvU"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Fire_Emblem_Awakening"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://fireemblem.wikia.com/wiki/Fire_Emblem_Awakening"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.fireemblemawakening.com/"
+        }
+    ]
+}

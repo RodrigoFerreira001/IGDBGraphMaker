@@ -1,0 +1,126 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 1, 
+    "category": 1, 
+    "collection": 543, 
+    "cover": {
+        "cloudinary_id": "szbsyu9a9sg4p0jk20og", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/szbsyu9a9sg4p0jk20og.jpg", 
+        "width": 800
+    }, 
+    "created_at": 1470082277666, 
+    "developers": [
+        1012
+    ], 
+    "first_release_date": 1345766400000, 
+    "game": 2155, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        16468, 
+        59516, 
+        36608, 
+        28010, 
+        1221, 
+        37088, 
+        47823, 
+        12632, 
+        13196, 
+        55289
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 21988, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dark Souls: Artorias of the Abyss", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1012, 
+        6330
+    ], 
+    "rating": 90.8516502933069, 
+    "rating_count": 9, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1345766400000, 
+            "human": "2012-Aug-24", 
+            "m": 8, 
+            "platform": 6, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1350950400000, 
+            "human": "2012-Oct-23", 
+            "m": 10, 
+            "platform": 12, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1350950400000, 
+            "human": "2012-Oct-23", 
+            "m": 10, 
+            "platform": 9, 
+            "y": 2012
+        }
+    ], 
+    "slug": "dark-souls-artorias-of-the-abyss", 
+    "summary": "Artorias of the Abyss is additional content for the game Dark Souls. It was originally released for PC as part of the Dark Souls: Prepare to Die Edition, and later for consoles as the eponymous DLC. A console version of the Prepare To Die Edition was also released at a later date.", 
+    "tags": [
+        1, 
+        17, 
+        21, 
+        268435468, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        21
+    ], 
+    "total_rating": 90.42582514665344, 
+    "total_rating_count": 10, 
+    "updated_at": 1527882268867, 
+    "url": "https://www.igdb.com/games/dark-souls-artorias-of-the-abyss", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://darksouls.wikia.com/wiki/Artorias_of_the_Abyss"
+        }
+    ]
+}

@@ -1,0 +1,367 @@
+{
+    "aggregated_rating": 91.3529411764706, 
+    "aggregated_rating_count": 20, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Bloodborne: The Old Hunters"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Project Beast"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "djgvpqboykw0ir8yq57d", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/djgvpqboykw0ir8yq57d.jpg", 
+            "width": 1100
+        }, 
+        {
+            "cloudinary_id": "a4sajgspwkjoa715f98z", 
+            "height": 850, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a4sajgspwkjoa715f98z.jpg", 
+            "width": 1240
+        }, 
+        {
+            "cloudinary_id": "sfarzj5zaqpy8yx50sfm", 
+            "height": 970, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sfarzj5zaqpy8yx50sfm.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "fuuhia7acrtoawy8ybio", 
+            "height": 730, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fuuhia7acrtoawy8ybio.jpg", 
+            "width": 1100
+        }, 
+        {
+            "cloudinary_id": "xtzxyg3xmlhf5nwboamn", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xtzxyg3xmlhf5nwboamn.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "ej4dcisqaefeqc1ju4by", 
+            "height": 980, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ej4dcisqaefeqc1ju4by.jpg", 
+            "width": 1100
+        }, 
+        {
+            "cloudinary_id": "ajxsy7djbrxbwibavlt0", 
+            "height": 950, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ajxsy7djbrxbwibavlt0.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "vfr2itwdvysg2inqqvv9", 
+            "height": 830, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vfr2itwdvysg2inqqvv9.jpg", 
+            "width": 1100
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "fivw1ogfjw266t72kcn2", 
+        "height": 910, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fivw1ogfjw266t72kcn2.jpg", 
+        "width": 819
+    }, 
+    "created_at": 1402417864736, 
+    "developers": [
+        1012
+    ], 
+    "dlcs": [
+        14647
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "This is an action role-playing game in which players assume the role of a hunter on a quest through an ancient gothic city. Players use cleavers, axes, and pistols to kill monsters and human-like creatures. Battles are accompanied by realistic gunfire, impact sounds, and large blood-splatter effects. Some sequences depict instances of blood and gore: a ghost holding its own severed head; a creature ripping its limbs to attack characters; a partial view of a beheading. "
+    }, 
+    "first_release_date": 1427155200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        11133, 
+        2155, 
+        7329, 
+        10760, 
+        2933, 
+        3231, 
+        2368, 
+        28168, 
+        6452, 
+        1887
+    ], 
+    "genres": [
+        12
+    ], 
+    "hypes": 9, 
+    "id": 7334, 
+    "keywords": [
+        129, 
+        159, 
+        176, 
+        296, 
+        423, 
+        477, 
+        696, 
+        905, 
+        1026, 
+        1033, 
+        1120, 
+        1333, 
+        1459, 
+        2472, 
+        2543, 
+        4196, 
+        4245, 
+        4284, 
+        4419, 
+        4571, 
+        4796, 
+        4798, 
+        4823, 
+        4852, 
+        4854, 
+        4869, 
+        4897, 
+        4918, 
+        4974, 
+        5095, 
+        5175, 
+        5315, 
+        5316, 
+        5317, 
+        5323, 
+        5361, 
+        5385, 
+        5447, 
+        5564, 
+        5663, 
+        6034, 
+        6076, 
+        6165, 
+        6214, 
+        6232, 
+        6241, 
+        6648, 
+        6968, 
+        9164, 
+        9293, 
+        9306, 
+        9656, 
+        10045, 
+        10589, 
+        15075, 
+        15076
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 3, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Bloodborne", 
+    "pegi": {
+        "rating": 4
+    }, 
+    "platforms": [
+        48
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 39.66666666666666, 
+    "publishers": [
+        45
+    ], 
+    "pulse_count": 102, 
+    "rating": 91.05249142808192, 
+    "rating_count": 286, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1427414400000, 
+            "human": "2015-Mar-27", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1427155200000, 
+            "human": "2015-Mar-24", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1427328000000, 
+            "human": "2015-Mar-26", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "uqmif3sshdrbbcd0pu8l", 
+            "height": 1062, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uqmif3sshdrbbcd0pu8l.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "adssvwsfbaxcrucjolv9", 
+            "height": 1062, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/adssvwsfbaxcrucjolv9.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "aokcsspzrqyaaoug7jnn", 
+            "height": 1062, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aokcsspzrqyaaoug7jnn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hc9nb80b0xni5wxm5zh3", 
+            "height": 1062, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hc9nb80b0xni5wxm5zh3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bklmdxphzoflbgtushg0", 
+            "height": 1062, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bklmdxphzoflbgtushg0.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "bloodborne", 
+    "summary": "Introducing Bloodborne, the latest Action RPG from renowned Japanese developer FromSoftware, makers of the hit Dark Souls series, coming exclusively to PlayStation 4. \n\nFace your fears as you search for answers in the ancient city of Yharnam, now cursed with a strange endemic illness spreading through the streets like wildfire. Danger, death and madness lurk around every corner of this dark and horrific world, and you must discover its darkest secrets in order to survive.", 
+    "tags": [
+        1, 
+        17, 
+        19, 
+        268435468, 
+        536871041, 
+        536871071, 
+        536871088, 
+        536871208, 
+        536871335, 
+        536871389, 
+        536871608, 
+        536871817, 
+        536871938, 
+        536871945, 
+        536872032, 
+        536872245, 
+        536872371, 
+        536873384, 
+        536873455, 
+        536875108, 
+        536875157, 
+        536875196, 
+        536875331, 
+        536875483, 
+        536875708, 
+        536875710, 
+        536875735, 
+        536875764, 
+        536875766, 
+        536875781, 
+        536875809, 
+        536875830, 
+        536875886, 
+        536876007, 
+        536876087, 
+        536876227, 
+        536876228, 
+        536876229, 
+        536876235, 
+        536876273, 
+        536876297, 
+        536876359, 
+        536876476, 
+        536876575, 
+        536876946, 
+        536876988, 
+        536877077, 
+        536877126, 
+        536877144, 
+        536877153, 
+        536877560, 
+        536877880, 
+        536880076, 
+        536880205, 
+        536880218, 
+        536880568, 
+        536880957, 
+        536881501, 
+        536885987, 
+        536885988, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        19
+    ], 
+    "time_to_beat": {
+        "completely": 288000, 
+        "hastly": 108000, 
+        "normally": 156077
+    }, 
+    "total_rating": 91.20271630227626, 
+    "total_rating_count": 306, 
+    "updated_at": 1528667796143, 
+    "url": "https://www.igdb.com/games/bloodborne", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "AXiUYQ8eunw"
+        }, 
+        {
+            "name": "Gamescom Trailer", 
+            "video_id": "rMxEpPCSH5A"
+        }, 
+        {
+            "name": "Gameplay Trailer", 
+            "video_id": "2UJxaWZoK6Y"
+        }, 
+        {
+            "name": "E3 Teaser", 
+            "video_id": "Ga98zSE9Q3Y"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.playstation.com/en-us/games/bloodborne-ps4/"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://bloodborne.wiki.fextralife.com/Bloodborne+Wiki"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Bloodborne"
+        }
+    ]
+}

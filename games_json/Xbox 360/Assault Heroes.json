@@ -1,0 +1,203 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 2376, 
+    "cover": {
+        "cloudinary_id": "o7tyhsun83kyr0yupqto", 
+        "height": 261, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/o7tyhsun83kyr0yupqto.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1468847806950, 
+    "developers": [
+        5318
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1165968000000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        68287, 
+        36950, 
+        7350, 
+        27314, 
+        19448, 
+        25300, 
+        28029, 
+        64204, 
+        11253, 
+        6732
+    ], 
+    "genres": [
+        5
+    ], 
+    "hypes": 1, 
+    "id": 20634, 
+    "keywords": [
+        25, 
+        970, 
+        1293, 
+        1623, 
+        1783, 
+        3270, 
+        3486, 
+        3627, 
+        3833, 
+        4035, 
+        4134, 
+        4283, 
+        4397, 
+        4572, 
+        4698, 
+        5208, 
+        5450, 
+        5500, 
+        5523, 
+        5775, 
+        6078, 
+        6295, 
+        6922, 
+        9382, 
+        11177, 
+        11817
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Assault Heroes", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters\r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        80, 
+        129, 
+        5319
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1193097600000, 
+            "human": "2007-Oct-23", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1165968000000, 
+            "human": "2006-Dec-13", 
+            "m": 12, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1264636800000, 
+            "human": "2010-Jan-28", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rinpqjvc7acsvoi6dpfy", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rinpqjvc7acsvoi6dpfy.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "assault-heroes", 
+    "summary": "Assault Heroes is an arcade-style scrolling dual-joystick shooter where the player drives 4x4s or speedboats, sometimes moving around on-foot. \n \nLike most dual-joystick shooters, one stick controls the movement of the player while the right stick directs your gunfire. The objective of the game is to progress through each level, defeating enemies and huge bosses. Vehicle and player health slowly regenerate, while vehicles can be instantly repaired with a special pick-up item. Once your vehicle is destroyed, you run around on foot. You're limited to a weak machine gun, but get double points for destroyed enemies. Once you lose all your health, you lose a life. After about 10 seconds of being on foot, your vehicle respawns.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        536870937, 
+        536871882, 
+        536872205, 
+        536872535, 
+        536872695, 
+        536874182, 
+        536874398, 
+        536874539, 
+        536874745, 
+        536874947, 
+        536875046, 
+        536875195, 
+        536875309, 
+        536875484, 
+        536875610, 
+        536876120, 
+        536876362, 
+        536876412, 
+        536876435, 
+        536876687, 
+        536876990, 
+        536877207, 
+        536877834, 
+        536880294, 
+        536882089, 
+        536882729, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1520001565666, 
+    "url": "https://www.igdb.com/games/assault-heroes", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Assault_Heroes"
+        }
+    ]
+}

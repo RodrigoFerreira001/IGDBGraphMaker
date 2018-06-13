@@ -1,0 +1,276 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 516, 
+    "cover": {
+        "cloudinary_id": "ck9ycargzquwq9jdkiki", 
+        "height": 225, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ck9ycargzquwq9jdkiki.jpg", 
+        "width": 225
+    }, 
+    "created_at": 1415906591865, 
+    "developers": [
+        4118
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "316750"
+    }, 
+    "first_release_date": 1415664000000, 
+    "franchise": 79, 
+    "franchises": [
+        79
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        25222, 
+        60044, 
+        8197, 
+        54678, 
+        26223, 
+        14047, 
+        27266, 
+        20329, 
+        18167, 
+        25646
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 8194, 
+    "keywords": [
+        908, 
+        2875, 
+        4134, 
+        4705, 
+        5631, 
+        5727
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Tetris Ultimate", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        46, 
+        48, 
+        49, 
+        37
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        104
+    ], 
+    "rating": 83.3417150278578, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1415923200000, 
+            "human": "2014-Nov-14", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1418688000000, 
+            "human": "2014-Dec-16", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1418774400000, 
+            "human": "2014-Dec-17", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1418688000000, 
+            "human": "2014-Dec-16", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1418688000000, 
+            "human": "2014-Dec-16", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1418774400000, 
+            "human": "2014-Dec-17", 
+            "m": 12, 
+            "platform": 45, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415664000000, 
+            "human": "2014-Nov-11", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415664000000, 
+            "human": "2014-Nov-11", 
+            "m": 11, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415664000000, 
+            "human": "2014-Nov-11", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dtkfavjmyhj6j9cihohc", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dtkfavjmyhj6j9cihohc.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "bae34q3floztdipb6xy4", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bae34q3floztdipb6xy4.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "wdh4acm4k9r5rpmwn5wy", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wdh4acm4k9r5rpmwn5wy.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "bgszdgujd18bev7kysuj", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bgszdgujd18bev7kysuj.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "bww6posfpkezkndppove", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bww6posfpkezkndppove.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "pjsbjukdsgaunejyi0mq", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pjsbjukdsgaunejyi0mq.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "dih7oudk9rklsnve0kmf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dih7oudk9rklsnve0kmf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nngrcf6l3ju04x0zexwq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nngrcf6l3ju04x0zexwq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uennakixzeb2lp811imn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uennakixzeb2lp811imn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tryuxqcczwahuwt5hfae", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tryuxqcczwahuwt5hfae.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mi3nyinrv2icymsk67mv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mi3nyinrv2icymsk67mv.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "tetris-ultimate", 
+    "summary": "The world\u2019s most-loved puzzle game arrives on the latest next-gen consoles and is better than ever in Tetris Ultimate.\n\nWith six exciting modes, fun new features, and unique visuals, the evolution of this iconic game is the ultimate must-have on next-gen consoles.", 
+    "tags": [
+        268435465, 
+        536871820, 
+        536873787, 
+        536875046, 
+        536875617, 
+        536876543, 
+        536876639, 
+        1073741828
+    ], 
+    "total_rating": 71.6708575139289, 
+    "total_rating_count": 6, 
+    "updated_at": 1528358704078, 
+    "url": "https://www.igdb.com/games/tetris-ultimate", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "5CFXcrOBXCY"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/316750"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://tetris.ubi.com/"
+        }
+    ]
+}

@@ -1,0 +1,623 @@
+{
+    "aggregated_rating": 69.8571428571429, 
+    "aggregated_rating_count": 12, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Ghostbusters III"
+        }, 
+        {
+            "comment": "French title", 
+            "name": "SOS Fant\u00f4mes: Le Jeu Vid\u00e9o"
+        }, 
+        {
+            "comment": "Spanish title", 
+            "name": "Los Cazafantasmas: El Videojuego"
+        }, 
+        {
+            "comment": "Italian title", 
+            "name": "Ghostbusters: Il Videogioco"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "sh9wsrels6dtntu6qblm", 
+            "height": 7200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sh9wsrels6dtntu6qblm.jpg", 
+            "width": 4800
+        }, 
+        {
+            "cloudinary_id": "gadwzhtnrcjrlpuk7sns", 
+            "height": 3000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gadwzhtnrcjrlpuk7sns.jpg", 
+            "width": 2400
+        }, 
+        {
+            "cloudinary_id": "mn9var9f6pfmigsb1snl", 
+            "height": 3000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mn9var9f6pfmigsb1snl.jpg", 
+            "width": 2400
+        }
+    ], 
+    "category": 0, 
+    "collection": 1854, 
+    "cover": {
+        "cloudinary_id": "ev1znxmc5fjjzqtsujwk", 
+        "height": 733, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ev1znxmc5fjjzqtsujwk.jpg", 
+        "width": 520
+    }, 
+    "created_at": 1317722150000, 
+    "developers": [
+        453, 
+        451, 
+        452, 
+        391, 
+        2134
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is an action adventure game in which players hunt, fight, and capture ghosts and other fantastical creatures, including the \"Stay Puft Marshmallow Man.\" Players mostly use a rifle-shaped wand that emits laser-like currents (\"proton streams\") to stun and trap the ghosts. Players can also shoot a green gel-like substance to weaken creatures and ghosts. Proton streams often cause environmental damage, leaving burn marks on walls and causing small objects (e.g., books, chairs, tables, potted plants, etc.) to disintegrate. The game contains also contains tongue-in-cheek humor used for comic effect (e.g., \"Why do the good ones always play hard to get?\" and \"I'll cover the elevators and escort any ladies safely to their rooms.\")"
+    }, 
+    "first_release_date": 1245110400000, 
+    "franchise": 8, 
+    "franchises": [
+        8
+    ], 
+    "game_engines": [
+        327
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        72, 
+        7350, 
+        536, 
+        7329, 
+        7349, 
+        1905, 
+        25657, 
+        18167, 
+        26401, 
+        11156
+    ], 
+    "genres": [
+        5, 
+        31
+    ], 
+    "id": 566, 
+    "keywords": [
+        16, 
+        350, 
+        467, 
+        897, 
+        923, 
+        970, 
+        1033, 
+        1060, 
+        1120, 
+        1158, 
+        1180, 
+        1240, 
+        1267, 
+        1293, 
+        1401, 
+        1440, 
+        1529, 
+        1761, 
+        1971, 
+        2199, 
+        2450, 
+        4134, 
+        4142, 
+        4162, 
+        4210, 
+        4235, 
+        4245, 
+        4323, 
+        4325, 
+        4330, 
+        4359, 
+        4363, 
+        4382, 
+        4502, 
+        4524, 
+        4525, 
+        4591, 
+        4626, 
+        4644, 
+        4678, 
+        4695, 
+        4698, 
+        4699, 
+        4711, 
+        4728, 
+        4736, 
+        4750, 
+        4854, 
+        4870, 
+        4897, 
+        4993, 
+        5045, 
+        5100, 
+        5156, 
+        5193, 
+        5259, 
+        5390, 
+        5410, 
+        5425, 
+        5439, 
+        5519, 
+        5533, 
+        5633, 
+        5651, 
+        5657, 
+        5754, 
+        5782, 
+        5783, 
+        5814, 
+        5924, 
+        6393, 
+        6536, 
+        6760, 
+        6863, 
+        6870, 
+        6946, 
+        7041, 
+        7174, 
+        7369, 
+        8157, 
+        8293, 
+        8736, 
+        8979, 
+        8993, 
+        9209, 
+        9448, 
+        9543, 
+        9745, 
+        9821, 
+        10214, 
+        10353, 
+        10744, 
+        11083, 
+        11247, 
+        11762, 
+        12679, 
+        12953, 
+        12963, 
+        13076, 
+        13086, 
+        14373, 
+        14724, 
+        14725
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Ghostbusters: The Video Game", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters - Mild bad language - Violence causing minor injury only\r\nThis game allows the player to interact with other players ONLINE."
+    }, 
+    "platforms": [
+        6, 
+        36, 
+        9, 
+        38, 
+        12, 
+        20, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        82, 
+        45
+    ], 
+    "pulse_count": 1, 
+    "rating": 72.7322129854381, 
+    "rating_count": 12, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1245369600000, 
+            "human": "2009-Jun-19", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245110400000, 
+            "human": "2009-Jun-16", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245110400000, 
+            "human": "2009-Jun-16", 
+            "m": 6, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1256860800000, 
+            "human": "2009-Oct-30", 
+            "m": 10, 
+            "platform": 38, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245110400000, 
+            "human": "2009-Jun-16", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245110400000, 
+            "human": "2009-Jun-16", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245110400000, 
+            "human": "2009-Jun-16", 
+            "m": 6, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245110400000, 
+            "human": "2009-Jun-16", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245369600000, 
+            "human": "2009-Jun-19", 
+            "m": 6, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1257465600000, 
+            "human": "2009-Nov-06", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1257465600000, 
+            "human": "2009-Nov-06", 
+            "m": 11, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1257465600000, 
+            "human": "2009-Nov-06", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1257465600000, 
+            "human": "2009-Nov-06", 
+            "m": 11, 
+            "platform": 38, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1257984000000, 
+            "human": "2009-Nov-12", 
+            "m": 11, 
+            "platform": 38, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1258588800000, 
+            "human": "2009-Nov-19", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1257465600000, 
+            "human": "2009-Nov-06", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1258588800000, 
+            "human": "2009-Nov-19", 
+            "m": 11, 
+            "platform": 20, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246492800000, 
+            "human": "2009-Jul-02", 
+            "m": 7, 
+            "platform": 8, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1245888000000, 
+            "human": "2009-Jun-25", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1258588800000, 
+            "human": "2009-Nov-19", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1258588800000, 
+            "human": "2009-Nov-19", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1293494400000, 
+            "human": "2010-Dec-28", 
+            "m": 12, 
+            "platform": 36, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1293494400000, 
+            "human": "2010-Dec-28", 
+            "m": 12, 
+            "platform": 36, 
+            "region": 1, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qwo4cc8ozc8c3jnfyx8j", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qwo4cc8ozc8c3jnfyx8j.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fd8oabxuojzix3sgoucb", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fd8oabxuojzix3sgoucb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "o0ymjxruggmd8zpkvdfi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o0ymjxruggmd8zpkvdfi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "x251yhid8flt8yerxmvw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x251yhid8flt8yerxmvw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lmeilwtenumwur9pdzq8", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lmeilwtenumwur9pdzq8.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "ghostbusters-the-video-game", 
+    "summary": "The Ghostbusters are back for an all new adventure. With Manhattan overrun again by supernatural creatures, gamers take the role of a new recruit joining the famous Ghostbusters team. Equipped with a variety of unique equipment and gadgets, players hunt, fight and wrangle a wide range of ghosts in an all-new battle to save New York City from its latest paranormal plague. \n \nDelivering a special gaming experience to the tremendous Ghostbusters fan base around the world, Ghostbusters: The Video Game features the original cast from Columbia Pictures' classic Ghostbusters films, including Bill Murray, Dan Aykroyd, Harold Ramis and Ernie Hudson - together again for the first time in over 20 years. Supporting the original Ghostbusters crew are the talents of Annie Potts, Brian Doyle Murray and William Atherton. \n \nLike the films before it, Ghostbusters: The Video Game is all-new classic adventure with Dan Aykroyd and Harold Ramis returning to the helm to script and create a new storyline that leads gamers through the trials and tribulations of the world's leading paranormal ghost busting team. Players experience a variety of frightening new ghosts, even some based on ideas from Aykroyd and Ramis that never made it into the original feature films.", 
+    "tags": [
+        1, 
+        18, 
+        19, 
+        27, 
+        268435461, 
+        268435487, 
+        536870928, 
+        536871262, 
+        536871379, 
+        536871809, 
+        536871835, 
+        536871882, 
+        536871945, 
+        536871972, 
+        536872032, 
+        536872070, 
+        536872092, 
+        536872152, 
+        536872179, 
+        536872205, 
+        536872313, 
+        536872352, 
+        536872441, 
+        536872673, 
+        536872883, 
+        536873111, 
+        536873362, 
+        536875046, 
+        536875054, 
+        536875074, 
+        536875122, 
+        536875147, 
+        536875157, 
+        536875235, 
+        536875237, 
+        536875242, 
+        536875271, 
+        536875275, 
+        536875294, 
+        536875414, 
+        536875436, 
+        536875437, 
+        536875503, 
+        536875538, 
+        536875556, 
+        536875590, 
+        536875607, 
+        536875610, 
+        536875611, 
+        536875623, 
+        536875640, 
+        536875648, 
+        536875662, 
+        536875766, 
+        536875782, 
+        536875809, 
+        536875905, 
+        536875957, 
+        536876012, 
+        536876068, 
+        536876105, 
+        536876171, 
+        536876302, 
+        536876322, 
+        536876337, 
+        536876351, 
+        536876431, 
+        536876445, 
+        536876545, 
+        536876563, 
+        536876569, 
+        536876666, 
+        536876694, 
+        536876695, 
+        536876726, 
+        536876836, 
+        536877305, 
+        536877448, 
+        536877672, 
+        536877775, 
+        536877782, 
+        536877858, 
+        536877953, 
+        536878086, 
+        536878281, 
+        536879069, 
+        536879205, 
+        536879648, 
+        536879891, 
+        536879905, 
+        536880121, 
+        536880360, 
+        536880455, 
+        536880657, 
+        536880733, 
+        536881126, 
+        536881265, 
+        536881656, 
+        536881995, 
+        536882159, 
+        536882674, 
+        536883591, 
+        536883865, 
+        536883875, 
+        536883988, 
+        536883998, 
+        536885285, 
+        536885636, 
+        536885637, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18, 
+        19, 
+        27
+    ], 
+    "total_rating": 71.2946779212905, 
+    "total_rating_count": 24, 
+    "updated_at": 1524809122315, 
+    "url": "https://www.igdb.com/games/ghostbusters-the-video-game", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "UQCMeIWlwJQ"
+        }, 
+        {
+            "name": "E3 Launch Trailer", 
+            "video_id": "OKa5p8KMFwg"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.ghostbustersgame.com"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Ghostbusters:_The_Video_Game"
+        }
+    ]
+}

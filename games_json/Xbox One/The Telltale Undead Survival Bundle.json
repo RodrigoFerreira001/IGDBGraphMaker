@@ -1,0 +1,92 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jowzkhkmztj990mgunek", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jowzkhkmztj990mgunek.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1516347585655, 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "Online Interactions Not Rated by the ESRB"
+    }, 
+    "first_release_date": 1478563200000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "id": 82408, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "The Telltale Undead Survival Bundle", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 1.0, 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1478563200000, 
+            "human": "2016-Nov-08", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "a5yxk3u6pcgzqcefp7u4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a5yxk3u6pcgzqcefp7u4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qudbn1lbfkbinl3wniym", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qudbn1lbfkbinl3wniym.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ev0fdyto5skib9aj71tc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ev0fdyto5skib9aj71tc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kdabka5dnn8kozthdo5f", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kdabka5dnn8kozthdo5f.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ufc9t8eyd7sbc5mdijg1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ufc9t8eyd7sbc5mdijg1.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "the-telltale-undead-survival-bundle", 
+    "summary": "This bundle includes four games from Telltale:\n\n- The Walking Dead: The Complete First Season\n- The Walking Dead: Season Two\n- The Walking Dead: Michonne - A Telltale Miniseries\n- 7 Days to Die (plus all four additional DLC skin packs)", 
+    "total_rating": 90.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1526734435996, 
+    "url": "https://www.igdb.com/games/the-telltale-undead-survival-bundle"
+}

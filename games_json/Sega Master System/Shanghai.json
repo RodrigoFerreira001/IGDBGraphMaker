@@ -1,0 +1,111 @@
+{
+    "category": 0, 
+    "collection": 1691, 
+    "cover": {
+        "cloudinary_id": "iw337grsrs5lz8ms2ssw", 
+        "height": 819, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iw337grsrs5lz8ms2ssw.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1442651409109, 
+    "first_release_date": 536371200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        19222, 
+        27266, 
+        41348, 
+        10225, 
+        236, 
+        27725, 
+        25222, 
+        25646, 
+        60044, 
+        26239
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 12765, 
+    "keywords": [
+        1011, 
+        1902
+    ], 
+    "name": "Shanghai", 
+    "platforms": [
+        63, 
+        86, 
+        16, 
+        121, 
+        53, 
+        18, 
+        64
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        66
+    ], 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 16, 
+            "y": 1986
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 63
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 53
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 86
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 18
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 64
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 121, 
+            "region": 5, 
+            "y": 1987
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "he2npmqhix8i6uwg0mu0", 
+            "height": 512, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/he2npmqhix8i6uwg0mu0.jpg", 
+            "width": 512
+        }
+    ], 
+    "slug": "shanghai", 
+    "summary": "Shanghai is a computerized version of mahjong solitaire. After winning a game, the tiles reveal the three-dimensional blinking eye of a dragon behind the game screen.[1] The Macintosh and Sega Master System version shows an animated dragon spitting fire.", 
+    "tags": [
+        268435465, 
+        536871923, 
+        536872814
+    ], 
+    "updated_at": 1513190071822, 
+    "url": "https://www.igdb.com/games/shanghai"
+}

@@ -1,0 +1,128 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "iugsvlmhnzmupzjbam9g", 
+        "height": 652, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iugsvlmhnzmupzjbam9g.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1472930936920, 
+    "first_release_date": 875145600000, 
+    "games": [
+        12579, 
+        25646, 
+        70385, 
+        68142, 
+        36608, 
+        28148, 
+        43210, 
+        34919, 
+        40524, 
+        23175
+    ], 
+    "id": 23377, 
+    "name": "Resident Evil: Director's Cut", 
+    "platforms": [
+        45, 
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        37
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1300838400000, 
+            "human": "2011-Mar-23", 
+            "m": 3, 
+            "platform": 45, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 881712000000, 
+            "human": "1997-Dec-10", 
+            "m": 12, 
+            "platform": 7, 
+            "region": 1, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 875577600000, 
+            "human": "1997-Sep-30", 
+            "m": 9, 
+            "platform": 7, 
+            "region": 2, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 875145600000, 
+            "human": "1997-Sep-25", 
+            "m": 9, 
+            "platform": 7, 
+            "region": 5, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 878169600000, 
+            "human": "1997-Oct-30", 
+            "m": 10, 
+            "platform": 7, 
+            "region": 8, 
+            "y": 1997
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wm2xx8wzxtfxjwobe1q9", 
+            "height": 465, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wm2xx8wzxtfxjwobe1q9.jpg", 
+            "width": 620
+        }, 
+        {
+            "cloudinary_id": "eaq9jrjfpivmqkbkixjr", 
+            "height": 465, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eaq9jrjfpivmqkbkixjr.jpg", 
+            "width": 620
+        }, 
+        {
+            "cloudinary_id": "qhftqzmw0ngzlvsxqvfo", 
+            "height": 465, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qhftqzmw0ngzlvsxqvfo.jpg", 
+            "width": 620
+        }, 
+        {
+            "cloudinary_id": "ysocmiagpiftvlfnzj0g", 
+            "height": 465, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ysocmiagpiftvlfnzj0g.jpg", 
+            "width": 620
+        }, 
+        {
+            "cloudinary_id": "gr54htmod15r3zhpbkum", 
+            "height": 465, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gr54htmod15r3zhpbkum.jpg", 
+            "width": 620
+        }
+    ], 
+    "slug": "resident-evil-directors-cut", 
+    "summary": "In the ultimate experience of suspense and terror. Blood-thirsty zombies. Mutant beasts. Monstrous serpents. Untold mysteries lurk around every corner. The nightmare lives on in the award-winning game of survival horror. Now the terror comes alive with the Dual Shock Analog Controller to send shivers up and down your spine.", 
+    "tags": [
+        1, 
+        19
+    ], 
+    "themes": [
+        1, 
+        19
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1521022531018, 
+    "url": "https://www.igdb.com/games/resident-evil-directors-cut"
+}

@@ -1,0 +1,62 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qjganlgphhfks0obic48", 
+        "height": 467, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qjganlgphhfks0obic48.jpg", 
+        "width": 624
+    }, 
+    "created_at": 1517344072530, 
+    "first_release_date": 1445040000000, 
+    "id": 84879, 
+    "name": "SmileBASIC", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.0, 
+    "rating": 88.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1445040000000, 
+            "human": "2015-Oct-17", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hsgtb9mverfpjdlbt2we", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hsgtb9mverfpjdlbt2we.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "pvc6jcmdhrdnihpq9suk", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pvc6jcmdhrdnihpq9suk.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "lptxww9gbofzmihadiyz", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lptxww9gbofzmihadiyz.jpg", 
+            "width": 346
+        }
+    ], 
+    "slug": "smilebasic", 
+    "summary": "Let's play in programming! Create, Pop-up and Carry around!", 
+    "total_rating": 88.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1518009405091, 
+    "url": "https://www.igdb.com/games/smilebasic", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://smileboom.com/en/"
+        }
+    ]
+}

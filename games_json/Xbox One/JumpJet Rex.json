@@ -1,0 +1,243 @@
+{
+    "aggregated_rating": 84.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "iwrxctd1urjhuso36kft", 
+        "height": 2000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iwrxctd1urjhuso36kft.jpg", 
+        "width": 1500
+    }, 
+    "created_at": 1443996260105, 
+    "developers": [
+        4371
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "329460"
+    }, 
+    "first_release_date": 1429574400000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        25300, 
+        55752, 
+        27314, 
+        25311, 
+        19448, 
+        6732, 
+        19174, 
+        36950, 
+        11567, 
+        7350
+    ], 
+    "genres": [
+        8, 
+        10, 
+        31, 
+        32
+    ], 
+    "id": 13167, 
+    "keywords": [
+        87, 
+        126, 
+        137, 
+        182, 
+        905, 
+        970, 
+        1158, 
+        1370, 
+        2049, 
+        4004, 
+        4157, 
+        4164, 
+        4285, 
+        4388, 
+        4777, 
+        4778, 
+        4910, 
+        5029, 
+        5193, 
+        5722, 
+        5962, 
+        10445
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "JumpJet Rex", 
+    "platforms": [
+        6, 
+        92, 
+        14, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        4371
+    ], 
+    "pulse_count": 1, 
+    "rating": 80.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1461888000000, 
+            "human": "2016-Apr-29", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1429574400000, 
+            "human": "2015-Apr-21", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429574400000, 
+            "human": "2015-Apr-21", 
+            "m": 4, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429574400000, 
+            "human": "2015-Apr-21", 
+            "m": 4, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429574400000, 
+            "human": "2015-Apr-21", 
+            "m": 4, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "r12kjkh0dtqz1zwhg4oj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r12kjkh0dtqz1zwhg4oj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dtrplqyuqtwchdwp0apw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dtrplqyuqtwchdwp0apw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "q1jqbjgouq0hjfnd8rre", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q1jqbjgouq0hjfnd8rre.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vuvjrrruxjcsdoz7il3e", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vuvjrrruxjcsdoz7il3e.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kr2virckx2wkcmgmb7xk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kr2virckx2wkcmgmb7xk.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "jumpjet-rex", 
+    "summary": "JumpJet Rex is a punishing, old school 2-D platformer where players take control of a Tyrannosaurus Rex with extraterrestrial jump boots to save dino-kind from extinction by a giant asteroid.\n\nAs Rex, players will jump, drop and dash through more than 40 challenging levels and race against the clock to not only preserve life during the Mesozoic era, but also prove their platforming prowess against other dino enthusiasts.\n\nPlayers can explore the galaxy and unlock new worlds alone or team up with a friend in co-op mode, where players will need to coordinate movements to get past challenges.", 
+    "tags": [
+        1, 
+        18, 
+        268435464, 
+        268435466, 
+        268435487, 
+        268435488, 
+        536870999, 
+        536871038, 
+        536871049, 
+        536871094, 
+        536871817, 
+        536871882, 
+        536872070, 
+        536872282, 
+        536872961, 
+        536874916, 
+        536875069, 
+        536875076, 
+        536875197, 
+        536875300, 
+        536875689, 
+        536875690, 
+        536875822, 
+        536875941, 
+        536876105, 
+        536876634, 
+        536876874, 
+        536881357, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 82.16666666666666, 
+    "total_rating_count": 4, 
+    "updated_at": 1528354483628, 
+    "url": "https://www.igdb.com/games/jumpjet-rex", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "KTGLIAXPbKg"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/329460"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://jumpjetrex.com"
+        }
+    ]
+}

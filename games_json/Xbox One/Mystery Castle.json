@@ -1,0 +1,142 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "g6bbj6kuphpbp5mqxhwa", 
+        "height": 235, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/g6bbj6kuphpbp5mqxhwa.jpg", 
+        "width": 172
+    }, 
+    "created_at": 1467798771590, 
+    "developers": [
+        14439
+    ], 
+    "external": {
+        "steam": "394950"
+    }, 
+    "first_release_date": 1462492800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25222, 
+        25646, 
+        26223, 
+        27266, 
+        47823, 
+        68324, 
+        55289, 
+        37022, 
+        25311, 
+        26239
+    ], 
+    "genres": [
+        9, 
+        31, 
+        32
+    ], 
+    "id": 19889, 
+    "keywords": [
+        296, 
+        2875
+    ], 
+    "name": "Mystery Castle", 
+    "platforms": [
+        6, 
+        14, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        14439
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1462492800000, 
+            "human": "2016-May-06", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1462492800000, 
+            "human": "2016-May-06", 
+            "m": 5, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1462492800000, 
+            "human": "2016-May-06", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "e1r7sf65zkftst16lysq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e1r7sf65zkftst16lysq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "v8orqvcv9lij1dsdarst", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v8orqvcv9lij1dsdarst.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ibnbebytefhvu6vbqbeg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ibnbebytefhvu6vbqbeg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fpukjaq2xcgvliegzu4j", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fpukjaq2xcgvliegzu4j.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bphxtj4uza2a1clvsnxg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bphxtj4uza2a1clvsnxg.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "mystery-castle", 
+    "summary": "A retro-inspired masterpiece, Mystery Castle is the one puzzle game that will rule them all!", 
+    "tags": [
+        1, 
+        268435465, 
+        268435487, 
+        268435488, 
+        536871208, 
+        536873787, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1523411838744, 
+    "url": "https://www.igdb.com/games/mystery-castle", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/394950"
+        }
+    ]
+}

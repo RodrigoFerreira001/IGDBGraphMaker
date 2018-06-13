@@ -1,0 +1,409 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "\u30c0\u30a4\u30ca\u30de\u30a4\u30c8\u30d8\u30c3\u30c7\u30a3"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "t74lloptoeq4tnfa1l96", 
+        "height": 351, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/t74lloptoeq4tnfa1l96.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1471546791804, 
+    "developers": [
+        861
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 776044800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        55752, 
+        36868, 
+        6732, 
+        21062, 
+        21063, 
+        27433, 
+        19174, 
+        3019, 
+        14593, 
+        16326
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 22744, 
+    "keywords": [
+        288, 
+        301, 
+        558, 
+        1059, 
+        1553, 
+        2049, 
+        2978, 
+        3486, 
+        3833, 
+        4134, 
+        4161, 
+        4164, 
+        4166, 
+        4297, 
+        4324, 
+        4332, 
+        4397, 
+        4522, 
+        4959, 
+        5022, 
+        5029, 
+        5030, 
+        5032, 
+        5208, 
+        5419, 
+        5441, 
+        5525, 
+        5567, 
+        5592, 
+        5614, 
+        5722, 
+        5772, 
+        6160, 
+        7483, 
+        9223, 
+        9599, 
+        11535
+    ], 
+    "name": "Dynamite Headdy", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "Non realistic looking violence towards fantasy characters - Pictures or sounds likely to be scary to young children - Non realistic looking violence towards characters which although human are not very detailed"
+    }, 
+    "platforms": [
+        29, 
+        35, 
+        45, 
+        6, 
+        9, 
+        12, 
+        47, 
+        5, 
+        64, 
+        8
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        112
+    ], 
+    "pulse_count": 3, 
+    "rating": 66.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1185235200000, 
+            "human": "2007-Jul-24", 
+            "m": 7, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1186099200000, 
+            "human": "2007-Aug-03", 
+            "m": 8, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1185753600000, 
+            "human": "2007-Jul-30", 
+            "m": 7, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 776044800000, 
+            "human": "1994-Aug-05", 
+            "m": 8, 
+            "platform": 29, 
+            "region": 8, 
+            "y": 1994
+        }, 
+        {
+            "category": 0, 
+            "date": 776044800000, 
+            "human": "1994-Aug-05", 
+            "m": 8, 
+            "platform": 35, 
+            "region": 8, 
+            "y": 1994
+        }, 
+        {
+            "category": 0, 
+            "date": 776044800000, 
+            "human": "1994-Aug-05", 
+            "m": 8, 
+            "platform": 64, 
+            "region": 8, 
+            "y": 1994
+        }, 
+        {
+            "category": 0, 
+            "date": 1348012800000, 
+            "human": "2012-Sep-19", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1234224000000, 
+            "human": "2009-Feb-10", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1235088000000, 
+            "human": "2009-Feb-20", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1235088000000, 
+            "human": "2009-Feb-20", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1234224000000, 
+            "human": "2009-Feb-10", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1235088000000, 
+            "human": "2009-Feb-20", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1235606400000, 
+            "human": "2009-Feb-26", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1140652800000, 
+            "human": "2006-Feb-23", 
+            "m": 2, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1185753600000, 
+            "human": "2007-Jul-30", 
+            "m": 7, 
+            "platform": 47, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1335916800000, 
+            "human": "2012-May-02", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1186099200000, 
+            "human": "2007-Aug-03", 
+            "m": 8, 
+            "platform": 47, 
+            "region": 1, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rgjbg6iy7pcssdwa9uyh", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rgjbg6iy7pcssdwa9uyh.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "z3umr04suqmj19ppsnx1", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z3umr04suqmj19ppsnx1.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "wprxu1nm92odoopvhfw7", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wprxu1nm92odoopvhfw7.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "axw1yk27fqjbaxnv52so", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/axw1yk27fqjbaxnv52so.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "dhhpsr5xlcgwyu0ogep9", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dhhpsr5xlcgwyu0ogep9.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "jxexvpptfcdctlxdkqty", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jxexvpptfcdctlxdkqty.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "derhfwkntgauogdtz9vh", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/derhfwkntgauogdtz9vh.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "w3zujolsfrrgpx5our3o", 
+            "height": 893, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w3zujolsfrrgpx5our3o.jpg", 
+            "width": 1197
+        }, 
+        {
+            "cloudinary_id": "dcqhxkwqqwzgql9onzjm", 
+            "height": 893, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dcqhxkwqqwzgql9onzjm.jpg", 
+            "width": 1191
+        }, 
+        {
+            "cloudinary_id": "n3jovc4medlu3cqcpsrg", 
+            "height": 891, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n3jovc4medlu3cqcpsrg.jpg", 
+            "width": 1191
+        }, 
+        {
+            "cloudinary_id": "hgqxl89dsjl8cs3ahphk", 
+            "height": 891, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hgqxl89dsjl8cs3ahphk.jpg", 
+            "width": 1189
+        }, 
+        {
+            "cloudinary_id": "iskgeerrbzruzuhmvhsn", 
+            "height": 891, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iskgeerrbzruzuhmvhsn.jpg", 
+            "width": 1195
+        }
+    ], 
+    "slug": "dynamite-headdy", 
+    "storyline": "Headdy, the central protagonist of the game, arrives in North Town to find that the evil puppet King Dark Demon is in the midst of attacking the puppet town to select which of the peaceful toys should live and which should be converted into his evil minions. Headdy is captured and rejected by Dark Demon's forces, and is dropped into the dust cargo to be thrown into the incinerator. However, Headdy escapes the clutches of Dark Demon's minions and sets off to defeat the evil king. \n \nHowever, trouble is afoot. Not only is the puppet world filled with Dark Demon's minions, but to reach the evil overlord's castle, Headdy must defeat Dark Demon's Keymasters who serve as the king's elite guard. To make matters worse, Headdy is followed by Trouble Bruin, a puppet jealous of Headdy's success. Trouble Bruin wants to be the star instead of Headdy, and will stop at nothing to get rid of him.", 
+    "summary": "Dynamite Headdy is a platform game in which the player controls Headdy, a puppet with a detachable head. This head can be fired in eight directions to attack enemies and obstacles, as well as retrieve out of reach items. By grabbing a HangMan, Headdy is able to pull himself up various platforms, or drag certain areas towards him. By finding a walking case named HeadCase, Headdy can gain a special head type depending on the image shown on HeadCase at the time he hits it. These range from offensive heads that increase his strength, allows him to shoot homing stars or suck up everything on screen, to support heads which include invulnerability, shrinking to reach small areas and sleeping to regain health. Most of these heads have a time limit before the head returns to normal, with the player able to cancel at any time, though some heads, such as the Pin Head, disable manual cancellation. The game also features a side-scrolling shooter stage, during which Headdy can change between three unique Head Types.", 
+    "tags": [
+        1, 
+        268435464, 
+        536871200, 
+        536871213, 
+        536871470, 
+        536871971, 
+        536872465, 
+        536872961, 
+        536873890, 
+        536874398, 
+        536874745, 
+        536875046, 
+        536875073, 
+        536875076, 
+        536875078, 
+        536875209, 
+        536875236, 
+        536875244, 
+        536875309, 
+        536875434, 
+        536875871, 
+        536875934, 
+        536875941, 
+        536875942, 
+        536875944, 
+        536876120, 
+        536876331, 
+        536876353, 
+        536876437, 
+        536876479, 
+        536876504, 
+        536876526, 
+        536876634, 
+        536876684, 
+        536877072, 
+        536878395, 
+        536880135, 
+        536880511, 
+        536882447, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 66.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1518057932285, 
+    "url": "https://www.igdb.com/games/dynamite-headdy", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "tYn68fFIx1U"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/211201"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Dynamite_Headdy"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://dynheaddy.wikia.com/wiki/Dynamite_Headdy_Wiki"
+        }
+    ]
+}

@@ -1,0 +1,407 @@
+{
+    "aggregated_rating": 63.3333333333333, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "collection": 2183, 
+    "cover": {
+        "cloudinary_id": "jp0zwlhx0n04u5lzvdzh", 
+        "height": 314, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jp0zwlhx0n04u5lzvdzh.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1392071433073, 
+    "developers": [
+        2338
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is an arcade-style wrestling game in which players choose from current and classic WWE characters to compete in wrestling matches. Players punch, kick, and perform a variety of exaggerated wrestling moves (e.g., slamming opponents to the mat from high in the air) to deplete opponents' life meters; competitions are highlighted by impact sounds and shockwave effects. Weapons such as baseball bats, chairs, and wooden boards can also be used to strike opponents, who often collapse to the ground when hit. A few live-action clips depict a wrestler spraying cans of beer around the ring; there are also a handful of beer references in the dialogue (e.g., 'Does anybody have a cold beer for Steve Austin?' and 'Drinking beer . . . and raising hell . . .'). The words 'a*s' and 'damn' are sometimes heard in the game."
+    }, 
+    "first_release_date": 1301356800000, 
+    "franchise": 255, 
+    "franchises": [
+        255
+    ], 
+    "game_engines": [
+        6, 
+        8
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        6685, 
+        31558, 
+        19516, 
+        28204, 
+        6958, 
+        2265, 
+        7364, 
+        27421, 
+        5298, 
+        7488
+    ], 
+    "genres": [
+        4, 
+        14
+    ], 
+    "id": 5296, 
+    "keywords": [
+        61, 
+        234, 
+        301, 
+        838, 
+        869, 
+        1293, 
+        1333, 
+        2543, 
+        4134, 
+        4142, 
+        4177, 
+        4186, 
+        4187, 
+        4226, 
+        4245, 
+        4271, 
+        4277, 
+        4278, 
+        4286, 
+        4287, 
+        4305, 
+        4345, 
+        4359, 
+        4360, 
+        4381, 
+        4452, 
+        4494, 
+        4544, 
+        4576, 
+        4658, 
+        4673, 
+        4678, 
+        4788, 
+        4804, 
+        4823, 
+        4869, 
+        4890, 
+        4896, 
+        4907, 
+        4977, 
+        5112, 
+        5259, 
+        5278, 
+        5354, 
+        5361, 
+        5465, 
+        5502, 
+        5584, 
+        5634, 
+        5694, 
+        5783, 
+        5891, 
+        5892, 
+        5905, 
+        5944, 
+        6036, 
+        6493, 
+        6496, 
+        7300, 
+        7344, 
+        7369, 
+        7392, 
+        7646, 
+        9435, 
+        12001, 
+        12189, 
+        12311, 
+        12462, 
+        12691
+    ], 
+    "name": "WWE All Stars", 
+    "pegi": {
+        "rating": 4
+    }, 
+    "platforms": [
+        9, 
+        38, 
+        12, 
+        37, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        197
+    ], 
+    "rating": 51.1973150029177, 
+    "rating_count": 8, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1301616000000, 
+            "human": "2011-Apr-01", 
+            "m": 4, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301356800000, 
+            "human": "2011-Mar-29", 
+            "m": 3, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1322179200000, 
+            "human": "2011-Nov-25", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1321920000000, 
+            "human": "2011-Nov-22", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301616000000, 
+            "human": "2011-Apr-01", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301356800000, 
+            "human": "2011-Mar-29", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301356800000, 
+            "human": "2011-Mar-29", 
+            "m": 3, 
+            "platform": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301356800000, 
+            "human": "2011-Mar-29", 
+            "m": 3, 
+            "platform": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301356800000, 
+            "human": "2011-Mar-29", 
+            "m": 3, 
+            "platform": 9, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301356800000, 
+            "human": "2011-Mar-29", 
+            "m": 3, 
+            "platform": 38, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301356800000, 
+            "human": "2011-Mar-29", 
+            "m": 3, 
+            "platform": 12, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1321920000000, 
+            "human": "2011-Nov-22", 
+            "m": 11, 
+            "platform": 37, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "utbbfueyavc0hul0tm3v", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/utbbfueyavc0hul0tm3v.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ojsl7v0goayucnvxvkpu", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ojsl7v0goayucnvxvkpu.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "tbgm2wzar6ciesxej32a", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tbgm2wzar6ciesxej32a.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "hdalizlf750c1gmvlqfc", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hdalizlf750c1gmvlqfc.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "kxfrvz2jskxph8pd65nf", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kxfrvz2jskxph8pd65nf.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "md1jqiblgjlto6vg7xei", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/md1jqiblgjlto6vg7xei.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "obgjmevhhysmix2hxitd", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/obgjmevhhysmix2hxitd.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ig78waiwjf0zreeov8dr", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ig78waiwjf0zreeov8dr.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "kiqknlpkxpou5tt7bvzk", 
+            "height": 471, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kiqknlpkxpou5tt7bvzk.jpg", 
+            "width": 620
+        }, 
+        {
+            "cloudinary_id": "ukte1cqg4yz5qgpw45ew", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ukte1cqg4yz5qgpw45ew.jpg", 
+            "width": 1778
+        }, 
+        {
+            "cloudinary_id": "xduwarlgtbky4irivmdd", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xduwarlgtbky4irivmdd.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nthzw2lbqagg6njxgqsy", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nthzw2lbqagg6njxgqsy.jpg", 
+            "width": 1600
+        }
+    ], 
+    "slug": "wwe-all-stars", 
+    "summary": "WWE All Stars will deliver one of the greatest rosters ever assembled in a wrestling-centric videogame. Renowned WWE Legends will align with today's most prominent Superstars, inviting players to generate fantasy matches and ultimately determine the greatest competitors of all time. In addition, each Legend and Superstar will boast a distinctive and highly stylized appearance, adding to the overall atmosphere and intrepid attitude exuding from the on-screen action.", 
+    "tags": [
+        268435460, 
+        268435470, 
+        536870973, 
+        536871146, 
+        536871213, 
+        536871750, 
+        536871781, 
+        536872205, 
+        536872245, 
+        536873455, 
+        536875046, 
+        536875054, 
+        536875089, 
+        536875098, 
+        536875099, 
+        536875138, 
+        536875157, 
+        536875183, 
+        536875189, 
+        536875190, 
+        536875198, 
+        536875199, 
+        536875217, 
+        536875257, 
+        536875271, 
+        536875272, 
+        536875293, 
+        536875364, 
+        536875406, 
+        536875456, 
+        536875488, 
+        536875570, 
+        536875585, 
+        536875590, 
+        536875700, 
+        536875716, 
+        536875735, 
+        536875781, 
+        536875802, 
+        536875808, 
+        536875819, 
+        536875889, 
+        536876024, 
+        536876171, 
+        536876190, 
+        536876266, 
+        536876273, 
+        536876377, 
+        536876414, 
+        536876496, 
+        536876546, 
+        536876606, 
+        536876695, 
+        536876803, 
+        536876804, 
+        536876817, 
+        536876856, 
+        536876948, 
+        536877405, 
+        536877408, 
+        536878212, 
+        536878256, 
+        536878281, 
+        536878304, 
+        536878558, 
+        536880347, 
+        536882913, 
+        536883101, 
+        536883223, 
+        536883374, 
+        536883603, 
+        1073741826
+    ], 
+    "total_rating": 57.2653241681255, 
+    "total_rating_count": 14, 
+    "updated_at": 1527923742366, 
+    "url": "https://www.igdb.com/games/wwe-all-stars", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.thq.com/us/game/show/5958/WWE\u00ae%20All%20Stars\u2122"
+        }
+    ]
+}

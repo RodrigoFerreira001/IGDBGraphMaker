@@ -1,0 +1,70 @@
+{
+    "aggregated_rating": 45.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "hjxvicmxhk9nrn7yqfpm", 
+        "height": 908, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hjxvicmxhk9nrn7yqfpm.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1471336929833, 
+    "first_release_date": 1134604800000, 
+    "games": [
+        11588, 
+        19083, 
+        28213, 
+        25217, 
+        19082, 
+        60693, 
+        18811, 
+        902, 
+        67343, 
+        51058
+    ], 
+    "genres": [
+        15, 
+        16, 
+        26
+    ], 
+    "id": 22569, 
+    "keywords": [
+        729, 
+        2601, 
+        3171, 
+        4139, 
+        4472
+    ], 
+    "name": "Sega Casino", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1134604800000, 
+            "human": "2005-Dec-15", 
+            "m": 12, 
+            "platform": 20, 
+            "region": 8, 
+            "y": 2005
+        }
+    ], 
+    "slug": "sega-casino", 
+    "summary": "An unlicensed gambling sim for the Genesis.", 
+    "tags": [
+        268435471, 
+        268435472, 
+        268435482, 
+        536871641, 
+        536873513, 
+        536874083, 
+        536875051, 
+        536875384
+    ], 
+    "total_rating": 45.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1515842323734, 
+    "url": "https://www.igdb.com/games/sega-casino"
+}

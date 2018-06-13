@@ -1,0 +1,158 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "zeien9rqgvwbdvh5hsy4", 
+        "height": 338, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zeien9rqgvwbdvh5hsy4.jpg", 
+        "width": 247
+    }, 
+    "created_at": 1504443678890, 
+    "developers": [
+        6142
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "700520"
+    }, 
+    "first_release_date": 1527638400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        37022, 
+        55289, 
+        44191, 
+        34919, 
+        25646, 
+        40524, 
+        25311, 
+        23175, 
+        28277, 
+        37419
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 56678, 
+    "name": "Shift Quantum", 
+    "platforms": [
+        6, 
+        48, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        15643
+    ], 
+    "pulse_count": 5, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1527638400000, 
+            "human": "2018-May-30", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1527638400000, 
+            "human": "2018-May-30", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1527638400000, 
+            "human": "2018-May-30", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1527638400000, 
+            "human": "2018-May-30", 
+            "m": 5, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "h7zrbr0xnpryxamzqupc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h7zrbr0xnpryxamzqupc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ma6kttkdcyyfrto6q9qp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ma6kttkdcyyfrto6q9qp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "srj9a87rshuyuqwlpgdi", 
+            "height": 1040, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/srj9a87rshuyuqwlpgdi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wqayevirqjfxw0advedq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wqayevirqjfxw0advedq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rvkrp7gkpoqsi8a8qptf", 
+            "height": 1040, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rvkrp7gkpoqsi8a8qptf.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "shift-quantum", 
+    "summary": "Shift Quantum is a tech noir puzzle-action platformer that will bend your mind. It will squeeze your gray matter out with its unique SHIFT mechanic allowing you to invert black and white space. Explore Axon Vertigo, a brain power extraction platform to unveil its secrets and solve each brain-drilling level.", 
+    "tags": [
+        1, 
+        268435487, 
+        268435488, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528213457282, 
+    "url": "https://www.igdb.com/games/shift-quantum", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "pgYr2VndvgA"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.shiftquantum.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/700520"
+        }
+    ]
+}

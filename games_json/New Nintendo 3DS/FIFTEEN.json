@@ -1,0 +1,102 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jb2oxytm2ui0fl8wx1y0", 
+        "height": 287, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jb2oxytm2ui0fl8wx1y0.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1502865835422, 
+    "developers": [
+        13284
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1490832000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        19376, 
+        19290, 
+        8197, 
+        19934, 
+        54678, 
+        25222, 
+        18918, 
+        60044, 
+        20329, 
+        23248
+    ], 
+    "genres": [
+        9, 
+        15, 
+        33
+    ], 
+    "id": 54673, 
+    "keywords": [
+        117, 
+        2875, 
+        4134
+    ], 
+    "name": "FIFTEEN", 
+    "platforms": [
+        41, 
+        137, 
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        13284
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1490832000000, 
+            "human": "2017-Mar-30", 
+            "m": 3, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1492041600000, 
+            "human": "2017-Apr-13", 
+            "m": 4, 
+            "platform": 137, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1493856000000, 
+            "human": "2017-May-04", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "u6szncuhabkcdbst0klo", 
+            "height": 419, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u6szncuhabkcdbst0klo.jpg", 
+            "width": 745
+        }
+    ], 
+    "slug": "fifteen", 
+    "summary": "A puzzle game where plays make effort to rearrange blocks in numerical order, from 1 to 15.", 
+    "tags": [
+        268435465, 
+        268435471, 
+        268435489, 
+        536871029, 
+        536873787, 
+        536875046
+    ], 
+    "updated_at": 1518060052997, 
+    "url": "https://www.igdb.com/games/fifteen"
+}

@@ -1,0 +1,88 @@
+{
+    "category": 2, 
+    "cover": {
+        "cloudinary_id": "ygaeqrwpqdaz8arrbfr3", 
+        "height": 835, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ygaeqrwpqdaz8arrbfr3.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1510237780416, 
+    "developers": [
+        919
+    ], 
+    "first_release_date": 1356998400000, 
+    "game": 1911, 
+    "game_modes": [
+        5
+    ], 
+    "id": 75571, 
+    "name": "Path of Exile: Ascendancy", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        919
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1501545600000, 
+            "human": "2017-Aug-01", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 4, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1356998400000, 
+            "human": "2013-Jan-01", 
+            "m": 1, 
+            "platform": 6, 
+            "region": 4, 
+            "y": 2013
+        }
+    ], 
+    "slug": "path-of-exile-ascendancy", 
+    "summary": "There are 19 Ascendancy classes, each with its own additional Ascendancy Skill Tree to master. Upon completing the Lord's Labyrinth for the first time, you can pick an Ascendancy class from one of the three available for your class. The first time you complete the Labyrinth on each difficulty, you will receive two Ascendancy Points for its skill tree. Check all the 19 Path of Exile Ascendancy classes here: https://www.pathofexile.com/ascendancy/classes", 
+    "updated_at": 1516022578449, 
+    "url": "https://www.igdb.com/games/path-of-exile-ascendancy", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "92SpXUJEIVs"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "YFAPw_F3jyg"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/grindinggear"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/pathofexile"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/pathofexile"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Path_of_Exile"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://pathofexile.wikia.com/wiki/Path_of_Exile_Wiki"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.pathofexile.com"
+        }
+    ]
+}

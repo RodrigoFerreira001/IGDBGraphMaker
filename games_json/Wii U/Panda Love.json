@@ -1,0 +1,119 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "yffs1xygn7gblr2htpd4", 
+        "height": 1000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yffs1xygn7gblr2htpd4.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1499088442192, 
+    "external": {
+        "steam": "659250"
+    }, 
+    "first_release_date": 1472083200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28277, 
+        63734, 
+        27266, 
+        72412, 
+        63718, 
+        37022, 
+        54998, 
+        55289, 
+        74584, 
+        44191
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 43087, 
+    "name": "Panda Love", 
+    "platforms": [
+        6, 
+        41
+    ], 
+    "popularity": 1.0, 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1472688000000, 
+            "human": "2016-Sep-01", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472083200000, 
+            "human": "2016-Aug-25", 
+            "m": 8, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1499990400000, 
+            "human": "2017-Jul-14", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "sknhhypeupzipo4qxlaz", 
+            "height": 1020, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sknhhypeupzipo4qxlaz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qyiofjyy4goxwbbfcjps", 
+            "height": 1016, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qyiofjyy4goxwbbfcjps.jpg", 
+            "width": 1695
+        }, 
+        {
+            "cloudinary_id": "peerurchgl2lmpjg2tck", 
+            "height": 1014, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/peerurchgl2lmpjg2tck.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "exxd9iou7xzs7ckmw8oh", 
+            "height": 1020, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/exxd9iou7xzs7ckmw8oh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "a3czmngnmzxip7th33qb", 
+            "height": 1013, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a3czmngnmzxip7th33qb.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "panda-love", 
+    "summary": "You have to play for a panda, collect coins to have enough money for a bouquet of flowers.", 
+    "tags": [
+        268435487, 
+        268435488
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1522230516438, 
+    "url": "https://www.igdb.com/games/panda-love", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/659250"
+        }
+    ]
+}

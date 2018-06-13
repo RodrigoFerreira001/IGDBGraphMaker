@@ -1,0 +1,126 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ofz4he6fzygpmyjmfvws", 
+        "height": 360, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ofz4he6fzygpmyjmfvws.jpg", 
+        "width": 480
+    }, 
+    "created_at": 1495732024888, 
+    "external": {
+        "steam": "462220"
+    }, 
+    "first_release_date": 1461283200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        14047, 
+        19222, 
+        41348, 
+        10225, 
+        27266, 
+        95652, 
+        95649, 
+        95094, 
+        95091, 
+        91316
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 32982, 
+    "keywords": [
+        1361
+    ], 
+    "name": "Mahjong Deluxe 3", 
+    "platforms": [
+        6, 
+        14, 
+        41
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1461283200000, 
+            "human": "2016-Apr-22", 
+            "m": 4, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1489622400000, 
+            "human": "2017-Mar-16", 
+            "m": 3, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1461283200000, 
+            "human": "2016-Apr-22", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ouramug0ysh2p7fyqdmq", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ouramug0ysh2p7fyqdmq.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "dfe2mmwfpv6mltzgorss", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dfe2mmwfpv6mltzgorss.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "q9dizwynma64b80o0vv2", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q9dizwynma64b80o0vv2.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "p1nrgxizdtkctchfbus7", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p1nrgxizdtkctchfbus7.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "axg4w3aspwitutocuw3a", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/axg4w3aspwitutocuw3a.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "mahjong-deluxe-3", 
+    "summary": "Mahjong Deluxe 3 is the newest entry in the popular Mahjong series of casual games produced by award-winning game developer EnsenaSoft.", 
+    "tags": [
+        268435465, 
+        536872273
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523394843441, 
+    "url": "https://www.igdb.com/games/mahjong-deluxe-3", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.mahjongdeluxe3.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/462220"
+        }
+    ]
+}

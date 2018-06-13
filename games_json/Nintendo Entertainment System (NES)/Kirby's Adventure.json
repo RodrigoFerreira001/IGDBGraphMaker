@@ -1,0 +1,418 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "3D Classics Kirby's Adventure"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Hoshi no Kirby: Yume no Izumi no Monogatari"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "\u661f\u306e\u30ab\u30fc\u30d3\u30a3 \u5922\u306e\u6cc9\u306e\u7269\u8a9e"
+        }, 
+        {
+            "comment": "Japanese title - translation", 
+            "name": "Kirby of the Stars: The Story of the Fountain of Dreams"
+        }
+    ], 
+    "category": 0, 
+    "collection": 244, 
+    "cover": {
+        "cloudinary_id": "qnr96vly4h0ug2dxrvip", 
+        "height": 342, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qnr96vly4h0ug2dxrvip.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1389493950881, 
+    "developers": [
+        762, 
+        803
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 732844800000, 
+    "franchise": 789, 
+    "franchises": [
+        789
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        37137, 
+        55752, 
+        3726, 
+        36868, 
+        21062, 
+        3719, 
+        6705, 
+        117, 
+        47823, 
+        7709
+    ], 
+    "genres": [
+        8, 
+        31
+    ], 
+    "id": 3717, 
+    "keywords": [
+        80, 
+        288, 
+        296, 
+        394, 
+        501, 
+        1098, 
+        1208, 
+        2049, 
+        2199, 
+        4161, 
+        4162, 
+        4163, 
+        4165, 
+        4169, 
+        4184, 
+        4243, 
+        4297, 
+        4522, 
+        4832, 
+        4839, 
+        4891, 
+        5340, 
+        5578, 
+        5673, 
+        5803, 
+        5911, 
+        5968, 
+        6084, 
+        6129, 
+        6142, 
+        6161, 
+        6174, 
+        6522, 
+        6661, 
+        6868, 
+        7019, 
+        7151, 
+        7306, 
+        7454, 
+        8236, 
+        8245, 
+        8309, 
+        8681, 
+        8682, 
+        8683, 
+        9190, 
+        9476, 
+        9477, 
+        9478, 
+        9479, 
+        9481, 
+        9482, 
+        9484, 
+        9485, 
+        10078, 
+        15404
+    ], 
+    "name": "Kirby's Adventure", 
+    "platforms": [
+        41, 
+        47, 
+        5, 
+        18
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        70
+    ], 
+    "pulse_count": 1, 
+    "rating": 79.7050645706153, 
+    "rating_count": 29, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1366156800000, 
+            "human": "2013-Apr-17", 
+            "m": 4, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1366243200000, 
+            "human": "2013-Apr-18", 
+            "m": 4, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1366156800000, 
+            "human": "2013-Apr-17", 
+            "m": 4, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1172534400000, 
+            "human": "2007-Feb-27", 
+            "m": 2, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1171584000000, 
+            "human": "2007-Feb-16", 
+            "m": 2, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1171238400000, 
+            "human": "2007-Feb-12", 
+            "m": 2, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1335312000000, 
+            "human": "2012-Apr-25", 
+            "m": 4, 
+            "platform": 47, 
+            "region": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1321488000000, 
+            "human": "2011-Nov-17", 
+            "m": 11, 
+            "platform": 47, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1321488000000, 
+            "human": "2011-Nov-17", 
+            "m": 11, 
+            "platform": 47, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 732844800000, 
+            "human": "1993-Mar-23", 
+            "m": 3, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 736214400000, 
+            "human": "1993-May-01", 
+            "m": 5, 
+            "platform": 18, 
+            "region": 2, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 754704000000, 
+            "human": "1993-Dec-01", 
+            "m": 12, 
+            "platform": 18, 
+            "region": 1, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 1366156800000, 
+            "human": "2013-Apr-17", 
+            "m": 4, 
+            "platform": 47, 
+            "region": 8, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rs8uvxzxolpfsdvkitl0", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rs8uvxzxolpfsdvkitl0.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "sngenqqlr4sexpdwjlxn", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sngenqqlr4sexpdwjlxn.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "dfjojjyisqrztaocxbux", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dfjojjyisqrztaocxbux.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "twpcq81ulclmihdufpp6", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/twpcq81ulclmihdufpp6.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "abc4kr9eloez9wa1enpr", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/abc4kr9eloez9wa1enpr.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "hprn68kijjnbr4llyxgz", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hprn68kijjnbr4llyxgz.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "gx432yuwmsb3ghggrtnr", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gx432yuwmsb3ghggrtnr.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "hsp8c5hszah89hgqb12n", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hsp8c5hszah89hgqb12n.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "bsypnmt17en1arugepcn", 
+            "height": 436, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bsypnmt17en1arugepcn.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "jb0bbobfi9pouzhg1ivp", 
+            "height": 350, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jb0bbobfi9pouzhg1ivp.jpg", 
+            "width": 508
+        }, 
+        {
+            "cloudinary_id": "kbqgj8ae7zpbx1ans1sg", 
+            "height": 447, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kbqgj8ae7zpbx1ans1sg.jpg", 
+            "width": 509
+        }
+    ], 
+    "slug": "kirby-s-adventure", 
+    "summary": "Not everything is well in Dream Land. For some mysterious reason, the Dream Spring, a magical well that is the reservoir for all the dreams of the citizens of Dream Land, is no longer working. Everyone is being subjected to their worst nightmares every time they go to sleep. Upon reaching the Dream Spring, Kirby finds out that evil King Dedede has stolen the Star Rod, thus depriving Dream Land of the magical energy that feeds its spring. Using 20 unique tricks and your ability to steal your enemies' powers by swallowing them, you'll have to make your way through a horrific land filled with all kinds of nightmares. Recover the broken pieces of the Star Rod, and everyone in Dream Land will sleep peacefully once again. If you fail, the citizens of Dream Land will be subjected to a lifetime of terrible nightmares.", 
+    "tags": [
+        1, 
+        17, 
+        35, 
+        268435464, 
+        268435487, 
+        536870992, 
+        536871200, 
+        536871208, 
+        536871306, 
+        536871413, 
+        536872010, 
+        536872120, 
+        536872961, 
+        536873111, 
+        536875073, 
+        536875074, 
+        536875075, 
+        536875077, 
+        536875081, 
+        536875096, 
+        536875155, 
+        536875209, 
+        536875434, 
+        536875744, 
+        536875751, 
+        536875803, 
+        536876252, 
+        536876490, 
+        536876585, 
+        536876715, 
+        536876823, 
+        536876880, 
+        536876996, 
+        536877041, 
+        536877054, 
+        536877073, 
+        536877086, 
+        536877434, 
+        536877573, 
+        536877780, 
+        536877931, 
+        536878063, 
+        536878218, 
+        536878366, 
+        536879148, 
+        536879157, 
+        536879221, 
+        536879593, 
+        536879594, 
+        536879595, 
+        536880102, 
+        536880388, 
+        536880389, 
+        536880390, 
+        536880391, 
+        536880393, 
+        536880394, 
+        536880396, 
+        536880397, 
+        536880990, 
+        536886316, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        17, 
+        35
+    ], 
+    "total_rating": 69.85253228530766, 
+    "total_rating_count": 30, 
+    "updated_at": 1524928853856, 
+    "url": "https://www.igdb.com/games/kirby-s-adventure", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Kirby%27s_Adventure"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://kirby.wikia.com/wiki/Kirby's_Adventure"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/pages/Kirbys-Adventure/104127966291190?fref=ts"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.nintendo.com/games/detail/aErBH6cTJj_IZUtieO_2m4Cid19kwJOz"
+        }
+    ]
+}

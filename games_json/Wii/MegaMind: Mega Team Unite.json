@@ -1,0 +1,104 @@
+{
+    "category": 0, 
+    "collection": 3140, 
+    "cover": {
+        "cloudinary_id": "g3ibqotfohoc8t3ha5dq", 
+        "height": 1416, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/g3ibqotfohoc8t3ha5dq.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1500059833853, 
+    "first_release_date": 1291248000000, 
+    "games": [
+        71455, 
+        11588, 
+        23175, 
+        19083, 
+        25217, 
+        47823, 
+        25300, 
+        14763, 
+        28213, 
+        29147
+    ], 
+    "genres": [
+        25, 
+        26
+    ], 
+    "id": 51061, 
+    "keywords": [
+        14, 
+        982, 
+        1033, 
+        2387, 
+        2601, 
+        4139, 
+        7295
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 5, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "MegaMind: Mega Team Unite", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        5
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1291248000000, 
+            "human": "2010-Dec-02", 
+            "m": 12, 
+            "platform": 5, 
+            "region": 8, 
+            "y": 2010
+        }
+    ], 
+    "slug": "megamind-mega-team-unite", 
+    "summary": "Just as Megamind has become our new Mega Hero, a sudden crime wave hits the city. The Doom Syndicate & their Doom Goons have emerged and are looking to take over! Only Megamind and his arsenal of gadgets can stop them! \n \nPicking up the excitement right after the Megamind movie ends, MegaMind: Mega Team Unite has players creating the Ultimate Mega Team in multiplayer melee combat.", 
+    "tags": [
+        1, 
+        268435481, 
+        268435482, 
+        536870926, 
+        536871894, 
+        536871945, 
+        536873299, 
+        536873513, 
+        536875051, 
+        536878207
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1516738261616, 
+    "url": "https://www.igdb.com/games/megamind-mega-team-unite", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Zg_HqkkEXko"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Megamind_(video_game)"
+        }
+    ]
+}

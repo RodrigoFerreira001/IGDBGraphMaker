@@ -1,0 +1,118 @@
+{
+    "aggregated_rating": 73.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "umjyywe2fig5wfgycuml", 
+        "height": 1000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/umjyywe2fig5wfgycuml.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1516287585194, 
+    "developers": [
+        70
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1524182400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        34919, 
+        25311, 
+        28029, 
+        19341, 
+        68287, 
+        71455, 
+        54999, 
+        28465, 
+        37419, 
+        44242
+    ], 
+    "genres": [
+        13
+    ], 
+    "hypes": 1, 
+    "id": 82369, 
+    "name": "Nintendo Labo Robot Kit software", 
+    "platforms": [
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        70
+    ], 
+    "pulse_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1524182400000, 
+            "human": "2018-Apr-20", 
+            "m": 4, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1524182400000, 
+            "human": "2018-Apr-20", 
+            "m": 4, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1524182400000, 
+            "human": "2018-Apr-20", 
+            "m": 4, 
+            "platform": 130, 
+            "region": 5, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "iwdubjberhwnlyazkqj1", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iwdubjberhwnlyazkqj1.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "nintendo-labo-robot-kit-software", 
+    "summary": "The software required to play the game with the Robot Kit, Toy-Con 02.", 
+    "tags": [
+        1, 
+        18, 
+        35, 
+        268435469, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18, 
+        35
+    ], 
+    "total_rating": 73.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1524914510488, 
+    "url": "https://www.igdb.com/games/nintendo-labo-robot-kit-software", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "P3Bd3HUMkyU"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://labo.nintendo.com/kits/robot-kit/"
+        }
+    ]
+}

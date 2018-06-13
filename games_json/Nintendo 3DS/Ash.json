@@ -1,0 +1,81 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "a0tglt6lmwl0b9ofcthg", 
+        "height": 1200, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/a0tglt6lmwl0b9ofcthg.jpg", 
+        "width": 1200
+    }, 
+    "created_at": 1504613278175, 
+    "first_release_date": 1476316800000, 
+    "games": [
+        81535, 
+        80514, 
+        80508, 
+        80480, 
+        80070, 
+        80069, 
+        79659, 
+        79451, 
+        79064, 
+        78419
+    ], 
+    "id": 57518, 
+    "keywords": [
+        2396, 
+        4260
+    ], 
+    "name": "Ash", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        6379
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1476316800000, 
+            "human": "2016-Oct-13", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gbmsl2vgvawc1ibjnd9a", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gbmsl2vgvawc1ibjnd9a.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "stie5ssuug7ohfyhasg2", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/stie5ssuug7ohfyhasg2.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "zuiqfvsiojkmpgzrcsbx", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zuiqfvsiojkmpgzrcsbx.jpg", 
+            "width": 346
+        }
+    ], 
+    "slug": "ash", 
+    "summary": "A game written by Lee Grey for the Annual Interactive Fiction Competition.", 
+    "tags": [
+        536873308, 
+        536875172
+    ], 
+    "updated_at": 1518047527140, 
+    "url": "https://www.igdb.com/games/ash", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.cir-ent.com/"
+        }
+    ]
+}

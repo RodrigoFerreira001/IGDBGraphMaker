@@ -1,0 +1,69 @@
+{
+    "category": 0, 
+    "created_at": 1499503509887, 
+    "first_release_date": 1238025600000, 
+    "id": 45281, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 6, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Spelunker HD", 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1238025600000, 
+            "human": "2009-Mar-26", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1312934400000, 
+            "human": "2011-Aug-10", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1290470400000, 
+            "human": "2010-Nov-23", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1293062400000, 
+            "human": "2010-Dec-23", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2010
+        }
+    ], 
+    "slug": "spelunker-hd", 
+    "summary": "Go spelunking with your buddies! The legendary Spelunker arrives on PlayStation 3 with lots of new contents, including an online multiplayer gameplay for up to 6 players to enjoy co-op play or compete to reach the goal in the shortest time! Based on the classic NES title of the same name.", 
+    "updated_at": 1516087385482, 
+    "url": "https://www.igdb.com/games/spelunker-hd"
+}

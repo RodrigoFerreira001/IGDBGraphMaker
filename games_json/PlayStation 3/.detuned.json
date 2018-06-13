@@ -1,0 +1,100 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "sgc2pertkl58ymvygbbl", 
+        "height": 240, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sgc2pertkl58ymvygbbl.jpg", 
+        "width": 240
+    }, 
+    "created_at": 1410352817024, 
+    "developers": [
+        3455
+    ], 
+    "first_release_date": 1252972800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        8367, 
+        103341, 
+        99119, 
+        28465, 
+        101461, 
+        74127, 
+        40524, 
+        26298, 
+        34919, 
+        33603
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 7724, 
+    "name": ".detuned", 
+    "platforms": [
+        9
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        334
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1253145600000, 
+            "human": "2009-Sep-17", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1253059200000, 
+            "human": "2009-Sep-16", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1252972800000, 
+            "human": "2009-Sep-15", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1253145600000, 
+            "human": "2009-Sep-17", 
+            "m": 9, 
+            "platform": 9, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tmszaoln9bk2jaxsbvwy", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tmszaoln9bk2jaxsbvwy.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "dot-detuned", 
+    "tags": [
+        268435488, 
+        1073741826
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528876423490, 
+    "url": "https://www.igdb.com/games/dot-detuned"
+}

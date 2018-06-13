@@ -1,0 +1,101 @@
+{
+    "aggregated_rating": 78.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "name": "Arctic Adventures: Brain Freeze"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Arctic Adventures"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Arctic AdventuresArctic Adventures: Brain Freeze"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "xeqnfcawg0icofaozoof", 
+        "height": 262, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xeqnfcawg0icofaozoof.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1469803645708, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1261440000000, 
+    "games": [
+        25222, 
+        25646, 
+        20329, 
+        54678, 
+        76110, 
+        76216, 
+        19934, 
+        60044, 
+        26223, 
+        6732
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 21768, 
+    "keywords": [
+        1710, 
+        2875, 
+        4134, 
+        4240, 
+        4435, 
+        4686, 
+        5099, 
+        5157
+    ], 
+    "name": "Polar Panic", 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1264636800000, 
+            "human": "2010-Jan-28", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1261440000000, 
+            "human": "2009-Dec-22", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2009
+        }
+    ], 
+    "slug": "polar-panic", 
+    "summary": "Multi-platform action puzzle game about a block pushing polar bear. Also known as Arctic Adventures.", 
+    "tags": [
+        1, 
+        268435465, 
+        536872622, 
+        536873787, 
+        536875046, 
+        536875152, 
+        536875347, 
+        536875598, 
+        536876011, 
+        536876069
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 78.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1516106366850, 
+    "url": "https://www.igdb.com/games/polar-panic"
+}

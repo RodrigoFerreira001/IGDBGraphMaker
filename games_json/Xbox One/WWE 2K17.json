@@ -1,0 +1,370 @@
+{
+    "aggregated_rating": 60.8333333333333, 
+    "aggregated_rating_count": 14, 
+    "category": 0, 
+    "collection": 2183, 
+    "cover": {
+        "cloudinary_id": "zbv9p9fw5dt761w1ojdv", 
+        "height": 1704, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zbv9p9fw5dt761w1ojdv.jpg", 
+        "width": 1200
+    }, 
+    "created_at": 1465690237299, 
+    "developers": [
+        1059, 
+        694
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is a wrestling simulation game in which players select real-world competitors from the WWE roster, compete in matches, and progress through multiple storylines. Players can perform a variety of wrestling moves (e.g., throws, holds, grapples) as well as punch and kick opponents. Some matches allow players to use tables, chairs, sledgehammers, and trash cans to strike opponents. Blood sometimes appears on wrestlers' bodies after being struck repeatedly by objects. Some female wrestlers wear revealing outfits that expose large amounts of cleavage; others are depicted with exaggerated-size breasts. Some wrestlers also make provocative gestures/taunting moves (e.g., pelvic thrusts, crotch chop). One taunting move depicts a wrestler \u201cflipping the bird\u201d/holding up their middle fingers; the words \u201ca*s\u201d and \u201cbastard\u201d also appear in the dialogue."
+    }, 
+    "external": {
+        "steam": "510510"
+    }, 
+    "first_release_date": 1476144000000, 
+    "franchise": 255, 
+    "franchises": [
+        255
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        31558, 
+        6685, 
+        26772, 
+        7846, 
+        11057, 
+        34919, 
+        28951, 
+        25311, 
+        7349, 
+        54524
+    ], 
+    "genres": [
+        13, 
+        14
+    ], 
+    "hypes": 1, 
+    "id": 19516, 
+    "keywords": [
+        234, 
+        838, 
+        1293, 
+        2543, 
+        3224, 
+        4142, 
+        4245, 
+        4271, 
+        4272, 
+        4274, 
+        4287, 
+        4452, 
+        4650, 
+        4704, 
+        4869, 
+        4890, 
+        5909, 
+        6363, 
+        6752, 
+        7645, 
+        8269
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 6, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 6, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "WWE 2K17", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\r\nIt contains: Realistic looking violence"
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        48, 
+        12, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 14.0, 
+    "publishers": [
+        8
+    ], 
+    "pulse_count": 33, 
+    "rating": 70.0040005600939, 
+    "rating_count": 9, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1512518400000, 
+            "human": "2017-Dec-06", 
+            "m": 12, 
+            "platform": 130, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1486425600000, 
+            "human": "2017-Feb-07", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tfn91u850bh4m6qpxynv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tfn91u850bh4m6qpxynv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mrnjfnorc9akjjgajsqb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mrnjfnorc9akjjgajsqb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vpipcd34haywp4evf4xn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vpipcd34haywp4evf4xn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hnzxftf1wn8oxhk0azed", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hnzxftf1wn8oxhk0azed.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "er33wdmxy21epegnigst", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/er33wdmxy21epegnigst.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jxbg2zme03d0kkdksqyn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jxbg2zme03d0kkdksqyn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wenarkgnakm3yg8up9of", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wenarkgnakm3yg8up9of.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mxog94jjiy177ma9vtqs", 
+            "height": 473, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mxog94jjiy177ma9vtqs.jpg", 
+            "width": 840
+        }, 
+        {
+            "cloudinary_id": "oda77siesn4hhkafsnlz", 
+            "height": 473, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oda77siesn4hhkafsnlz.jpg", 
+            "width": 840
+        }, 
+        {
+            "cloudinary_id": "pvjdmh0pbi1uwlycxlcb", 
+            "height": 473, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pvjdmh0pbi1uwlycxlcb.jpg", 
+            "width": 840
+        }, 
+        {
+            "cloudinary_id": "qq6zwno5ffsq7oxfnpqk", 
+            "height": 473, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qq6zwno5ffsq7oxfnpqk.jpg", 
+            "width": 840
+        }, 
+        {
+            "cloudinary_id": "nu32ci1yerlu0hgjq9kz", 
+            "height": 473, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nu32ci1yerlu0hgjq9kz.jpg", 
+            "width": 840
+        }
+    ], 
+    "slug": "wwe-2k17", 
+    "summary": "Welcome to Suplex City, courtesy of cover Superstar Brock Lesnar! WWE 2K17 arrives as the reigning and defending flagship WWE video game franchise champion! WWE 2K17 features stunning graphics, ultra-authentic gameplay and a massive roster of WWE and NXT's popular Superstars and Legends. \n \nExperience the most authentic WWE gameplay ever, featuring thousands of new moves and animations, backstage and in-arena brawling, and the biggest roster of WWE and NXT Superstars and Legends to date.", 
+    "tags": [
+        1, 
+        32, 
+        268435469, 
+        268435470, 
+        536871146, 
+        536871750, 
+        536872205, 
+        536873455, 
+        536874136, 
+        536875054, 
+        536875157, 
+        536875183, 
+        536875184, 
+        536875186, 
+        536875199, 
+        536875364, 
+        536875562, 
+        536875616, 
+        536875781, 
+        536875802, 
+        536876821, 
+        536877275, 
+        536877664, 
+        536878557, 
+        536879181, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        32
+    ], 
+    "total_rating": 65.4186669467136, 
+    "total_rating_count": 23, 
+    "updated_at": 1528605832656, 
+    "url": "https://www.igdb.com/games/wwe-2k17", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "uIOBL-d8PJ4"
+        }, 
+        {
+            "name": "Brock Lesnar Cover Reveal Trailer", 
+            "video_id": "w1GbSa1IHP4"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "vPrUyIwogQU"
+        }, 
+        {
+            "name": "Controls: The Basics Trailer", 
+            "video_id": "p9twqyoXMuI"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "fwdBbEdYVtk"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "qhDsN5BYx8s"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/510510"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/WWE_2K17"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://wwe.2k.com/"
+        }
+    ]
+}

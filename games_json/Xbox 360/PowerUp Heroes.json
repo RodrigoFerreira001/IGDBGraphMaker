@@ -1,0 +1,82 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "j5x5tl0pfvoddwzsix8l", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/j5x5tl0pfvoddwzsix8l.jpg", 
+        "width": 355
+    }, 
+    "created_at": 1306921279000, 
+    "developers": [
+        399
+    ], 
+    "first_release_date": 1308009600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        75962, 
+        46815, 
+        75964, 
+        75858, 
+        75857, 
+        75853, 
+        68609, 
+        55058, 
+        50726, 
+        50704
+    ], 
+    "genres": [
+        4
+    ], 
+    "id": 510, 
+    "name": "PowerUp Heroes", 
+    "platforms": [
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        104
+    ], 
+    "rating": 80.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1308009600000, 
+            "human": "2011-Jun-14", 
+            "m": 6, 
+            "platform": 12, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "p1k2vmji7x8paxqyzqp4", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p1k2vmji7x8paxqyzqp4.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "powerup-heroes", 
+    "tags": [
+        268435460, 
+        1073741826
+    ], 
+    "total_rating": 75.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1517270817100, 
+    "url": "https://www.igdb.com/games/powerup-heroes", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "CfBmUjNjdj8"
+        }
+    ]
+}

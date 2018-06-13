@@ -1,0 +1,452 @@
+{
+    "aggregated_rating": 86.6666666666667, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "MPH"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "dckhsxhgt3c0owkzmjtg", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dckhsxhgt3c0owkzmjtg.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "kijakej5h9dygmwqbjgg", 
+            "height": 1340, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kijakej5h9dygmwqbjgg.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "px1auuchh8en8zkrkqmd", 
+            "height": 830, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/px1auuchh8en8zkrkqmd.jpg", 
+            "width": 1000
+        }
+    ], 
+    "category": 0, 
+    "collection": 243, 
+    "cover": {
+        "cloudinary_id": "x3yzkd4jm8gp1wqlye4t", 
+        "height": 409, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/x3yzkd4jm8gp1wqlye4t.jpg", 
+        "width": 456
+    }, 
+    "created_at": 1340128525055, 
+    "developers": [
+        768
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1142812800000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        1105, 
+        1111, 
+        1107, 
+        1108, 
+        26401, 
+        1101, 
+        1103, 
+        27314, 
+        71, 
+        1595
+    ], 
+    "genres": [
+        5, 
+        8, 
+        31
+    ], 
+    "id": 1110, 
+    "keywords": [
+        3, 
+        4, 
+        137, 
+        453, 
+        477, 
+        558, 
+        947, 
+        970, 
+        1289, 
+        1313, 
+        1440, 
+        1463, 
+        1640, 
+        1682, 
+        1739, 
+        2411, 
+        3831, 
+        4144, 
+        4145, 
+        4161, 
+        4169, 
+        4171, 
+        4286, 
+        4330, 
+        4386, 
+        4389, 
+        4391, 
+        4393, 
+        4397, 
+        4414, 
+        4446, 
+        4510, 
+        4522, 
+        4552, 
+        4553, 
+        4626, 
+        4694, 
+        4709, 
+        4730, 
+        4760, 
+        4892, 
+        4925, 
+        4958, 
+        4990, 
+        5039, 
+        5109, 
+        5143, 
+        5441, 
+        5479, 
+        5557, 
+        5655, 
+        5721, 
+        5844, 
+        6062, 
+        6096, 
+        6133, 
+        6230, 
+        6292, 
+        6298, 
+        6304, 
+        6312, 
+        6351, 
+        6531, 
+        6619, 
+        6708, 
+        6843, 
+        7021, 
+        7026, 
+        7038, 
+        8735, 
+        9160, 
+        9350, 
+        9671, 
+        9927, 
+        10103, 
+        10234, 
+        10251, 
+        10336, 
+        10596, 
+        10598, 
+        10624, 
+        11257, 
+        11595, 
+        11926, 
+        11934, 
+        11935, 
+        12661, 
+        12819, 
+        12845, 
+        13109, 
+        13110, 
+        13164, 
+        13233, 
+        13239, 
+        16279
+    ], 
+    "name": "Metroid Prime Hunters", 
+    "platforms": [
+        41, 
+        20
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        70
+    ], 
+    "rating": 69.82653404587771, 
+    "rating_count": 11, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1149120000000, 
+            "human": "2006-Jun-01", 
+            "m": 6, 
+            "platform": 20, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1473897600000, 
+            "human": "2016-Sep-15", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1473897600000, 
+            "human": "2016-Sep-15", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 3, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1473897600000, 
+            "human": "2016-Sep-15", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1443571200000, 
+            "human": "2015-Sep-30", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1148342400000, 
+            "human": "2006-May-23", 
+            "m": 5, 
+            "platform": 20, 
+            "region": 3, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1146787200000, 
+            "human": "2006-May-05", 
+            "m": 5, 
+            "platform": 20, 
+            "region": 1, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 1142812800000, 
+            "human": "2006-Mar-20", 
+            "m": 3, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2006
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xdmqxkxficn65h6wfskj", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xdmqxkxficn65h6wfskj.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "fo1kllswq4s6jviqvncx", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fo1kllswq4s6jviqvncx.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "wq3n3vp0kzlx3qnkpkcz", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wq3n3vp0kzlx3qnkpkcz.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "b0gpvmi2qy9ncxevez9o", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b0gpvmi2qy9ncxevez9o.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "neieqel3oncevws6jpm7", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/neieqel3oncevws6jpm7.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "plp4wlphfzu2orus2ssd", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plp4wlphfzu2orus2ssd.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "u1bnzbq2stqgswp7fwy3", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u1bnzbq2stqgswp7fwy3.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "i90knasy5ghetawc0wyo", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i90knasy5ghetawc0wyo.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "scyqgohrncybgm8fmku1", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyqgohrncybgm8fmku1.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "efjdjdj7obzgd54qkjsl", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/efjdjdj7obzgd54qkjsl.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "ls8ltzjv1fuccokh2kvh", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ls8ltzjv1fuccokh2kvh.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "gssxstbvmyolx9ggary2", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gssxstbvmyolx9ggary2.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "metroid-prime-hunters", 
+    "summary": "The famous Metroid series lands on the Nintendo DS with Metroid Prime: Hunters. A once-strong race has gone extinct, leaving powerful artifacts to be found by bounty hunters from across the galaxy. The game features a variety of bounty hunters, both old and new, to the series. It also features multiple competitive game modes--such as deathmatch and king of the hill--for battling wirelessly with up to three other players.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435464, 
+        268435487, 
+        536870915, 
+        536870916, 
+        536871049, 
+        536871365, 
+        536871389, 
+        536871470, 
+        536871859, 
+        536871882, 
+        536872201, 
+        536872225, 
+        536872352, 
+        536872375, 
+        536872552, 
+        536872594, 
+        536872651, 
+        536873323, 
+        536874743, 
+        536875056, 
+        536875057, 
+        536875073, 
+        536875081, 
+        536875083, 
+        536875198, 
+        536875242, 
+        536875298, 
+        536875301, 
+        536875303, 
+        536875305, 
+        536875309, 
+        536875326, 
+        536875358, 
+        536875422, 
+        536875434, 
+        536875464, 
+        536875465, 
+        536875538, 
+        536875606, 
+        536875621, 
+        536875642, 
+        536875672, 
+        536875804, 
+        536875837, 
+        536875870, 
+        536875902, 
+        536875951, 
+        536876021, 
+        536876055, 
+        536876353, 
+        536876391, 
+        536876469, 
+        536876567, 
+        536876633, 
+        536876756, 
+        536876974, 
+        536877008, 
+        536877045, 
+        536877142, 
+        536877204, 
+        536877210, 
+        536877216, 
+        536877224, 
+        536877263, 
+        536877443, 
+        536877531, 
+        536877620, 
+        536877755, 
+        536877933, 
+        536877938, 
+        536877950, 
+        536879647, 
+        536880072, 
+        536880262, 
+        536880583, 
+        536880839, 
+        536881015, 
+        536881146, 
+        536881163, 
+        536881248, 
+        536881508, 
+        536881510, 
+        536881536, 
+        536882169, 
+        536882507, 
+        536882838, 
+        536882846, 
+        536882847, 
+        536883573, 
+        536883731, 
+        536883757, 
+        536884021, 
+        536884022, 
+        536884076, 
+        536884145, 
+        536884151, 
+        536887191, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 78.24660035627221, 
+    "total_rating_count": 14, 
+    "updated_at": 1525463642366, 
+    "url": "https://www.igdb.com/games/metroid-prime-hunters", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "z_GeoRC71BI"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Metroid_Prime_Hunters"
+        }
+    ]
+}

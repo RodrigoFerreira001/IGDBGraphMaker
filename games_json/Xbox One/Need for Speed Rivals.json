@@ -1,0 +1,349 @@
+{
+    "aggregated_rating": 80.2307692307692, 
+    "aggregated_rating_count": 15, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "NFS Rivals"
+        }
+    ], 
+    "category": 0, 
+    "collection": 12, 
+    "cover": {
+        "cloudinary_id": "xirj0xspbzdxhiegdlqn", 
+        "height": 2361, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xirj0xspbzdxhiegdlqn.jpg", 
+        "width": 1773
+    }, 
+    "created_at": 1369776154474, 
+    "developers": [
+        347, 
+        965
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is an arcade-style racing game in which players can select sports cars to race through realistic county highways. Players can proceed through the game as a street racer or a police cruiser; the storyline follows the rivalry between the two groups. As racers, players must flee from the police and can deliberately crash into police cruisers or other racers. In addition to crashing into racers, police cruisers can use various tools/weapons to thwart racers' progress: spike strips, electric/electromagnetic mines or shockwave devices, and a \u201cshock ram\u201d that hits cars with a burst of compressed air. Collisions are often accompanied by slow-motion effects and crashing sounds."
+    }, 
+    "first_release_date": 1384473600000, 
+    "game_engines": [
+        2
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        28856, 
+        7333, 
+        105, 
+        19934, 
+        11171, 
+        40470, 
+        90099, 
+        3772, 
+        17001, 
+        15443
+    ], 
+    "genres": [
+        10, 
+        13
+    ], 
+    "hypes": 1, 
+    "id": 2074, 
+    "keywords": [
+        1333, 
+        1459, 
+        1669, 
+        1783, 
+        2543, 
+        4157, 
+        4221, 
+        4361, 
+        4520, 
+        4578, 
+        4890, 
+        5306, 
+        5507, 
+        5783, 
+        6077, 
+        7082, 
+        7086, 
+        7087, 
+        7088, 
+        7089
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 6, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Need for Speed Rivals", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 8.0, 
+    "publishers": [
+        1
+    ], 
+    "rating": 69.4499487499977, 
+    "rating_count": 63, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384473600000, 
+            "human": "2013-Nov-15", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385683200000, 
+            "human": "2013-Nov-29", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1393027200000, 
+            "human": "2014-Feb-22", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384992000000, 
+            "human": "2013-Nov-21", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385078400000, 
+            "human": "2013-Nov-22", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384992000000, 
+            "human": "2013-Nov-21", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384819200000, 
+            "human": "2013-Nov-19", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1384992000000, 
+            "human": "2013-Nov-21", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385078400000, 
+            "human": "2013-Nov-22", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385078400000, 
+            "human": "2013-Nov-22", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1385078400000, 
+            "human": "2013-Nov-22", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1409788800000, 
+            "human": "2014-Sep-04", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 5, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "m35bcce1bqnp6k6utxdo", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m35bcce1bqnp6k6utxdo.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "rqgcced5bpjiic8wtiwm", 
+            "height": 1190, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rqgcced5bpjiic8wtiwm.jpg", 
+            "width": 2000
+        }, 
+        {
+            "cloudinary_id": "vdw5vvcuq901gckojmpj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vdw5vvcuq901gckojmpj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "q2fg20ux8srqbhfyiapk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q2fg20ux8srqbhfyiapk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yald1zjkvljo9e4ovqip", 
+            "height": 1950, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yald1zjkvljo9e4ovqip.jpg", 
+            "width": 3600
+        }
+    ], 
+    "slug": "need-for-speed-rivals", 
+    "summary": "Players assume the role of both cops and lawbreakers in Need for Speed: Rivals, which is the inaugural outing of Ghost Games \u2013 the rebranded EA Gothenburg studio in Sweden. Ghost Games is made up of talent moved over from UK-based Criterion Games, best known for its work on the Burnout series and shooter Black, along with former DICE staff.", 
+    "tags": [
+        1, 
+        38, 
+        268435466, 
+        268435469, 
+        536872245, 
+        536872371, 
+        536872581, 
+        536872695, 
+        536873455, 
+        536875069, 
+        536875133, 
+        536875273, 
+        536875432, 
+        536875490, 
+        536875802, 
+        536876218, 
+        536876419, 
+        536876695, 
+        536876989, 
+        536877994, 
+        536877998, 
+        536877999, 
+        536878000, 
+        536878001, 
+        1073741825, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        38
+    ], 
+    "total_rating": 74.84035899038345, 
+    "total_rating_count": 78, 
+    "updated_at": 1528728707158, 
+    "url": "https://www.igdb.com/games/need-for-speed-rivals", 
+    "videos": [
+        {
+            "name": "Teaser", 
+            "video_id": "RLWNp1Y9-Zs"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Need_for_Speed_Rivals"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://nfs.wikia.com/wiki/Need_for_Speed:_Rivals"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.needforspeed.com"
+        }
+    ]
+}

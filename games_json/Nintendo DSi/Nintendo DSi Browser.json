@@ -1,0 +1,83 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ruvkeh5g2ixb1t8wusjo", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ruvkeh5g2ixb1t8wusjo.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1517399165485, 
+    "first_release_date": 1225497600000, 
+    "id": 85310, 
+    "name": "Nintendo DSi Browser", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        70
+    ], 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1225497600000, 
+            "human": "2008-Nov-01", 
+            "m": 11, 
+            "platform": 159, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1238716800000, 
+            "human": "2009-Apr-03", 
+            "m": 4, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1238889600000, 
+            "human": "2009-Apr-05", 
+            "m": 4, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qije6vx1riyt64in8fnx", 
+            "height": 262, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qije6vx1riyt64in8fnx.jpg", 
+            "width": 176
+        }, 
+        {
+            "cloudinary_id": "ngvmhhjs7nd68hntekzy", 
+            "height": 260, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ngvmhhjs7nd68hntekzy.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "jxsdeqmnvayai3dfcemm", 
+            "height": 260, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jxsdeqmnvayai3dfcemm.jpg", 
+            "width": 346
+        }
+    ], 
+    "slug": "nintendo-dsi-browser", 
+    "summary": "Download the free Nintendo DSi Browser from the Nintendo DSi Shop and surf the Internet using your Nintendo DSi! With the Nintendo DSi Browser, you can check your e-mails, stay up to date with all the latest news and explore the web whenever a wireless Internet connection is available.", 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1518076026847, 
+    "url": "https://www.igdb.com/games/nintendo-dsi-browser", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://nintendo.co.uk/NOE/en_GB/games/dsiware/nintendo_dsi_browser_12139.html"
+        }
+    ]
+}

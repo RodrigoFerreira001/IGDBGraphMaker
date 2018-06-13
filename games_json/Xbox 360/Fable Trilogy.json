@@ -1,0 +1,77 @@
+{
+    "category": 3, 
+    "collection": 92, 
+    "cover": {
+        "cloudinary_id": "pzzubkv5txwqolsqrl9t", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pzzubkv5txwqolsqrl9t.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1516806905839, 
+    "developers": [
+        6
+    ], 
+    "first_release_date": 1391731200000, 
+    "game_modes": [
+        1
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "id": 83837, 
+    "keywords": [
+        2453
+    ], 
+    "name": "Fable Trilogy", 
+    "platforms": [
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        1010
+    ], 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1391731200000, 
+            "human": "2014-Feb-07", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1391731200000, 
+            "human": "2014-Feb-07", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "slug": "fable-trilogy", 
+    "tags": [
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1516806949357, 
+    "url": "https://www.igdb.com/games/fable-trilogy", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://fable.wikia.com/wiki/Fable_Trilogy"
+        }
+    ]
+}

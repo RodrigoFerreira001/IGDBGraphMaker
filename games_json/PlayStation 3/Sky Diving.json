@@ -1,0 +1,49 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Go! Sports Skydiving"
+        }
+    ], 
+    "category": 0, 
+    "created_at": 1501499776014, 
+    "first_release_date": 1199923200000, 
+    "id": 52823, 
+    "name": "Sky Diving", 
+    "platforms": [
+        9
+    ], 
+    "popularity": 2.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1199923200000, 
+            "human": "2008-Jan-10", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1202342400000, 
+            "human": "2008-Feb-07", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1202342400000, 
+            "human": "2008-Feb-07", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2008
+        }
+    ], 
+    "slug": "sky-diving", 
+    "updated_at": 1528779296275, 
+    "url": "https://www.igdb.com/games/sky-diving"
+}

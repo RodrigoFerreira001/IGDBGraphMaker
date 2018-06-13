@@ -1,0 +1,361 @@
+{
+    "aggregated_rating": 73.3333333333333, 
+    "aggregated_rating_count": 8, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "TDU 2"
+        }, 
+        {
+            "comment": "Acronym", 
+            "name": "TDU2"
+        }
+    ], 
+    "category": 0, 
+    "collection": 588, 
+    "cover": {
+        "cloudinary_id": "ngu3jljda3mzsjqsptg8", 
+        "height": 1500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ngu3jljda3mzsjqsptg8.jpg", 
+        "width": 1062
+    }, 
+    "created_at": 1401776610039, 
+    "developers": [
+        2053
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "9930"
+    }, 
+    "first_release_date": 1297123200000, 
+    "game_engines": [
+        8
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        5
+    ], 
+    "games": [
+        36662, 
+        11423, 
+        7215, 
+        28113, 
+        28951, 
+        13163, 
+        10965, 
+        19082, 
+        11198, 
+        98
+    ], 
+    "genres": [
+        10
+    ], 
+    "id": 7216, 
+    "keywords": [
+        271, 
+        735, 
+        1158, 
+        1293, 
+        1459, 
+        1783, 
+        2071, 
+        2452, 
+        3425, 
+        4004, 
+        4134, 
+        4135, 
+        4149, 
+        4157, 
+        4205, 
+        4245, 
+        4285, 
+        4388, 
+        4647, 
+        4823, 
+        4854, 
+        4869, 
+        5150, 
+        5474, 
+        5572, 
+        5585, 
+        5657, 
+        5783, 
+        5791, 
+        5887, 
+        6079, 
+        6196, 
+        6376, 
+        7086, 
+        7112, 
+        7315, 
+        7343, 
+        8281, 
+        9069, 
+        9359, 
+        9768, 
+        9785, 
+        9965, 
+        12462, 
+        13485
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 8, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Test Drive Unlimited 2", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        82, 
+        74
+    ], 
+    "rating": 61.7117334303179, 
+    "rating_count": 26, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1300320000000, 
+            "human": "2011-Mar-17", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1297382400000, 
+            "human": "2011-Feb-11", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1297123200000, 
+            "human": "2011-Feb-08", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1297123200000, 
+            "human": "2011-Feb-08", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1297123200000, 
+            "human": "2011-Feb-08", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1297296000000, 
+            "human": "2011-Feb-10", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1297296000000, 
+            "human": "2011-Feb-10", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1297296000000, 
+            "human": "2011-Feb-10", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1297382400000, 
+            "human": "2011-Feb-11", 
+            "m": 2, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1297382400000, 
+            "human": "2011-Feb-11", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1309392000000, 
+            "human": "2011-Jun-30", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1309392000000, 
+            "human": "2011-Jun-30", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ddrcpazdlkxireocklr8", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ddrcpazdlkxireocklr8.jpg", 
+            "width": 1680
+        }, 
+        {
+            "cloudinary_id": "g0ihebgyrresckkirqrk", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g0ihebgyrresckkirqrk.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "hzvsgbkko8wcntvbhmpr", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hzvsgbkko8wcntvbhmpr.jpg", 
+            "width": 1680
+        }, 
+        {
+            "cloudinary_id": "a7yvhyxvq0rw1cxfnqnb", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a7yvhyxvq0rw1cxfnqnb.jpg", 
+            "width": 1680
+        }, 
+        {
+            "cloudinary_id": "ht5om6evma3wlfxzbxcf", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ht5om6evma3wlfxzbxcf.jpg", 
+            "width": 1440
+        }
+    ], 
+    "slug": "test-drive-unlimited-2", 
+    "summary": "Test Drive Unlimited 2 (abbreviated as TDU2) is an open world racing video game developed by Eden Games and published by Atari. It is the tenth installment of the series, and the second to be marketed under the Unlimited franchise. It is also the second game in the series to be based on an open world styled gameplay. It was the final game released by Eden Games before being shut down by Atari, SA in 2013.", 
+    "tags": [
+        38, 
+        268435466, 
+        536871183, 
+        536871647, 
+        536872070, 
+        536872205, 
+        536872371, 
+        536872695, 
+        536872983, 
+        536873364, 
+        536874337, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875061, 
+        536875069, 
+        536875117, 
+        536875157, 
+        536875197, 
+        536875300, 
+        536875559, 
+        536875735, 
+        536875766, 
+        536875781, 
+        536876062, 
+        536876386, 
+        536876484, 
+        536876497, 
+        536876569, 
+        536876695, 
+        536876703, 
+        536876799, 
+        536876991, 
+        536877108, 
+        536877288, 
+        536877998, 
+        536878024, 
+        536878227, 
+        536878255, 
+        536879193, 
+        536879981, 
+        536880271, 
+        536880680, 
+        536880697, 
+        536880877, 
+        536883374, 
+        536884397
+    ], 
+    "themes": [
+        38
+    ], 
+    "total_rating": 67.5225333818256, 
+    "total_rating_count": 34, 
+    "updated_at": 1528389494766, 
+    "url": "https://www.igdb.com/games/test-drive-unlimited-2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "8JaJ1c2AQfE"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 5, 
+            "url": "https://twitter.com/TDU2"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/testdriveunlimited2"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/9930"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.testdriveunlimited2.com/"
+        }
+    ]
+}

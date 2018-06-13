@@ -1,0 +1,139 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ggh3alfvuosd2sxdtua5", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ggh3alfvuosd2sxdtua5.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1495794772884, 
+    "external": {
+        "steam": "416040"
+    }, 
+    "first_release_date": 1440115200000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        25640, 
+        34919, 
+        33603, 
+        36962, 
+        40524, 
+        55888, 
+        25311, 
+        65827, 
+        16468, 
+        32283
+    ], 
+    "genres": [
+        15, 
+        32
+    ], 
+    "id": 34233, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "CLASH", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        9153
+    ], 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1440115200000, 
+            "human": "2015-Aug-21", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1479168000000, 
+            "human": "2016-Nov-15", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "i77juw6oeuf9xsv7irhb", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i77juw6oeuf9xsv7irhb.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "mw3wot2qhnnydyyqxdeq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mw3wot2qhnnydyyqxdeq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "cws8ypqzaxa1cxxr7zf6", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cws8ypqzaxa1cxxr7zf6.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "z7yo9tuv7vxlse3roxmx", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z7yo9tuv7vxlse3roxmx.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "pqzwbotakqjowcycvz1u", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pqzwbotakqjowcycvz1u.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "clash", 
+    "summary": "Clash is a hard-core action/rpg arena blend. With a wide variety of skills to mix and match that inspires creativity and unique styles, Clash lives up to its goal as an action game for the brainy. Play multiplayer with friends or compete in the single-player league by making your way up the leader-board.", 
+    "tags": [
+        1, 
+        268435471, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523405400139, 
+    "url": "https://www.igdb.com/games/clash", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.ultimagames.net"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/416040"
+        }
+    ]
+}

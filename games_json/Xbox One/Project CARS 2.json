@@ -1,0 +1,288 @@
+{
+    "aggregated_rating": 83.875, 
+    "aggregated_rating_count": 11, 
+    "category": 0, 
+    "collection": 3925, 
+    "cover": {
+        "cloudinary_id": "q626gsoxuo8gzivukc3s", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/q626gsoxuo8gzivukc3s.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1483751393251, 
+    "developers": [
+        356
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is a racing simulation game in which players select and drive real world cars around a variety of international tracks. Players can race in several game modes that include Career, Quick Play, and Private Testing. The word \u201chell\u201d appears within the text of the game."
+    }, 
+    "external": {
+        "steam": "378860"
+    }, 
+    "first_release_date": 1506038400000, 
+    "game_engines": [
+        237
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        36926, 
+        27081, 
+        36872, 
+        26772, 
+        28552, 
+        28951, 
+        14363, 
+        28540, 
+        54789, 
+        36952
+    ], 
+    "genres": [
+        10, 
+        13
+    ], 
+    "hypes": 8, 
+    "id": 26709, 
+    "keywords": [
+        155, 
+        484, 
+        895, 
+        1099, 
+        1148, 
+        3425, 
+        4154, 
+        4157, 
+        4205, 
+        4224, 
+        4345, 
+        4357, 
+        12087, 
+        12152, 
+        12556, 
+        16828, 
+        16894
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 16, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Project CARS 2", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons."
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1, 
+        2, 
+        7
+    ], 
+    "popularity": 11.66666666666667, 
+    "publishers": [
+        248
+    ], 
+    "pulse_count": 124, 
+    "rating": 70.0, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1506038400000, 
+            "human": "2017-Sep-22", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506038400000, 
+            "human": "2017-Sep-22", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506038400000, 
+            "human": "2017-Sep-22", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506038400000, 
+            "human": "2017-Sep-22", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506038400000, 
+            "human": "2017-Sep-22", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506038400000, 
+            "human": "2017-Sep-22", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ykn9skfcnzuovabi7fow", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ykn9skfcnzuovabi7fow.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "py0znmqjamfkskcbrocg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/py0znmqjamfkskcbrocg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "aazgbviaxhl18lo98upv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aazgbviaxhl18lo98upv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vetdkc2klo4kua24lx9o", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vetdkc2klo4kua24lx9o.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qjdwasv81qv7i4mwodly", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qjdwasv81qv7i4mwodly.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "project-cars-2", 
+    "summary": "Project CARS 2 is the next evolution in the award-winning racing series, featuring the most iconic cars under the most thrilling of conditions to deliver the \u201cUltimate Driver Journey\u201d experience. Created by gamers, tested by world-class racing drivers, and the definitive choice of e-Sports pros \u2013 Project CARS 2 brings together the essence of motorsports racing in the most beautiful, authentically crafted, and technically advanced racing game on the planet.", 
+    "tags": [
+        32, 
+        268435466, 
+        268435469, 
+        536871067, 
+        536871396, 
+        536871807, 
+        536872011, 
+        536872060, 
+        536874337, 
+        536875066, 
+        536875069, 
+        536875117, 
+        536875136, 
+        536875257, 
+        536875269, 
+        536882999, 
+        536883064, 
+        536883468, 
+        536887740, 
+        536887806, 
+        1073741831, 
+        1073741826, 
+        1073741825
+    ], 
+    "themes": [
+        32
+    ], 
+    "total_rating": 76.9375, 
+    "total_rating_count": 15, 
+    "updated_at": 1528356755422, 
+    "url": "https://www.igdb.com/games/project-cars-2", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "eSoHPrmf2SU"
+        }, 
+        {
+            "name": "Gamescom 2017 Trailer", 
+            "video_id": "OpAL6J-33vc"
+        }, 
+        {
+            "name": "E3 2017 Trailer", 
+            "video_id": "AIemtktUpds"
+        }, 
+        {
+            "name": "McLaren Gameplay Trailer", 
+            "video_id": "mDS9EbCK1yE"
+        }, 
+        {
+            "name": "Rallycross Gameplay Trailer", 
+            "video_id": "zvDbqyzb_Is"
+        }, 
+        {
+            "name": "Announcement Trailer", 
+            "video_id": "Fvyuou1HXmU"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.slightlymadstudios.com/"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/projectcarsgame"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/projectcarsgame"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/projectcarsgame"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/projectcarsgame"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Project_CARS_2"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://projectcars.wikia.com/wiki/Project_CARS_2"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/378860"
+        }
+    ]
+}

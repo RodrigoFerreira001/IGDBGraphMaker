@@ -1,0 +1,201 @@
+{
+    "category": 0, 
+    "collection": 212, 
+    "cover": {
+        "cloudinary_id": "rly2nddy9omcqwwq17lp", 
+        "height": 362, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rly2nddy9omcqwwq17lp.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1390753568902, 
+    "developers": [
+        614
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "70650"
+    }, 
+    "first_release_date": 1016755200000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        65832, 
+        18167, 
+        11588, 
+        8197, 
+        19083, 
+        72373, 
+        18387, 
+        25311, 
+        60044, 
+        25222
+    ], 
+    "genres": [
+        9, 
+        15, 
+        33
+    ], 
+    "id": 4236, 
+    "keywords": [
+        350, 
+        1395, 
+        1495, 
+        1682, 
+        1757, 
+        2274, 
+        2678, 
+        2875, 
+        3630, 
+        3831, 
+        4140, 
+        4210, 
+        4287, 
+        4496, 
+        4571, 
+        5116, 
+        5453, 
+        5652, 
+        5943, 
+        7026
+    ], 
+    "name": "Worms Blast", 
+    "platforms": [
+        6, 
+        14, 
+        24, 
+        21, 
+        8
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        104, 
+        23
+    ], 
+    "rating": 78.9301785620253, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1016755200000, 
+            "human": "2002-Mar-22", 
+            "m": 3, 
+            "platform": 6, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1017273600000, 
+            "human": "2002-Mar-28", 
+            "m": 3, 
+            "platform": 8, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1031875200000, 
+            "human": "2002-Sep-13", 
+            "m": 9, 
+            "platform": 21, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1039132800000, 
+            "human": "2002-Dec-06", 
+            "m": 12, 
+            "platform": 24, 
+            "y": 2002
+        }, 
+        {
+            "category": 2, 
+            "date": 1104451200000, 
+            "human": "2004", 
+            "m": 12, 
+            "platform": 14, 
+            "y": 2004
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dlvublsylaei6wrowur3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dlvublsylaei6wrowur3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "u7fccmtacnhzd25bpeg3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u7fccmtacnhzd25bpeg3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vfgmuqxmvycqfvogwux3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vfgmuqxmvycqfvogwux3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wkymflkkhn25ty5lb6ia", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wkymflkkhn25ty5lb6ia.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uzvcs71y4o4cdxzwgoib", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uzvcs71y4o4cdxzwgoib.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "worms-blast", 
+    "summary": "Fall in line for fast, furious fire fights with Worms\u2122 Blast. Your mission: launch your worm marine into hostile waters and blast your way to survival through intense puzzle action! Take the big chunk of puzzle-styled gameplay and slice into 60 fun-sized missions.", 
+    "tags": [
+        1, 
+        27, 
+        268435465, 
+        268435471, 
+        268435489, 
+        536871262, 
+        536872307, 
+        536872407, 
+        536872594, 
+        536872669, 
+        536873186, 
+        536873590, 
+        536873787, 
+        536874542, 
+        536874743, 
+        536875052, 
+        536875122, 
+        536875199, 
+        536875408, 
+        536875483, 
+        536876028, 
+        536876365, 
+        536876564, 
+        536876855, 
+        536877938
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 78.9301785620253, 
+    "total_rating_count": 6, 
+    "updated_at": 1523275881555, 
+    "url": "https://www.igdb.com/games/worms-blast", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.facebook.com/WormsTeam17"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/70650"
+        }
+    ]
+}

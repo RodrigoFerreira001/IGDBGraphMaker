@@ -1,0 +1,546 @@
+{
+    "aggregated_rating": 80.7058823529412, 
+    "aggregated_rating_count": 18, 
+    "alternative_names": [
+        {
+            "comment": "Acronym", 
+            "name": "BL2"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "orcpmk0dze3pttsgvznj", 
+            "height": 850, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/orcpmk0dze3pttsgvznj.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "bcfe0wi4uafakcwzzwf7", 
+            "height": 690, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bcfe0wi4uafakcwzzwf7.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "vphjffestszq5pydnou1", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vphjffestszq5pydnou1.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "gh2rt4dnr5ssmdg8kark", 
+            "height": 740, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gh2rt4dnr5ssmdg8kark.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "qiqr9c6y1z5amdxowri6", 
+            "height": 700, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qiqr9c6y1z5amdxowri6.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "pc74wogsfjwwmz3vl54h", 
+            "height": 585, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pc74wogsfjwwmz3vl54h.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "jakcswssjib1ftna1mjj", 
+            "height": 690, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jakcswssjib1ftna1mjj.jpg", 
+            "width": 1000
+        }
+    ], 
+    "category": 0, 
+    "collection": 225, 
+    "cover": {
+        "cloudinary_id": "juo46dkp07tjm2khu1hq", 
+        "height": 360, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/juo46dkp07tjm2khu1hq.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1325698169076, 
+    "developers": [
+        148
+    ], 
+    "dlcs": [
+        13927, 
+        13923, 
+        13926, 
+        13922, 
+        13920, 
+        13928, 
+        13921, 
+        13925, 
+        13924, 
+        75690
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "This is a first-person shooter in which players join rebel forces to take down an oppressive corporation on the fictional planet of Pandora. As players explore open-world environments, they complete missions to gain experience and increase their characters' skills/abilities. Players use machine guns, sniper rifles, flamethrowers, explosives, and weaponized vehicles to kill human-like characters and hostile aliens in frequent combat. Firefights contain realistic gunfire/explosions; injured enemies scream and emit exaggerated splashes of blood. Various weapons result in dismembered limbs or bloody gibs. Some missions depict intense acts of violence: viewing characters getting electrocuted; shooting a man in the face; killing players' incinerating a cult member as part of a ritual sacrifice. The dialogue contains jokes/one-liners that reference sexual material (e.g., \u201cI will hang myself from my own tombstone if in you I can't put my bone,\u201d\u201cIf there's anything they love more than getting to second base with their sisters, it's cars,\u201d\u201cBacon is for sycophants and products of incest.\u201d); during some sequences, players can find and collect adult-themed magazines\u2014though no actual nudity is depicted. One mission requires players to consume three alcoholic beverages from a bar before they can progress. The words \u201csh*t,\u201d\u201cp*ssies,\u201d and \u201ca*shole\u201d can be heard in the dialogue, in addition to language censored by audible bleeps (e.g., \u201cGod-[bleep]-ing-dammit\u201d)."
+    }, 
+    "external": {
+        "steam": "49520"
+    }, 
+    "first_release_date": 1347926400000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        498, 
+        1877, 
+        7329, 
+        6032, 
+        36950, 
+        1905, 
+        25657, 
+        7333, 
+        11364, 
+        25300
+    ], 
+    "genres": [
+        5, 
+        12
+    ], 
+    "hypes": 1, 
+    "id": 1011, 
+    "keywords": [
+        350, 
+        453, 
+        505, 
+        540, 
+        923, 
+        970, 
+        1026, 
+        1459, 
+        1710, 
+        2030, 
+        4245, 
+        4257, 
+        4446, 
+        4571, 
+        4572, 
+        4609, 
+        4660, 
+        4698, 
+        4712, 
+        4726, 
+        4787, 
+        4869, 
+        4870, 
+        4884, 
+        4888, 
+        4897, 
+        4907, 
+        5025, 
+        5213, 
+        5350, 
+        5353, 
+        5447, 
+        5575, 
+        5615, 
+        5633, 
+        5959, 
+        6131, 
+        6197, 
+        6250, 
+        6253, 
+        6305, 
+        6352, 
+        6463, 
+        7405, 
+        7420, 
+        9497, 
+        11142, 
+        11803, 
+        16721
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": true, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Borderlands 2", 
+    "pegi": {
+        "rating": 5, 
+        "synopsis": "The content of this game is suitable for persons aged 18 years and over only.\r\nIt contains: Extreme violence - Strong language\r\nThis game allows the player to interact with other players ONLINE."
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        46, 
+        9, 
+        12, 
+        3
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 14.0, 
+    "publishers": [
+        8, 
+        3753, 
+        73
+    ], 
+    "pulse_count": 6, 
+    "rating": 87.91917468293138, 
+    "rating_count": 569, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1355875200000, 
+            "human": "2012-Dec-19", 
+            "m": 12, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1401235200000, 
+            "human": "2014-May-28", 
+            "m": 5, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1348185600000, 
+            "human": "2012-Sep-21", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1347926400000, 
+            "human": "2012-Sep-18", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1347926400000, 
+            "human": "2012-Sep-18", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1347926400000, 
+            "human": "2012-Sep-18", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1351123200000, 
+            "human": "2012-Oct-25", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1351123200000, 
+            "human": "2012-Oct-25", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1351123200000, 
+            "human": "2012-Oct-25", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1399939200000, 
+            "human": "2014-May-13", 
+            "m": 5, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1348099200000, 
+            "human": "2012-Sep-20", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 3, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1348185600000, 
+            "human": "2012-Sep-21", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1348099200000, 
+            "human": "2012-Sep-20", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1348185600000, 
+            "human": "2012-Sep-21", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1348185600000, 
+            "human": "2012-Sep-21", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 7, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1348099200000, 
+            "human": "2012-Sep-20", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1348185600000, 
+            "human": "2012-Sep-21", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 7, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1412035200000, 
+            "human": "2014-Sep-30", 
+            "m": 9, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1401235200000, 
+            "human": "2014-May-28", 
+            "m": 5, 
+            "platform": 46, 
+            "region": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1417651200000, 
+            "human": "2014-Dec-04", 
+            "m": 12, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ithhctwgt8rsxbxe5uy5", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ithhctwgt8rsxbxe5uy5.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "eocdvaynboqmud9hmysu", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eocdvaynboqmud9hmysu.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "bz4asonezfuq945jg1qr", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bz4asonezfuq945jg1qr.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "ixynqzoedwo8vc5nzqma", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ixynqzoedwo8vc5nzqma.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "balxsfafzeyy3ki3sc0z", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/balxsfafzeyy3ki3sc0z.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "borderlands-2", 
+    "storyline": "The opening cutscene introduces the four new Vault Hunters as they ride a train on Pandora. However, the train is a trap set by Handsome Jack, and it explodes. The Vault Hunters regain consciousness in a frozen wasteland and are found by the last remaining Hyperion CL4P-TP (\"Claptrap\") unit. The Guardian Angel contacts the Vault Hunters and instructs them to accompany Claptrap to the city of Sanctuary, and to join the Crimson Raiders, an anti-Hyperion resistance movement, in order to defeat Handsome Jack. Claptrap and the Vault Hunters are able to escape the frozen wastes after defeating Captain Flynt, the local bandit leader, and retaking Claptrap's boat. Along the way, Handsome Jack taunts the Vault Hunters, while the Guardian Angel offers advice and comfort. \nUpon arriving at the gates of Sanctuary, the Vault Hunters are asked to rescue Roland, now leader of the Crimson Raiders, who has been captured by a bounty hunter called the Firehawk. The Vault Hunters meet the Firehawk, who turns out to be Lilith(an existing and playable character in Borderlands), whose powers as a siren have been significantly enhanced by the new supply of eridium. Lilith informs the Vault Hunters that Roland was actually captured by a group of bandits. After fighting through the bandits' territory, the Vault Hunters rescue Roland and return to Sanctuary. \nRoland and Lilith learn that the Vault Key is being transported aboard a Hyperion train, and task the Vault Hunters to retrieve it. To accomplish the mission, the Vault Hunters enlist the aid of former Vault Hunter Mordecai, and of Tiny Tina, a psychotic explosives-obsessed thirteen-year-old. The Vault Hunters derail the train, but instead of finding the Vault Key, they encounter Wilhelm, a powerful Hyperion cyborg. After Wilhelm's defeat, the Vault Hunters recover his power core, which Roland recommends be used as the power source for Sanctuary's shields. The power core turns out to be a trap; it allows the Guardian Angel, who is actually working for Jack, to lower the city's shields and render it vulnerable to a bombardment from the Hyperion moon satellite. Lilith saves Sanctuary, which was originally a large spacecraft, by activating its engines and teleporting it away; for the rest of the game, Sanctuary exists as a flying city in the sky. \nJack's true plan is revealed: to open Pandora's second Vault and unleash The Warrior, a powerful lava, eridium, and rock creature controlled by whomever releases it. Additionally, he is forcing Angel to help him charge the Vault Key more quickly than usual. Angel communicates with the group in Sanctuary, and despite hostile treatment from Roland, divulges that the Vault Key is kept with her in a Hyperion facility. She also shares information about the formidable defenses of the facility. The Vault Hunters embark upon a series of missions in order to assemble what is needed to overcome these defenses, including obtaining an upgrade for Claptrap, visiting the Hyperion city of Opportunity, and enlisting the aid of Brick, now leader of the Slab clan of bandits. During the process, Mordecai's pet bird Bloodwing is captured and killed by Handsome Jack; a grief-stricken Mordecai vows revenge and joins the other three former Vault Hunters at Sanctuary. Roland and the Vault Hunters assault the Hyperion compound and meet Angel, who is not only a real person, but a siren, and Handsome Jack's daughter. She requests to be killed in order to stop her father from charging the Vault Key and gaining control of The Warrior. Handsome Jack sends in waves of security forces in order to protect his daughter, but ultimately, Roland and the Vault Hunters, with the help of late arrival Lilith, successfully kill Angel. An enraged Handsome Jack teleports in, kills Roland, and captures Lilith, whom he forces to resume charging the Vault Key in Angel's stead. Lilith manages to teleport the Vault Hunter out of the facility and back to Sanctuary. \nMordecai and Brick decide to learn the location of the second Vault and confront Handsome Jack and The Warrior. While the Vault Hunters travel to the Hyperion Information Annex and obtains the Vault's location, the two steal a Hyperion ship. The Vault Hunters approach on foot, battling elite Hyperion security forces, while Brick and Mordecai are shot down but left alive. Ultimately, the Vault Hunters confront, battle, and defeat Handsome Jack himself, but arrive too late to prevent him from opening the Vault. Handsome Jack summons The Warrior, a gargantuan dragon-like lava creature, and orders it to kill the Vault Hunters. After a long battle, the Vault Hunters defeat the Warrior, and executes Handsome Jack in the aftermath. \nBrick and Mordecai arrive just as Lilith attempts to destroy the Vault Key. However, she accidentally activates a secret information bank containing a huge map of the galaxy with several Vaults marked on it. Lilith remarks that \"there ain't no rest for the wicked\" before the screen fades to black.", 
+    "summary": "Five years after the events of Borderlands, a valuable mineral called \"Eridium\" starts flourishing through Pandora's crust. Handsome Jack, the leader of the Hyperion Corporation, secures this new resource and uses it to rule over Pandora with an iron fist. Meanwhile, rumors of an even larger Vault hidden on Pandora spread across the galaxy, drawing a new group of Vault Hunters to the planet in search of it.", 
+    "tags": [
+        1, 
+        18, 
+        27, 
+        33, 
+        268435461, 
+        268435468, 
+        536871262, 
+        536871365, 
+        536871417, 
+        536871452, 
+        536871835, 
+        536871882, 
+        536871938, 
+        536872371, 
+        536872622, 
+        536872942, 
+        536875157, 
+        536875169, 
+        536875358, 
+        536875483, 
+        536875484, 
+        536875521, 
+        536875572, 
+        536875610, 
+        536875624, 
+        536875638, 
+        536875699, 
+        536875781, 
+        536875782, 
+        536875796, 
+        536875800, 
+        536875809, 
+        536875819, 
+        536875937, 
+        536876125, 
+        536876262, 
+        536876265, 
+        536876359, 
+        536876487, 
+        536876527, 
+        536876545, 
+        536876871, 
+        536877043, 
+        536877109, 
+        536877162, 
+        536877165, 
+        536877217, 
+        536877264, 
+        536877375, 
+        536878317, 
+        536878332, 
+        536880409, 
+        536882054, 
+        536882715, 
+        536887633, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        18, 
+        27, 
+        33
+    ], 
+    "time_to_beat": {
+        "completely": 360000, 
+        "hastly": 115560, 
+        "normally": 207000
+    }, 
+    "total_rating": 84.3125285179363, 
+    "total_rating_count": 587, 
+    "updated_at": 1528684365311, 
+    "url": "https://www.igdb.com/games/borderlands-2", 
+    "videos": [
+        {
+            "name": "Teaser", 
+            "video_id": "8rmOUoBmChA"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "MCWJUSulnro"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "nicvyhrmTDs"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "qgcAq34Sifw"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "ERe3wZdIAtc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.borderlands2.com/"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/BorderlandsGame"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/borderlandsgame"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/49520"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/borderlands"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Borderlands_2"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://borderlands.wikia.com/wiki/Borderlands_2"
+        }
+    ]
+}

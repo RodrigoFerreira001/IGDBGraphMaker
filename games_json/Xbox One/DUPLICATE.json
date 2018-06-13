@@ -1,0 +1,125 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 0, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qdcqabqdanngrzsfumre", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qdcqabqdanngrzsfumre.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1475431178279, 
+    "developers": [
+        2345
+    ], 
+    "external": {
+        "steam": "423950"
+    }, 
+    "first_release_date": 1466467200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        23175, 
+        37022, 
+        55289, 
+        59516, 
+        25646, 
+        42080, 
+        44191, 
+        12579, 
+        25311, 
+        1221
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 24532, 
+    "keywords": [
+        1094
+    ], 
+    "name": "DUPLICATE", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        423
+    ], 
+    "pulse_count": 7, 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1466467200000, 
+            "human": "2016-Jun-21", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mdevjvavn8apzv6ybb6f", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mdevjvavn8apzv6ybb6f.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nwrberdyfuwzvkzzmoc3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nwrberdyfuwzvkzzmoc3.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "txgiix53e1sdyumcjyoo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/txgiix53e1sdyumcjyoo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gp3ddnw2emztgmutpd51", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gp3ddnw2emztgmutpd51.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xxpehpelt9ivhz8dglsu", 
+            "height": 330, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xxpehpelt9ivhz8dglsu.jpg", 
+            "width": 660
+        }
+    ], 
+    "slug": "duplicate--1", 
+    "summary": "A zombie outbreak eradicated all hope of returning life back to normal, now only survival lives on. Run, hide and fight your way through the undead as Randall searches for his family in this gorgeous, gritty, destroyed world.", 
+    "tags": [
+        1, 
+        268435487, 
+        536872006
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1527510595231, 
+    "url": "https://www.igdb.com/games/duplicate--1", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.deadlightgame.com"
+        }
+    ]
+}

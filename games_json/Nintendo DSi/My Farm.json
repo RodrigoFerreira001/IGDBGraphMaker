@@ -1,0 +1,61 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "iqkkcaz3omz4td30cufz", 
+        "height": 673, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iqkkcaz3omz4td30cufz.jpg", 
+        "width": 1181
+    }, 
+    "created_at": 1517426087338, 
+    "first_release_date": 1282521600000, 
+    "id": 85610, 
+    "name": "My Farm", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1283472000000, 
+            "human": "2010-Sep-03", 
+            "m": 9, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1282521600000, 
+            "human": "2010-Aug-23", 
+            "m": 8, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ynrudgvjf4fy7fw7154c", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ynrudgvjf4fy7fw7154c.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "dzct2deugp9ii0ned5b3", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dzct2deugp9ii0ned5b3.jpg", 
+            "width": 272
+        }
+    ], 
+    "slug": "my-farm--1", 
+    "summary": "My Farm is a livestock farming simulation game.", 
+    "updated_at": 1518074284801, 
+    "url": "https://www.igdb.com/games/my-farm--1", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.my-farm.org"
+        }
+    ]
+}

@@ -1,0 +1,343 @@
+{
+    "aggregated_rating": 70.7142857142857, 
+    "aggregated_rating_count": 9, 
+    "category": 0, 
+    "collection": 527, 
+    "cover": {
+        "cloudinary_id": "zcysnxvf8dmqs3idnqu9", 
+        "height": 10000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zcysnxvf8dmqs3idnqu9.jpg", 
+        "width": 8260
+    }, 
+    "created_at": 1465848309124, 
+    "developers": [
+        841, 
+        899, 
+        3655
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is a rhythm-and-dance simulation game in which players perform choreographed routines by following the movements of on-screen characters. Players score points by accurately moving their bodies in time to the music and scrolling indicators. Some songs contain suggestive references: \u201cHe. . .scanned everything I had under my top\u201d; \u201cA little less conversation and a little more touch my body.\u201d Other song lyrics contain allusions to violence (e.g., \u201cMachine gun firing at the ones who run\u201d) and alcohol references (e.g., \u201cWasted, and the more I drink the more I think about you\u201d). "
+    }, 
+    "external": {
+        "steam": "446560"
+    }, 
+    "first_release_date": 1477353600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        28113, 
+        37067, 
+        19082, 
+        54524, 
+        11423, 
+        19407, 
+        11529, 
+        28213, 
+        11588, 
+        36660
+    ], 
+    "genres": [
+        7
+    ], 
+    "hypes": 3, 
+    "id": 19550, 
+    "keywords": [
+        412, 
+        1293, 
+        4134, 
+        4137, 
+        4245, 
+        4523, 
+        4650, 
+        4883
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 6, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 8, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Just Dance 2017", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons."
+    }, 
+    "platforms": [
+        6, 
+        41, 
+        9, 
+        48, 
+        12, 
+        49, 
+        5, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        104
+    ], 
+    "pulse_count": 8, 
+    "rating": 89.6435874566847, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1509062400000, 
+            "human": "2017-Oct-27", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1509062400000, 
+            "human": "2017-Oct-27", 
+            "m": 10, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477612800000, 
+            "human": "2016-Oct-28", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 41, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 12, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 49, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 9, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1477353600000, 
+            "human": "2016-Oct-25", 
+            "m": 10, 
+            "platform": 48, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1488499200000, 
+            "human": "2017-Mar-03", 
+            "m": 3, 
+            "platform": 130, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "oco7hargmkigdwhvx6fn", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oco7hargmkigdwhvx6fn.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "bspg0cogc0ojll3ngifc", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bspg0cogc0ojll3ngifc.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "ikdafxlokdr5leo88azm", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ikdafxlokdr5leo88azm.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "qdo5fsemnmhe2xejnk5s", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qdo5fsemnmhe2xejnk5s.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "iz9hntlkunblchwuuxs7", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iz9hntlkunblchwuuxs7.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "xc5w1vjom11o38udy3gg", 
+            "height": 426, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xc5w1vjom11o38udy3gg.jpg", 
+            "width": 758
+        }, 
+        {
+            "cloudinary_id": "lohlm43lqsj42tqz1i58", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lohlm43lqsj42tqz1i58.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "r9dkah09oqbyygiizjch", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r9dkah09oqbyygiizjch.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qpita3kyjhgrck4w0yyf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qpita3kyjhgrck4w0yyf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ldznuufiqeyjscnzu8ho", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ldznuufiqeyjscnzu8ho.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zhisewwtngn3insf3o63", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zhisewwtngn3insf3o63.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "just-dance-2017", 
+    "summary": "Grab your friends and family: it\u2019s time to dance! Just Dance is back with over 40 new tracks, 6 games modes, and ever more songs through Just Dance Unlimited subscription service! Featuring the ultimate tracklist including Cheap Thrills\u00a0by Sia Ft. Sean Paul, Sorry by Justin Bieber and many more!", 
+    "tags": [
+        27, 
+        40, 
+        268435463, 
+        536871324, 
+        536872205, 
+        536875046, 
+        536875049, 
+        536875157, 
+        536875435, 
+        536875562, 
+        536875795, 
+        1073741828
+    ], 
+    "themes": [
+        27, 
+        40
+    ], 
+    "total_rating": 80.17893658548519, 
+    "total_rating_count": 15, 
+    "updated_at": 1528354503445, 
+    "url": "https://www.igdb.com/games/just-dance-2017", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "aMC1yYM07ZU"
+        }, 
+        {
+            "name": "Just Dance World Cup Trailer", 
+            "video_id": "HNI2qsi6MYE"
+        }, 
+        {
+            "name": "Gamescom 2016 Trailer", 
+            "video_id": "C2MoVVFAcr0"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "mJ3WtHUKW9U"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/446560"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://just-dance.ubisoft.com/"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Just_Dance_2017"
+        }
+    ]
+}

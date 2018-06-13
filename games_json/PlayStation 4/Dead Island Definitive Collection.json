@@ -1,0 +1,245 @@
+{
+    "aggregated_rating": 61.0, 
+    "aggregated_rating_count": 9, 
+    "category": 3, 
+    "collection": 349, 
+    "cover": {
+        "cloudinary_id": "lyu2v6tunc5ts8qmtgo3", 
+        "height": 374, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lyu2v6tunc5ts8qmtgo3.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1464869544179, 
+    "developers": [
+        108
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1464652800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        44076, 
+        7329, 
+        59516, 
+        68142, 
+        7350, 
+        29525, 
+        26192, 
+        25646, 
+        21429, 
+        7291
+    ], 
+    "genres": [
+        5, 
+        12, 
+        25
+    ], 
+    "id": 19399, 
+    "keywords": [
+        5, 
+        453, 
+        982, 
+        1120, 
+        1293, 
+        4134, 
+        4245, 
+        4311, 
+        4588
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dead Island Definitive Collection", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        423
+    ], 
+    "pulse_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1464652800000, 
+            "human": "2016-May-31", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464652800000, 
+            "human": "2016-May-31", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464652800000, 
+            "human": "2016-May-31", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464652800000, 
+            "human": "2016-May-31", 
+            "m": 5, 
+            "platform": 6, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464652800000, 
+            "human": "2016-May-31", 
+            "m": 5, 
+            "platform": 48, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464652800000, 
+            "human": "2016-May-31", 
+            "m": 5, 
+            "platform": 49, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "y3vgu0bu75b18hbiimla", 
+            "height": 844, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y3vgu0bu75b18hbiimla.jpg", 
+            "width": 1500
+        }, 
+        {
+            "cloudinary_id": "c6h2ygq3qgjef8iqonmj", 
+            "height": 844, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c6h2ygq3qgjef8iqonmj.jpg", 
+            "width": 1500
+        }, 
+        {
+            "cloudinary_id": "nf18mwjaqmtamwi212nj", 
+            "height": 844, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nf18mwjaqmtamwi212nj.jpg", 
+            "width": 1500
+        }, 
+        {
+            "cloudinary_id": "ndeifmt1ae80zhupd4nv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ndeifmt1ae80zhupd4nv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bswetdfvhlwgkqk9nork", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bswetdfvhlwgkqk9nork.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "dead-island-definitive-collection", 
+    "summary": "The game that re-defined the Zombie genre - fully remastered. Paradise meets Hell! Welcome to the Zombie Apocalypse experience of a lifetime \u2013 and now more beautiful than ever. Caught in the midst of an epic zombie outbreak on the tropical island of Banoi, your only thought is: Survival!\n\n- Luscious Improved graphics \n and game models \n- Glorious 1080p resolution\n - Photorealistic lighting \n system with physically \n based shading \n- Incl. Dead Island Retro Game", 
+    "tags": [
+        1, 
+        19, 
+        21, 
+        268435461, 
+        268435468, 
+        268435481, 
+        536870917, 
+        536871365, 
+        536871894, 
+        536872032, 
+        536872205, 
+        536875046, 
+        536875157, 
+        536875223, 
+        536875500, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        19, 
+        21
+    ], 
+    "total_rating": 61.0, 
+    "total_rating_count": 9, 
+    "updated_at": 1516633871211, 
+    "url": "https://www.igdb.com/games/dead-island-definitive-collection", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "65mbaZqaHlM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://deadisland.deepsilver.com/us/index.html"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/deadislandgame"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/deadislandgameuk"
+        }
+    ]
+}

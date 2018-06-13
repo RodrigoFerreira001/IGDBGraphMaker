@@ -1,0 +1,110 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "lnr1a1feoefkfboyaxnn", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lnr1a1feoefkfboyaxnn.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1495836866198, 
+    "external": {
+        "steam": "357480"
+    }, 
+    "first_release_date": 1442275200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "id": 35530, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Frozen Free Fall: Snowball Fight", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        95
+    ], 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1442275200000, 
+            "human": "2015-Sep-15", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1442275200000, 
+            "human": "2015-Sep-15", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rehqbuyfira2q9sc8ihw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rehqbuyfira2q9sc8ihw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rug94odym665iekxldsc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rug94odym665iekxldsc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "sazoz01adzeqbsjswghu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sazoz01adzeqbsjswghu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wxcde8e4s1avqagzsbit", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wxcde8e4s1avqagzsbit.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hqwr069jr3hcsbmtjlb2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hqwr069jr3hcsbmtjlb2.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "frozen-free-fall-snowball-fight", 
+    "summary": "Frozen Free Fall: Snowball Fight is an epic matching puzzle game now featuring 375 challenging levels, a local multiplayer mode, stunning HD graphics and more.", 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1528353494034, 
+    "url": "https://www.igdb.com/games/frozen-free-fall-snowball-fight", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/357480"
+        }
+    ]
+}

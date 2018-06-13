@@ -1,0 +1,79 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vwyqqz2n9th51bm2tuh5", 
+        "height": 384, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vwyqqz2n9th51bm2tuh5.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1517346088925, 
+    "first_release_date": 1288915200000, 
+    "id": 84905, 
+    "name": "Rytmik: Rock Edition", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1288915200000, 
+            "human": "2010-Nov-05", 
+            "m": 11, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1291593600000, 
+            "human": "2010-Dec-06", 
+            "m": 12, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "uj1hiflakdi0vkqlphk4", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uj1hiflakdi0vkqlphk4.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "cibrlqojp62tecp3rd9e", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cibrlqojp62tecp3rd9e.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "uw8ggcjwsbhrywndd8cp", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uw8ggcjwsbhrywndd8cp.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "dnrenxbrbvolcgwdvuwp", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dnrenxbrbvolcgwdvuwp.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "o03jm9vbaxjjesd9v5rf", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/o03jm9vbaxjjesd9v5rf.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "rytmik-rock-edition", 
+    "summary": "Rytmik Rock Edition is a pocket music station.", 
+    "updated_at": 1518007017575, 
+    "url": "https://www.igdb.com/games/rytmik-rock-edition", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://rytmik-rock.cinemax.cz/"
+        }
+    ]
+}

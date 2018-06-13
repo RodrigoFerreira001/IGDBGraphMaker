@@ -1,0 +1,171 @@
+{
+    "aggregated_rating": 64.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Minna de Spelunker Z"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u307f\u3093\u306a\u3067\u30b9\u30da\u30e9\u30f3\u30ab\u30fcZ"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2317, 
+    "cover": {
+        "cloudinary_id": "s6cacumwkixatojo8vc6", 
+        "height": 640, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/s6cacumwkixatojo8vc6.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1469432382659, 
+    "developers": [
+        13526
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "-"
+    }, 
+    "first_release_date": 1426723200000, 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        55752, 
+        36868, 
+        26766, 
+        17001, 
+        117, 
+        28154, 
+        51485, 
+        19174, 
+        26848, 
+        19448
+    ], 
+    "genres": [
+        8, 
+        31
+    ], 
+    "id": 21587, 
+    "keywords": [
+        16, 
+        92, 
+        510, 
+        2049, 
+        2071, 
+        2385, 
+        2415, 
+        4134, 
+        4161, 
+        4239, 
+        4245, 
+        4400, 
+        4990
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": true
+        }
+    ], 
+    "name": "Spelunker World", 
+    "platforms": [
+        46, 
+        48
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        5670, 
+        26
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1447200000000, 
+            "human": "2015-Nov-11", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1432166400000, 
+            "human": "2015-May-21", 
+            "m": 5, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1426723200000, 
+            "human": "2015-Mar-19", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2015
+        }
+    ], 
+    "slug": "spelunker-world", 
+    "summary": "\"In SPELUNKER WORLD, players take the role of a Spelunker, following in the footsteps of his father who disappeared 10 years ago. Players can venture into caverns solo or together with up to six players online in search of legendary treasures while avoiding dangerous pitfalls, boulders and wicked creatures. Hidden within every nook and cranny are various power ups and unlocks to customize characters\u2019 skills and appearances. The title offers an array of adorable pets that aid players as they uncover deeper and dangerous caves.\"", 
+    "tags": [
+        1, 
+        268435464, 
+        268435487, 
+        536870928, 
+        536871004, 
+        536871422, 
+        536872961, 
+        536872983, 
+        536873297, 
+        536873327, 
+        536875046, 
+        536875073, 
+        536875151, 
+        536875157, 
+        536875312, 
+        536875902, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 64.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1516680600120, 
+    "url": "https://www.igdb.com/games/spelunker-world", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "___ERwaLRAc"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 5, 
+            "url": "https://twitter.com/spelunker_world"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.spelunkerworld.com/"
+        }
+    ]
+}

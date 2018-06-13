@@ -1,0 +1,248 @@
+{
+    "aggregated_rating": 85.0, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "name": "Aqua Kitty: Milk Mine Defender DX"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "c52vksjp0rt1d4ajiab8", 
+        "height": 263, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/c52vksjp0rt1d4ajiab8.jpg", 
+        "width": 191
+    }, 
+    "created_at": 1421445285583, 
+    "developers": [
+        4614
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "263880"
+    }, 
+    "first_release_date": 1349222400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        72373, 
+        27314, 
+        19448, 
+        68287, 
+        25300, 
+        64204, 
+        36950, 
+        10039, 
+        7350, 
+        25311
+    ], 
+    "genres": [
+        5, 
+        32
+    ], 
+    "id": 8642, 
+    "keywords": [
+        166, 
+        350, 
+        970, 
+        1494, 
+        2152, 
+        2493, 
+        4134, 
+        4240, 
+        4329, 
+        4440, 
+        4507, 
+        4609, 
+        4619, 
+        4629, 
+        4940
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 36, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Aqua Kitty: Milk Mine Defender", 
+    "platforms": [
+        45, 
+        92, 
+        46, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "pulse_count": 1, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1349222400000, 
+            "human": "2012-Oct-03", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1349222400000, 
+            "human": "2012-Oct-03", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1416960000000, 
+            "human": "2014-Nov-26", 
+            "m": 11, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1391385600000, 
+            "human": "2014-Feb-03", 
+            "m": 2, 
+            "platform": 92, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1416873600000, 
+            "human": "2014-Nov-25", 
+            "m": 11, 
+            "platform": 48, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1370736000000, 
+            "human": "2013-Jun-09", 
+            "m": 6, 
+            "platform": 49, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "onqdnmmrav2yjcvo9dln", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/onqdnmmrav2yjcvo9dln.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "viuqjywvkkrkinmflpdw", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/viuqjywvkkrkinmflpdw.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ecjzxgfuqpb6zt7jkb4e", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ecjzxgfuqpb6zt7jkb4e.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "qz0hsm1bthfuflxkkhb5", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qz0hsm1bthfuflxkkhb5.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "zsiwymvoyjl4wynlyc7z", 
+            "height": 484, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zsiwymvoyjl4wynlyc7z.jpg", 
+            "width": 860
+        }
+    ], 
+    "slug": "aqua-kitty-milk-mine-defender", 
+    "summary": "Due to a sudden shortage of milk, cats around the world are forced to seek out new sources to get their fix. You and your team of milk mining kittens have overcome a fear of water to drill down under the ocean seabed and begin extracting vast reserves of what seems to be naturally forming full-fat milk. Get ready for fast paced submarine action, defending the kittens from disruptive mechanical sea creatures. The milk must flow!", 
+    "tags": [
+        1, 
+        18, 
+        27, 
+        268435461, 
+        268435488, 
+        536871078, 
+        536871262, 
+        536871882, 
+        536872406, 
+        536873064, 
+        536873405, 
+        536875046, 
+        536875152, 
+        536875241, 
+        536875352, 
+        536875419, 
+        536875521, 
+        536875531, 
+        536875541, 
+        536875852, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18, 
+        27
+    ], 
+    "total_rating": 82.5, 
+    "total_rating_count": 3, 
+    "updated_at": 1523263425216, 
+    "url": "https://www.igdb.com/games/aqua-kitty-milk-mine-defender", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "mOFNndtOFEs"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "obd66Y8Sb4Q"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/263880"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://tikipod.com/aquakitty/"
+        }
+    ]
+}

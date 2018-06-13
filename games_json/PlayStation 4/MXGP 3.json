@@ -1,0 +1,111 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 2601, 
+    "cover": {
+        "cloudinary_id": "vqfkbeetrbpuzkuh14rw", 
+        "height": 250, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vqfkbeetrbpuzkuh14rw.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1485534283178, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1496102400000, 
+    "id": 26960, 
+    "name": "MXGP 3", 
+    "platforms": [
+        48, 
+        130
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        592
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1511222400000, 
+            "human": "2017-Nov-21", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 2, 
+            "date": 1514678400000, 
+            "human": "2017", 
+            "m": 12, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1496102400000, 
+            "human": "2017-May-30", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mfrqpxkjiwkfaprktgzl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mfrqpxkjiwkfaprktgzl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yzljwr7bcpxzxax98p8u", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yzljwr7bcpxzxax98p8u.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xfs7sjjkdhkqo1br9q7f", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xfs7sjjkdhkqo1br9q7f.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rbosoysqmct2llhmrhx6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rbosoysqmct2llhmrhx6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rlzjy6zx9obipdszfmaj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rlzjy6zx9obipdszfmaj.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "mxgp-3", 
+    "summary": "The new MXGP edition, based on the 2016 season, offers the player a dynamic, ever-more enjoyable gaming experience thanks to a series of innovative graphics and techniques introduced by the new Unreal Engine 4 graphics engine which will take the game experience to a surprising new level.", 
+    "total_rating": 80.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1518074175566, 
+    "url": "https://www.igdb.com/games/mxgp-3", 
+    "videos": [
+        {
+            "name": "Teaser", 
+            "video_id": "62Y8dlsDS1E"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/MXGPVideogame"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://mxgpvideogame.com/"
+        }
+    ]
+}

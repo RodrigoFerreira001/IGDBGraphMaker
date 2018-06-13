@@ -1,0 +1,210 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "name": "Shrek 4"
+        }
+    ], 
+    "category": 0, 
+    "collection": 3073, 
+    "cover": {
+        "cloudinary_id": "dldgsf8s6jzdz6erjvsc", 
+        "height": 352, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dldgsf8s6jzdz6erjvsc.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1389286958491, 
+    "developers": [
+        1863, 
+        61, 
+        62
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 1274140800000, 
+    "franchise": 84, 
+    "franchises": [
+        84
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        47823, 
+        36926, 
+        11423, 
+        59516, 
+        23175, 
+        55752, 
+        13189, 
+        27314, 
+        26914, 
+        55289
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 3670, 
+    "keywords": [
+        296, 
+        1027, 
+        1293, 
+        1563, 
+        4142, 
+        4245, 
+        4345, 
+        4353
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Shrek Forever After", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        6, 
+        39, 
+        9, 
+        12, 
+        20, 
+        5
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        66
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1276819200000, 
+            "human": "2010-Jun-18", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1274140800000, 
+            "human": "2010-May-18", 
+            "m": 5, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1274140800000, 
+            "human": "2010-May-18", 
+            "m": 5, 
+            "platform": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1274140800000, 
+            "human": "2010-May-18", 
+            "m": 5, 
+            "platform": 20, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1274140800000, 
+            "human": "2010-May-18", 
+            "m": 5, 
+            "platform": 9, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1274140800000, 
+            "human": "2010-May-18", 
+            "m": 5, 
+            "platform": 12, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1274140800000, 
+            "human": "2010-May-18", 
+            "m": 5, 
+            "platform": 39, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1274140800000, 
+            "human": "2010-May-18", 
+            "m": 5, 
+            "platform": 6, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gabftjyz9iy5rzahkqyf", 
+            "height": 349, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gabftjyz9iy5rzahkqyf.jpg", 
+            "width": 620
+        }
+    ], 
+    "slug": "shrek-forever-after", 
+    "summary": "Shrek Forever After (also known as Shrek 4, and Shrek Forever After: The Final Chapter) is an action-adventure video game based on the film of the same name. It was released on May 18, 2010, in North America. It is the fourth and final video game based on the movie series of Shrek. \n \nIt was the last DreamWorks Animation game released for Windows and the first Shrek game on the PlayStation 3.", 
+    "tags": [
+        1, 
+        268435487, 
+        536871208, 
+        536871939, 
+        536872205, 
+        536872475, 
+        536875054, 
+        536875157, 
+        536875257, 
+        536875265, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1516085869307, 
+    "url": "https://www.igdb.com/games/shrek-forever-after", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "_yg1CqzC1ak"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Shrek_Forever_After_(video_game)"
+        }
+    ]
+}

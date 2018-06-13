@@ -1,0 +1,464 @@
+{
+    "aggregated_rating": 84.0, 
+    "aggregated_rating_count": 9, 
+    "category": 0, 
+    "collection": 1937, 
+    "cover": {
+        "cloudinary_id": "v1jtxva0er1d25ui0o8p", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/v1jtxva0er1d25ui0o8p.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1396382612124, 
+    "developers": [
+        2542
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "252410"
+    }, 
+    "first_release_date": 1375833600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        27433, 
+        6732, 
+        11423, 
+        7344, 
+        14593, 
+        55752, 
+        3019, 
+        3231, 
+        1907, 
+        18822
+    ], 
+    "genres": [
+        8, 
+        31, 
+        32
+    ], 
+    "id": 5772, 
+    "keywords": [
+        9, 
+        69, 
+        160, 
+        288, 
+        301, 
+        386, 
+        479, 
+        574, 
+        575, 
+        906, 
+        1033, 
+        1128, 
+        1158, 
+        1293, 
+        1494, 
+        1735, 
+        2049, 
+        2177, 
+        4004, 
+        4130, 
+        4134, 
+        4169, 
+        4178, 
+        4218, 
+        4317, 
+        4347, 
+        4386, 
+        4397, 
+        4399, 
+        4430, 
+        4431, 
+        4476, 
+        4544, 
+        4619, 
+        4626, 
+        4717, 
+        4726, 
+        4836, 
+        4841, 
+        4848, 
+        4871, 
+        4910, 
+        4931, 
+        5005, 
+        5022, 
+        5041, 
+        5121, 
+        5314, 
+        5317, 
+        5328, 
+        5349, 
+        5370, 
+        5652, 
+        5654, 
+        5818, 
+        6416, 
+        6914, 
+        6927, 
+        6956, 
+        8199, 
+        9547, 
+        11464, 
+        12009, 
+        12059
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "SteamWorld Dig", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        14, 
+        41, 
+        46, 
+        48, 
+        49, 
+        3, 
+        37, 
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 4.666666666666666, 
+    "pulse_count": 15, 
+    "rating": 78.8199924301935, 
+    "rating_count": 35, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1409184000000, 
+            "human": "2014-Aug-28", 
+            "m": 8, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1409184000000, 
+            "human": "2014-Aug-28", 
+            "m": 8, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1384905600000, 
+            "human": "2013-Nov-20", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1375833600000, 
+            "human": "2013-Aug-07", 
+            "m": 8, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1375920000000, 
+            "human": "2013-Aug-08", 
+            "m": 8, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1517443200000, 
+            "human": "2018-Feb-01", 
+            "m": 2, 
+            "platform": 130, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1433462400000, 
+            "human": "2015-Jun-05", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1395187200000, 
+            "human": "2014-Mar-19", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1395100800000, 
+            "human": "2014-Mar-18", 
+            "m": 3, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1433462400000, 
+            "human": "2015-Jun-05", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1395187200000, 
+            "human": "2014-Mar-19", 
+            "m": 3, 
+            "platform": 48, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1395187200000, 
+            "human": "2014-Mar-19", 
+            "m": 3, 
+            "platform": 46, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1386201600000, 
+            "human": "2013-Dec-05", 
+            "m": 12, 
+            "platform": 6, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1386201600000, 
+            "human": "2013-Dec-05", 
+            "m": 12, 
+            "platform": 14, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1386201600000, 
+            "human": "2013-Dec-05", 
+            "m": 12, 
+            "platform": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1375833600000, 
+            "human": "2013-Aug-07", 
+            "m": 8, 
+            "platform": 37, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "n8hjjtm5oxoxdppgheue", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/n8hjjtm5oxoxdppgheue.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "vvnlnvzlci4mqykmqmwk", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vvnlnvzlci4mqykmqmwk.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "dmrwxdjgtymaxkiggpmp", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dmrwxdjgtymaxkiggpmp.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "wmtvewzlhj5h8pctfcd9", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wmtvewzlhj5h8pctfcd9.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "jpru29ws15sgfnglljwe", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jpru29ws15sgfnglljwe.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "iz7zuo77rsakrqfwmyn0", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iz7zuo77rsakrqfwmyn0.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "ijghktlairyvaubuqgbn", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ijghktlairyvaubuqgbn.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "caathzu7fterb4ozakxm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/caathzu7fterb4ozakxm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tpursno6hv5bl8lsbwit", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tpursno6hv5bl8lsbwit.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lxznzhfelvfhiqdvqnuy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lxznzhfelvfhiqdvqnuy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ksvpzc7zbpamzlicptjy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ksvpzc7zbpamzlicptjy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qcdthxyya3hf5m1walf5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qcdthxyya3hf5m1walf5.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "steamworld-dig", 
+    "summary": "SteamWorld Dig is 2D a platform game that revolves around mining for resources and ores. The objective of the game is to investigate the mines underneath the old Western town Tumbleton in order to unearth the secrets lurking below. The player controls Rusty who is equipped with a pickaxe but the player is given options to upgrade the tools used for digging as progression is made in the game. Besides health, the player also needs coal for light, and water for special abilities. \nSteamWorld Dig has platform elements in that the player runs, jumps and encounter foes, but the main objective is mining. That means that the player builds \u2013 or rather deconstructs \u2013 the game world and creates platforms that way. The player collects resources and other hidden resources which can be brought back to the surface and exchanged for cash. When the player progress in the game new abilities are unlocked. Each playthrough, the mines are randomized, making items and treasure appear in different locations. If the player gets stuck there is a self destruct function, but the players can also buy ladders in the store at the surface to get out of tricky situations. \nWhen progressing deeper down in the cave, the player encounters various enemies with different attack patterns and weak spots. The game features multiple worlds, each with a completely different environment. Dying results in a reparation penalty fee, and the player respawns back on the surface. All the loot that has been accumulated when the player dies can be picked up again.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435487, 
+        268435488, 
+        536870921, 
+        536870981, 
+        536871072, 
+        536871200, 
+        536871213, 
+        536871298, 
+        536871391, 
+        536871486, 
+        536871487, 
+        536871818, 
+        536871945, 
+        536872040, 
+        536872070, 
+        536872205, 
+        536872406, 
+        536872647, 
+        536872961, 
+        536873089, 
+        536874916, 
+        536875042, 
+        536875046, 
+        536875081, 
+        536875090, 
+        536875130, 
+        536875229, 
+        536875259, 
+        536875298, 
+        536875309, 
+        536875311, 
+        536875342, 
+        536875343, 
+        536875388, 
+        536875456, 
+        536875531, 
+        536875538, 
+        536875629, 
+        536875638, 
+        536875748, 
+        536875753, 
+        536875760, 
+        536875783, 
+        536875822, 
+        536875843, 
+        536875917, 
+        536875934, 
+        536875953, 
+        536876033, 
+        536876226, 
+        536876229, 
+        536876240, 
+        536876261, 
+        536876282, 
+        536876564, 
+        536876566, 
+        536876730, 
+        536877328, 
+        536877826, 
+        536877839, 
+        536877868, 
+        536879111, 
+        536880459, 
+        536882376, 
+        536882921, 
+        536882971, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "time_to_beat": {
+        "normally": 28800
+    }, 
+    "total_rating": 81.40999621509675, 
+    "total_rating_count": 44, 
+    "updated_at": 1528430557446, 
+    "url": "https://www.igdb.com/games/steamworld-dig", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Fe-9OPMUz4w"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/SteamWorld_Dig"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://steamworld.wikia.com/wiki/SteamWorld_Dig"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/252410"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://steamworldgames.com/dig/"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "aggregated_rating": 85.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Rockstar Games Presents Beaterator Featuring Timbaland"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "daayjjupdiffqy0s2lqm", 
+        "height": 336, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/daayjjupdiffqy0s2lqm.jpg", 
+        "width": 252
+    }, 
+    "created_at": 1458155338763, 
+    "developers": [
+        308
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1254182400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        16513, 
+        27266, 
+        54678, 
+        36660, 
+        52151, 
+        37067, 
+        25222, 
+        25646, 
+        6732, 
+        76216
+    ], 
+    "genres": [
+        7, 
+        9
+    ], 
+    "id": 18383, 
+    "keywords": [
+        4134, 
+        4137, 
+        4227, 
+        4839, 
+        5328, 
+        7327, 
+        8780, 
+        9140, 
+        13068
+    ], 
+    "name": "Beaterator", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        39, 
+        38
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        29
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1254441600000, 
+            "human": "2009-Oct-02", 
+            "m": 10, 
+            "platform": 38, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1254182400000, 
+            "human": "2009-Sep-29", 
+            "m": 9, 
+            "platform": 38, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1260144000000, 
+            "human": "2009-Dec-07", 
+            "m": 12, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wi9kmz9tlvfu6ieemofx", 
+            "height": 353, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wi9kmz9tlvfu6ieemofx.jpg", 
+            "width": 627
+        }
+    ], 
+    "slug": "beaterator", 
+    "summary": "Beaterator is a portable music maker produced by Rockstar in conjunction with Timbaland.", 
+    "tags": [
+        268435463, 
+        268435465, 
+        536875046, 
+        536875049, 
+        536875139, 
+        536875751, 
+        536876240, 
+        536878239, 
+        536879692, 
+        536880052, 
+        536883980
+    ], 
+    "total_rating": 85.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1520002507970, 
+    "url": "https://www.igdb.com/games/beaterator", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "cpsrhpVp3a4"
+        }
+    ]
+}

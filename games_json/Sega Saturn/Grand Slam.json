@@ -1,0 +1,62 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mgnurh8dxmrposmcvysh", 
+        "height": 266, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mgnurh8dxmrposmcvysh.jpg", 
+        "width": 164
+    }, 
+    "created_at": 1469045817727, 
+    "first_release_date": 823132800000, 
+    "games": [
+        79967, 
+        18467, 
+        22690, 
+        49952, 
+        46670, 
+        42100, 
+        54662, 
+        63831, 
+        37304, 
+        15851
+    ], 
+    "genres": [
+        14, 
+        30
+    ], 
+    "id": 20812, 
+    "keywords": [
+        934, 
+        1166
+    ], 
+    "name": "Grand Slam", 
+    "platforms": [
+        32
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 823132800000, 
+            "human": "1996-Feb-01", 
+            "m": 2, 
+            "platform": 32, 
+            "region": 8, 
+            "y": 1996
+        }
+    ], 
+    "slug": "grand-slam", 
+    "summary": "Grand Slam", 
+    "tags": [
+        268435470, 
+        268435486, 
+        536871846, 
+        536872078
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1515784565095, 
+    "url": "https://www.igdb.com/games/grand-slam"
+}

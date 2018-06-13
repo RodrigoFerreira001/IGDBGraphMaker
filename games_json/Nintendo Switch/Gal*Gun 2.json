@@ -1,0 +1,179 @@
+{
+    "aggregated_rating": 53.25, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 1554, 
+    "cover": {
+        "cloudinary_id": "xpvqaszuuz04jyy0r1pi", 
+        "height": 338, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xpvqaszuuz04jyy0r1pi.jpg", 
+        "width": 247
+    }, 
+    "created_at": 1505796972620, 
+    "developers": [
+        2344
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1521072000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        103281, 
+        68049, 
+        68287, 
+        103020, 
+        103298, 
+        22406, 
+        103292, 
+        78770, 
+        103301, 
+        28465
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 68279, 
+    "keywords": [
+        78, 
+        1025
+    ], 
+    "name": "Gal*Gun 2", 
+    "platforms": [
+        48, 
+        130
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 3.666666666666667, 
+    "publishers": [
+        4091, 
+        2344
+    ], 
+    "pulse_count": 45, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1524528000000, 
+            "human": "2018-Apr-24", 
+            "m": 4, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1523577600000, 
+            "human": "2018-Apr-13", 
+            "m": 4, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1521072000000, 
+            "human": "2018-Mar-15", 
+            "m": 3, 
+            "platform": 130, 
+            "region": 5, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1524528000000, 
+            "human": "2018-Apr-24", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1523577600000, 
+            "human": "2018-Apr-13", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1521072000000, 
+            "human": "2018-Mar-15", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "iua4zkvoi1ytfhrnmmkf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iua4zkvoi1ytfhrnmmkf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "npavvpf3lihezglldhds", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/npavvpf3lihezglldhds.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "l591ki9i1csmqtfb5yr4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l591ki9i1csmqtfb5yr4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hhfic3leka6wecm1c963", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hhfic3leka6wecm1c963.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vdor9j4jfwz5v46nke92", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vdor9j4jfwz5v46nke92.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "gal-star-gun-2", 
+    "summary": "Newest entry in the Gal Gun series.", 
+    "tags": [
+        42, 
+        268435461, 
+        536870990, 
+        536871937, 
+        1073741825
+    ], 
+    "themes": [
+        42
+    ], 
+    "total_rating": 66.625, 
+    "total_rating_count": 4, 
+    "updated_at": 1525588095258, 
+    "url": "https://www.igdb.com/games/gal-star-gun-2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "4PElvbns1sA"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "TxvM0sNglEs"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.galgun.com/"
+        }
+    ]
+}

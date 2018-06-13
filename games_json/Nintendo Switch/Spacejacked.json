@@ -1,0 +1,131 @@
+{
+    "aggregated_rating": 80.3333333333333, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "created_at": 1474295100412, 
+    "external": {
+        "steam": "390680"
+    }, 
+    "first_release_date": 1456444800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        40524, 
+        34919, 
+        76438, 
+        16468, 
+        68324, 
+        37022, 
+        25640, 
+        55289, 
+        75158, 
+        32902
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 24046, 
+    "name": "Spacejacked", 
+    "platforms": [
+        6, 
+        14, 
+        3, 
+        130
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 130, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1456444800000, 
+            "human": "2016-Feb-26", 
+            "m": 2, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1456444800000, 
+            "human": "2016-Feb-26", 
+            "m": 2, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1456444800000, 
+            "human": "2016-Feb-26", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jtqkjne5vgjoavjngzn0", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jtqkjne5vgjoavjngzn0.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "w06zsy5jaxsmcrfn09ke", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w06zsy5jaxsmcrfn09ke.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "yd3f9xenrd6kf856usyu", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yd3f9xenrd6kf856usyu.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "soydj9vsb0cct4hlofvi", 
+            "height": 540, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/soydj9vsb0cct4hlofvi.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "po53c7n0xl3aoaockukt", 
+            "height": 281, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/po53c7n0xl3aoaockukt.jpg", 
+            "width": 500
+        }
+    ], 
+    "slug": "spacejacked", 
+    "summary": "A super fast-paced ARCADE TOWER-DEFENSE. Build turrets and shoot your way through hordes of alien scum as you protect multiple rooms simultaneously!", 
+    "tags": [
+        1, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 75.16666666666666, 
+    "total_rating_count": 3, 
+    "updated_at": 1527166414249, 
+    "url": "https://www.igdb.com/games/spacejacked", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.spacejacked.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/390680"
+        }
+    ]
+}

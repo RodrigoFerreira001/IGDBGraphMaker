@@ -1,0 +1,114 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "l5vopugn9sej9q63ihet", 
+        "height": 294, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/l5vopugn9sej9q63ihet.jpg", 
+        "width": 215
+    }, 
+    "created_at": 1469302478391, 
+    "external": {
+        "steam": "464110"
+    }, 
+    "first_release_date": 1466380800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28277, 
+        63734, 
+        27266, 
+        72412, 
+        63718, 
+        37022, 
+        54998, 
+        55289, 
+        74584, 
+        44191
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 21317, 
+    "name": "Factotum 90", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1505779200000, 
+            "human": "2017-Sep-19", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1466380800000, 
+            "human": "2016-Jun-20", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "efu1yyyneug03sqglnqa", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/efu1yyyneug03sqglnqa.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nrxpcpbvltpyb7fai0dn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nrxpcpbvltpyb7fai0dn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zor2rgrvhyjhtsmz1hrs", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zor2rgrvhyjhtsmz1hrs.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hi5utnjnoax6jlc98muc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hi5utnjnoax6jlc98muc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ufjxenytzhtocrhn2gof", 
+            "height": 640, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ufjxenytzhtocrhn2gof.jpg", 
+            "width": 1138
+        }
+    ], 
+    "slug": "factotum-90", 
+    "summary": "You\u2019re in deep space and something\u2019s collided with the ship. Main power is offline and you\u2019re trapped. It\u2019s lucky you have access to this walker control terminal. It\u2019s a little old but with these two robots and some clever thinking you might be able to get power back online and save the day. Control two walker robots and puzzle your way through 30 levels to restore power, reactivate the life support and solve the mystery of the collision. An unknown voice on the other end of the terminal is your only guide.", 
+    "tags": [
+        268435487, 
+        268435488
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1523394192097, 
+    "url": "https://www.igdb.com/games/factotum-90", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.tacsgames.com/factotum-90-steam"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/464110"
+        }
+    ]
+}

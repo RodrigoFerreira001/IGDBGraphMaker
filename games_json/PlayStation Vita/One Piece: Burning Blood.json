@@ -1,0 +1,307 @@
+{
+    "aggregated_rating": 64.7, 
+    "aggregated_rating_count": 11, 
+    "artworks": [
+        {
+            "cloudinary_id": "rjmffjwyn4jpqgqjakow", 
+            "height": 11589, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rjmffjwyn4jpqgqjakow.jpg", 
+            "width": 8185
+        }
+    ], 
+    "category": 0, 
+    "collection": 1586, 
+    "cover": {
+        "cloudinary_id": "ulmnatguo0g0mmglnqwg", 
+        "height": 492, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ulmnatguo0g0mmglnqwg.jpg", 
+        "width": 446
+    }, 
+    "created_at": 1458520041796, 
+    "developers": [
+        1217
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is a fighting game, based on the One Piece universe, in which players try to save a character from being executed. Players mostly punch and kick each other as they attempt to deplete opponents' health meters. Several characters also have special attacks or dramatic moves that involve blasts of energy, fire or ice, and weapons (i.e., swords, spears). Combat is highlighted by slow-motion effects, frequent cries of pain, and impact sounds. A handful of sequences depict characters impaled with swords or giant fists; cutscenes occasionally contain still images of these injured characters with blood dripping from their wounds or down their faces. A few female characters are depicted with exaggerated-size breasts in low-cut clothing and bikini tops; the dialogue also contains suggestive material (e.g., \u201cRobin! Please show me your panties!\u201d \u201cI asked Robin to show me her panties, but after she agreed\u2026she threw a pair of your briefs on my face!\u201d). Several characters are depicted with lit cigars in their mouths."
+    }, 
+    "external": {
+        "steam": "425220"
+    }, 
+    "first_release_date": 1461196800000, 
+    "franchise": 225, 
+    "franchises": [
+        225
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        11423, 
+        6732, 
+        55752, 
+        7350, 
+        36911, 
+        8968, 
+        27421, 
+        72373, 
+        3277, 
+        21429
+    ], 
+    "genres": [
+        4, 
+        31
+    ], 
+    "id": 18443, 
+    "keywords": [
+        4, 
+        78, 
+        107, 
+        301, 
+        1158, 
+        1333, 
+        4004, 
+        4134, 
+        4141, 
+        4142, 
+        4150, 
+        4151, 
+        4161, 
+        4162, 
+        4178, 
+        4576, 
+        4609, 
+        4670, 
+        4799, 
+        5202, 
+        5259, 
+        16719
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 2, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "One Piece: Burning Blood", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        46, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        248
+    ], 
+    "pulse_count": 1, 
+    "rating": 90.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1467244800000, 
+            "human": "2016-Jun-30", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464912000000, 
+            "human": "2016-Jun-03", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464652800000, 
+            "human": "2016-May-31", 
+            "m": 5, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1461196800000, 
+            "human": "2016-Apr-21", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464912000000, 
+            "human": "2016-Jun-03", 
+            "m": 6, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464912000000, 
+            "human": "2016-Jun-03", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472774400000, 
+            "human": "2016-Sep-02", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464652800000, 
+            "human": "2016-May-31", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1464652800000, 
+            "human": "2016-May-31", 
+            "m": 5, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1461196800000, 
+            "human": "2016-Apr-21", 
+            "m": 4, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "fasahp8lbwyz4eyvpcy4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fasahp8lbwyz4eyvpcy4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yujvtxvy5dg2ohnfi71u", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yujvtxvy5dg2ohnfi71u.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gjgp3qaqzy5okncigiw1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gjgp3qaqzy5okncigiw1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qbpzub6qdfcjcajgr79n", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qbpzub6qdfcjcajgr79n.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jyz9vyhcs1an6wy1t0o3", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jyz9vyhcs1an6wy1t0o3.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "one-piece-burning-blood", 
+    "storyline": "The Paramount War mode acts as One Piece: Burning Blood\u2019s story mode. Playing as either Luffy, Whitebeard, Akainu or Ace, you go through a series of missions from their own perspectives with some side missions unlocked along the way.", 
+    "summary": "One Piece Burning Blood is a dynamic and colourful new fighting game featuring the world\u2019s most famous pirate: Monkey D. Luffy.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435487, 
+        536870916, 
+        536870990, 
+        536871019, 
+        536871213, 
+        536872070, 
+        536872245, 
+        536874916, 
+        536875046, 
+        536875053, 
+        536875054, 
+        536875062, 
+        536875063, 
+        536875073, 
+        536875074, 
+        536875090, 
+        536875488, 
+        536875521, 
+        536875582, 
+        536875711, 
+        536876114, 
+        536876171, 
+        536887631, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 77.35, 
+    "total_rating_count": 13, 
+    "updated_at": 1528356244347, 
+    "url": "https://www.igdb.com/games/one-piece-burning-blood", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "WrpoJhB9Ovw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.onepiece-game.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/425220"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/One_Piece:_Burning_Blood"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/onepiece_games"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/onepiece.videogames/"
+        }
+    ]
+}

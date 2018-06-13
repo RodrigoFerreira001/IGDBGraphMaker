@@ -1,0 +1,85 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mqr2dyhhmfogcxtefwcb", 
+        "height": 204, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mqr2dyhhmfogcxtefwcb.jpg", 
+        "width": 272
+    }, 
+    "created_at": 1517341302102, 
+    "first_release_date": 1281312000000, 
+    "id": 84842, 
+    "name": "Rhythm Core Alpha", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1295568000000, 
+            "human": "2011-Jan-21", 
+            "m": 1, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1281312000000, 
+            "human": "2010-Aug-09", 
+            "m": 8, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ocpfbh4j7rfa9u2jwdag", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ocpfbh4j7rfa9u2jwdag.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "akgm4ovysv5umxksd05t", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/akgm4ovysv5umxksd05t.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "eohehjrfkit3alod3ape", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eohehjrfkit3alod3ape.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "llu5b2jrs0hw7llk5emt", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/llu5b2jrs0hw7llk5emt.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "b57rogriowxmvalmhcmj", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b57rogriowxmvalmhcmj.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "s5lrmigyz5xx8qwunohc", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s5lrmigyz5xx8qwunohc.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "rhythm-core-alpha", 
+    "summary": "Rhythm Core Alpha is an advanced music creation system for the Nintendo DSi.", 
+    "updated_at": 1518082413281, 
+    "url": "https://www.igdb.com/games/rhythm-core-alpha", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.rhythmcorealpha.com"
+        }
+    ]
+}

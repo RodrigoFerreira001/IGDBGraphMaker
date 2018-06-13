@@ -1,0 +1,70 @@
+{
+    "aggregated_rating": 89.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 2347, 
+    "cover": {
+        "cloudinary_id": "dffliqnq3qwjqct1kjqu", 
+        "height": 978, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dffliqnq3qwjqct1kjqu.jpg", 
+        "width": 760
+    }, 
+    "created_at": 1470205290621, 
+    "first_release_date": 1072310400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        5613, 
+        8196, 
+        9760, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        16468, 
+        73075, 
+        11362
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 22100, 
+    "keywords": [
+        246
+    ], 
+    "name": "Culdcept", 
+    "platforms": [
+        8
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1072310400000, 
+            "human": "2003-Dec-25", 
+            "m": 12, 
+            "platform": 8, 
+            "region": 8, 
+            "y": 2003
+        }
+    ], 
+    "slug": "culdcept", 
+    "summary": "A strategy/board game that combines elements of Monopoly and Magic: The Gathering, Culdcept is a direct port of the Dreamcast title of the same name. Features include 480 different cards, 28 stages, and arenas designed by tournament champions from Japan. Initially released in America with a print run of only 30,000 copies the game was later re-printed in a \"Game of the Year\" edition in higher quantities.", 
+    "tags": [
+        17, 
+        268435471, 
+        536871158, 
+        1073741827
+    ], 
+    "themes": [
+        17
+    ], 
+    "total_rating": 89.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1500535517596, 
+    "url": "https://www.igdb.com/games/culdcept"
+}

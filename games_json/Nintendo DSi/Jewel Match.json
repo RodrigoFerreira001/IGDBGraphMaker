@@ -1,0 +1,104 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "rfphic1ikinsatfbirud", 
+        "height": 405, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rfphic1ikinsatfbirud.jpg", 
+        "width": 405
+    }, 
+    "created_at": 1501592994848, 
+    "first_release_date": 1399507200000, 
+    "games": [
+        55036, 
+        29173, 
+        55590, 
+        23345, 
+        19376, 
+        79826, 
+        78884, 
+        73848, 
+        72235, 
+        71497
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 53251, 
+    "keywords": [
+        534, 
+        3782
+    ], 
+    "name": "Jewel Match", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        14446
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1401926400000, 
+            "human": "2014-Jun-05", 
+            "m": 6, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1399507200000, 
+            "human": "2014-May-08", 
+            "m": 5, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jfjlsmbhkqadc3psysll", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jfjlsmbhkqadc3psysll.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "cmreusueqhlbev70rkqm", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cmreusueqhlbev70rkqm.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "majomixjv57hhe6sc98a", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/majomixjv57hhe6sc98a.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "c2xusztj59tm5wqonqkt", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c2xusztj59tm5wqonqkt.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "aankfaagw7eidux9kroo", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aankfaagw7eidux9kroo.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "jewel-match", 
+    "summary": "A classical Match 3 game!", 
+    "tags": [
+        34, 
+        268435471, 
+        536871446, 
+        536874694
+    ], 
+    "themes": [
+        34
+    ], 
+    "updated_at": 1518066557503, 
+    "url": "https://www.igdb.com/games/jewel-match"
+}

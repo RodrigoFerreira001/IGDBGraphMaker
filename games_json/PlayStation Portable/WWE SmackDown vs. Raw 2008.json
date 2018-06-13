@@ -1,0 +1,419 @@
+{
+    "aggregated_rating": 64.1666666666667, 
+    "aggregated_rating_count": 9, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "SVR 2008"
+        }
+    ], 
+    "category": 0, 
+    "collection": 464, 
+    "cover": {
+        "cloudinary_id": "mkxtiguibulzgsypmz2u", 
+        "height": 316, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mkxtiguibulzgsypmz2u.jpg", 
+        "width": 252
+    }, 
+    "created_at": 1392071817445, 
+    "developers": [
+        1059, 
+        1326
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1194566400000, 
+    "franchise": 255, 
+    "franchises": [
+        255
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        31558, 
+        6685, 
+        5299, 
+        6443, 
+        5300, 
+        2265, 
+        19516, 
+        18323, 
+        6442, 
+        5294
+    ], 
+    "genres": [
+        4, 
+        14
+    ], 
+    "id": 5298, 
+    "keywords": [
+        107, 
+        234, 
+        488, 
+        838, 
+        869, 
+        1293, 
+        1333, 
+        4142, 
+        4187, 
+        4226, 
+        4228, 
+        4245, 
+        4266, 
+        4271, 
+        4274, 
+        4277, 
+        4278, 
+        4286, 
+        4287, 
+        4317, 
+        4345, 
+        4359, 
+        4369, 
+        4413, 
+        4509, 
+        4611, 
+        4625, 
+        4645, 
+        4650, 
+        4673, 
+        4804, 
+        4823, 
+        4891, 
+        4903, 
+        4983, 
+        5029, 
+        5278, 
+        5287, 
+        5296, 
+        5298, 
+        5354, 
+        5502, 
+        5694, 
+        5782, 
+        6096, 
+        6258, 
+        6398, 
+        6493, 
+        6494, 
+        6497, 
+        7111, 
+        7300, 
+        7392, 
+        7645, 
+        7647, 
+        8269, 
+        8887, 
+        9071, 
+        9222, 
+        9513, 
+        10460, 
+        11121, 
+        11247, 
+        12001, 
+        12554, 
+        13083
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 30, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "WWE SmackDown vs. Raw 2008", 
+    "platforms": [
+        9, 
+        38, 
+        12, 
+        20, 
+        5, 
+        55, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        197
+    ], 
+    "rating": 56.330515558262, 
+    "rating_count": 11, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1202947200000, 
+            "human": "2008-Feb-14", 
+            "m": 2, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1194566400000, 
+            "human": "2007-Nov-09", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1194912000000, 
+            "human": "2007-Nov-13", 
+            "m": 11, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1202947200000, 
+            "human": "2008-Feb-14", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1195084800000, 
+            "human": "2007-Nov-15", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1194912000000, 
+            "human": "2007-Nov-13", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1194912000000, 
+            "human": "2007-Nov-13", 
+            "m": 11, 
+            "platform": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1194912000000, 
+            "human": "2007-Nov-13", 
+            "m": 11, 
+            "platform": 38, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1194912000000, 
+            "human": "2007-Nov-13", 
+            "m": 11, 
+            "platform": 9, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1194912000000, 
+            "human": "2007-Nov-13", 
+            "m": 11, 
+            "platform": 8, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1194912000000, 
+            "human": "2007-Nov-13", 
+            "m": 11, 
+            "platform": 20, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1194912000000, 
+            "human": "2007-Nov-13", 
+            "m": 11, 
+            "platform": 12, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1194912000000, 
+            "human": "2007-Nov-13", 
+            "m": 11, 
+            "platform": 55, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "sastxkgl4olya8rmgt29", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sastxkgl4olya8rmgt29.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "xclqdy6liwipbvhoutoj", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xclqdy6liwipbvhoutoj.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "zancwv6rzfpmowuc6ccy", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zancwv6rzfpmowuc6ccy.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "p4iqsehjc0xrkppsvzho", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p4iqsehjc0xrkppsvzho.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "qntudzhpiqeeawuvnhl6", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qntudzhpiqeeawuvnhl6.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "vzqzkyi7bqd577oag95z", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vzqzkyi7bqd577oag95z.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ctchvws5zhxvlywixant", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ctchvws5zhxvlywixant.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "lvaravjw4evvns90m7fj", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lvaravjw4evvns90m7fj.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "tfa7ilso1utcyocch8ox", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tfa7ilso1utcyocch8ox.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ibga6xke6j1zlnkvcwds", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ibga6xke6j1zlnkvcwds.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "shfjhad9v0npz1lmtpea", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/shfjhad9v0npz1lmtpea.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "v8bssuerpkakmpmiswvp", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v8bssuerpkakmpmiswvp.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "wwe-smackdown-vs-raw-2008", 
+    "summary": "The 2008 edition in the Smackdown vs. Raw series holds new features to the WWE game franchise. This is the first in the series to include the extremists of ECW, including The Sandman, Marcus Cor Von and CM Punk. \n \nThe game also features a new struggle submission system, new weapon choices including guitars, and eight superstar fighting styles, including Showman, Powerhouse, High-Flyer and more. Each player can now choose a primary and a secondary fighting style. It continues the legend trend and new arenas, such as Wrestlemania 23, Unforgiven and Summerslam as well as the classic superstars like Undertaker, Shawn Michaels and Ric Flair. The roster largely depends on the platform, and some versions include wrestlers not available in the other ones.", 
+    "tags": [
+        268435460, 
+        268435470, 
+        536871019, 
+        536871146, 
+        536871400, 
+        536871750, 
+        536871781, 
+        536872205, 
+        536872245, 
+        536875054, 
+        536875099, 
+        536875138, 
+        536875140, 
+        536875157, 
+        536875178, 
+        536875183, 
+        536875186, 
+        536875189, 
+        536875190, 
+        536875198, 
+        536875199, 
+        536875229, 
+        536875257, 
+        536875271, 
+        536875281, 
+        536875325, 
+        536875421, 
+        536875523, 
+        536875537, 
+        536875557, 
+        536875562, 
+        536875585, 
+        536875716, 
+        536875735, 
+        536875803, 
+        536875815, 
+        536875895, 
+        536875941, 
+        536876190, 
+        536876199, 
+        536876208, 
+        536876210, 
+        536876266, 
+        536876414, 
+        536876606, 
+        536876694, 
+        536877008, 
+        536877170, 
+        536877310, 
+        536877405, 
+        536877406, 
+        536877409, 
+        536878023, 
+        536878212, 
+        536878304, 
+        536878557, 
+        536878559, 
+        536879181, 
+        536879799, 
+        536879983, 
+        536880134, 
+        536880425, 
+        536881372, 
+        536882033, 
+        536882159, 
+        536882913, 
+        536883466, 
+        536883995, 
+        1073741826
+    ], 
+    "total_rating": 60.24859111246435, 
+    "total_rating_count": 20, 
+    "updated_at": 1528605724585, 
+    "url": "https://www.igdb.com/games/wwe-smackdown-vs-raw-2008"
+}

@@ -1,0 +1,225 @@
+{
+    "aggregated_rating": 64.0, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mtsnf7yhplf8eorvdryp", 
+        "height": 700, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mtsnf7yhplf8eorvdryp.jpg", 
+        "width": 584
+    }, 
+    "created_at": 1396651754879, 
+    "developers": [
+        2581
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "244810"
+    }, 
+    "first_release_date": 1379462400000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        6732, 
+        11423, 
+        72373, 
+        19082, 
+        28113, 
+        8968, 
+        7344, 
+        19407, 
+        19448, 
+        7350
+    ], 
+    "genres": [
+        25, 
+        31, 
+        32
+    ], 
+    "id": 5895, 
+    "keywords": [
+        117, 
+        301, 
+        350, 
+        770, 
+        982, 
+        1158, 
+        1494, 
+        3794, 
+        4004, 
+        4134, 
+        4135, 
+        4150, 
+        4196, 
+        4548, 
+        4568, 
+        4756, 
+        4880, 
+        5171, 
+        5305, 
+        5390, 
+        5633, 
+        5811
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Foul Play", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        46, 
+        48, 
+        12
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        634
+    ], 
+    "rating": 80.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1379462400000, 
+            "human": "2013-Sep-18", 
+            "m": 9, 
+            "platform": 12, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1379462400000, 
+            "human": "2013-Sep-18", 
+            "m": 9, 
+            "platform": 6, 
+            "y": 2013
+        }, 
+        {
+            "category": 2, 
+            "date": 1419984000000, 
+            "human": "2014", 
+            "m": 12, 
+            "platform": 48, 
+            "y": 2014
+        }, 
+        {
+            "category": 2, 
+            "date": 1419984000000, 
+            "human": "2014", 
+            "m": 12, 
+            "platform": 46, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "my4jz72pkqkrjet2czdb", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/my4jz72pkqkrjet2czdb.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jknmqnw82nhmt2aehf7k", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jknmqnw82nhmt2aehf7k.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "u10piizsswxwf1lvpwcs", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u10piizsswxwf1lvpwcs.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ecneyah7kddzqfdmnzpi", 
+            "height": 562, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ecneyah7kddzqfdmnzpi.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "jwc289vgvvgu2jq4zbnx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jwc289vgvvgu2jq4zbnx.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "foul-play", 
+    "summary": "Play as the daemon-hunter Baron Dashforth in a side-scrolling co-op brawler set entirely on the grand spectacle of a theatre stage that rewards performance over pummeling. Perform shattering takedowns and reversals!", 
+    "tags": [
+        1, 
+        27, 
+        268435481, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536871213, 
+        536871262, 
+        536871682, 
+        536871894, 
+        536872070, 
+        536872406, 
+        536874706, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875062, 
+        536875108, 
+        536875460, 
+        536875480, 
+        536875668, 
+        536875792, 
+        536876083, 
+        536876217, 
+        536876302, 
+        536876545, 
+        536876723, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 72.0, 
+    "total_rating_count": 7, 
+    "updated_at": 1523267420103, 
+    "url": "https://www.igdb.com/games/foul-play", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "b14M0FeABVs"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/244810"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://mediatonicgames.com/games/foul-play"
+        }
+    ]
+}

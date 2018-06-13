@@ -1,0 +1,93 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "wllsxuwh7ti0wa7yh8jz", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wllsxuwh7ti0wa7yh8jz.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1516353078328, 
+    "first_release_date": 1422921600000, 
+    "game_modes": [
+        2
+    ], 
+    "id": 82434, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 5, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 5, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "RISK", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 1.0, 
+    "rating": 70.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1422921600000, 
+            "human": "2015-Feb-03", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ctsr9l5lblw2xsiqfpsa", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ctsr9l5lblw2xsiqfpsa.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mprlbjaoohfjb0rumg6t", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mprlbjaoohfjb0rumg6t.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jrpjejoz0jdcsscutwvv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jrpjejoz0jdcsscutwvv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dasdvzfadqgc6clplhxk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dasdvzfadqgc6clplhxk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "enbp7llpzoheof9hm3ny", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/enbp7llpzoheof9hm3ny.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "risk--4", 
+    "summary": "Modern combat meets RISK - the classic game of global domination. RISK steps into the near future with modern armies. Using the 2010 rules as standard, Risk offers an exciting strategic experience. Direct the war from your high-tech control room, fighting on the classic map layout on 3D; Deploy tanks, planes and infantry\u2026 All in the modern warfare twist on the classic game of global domination! Xbox Live league play allows you to compete with people from around the world.", 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528058487281, 
+    "url": "https://www.igdb.com/games/risk--4", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "Ui8QX0E6ANw"
+        }
+    ]
+}

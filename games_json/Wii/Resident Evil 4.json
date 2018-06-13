@@ -1,0 +1,632 @@
+{
+    "aggregated_rating": 83.25, 
+    "aggregated_rating_count": 5, 
+    "alternative_names": [
+        {
+            "name": "Resident Evil 4: Wii Edition"
+        }, 
+        {
+            "name": "Biohazard 4"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "RE4"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "zjuapuzoe0ae1qymqee0", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zjuapuzoe0ae1qymqee0.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "kqrlpojxfdqhz3xf2rc4", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kqrlpojxfdqhz3xf2rc4.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "qa9xosljzyjja1273ecr", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qa9xosljzyjja1273ecr.jpg", 
+            "width": 560
+        }, 
+        {
+            "cloudinary_id": "g9viaq0j28chyrvr1qev", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g9viaq0j28chyrvr1qev.jpg", 
+            "width": 630
+        }, 
+        {
+            "cloudinary_id": "apr3mtj5p2vbwaw6dki8", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/apr3mtj5p2vbwaw6dki8.jpg", 
+            "width": 675
+        }, 
+        {
+            "cloudinary_id": "et62cyzd3r3wnorgxlpz", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/et62cyzd3r3wnorgxlpz.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "p9ivorv72xkazsuzifyo", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p9ivorv72xkazsuzifyo.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "g20ysltywpwgpxlzxb3l", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g20ysltywpwgpxlzxb3l.jpg", 
+            "width": 675
+        }, 
+        {
+            "cloudinary_id": "kuaewlsffyqeh9reljll", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kuaewlsffyqeh9reljll.jpg", 
+            "width": 670
+        }, 
+        {
+            "cloudinary_id": "arpmhtobuiwy7h7m07nb", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/arpmhtobuiwy7h7m07nb.jpg", 
+            "width": 640
+        }
+    ], 
+    "category": 0, 
+    "collection": 83, 
+    "cover": {
+        "cloudinary_id": "yj6gl8pylzyvskqki3sy", 
+        "height": 600, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yj6gl8pylzyvskqki3sy.jpg", 
+        "width": 467
+    }, 
+    "created_at": 1319135990000, 
+    "developers": [
+        663
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 1105401600000, 
+    "franchise": 29, 
+    "franchises": [
+        29
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        481, 
+        4786, 
+        1009, 
+        424, 
+        880, 
+        966, 
+        19561, 
+        1985, 
+        7331, 
+        24869
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 974, 
+    "keywords": [
+        5, 
+        79, 
+        98, 
+        129, 
+        274, 
+        339, 
+        512, 
+        594, 
+        687, 
+        864, 
+        1025, 
+        1033, 
+        1120, 
+        1152, 
+        1289, 
+        1293, 
+        1299, 
+        1322, 
+        1345, 
+        1373, 
+        1836, 
+        1935, 
+        1970, 
+        1971, 
+        3297, 
+        3833, 
+        4213, 
+        4246, 
+        4266, 
+        4282, 
+        4302, 
+        4317, 
+        4413, 
+        4414, 
+        4417, 
+        4418, 
+        4428, 
+        4460, 
+        4493, 
+        4525, 
+        4599, 
+        4615, 
+        4625, 
+        4644, 
+        4660, 
+        4681, 
+        4717, 
+        4865, 
+        4880, 
+        4884, 
+        4907, 
+        4918, 
+        4956, 
+        4968, 
+        4974, 
+        4990, 
+        5022, 
+        5213, 
+        5293, 
+        5323, 
+        5362, 
+        5390, 
+        5403, 
+        5451, 
+        5452, 
+        5453, 
+        5465, 
+        5529, 
+        5542, 
+        5599, 
+        5634, 
+        5645, 
+        5662, 
+        5719, 
+        5736, 
+        5755, 
+        5811, 
+        5897, 
+        5911, 
+        5956, 
+        5989, 
+        5998, 
+        6075, 
+        6216, 
+        6239, 
+        6248, 
+        6325, 
+        6326, 
+        6330, 
+        6375, 
+        6377, 
+        6385, 
+        6495, 
+        6590, 
+        6638, 
+        6692, 
+        6745, 
+        6760, 
+        6903, 
+        6916, 
+        6942, 
+        7073, 
+        7074, 
+        7184, 
+        7185, 
+        7405, 
+        7509, 
+        7576, 
+        7670, 
+        8181, 
+        8775, 
+        9035, 
+        9045, 
+        9215, 
+        9307, 
+        9323, 
+        9340, 
+        9364, 
+        9399, 
+        9847, 
+        9875, 
+        10149, 
+        10157, 
+        10190, 
+        10211, 
+        10336, 
+        10527, 
+        10528, 
+        10751, 
+        11533, 
+        11536, 
+        12176, 
+        12177, 
+        12180, 
+        12405, 
+        13112, 
+        16622
+    ], 
+    "name": "Resident Evil 4", 
+    "pegi": {
+        "rating": 5
+    }, 
+    "platforms": [
+        6, 
+        39, 
+        9, 
+        48, 
+        12, 
+        21, 
+        49, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 17.0, 
+    "publishers": [
+        37
+    ], 
+    "pulse_count": 12, 
+    "rating": 91.8873425075188, 
+    "rating_count": 405, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1106784000000, 
+            "human": "2005-Jan-27", 
+            "m": 1, 
+            "platform": 21, 
+            "region": 5, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1111104000000, 
+            "human": "2005-Mar-18", 
+            "m": 3, 
+            "platform": 21, 
+            "region": 1, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1105401600000, 
+            "human": "2005-Jan-11", 
+            "m": 1, 
+            "platform": 21, 
+            "region": 2, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1105401600000, 
+            "human": "2005-Jan-11", 
+            "m": 1, 
+            "platform": 21, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1172707200000, 
+            "human": "2007-Mar-01", 
+            "m": 3, 
+            "platform": 6, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1180569600000, 
+            "human": "2007-May-31", 
+            "m": 5, 
+            "platform": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1248652800000, 
+            "human": "2009-Jul-27", 
+            "m": 7, 
+            "platform": 39, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1315440000000, 
+            "human": "2011-Sep-08", 
+            "m": 9, 
+            "platform": 12, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1315440000000, 
+            "human": "2011-Sep-08", 
+            "m": 9, 
+            "platform": 9, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1130198400000, 
+            "human": "2005-Oct-25", 
+            "m": 10, 
+            "platform": 8, 
+            "y": 2005
+        }, 
+        {
+            "category": 0, 
+            "date": 1472515200000, 
+            "human": "2016-Aug-30", 
+            "m": 8, 
+            "platform": 49, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1472515200000, 
+            "human": "2016-Aug-30", 
+            "m": 8, 
+            "platform": 48, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "a3s41vt8s5iqxkyqxwgb", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a3s41vt8s5iqxkyqxwgb.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ilqodan5xbl3n4xahfut", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ilqodan5xbl3n4xahfut.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "lryozpnzotfirhzjues6", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lryozpnzotfirhzjues6.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "wl5ncifpt1htcqvsiw1b", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wl5ncifpt1htcqvsiw1b.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "nevrmanjrpxl4dtaa3dm", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nevrmanjrpxl4dtaa3dm.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "cmwlzzrahvrlwqbwyeon", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cmwlzzrahvrlwqbwyeon.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "wf6kc0edi8wsqjnkerdl", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wf6kc0edi8wsqjnkerdl.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "gwhqd1czowkolkfadkx0", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gwhqd1czowkolkfadkx0.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "ywo5khe2srmw9irc69uj", 
+            "height": 768, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ywo5khe2srmw9irc69uj.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "kw3iijh4zlabhefmkuwv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kw3iijh4zlabhefmkuwv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "mc6ttuspsvryb7g67sbf", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mc6ttuspsvryb7g67sbf.jpg", 
+            "width": 1440
+        }, 
+        {
+            "cloudinary_id": "otzeoepy1iyffleohdzy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/otzeoepy1iyffleohdzy.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "resident-evil-4", 
+    "summary": "An atmospheric survival horror game with inventive third-person shooting mechanics set six years after the events of Resident Evil 2 (1998), Resident Evil 4 follows Leon S. Kennedy, a former Raccoon City police officer sent to Spain on a secret mission to retrieve the president's daughter from the hands of a mysterious cult. During his mission, he is forced to battle a mind-controlling parasite and its dehumanized hosts.", 
+    "tags": [
+        1, 
+        19, 
+        21, 
+        268435461, 
+        536870917, 
+        536870991, 
+        536871010, 
+        536871041, 
+        536871186, 
+        536871251, 
+        536871424, 
+        536871506, 
+        536871599, 
+        536871776, 
+        536871937, 
+        536871945, 
+        536872032, 
+        536872064, 
+        536872201, 
+        536872205, 
+        536872211, 
+        536872234, 
+        536872257, 
+        536872285, 
+        536872748, 
+        536872847, 
+        536872882, 
+        536872883, 
+        536874209, 
+        536874745, 
+        536875125, 
+        536875158, 
+        536875178, 
+        536875194, 
+        536875214, 
+        536875229, 
+        536875325, 
+        536875326, 
+        536875329, 
+        536875330, 
+        536875340, 
+        536875372, 
+        536875405, 
+        536875437, 
+        536875511, 
+        536875527, 
+        536875537, 
+        536875556, 
+        536875572, 
+        536875593, 
+        536875629, 
+        536875777, 
+        536875792, 
+        536875796, 
+        536875819, 
+        536875830, 
+        536875868, 
+        536875880, 
+        536875886, 
+        536875902, 
+        536875934, 
+        536876125, 
+        536876205, 
+        536876235, 
+        536876274, 
+        536876302, 
+        536876315, 
+        536876363, 
+        536876364, 
+        536876365, 
+        536876377, 
+        536876441, 
+        536876454, 
+        536876511, 
+        536876546, 
+        536876557, 
+        536876574, 
+        536876631, 
+        536876648, 
+        536876667, 
+        536876723, 
+        536876809, 
+        536876823, 
+        536876868, 
+        536876901, 
+        536876910, 
+        536876987, 
+        536877128, 
+        536877151, 
+        536877160, 
+        536877237, 
+        536877238, 
+        536877242, 
+        536877287, 
+        536877289, 
+        536877297, 
+        536877407, 
+        536877502, 
+        536877550, 
+        536877604, 
+        536877657, 
+        536877672, 
+        536877815, 
+        536877828, 
+        536877854, 
+        536877985, 
+        536877986, 
+        536878096, 
+        536878097, 
+        536878317, 
+        536878421, 
+        536878488, 
+        536878582, 
+        536879093, 
+        536879687, 
+        536879947, 
+        536879957, 
+        536880127, 
+        536880219, 
+        536880235, 
+        536880252, 
+        536880276, 
+        536880311, 
+        536880759, 
+        536880787, 
+        536881061, 
+        536881069, 
+        536881102, 
+        536881123, 
+        536881248, 
+        536881439, 
+        536881440, 
+        536881663, 
+        536882445, 
+        536882448, 
+        536883088, 
+        536883089, 
+        536883092, 
+        536883317, 
+        536884024, 
+        536887534, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        19, 
+        21
+    ], 
+    "total_rating": 87.56867125375939, 
+    "total_rating_count": 410, 
+    "updated_at": 1528656512321, 
+    "url": "https://www.igdb.com/games/resident-evil-4", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "t1KsnbqkLec"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://residentevil.wikia.com/wiki/Resident_Evil_4"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Resident_Evil_4"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.res-evil.com/re4/"
+        }
+    ]
+}

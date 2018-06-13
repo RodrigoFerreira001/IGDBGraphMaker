@@ -1,0 +1,64 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "neqmqaectgizqfkic8tu", 
+        "height": 536, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/neqmqaectgizqfkic8tu.jpg", 
+        "width": 392
+    }, 
+    "created_at": 1498816401909, 
+    "first_release_date": 594604800000, 
+    "games": [
+        48776, 
+        46663, 
+        42646, 
+        42255, 
+        42253, 
+        42235, 
+        38003, 
+        38001, 
+        37997, 
+        37996
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 41396, 
+    "keywords": [
+        729, 
+        798, 
+        1761, 
+        1898, 
+        4213, 
+        6018
+    ], 
+    "name": "Pachicom", 
+    "platforms": [
+        58
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 594604800000, 
+            "human": "1988-Nov-04", 
+            "m": 11, 
+            "platform": 58, 
+            "region": 8, 
+            "y": 1988
+        }
+    ], 
+    "slug": "pachicom", 
+    "summary": "Pachinko-themed game released in Japan for the MSX, PC-88, Family Computer, and Famicom Disk System. \n \nPachicom is an early pachinko simulator for various Japanese home computers along with Nintendo's Famicom and Famicom Disk System. It gives players the opportunity to play a pachinko table with several hundred small variations, with the goal to earn a high score in the time allotted. \n \nHidden Sounds \nA programmer of this game hid inside the ROM a separate series of sound effects which apparently the management did not like and forced him to change. In protest, the programmer left the following message to ROM hackers inside the code teaching them how to enable the other sounds effects. \n \nYou RETARDS say one thing, then something else later all the time. You're a sound company; quit ignoring pachinko sounds and trying to put these weird sounds in instead! Do you WANT it ti be this hard to hear the balls?! I've left the PREVIOUS sounds, so edit this if you want to hear it. Set hex address AFFC to 1FAF and AFC4 to E0EE to get decent sounds.", 
+    "tags": [
+        268435470, 
+        536871641, 
+        536871710, 
+        536872673, 
+        536872810, 
+        536875125, 
+        536876930
+    ], 
+    "updated_at": 1516770707186, 
+    "url": "https://www.igdb.com/games/pachicom"
+}

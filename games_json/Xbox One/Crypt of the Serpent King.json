@@ -1,0 +1,118 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jwbywitpp2bj96yldjcw", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jwbywitpp2bj96yldjcw.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1495628492482, 
+    "external": {
+        "steam": "528730"
+    }, 
+    "first_release_date": 1482278400000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        16468, 
+        55289, 
+        36608, 
+        34919, 
+        40524, 
+        25311, 
+        72412, 
+        68324, 
+        75813, 
+        37022
+    ], 
+    "genres": [
+        12, 
+        32
+    ], 
+    "id": 31307, 
+    "name": "Crypt of the Serpent King", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1482278400000, 
+            "human": "2016-Dec-21", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1482796800000, 
+            "human": "2016-Dec-27", 
+            "m": 12, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "x5ia28m4ffgjsuthoejy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x5ia28m4ffgjsuthoejy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "eedwh31scowy7o5l3wcu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/eedwh31scowy7o5l3wcu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "beevdwdt2wa6urygaqzl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/beevdwdt2wa6urygaqzl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nk78nt69kkxslp4qsy26", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nk78nt69kkxslp4qsy26.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "k2gpt0sgpiayogifgqo4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k2gpt0sgpiayogifgqo4.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "crypt-of-the-serpent-king", 
+    "summary": "Crypt of the Serpent King is a medieval first-person hack'n'slash dungeon crawler with roguelike elements. Explore randomly generated dungeons, fighting underworld creatures along the way, all while avoiding traps and collecting loot!", 
+    "tags": [
+        1, 
+        268435468, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 50.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523375925164, 
+    "url": "https://www.igdb.com/games/crypt-of-the-serpent-king", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.rendercodegames.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/528730"
+        }
+    ]
+}

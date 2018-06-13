@@ -1,0 +1,139 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mwprj5na77aruuhf4thk", 
+        "height": 411, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mwprj5na77aruuhf4thk.jpg", 
+        "width": 293
+    }, 
+    "created_at": 1482454636915, 
+    "developers": [
+        709
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is a miniature golfing game in which players compete in a variety of themed golf courses (e.g. Ancient Greece, Pirates) located around the world. Players determine the strength and direction of their swings to putt around obstacles, through pipes, and up ramps. "
+    }, 
+    "first_release_date": 1296000000000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        35626, 
+        11588, 
+        76098, 
+        28113, 
+        19083, 
+        51464, 
+        48285, 
+        4955, 
+        72373, 
+        18387
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 26587, 
+    "keywords": [
+        30, 
+        350, 
+        685, 
+        4714, 
+        4715
+    ], 
+    "name": "Mini Golf Resort", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons.\r\nIt contains: This game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        37, 
+        5
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        11832, 
+        11833
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1485388800000, 
+            "human": "2017-Jan-26", 
+            "m": 1, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1482364800000, 
+            "human": "2016-Dec-22", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1314835200000, 
+            "human": "2011-Sep-01", 
+            "m": 9, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1296000000000, 
+            "human": "2011-Jan-26", 
+            "m": 1, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "f4lskvm9guecmbbjdbhe", 
+            "height": 478, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f4lskvm9guecmbbjdbhe.jpg", 
+            "width": 852
+        }, 
+        {
+            "cloudinary_id": "ws9hdjpxhtfrao7g0cp2", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ws9hdjpxhtfrao7g0cp2.jpg", 
+            "width": 853
+        }
+    ], 
+    "slug": "mini-golf-resort", 
+    "summary": "Cartoonish mini-golf game for various Nintendo systems", 
+    "tags": [
+        27, 
+        35, 
+        268435470, 
+        536870942, 
+        536871262, 
+        536871597, 
+        536875626, 
+        536875627, 
+        1073741826
+    ], 
+    "themes": [
+        27, 
+        35
+    ], 
+    "updated_at": 1518072968029, 
+    "url": "https://www.igdb.com/games/mini-golf-resort", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.teyon.com/games/mini-golf-resort-wii/"
+        }
+    ]
+}

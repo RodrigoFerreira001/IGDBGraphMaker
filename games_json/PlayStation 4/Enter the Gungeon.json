@@ -1,0 +1,442 @@
+{
+    "aggregated_rating": 82.2, 
+    "aggregated_rating_count": 13, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Enter the Gungeon: Advanced Gungeons & Dragons"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "n3yorpflbgwcknkc2vgd", 
+        "height": 702, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/n3yorpflbgwcknkc2vgd.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1434476016471, 
+    "developers": [
+        8595
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "311690"
+    }, 
+    "first_release_date": 1459814400000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        6732, 
+        7344, 
+        18822, 
+        19448, 
+        27421, 
+        8968, 
+        17354, 
+        14760, 
+        10232, 
+        18167
+    ], 
+    "genres": [
+        5, 
+        31, 
+        32
+    ], 
+    "hypes": 3, 
+    "id": 11182, 
+    "keywords": [
+        117, 
+        166, 
+        296, 
+        905, 
+        911, 
+        1025, 
+        1098, 
+        1158, 
+        1186, 
+        1510, 
+        1967, 
+        2228, 
+        3486, 
+        3833, 
+        4004, 
+        4134, 
+        4135, 
+        4145, 
+        4150, 
+        4154, 
+        4169, 
+        4246, 
+        4276, 
+        4317, 
+        4332, 
+        4355, 
+        4356, 
+        4363, 
+        4389, 
+        4410, 
+        4418, 
+        4430, 
+        4541, 
+        4625, 
+        4628, 
+        4662, 
+        4796, 
+        4826, 
+        4880, 
+        4882, 
+        4890, 
+        4991, 
+        5005, 
+        5027, 
+        5311, 
+        5342, 
+        5379, 
+        5461, 
+        5548, 
+        5632, 
+        6278, 
+        6510, 
+        6829, 
+        7685, 
+        16829
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Enter the Gungeon", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Non realistic looking violence towards fantasy characters - Non realistic looking violence towards characters which although human are not very detailed"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        48, 
+        49, 
+        3, 
+        130
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 6.666666666666667, 
+    "publishers": [
+        634
+    ], 
+    "pulse_count": 22, 
+    "rating": 70.5113550930416, 
+    "rating_count": 20, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1513209600000, 
+            "human": "2017-Dec-14", 
+            "m": 12, 
+            "platform": 130, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1491350400000, 
+            "human": "2017-Apr-05", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513555200000, 
+            "human": "2017-Dec-18", 
+            "m": 12, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1513209600000, 
+            "human": "2017-Dec-14", 
+            "m": 12, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1459814400000, 
+            "human": "2016-Apr-05", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459814400000, 
+            "human": "2016-Apr-05", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459814400000, 
+            "human": "2016-Apr-05", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459814400000, 
+            "human": "2016-Apr-05", 
+            "m": 4, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459814400000, 
+            "human": "2016-Apr-05", 
+            "m": 4, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459814400000, 
+            "human": "2016-Apr-05", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459814400000, 
+            "human": "2016-Apr-05", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459814400000, 
+            "human": "2016-Apr-05", 
+            "m": 4, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zm5eyaiiuhjlbg5tpswc", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zm5eyaiiuhjlbg5tpswc.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "vlzxx2yrl4ze8d80ykum", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vlzxx2yrl4ze8d80ykum.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "mjlil52aijpmhskmoy8o", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mjlil52aijpmhskmoy8o.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "wuzpx9o4yympofjrslha", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wuzpx9o4yympofjrslha.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ld5bxdprhctrjpcdgvmi", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ld5bxdprhctrjpcdgvmi.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "oz2j4p6nvj6eotcwpxff", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oz2j4p6nvj6eotcwpxff.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ubkzxuu3nzcsy9acmp42", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ubkzxuu3nzcsy9acmp42.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "saye37b3anr8pulxcqrv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/saye37b3anr8pulxcqrv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wfkj2as1ueseo9boaop5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wfkj2as1ueseo9boaop5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ya9xbnow26nirgauee8t", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ya9xbnow26nirgauee8t.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ej9buwvredbsugfzwopo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ej9buwvredbsugfzwopo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "md5sbeeei4gh07txtcta", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/md5sbeeei4gh07txtcta.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "enter-the-gungeon", 
+    "summary": "Enter the Gungeon is a gunfight dungeon crawler following a band of regretful misfits seeking to shoot, loot, dodge roll and table-flip their way to personal absolution by reaching the legendary Gungeon\u2019s ultimate treasure: the gun that can kill the past. Select a hero and battle your way to the bot\u00actom of the Gungeon by surviving a challenging and evolving series of floors filled with the dangerously adorable Gundead and fearsome Gungeon bosses armed to the teeth. Gather precious loot, discover hidden secrets, and chat with opportunistic merchants and shopkeepers to purchase powerful items to gain an edge.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536871078, 
+        536871208, 
+        536871817, 
+        536871823, 
+        536871937, 
+        536872010, 
+        536872070, 
+        536872098, 
+        536872422, 
+        536872879, 
+        536873140, 
+        536874398, 
+        536874745, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875057, 
+        536875062, 
+        536875066, 
+        536875081, 
+        536875158, 
+        536875188, 
+        536875229, 
+        536875244, 
+        536875267, 
+        536875268, 
+        536875275, 
+        536875301, 
+        536875322, 
+        536875330, 
+        536875342, 
+        536875453, 
+        536875537, 
+        536875540, 
+        536875574, 
+        536875708, 
+        536875738, 
+        536875792, 
+        536875794, 
+        536875802, 
+        536875903, 
+        536875917, 
+        536875939, 
+        536876223, 
+        536876254, 
+        536876291, 
+        536876373, 
+        536876460, 
+        536876544, 
+        536877190, 
+        536877422, 
+        536877741, 
+        536878597, 
+        536887741, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 76.35567754652081, 
+    "total_rating_count": 33, 
+    "updated_at": 1528353082805, 
+    "url": "https://www.igdb.com/games/enter-the-gungeon", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "OMh0tw0bADs"
+        }, 
+        {
+            "name": "Gameplay Trailer", 
+            "video_id": "J3kPMRA_JYE"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/311690"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.enterthegungeon.com"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/dodgerollgames"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/Enter-the-Gungeon-1522893311266325/"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Enter_the_Gungeon"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://enterthegungeon.gamepedia.com/"
+        }
+    ]
+}

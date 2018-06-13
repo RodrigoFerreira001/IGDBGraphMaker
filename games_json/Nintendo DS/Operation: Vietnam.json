@@ -1,0 +1,90 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "zmw4wut2cpcwdidnznse", 
+        "height": 575, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zmw4wut2cpcwdidnznse.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1468944623657, 
+    "first_release_date": 1190332800000, 
+    "games": [
+        68287, 
+        36950, 
+        27314, 
+        27523, 
+        26192, 
+        28552, 
+        59516, 
+        142, 
+        23175, 
+        28029
+    ], 
+    "genres": [
+        5, 
+        31
+    ], 
+    "id": 20760, 
+    "keywords": [
+        21, 
+        563, 
+        634, 
+        911, 
+        1025, 
+        1107, 
+        4346, 
+        6599, 
+        7349, 
+        13083
+    ], 
+    "name": "Operation: Vietnam", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1190332800000, 
+            "human": "2007-Sep-21", 
+            "m": 9, 
+            "platform": 20, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ayj3b3j9n7qgpiyzjjsa", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ayj3b3j9n7qgpiyzjjsa.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "operation-vietnam", 
+    "summary": "Take to the skies in your chopper in the Vietnam War.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435487, 
+        536870933, 
+        536871475, 
+        536871546, 
+        536871823, 
+        536871937, 
+        536872019, 
+        536875258, 
+        536877511, 
+        536878261, 
+        536883995
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1515776449453, 
+    "url": "https://www.igdb.com/games/operation-vietnam"
+}

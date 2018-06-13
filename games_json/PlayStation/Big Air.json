@@ -1,0 +1,54 @@
+{
+    "aggregated_rating": 56.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "eg8hotplsb7ew1pownm2", 
+        "height": 1010, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/eg8hotplsb7ew1pownm2.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1471985275175, 
+    "first_release_date": 922579200000, 
+    "games": [
+        46820, 
+        39665, 
+        101684, 
+        101567, 
+        101100, 
+        100907, 
+        100887, 
+        100879, 
+        100863, 
+        100832
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 22826, 
+    "name": "Big Air", 
+    "platforms": [
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 922579200000, 
+            "human": "1999-Mar-28", 
+            "m": 3, 
+            "platform": 7, 
+            "region": 8, 
+            "y": 1999
+        }
+    ], 
+    "slug": "big-air", 
+    "summary": "Includes several snowboarding events - standard slalom-style, half pipes, races, and more. Also features several licensed riders, 24 courses, and lots of licensed music.", 
+    "tags": [
+        268435470
+    ], 
+    "total_rating": 56.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1500536506950, 
+    "url": "https://www.igdb.com/games/big-air"
+}

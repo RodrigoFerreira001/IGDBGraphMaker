@@ -1,0 +1,140 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 4667, 
+    "cover": {
+        "cloudinary_id": "kn2cgpfspmdxpuzixp9e", 
+        "height": 588, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kn2cgpfspmdxpuzixp9e.jpg", 
+        "width": 451
+    }, 
+    "created_at": 1469314542337, 
+    "developers": [
+        696
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1184630400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        54662, 
+        22425, 
+        44242, 
+        6018, 
+        18623, 
+        15851, 
+        22470, 
+        29173, 
+        26145, 
+        18681
+    ], 
+    "genres": [
+        13, 
+        14
+    ], 
+    "id": 21535, 
+    "keywords": [
+        26, 
+        27, 
+        313, 
+        1148, 
+        1166, 
+        4359, 
+        4837, 
+        6520
+    ], 
+    "name": "Rugby 08", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        6, 
+        8
+    ], 
+    "player_perspectives": [
+        3, 
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1185494400000, 
+            "human": "2007-Jul-27", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1184630400000, 
+            "human": "2007-Jul-17", 
+            "m": 7, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1185494400000, 
+            "human": "2007-Jul-27", 
+            "m": 7, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1185408000000, 
+            "human": "2007-Jul-26", 
+            "m": 7, 
+            "platform": 8, 
+            "region": 3, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xa9ro0fdtrl6gj5mynpg", 
+            "height": 334, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xa9ro0fdtrl6gj5mynpg.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "rugby-08", 
+    "summary": "The most recent of EA's Rugby games, Rugby 08 features new play modes such as the Rugby World Cup and the World Cup Challenge mode.", 
+    "tags": [
+        268435469, 
+        268435470, 
+        536870938, 
+        536870939, 
+        536871225, 
+        536872060, 
+        536872078, 
+        536875271, 
+        536875749, 
+        536877432, 
+        1073741828, 
+        1073741827
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1528342820334, 
+    "url": "https://www.igdb.com/games/rugby-08", 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Rugby_08"
+        }
+    ]
+}

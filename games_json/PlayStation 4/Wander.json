@@ -1,0 +1,124 @@
+{
+    "aggregated_rating": 20.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qcq3dj6xy3berjkvqwe5", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qcq3dj6xy3berjkvqwe5.jpg", 
+        "width": 469
+    }, 
+    "created_at": 1433229977511, 
+    "external": {
+        "steam": "293280"
+    }, 
+    "first_release_date": 1433376000000, 
+    "game_modes": [
+        5
+    ], 
+    "games": [
+        19290, 
+        22425, 
+        19934, 
+        26145, 
+        19376, 
+        19301, 
+        47823, 
+        25211, 
+        11560, 
+        24048
+    ], 
+    "genres": [
+        13, 
+        31
+    ], 
+    "id": 10920, 
+    "keywords": [
+        117, 
+        121, 
+        296, 
+        544, 
+        1148, 
+        1459, 
+        2450, 
+        4134, 
+        4359, 
+        5316, 
+        5387
+    ], 
+    "name": "Wander", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1433376000000, 
+            "human": "2015-Jun-04", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1433376000000, 
+            "human": "2015-Jun-04", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "q3aaa8ofyfgmamgchyxh", 
+            "height": 389, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q3aaa8ofyfgmamgchyxh.jpg", 
+            "width": 699
+        }
+    ], 
+    "slug": "wander", 
+    "summary": "Ever wonder what sort of secrets are hidden amongst nature? Now\u2019s your chance to find out. Soar through the skies, swim the depths of the ocean, and explore the lush rainforests in Wander, the non-combat explorative-based indie MMO. Slow moving and relaxing. Lots of trees, no explosions.", 
+    "tags": [
+        33, 
+        268435469, 
+        268435487, 
+        536871029, 
+        536871033, 
+        536871208, 
+        536871456, 
+        536872060, 
+        536872371, 
+        536873362, 
+        536875046, 
+        536875271, 
+        536876228, 
+        536876299
+    ], 
+    "themes": [
+        33
+    ], 
+    "total_rating": 20.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1516738081319, 
+    "url": "https://www.igdb.com/games/wander", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "ll2UinrXb1E"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.wanderthegame.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/293280"
+        }
+    ]
+}

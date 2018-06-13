@@ -1,0 +1,88 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "y3avokhvsxdysgatk0iz", 
+        "height": 370, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/y3avokhvsxdysgatk0iz.jpg", 
+        "width": 438
+    }, 
+    "created_at": 1517407522908, 
+    "first_release_date": 1355356800000, 
+    "id": 85493, 
+    "name": "Wizard Defenders", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        709
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1356566400000, 
+            "human": "2012-Dec-27", 
+            "m": 12, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1355356800000, 
+            "human": "2012-Dec-13", 
+            "m": 12, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "slul8bacvp5xddxqfngo", 
+            "height": 272, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/slul8bacvp5xddxqfngo.jpg", 
+            "width": 408
+        }, 
+        {
+            "cloudinary_id": "i7htj3ypsjasnx7csfcr", 
+            "height": 272, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i7htj3ypsjasnx7csfcr.jpg", 
+            "width": 408
+        }, 
+        {
+            "cloudinary_id": "zrkmxpcepqubmdgmg9j4", 
+            "height": 272, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zrkmxpcepqubmdgmg9j4.jpg", 
+            "width": 408
+        }, 
+        {
+            "cloudinary_id": "b9srj9mkjfcidupsy8ww", 
+            "height": 272, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b9srj9mkjfcidupsy8ww.jpg", 
+            "width": 408
+        }, 
+        {
+            "cloudinary_id": "sf6vxglkqxpwa4vj5qsr", 
+            "height": 272, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sf6vxglkqxpwa4vj5qsr.jpg", 
+            "width": 408
+        }, 
+        {
+            "cloudinary_id": "xc4xvr2cbawmjwaiuwyb", 
+            "height": 272, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xc4xvr2cbawmjwaiuwyb.jpg", 
+            "width": 408
+        }
+    ], 
+    "slug": "wizard-defenders", 
+    "summary": "Use magic to cast spells and defend your kingdom from evil!", 
+    "updated_at": 1518020443021, 
+    "url": "https://www.igdb.com/games/wizard-defenders", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.teyon.com/games/wizard-defenders/"
+        }
+    ]
+}

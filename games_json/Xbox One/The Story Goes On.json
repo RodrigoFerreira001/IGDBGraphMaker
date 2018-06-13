@@ -1,0 +1,173 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "we2quvdeojxfcaehhnea", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/we2quvdeojxfcaehhnea.jpg", 
+        "width": 1080
+    }, 
+    "created_at": 1495831056890, 
+    "developers": [
+        14818
+    ], 
+    "external": {
+        "steam": "369560"
+    }, 
+    "first_release_date": 1519948800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        47823, 
+        23175, 
+        68324, 
+        55289, 
+        37022, 
+        25300, 
+        25646, 
+        25311, 
+        34919, 
+        44191
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 35268, 
+    "keywords": [
+        296, 
+        1033
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "The Story Goes On", 
+    "pegi": {
+        "rating": 2, 
+        "synopsis": "The content of this game is suitable for persons aged 7 years and over only.\r\nIt contains: Non realistic looking violence towards fantasy characters - Non realistic looking violence towards characters which although human are not very detailed"
+    }, 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        3820
+    ], 
+    "pulse_count": 2, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1519948800000, 
+            "human": "2018-Mar-02", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1519948800000, 
+            "human": "2018-Mar-02", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1519948800000, 
+            "human": "2018-Mar-02", 
+            "m": 3, 
+            "platform": 49, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "on6loswsgnvwzw1zza1u", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/on6loswsgnvwzw1zza1u.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hhusmt11cifzjztfbe41", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hhusmt11cifzjztfbe41.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xvf5nvbq4xfqudnwxgj8", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xvf5nvbq4xfqudnwxgj8.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "w5bqumxiyzqfjqhpoqe1", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w5bqumxiyzqfjqhpoqe1.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qwdlzi3umrngppq3rech", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qwdlzi3umrngppq3rech.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "the-story-goes-on", 
+    "summary": "A randomly generated game within the story of an obsessed author. Explore the repeating worlds and swing your sword really fast, while uncovering the true, overarching adventure within.", 
+    "tags": [
+        1, 
+        268435487, 
+        268435488, 
+        536871208, 
+        536871945, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528359132363, 
+    "url": "https://www.igdb.com/games/the-story-goes-on", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "od2hpIceDc4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.tsgogame.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/369560"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "category": 0, 
+    "created_at": 1517656290312, 
+    "external": {
+        "steam": "803780"
+    }, 
+    "first_release_date": 1517443200000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        37022, 
+        55289, 
+        44191, 
+        34919, 
+        25646, 
+        40524, 
+        25311, 
+        23175, 
+        28277, 
+        37419
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 86238, 
+    "name": "Toon War", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1517443200000, 
+            "human": "2018-Feb-01", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1517443200000, 
+            "human": "2018-Feb-01", 
+            "m": 2, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "t3zwfariilmkey4fm8jd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t3zwfariilmkey4fm8jd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wcpyg8i5f153cdofl0l4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wcpyg8i5f153cdofl0l4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ilwi8ldidz9pzfaqkocf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ilwi8ldidz9pzfaqkocf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jdu7umm3sjd6h1ljfitw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jdu7umm3sjd6h1ljfitw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hh2drrxisa8za7ggay0b", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hh2drrxisa8za7ggay0b.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gc0tjkqk2bpjjqzqpizr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gc0tjkqk2bpjjqzqpizr.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "toon-war", 
+    "summary": "ToonWar is a twin stick shooter game with colorful graphics. Your mission is to liberate peaceful villages from evil forces, eliminate enemies and win over dangerous bosses.", 
+    "tags": [
+        1, 
+        268435487, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1523312900333, 
+    "url": "https://www.igdb.com/games/toon-war", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.toonwar-game.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/803780"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "cx4lelitutw0madrbqgp", 
+        "height": 311, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cx4lelitutw0madrbqgp.jpg", 
+        "width": 262
+    }, 
+    "created_at": 1474570102660, 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1317600000000, 
+    "games": [
+        28113, 
+        36911, 
+        54524, 
+        11423, 
+        51464, 
+        13163, 
+        7100, 
+        27717, 
+        21429, 
+        19082
+    ], 
+    "id": 24237, 
+    "keywords": [
+        78, 
+        1293, 
+        1623, 
+        4134, 
+        4141, 
+        4142, 
+        4245, 
+        4283, 
+        5311, 
+        6073, 
+        9929
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 5, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Voltron: Defender of the Universe", 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1322611200000, 
+            "human": "2011-Nov-30", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1322524800000, 
+            "human": "2011-Nov-29", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1317600000000, 
+            "human": "2011-Oct-03", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "slug": "voltron-defender-of-the-universe", 
+    "summary": "Voltron was an anime series starring the giant robot of the same name from the 1980s. The full robot is actually made up of five mechanical Lions piloted by the Voltron Force. When the young pilots combined their forces to create the mighty Voltron they would defend the universe from the evil King Zarkon of Planet Doom.", 
+    "tags": [
+        536870990, 
+        536872205, 
+        536872535, 
+        536875046, 
+        536875053, 
+        536875054, 
+        536875157, 
+        536875195, 
+        536876223, 
+        536876985, 
+        536880841
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1516095056336, 
+    "url": "https://www.igdb.com/games/voltron-defender-of-the-universe"
+}

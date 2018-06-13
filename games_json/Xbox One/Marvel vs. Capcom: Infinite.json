@@ -1,0 +1,478 @@
+{
+    "aggregated_rating": 68.85, 
+    "aggregated_rating_count": 23, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Marvel vs. Capcom: Infinite"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "MvC Infinite"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "MvCI"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "cjxc4uyfftnw9labienh", 
+            "height": 1330, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cjxc4uyfftnw9labienh.jpg", 
+            "width": 940
+        }
+    ], 
+    "category": 0, 
+    "collection": 1104, 
+    "cover": {
+        "cloudinary_id": "iqelcpezl7xtqtzegnwl", 
+        "height": 1296, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iqelcpezl7xtqtzegnwl.jpg", 
+        "width": 1115
+    }, 
+    "created_at": 1480794321069, 
+    "developers": [
+        37
+    ], 
+    "external": {
+        "steam": "493840"
+    }, 
+    "first_release_date": 1505779200000, 
+    "franchise": 124, 
+    "franchises": [
+        124
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        19470, 
+        36911, 
+        28815, 
+        36926, 
+        25657, 
+        1905, 
+        11137, 
+        26401, 
+        8173, 
+        11567
+    ], 
+    "genres": [
+        4
+    ], 
+    "hypes": 4, 
+    "id": 26197, 
+    "keywords": [
+        3, 
+        14, 
+        61, 
+        79, 
+        107, 
+        164, 
+        175, 
+        226, 
+        227, 
+        575, 
+        594, 
+        970, 
+        1075, 
+        1097, 
+        1231, 
+        1834, 
+        2071, 
+        2154, 
+        2387, 
+        2414, 
+        3270, 
+        3431, 
+        3540, 
+        4131, 
+        4154, 
+        4162, 
+        4187, 
+        4194, 
+        4219, 
+        4224, 
+        4266, 
+        4271, 
+        4310, 
+        4353, 
+        4356, 
+        4357, 
+        4392, 
+        4419, 
+        4446, 
+        4460, 
+        4477, 
+        4490, 
+        4535, 
+        4552, 
+        4570, 
+        4572, 
+        4574, 
+        4673, 
+        4768, 
+        4804, 
+        4805, 
+        4806, 
+        4807, 
+        4808, 
+        4809, 
+        4810, 
+        4811, 
+        4819, 
+        4869, 
+        4890, 
+        5206, 
+        5365, 
+        5464, 
+        5664, 
+        5775, 
+        5911, 
+        5918, 
+        5922, 
+        6422, 
+        6522, 
+        6653, 
+        7311, 
+        7493, 
+        7646, 
+        8775, 
+        8776, 
+        8777, 
+        12087, 
+        12124, 
+        12556, 
+        16831, 
+        16840
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Marvel vs. Capcom: Infinite", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 10.33333333333333, 
+    "publishers": [
+        37
+    ], 
+    "pulse_count": 529, 
+    "rating": 59.8436620149686, 
+    "rating_count": 5, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1505779200000, 
+            "human": "2017-Sep-19", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505779200000, 
+            "human": "2017-Sep-19", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505779200000, 
+            "human": "2017-Sep-19", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505779200000, 
+            "human": "2017-Sep-19", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505779200000, 
+            "human": "2017-Sep-19", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505779200000, 
+            "human": "2017-Sep-19", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "szjizknlhbazhkvq7zpq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/szjizknlhbazhkvq7zpq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bhv4m2ltllrknxhsxg15", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bhv4m2ltllrknxhsxg15.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zruofhlo7r5qz2ay4zja", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zruofhlo7r5qz2ay4zja.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "s4w4vrfghmx9cmzaaacr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s4w4vrfghmx9cmzaaacr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wiyavckjlfo6pemrkcee", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wiyavckjlfo6pemrkcee.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gzuz00jhq7iigpjwfthj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gzuz00jhq7iigpjwfthj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vuxs3wefu0tee9gvugn6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vuxs3wefu0tee9gvugn6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "q33dhdklgzrqaj4dzas9", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q33dhdklgzrqaj4dzas9.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yf1ik2g6fl8t2u1fswod", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yf1ik2g6fl8t2u1fswod.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "l5upcriinypeaqcfmej6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l5upcriinypeaqcfmej6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fmzdqke5kbdeyhmqq7jw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fmzdqke5kbdeyhmqq7jw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tyqytgnmsrkoqqhpnrib", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tyqytgnmsrkoqqhpnrib.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "marvel-vs-capcom-infinite", 
+    "summary": "Marvel vs. Capcom: Infinite will feature a variety of exciting and accessible single player modes and rich multi-player content for new players and longtime fans alike. In addition to single player Arcade, Training and Mission modes, a visually stunning and immersive cinematic Story Mode will put players at the center of both universes as they battle for survival against a sinister new threat. Marvel vs. Capcom: Infinite is being built to highlight a combination of iconic locations and fan favorite characters from both universes, including Captain Marvel and Iron Man from the Marvel side, and Ryu and Mega Man X from Capcom.", 
+    "tags": [
+        1, 
+        18, 
+        268435460, 
+        536870915, 
+        536870926, 
+        536870973, 
+        536870991, 
+        536871019, 
+        536871076, 
+        536871087, 
+        536871138, 
+        536871139, 
+        536871487, 
+        536871506, 
+        536871882, 
+        536871987, 
+        536872009, 
+        536872143, 
+        536872746, 
+        536872983, 
+        536873066, 
+        536873299, 
+        536873326, 
+        536874182, 
+        536874343, 
+        536874452, 
+        536875043, 
+        536875066, 
+        536875074, 
+        536875099, 
+        536875106, 
+        536875131, 
+        536875136, 
+        536875178, 
+        536875183, 
+        536875222, 
+        536875265, 
+        536875268, 
+        536875269, 
+        536875304, 
+        536875331, 
+        536875358, 
+        536875372, 
+        536875389, 
+        536875402, 
+        536875447, 
+        536875464, 
+        536875482, 
+        536875484, 
+        536875486, 
+        536875585, 
+        536875680, 
+        536875716, 
+        536875717, 
+        536875718, 
+        536875719, 
+        536875720, 
+        536875721, 
+        536875722, 
+        536875723, 
+        536875731, 
+        536875781, 
+        536875802, 
+        536876118, 
+        536876277, 
+        536876376, 
+        536876576, 
+        536876687, 
+        536876823, 
+        536876830, 
+        536876834, 
+        536877334, 
+        536877434, 
+        536877565, 
+        536878223, 
+        536878405, 
+        536878558, 
+        536879687, 
+        536879688, 
+        536879689, 
+        536882999, 
+        536883036, 
+        536883468, 
+        536887743, 
+        536887752, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 64.3468310074843, 
+    "total_rating_count": 28, 
+    "updated_at": 1528355273542, 
+    "url": "https://www.igdb.com/games/marvel-vs-capcom-infinite", 
+    "videos": [
+        {
+            "name": "Launch Trailer", 
+            "video_id": "mCyx-ydIM78"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "XRyu_u9YA-8"
+        }, 
+        {
+            "name": "Story Trailer 2", 
+            "video_id": "YCmK9Dm76lI"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "zm7eWirgJik"
+        }, 
+        {
+            "name": "SDCC 2017 Trailer", 
+            "video_id": "MBk5C4XeG_E"
+        }, 
+        {
+            "name": "E3 2017 Trailer", 
+            "video_id": "cnQkXqMu9Ec"
+        }, 
+        {
+            "name": "E3 2017 Gameplay Trailer", 
+            "video_id": "Z_mBen5A9lE"
+        }, 
+        {
+            "name": "20 minutes of gameplay", 
+            "video_id": "fzU0oXtEUNQ"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "d_H2YEcS1d8"
+        }, 
+        {
+            "name": "Story Trailer 1", 
+            "video_id": "sXxxy-a-_KU"
+        }, 
+        {
+            "name": "PSX 2016 Announcement Trailer", 
+            "video_id": "5BxXoQ2O3AI"
+        }, 
+        {
+            "name": "Gameplay Trailer", 
+            "video_id": "amGcJ-mSzlQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://marvelvscapcominfinite.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/493840"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Marvel_vs._Capcom:_Infinite"
+        }
+    ]
+}

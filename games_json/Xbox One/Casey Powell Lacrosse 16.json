@@ -1,0 +1,167 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jt0ivvnm7paxaacvboe8", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jt0ivvnm7paxaacvboe8.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1469143476381, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "353890"
+    }, 
+    "first_release_date": 1457395200000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        34919, 
+        55715, 
+        19341, 
+        25311, 
+        55077, 
+        23835, 
+        33644, 
+        54999, 
+        28465, 
+        37419
+    ], 
+    "genres": [
+        13, 
+        14
+    ], 
+    "id": 20969, 
+    "keywords": [
+        2539
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 4, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Casey Powell Lacrosse 16", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2431
+    ], 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1457481600000, 
+            "human": "2016-Mar-09", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1457481600000, 
+            "human": "2016-Mar-09", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1457481600000, 
+            "human": "2016-Mar-09", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1457395200000, 
+            "human": "2016-Mar-08", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "k3glpwtbeovqqwiwwk08", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k3glpwtbeovqqwiwwk08.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tplpiggcn34yobqfpa3d", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tplpiggcn34yobqfpa3d.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "racyne6tmhi7xtzpejls", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/racyne6tmhi7xtzpejls.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zyetmbp1fszwhsqzfwwp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zyetmbp1fszwhsqzfwwp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "v3px0jerhtrleojcwgni", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v3px0jerhtrleojcwgni.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "casey-powell-lacrosse-16", 
+    "summary": "Featuring in-depth lacrosse gameplay, high quality graphics, multi-year career mode, competitive online multiplayer, real-time RPG leveling and character customization, Powell Lacrosse 16 brings the sport to life like never before.", 
+    "tags": [
+        1, 
+        268435469, 
+        268435470, 
+        536873451
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1528351672735, 
+    "url": "https://www.igdb.com/games/casey-powell-lacrosse-16", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.lacrosse16.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/353890"
+        }
+    ]
+}

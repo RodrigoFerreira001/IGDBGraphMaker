@@ -1,0 +1,106 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 1330, 
+    "cover": {
+        "cloudinary_id": "dzkzpxzyuncw8ldwowet", 
+        "height": 262, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dzkzpxzyuncw8ldwowet.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1469283480880, 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1257206400000, 
+    "games": [
+        68287, 
+        36950, 
+        7350, 
+        27314, 
+        28029, 
+        19448, 
+        64204, 
+        142, 
+        25300, 
+        7349
+    ], 
+    "genres": [
+        5
+    ], 
+    "id": 21109, 
+    "keywords": [
+        3, 
+        970, 
+        1025, 
+        1293, 
+        3270, 
+        4134, 
+        4245, 
+        4359, 
+        4525, 
+        4660, 
+        4973, 
+        4975
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Alien Breed Evolution", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.666666666666667, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1257206400000, 
+            "human": "2009-Nov-03", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2009
+        }
+    ], 
+    "slug": "alien-breed-evolution", 
+    "summary": "A remake of the original classic Amiga title Alien Breed, Evolution features update graphics, gameplay and features.\n\nAlien Breed History:\nAlien Breed is recognised as one of the foremost fondly remembered Amiga games ever released. The original Alien Breed game was launched on Amiga in 1991, developed and published by Team17 Software Ltd. A title that announced Team17's arrival as a quality indie developer-publisher... quite some years before they had a hit with those little pink blighters, WormsTM.\n\nThe game was an instant success and a sequel of sorts, Alien Breed Directors Cut, released in 1992 spending an incredible 33 unbroken weeks at the top of the UK Gallup Budget Charts. A full sequel was released in 1993 (Alien Breed 2) and a 3D edition, which won a number of technical achievement awards in 1994. The well-loved series has lain dormant for 14 years, until now, arriving in stunning fashion with the production-heavy 'Alien Breed Evolution'.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        536870915, 
+        536871882, 
+        536871937, 
+        536872205, 
+        536874182, 
+        536875046, 
+        536875157, 
+        536875271, 
+        536875437, 
+        536875572, 
+        536875885, 
+        536875887
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1516149822572, 
+    "url": "https://www.igdb.com/games/alien-breed-evolution"
+}

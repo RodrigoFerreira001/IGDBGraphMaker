@@ -1,0 +1,95 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 12, 
+    "cover": {
+        "cloudinary_id": "rmmqsqomzlm1ekbwdk1w", 
+        "height": 294, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rmmqsqomzlm1ekbwdk1w.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1298026965000, 
+    "developers": [
+        277
+    ], 
+    "first_release_date": 859680000000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        44242, 
+        28465, 
+        34919, 
+        40470, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        75102, 
+        43130
+    ], 
+    "genres": [
+        10, 
+        13
+    ], 
+    "id": 91, 
+    "name": "Need for Speed II", 
+    "platforms": [
+        6, 
+        7
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        1
+    ], 
+    "rating": 74.6496481539301, 
+    "rating_count": 45, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 862358400000, 
+            "human": "1997-Apr-30", 
+            "m": 4, 
+            "platform": 6, 
+            "y": 1997
+        }, 
+        {
+            "category": 0, 
+            "date": 859680000000, 
+            "human": "1997-Mar-30", 
+            "m": 3, 
+            "platform": 7, 
+            "y": 1997
+        }
+    ], 
+    "slug": "need-for-speed-ii", 
+    "summary": "There are three main game types. The first two are single race and tournament and the last is a knockout race. Single races allow players to become familiar with the circuits and increase their skill of any one of the six tracks. The six tracks are called Mediterranean, Mystic Peaks, Proving Grounds, Outback, North Country, and Pacific Spirit.", 
+    "tags": [
+        268435466, 
+        268435469, 
+        1073741825, 
+        1073741826
+    ], 
+    "total_rating": 67.32482407696506, 
+    "total_rating_count": 46, 
+    "updated_at": 1527936616463, 
+    "url": "https://www.igdb.com/games/need-for-speed-ii", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "lN8aoLrGhhk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Need_for_Speed_II"
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "aggregated_rating": 20.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bkuvxbnujcdwri9xvg8f", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bkuvxbnujcdwri9xvg8f.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1432986759040, 
+    "developers": [
+        696
+    ], 
+    "external": {
+        "steam": "303820"
+    }, 
+    "first_release_date": 1416528000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        34919, 
+        55715, 
+        19341, 
+        22690, 
+        25311, 
+        55077, 
+        23835, 
+        33644, 
+        54662, 
+        54999
+    ], 
+    "genres": [
+        13, 
+        14
+    ], 
+    "id": 10788, 
+    "keywords": [
+        1166
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Rugby 15", 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2974, 
+        1803
+    ], 
+    "rating": 50.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1424736000000, 
+            "human": "2015-Feb-24", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1416528000000, 
+            "human": "2014-Nov-21", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "i0jmqsmrky4yc2xqlj53", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i0jmqsmrky4yc2xqlj53.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "g3mi6qcfls1ouw0onupb", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g3mi6qcfls1ouw0onupb.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "thh6x4oayvcfo6ic0knu", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/thh6x4oayvcfo6ic0knu.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "uoaceypllmsn4a28dbcx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uoaceypllmsn4a28dbcx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jlzcyyytda0lqfpcejtp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jlzcyyytda0lqfpcejtp.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "rugby-15", 
+    "summary": "Next-generation graphics unrivalled in a rugby union game, voices by the real TV commentators, accessible and precise controls, and emergent AI that dynamically adapts to situations and your playing style, so you experience all of the emotions of rugby union with the only official Top 14 simulation!\n\nTake the helm of official teams and clubs from the most prestigious leagues: the Aviva Premiership Rugby, the Pro 12 and, in a world exclusive, the TOP 14 and Pro D2!\n\nShare your passion for rugby with players from around the world through the online social features and tables.", 
+    "tags": [
+        1, 
+        268435469, 
+        268435470, 
+        536872078, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 35.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1520272351717, 
+    "url": "https://www.igdb.com/games/rugby-15", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://rugby-thegame.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/303820"
+        }
+    ]
+}

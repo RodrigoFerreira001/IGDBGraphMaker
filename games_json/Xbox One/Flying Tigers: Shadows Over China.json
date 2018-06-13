@@ -1,0 +1,171 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "apta1yqtyskckkq5l4sy", 
+        "height": 296, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/apta1yqtyskckkq5l4sy.jpg", 
+        "width": 240
+    }, 
+    "created_at": 1495832762389, 
+    "developers": [
+        13640
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "Online Interactions Not Rated by the ESRB. May contain content inappropriate for children."
+    }, 
+    "external": {
+        "steam": "365810"
+    }, 
+    "first_release_date": 1496016000000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        34919, 
+        25311, 
+        28277, 
+        37419, 
+        54999, 
+        55289, 
+        37022, 
+        28465, 
+        25646, 
+        41895
+    ], 
+    "genres": [
+        13, 
+        31, 
+        32
+    ], 
+    "id": 35361, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 16, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Flying Tigers: Shadows Over China", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        13640
+    ], 
+    "pulse_count": 6, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1515715200000, 
+            "human": "2018-Jan-12", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1515715200000, 
+            "human": "2018-Jan-12", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1496016000000, 
+            "human": "2017-May-29", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "l50dyjdb1aahsenr2kce", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l50dyjdb1aahsenr2kce.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ix8znrnwbvlkrl76zood", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ix8znrnwbvlkrl76zood.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kzgoxvl2oaisqnslwat5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kzgoxvl2oaisqnslwat5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fu92nikl0swm4y3ugjqf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fu92nikl0swm4y3ugjqf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pfkcmatfnahm1zvjduud", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pfkcmatfnahm1zvjduud.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "flying-tigers-shadows-over-china", 
+    "summary": "FLYING TIGERS: SHADOWS OVER CHINA is an air-combat action game based on the historical events of America\u2019s secret volunteer squadrons that defended China against Japan in the China-Burma-India theatre of World War 2.", 
+    "tags": [
+        1, 
+        39, 
+        268435469, 
+        268435487, 
+        268435488, 
+        1073741826, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        39
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523419132784, 
+    "url": "https://www.igdb.com/games/flying-tigers-shadows-over-china", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "7tEmwkqcCn4"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://acemaddox.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/365810"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "zbiwlgz9cjmdh6bqidel", 
+        "height": 720, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zbiwlgz9cjmdh6bqidel.jpg", 
+        "width": 1280
+    }, 
+    "created_at": 1501618754601, 
+    "first_release_date": 1504569600000, 
+    "games": [
+        19289, 
+        13189, 
+        55752, 
+        25222, 
+        41895, 
+        22425, 
+        55803, 
+        28154, 
+        11296, 
+        29730
+    ], 
+    "genres": [
+        8, 
+        31
+    ], 
+    "id": 53923, 
+    "keywords": [
+        1027, 
+        2049, 
+        2219, 
+        4234, 
+        4438
+    ], 
+    "name": "The Lost Bear", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "pulse_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1504742400000, 
+            "human": "2017-Sep-07", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1504569600000, 
+            "human": "2017-Sep-05", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "e9rchxbdj9ltxorvl9yg", 
+            "height": 507, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e9rchxbdj9ltxorvl9yg.jpg", 
+            "width": 902
+        }
+    ], 
+    "slug": "the-lost-bear", 
+    "summary": "Help Walnut home through a land corrupted by an ancient creature called the Snatcher.", 
+    "tags": [
+        268435464, 
+        268435487, 
+        536871939, 
+        536872961, 
+        536873131, 
+        536875146, 
+        536875350
+    ], 
+    "total_rating": 75.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1516576095108, 
+    "url": "https://www.igdb.com/games/the-lost-bear"
+}

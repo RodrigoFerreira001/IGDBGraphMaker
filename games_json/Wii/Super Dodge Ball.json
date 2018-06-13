@@ -1,0 +1,309 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Nekketsu Koukou Dodgeball Bu"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Nekketsu K\u014dk\u014d Dodgeball Bu"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "heee1k0ucrvbtljtydcl", 
+        "height": 1099, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/heee1k0ucrvbtljtydcl.jpg", 
+        "width": 848
+    }, 
+    "created_at": 1499693890378, 
+    "developers": [
+        1753
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 562723200000, 
+    "franchise": 1138, 
+    "franchises": [
+        1138
+    ], 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        22690, 
+        15851, 
+        11253, 
+        55752, 
+        51485, 
+        49106, 
+        76213, 
+        27081, 
+        26769, 
+        34919
+    ], 
+    "genres": [
+        14, 
+        33
+    ], 
+    "id": 46768, 
+    "keywords": [
+        558, 
+        584, 
+        675, 
+        1166, 
+        1240, 
+        1682, 
+        2296, 
+        3079, 
+        4161, 
+        4263, 
+        4449, 
+        4463, 
+        4494, 
+        4522, 
+        5838, 
+        7159, 
+        12214, 
+        12758
+    ], 
+    "name": "Super Dodge Ball", 
+    "platforms": [
+        80, 
+        52, 
+        86, 
+        121, 
+        41, 
+        79, 
+        37, 
+        5, 
+        18, 
+        8
+    ], 
+    "player_perspectives": [
+        3, 
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2839, 
+        1453, 
+        5346, 
+        1753
+    ], 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 18, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 0, 
+            "date": 1387324800000, 
+            "human": "2013-Dec-18", 
+            "m": 12, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1403136000000, 
+            "human": "2014-Jun-19", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1394668800000, 
+            "human": "2014-Mar-13", 
+            "m": 3, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1403136000000, 
+            "human": "2014-Jun-19", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1401926400000, 
+            "human": "2014-Jun-05", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1362528000000, 
+            "human": "2013-Mar-06", 
+            "m": 3, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1213660800000, 
+            "human": "2008-Jun-17", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1222041600000, 
+            "human": "2008-Sep-22", 
+            "m": 9, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 820454400000, 
+            "human": "1996-Jan-01", 
+            "m": 1, 
+            "platform": 79, 
+            "region": 2, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 946684800000, 
+            "human": "2000-Jan-01", 
+            "m": 1, 
+            "platform": 80, 
+            "region": 2, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 820454400000, 
+            "human": "1996-Jan-01", 
+            "m": 1, 
+            "platform": 79, 
+            "region": 5, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 638755200000, 
+            "human": "1990-Mar-30", 
+            "m": 3, 
+            "platform": 86, 
+            "region": 5, 
+            "y": 1990
+        }, 
+        {
+            "category": 0, 
+            "date": 586396800000, 
+            "human": "1988-Aug-01", 
+            "m": 8, 
+            "platform": 121, 
+            "region": 5, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 1143072000000, 
+            "human": "2006-Mar-23", 
+            "m": 3, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2006
+        }, 
+        {
+            "category": 0, 
+            "date": 585878400000, 
+            "human": "1988-Jul-26", 
+            "m": 7, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 562723200000, 
+            "human": "1987-Nov-01", 
+            "m": 11, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1987
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gxspyquwmurpbdurjtk5", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gxspyquwmurpbdurjtk5.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "w3rxxv0nrsmlt2vaklph", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w3rxxv0nrsmlt2vaklph.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "psmwogjfqpw8al8rboku", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/psmwogjfqpw8al8rboku.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "clgmvrz9zpqx7ibhqcfd", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/clgmvrz9zpqx7ibhqcfd.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "super-dodge-ball", 
+    "summary": "Team USA is on its way to a Cinderella success story in the Super Dodgy Ball World Cup Championships. From out of nowhere, this scrappy bunch of rookies is advancing to the final round of competition. Seven powerful teams still stand between Team USA and their ultimate challenge; the long awaited grudge match with the undefeated, defending world champions, Team USSR. Only you can lead the U.S. to victory over the highly-favored competition, and give them the chance to crush the mighty Soviets. \n \n-1 or 2 players \n-Multi-dimensional, high-resolution graphics \n-3 increasing levels of challenge \n \nThrash, Bash, and Smash the Competition", 
+    "tags": [
+        1, 
+        268435470, 
+        268435489, 
+        536871470, 
+        536871496, 
+        536871587, 
+        536872078, 
+        536872152, 
+        536872594, 
+        536873208, 
+        536873991, 
+        536875073, 
+        536875175, 
+        536875361, 
+        536875375, 
+        536875406, 
+        536875434, 
+        536876750, 
+        536878071, 
+        536883126, 
+        536883670, 
+        1073741828, 
+        1073741827
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1526480572969, 
+    "url": "https://www.igdb.com/games/super-dodge-ball"
+}

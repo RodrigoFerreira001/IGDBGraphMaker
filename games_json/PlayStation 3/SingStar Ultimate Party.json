@@ -1,0 +1,176 @@
+{
+    "aggregated_rating": 40.0, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "collection": 592, 
+    "cover": {
+        "cloudinary_id": "hmsfqvh6dfjk3pedni1j", 
+        "height": 748, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hmsfqvh6dfjk3pedni1j.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1449698145406, 
+    "developers": [
+        1033
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1414108800000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        37067, 
+        28192, 
+        25217, 
+        15193, 
+        11711, 
+        64209, 
+        15441, 
+        15439, 
+        15195, 
+        15192
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 15100, 
+    "keywords": [
+        2052, 
+        4137, 
+        4228, 
+        5317, 
+        6587
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "SingStar Ultimate Party", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        9, 
+        48
+    ], 
+    "player_perspectives": [
+        6
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        2291
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1414454400000, 
+            "human": "2014-Oct-28", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414540800000, 
+            "human": "2014-Oct-29", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414108800000, 
+            "human": "2014-Oct-24", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414540800000, 
+            "human": "2014-Oct-29", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414540800000, 
+            "human": "2014-Oct-29", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 3, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dbqxstqk9pftajtcp0sa", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dbqxstqk9pftajtcp0sa.jpg", 
+            "width": 600
+        }
+    ], 
+    "slug": "singstar-ultimate-party", 
+    "summary": "SingStar: Ultimate Party is the ultimate introduction to kick off a SingStar party on your PlayStation. It hosts a collection of 30 epic tracks, which represents great value for anyone new to SingStar. \n \nNo mics? No problem. Turn your smartphone into a pocket-sized mic and sing your favourite songs with no extra equipment. Have a laugh with friends at your own SingStar bash or impromptu sing-a-long, and then show off your best bits (and, of course, your hilarious epic fails) on Facebook and Twitter. You can even send challenges to your mates online.", 
+    "tags": [
+        40, 
+        268435463, 
+        536872964, 
+        536875049, 
+        536875140, 
+        536876229, 
+        536877499, 
+        1073741830
+    ], 
+    "themes": [
+        40
+    ], 
+    "total_rating": 40.0, 
+    "total_rating_count": 6, 
+    "updated_at": 1527622548350, 
+    "url": "https://www.igdb.com/games/singstar-ultimate-party", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "rHhKdta0ZrA"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "TRNryDOXMUg"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "XOaeAs55rDc"
+        }, 
+        {
+            "name": "Teaser", 
+            "video_id": "iI7XnoyM3ic"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.singstar.com/"
+        }
+    ]
+}

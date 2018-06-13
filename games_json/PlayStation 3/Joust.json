@@ -1,0 +1,312 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 3704, 
+    "cover": {
+        "cloudinary_id": "tzoopj1w4iqxwwttod4e", 
+        "height": 349, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tzoopj1w4iqxwwttod4e.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1389246518950, 
+    "developers": [
+        1839
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 395625600000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        55752, 
+        10039, 
+        21062, 
+        36868, 
+        1968, 
+        12597, 
+        3759, 
+        9061, 
+        51485, 
+        7344
+    ], 
+    "genres": [
+        4, 
+        8, 
+        30, 
+        33
+    ], 
+    "id": 3659, 
+    "keywords": [
+        67, 
+        128, 
+        575, 
+        658, 
+        934, 
+        1293, 
+        1563, 
+        1705, 
+        2152, 
+        2337, 
+        4161, 
+        4162, 
+        4163, 
+        4171, 
+        4239, 
+        4288, 
+        4492, 
+        4504, 
+        4523, 
+        4694, 
+        4758, 
+        4836, 
+        4910, 
+        5093, 
+        5208, 
+        5450, 
+        5523, 
+        5633, 
+        5801, 
+        6136, 
+        6365, 
+        7141, 
+        7237, 
+        8236, 
+        8768, 
+        8771, 
+        9158, 
+        9929, 
+        13121
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Joust", 
+    "platforms": [
+        52, 
+        63, 
+        60, 
+        14, 
+        66, 
+        59, 
+        13, 
+        65, 
+        75, 
+        9, 
+        61, 
+        18
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        1839, 
+        855, 
+        1121, 
+        11161, 
+        888, 
+        762
+    ], 
+    "rating": 54.5781440148979, 
+    "rating_count": 8, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1181865600000, 
+            "human": "2007-Jun-15", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1179964800000, 
+            "human": "2007-May-24", 
+            "m": 5, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 395625600000, 
+            "human": "1982-Jul-16", 
+            "m": 7, 
+            "platform": 52, 
+            "region": 2, 
+            "y": 1982
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 59, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 66, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 567907200000, 
+            "human": "1987", 
+            "m": 12, 
+            "platform": 60, 
+            "region": 2, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 725760000000, 
+            "human": "1992", 
+            "m": 12, 
+            "platform": 61, 
+            "region": 2, 
+            "y": 1992
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 75, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 65, 
+            "region": 2, 
+            "y": 1983
+        }, 
+        {
+            "category": 2, 
+            "date": 536371200000, 
+            "human": "1986", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 2, 
+            "y": 1986
+        }, 
+        {
+            "category": 2, 
+            "date": 788832000000, 
+            "human": "1994", 
+            "m": 12, 
+            "platform": 14, 
+            "region": 2, 
+            "y": 1994
+        }, 
+        {
+            "category": 0, 
+            "date": 562550400000, 
+            "human": "1987-Oct-30", 
+            "m": 10, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 441676800000, 
+            "human": "1983", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1983
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ibj3tzacjnyeqfncz8vs", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ibj3tzacjnyeqfncz8vs.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "joust", 
+    "summary": "Joust is an arcade game developed by Williams Electronics and released in 1982. It is a platform game that features two-dimensional (2D) graphics. The player uses a button and joystick to control a knight riding a flying ostrich. The object is to progress through levels by defeating groups of enemy knights riding buzzards.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435464, 
+        268435486, 
+        268435489, 
+        536870979, 
+        536871040, 
+        536871487, 
+        536871570, 
+        536871846, 
+        536872205, 
+        536872475, 
+        536872617, 
+        536873064, 
+        536873249, 
+        536875073, 
+        536875074, 
+        536875075, 
+        536875083, 
+        536875151, 
+        536875200, 
+        536875404, 
+        536875416, 
+        536875435, 
+        536875606, 
+        536875670, 
+        536875748, 
+        536875822, 
+        536876005, 
+        536876120, 
+        536876362, 
+        536876435, 
+        536876545, 
+        536876713, 
+        536877048, 
+        536877277, 
+        536878053, 
+        536878149, 
+        536879148, 
+        536879680, 
+        536879683, 
+        536880070, 
+        536880841, 
+        536884033, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 67.28907200744895, 
+    "total_rating_count": 10, 
+    "updated_at": 1524882756040, 
+    "url": "https://www.igdb.com/games/joust"
+}

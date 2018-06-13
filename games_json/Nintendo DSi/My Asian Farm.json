@@ -1,0 +1,73 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ofkhzt7mvqqcmuw5ymo5", 
+        "height": 1000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ofkhzt7mvqqcmuw5ymo5.jpg", 
+        "width": 1181
+    }, 
+    "created_at": 1517398924612, 
+    "first_release_date": 1313020800000, 
+    "id": 85296, 
+    "name": "My Asian Farm", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1313625600000, 
+            "human": "2011-Aug-18", 
+            "m": 8, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1313020800000, 
+            "human": "2011-Aug-11", 
+            "m": 8, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "sds38vrkehv2wlzemcul", 
+            "height": 390, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sds38vrkehv2wlzemcul.jpg", 
+            "width": 260
+        }, 
+        {
+            "cloudinary_id": "aarkugyeey7mssyjdiov", 
+            "height": 390, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aarkugyeey7mssyjdiov.jpg", 
+            "width": 260
+        }, 
+        {
+            "cloudinary_id": "u36xs15iaobegkecmmqa", 
+            "height": 390, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u36xs15iaobegkecmmqa.jpg", 
+            "width": 260
+        }, 
+        {
+            "cloudinary_id": "lg5d6qum9jfeltj3acv2", 
+            "height": 390, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lg5d6qum9jfeltj3acv2.jpg", 
+            "width": 260
+        }, 
+        {
+            "cloudinary_id": "npaootj2zq2tjnanc3ao", 
+            "height": 390, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/npaootj2zq2tjnanc3ao.jpg", 
+            "width": 260
+        }
+    ], 
+    "slug": "my-asian-farm", 
+    "summary": "My Asian Farm is a breeding simulation game!", 
+    "updated_at": 1518074221264, 
+    "url": "https://www.igdb.com/games/my-asian-farm"
+}

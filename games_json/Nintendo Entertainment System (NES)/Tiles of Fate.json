@@ -1,0 +1,58 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bh3jed5ckse9tubdrsow", 
+        "height": 768, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bh3jed5ckse9tubdrsow.jpg", 
+        "width": 559
+    }, 
+    "created_at": 1499960856876, 
+    "first_release_date": 633830400000, 
+    "games": [
+        55036, 
+        29173, 
+        26391, 
+        55590, 
+        23345, 
+        19376, 
+        76731, 
+        9760, 
+        33603, 
+        9199
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 48272, 
+    "keywords": [
+        3782, 
+        4472, 
+        5325
+    ], 
+    "name": "Tiles of Fate", 
+    "platforms": [
+        18
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 633830400000, 
+            "human": "1990-Feb-01", 
+            "m": 2, 
+            "platform": 18, 
+            "region": 8, 
+            "y": 1990
+        }
+    ], 
+    "slug": "tiles-of-fate", 
+    "summary": "In Tiles Of Fate the object of the game is to clear the screen of all the tiles within the given time limit. This is done by selecting two tiles with matching symbols which will cause them to disappear due to the force of symmetry. However, the force of symmetry can only make two right angles at most, and can not pass through other tiles. To clear all the tiles, you will need to plan your moves carefully. To help out, you may discover one of three forces of fate under a tile which can be saved and used when you're stuck. The forces are The Flash of Chance (allows symmetry to affect any matching tiles on the board, even those surrounded by other tiles), The Force of Balance (will eliminate brick walls that block the path of symmetry) and The Flag of Knowledge (this will make your next move for you in case you can't spot what the best move is.) Also included is a level editor which lets you create your own tile challenges.", 
+    "tags": [
+        268435471, 
+        536874694, 
+        536875384, 
+        536876237
+    ], 
+    "updated_at": 1515672960121, 
+    "url": "https://www.igdb.com/games/tiles-of-fate"
+}

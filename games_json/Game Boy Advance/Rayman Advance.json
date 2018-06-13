@@ -1,0 +1,64 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 206, 
+    "cover": {
+        "cloudinary_id": "cwiytijcx9lqn49c1tuo", 
+        "height": 1370, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cwiytijcx9lqn49c1tuo.jpg", 
+        "width": 1530
+    }, 
+    "created_at": 1470131807944, 
+    "first_release_date": 992217600000, 
+    "games": [
+        1070, 
+        41118, 
+        38305, 
+        1073, 
+        1188, 
+        89495, 
+        51942, 
+        51247, 
+        51203, 
+        50992
+    ], 
+    "genres": [
+        8
+    ], 
+    "id": 22012, 
+    "name": "Rayman Advance", 
+    "platforms": [
+        24
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 992217600000, 
+            "human": "2001-Jun-11", 
+            "m": 6, 
+            "platform": 24, 
+            "region": 2, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 993168000000, 
+            "human": "2001-Jun-22", 
+            "m": 6, 
+            "platform": 24, 
+            "region": 1, 
+            "y": 2001
+        }
+    ], 
+    "slug": "rayman-advance", 
+    "summary": "Rayman Advance is a GBA game. It is basically a port of Rayman 1, however bears some minor changes. The evil Mr. Dark has stolen the Great Protoon, kidnapped all of the Electoons and defeated Betilla the Fairy. Rayman has to travel through 5 worlds before finally meeting up with Mr Dark and defeating him.", 
+    "tags": [
+        268435464
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1500364862046, 
+    "url": "https://www.igdb.com/games/rayman-advance"
+}

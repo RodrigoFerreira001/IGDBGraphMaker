@@ -1,0 +1,71 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "esboszvfbpwjrepqqxca", 
+        "height": 600, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/esboszvfbpwjrepqqxca.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1517346061478, 
+    "first_release_date": 1432166400000, 
+    "id": 84903, 
+    "name": "Samurai Defender", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        6379
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1437004800000, 
+            "human": "2015-Jul-16", 
+            "m": 7, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1432166400000, 
+            "human": "2015-May-21", 
+            "m": 5, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ktwyinjzdyssz6u5djd9", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ktwyinjzdyssz6u5djd9.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "zmpr6lijoonaoziid3h9", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zmpr6lijoonaoziid3h9.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "bl3zseyap8znpfj9g0mg", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bl3zseyap8znpfj9g0mg.jpg", 
+            "width": 400
+        }, 
+        {
+            "cloudinary_id": "zeuscsmqil0orowkhmnj", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zeuscsmqil0orowkhmnj.jpg", 
+            "width": 400
+        }
+    ], 
+    "slug": "samurai-defender", 
+    "summary": "Samurai Defender is a simple defense type action game set in the Warring States period of Japan.", 
+    "updated_at": 1518007152813, 
+    "url": "https://www.igdb.com/games/samurai-defender"
+}

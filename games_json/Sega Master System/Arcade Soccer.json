@@ -1,0 +1,103 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Sports Pad Soccer"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "World Soccer"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "World SoccerSports Pad Soccer"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2876, 
+    "cover": {
+        "cloudinary_id": "mmcwoq2ojbial2jyqhez", 
+        "height": 858, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mmcwoq2ojbial2jyqhez.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1451588118720, 
+    "first_release_date": 553651200000, 
+    "games": [
+        54662, 
+        44242, 
+        18623, 
+        15851, 
+        22470, 
+        29173, 
+        22425, 
+        26145, 
+        18681, 
+        27081
+    ], 
+    "genres": [
+        13, 
+        14
+    ], 
+    "id": 15599, 
+    "keywords": [
+        26, 
+        27, 
+        300, 
+        1148, 
+        1166, 
+        4521, 
+        5347, 
+        5729
+    ], 
+    "name": "Arcade Soccer", 
+    "platforms": [
+        69, 
+        64
+    ], 
+    "popularity": 1.666666666666667, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 553651200000, 
+            "human": "1987-Jul-19", 
+            "m": 7, 
+            "platform": 64, 
+            "region": 5, 
+            "y": 1987
+        }, 
+        {
+            "category": 0, 
+            "date": 567907200000, 
+            "human": "1987-Dec-31", 
+            "m": 12, 
+            "platform": 64, 
+            "region": 2, 
+            "y": 1987
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 69, 
+            "y": 1989
+        }
+    ], 
+    "slug": "arcade-soccer", 
+    "summary": "Named World Soccer elsewhere, Great Soccer is part of Sega's series of Great sports games for the Sega Master System. It is a sequel of the first Great Soccer.", 
+    "tags": [
+        268435469, 
+        268435470, 
+        536870938, 
+        536870939, 
+        536871212, 
+        536872060, 
+        536872078, 
+        536875433, 
+        536876259, 
+        536876641
+    ], 
+    "updated_at": 1516761826449, 
+    "url": "https://www.igdb.com/games/arcade-soccer"
+}

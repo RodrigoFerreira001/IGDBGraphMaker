@@ -1,0 +1,60 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "gkdgbkc6vtzgcca63ozd", 
+        "height": 210, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gkdgbkc6vtzgcca63ozd.jpg", 
+        "width": 384
+    }, 
+    "created_at": 1497955251242, 
+    "first_release_date": 794793600000, 
+    "games": [
+        25222, 
+        60044, 
+        8197, 
+        14047, 
+        26223, 
+        27266, 
+        71143, 
+        19222, 
+        25646, 
+        236
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 38168, 
+    "keywords": [
+        1931, 
+        2528, 
+        2875, 
+        4145
+    ], 
+    "name": "Jammes", 
+    "platforms": [
+        19
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 794793600000, 
+            "human": "1995-Mar-10", 
+            "m": 3, 
+            "platform": 19, 
+            "region": 8, 
+            "y": 1995
+        }
+    ], 
+    "slug": "jammes", 
+    "summary": "Jammes is a puzzle game for the Super Famicom that is a variant of the \"falling blocks\" sub-genre popularized by games such as Tetris and Columns. It was exclusive to the Super Famicom. \n \nThe game features a story mode with increasingly difficult opponents - it also has a tutorial for its obtuse mechanics - as well as a free mode where the player tries to survive as long as possible and a versus mode for multiple human players. In the single-player modes, the player can choose between a male or female avatar. \n \nThe goal of the game is take a pair of falling dice, each with a specific color and number attached to them, and drop them into a grid with other fallen dice. If a die is on a line horizontally, vertically or diagonally with another die of the same color, both those dice and every die in-between will drop by one in value. Once a die has reached \"1\" and is involved in another combo, it disappears. Dice on top fall in the gaps left behind, potentially creating chain reactions. There are also power-ups that will either help the player out or create problems for the opponent. The game ends once the dice stack to the top of the screen.", 
+    "tags": [
+        268435465, 
+        536872843, 
+        536873440, 
+        536873787, 
+        536875057
+    ], 
+    "updated_at": 1515779518213, 
+    "url": "https://www.igdb.com/games/jammes"
+}

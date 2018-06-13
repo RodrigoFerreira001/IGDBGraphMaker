@@ -1,0 +1,99 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Choplifter 2: Rescue Survive"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30c1\u30e7\u30c3\u30d7\u30ea\u30d5\u30bf\u30fc\u2161"
+        }
+    ], 
+    "category": 0, 
+    "collection": 1945, 
+    "cover": {
+        "cloudinary_id": "oy8anbxoxge5jcnvsint", 
+        "height": 219, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/oy8anbxoxge5jcnvsint.jpg", 
+        "width": 220
+    }, 
+    "created_at": 1412097415189, 
+    "developers": [
+        804
+    ], 
+    "first_release_date": 677462400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        28029, 
+        76246, 
+        19341, 
+        25640, 
+        10039, 
+        32902, 
+        25311, 
+        68287, 
+        68142, 
+        36594
+    ], 
+    "genres": [
+        5, 
+        15
+    ], 
+    "id": 7823, 
+    "keywords": [
+        166
+    ], 
+    "name": "Choplifter II", 
+    "platforms": [
+        33
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        1767
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 677462400000, 
+            "human": "1991-Jun-21", 
+            "m": 6, 
+            "platform": 33, 
+            "region": 5, 
+            "y": 1991
+        }, 
+        {
+            "category": 1, 
+            "date": 683683200000, 
+            "human": "1991-Sep", 
+            "m": 9, 
+            "platform": 33, 
+            "region": 2, 
+            "y": 1991
+        }, 
+        {
+            "category": 2, 
+            "date": 694137600000, 
+            "human": "1991", 
+            "m": 12, 
+            "platform": 33, 
+            "region": 1, 
+            "y": 1991
+        }
+    ], 
+    "slug": "choplifter-ii", 
+    "summary": "The gameplay revolves around piloting a rescue helicopter into hostile territory and rescuing hostages. Enemies like birds, fighter jets, and even ammunition fired from various weapons can harm the player's helicopter. Saving more hostages than the scenario requires will allow players to collect extra points. However, losing a lot of hostage will lead to a loss of continues; regardles of how many lives the player has during that time. This is to simulate a mission failure and/or becoming a SNAFU.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435471, 
+        536871078
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1513086758616, 
+    "url": "https://www.igdb.com/games/choplifter-ii"
+}

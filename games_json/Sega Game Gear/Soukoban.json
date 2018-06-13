@@ -1,0 +1,48 @@
+{
+    "alternative_names": [
+        {
+            "name": "\u5009\u5eab\u756a"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vztexenyzrjcq34rvwrt", 
+        "height": 1038, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vztexenyzrjcq34rvwrt.jpg", 
+        "width": 745
+    }, 
+    "created_at": 1397822153912, 
+    "first_release_date": 504835200000, 
+    "genres": [
+        9
+    ], 
+    "id": 6136, 
+    "name": "Soukoban", 
+    "platforms": [
+        35, 
+        84
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 504835200000, 
+            "human": "1985", 
+            "m": 12, 
+            "platform": 84, 
+            "y": 1985
+        }, 
+        {
+            "category": 0, 
+            "date": 661219200000, 
+            "human": "1990-Dec-15", 
+            "m": 12, 
+            "platform": 35, 
+            "y": 1990
+        }
+    ], 
+    "slug": "soukoban", 
+    "summary": "The classical puzzle game of moving boxes to the right place hits MSX too with this conversion.", 
+    "updated_at": 1500305785629, 
+    "url": "https://www.igdb.com/games/soukoban"
+}

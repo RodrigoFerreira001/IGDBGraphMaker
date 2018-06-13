@@ -1,0 +1,188 @@
+{
+    "aggregated_rating": 66.6666666666667, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ktjzqpbcmyv05ddefhoc", 
+        "height": 698, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ktjzqpbcmyv05ddefhoc.jpg", 
+        "width": 560
+    }, 
+    "created_at": 1458222602770, 
+    "developers": [
+        717
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "488950"
+    }, 
+    "first_release_date": 1480982400000, 
+    "game_modes": [
+        2
+    ], 
+    "games": [
+        19376, 
+        19301, 
+        17583, 
+        29173, 
+        25311, 
+        23345, 
+        18918, 
+        19698, 
+        26769, 
+        55590
+    ], 
+    "genres": [
+        12, 
+        13, 
+        15
+    ], 
+    "hypes": 1, 
+    "id": 18399, 
+    "keywords": [
+        296, 
+        594, 
+        3782, 
+        4222, 
+        4234, 
+        4439, 
+        4486, 
+        4745, 
+        4882
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Werewolves Within", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        104
+    ], 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1480982400000, 
+            "human": "2016-Dec-06", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1480982400000, 
+            "human": "2016-Dec-06", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1480982400000, 
+            "human": "2016-Dec-06", 
+            "m": 12, 
+            "platform": 6, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1480982400000, 
+            "human": "2016-Dec-06", 
+            "m": 12, 
+            "platform": 48, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "fvtnomffphhsumupicct", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvtnomffphhsumupicct.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "li52vzuwosnazsvn4upy", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/li52vzuwosnazsvn4upy.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "zuuopjtm9lrfebwlscrt", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zuuopjtm9lrfebwlscrt.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "mswuei7f9bji5lzchm2i", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mswuei7f9bji5lzchm2i.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qe5xsha4n8cufzzyksx4", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qe5xsha4n8cufzzyksx4.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "werewolves-within", 
+    "summary": "Werewolves Within is a fast-paced game of hidden roles and social deduction for five to eight players. In one game, a player might be a villager trying their hardest to cleanse the town of werewolves, while minutes later they could be the werewolf, lying and betraying friends in order to survive the vote. Werewolves Within keeps players on their toes, constantly questioning each other and testing their personal judgement. Whether playing a vigilant villager or a devious werewolf, no two games are ever the same.", 
+    "tags": [
+        17, 
+        40, 
+        268435468, 
+        268435469, 
+        268435471, 
+        536871208, 
+        536871506, 
+        536874694, 
+        536875134, 
+        536875146, 
+        536875351, 
+        536875398, 
+        536875657, 
+        536875794, 
+        1073741831
+    ], 
+    "themes": [
+        17, 
+        40
+    ], 
+    "total_rating": 63.33333333333335, 
+    "total_rating_count": 3, 
+    "updated_at": 1523389367309, 
+    "url": "https://www.igdb.com/games/werewolves-within", 
+    "videos": [
+        {
+            "name": "Reveal Trailer", 
+            "video_id": "MMvlex_rIa0"
+        }
+    ]
+}

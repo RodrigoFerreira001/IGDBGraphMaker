@@ -1,0 +1,61 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "vp3mzddxbt9ifdkwfsh6", 
+        "height": 327, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vp3mzddxbt9ifdkwfsh6.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1469293561939, 
+    "first_release_date": 1242259200000, 
+    "games": [
+        49414, 
+        25636, 
+        21842, 
+        28080, 
+        36608, 
+        18862, 
+        75102, 
+        23913, 
+        47472, 
+        44922
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 21185, 
+    "name": "The Dark Spire", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1242259200000, 
+            "human": "2009-May-14", 
+            "m": 5, 
+            "platform": 20, 
+            "region": 8, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "yntg9wpftr9secz6cw9r", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yntg9wpftr9secz6cw9r.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "the-dark-spire", 
+    "tags": [
+        268435468
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1500324137905, 
+    "url": "https://www.igdb.com/games/the-dark-spire"
+}

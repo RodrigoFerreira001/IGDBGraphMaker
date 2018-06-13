@@ -1,0 +1,417 @@
+{
+    "aggregated_rating": 81.0, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Shadow Hearts 2"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30b7\u30e3\u30c9\u30a6\u30cf\u30fc\u30c4II"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "dlwalvyq23dhozlmrsel", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dlwalvyq23dhozlmrsel.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "gcduzxcnz9kf333cqbin", 
+            "height": 950, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gcduzxcnz9kf333cqbin.jpg", 
+            "width": 650
+        }, 
+        {
+            "cloudinary_id": "l4wi7622tbtvo4ymenfp", 
+            "height": 920, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l4wi7622tbtvo4ymenfp.jpg", 
+            "width": 650
+        }, 
+        {
+            "cloudinary_id": "qew7lthdfpvchyxjoba2", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qew7lthdfpvchyxjoba2.jpg", 
+            "width": 650
+        }, 
+        {
+            "cloudinary_id": "g9zvdcopkujzeyouqid7", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g9zvdcopkujzeyouqid7.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "hhmv93ibeutjcwgyz0uo", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hhmv93ibeutjcwgyz0uo.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "a9dtgpebn1xftlbxfkel", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a9dtgpebn1xftlbxfkel.jpg", 
+            "width": 770
+        }, 
+        {
+            "cloudinary_id": "mrcludkkpb1rabmggpol", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mrcludkkpb1rabmggpol.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "yjk9ohx4bzthmwwwrssq", 
+            "height": 950, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yjk9ohx4bzthmwwwrssq.jpg", 
+            "width": 650
+        }, 
+        {
+            "cloudinary_id": "c2cdl5wxppvf22rkzb1e", 
+            "height": 920, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/c2cdl5wxppvf22rkzb1e.jpg", 
+            "width": 650
+        }
+    ], 
+    "category": 0, 
+    "collection": 677, 
+    "cover": {
+        "cloudinary_id": "rronvmuw2lqom8iuetyh", 
+        "height": 818, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rronvmuw2lqom8iuetyh.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1390652888029, 
+    "developers": [
+        6210
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1077148800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        1219, 
+        4172, 
+        26766, 
+        1819, 
+        4170, 
+        9927, 
+        9600, 
+        23198, 
+        18822, 
+        6452
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 4171, 
+    "keywords": [
+        29, 
+        211, 
+        226, 
+        227, 
+        236, 
+        271, 
+        296, 
+        521, 
+        846, 
+        970, 
+        1026, 
+        1069, 
+        1186, 
+        1188, 
+        1212, 
+        1289, 
+        1310, 
+        1313, 
+        1320, 
+        1779, 
+        2118, 
+        2978, 
+        3002, 
+        3486, 
+        4143, 
+        4155, 
+        4162, 
+        4187, 
+        4266, 
+        4271, 
+        4284, 
+        4287, 
+        4320, 
+        4329, 
+        4359, 
+        4363, 
+        4402, 
+        4468, 
+        4540, 
+        4543, 
+        4611, 
+        4613, 
+        4625, 
+        4709, 
+        4727, 
+        4783, 
+        4851, 
+        4852, 
+        4910, 
+        4919, 
+        4943, 
+        4958, 
+        4984, 
+        5040, 
+        5094, 
+        5142, 
+        5178, 
+        5277, 
+        5283, 
+        5320, 
+        5354, 
+        5593, 
+        5626, 
+        5756, 
+        5791, 
+        5911, 
+        5935, 
+        5943, 
+        5963, 
+        6020, 
+        6028, 
+        6062, 
+        6378, 
+        6461, 
+        6541, 
+        6642, 
+        6648, 
+        6746, 
+        7076, 
+        7093, 
+        7166, 
+        7297, 
+        7396, 
+        7423, 
+        7461, 
+        8300, 
+        8884, 
+        8947, 
+        9293, 
+        9339, 
+        9843, 
+        10566, 
+        10804, 
+        11793, 
+        12242, 
+        12246, 
+        12258, 
+        12449, 
+        13110, 
+        15799
+    ], 
+    "name": "Shadow Hearts: Covenant", 
+    "platforms": [
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        6211, 
+        566
+    ], 
+    "rating": 80.0216977021072, 
+    "rating_count": 6, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1077148800000, 
+            "human": "2004-Feb-19", 
+            "m": 2, 
+            "platform": 8, 
+            "region": 5, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1096243200000, 
+            "human": "2004-Sep-27", 
+            "m": 9, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2004
+        }, 
+        {
+            "category": 0, 
+            "date": 1110499200000, 
+            "human": "2005-Mar-11", 
+            "m": 3, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2005
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ln78whpketceyyq6rc7w", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ln78whpketceyyq6rc7w.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "owkcpb7qqrwnfuvsyfkc", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/owkcpb7qqrwnfuvsyfkc.jpg", 
+            "width": 720
+        }, 
+        {
+            "cloudinary_id": "txkkcwposmo4atukjwuj", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/txkkcwposmo4atukjwuj.jpg", 
+            "width": 720
+        }, 
+        {
+            "cloudinary_id": "sctc2qqlxsjjlfalkter", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctc2qqlxsjjlfalkter.jpg", 
+            "width": 512
+        }
+    ], 
+    "slug": "shadow-hearts-covenant", 
+    "storyline": "The game begins with Karin Koenig, a lieutenant in the German Army during World War I, traveling to the town of Domremy with a Vatican Inquisitor, Nicolas \"Nicolai\" Conrad, to exorcise a demon there. When they arrive, the demon is revealed to be Yuri from the previous game. Nicolai casts a curse on Yuri; this severely weakens Yuri, but also reveals Nicolas as a member of Sapientes Gladio, a faction of dark sorcerers seeking world domination.\n\nYuri escapes with Karin and they build a small party of allies to thwart Nicolas' plan. Nicolai, a bastard son of Tsar Nicolas II, hopes to take over Russia with the help of Rasputin, the current leader of Sapientes Gladio. Yuri manages to recover his strength with the help of a former Sapientes Gladio sorcerer, Jovis, though his memory is still affected by Nicolai's curse. The group then finds and defeats Rasputin and Nicolai. Before Nicolai can be finished off, however, he is rescued by Kato, a Japanese Envoy and old friend of Yuri's, and taken to Japan.\n\nIn Japan, the party tracks Nicolai to a research lab, where he is possessed by a demon. After learning where he is, the party tracks him, but not before Kato's wife is killed. In despair, Kato attempts to remake the world using his own sorcery, forcing Yuri and his party to put him down\n\nThe game has two possible endings. In the \u201cbad\u201d ending, Yuri's personality and memories are erased by Nicolai's curse, and he spends the rest of his life under the care of Roger Bacon, his old friend. In the \u201cgood\u201d ending, Yuri chooses to die so that he doesn't lose his memories and personality to the curse. He then finds himself at the beginning of the previous game. In both endings, Karin travels back to 1887 and is revealed to be Anne, Yuri's mother.", 
+    "summary": "Shadow Hearts: Covenant is a direct continuation of Shadow Hearts; Its story starts a year and a half after the first one in the midst of World War I. It focuses on Karin Koenig, a lieutenant in the German Army who assists in the exorcism of a man able to turn into demons, Yuri Volte Hyuga. However, after learning of Yuri's caring nature, Karin goes on a quest with him to save him from a spell inside him and are drawn into a conflict involving demons of demonolatry.", 
+    "tags": [
+        17, 
+        18, 
+        22, 
+        268435468, 
+        536870941, 
+        536871123, 
+        536871138, 
+        536871139, 
+        536871148, 
+        536871183, 
+        536871208, 
+        536871433, 
+        536871758, 
+        536871882, 
+        536871938, 
+        536871981, 
+        536872098, 
+        536872100, 
+        536872124, 
+        536872201, 
+        536872222, 
+        536872225, 
+        536872232, 
+        536872691, 
+        536873030, 
+        536873890, 
+        536873914, 
+        536874398, 
+        536875055, 
+        536875067, 
+        536875074, 
+        536875099, 
+        536875178, 
+        536875183, 
+        536875196, 
+        536875199, 
+        536875232, 
+        536875241, 
+        536875271, 
+        536875275, 
+        536875314, 
+        536875380, 
+        536875452, 
+        536875455, 
+        536875523, 
+        536875525, 
+        536875537, 
+        536875621, 
+        536875639, 
+        536875695, 
+        536875763, 
+        536875764, 
+        536875822, 
+        536875831, 
+        536875855, 
+        536875870, 
+        536875896, 
+        536875952, 
+        536876006, 
+        536876054, 
+        536876090, 
+        536876189, 
+        536876195, 
+        536876232, 
+        536876266, 
+        536876505, 
+        536876538, 
+        536876668, 
+        536876703, 
+        536876823, 
+        536876847, 
+        536876855, 
+        536876875, 
+        536876932, 
+        536876940, 
+        536876974, 
+        536877290, 
+        536877373, 
+        536877453, 
+        536877554, 
+        536877560, 
+        536877658, 
+        536877988, 
+        536878005, 
+        536878078, 
+        536878209, 
+        536878308, 
+        536878335, 
+        536878373, 
+        536879212, 
+        536879796, 
+        536879859, 
+        536880205, 
+        536880251, 
+        536880755, 
+        536881478, 
+        536881716, 
+        536882705, 
+        536883154, 
+        536883158, 
+        536883170, 
+        536883361, 
+        536884022, 
+        536886711, 
+        1073741826
+    ], 
+    "themes": [
+        17, 
+        18, 
+        22
+    ], 
+    "total_rating": 80.5108488510536, 
+    "total_rating_count": 9, 
+    "updated_at": 1525446237345, 
+    "url": "https://www.igdb.com/games/shadow-hearts-covenant", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "zarpRDUKYnI"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "bmYeHdwOpfo"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.shadowheartscovenant.com"
+        }
+    ]
+}

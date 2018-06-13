@@ -1,0 +1,246 @@
+{
+    "aggregated_rating": 62.5, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "name": "DeathSpank 3"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "DeathSpank: The Baconing"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "DeathSpank: The BaconingDeathSpank 3"
+        }
+    ], 
+    "category": 0, 
+    "collection": 456, 
+    "cover": {
+        "cloudinary_id": "ksy0xe4cdbmrswgzpnrg", 
+        "height": 630, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ksy0xe4cdbmrswgzpnrg.jpg", 
+        "width": 486
+    }, 
+    "created_at": 1372405476042, 
+    "developers": [
+        1051
+    ], 
+    "external": {
+        "steam": "18070"
+    }, 
+    "first_release_date": 1314662400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        26766, 
+        25300, 
+        36926, 
+        19448, 
+        11567, 
+        36950, 
+        7350, 
+        21429, 
+        25311, 
+        19301
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "id": 2251, 
+    "keywords": [
+        296, 
+        350, 
+        970, 
+        1026, 
+        1158, 
+        4004, 
+        4134, 
+        4135, 
+        4150, 
+        4151, 
+        4284, 
+        4425, 
+        5262, 
+        5974, 
+        6105, 
+        6637, 
+        6928, 
+        6935, 
+        8289, 
+        9635, 
+        12003
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "The Baconing", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        6, 
+        92, 
+        14, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1052
+    ], 
+    "rating": 60.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1314748800000, 
+            "human": "2011-Aug-31", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1314662400000, 
+            "human": "2011-Aug-30", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1314748800000, 
+            "human": "2011-Aug-31", 
+            "m": 8, 
+            "platform": 92, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1314662400000, 
+            "human": "2011-Aug-30", 
+            "m": 8, 
+            "platform": 9, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1314748800000, 
+            "human": "2011-Aug-31", 
+            "m": 8, 
+            "platform": 6, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1314748800000, 
+            "human": "2011-Aug-31", 
+            "m": 8, 
+            "platform": 14, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1314748800000, 
+            "human": "2011-Aug-31", 
+            "m": 8, 
+            "platform": 12, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bxqthdqsudpnklszydoq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bxqthdqsudpnklszydoq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "csdndgefyzjifgk1ssxn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/csdndgefyzjifgk1ssxn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "r1fhkpzuptwhdpjfrhhu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r1fhkpzuptwhdpjfrhhu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "apimvu92i92zf8z09zhz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/apimvu92i92zf8z09zhz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wzqictnkjtbfk8hlrztx", 
+            "height": 365, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wzqictnkjtbfk8hlrztx.jpg", 
+            "width": 650
+        }
+    ], 
+    "slug": "the-baconing", 
+    "storyline": "You are DeathSpank, a hero and the ultimate Dispenser of Justice. You must defeat the Anti-Spank and his army of Cyborques, before they cast an evil shadow over Spanktopia.", 
+    "summary": "Prepare yourself for the ultimate sci-fi adventure by entering the hilarious and sizzling world of The Baconing created by Hothead Games. Discover exciting new worlds and battle hordes of enemies as you search to unlock the secret within the Fires of Bacon.", 
+    "tags": [
+        1, 
+        18, 
+        27, 
+        268435468, 
+        268435487, 
+        536871208, 
+        536871262, 
+        536871882, 
+        536871938, 
+        536872070, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875062, 
+        536875063, 
+        536875196, 
+        536875337, 
+        536876174, 
+        536876886, 
+        536877017, 
+        536877549, 
+        536877840, 
+        536877847, 
+        536879201, 
+        536880547, 
+        536882915, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18, 
+        27
+    ], 
+    "total_rating": 61.25, 
+    "total_rating_count": 4, 
+    "updated_at": 1523282411054, 
+    "url": "https://www.igdb.com/games/the-baconing"
+}

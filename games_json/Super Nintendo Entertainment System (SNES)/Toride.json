@@ -1,0 +1,77 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Paitoride"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "g4udptilfzdrzqajlxuk", 
+        "height": 318, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/g4udptilfzdrzqajlxuk.jpg", 
+        "width": 563
+    }, 
+    "created_at": 1497877422844, 
+    "first_release_date": 786931200000, 
+    "games": [
+        11588, 
+        25217, 
+        19083, 
+        28213, 
+        7782, 
+        78426, 
+        77012, 
+        67592, 
+        65315, 
+        64812
+    ], 
+    "genres": [
+        14, 
+        26
+    ], 
+    "id": 37784, 
+    "keywords": [
+        296, 
+        2601, 
+        4139, 
+        5797
+    ], 
+    "name": "Toride", 
+    "platforms": [
+        19
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 786931200000, 
+            "human": "1994-Dec-09", 
+            "m": 12, 
+            "platform": 19, 
+            "region": 5, 
+            "y": 1994
+        }, 
+        {
+            "category": 0, 
+            "date": 789609600000, 
+            "human": "1995-Jan-09", 
+            "m": 1, 
+            "platform": 19, 
+            "region": 8, 
+            "y": 1995
+        }
+    ], 
+    "slug": "toride", 
+    "summary": "Toride (\"Fortress\", sometimes referred to as Pai Toride or \"Mahjong Tile Fortress\") is a mahjong solitaire game released exclusively in Japan first in the Arcade and subsequently on the Super Famicom in 1994. The Arcade version is sometimes referred to as \"Last Fortress\". \n \nThe player must clear all the tiles on the screen, as per usual mahjong solitaire rules, but in order to do so they have to store matching tiles along the bottom of the screen. The player's \"hand\" has a limited number of slots available, and if the player fills it up with pieces that don't match then they have failed. There is also a timer for the whole round that ticks down whenever the player is deliberating on their next move, and removing pairs of pieces from play will slightly refill it. There are also special power-up tiles that increase the timer. \n \nAs with mahjong solitaire, the player can only match identical tiles. The exception are the eight unique season and flower tiles, which can be paired off with any other season or flower (though it has to be two seasons or two flowers).", 
+    "tags": [
+        268435470, 
+        268435482, 
+        536871208, 
+        536873513, 
+        536875051, 
+        536876709
+    ], 
+    "updated_at": 1516662901707, 
+    "url": "https://www.igdb.com/games/toride"
+}

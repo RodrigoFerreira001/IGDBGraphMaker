@@ -1,0 +1,67 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "pqbmwyjtgdzqlkdwgygi", 
+        "height": 204, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pqbmwyjtgdzqlkdwgygi.jpg", 
+        "width": 272
+    }, 
+    "created_at": 1517413959350, 
+    "first_release_date": 1284336000000, 
+    "id": 85548, 
+    "name": "Castle Conqueror", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        6379
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1289952000000, 
+            "human": "2010-Nov-17", 
+            "m": 11, 
+            "platform": 159, 
+            "region": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1300406400000, 
+            "human": "2011-Mar-18", 
+            "m": 3, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1284336000000, 
+            "human": "2010-Sep-13", 
+            "m": 9, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "uwmubzpcgzvo529d9h7h", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uwmubzpcgzvo529d9h7h.jpg", 
+            "width": 272
+        }, 
+        {
+            "cloudinary_id": "flzjcni4fztqc1nxmvep", 
+            "height": 408, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/flzjcni4fztqc1nxmvep.jpg", 
+            "width": 272
+        }
+    ], 
+    "slug": "castle-conqueror", 
+    "summary": "Castle Conqueror is a real-time strategy game for casual gamers.", 
+    "updated_at": 1518051992209, 
+    "url": "https://www.igdb.com/games/castle-conqueror"
+}

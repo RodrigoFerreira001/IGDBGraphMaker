@@ -1,0 +1,109 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "htwxmir4wjyno8mjrmwd", 
+        "height": 262, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/htwxmir4wjyno8mjrmwd.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1469816887732, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1230681600000, 
+    "games": [
+        25222, 
+        18167, 
+        54678, 
+        6732, 
+        26223, 
+        13163, 
+        60044, 
+        28113, 
+        11423, 
+        14047
+    ], 
+    "genres": [
+        9
+    ], 
+    "id": 21812, 
+    "keywords": [
+        902, 
+        1293, 
+        1299, 
+        1503, 
+        2152, 
+        2875, 
+        3831, 
+        4134, 
+        4162, 
+        4359, 
+        5450, 
+        5523, 
+        5850
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Boogie Bunnies", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1230681600000, 
+            "human": "2008", 
+            "m": 12, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jp2gg3imnrjftntqoapt", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jp2gg3imnrjftntqoapt.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "boogie-bunnies", 
+    "summary": "Boogie Bunnies is a Puzzle game produced by Sierra Online and Artech Studios for the XBLM.", 
+    "tags": [
+        268435465, 
+        536871814, 
+        536872205, 
+        536872211, 
+        536872415, 
+        536873064, 
+        536873787, 
+        536874743, 
+        536875046, 
+        536875074, 
+        536875271, 
+        536876362, 
+        536876435, 
+        536876762
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1515746669175, 
+    "url": "https://www.igdb.com/games/boogie-bunnies"
+}

@@ -1,0 +1,159 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "x4ew1leeur5hchpq3jyc", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/x4ew1leeur5hchpq3jyc.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1495875030897, 
+    "external": {
+        "steam": "347330"
+    }, 
+    "first_release_date": 1465257600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        37022, 
+        55289, 
+        44191, 
+        34919, 
+        25646, 
+        40524, 
+        25311, 
+        23175, 
+        28277, 
+        37419
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 35803, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 3, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "HeartZ: Co-Hope Puzzles", 
+    "platforms": [
+        6, 
+        14, 
+        49, 
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1933
+    ], 
+    "rating": 70.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1465344000000, 
+            "human": "2016-Jun-08", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1465257600000, 
+            "human": "2016-Jun-07", 
+            "m": 6, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1465257600000, 
+            "human": "2016-Jun-07", 
+            "m": 6, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1465257600000, 
+            "human": "2016-Jun-07", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "deg4612qs0kicjjtdbg9", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/deg4612qs0kicjjtdbg9.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "trqpdvtlxttbetalmkkq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/trqpdvtlxttbetalmkkq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ulqiu1z1eayaeaclx0e2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ulqiu1z1eayaeaclx0e2.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "x3ad2g8fhsmp4uqcnphv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x3ad2g8fhsmp4uqcnphv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "oqa4ao9g20h5lopt43ae", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oqa4ao9g20h5lopt43ae.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "heartz-co-hope-puzzles", 
+    "summary": "HeartZ offers you a hearty combination of platform, action, puzzle and local co-op gaming. Outsmart traps and solve mysteries in each room and level while getting rid of Dr. Nylus' soldiers and machines! \nKick, jump, fart, scare, bite... your way through mischievously designed levels!", 
+    "tags": [
+        1, 
+        268435487, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528354141331, 
+    "url": "https://www.igdb.com/games/heartz-co-hope-puzzles", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.heartz-game.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/347330"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 7, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "yz90udvf7my2fqtigbhi", 
+        "height": 620, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yz90udvf7my2fqtigbhi.jpg", 
+        "width": 620
+    }, 
+    "created_at": 1467985458789, 
+    "first_release_date": 1460764800000, 
+    "id": 20035, 
+    "name": "Koi", 
+    "platforms": [
+        45, 
+        48
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        7501
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 1483142400000, 
+            "human": "2016", 
+            "m": 12, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1461024000000, 
+            "human": "2016-Apr-19", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1460764800000, 
+            "human": "2016-Apr-16", 
+            "m": 4, 
+            "platform": 48, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "hcvmvi5sm3eol8zzsggt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hcvmvi5sm3eol8zzsggt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wylswe8wgnvo2vdvofbw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wylswe8wgnvo2vdvofbw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lyglmu4x5uj2a28ugylc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lyglmu4x5uj2a28ugylc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "duwgflbhwvccjqpploem", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/duwgflbhwvccjqpploem.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xqadsfrtclv2epac3yrj", 
+            "height": 786, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xqadsfrtclv2epac3yrj.jpg", 
+            "width": 1400
+        }
+    ], 
+    "slug": "koi", 
+    "summary": "KOI is an award-winning exploration adventure game that details the story of a small koi on a grand adventure.", 
+    "total_rating": 50.0, 
+    "total_rating_count": 7, 
+    "updated_at": 1520963180379, 
+    "url": "https://www.igdb.com/games/koi", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.koips4.com/en/"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "gjwgsjh8dc827xynr30v", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gjwgsjh8dc827xynr30v.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1516354397849, 
+    "first_release_date": 1461628800000, 
+    "game_modes": [
+        2
+    ], 
+    "id": 82448, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Brick Breaker", 
+    "platforms": [
+        41, 
+        49
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        8904
+    ], 
+    "rating": 60.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1473897600000, 
+            "human": "2016-Sep-15", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1473897600000, 
+            "human": "2016-Sep-15", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1461628800000, 
+            "human": "2016-Apr-26", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "kqraae3tvm2epwtpl5r1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kqraae3tvm2epwtpl5r1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "u5icwoxslfjm8dhfmuhi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u5icwoxslfjm8dhfmuhi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bvtx4nelkbwesykippzr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bvtx4nelkbwesykippzr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xfaysrmolvuxztm5mosl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xfaysrmolvuxztm5mosl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "d5lcplyaysshzlgt0b6x", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d5lcplyaysshzlgt0b6x.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "brick-breaker--1", 
+    "summary": "Brick Breaker, the classic arcade game, is back with a breathtaking new version. Its explosive gameplay - unique and timeless - is filled with surprises. Sharpen your reflexes and precision to overcome the hundred different levels that await you. Collect bonuses, avoid traps and shoot your way to victory. Play alone or with up to 4 players on a split screen. Brick Breaker will offer you many hours of fun and entertainment!", 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528351472878, 
+    "url": "https://www.igdb.com/games/brick-breaker--1"
+}

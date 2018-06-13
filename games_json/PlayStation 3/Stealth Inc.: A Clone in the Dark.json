@@ -1,0 +1,120 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 1458, 
+    "cover": {
+        "cloudinary_id": "hg4awg0efe1kxjuuafhv", 
+        "height": 320, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hg4awg0efe1kxjuuafhv.jpg", 
+        "width": 320
+    }, 
+    "created_at": 1467979868109, 
+    "first_release_date": 1374537600000, 
+    "games": [
+        14605, 
+        17469, 
+        75586, 
+        25130, 
+        43130, 
+        23175, 
+        28277, 
+        63734, 
+        29646, 
+        27266
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 20016, 
+    "name": "Stealth Inc.: A Clone in the Dark", 
+    "platforms": [
+        45, 
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1374624000000, 
+            "human": "2013-Jul-24", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1374537600000, 
+            "human": "2013-Jul-23", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1374624000000, 
+            "human": "2013-Jul-24", 
+            "m": 7, 
+            "platform": 45, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1377216000000, 
+            "human": "2013-Aug-23", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "nkwhrzu8xdsx0irurs2l", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nkwhrzu8xdsx0irurs2l.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "bt0ftobap7n6az85vobn", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bt0ftobap7n6az85vobn.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "ansnle3tpljt7lypo38x", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ansnle3tpljt7lypo38x.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "hqqwossj6gf976rosujz", 
+            "height": 544, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hqqwossj6gf976rosujz.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "foiyxwrecjf0alozmiyd", 
+            "height": 349, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/foiyxwrecjf0alozmiyd.jpg", 
+            "width": 620
+        }
+    ], 
+    "slug": "stealth-inc-dot-a-clone-in-the-dark", 
+    "summary": "Stealth Inc is a fast-paced stealth platformer featuring brutal hazards, ruthless enemies, fiendish puzzles and red pixels galore. Jump, sneak, and be chunked through 80 levels. Will you make it out alive? \n \nArmed with only your wits and a pair of top of the range Stealthing Goggles, it's your job to sneak your way through a deadly facility that's determined to extinguish your fragile little life. With no weapons and no armour, being seen means instant death. \n \nStay out of the light to avoid the attention of deadly security robots! Leap like a lusty salmon to avoid those zap-happy lasers! Think fast as the walls close in around you! And once you've defeated these deadly chambers (or they've defeated you), create your own fiendish death-rooms in Stealth Inc's fully-featured level editor!", 
+    "tags": [
+        268435487
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1516088030890, 
+    "url": "https://www.igdb.com/games/stealth-inc-dot-a-clone-in-the-dark", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://stealthincgame.com/"
+        }
+    ]
+}

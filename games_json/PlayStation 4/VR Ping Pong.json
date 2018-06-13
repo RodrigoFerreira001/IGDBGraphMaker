@@ -1,0 +1,182 @@
+{
+    "aggregated_rating": 85.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kq3eznxpbsrodco4zzfx", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kq3eznxpbsrodco4zzfx.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1469539929203, 
+    "developers": [
+        10914
+    ], 
+    "external": {
+        "steam": "492710"
+    }, 
+    "first_release_date": 1473724800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        28465, 
+        34919, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        22690, 
+        18623, 
+        28277, 
+        29173
+    ], 
+    "genres": [
+        13, 
+        14, 
+        32
+    ], 
+    "id": 21602, 
+    "keywords": [
+        374, 
+        1000, 
+        1166, 
+        1712, 
+        4234, 
+        4245, 
+        4437, 
+        4439, 
+        8820
+    ], 
+    "name": "VR Ping Pong", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        10304, 
+        4726
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1486512000000, 
+            "human": "2017-Feb-08", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1486425600000, 
+            "human": "2017-Feb-07", 
+            "m": 2, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1486425600000, 
+            "human": "2017-Feb-07", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1486425600000, 
+            "human": "2017-Feb-07", 
+            "m": 2, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1473724800000, 
+            "human": "2016-Sep-13", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ryynqqcl6mosvbqzf44j", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ryynqqcl6mosvbqzf44j.jpg", 
+            "width": 1866
+        }, 
+        {
+            "cloudinary_id": "r7pkycpa2dypymx2sjok", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r7pkycpa2dypymx2sjok.jpg", 
+            "width": 1866
+        }, 
+        {
+            "cloudinary_id": "cj1emivvhwhg3lyo13tm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cj1emivvhwhg3lyo13tm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ohbulvyn6kw1obmwjxve", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ohbulvyn6kw1obmwjxve.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "co8aklp1js2txa5xu0kf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8aklp1js2txa5xu0kf.jpg", 
+            "width": 1866
+        }
+    ], 
+    "slug": "vr-ping-pong", 
+    "summary": "Ping Pong VR is the first simulator that thanks to VR technology, and with the help of SteamVR Controllers, brings a ping pong table into your lounge.\nUsing 1:1 scale with virtual reality, you will have the sensation of play ping pong in reality: Virtual reality teleports you inside voxel-style environments that until today you could only dream to visit.", 
+    "tags": [
+        268435469, 
+        268435470, 
+        268435488, 
+        536871286, 
+        536871912, 
+        536872078, 
+        536872624, 
+        536875146, 
+        536875157, 
+        536875349, 
+        536875351, 
+        536879732, 
+        1073741831
+    ], 
+    "total_rating": 82.5, 
+    "total_rating_count": 1, 
+    "updated_at": 1523388138009, 
+    "url": "https://www.igdb.com/games/vr-ping-pong", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "-bZEKB_lPeg"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/492710"
+        }
+    ]
+}

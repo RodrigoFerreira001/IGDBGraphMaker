@@ -1,0 +1,254 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 2064, 
+    "cover": {
+        "cloudinary_id": "qcsel4pfbvdfdxb3d9ck", 
+        "height": 1024, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qcsel4pfbvdfdxb3d9ck.jpg", 
+        "width": 1024
+    }, 
+    "created_at": 1456231655911, 
+    "developers": [
+        8537
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "394760"
+    }, 
+    "first_release_date": 1445990400000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        27314, 
+        25300, 
+        29525, 
+        25311, 
+        68287, 
+        64204, 
+        16468, 
+        19448, 
+        68142, 
+        76229
+    ], 
+    "genres": [
+        5, 
+        12, 
+        32
+    ], 
+    "id": 18078, 
+    "keywords": [
+        5, 
+        69, 
+        453, 
+        596, 
+        970
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 3, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dead Effect 2", 
+    "platforms": [
+        34, 
+        6, 
+        39, 
+        14, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        8537
+    ], 
+    "rating": 60.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1484265600000, 
+            "human": "2017-Jan-13", 
+            "m": 1, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1445990400000, 
+            "human": "2015-Oct-28", 
+            "m": 10, 
+            "platform": 34, 
+            "region": 3, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1484611200000, 
+            "human": "2017-Jan-17", 
+            "m": 1, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1462492800000, 
+            "human": "2016-May-06", 
+            "m": 5, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1462492800000, 
+            "human": "2016-May-06", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 1, 
+            "date": 1464739200000, 
+            "human": "2016-Jun", 
+            "m": 6, 
+            "platform": 49, 
+            "y": 2016
+        }, 
+        {
+            "category": 1, 
+            "date": 1464739200000, 
+            "human": "2016-Jun", 
+            "m": 6, 
+            "platform": 48, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1445990400000, 
+            "human": "2015-Oct-28", 
+            "m": 10, 
+            "platform": 39, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1445990400000, 
+            "human": "2015-Oct-28", 
+            "m": 10, 
+            "platform": 34, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "m79fl8wz0cm6irwt1cu1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m79fl8wz0cm6irwt1cu1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "exdt5r4uoavqsa4ibspv", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/exdt5r4uoavqsa4ibspv.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "f7uoiqfcocknvwgufdje", 
+            "height": 844, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f7uoiqfcocknvwgufdje.jpg", 
+            "width": 1500
+        }, 
+        {
+            "cloudinary_id": "xt3jrj47vovl31q2nara", 
+            "height": 660, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xt3jrj47vovl31q2nara.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "iibqi5nx1mqhhswcirgm", 
+            "height": 660, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/iibqi5nx1mqhhswcirgm.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "dead-effect-2", 
+    "summary": "Dead Effect 2 is the newest addition to the acclaimed Dead Effect franchise. This action sci-fi shooter is looking to push the boundaries of first-person shooters to new levels with slick graphics, rich narrative, RPG elements and a cooperative multiplayer mode.", 
+    "tags": [
+        1, 
+        18, 
+        19, 
+        268435461, 
+        268435468, 
+        268435488, 
+        536870917, 
+        536870981, 
+        536871365, 
+        536871508, 
+        536871882, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        18, 
+        19
+    ], 
+    "total_rating": 62.5, 
+    "total_rating_count": 3, 
+    "updated_at": 1523411883378, 
+    "url": "https://www.igdb.com/games/dead-effect-2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "hqiPSE5dGq0"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "orH5WXWUsyk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/394760"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://deadeffect2.com/"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/deadeffectgame"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/pages/Dead-Effect/398842240204387?fref=ts"
+        }
+    ]
+}

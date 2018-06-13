@@ -1,0 +1,76 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "avqq3uclh9mlcnz7ohjy", 
+        "height": 456, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/avqq3uclh9mlcnz7ohjy.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1517429463277, 
+    "first_release_date": 1380758400000, 
+    "id": 85646, 
+    "name": "Family Bowling 3D", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        1218
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1447286400000, 
+            "human": "2015-Nov-12", 
+            "m": 11, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1380758400000, 
+            "human": "2013-Oct-03", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "opfko6tcrf6nwjoqhgi0", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/opfko6tcrf6nwjoqhgi0.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "ocviwn4dz55g0sz5dw0l", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ocviwn4dz55g0sz5dw0l.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "j9ahygrz0esdfbdokklk", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j9ahygrz0esdfbdokklk.jpg", 
+            "width": 346
+        }, 
+        {
+            "cloudinary_id": "swe0vjwvfxe53j6j7ptj", 
+            "height": 415, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/swe0vjwvfxe53j6j7ptj.jpg", 
+            "width": 346
+        }
+    ], 
+    "slug": "family-bowling-3d", 
+    "summary": "Family Bowling 3D is a game in which anyone can enjoy bowling with simple controls.", 
+    "updated_at": 1518059285456, 
+    "url": "https://www.igdb.com/games/family-bowling-3d", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.arcsystemworks.jp/arcstyle/overseas/bowling3d/eng/"
+        }
+    ]
+}

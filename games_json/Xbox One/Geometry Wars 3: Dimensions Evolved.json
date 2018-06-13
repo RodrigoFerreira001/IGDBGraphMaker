@@ -1,0 +1,177 @@
+{
+    "category": 0, 
+    "collection": 729, 
+    "cover": {
+        "cloudinary_id": "cq9dwykdlvqmwe4ejscq", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cq9dwykdlvqmwe4ejscq.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1455281539520, 
+    "developers": [
+        8845, 
+        73
+    ], 
+    "external": {
+        "steam": "310790"
+    }, 
+    "first_release_date": 1412208000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        28029, 
+        76246, 
+        19341, 
+        32902, 
+        10039, 
+        68287, 
+        68142, 
+        28751, 
+        36794, 
+        24920
+    ], 
+    "genres": [
+        5, 
+        33
+    ], 
+    "id": 17573, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 8, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Geometry Wars 3: Dimensions Evolved", 
+    "platforms": [
+        6, 
+        39, 
+        14, 
+        49, 
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        316, 
+        66, 
+        73
+    ], 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1432771200000, 
+            "human": "2015-May-28", 
+            "m": 5, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1427846400000, 
+            "human": "2015-Apr-01", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1412208000000, 
+            "human": "2014-Oct-02", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412208000000, 
+            "human": "2014-Oct-02", 
+            "m": 10, 
+            "platform": 14, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1412208000000, 
+            "human": "2014-Oct-02", 
+            "m": 10, 
+            "platform": 3, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "e0lwmc0c5nsbwo5hp5us", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/e0lwmc0c5nsbwo5hp5us.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yhzh3vw5spuzvz6kuxml", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yhzh3vw5spuzvz6kuxml.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gnhhytimhu6l18ogikj9", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gnhhytimhu6l18ogikj9.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nadogp7gvqgpd0ofxkya", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nadogp7gvqgpd0ofxkya.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wonaahlyn4hbf2t6qvaa", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wonaahlyn4hbf2t6qvaa.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "geometry-wars-3-dimensions-evolved", 
+    "summary": "Experience the full evolution of the award-winning Geometry Wars franchise and battle through waves of enemies on 3D grids in this frenetic arcade shooter!\n\nGeometry Wars 3: Dimensions Evolved includes all of the great content & features from Geometry Wars 3: Dimensions and more.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435489
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1528353663785, 
+    "url": "https://www.igdb.com/games/geometry-wars-3-dimensions-evolved", 
+    "websites": [
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/geometry-wars-3-dimensions-evolved/id917463360?mt=8&uo=4"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.sierra.com/geometrywars"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/310790"
+        }
+    ]
+}

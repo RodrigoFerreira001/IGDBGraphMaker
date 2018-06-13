@@ -1,0 +1,207 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 3701, 
+    "cover": {
+        "cloudinary_id": "rpy67cyehwwqqmgjj5qy", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rpy67cyehwwqqmgjj5qy.jpg", 
+        "width": 240
+    }, 
+    "created_at": 1472930679059, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "415150"
+    }, 
+    "first_release_date": 1460937600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        10039, 
+        68287, 
+        6732, 
+        28029, 
+        37094, 
+        25646, 
+        29525, 
+        76229, 
+        36781, 
+        20918
+    ], 
+    "genres": [
+        5, 
+        8, 
+        9
+    ], 
+    "id": 23372, 
+    "keywords": [
+        1025, 
+        4134, 
+        4450, 
+        4577, 
+        4729, 
+        4754, 
+        4911, 
+        5285
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Pang Adventures", 
+    "platforms": [
+        45, 
+        6, 
+        49
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        4501
+    ], 
+    "pulse_count": 1, 
+    "rating": 80.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1461024000000, 
+            "human": "2016-Apr-19", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1461024000000, 
+            "human": "2016-Apr-19", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1461024000000, 
+            "human": "2016-Apr-19", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1461024000000, 
+            "human": "2016-Apr-19", 
+            "m": 4, 
+            "platform": 45, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1460937600000, 
+            "human": "2016-Apr-18", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "onyotqbxvvvq1d2hfjlg", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/onyotqbxvvvq1d2hfjlg.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uis3cikakx1gptqyszef", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uis3cikakx1gptqyszef.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "w8iua8atulafodgl2epn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w8iua8atulafodgl2epn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uaos68ivcqmzifvd3c97", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uaos68ivcqmzifvd3c97.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ory9fcpml54ciysjodwx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ory9fcpml54ciysjodwx.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "pang-adventures", 
+    "summary": "The Pang series is a beloved collection of arcade video games from the early 90s. Guide two brothers on a quest around the world to save humankind from a massive alien invasion!", 
+    "tags": [
+        1, 
+        268435461, 
+        268435464, 
+        268435465, 
+        536871937, 
+        536875046, 
+        536875362, 
+        536875489, 
+        536875641, 
+        536875666, 
+        536875823, 
+        536876197
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 75.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1528356422352, 
+    "url": "https://www.igdb.com/games/pang-adventures", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.facebook.com/Pang.Adventures/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/415150"
+        }
+    ]
+}

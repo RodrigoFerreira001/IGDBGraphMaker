@@ -1,0 +1,382 @@
+{
+    "aggregated_rating": 88.6153846153846, 
+    "aggregated_rating_count": 12, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Diablo 3: Reaper of Souls"
+        }
+    ], 
+    "category": 2, 
+    "collection": 24, 
+    "cover": {
+        "cloudinary_id": "qbgh5zqabojbi9ftnujg", 
+        "height": 1500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qbgh5zqabojbi9ftnujg.jpg", 
+        "width": 1057
+    }, 
+    "created_at": 1384856392221, 
+    "developers": [
+        51
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "first_release_date": 1395705600000, 
+    "game": 120, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        120, 
+        36926, 
+        44076, 
+        1907, 
+        4843, 
+        47823, 
+        17583, 
+        11567, 
+        26769, 
+        12632
+    ], 
+    "genres": [
+        12, 
+        15, 
+        25, 
+        31
+    ], 
+    "hypes": 8, 
+    "id": 3182, 
+    "keywords": [
+        174, 
+        296, 
+        395, 
+        478, 
+        584, 
+        1026, 
+        1102, 
+        1120, 
+        1513, 
+        2002, 
+        2381, 
+        2472, 
+        2910, 
+        3782, 
+        4488, 
+        4584, 
+        4826, 
+        4918, 
+        5022, 
+        5095, 
+        5115, 
+        5306, 
+        5308, 
+        5321, 
+        5323, 
+        5327, 
+        5600, 
+        5695, 
+        5806, 
+        6543, 
+        6648, 
+        6682, 
+        7096, 
+        7220, 
+        7458
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Diablo III: Reaper of Souls", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\nIt contains: Realistic looking violence -\nThis game allows the player to interact with other players ONLINE."
+    }, 
+    "platforms": [
+        6, 
+        14, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 8.333333333333332, 
+    "publishers": [
+        51, 
+        26
+    ], 
+    "pulse_count": 17, 
+    "rating": 84.29800682821879, 
+    "rating_count": 157, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1395705600000, 
+            "human": "2014-Mar-25", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1395705600000, 
+            "human": "2014-Mar-25", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1395705600000, 
+            "human": "2014-Mar-25", 
+            "m": 3, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408579200000, 
+            "human": "2014-Aug-21", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408579200000, 
+            "human": "2014-Aug-21", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1408406400000, 
+            "human": "2014-Aug-19", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 3, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ksobg1idwl6gn89d46w7", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ksobg1idwl6gn89d46w7.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fsyoqfsz51n2y82qbbj2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fsyoqfsz51n2y82qbbj2.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "quuu3tvcq0jy9rs0bjzp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/quuu3tvcq0jy9rs0bjzp.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "diablo-iii-reaper-of-souls", 
+    "summary": "Diablo III is an action role-playing game that takes place throughout the dark fantasy world of Sanctuary.\n\n You play a hero who engages in fast-paced combat that tests your reflexes and rewards tactical decisions. As you slay hordes of monsters and challenging bosses, you grow in experience and ability, learning new skills and acquiring items of incredible power.", 
+    "tags": [
+        1, 
+        17, 
+        19, 
+        268435468, 
+        268435471, 
+        268435481, 
+        268435487, 
+        536871086, 
+        536871208, 
+        536871307, 
+        536871390, 
+        536871496, 
+        536871938, 
+        536872014, 
+        536872032, 
+        536872425, 
+        536872914, 
+        536873293, 
+        536873384, 
+        536873822, 
+        536874694, 
+        536875400, 
+        536875496, 
+        536875738, 
+        536875830, 
+        536875934, 
+        536876007, 
+        536876027, 
+        536876218, 
+        536876220, 
+        536876233, 
+        536876235, 
+        536876239, 
+        536876512, 
+        536876607, 
+        536876718, 
+        536877455, 
+        536877560, 
+        536877594, 
+        536878008, 
+        536878132, 
+        536878370, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        17, 
+        19
+    ], 
+    "time_to_beat": {
+        "completely": 828000
+    }, 
+    "total_rating": 86.4566957218017, 
+    "total_rating_count": 169, 
+    "updated_at": 1528226685160, 
+    "url": "https://www.igdb.com/games/diablo-iii-reaper-of-souls", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Cb7QJwQ58T0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://us.battle.net/d3/en/reaper-of-souls/"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Diablo_III:_Reaper_of_Souls"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://diablo.wikia.com/wiki/Diablo_III:_Reaper_of_Souls"
+        }
+    ]
+}

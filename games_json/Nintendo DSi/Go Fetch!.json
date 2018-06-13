@@ -1,0 +1,64 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Insuki: Go Fetch! (JP)"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "nppqnj2qmpribptuf2ui", 
+        "height": 282, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nppqnj2qmpribptuf2ui.jpg", 
+        "width": 376
+    }, 
+    "created_at": 1517395540548, 
+    "first_release_date": 1289779200000, 
+    "id": 85166, 
+    "name": "Go Fetch!", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        1566
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1292976000000, 
+            "human": "2010-Dec-22", 
+            "m": 12, 
+            "platform": 159, 
+            "region": 5, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1289779200000, 
+            "human": "2010-Nov-15", 
+            "m": 11, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gfykiz2fonuegccx70ud", 
+            "height": 373, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gfykiz2fonuegccx70ud.jpg", 
+            "width": 256
+        }, 
+        {
+            "cloudinary_id": "denigjfs2i3xdxcgmkr6", 
+            "height": 373, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/denigjfs2i3xdxcgmkr6.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "go-fetch", 
+    "summary": "The idea of Go Fetch! is simple yet entertaining.", 
+    "updated_at": 1518062754079, 
+    "url": "https://www.igdb.com/games/go-fetch"
+}

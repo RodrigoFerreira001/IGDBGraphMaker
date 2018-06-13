@@ -1,0 +1,365 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 6, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "D3"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u9b54\u754c\u6226\u8a18\u30c7\u30a3\u30b9\u30ac\u30a4\u30a23"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "edeei2i1limazjdmwbyz", 
+            "height": 570, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/edeei2i1limazjdmwbyz.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "xovqxp1fdlu0s4ay2kid", 
+            "height": 1100, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xovqxp1fdlu0s4ay2kid.jpg", 
+            "width": 780
+        }, 
+        {
+            "cloudinary_id": "fwieo6fdw6mby9dzjpjp", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fwieo6fdw6mby9dzjpjp.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "ropjgrfgheru6hw16is4", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ropjgrfgheru6hw16is4.jpg", 
+            "width": 1000
+        }
+    ], 
+    "category": 0, 
+    "collection": 987, 
+    "cover": {
+        "cloudinary_id": "icv4vo03g2s656zky0v6", 
+        "height": 295, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/icv4vo03g2s656zky0v6.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1402197037027, 
+    "developers": [
+        1405
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "Disgaea 3: Absence of Justice is a strategy role-playing game set in a whimsical alternate world full of 'delinquent' demons and evil honor roll academics. Players control a group of characters in a quest to bring order in this 'Netherworld.' Fighting is turn-based and includes bludgeoning, shooting and magic attacks. Several female characters wear revealing outfits showing cleavage, and cutscenes occasionally feature suggestive dialogue (e.g., 'make anyone your prisoner of love,' 'thrust out your butt'). Moderate profanity ('bada**,' 'bastard,') can be heard occasionally during cutscenes. 'Hard liquor' appears in the player's inventory and can be provided to other characters."
+    }, 
+    "first_release_date": 1201737600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        18370, 
+        7298, 
+        1443, 
+        11694, 
+        26766, 
+        23198, 
+        26841, 
+        11610, 
+        9927, 
+        28414
+    ], 
+    "genres": [
+        12, 
+        15, 
+        24
+    ], 
+    "id": 7297, 
+    "keywords": [
+        78, 
+        164, 
+        226, 
+        227, 
+        236, 
+        296, 
+        301, 
+        350, 
+        395, 
+        415, 
+        584, 
+        760, 
+        1026, 
+        1209, 
+        1313, 
+        1565, 
+        1923, 
+        2543, 
+        2679, 
+        3431, 
+        3486, 
+        3782, 
+        4163, 
+        4239, 
+        4245, 
+        4248, 
+        4284, 
+        4377, 
+        4388, 
+        4392, 
+        4397, 
+        4398, 
+        4419, 
+        4446, 
+        4449, 
+        4460, 
+        4477, 
+        4543, 
+        4566, 
+        4660, 
+        4742, 
+        4788, 
+        4826, 
+        4863, 
+        4866, 
+        4869, 
+        4979, 
+        5298, 
+        5320, 
+        5329, 
+        5354, 
+        5374, 
+        5854, 
+        6016, 
+        6648, 
+        8157, 
+        8796, 
+        8815, 
+        9086, 
+        9519, 
+        9596, 
+        9651, 
+        11537, 
+        11555, 
+        12426, 
+        13590
+    ], 
+    "name": "Disgaea 3: Absence of Justice", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters - Mild bad language"
+    }, 
+    "platforms": [
+        46, 
+        9
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1405, 
+        2262, 
+        3047
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1235088000000, 
+            "human": "2009-Feb-20", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1219708800000, 
+            "human": "2008-Aug-26", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1201737600000, 
+            "human": "2008-Jan-31", 
+            "m": 1, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1236211200000, 
+            "human": "2009-Mar-05", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1324080000000, 
+            "human": "2011-Dec-17", 
+            "m": 12, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1334620800000, 
+            "human": "2012-Apr-17", 
+            "m": 4, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1334880000000, 
+            "human": "2012-Apr-20", 
+            "m": 4, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1335398400000, 
+            "human": "2012-Apr-26", 
+            "m": 4, 
+            "platform": 46, 
+            "region": 3, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "w17egk5jwbhysfzvxse2", 
+            "height": 281, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w17egk5jwbhysfzvxse2.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "cxp84xribxcak55ffcyq", 
+            "height": 281, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cxp84xribxcak55ffcyq.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "szuagqrex768fbdxjjwc", 
+            "height": 281, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/szuagqrex768fbdxjjwc.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "sjiz6w17sjnqfzculwjp", 
+            "height": 281, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sjiz6w17sjnqfzculwjp.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "dvcgklkszy1bdzleisqn", 
+            "height": 281, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dvcgklkszy1bdzleisqn.jpg", 
+            "width": 500
+        }
+    ], 
+    "slug": "disgaea-3-absence-of-justice", 
+    "summary": "Disgaea 3: Absence of Justice is the third video game in the Disgaea series by Nippon Ichi. The game takes place in a Netherworld school called the Evil Academy. In this demon school, a good student is one who engages in evil activities such as truancy, never showing up to class, and getting in fights with others. Disgaea 3 is a tactical RPG; most of the game involves battles on isometric maps upon which the player controls a group of characters. Maps often feature \"geo blocks\" with statistical effects on the battlefield, that, unlike in previous games, can be stacked or stood upon. Many objects in the environment, including these blocks, and characters themselves, can be lifted, thrown, or destroyed.", 
+    "tags": [
+        27, 
+        268435468, 
+        268435471, 
+        268435480, 
+        536870990, 
+        536871076, 
+        536871138, 
+        536871139, 
+        536871148, 
+        536871208, 
+        536871213, 
+        536871262, 
+        536871307, 
+        536871327, 
+        536871496, 
+        536871672, 
+        536871938, 
+        536872121, 
+        536872225, 
+        536872477, 
+        536872835, 
+        536873455, 
+        536873591, 
+        536874343, 
+        536874398, 
+        536874694, 
+        536875075, 
+        536875151, 
+        536875157, 
+        536875160, 
+        536875196, 
+        536875289, 
+        536875300, 
+        536875304, 
+        536875309, 
+        536875310, 
+        536875331, 
+        536875358, 
+        536875361, 
+        536875372, 
+        536875389, 
+        536875455, 
+        536875478, 
+        536875572, 
+        536875654, 
+        536875700, 
+        536875738, 
+        536875775, 
+        536875778, 
+        536875781, 
+        536875891, 
+        536876210, 
+        536876232, 
+        536876241, 
+        536876266, 
+        536876286, 
+        536876766, 
+        536876928, 
+        536877560, 
+        536879069, 
+        536879708, 
+        536879727, 
+        536879998, 
+        536880431, 
+        536880508, 
+        536880563, 
+        536882449, 
+        536882467, 
+        536883338, 
+        536884502, 
+        1073741827
+    ], 
+    "themes": [
+        27
+    ], 
+    "total_rating": 75.0, 
+    "total_rating_count": 6, 
+    "updated_at": 1527505134164, 
+    "url": "https://www.igdb.com/games/disgaea-3-absence-of-justice", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "LmGM4yyjkzI"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://disgaea.jp/3/"
+        }
+    ]
+}

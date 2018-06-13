@@ -1,0 +1,283 @@
+{
+    "aggregated_rating": 61.0, 
+    "aggregated_rating_count": 6, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "f53rwm6hr1pywy9lbxq8", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/f53rwm6hr1pywy9lbxq8.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1460121056572, 
+    "developers": [
+        11327
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "504130"
+    }, 
+    "first_release_date": 1476144000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        54678, 
+        19448, 
+        19290, 
+        28113, 
+        11423, 
+        19289, 
+        11560, 
+        23733, 
+        72373, 
+        19934
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 18688, 
+    "keywords": [
+        50, 
+        67, 
+        117, 
+        350, 
+        1027, 
+        1158, 
+        1754, 
+        1783, 
+        4004, 
+        4134, 
+        4169, 
+        4287, 
+        4297, 
+        4554, 
+        4871, 
+        5564, 
+        9463
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Manual Samuel", 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        48, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 8.0, 
+    "publishers": [
+        5048
+    ], 
+    "rating": 70.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1476403200000, 
+            "human": "2016-Oct-14", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476403200000, 
+            "human": "2016-Oct-14", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476144000000, 
+            "human": "2016-Oct-11", 
+            "m": 10, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ezqatyzhudifc4gd9q59", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ezqatyzhudifc4gd9q59.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qlqspb1obiwhupzlqjsv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qlqspb1obiwhupzlqjsv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qxi3mpzpiiwx4f6pbspw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qxi3mpzpiiwx4f6pbspw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qfz8shhc9svpg4g7fpe9", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qfz8shhc9svpg4g7fpe9.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "gvjfeglokcl8lkw0ffot", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gvjfeglokcl8lkw0ffot.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "manual-samuel", 
+    "summary": "Manual Samuel is about the rich daddy\u2019s boy Samuel, who hasn\u2019t worked a day in his life. After an unfortunate encounter with a septic tank truck and Death, Sam is forced to live manually for 24 hours to be able to go on with his life. Breathe, blink, walk and simply exist for Samuel as he experiences the worst day of his life. QWOP meets Monkey Island in this hilarious narrative adventure game for the whole family (minus grandma and the kids).", 
+    "tags": [
+        27, 
+        268435487, 
+        268435488, 
+        536870962, 
+        536870979, 
+        536871029, 
+        536871262, 
+        536871939, 
+        536872070, 
+        536872666, 
+        536872695, 
+        536874916, 
+        536875046, 
+        536875081, 
+        536875199, 
+        536875209, 
+        536875466, 
+        536875783, 
+        536876476, 
+        536880375, 
+        1073741828
+    ], 
+    "themes": [
+        27
+    ], 
+    "total_rating": 65.5, 
+    "total_rating_count": 7, 
+    "updated_at": 1528355243077, 
+    "url": "https://www.igdb.com/games/manual-samuel", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "kejP9hporvw"
+        }, 
+        {
+            "name": "Release Trailer", 
+            "video_id": "Ky5mScjzYZk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/504130"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://perfectlyparanormal.com/"
+        }
+    ]
+}

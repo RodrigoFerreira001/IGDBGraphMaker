@@ -1,0 +1,75 @@
+{
+    "aggregated_rating": 20.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mwasvdhvr5j6pdzaruwm", 
+        "height": 702, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mwasvdhvr5j6pdzaruwm.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1469283702155, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1250294400000, 
+    "games": [
+        68287, 
+        71455, 
+        26766, 
+        25300, 
+        36950, 
+        70861, 
+        70906, 
+        64811, 
+        64204, 
+        27314
+    ], 
+    "id": 21112, 
+    "keywords": [
+        78, 
+        274, 
+        970, 
+        4328
+    ], 
+    "name": "Science Papa", 
+    "platforms": [
+        5
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1250294400000, 
+            "human": "2009-Aug-15", 
+            "m": 8, 
+            "platform": 5, 
+            "region": 8, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "fktldvhhwuzlf9dn1wxu", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fktldvhhwuzlf9dn1wxu.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "science-papa", 
+    "summary": "This shameless copy of the popular Cooking Mama series is a science-themed minigame collection for the Nintendo Wii and DS.", 
+    "tags": [
+        18, 
+        536870990, 
+        536871186, 
+        536871882, 
+        536875240
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 20.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1515758393790, 
+    "url": "https://www.igdb.com/games/science-papa"
+}

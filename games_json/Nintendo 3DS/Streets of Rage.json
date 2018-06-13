@@ -1,0 +1,583 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "3D Streets of Rage"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "3D Bare Knuckle"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Bare Knuckle"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30d9\u30a2\u30ca\u30c3\u30af\u30eb \u6012\u308a\u306e\u9244\u62f3 Bea Nakkuru: Ikari no Tekken, \"Bare Knuckle: Furious Iron Fist\""
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "ldhc54zks0yv4f1cuvxf", 
+            "height": 2980, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ldhc54zks0yv4f1cuvxf.jpg", 
+            "width": 2121
+        }
+    ], 
+    "category": 0, 
+    "collection": 327, 
+    "cover": {
+        "cloudinary_id": "so3nydnezx136deqo7pc", 
+        "height": 895, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/so3nydnezx136deqo7pc.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1351290494989, 
+    "developers": [
+        4981
+    ], 
+    "esrb": {
+        "rating": 1
+    }, 
+    "external": {
+        "steam": "71164"
+    }, 
+    "first_release_date": 681091200000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        1653, 
+        1654, 
+        1655, 
+        7364, 
+        72327, 
+        26401, 
+        7329, 
+        27789, 
+        19448, 
+        6787
+    ], 
+    "genres": [
+        25
+    ], 
+    "id": 1652, 
+    "keywords": [
+        61, 
+        117, 
+        301, 
+        441, 
+        558, 
+        939, 
+        970, 
+        977, 
+        982, 
+        1059, 
+        1127, 
+        1158, 
+        1186, 
+        1313, 
+        1523, 
+        1669, 
+        1950, 
+        2137, 
+        2138, 
+        2679, 
+        3128, 
+        3486, 
+        3833, 
+        4134, 
+        4145, 
+        4161, 
+        4163, 
+        4165, 
+        4179, 
+        4182, 
+        4183, 
+        4184, 
+        4242, 
+        4286, 
+        4369, 
+        4374, 
+        4449, 
+        4472, 
+        4494, 
+        4508, 
+        4522, 
+        4541, 
+        4544, 
+        4658, 
+        4660, 
+        4682, 
+        4698, 
+        4743, 
+        4819, 
+        4829, 
+        4855, 
+        4880, 
+        4891, 
+        4959, 
+        4996, 
+        5022, 
+        5030, 
+        5325, 
+        5354, 
+        5449, 
+        5501, 
+        5502, 
+        5578, 
+        5665, 
+        5730, 
+        5775, 
+        5814, 
+        5844, 
+        5911, 
+        5920, 
+        5923, 
+        5967, 
+        6016, 
+        6070, 
+        6077, 
+        6114, 
+        6152, 
+        6308, 
+        6325, 
+        6326, 
+        6368, 
+        6381, 
+        6385, 
+        6457, 
+        6468, 
+        6494, 
+        6711, 
+        6730, 
+        6868, 
+        7084, 
+        7299, 
+        7353, 
+        7357, 
+        7475, 
+        7593, 
+        8130, 
+        8845, 
+        8846, 
+        8847, 
+        8969, 
+        9130, 
+        9315, 
+        9412, 
+        10668, 
+        11434, 
+        12499, 
+        12758
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Streets of Rage", 
+    "platforms": [
+        29, 
+        52, 
+        35, 
+        6, 
+        39, 
+        92, 
+        37, 
+        5, 
+        64
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        229, 
+        4981
+    ], 
+    "pulse_count": 2, 
+    "rating": 77.9984074810203, 
+    "rating_count": 43, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1301788800000, 
+            "human": "2011-Apr-03", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1296000000000, 
+            "human": "2011-Jan-26", 
+            "m": 1, 
+            "platform": 92, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 722822400000, 
+            "human": "1992-Nov-27", 
+            "m": 11, 
+            "platform": 35, 
+            "region": 5, 
+            "y": 1992
+        }, 
+        {
+            "category": 0, 
+            "date": 725760000000, 
+            "human": "1992-Dec-31", 
+            "m": 12, 
+            "platform": 35, 
+            "region": 2, 
+            "y": 1992
+        }, 
+        {
+            "category": 0, 
+            "date": 719366400000, 
+            "human": "1992-Oct-18", 
+            "m": 10, 
+            "platform": 35, 
+            "region": 1, 
+            "y": 1992
+        }, 
+        {
+            "category": 0, 
+            "date": 725846400000, 
+            "human": "1993-Jan-01", 
+            "m": 1, 
+            "platform": 64, 
+            "region": 1, 
+            "y": 1993
+        }, 
+        {
+            "category": 2, 
+            "date": 694137600000, 
+            "human": "1991", 
+            "m": 12, 
+            "platform": 52, 
+            "y": 1991
+        }, 
+        {
+            "category": 0, 
+            "date": 1171843200000, 
+            "human": "2007-Feb-19", 
+            "m": 2, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1172534400000, 
+            "human": "2007-Feb-27", 
+            "m": 2, 
+            "platform": 5, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1172793600000, 
+            "human": "2007-Mar-02", 
+            "m": 3, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1252886400000, 
+            "human": "2009-Sep-14", 
+            "m": 9, 
+            "platform": 39, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 681091200000, 
+            "human": "1991-Aug-02", 
+            "m": 8, 
+            "platform": 29, 
+            "region": 5, 
+            "y": 1991
+        }, 
+        {
+            "category": 0, 
+            "date": 682992000000, 
+            "human": "1991-Aug-24", 
+            "m": 8, 
+            "platform": 29, 
+            "region": 1, 
+            "y": 1991
+        }, 
+        {
+            "category": 0, 
+            "date": 685152000000, 
+            "human": "1991-Sep-18", 
+            "m": 9, 
+            "platform": 29, 
+            "region": 2, 
+            "y": 1991
+        }, 
+        {
+            "category": 0, 
+            "date": 1387411200000, 
+            "human": "2013-Dec-19", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1377043200000, 
+            "human": "2013-Aug-21", 
+            "m": 8, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1387411200000, 
+            "human": "2013-Dec-19", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "dxeqqhgtvuartp8debrq", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dxeqqhgtvuartp8debrq.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "mmqnpahkm1xqiwhpqj91", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mmqnpahkm1xqiwhpqj91.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "fgixmo2g0o6vwqyntkyj", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fgixmo2g0o6vwqyntkyj.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "mnk5wib9khhihamfjiiq", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mnk5wib9khhihamfjiiq.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "mvog0f6rwniiqv8ir9fd", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mvog0f6rwniiqv8ir9fd.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "cued3hclkplwzvz2pxfj", 
+            "height": 224, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cued3hclkplwzvz2pxfj.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "dgzny6lsebonawh8b3hs", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dgzny6lsebonawh8b3hs.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "zzqzpcvoqrbi5x6su5mz", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zzqzpcvoqrbi5x6su5mz.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ihmklwo06d83qnlpkyl5", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ihmklwo06d83qnlpkyl5.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "l1mxjtivfaewzetl2ffh", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l1mxjtivfaewzetl2ffh.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "hfakhjocgmcwbdodqm8t", 
+            "height": 240, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hfakhjocgmcwbdodqm8t.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "streets-of-rage", 
+    "storyline": "The once peaceful city has been taken over by a criminal syndicate, including factions of the police. Mass violence is now common and no one is safe. Adam Hunter (an accomplished boxer), Axel Stone (skilled martial artist) and Blaze Fielding (judo expert) are young ex-police officers who have quit the force to fight back against the syndicate. \nDepending on whether the game is played as one-player or a two-player co-op, and whether the player accepts or rejects Mr. X's offer to join his henchmen, there is a possibility for an alternate ending where the player becomes the new head of the crime syndicate.", 
+    "summary": "Streets of Rage (\u30d9\u30a2\u30ca\u30c3\u30af\u30eb \u6012\u308a\u306e\u9244\u62f3 Bea Nakkuru: Ikari no Tekken?, \"Bare Knuckle: Furious Iron Fist\") is a side-scrolling beat 'em up video game developed and published by Sega in 1991 for Mega Drive/Genesis. It is the first installment of the Bare Knuckle/Streets of Rage series which was followed by Streets of Rage 2 and Streets of Rage 3. The game was converted to Game Gear, Sega CD and Master System. In 2007, the game was released for the Wii's Virtual Console in North America and Europe, and in 2009 it was released for the iOS via the App Store. It was again made available as part of Sonic's Ultimate Genesis Collection in 2009 on both the PlayStation 3 and Xbox 360 consoles.", 
+    "tags": [
+        1, 
+        18, 
+        268435481, 
+        536870973, 
+        536871029, 
+        536871213, 
+        536871353, 
+        536871470, 
+        536871851, 
+        536871882, 
+        536871889, 
+        536871894, 
+        536871971, 
+        536872039, 
+        536872070, 
+        536872098, 
+        536872225, 
+        536872435, 
+        536872581, 
+        536872862, 
+        536873049, 
+        536873050, 
+        536873591, 
+        536874040, 
+        536874398, 
+        536874745, 
+        536875046, 
+        536875057, 
+        536875073, 
+        536875075, 
+        536875077, 
+        536875091, 
+        536875094, 
+        536875095, 
+        536875096, 
+        536875154, 
+        536875198, 
+        536875281, 
+        536875286, 
+        536875361, 
+        536875384, 
+        536875406, 
+        536875420, 
+        536875434, 
+        536875453, 
+        536875456, 
+        536875570, 
+        536875572, 
+        536875594, 
+        536875610, 
+        536875655, 
+        536875731, 
+        536875741, 
+        536875767, 
+        536875792, 
+        536875803, 
+        536875871, 
+        536875908, 
+        536875934, 
+        536875942, 
+        536876237, 
+        536876266, 
+        536876361, 
+        536876413, 
+        536876414, 
+        536876490, 
+        536876577, 
+        536876642, 
+        536876687, 
+        536876726, 
+        536876756, 
+        536876823, 
+        536876832, 
+        536876835, 
+        536876879, 
+        536876928, 
+        536876982, 
+        536876989, 
+        536877026, 
+        536877064, 
+        536877220, 
+        536877237, 
+        536877238, 
+        536877280, 
+        536877293, 
+        536877297, 
+        536877369, 
+        536877380, 
+        536877406, 
+        536877623, 
+        536877642, 
+        536877780, 
+        536877996, 
+        536878211, 
+        536878265, 
+        536878269, 
+        536878387, 
+        536878505, 
+        536879042, 
+        536879757, 
+        536879758, 
+        536879759, 
+        536879881, 
+        536880042, 
+        536880227, 
+        536880324, 
+        536881580, 
+        536882346, 
+        536883411, 
+        536883670, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 77.9984074810203, 
+    "total_rating_count": 43, 
+    "updated_at": 1527237183032, 
+    "url": "https://www.igdb.com/games/streets-of-rage", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "sLpS_s1PaXM"
+        }, 
+        {
+            "name": "Game intro", 
+            "video_id": "MXjaCkPWpvU"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.sega.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/71164"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Streets_of_Rage"
+        }
+    ]
+}

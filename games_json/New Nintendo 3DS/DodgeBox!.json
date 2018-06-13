@@ -1,0 +1,71 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "eb2snbdznbuyp73jjgit", 
+        "height": 287, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/eb2snbdznbuyp73jjgit.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1504271103617, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1495065600000, 
+    "games": [
+        19934, 
+        23330, 
+        76110, 
+        19376, 
+        19448, 
+        22747, 
+        36608, 
+        19290, 
+        19174, 
+        34919
+    ], 
+    "id": 56076, 
+    "keywords": [
+        117, 
+        4134, 
+        4510
+    ], 
+    "name": "DodgeBox!", 
+    "platforms": [
+        34, 
+        137
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1495065600000, 
+            "human": "2017-May-18", 
+            "m": 5, 
+            "platform": 34, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1495065600000, 
+            "human": "2017-May-18", 
+            "m": 5, 
+            "platform": 137, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "slug": "dodgebox", 
+    "summary": "A game where players avoid boxes", 
+    "tags": [
+        1, 
+        536871029, 
+        536875046, 
+        536875422
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1516586501914, 
+    "url": "https://www.igdb.com/games/dodgebox"
+}

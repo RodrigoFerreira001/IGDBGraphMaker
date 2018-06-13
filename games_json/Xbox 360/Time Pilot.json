@@ -1,0 +1,44 @@
+{
+    "category": 0, 
+    "created_at": 1517601807902, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1151884800000, 
+    "id": 86006, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Time Pilot", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1151884800000, 
+            "human": "2006-Jul-03", 
+            "m": 7, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2006
+        }
+    ], 
+    "slug": "time-pilot--1", 
+    "updated_at": 1520001736650, 
+    "url": "https://www.igdb.com/games/time-pilot--1"
+}

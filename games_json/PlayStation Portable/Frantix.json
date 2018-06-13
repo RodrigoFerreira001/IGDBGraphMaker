@@ -1,0 +1,80 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 312, 
+    "cover": {
+        "cloudinary_id": "joginzebumvuvrghb9xd", 
+        "height": 794, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/joginzebumvuvrghb9xd.jpg", 
+        "width": 480
+    }, 
+    "created_at": 1471336526521, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1129680000000, 
+    "games": [
+        25222, 
+        25646, 
+        27266, 
+        26223, 
+        59516, 
+        23175, 
+        55289, 
+        37094, 
+        25311, 
+        29525
+    ], 
+    "genres": [
+        9, 
+        31
+    ], 
+    "id": 22563, 
+    "keywords": [
+        167, 
+        575, 
+        1333, 
+        1735, 
+        2875, 
+        13109, 
+        14400
+    ], 
+    "name": "Frantix", 
+    "platforms": [
+        38
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1129680000000, 
+            "human": "2005-Oct-19", 
+            "m": 10, 
+            "platform": 38, 
+            "region": 8, 
+            "y": 2005
+        }
+    ], 
+    "slug": "frantix", 
+    "summary": "Frantix is a video game on Sony's PlayStation Portable. The game contains over 150 levels (most need to be unlocked). The player must race against the clock in order to solve each puzzle. Some levels are tricky and the most obvious path may not be the best route to go. In each level there are obstacles, deadly traps, hazards and creatures which can delay the player from completing the level.", 
+    "tags": [
+        1, 
+        268435465, 
+        268435487, 
+        536871079, 
+        536871487, 
+        536872245, 
+        536872647, 
+        536873787, 
+        536884021, 
+        536885312
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1513159316086, 
+    "url": "https://www.igdb.com/games/frantix"
+}

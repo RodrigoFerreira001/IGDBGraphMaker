@@ -1,0 +1,49 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Acronym", 
+            "name": "WCW "
+        }, 
+        {
+            "name": "World Championship Wrestling"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "a99bmsq5tuuwmqp6jsc4", 
+        "height": 345, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/a99bmsq5tuuwmqp6jsc4.jpg", 
+        "width": 252
+    }, 
+    "created_at": 1403964324654, 
+    "first_release_date": 636249600000, 
+    "genres": [
+        14
+    ], 
+    "id": 7447, 
+    "name": "WCW Wrestling", 
+    "platforms": [
+        18
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 1, 
+            "date": 636249600000, 
+            "human": "1990-Mar", 
+            "m": 3, 
+            "platform": 18, 
+            "region": 2, 
+            "y": 1990
+        }
+    ], 
+    "slug": "wcw-wrestling", 
+    "updated_at": 1466345319181, 
+    "url": "https://www.igdb.com/games/wcw-wrestling", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://en.wikipedia.org/wiki/WCW_Wrestling"
+        }
+    ]
+}

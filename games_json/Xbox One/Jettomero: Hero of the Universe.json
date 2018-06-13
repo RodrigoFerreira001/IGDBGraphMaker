@@ -1,0 +1,136 @@
+{
+    "aggregated_rating": 55.0, 
+    "aggregated_rating_count": 2, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Jettomero"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "awayztwm8ddtru91txr2", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/awayztwm8ddtru91txr2.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1506521840692, 
+    "external": {
+        "steam": "676480"
+    }, 
+    "first_release_date": 1505433600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        25300, 
+        25311, 
+        64204, 
+        68287, 
+        34919, 
+        71455, 
+        27314, 
+        16468, 
+        40524, 
+        19448
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 69382, 
+    "keywords": [
+        970, 
+        1495
+    ], 
+    "name": "Jettomero: Hero of the Universe", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 2.0, 
+    "pulse_count": 8, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1505433600000, 
+            "human": "2017-Sep-15", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505433600000, 
+            "human": "2017-Sep-15", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "uoytitwwgau6ikhbwwap", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uoytitwwgau6ikhbwwap.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ekcxv8krlpu5dz5xi0mt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ekcxv8krlpu5dz5xi0mt.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qq9pckquzvlvx0816anr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qq9pckquzvlvx0816anr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jgtqormvcaes8rpcbfef", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jgtqormvcaes8rpcbfef.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gzxduudxwjxkrwl0gsgi", 
+            "height": 444, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gzxduudxwjxkrwl0gsgi.jpg", 
+            "width": 790
+        }
+    ], 
+    "slug": "jettomero-hero-of-the-universe", 
+    "summary": "Jettomero: Hero of the Universe gives the players control over a giant, indestructible robot protecting humanity from monsters, while trying to avoid creating havok and destruction in the process.", 
+    "tags": [
+        1, 
+        18, 
+        268435488, 
+        536871882, 
+        536872407
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 62.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1523336832948, 
+    "url": "https://www.igdb.com/games/jettomero-hero-of-the-universe", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://ghosttimegames.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/676480"
+        }
+    ]
+}

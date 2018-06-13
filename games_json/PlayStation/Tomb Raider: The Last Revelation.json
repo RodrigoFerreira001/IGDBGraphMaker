@@ -1,0 +1,318 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "Tomb Raider 4TR: LR"
+        }
+    ], 
+    "category": 0, 
+    "collection": 183, 
+    "cover": {
+        "cloudinary_id": "otceqojhphvdzjc8hou8", 
+        "height": 636, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/otceqojhphvdzjc8hou8.jpg", 
+        "width": 545
+    }, 
+    "created_at": 1341170174319, 
+    "developers": [
+        1031
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "external": {
+        "steam": "224980"
+    }, 
+    "first_release_date": 941328000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        1162, 
+        1161, 
+        27789, 
+        1160, 
+        1163, 
+        6958, 
+        7323, 
+        529, 
+        536, 
+        26401
+    ], 
+    "genres": [
+        5, 
+        9, 
+        31
+    ], 
+    "id": 1158, 
+    "keywords": [
+        46, 
+        57, 
+        164, 
+        365, 
+        394, 
+        403, 
+        420, 
+        558, 
+        594, 
+        795, 
+        962, 
+        1025, 
+        1027, 
+        1158, 
+        1454, 
+        1735, 
+        1935, 
+        2280, 
+        2324, 
+        2875, 
+        3061, 
+        4134, 
+        4145, 
+        4161, 
+        4185, 
+        4238, 
+        4246, 
+        4337, 
+        4345, 
+        4359, 
+        4364, 
+        4369, 
+        4372, 
+        4418, 
+        4525, 
+        4571, 
+        4573, 
+        4611, 
+        4619, 
+        4660, 
+        4685, 
+        4727, 
+        4759, 
+        4892, 
+        4907, 
+        4918, 
+        4958, 
+        4991, 
+        5099, 
+        5181, 
+        5182, 
+        5391, 
+        5462, 
+        5564, 
+        5616, 
+        5661, 
+        5730, 
+        5794, 
+        5904, 
+        5920, 
+        6128, 
+        6216, 
+        6260, 
+        6382, 
+        6513, 
+        7235, 
+        7494, 
+        7569, 
+        7670, 
+        8130, 
+        8265, 
+        8766, 
+        8852, 
+        9529, 
+        13951
+    ], 
+    "name": "Tomb Raider: The Last Revelation", 
+    "platforms": [
+        45, 
+        6, 
+        14, 
+        7, 
+        23
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        4
+    ], 
+    "pulse_count": 2, 
+    "rating": 80.3900212467303, 
+    "rating_count": 35, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 943228800000, 
+            "human": "1999-Nov-22", 
+            "m": 11, 
+            "platform": 7, 
+            "y": 1999
+        }, 
+        {
+            "category": 0, 
+            "date": 960768000000, 
+            "human": "2000-Jun-12", 
+            "m": 6, 
+            "platform": 14, 
+            "y": 2000
+        }, 
+        {
+            "category": 0, 
+            "date": 1255564800000, 
+            "human": "2009-Oct-15", 
+            "m": 10, 
+            "platform": 45, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 941328000000, 
+            "human": "1999-Oct-31", 
+            "m": 10, 
+            "platform": 6, 
+            "y": 1999
+        }, 
+        {
+            "category": 0, 
+            "date": 963964800000, 
+            "human": "2000-Jul-19", 
+            "m": 7, 
+            "platform": 23, 
+            "region": 5, 
+            "y": 2000
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lh9ytrzwegx4exgqrunm", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lh9ytrzwegx4exgqrunm.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tkxrurq5l5mipnkmliga", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tkxrurq5l5mipnkmliga.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rsvli2xx3mu3is7asuox", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rsvli2xx3mu3is7asuox.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "twjikb0wytq16cmqfesr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/twjikb0wytq16cmqfesr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fwxhi5njxkjgtettu2j6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fwxhi5njxkjgtettu2j6.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "tomb-raider-the-last-revelation", 
+    "standalone_expansions": [
+        68115
+    ], 
+    "summary": "According to Egyptian legend, Horus, son of the light, outwitted the evil God Set and imprisoned him in a secret tomb. Five thousand years later, Lara Croft discovers the lost tomb and unwittingly unleashes the evil God Set, fulfilling the ancient prophecy of his return to plunge mankind into darkness! In a race against time, Lara must use all her wit and skill to re-imprison Set and save the world from Armageddon.", 
+    "tags": [
+        1, 
+        268435461, 
+        268435465, 
+        268435487, 
+        536870958, 
+        536870969, 
+        536871076, 
+        536871277, 
+        536871306, 
+        536871315, 
+        536871332, 
+        536871470, 
+        536871506, 
+        536871707, 
+        536871874, 
+        536871937, 
+        536871939, 
+        536872070, 
+        536872366, 
+        536872647, 
+        536872847, 
+        536873192, 
+        536873236, 
+        536873787, 
+        536873973, 
+        536875046, 
+        536875057, 
+        536875073, 
+        536875097, 
+        536875150, 
+        536875158, 
+        536875249, 
+        536875257, 
+        536875271, 
+        536875276, 
+        536875281, 
+        536875284, 
+        536875330, 
+        536875437, 
+        536875483, 
+        536875485, 
+        536875523, 
+        536875531, 
+        536875572, 
+        536875597, 
+        536875639, 
+        536875671, 
+        536875804, 
+        536875819, 
+        536875830, 
+        536875870, 
+        536875903, 
+        536876011, 
+        536876093, 
+        536876094, 
+        536876303, 
+        536876374, 
+        536876476, 
+        536876528, 
+        536876573, 
+        536876642, 
+        536876706, 
+        536876816, 
+        536876832, 
+        536877040, 
+        536877128, 
+        536877172, 
+        536877294, 
+        536877425, 
+        536878147, 
+        536878406, 
+        536878481, 
+        536878582, 
+        536879042, 
+        536879177, 
+        536879678, 
+        536879764, 
+        536880441, 
+        536884863, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.3900212467303, 
+    "total_rating_count": 35, 
+    "updated_at": 1524952625016, 
+    "url": "https://www.igdb.com/games/tomb-raider-the-last-revelation", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/224980"
+        }
+    ]
+}

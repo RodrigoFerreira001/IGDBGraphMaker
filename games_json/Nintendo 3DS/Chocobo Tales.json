@@ -1,0 +1,74 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 39, 
+    "cover": {
+        "cloudinary_id": "qsivjh6hhin6wjpj07vs", 
+        "height": 224, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qsivjh6hhin6wjpj07vs.jpg", 
+        "width": 250
+    }, 
+    "created_at": 1452611218412, 
+    "developers": [
+        797
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1166054400000, 
+    "franchise": 4, 
+    "franchises": [
+        4
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        16468, 
+        13196, 
+        5613, 
+        19698, 
+        49414, 
+        28010, 
+        36792, 
+        23719, 
+        25636, 
+        22480
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 15913, 
+    "name": "Chocobo Tales", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        26
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1166054400000, 
+            "human": "2006-Dec-14", 
+            "m": 12, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2006
+        }
+    ], 
+    "slug": "chocobo-tales", 
+    "tags": [
+        17, 
+        268435468
+    ], 
+    "themes": [
+        17
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1472011625766, 
+    "url": "https://www.igdb.com/games/chocobo-tales"
+}

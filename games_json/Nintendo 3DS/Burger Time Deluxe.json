@@ -1,0 +1,76 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "j7orhbghna1wvjgqwtmp", 
+        "height": 640, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/j7orhbghna1wvjgqwtmp.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1501343082710, 
+    "first_release_date": 1315958400000, 
+    "id": 52489, 
+    "name": "Burger Time Deluxe", 
+    "platforms": [
+        37
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1315958400000, 
+            "human": "2011-Sep-14", 
+            "m": 9, 
+            "platform": 37, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1319673600000, 
+            "human": "2011-Oct-27", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1319673600000, 
+            "human": "2011-Oct-27", 
+            "m": 10, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "lu4pukfwbgrl1nsglaoc", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lu4pukfwbgrl1nsglaoc.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "cduzqwxck9wunx1awzok", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cduzqwxck9wunx1awzok.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "b0ab5prj5hsddqlph1ey", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b0ab5prj5hsddqlph1ey.jpg", 
+            "width": 160
+        }, 
+        {
+            "cloudinary_id": "ppifkbqdangjnu2wmux3", 
+            "height": 144, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ppifkbqdangjnu2wmux3.jpg", 
+            "width": 160
+        }
+    ], 
+    "slug": "burger-time-deluxe", 
+    "summary": "You play as Peter Pepper, Chef Extraordinaire.", 
+    "updated_at": 1518051333496, 
+    "url": "https://www.igdb.com/games/burger-time-deluxe"
+}

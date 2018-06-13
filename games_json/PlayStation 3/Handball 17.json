@@ -1,0 +1,193 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "lfqrjr6jbpijd0aooofz", 
+        "height": 4000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lfqrjr6jbpijd0aooofz.jpg", 
+        "width": 6000
+    }, 
+    "created_at": 1495629243591, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "526980"
+    }, 
+    "first_release_date": 1478822400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        10121, 
+        76110, 
+        10433, 
+        22690, 
+        27081, 
+        28113, 
+        36551, 
+        11423, 
+        72373, 
+        54662
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 31316, 
+    "keywords": [
+        1158, 
+        1166, 
+        1588, 
+        1761, 
+        4134, 
+        4228, 
+        4650, 
+        4681
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 2, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Handball 17", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        1803
+    ], 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1478822400000, 
+            "human": "2016-Nov-11", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1478822400000, 
+            "human": "2016-Nov-11", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1478822400000, 
+            "human": "2016-Nov-11", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1478822400000, 
+            "human": "2016-Nov-11", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1478822400000, 
+            "human": "2016-Nov-11", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1479168000000, 
+            "human": "2016-Nov-15", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "z0kszqlgxxgagwaij4ci", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z0kszqlgxxgagwaij4ci.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "laoagzlfbmz1qa160itn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/laoagzlfbmz1qa160itn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uwi76wzkqa8px2y4ldzr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uwi76wzkqa8px2y4ldzr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hnhggz6fkbme8gcjrcpe", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hnhggz6fkbme8gcjrcpe.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jyabncijjkkwpuuaoopk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jyabncijjkkwpuuaoopk.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "handball-17", 
+    "summary": "Find the 82 official teams from the most prestigious European leagues in the best handball simulation. Experience all the sensations of handball thanks to the easy-to-use controls, dynamic Career mode and fast-flowing matches, in both single player and multiplayer modes.", 
+    "tags": [
+        268435470, 
+        536872070, 
+        536872078, 
+        536872500, 
+        536872673, 
+        536875046, 
+        536875140, 
+        536875562, 
+        536875593
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1528354042639, 
+    "url": "https://www.igdb.com/games/handball-17", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.handball-thegame.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/526980"
+        }
+    ]
+}

@@ -1,0 +1,418 @@
+{
+    "aggregated_rating": 88.8333333333333, 
+    "aggregated_rating_count": 7, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "VF5"
+        }, 
+        {
+            "name": "\u30d0\u30fc\u30c1\u30e3\u30d5\u30a1\u30a4\u30bf\u30fc5"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "cs039tzguwe5i4vxu6vm", 
+            "height": 1100, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cs039tzguwe5i4vxu6vm.jpg", 
+            "width": 650
+        }, 
+        {
+            "cloudinary_id": "m0gzm3dghh0zohvxttc4", 
+            "height": 1100, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/m0gzm3dghh0zohvxttc4.jpg", 
+            "width": 550
+        }, 
+        {
+            "cloudinary_id": "grjlilmd82ofuzavadgy", 
+            "height": 1100, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/grjlilmd82ofuzavadgy.jpg", 
+            "width": 550
+        }, 
+        {
+            "cloudinary_id": "pt9c607yqnfnwjkuywxo", 
+            "height": 1250, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pt9c607yqnfnwjkuywxo.jpg", 
+            "width": 550
+        }, 
+        {
+            "cloudinary_id": "avgqulgocg5tyot9yyth", 
+            "height": 980, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/avgqulgocg5tyot9yyth.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "oah57uk7qhlcogjlpb3i", 
+            "height": 1100, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oah57uk7qhlcogjlpb3i.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "snccv1nokg4tsjk1fjy8", 
+            "height": 980, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/snccv1nokg4tsjk1fjy8.jpg", 
+            "width": 750
+        }, 
+        {
+            "cloudinary_id": "ehjdla2p6nbonovccuk7", 
+            "height": 980, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ehjdla2p6nbonovccuk7.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "uz9lnq20iery6seswt6h", 
+            "height": 850, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uz9lnq20iery6seswt6h.jpg", 
+            "width": 700
+        }, 
+        {
+            "cloudinary_id": "rbtcjkeq2z6qhi3u6cys", 
+            "height": 1100, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rbtcjkeq2z6qhi3u6cys.jpg", 
+            "width": 550
+        }
+    ], 
+    "category": 0, 
+    "collection": 318, 
+    "cover": {
+        "cloudinary_id": "uwi6gsbkc6zxu9higmsp", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uwi6gsbkc6zxu9higmsp.jpg", 
+        "width": 858
+    }, 
+    "created_at": 1349898235147, 
+    "developers": [
+        830
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 1170892800000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        1244, 
+        6958, 
+        1552, 
+        22239, 
+        1551, 
+        1242, 
+        1564, 
+        7331, 
+        21669, 
+        1383
+    ], 
+    "genres": [
+        4
+    ], 
+    "id": 1555, 
+    "keywords": [
+        61, 
+        107, 
+        164, 
+        301, 
+        977, 
+        1293, 
+        1440, 
+        2098, 
+        2152, 
+        2543, 
+        3995, 
+        4161, 
+        4213, 
+        4221, 
+        4245, 
+        4266, 
+        4272, 
+        4277, 
+        4282, 
+        4286, 
+        4287, 
+        4305, 
+        4359, 
+        4388, 
+        4444, 
+        4450, 
+        4523, 
+        4524, 
+        4541, 
+        4544, 
+        4574, 
+        4578, 
+        4644, 
+        4788, 
+        4869, 
+        4890, 
+        4891, 
+        4903, 
+        5029, 
+        5278, 
+        5304, 
+        5338, 
+        5354, 
+        5398, 
+        5534, 
+        5566, 
+        5586, 
+        5662, 
+        5684, 
+        5783, 
+        5823, 
+        5891, 
+        5904, 
+        5911, 
+        5917, 
+        5942, 
+        6096, 
+        6100, 
+        6104, 
+        6135, 
+        6165, 
+        6239, 
+        6496, 
+        6529, 
+        6532, 
+        6534, 
+        6535, 
+        6536, 
+        6537, 
+        7074, 
+        9529, 
+        9659, 
+        9853, 
+        10519, 
+        11118, 
+        11312, 
+        11447, 
+        11449, 
+        11766, 
+        11875, 
+        11975, 
+        12020, 
+        13083, 
+        13105, 
+        13106
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 52, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Virtua Fighter 5", 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        112
+    ], 
+    "pulse_count": 1, 
+    "rating": 79.8998927938453, 
+    "rating_count": 8, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1170892800000, 
+            "human": "2007-Feb-08", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1174608000000, 
+            "human": "2007-Mar-23", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1171929600000, 
+            "human": "2007-Feb-20", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1170892800000, 
+            "human": "2007-Feb-08", 
+            "m": 2, 
+            "platform": 9, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1170892800000, 
+            "human": "2007-Feb-08", 
+            "m": 2, 
+            "platform": 12, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pa7wiwysjglkccnjvpxq", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pa7wiwysjglkccnjvpxq.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "d3hzxaargzidtxtxftfx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/d3hzxaargzidtxtxftfx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "vxyeqyh6tbqw3yc7baep", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vxyeqyh6tbqw3yc7baep.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jtjf8yyzq4vqie9dirmt", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jtjf8yyzq4vqie9dirmt.jpg", 
+            "width": 960
+        }, 
+        {
+            "cloudinary_id": "ta1i3h0m1m5opejetrnb", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ta1i3h0m1m5opejetrnb.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "virtua-fighter-5", 
+    "summary": "Virtua Fighter 5 features an all-star cast of 17 fighters, including characters from the previous iterations along with two new characters named El Blaze and Eileen. El Blaze is a Mexican fighting champion who defeats opponents with his quick Lucha Libre fighting style. Eileen, originally from China, uses a Monkey Kung-Fu fighting style that she learned from her grandfather, a former Kung-Fu master. \n \nPlayers are able to customize their characters by selecting from four uniquely patterned costumes and a wide range of attachable items that can be placed onto each fighter\u2019s various body parts. Virtua Fighter 5 delivers fast-paced, adrenaline-pumping action as players head into battle, taking on a host of popular characters. Players not only achieve victory by defeating highly-skilled opponents, but also by competing for prizes which earn them in-game money allowing them to buy many items at in-game shop. These items allow players to customize their ultimate warrior and become the top Virtua Fighter. \n \nIn addition, the game introduces \"Offensive Move\", a new maneuver that allows players to easily approach opponents from the side, adding a more strategic element to the battle", 
+    "tags": [
+        1, 
+        268435460, 
+        536870973, 
+        536871019, 
+        536871076, 
+        536871213, 
+        536871889, 
+        536872205, 
+        536872352, 
+        536873010, 
+        536873064, 
+        536873455, 
+        536874907, 
+        536875073, 
+        536875125, 
+        536875133, 
+        536875157, 
+        536875178, 
+        536875184, 
+        536875189, 
+        536875194, 
+        536875198, 
+        536875199, 
+        536875217, 
+        536875271, 
+        536875300, 
+        536875356, 
+        536875362, 
+        536875435, 
+        536875436, 
+        536875453, 
+        536875456, 
+        536875486, 
+        536875490, 
+        536875556, 
+        536875700, 
+        536875781, 
+        536875802, 
+        536875803, 
+        536875815, 
+        536875941, 
+        536876190, 
+        536876216, 
+        536876250, 
+        536876266, 
+        536876310, 
+        536876446, 
+        536876478, 
+        536876498, 
+        536876574, 
+        536876596, 
+        536876695, 
+        536876735, 
+        536876803, 
+        536876816, 
+        536876823, 
+        536876829, 
+        536876854, 
+        536877008, 
+        536877012, 
+        536877016, 
+        536877047, 
+        536877077, 
+        536877151, 
+        536877408, 
+        536877441, 
+        536877444, 
+        536877446, 
+        536877447, 
+        536877448, 
+        536877449, 
+        536877986, 
+        536880441, 
+        536880571, 
+        536880765, 
+        536881431, 
+        536882030, 
+        536882224, 
+        536882359, 
+        536882361, 
+        536882678, 
+        536882787, 
+        536882887, 
+        536882932, 
+        536883995, 
+        536884017, 
+        536884018, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 84.3666130635893, 
+    "total_rating_count": 15, 
+    "updated_at": 1528347220325, 
+    "url": "https://www.igdb.com/games/virtua-fighter-5", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "9O5wU_o9Mq8"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://virtuafighter.com/"
+        }
+    ]
+}

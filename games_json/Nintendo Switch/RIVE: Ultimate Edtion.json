@@ -1,0 +1,108 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "w8tldaqyltfzqrhfdywc", 
+        "height": 1000, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/w8tldaqyltfzqrhfdywc.jpg", 
+        "width": 1000
+    }, 
+    "created_at": 1509646853954, 
+    "developers": [
+        7562
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1510876800000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        10039, 
+        76229, 
+        28029, 
+        51485, 
+        26848, 
+        25311, 
+        64204, 
+        68287, 
+        27314, 
+        24199
+    ], 
+    "genres": [
+        5, 
+        8, 
+        32, 
+        33
+    ], 
+    "id": 75356, 
+    "name": "RIVE: Ultimate Edtion", 
+    "platforms": [
+        130
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.666666666666667, 
+    "publishers": [
+        8483
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1510876800000, 
+            "human": "2017-Nov-17", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510876800000, 
+            "human": "2017-Nov-17", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "slug": "rive-ultimate-edtion", 
+    "summary": "\"Pilot your spider tank as it runs, jumps and shoots its way through hordes of mechanical enemies on land, underwater, in zero gravity and even on a moving train. \n \nRIVE is a modern ode to classic shooters, pumping megapixels at a deliciously smooth 60 frames per second, even in 1080p mode! \n \n- Hack and control your enemies \n- Upgrade your special attacks, armor and loot magnet \n- Quirky story featuring robot butlers, space loot and clean teeth \n- Daily Challenges and infinite Battle Arenas \n- Speedrun and Single-Credit modes \n- Online leaderboards for all modes and missions\"", 
+    "tags": [
+        1, 
+        18, 
+        27, 
+        268435461, 
+        268435464, 
+        268435488, 
+        268435489, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18, 
+        27
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1515493958404, 
+    "url": "https://www.igdb.com/games/rive-ultimate-edtion", 
+    "version_parent": 17069, 
+    "version_title": "Ultimate Edtion", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "5WBMAAO1H_Y"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.rivethegame.com/"
+        }
+    ]
+}

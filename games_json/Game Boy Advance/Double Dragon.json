@@ -1,0 +1,492 @@
+{
+    "aggregated_rating": 39.0, 
+    "aggregated_rating_count": 3, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "DD"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30c0\u30d6\u30eb\u30c9\u30e9\u30b4\u30f3"
+        }
+    ], 
+    "category": 0, 
+    "collection": 694, 
+    "cover": {
+        "cloudinary_id": "w1t5vvitjelnspq4rmy7", 
+        "height": 600, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/w1t5vvitjelnspq4rmy7.jpg", 
+        "width": 438
+    }, 
+    "created_at": 1400035982729, 
+    "developers": [
+        1753
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 554774400000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        6790, 
+        6558, 
+        7329, 
+        9929, 
+        1655, 
+        79335, 
+        1664, 
+        26621, 
+        1656, 
+        6384
+    ], 
+    "genres": [
+        4, 
+        8, 
+        25, 
+        33
+    ], 
+    "id": 6787, 
+    "keywords": [
+        61, 
+        107, 
+        332, 
+        558, 
+        977, 
+        982, 
+        1059, 
+        1186, 
+        1188, 
+        1293, 
+        1317, 
+        2105, 
+        2152, 
+        2411, 
+        3079, 
+        3486, 
+        4161, 
+        4183, 
+        4396, 
+        4449, 
+        4508, 
+        4522, 
+        4658, 
+        4698, 
+        4743, 
+        4779, 
+        4817, 
+        4880, 
+        4891, 
+        4959, 
+        4996, 
+        5030, 
+        5354, 
+        5371, 
+        5449, 
+        5450, 
+        5652, 
+        5805, 
+        6043, 
+        6064, 
+        6077, 
+        6152, 
+        6308, 
+        6381, 
+        6457, 
+        6868, 
+        7028, 
+        7353, 
+        7419, 
+        7486, 
+        7607, 
+        8894, 
+        9408, 
+        9929, 
+        9970, 
+        10082, 
+        11853, 
+        12214, 
+        14362
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Double Dragon", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        12, 
+        13, 
+        15, 
+        16, 
+        18, 
+        24, 
+        25, 
+        26, 
+        27, 
+        29, 
+        33, 
+        35, 
+        52, 
+        59, 
+        60, 
+        61, 
+        63, 
+        64, 
+        79, 
+        80, 
+        136
+    ], 
+    "player_perspectives": [
+        2, 
+        4
+    ], 
+    "popularity": 2.333333333333333, 
+    "publishers": [
+        340, 
+        11739, 
+        13365, 
+        2759, 
+        11694, 
+        818, 
+        1384, 
+        4822, 
+        66, 
+        12390, 
+        1985, 
+        1753
+    ], 
+    "pulse_count": 1, 
+    "rating": 79.2979690713844, 
+    "rating_count": 41, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 802051200000, 
+            "human": "1995-Jun-02", 
+            "m": 6, 
+            "platform": 136, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 789091200000, 
+            "human": "1995-Jan-03", 
+            "m": 1, 
+            "platform": 79, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 791510400000, 
+            "human": "1995-Jan-31", 
+            "m": 1, 
+            "platform": 80, 
+            "region": 2, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 802051200000, 
+            "human": "1995-Jun-02", 
+            "m": 6, 
+            "platform": 136, 
+            "region": 5, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 789091200000, 
+            "human": "1995-Jan-03", 
+            "m": 1, 
+            "platform": 79, 
+            "region": 5, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 791510400000, 
+            "human": "1995-Jan-31", 
+            "m": 1, 
+            "platform": 80, 
+            "region": 5, 
+            "y": 1995
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 26, 
+            "region": 1, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 1178668800000, 
+            "human": "2007-May-09", 
+            "m": 5, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1069113600000, 
+            "human": "2003-Nov-18", 
+            "m": 11, 
+            "platform": 24, 
+            "region": 2, 
+            "y": 2003
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 15, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 59, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 757296000000, 
+            "human": "1993", 
+            "m": 12, 
+            "platform": 61, 
+            "region": 2, 
+            "y": 1993
+        }, 
+        {
+            "category": 2, 
+            "date": 757296000000, 
+            "human": "1993", 
+            "m": 12, 
+            "platform": 29, 
+            "region": 2, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 591667200000, 
+            "human": "1988-Oct-01", 
+            "m": 10, 
+            "platform": 64, 
+            "region": 5, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 13, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 576460800000, 
+            "human": "1988-Apr-08", 
+            "m": 4, 
+            "platform": 18, 
+            "region": 5, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 649468800000, 
+            "human": "1990-Aug-01", 
+            "m": 8, 
+            "platform": 33, 
+            "region": 2, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 662601600000, 
+            "human": "1990", 
+            "m": 12, 
+            "platform": 27, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 63, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 631065600000, 
+            "human": "1989", 
+            "m": 12, 
+            "platform": 60, 
+            "region": 2, 
+            "y": 1989
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 25, 
+            "region": 1, 
+            "y": 1988
+        }, 
+        {
+            "category": 2, 
+            "date": 599529600000, 
+            "human": "1988", 
+            "m": 12, 
+            "platform": 16, 
+            "region": 2, 
+            "y": 1988
+        }, 
+        {
+            "category": 0, 
+            "date": 554774400000, 
+            "human": "1987-Aug-01", 
+            "m": 8, 
+            "platform": 52, 
+            "region": 5, 
+            "y": 1987
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 35
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ftfk5zx4x9v5wf4wjzdy", 
+            "height": 360, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ftfk5zx4x9v5wf4wjzdy.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "double-dragon", 
+    "storyline": "The player takes control of martial artist Billy Lee, or his twin brother Jimmy (also known as Hammer and Spike in the supplementary materials for the American arcade release), as they fight their way into the turf of the Black Warriors gang in order to rescue their common love interest Marian.", 
+    "summary": "The player character has a repertoire of martial art techniques which they can perform by using the joystick and three action buttons (kick, jump, and punch) individually or in combination. Techniques range from basic punches and kicks, to more elaborate manoeuvres like hair grabbing moves and elbow strikes. When playing with another player, one can assist the other by grabbing their partner's opponent from behind. Caution should be taken, though, as some enemies are able to do the same thing to the players. The player begins the game with a certain number of extra lives and a life gauge which depletes as the player takes hits. If the life gauge runs out or the time limit reaches zero, the player will lose a life. \n \nThere is a small variety of enemy characters that the player will face through the course of the game. Certain enemies carry melee weapons, which can be knocked out of their hands and picked up to use against them. Available weapons include baseball bats, whips, throwing knives, and dynamite; in addition, rocks, oil drums, and boxes can be found in certain places. \n \nThe game is divided into four different stages or \"missions,\" which consist of a city slum, a factory, the woods, and the gang's hideout. The game normally ends if a single player defeats the final boss alone. However, if two players manage to complete the game together, they are then forced to fight each other in order to determine who will win Marian's affections.", 
+    "tags": [
+        1, 
+        268435460, 
+        268435464, 
+        268435481, 
+        268435489, 
+        536870973, 
+        536871019, 
+        536871244, 
+        536871470, 
+        536871889, 
+        536871894, 
+        536871971, 
+        536872098, 
+        536872100, 
+        536872205, 
+        536872229, 
+        536873017, 
+        536873064, 
+        536873323, 
+        536873991, 
+        536874398, 
+        536875073, 
+        536875095, 
+        536875308, 
+        536875361, 
+        536875420, 
+        536875434, 
+        536875570, 
+        536875610, 
+        536875655, 
+        536875691, 
+        536875729, 
+        536875792, 
+        536875803, 
+        536875871, 
+        536875908, 
+        536875942, 
+        536876266, 
+        536876283, 
+        536876361, 
+        536876362, 
+        536876564, 
+        536876717, 
+        536876955, 
+        536876976, 
+        536876989, 
+        536877064, 
+        536877220, 
+        536877293, 
+        536877369, 
+        536877780, 
+        536877940, 
+        536878265, 
+        536878331, 
+        536878398, 
+        536878519, 
+        536879806, 
+        536880320, 
+        536880841, 
+        536880882, 
+        536880994, 
+        536882765, 
+        536883126, 
+        536885274, 
+        1073741828, 
+        1073741826
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 59.1489845356922, 
+    "total_rating_count": 44, 
+    "updated_at": 1528476386488, 
+    "url": "https://www.igdb.com/games/double-dragon", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "cy5f9ayBHbM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Double_Dragon"
+        }
+    ]
+}

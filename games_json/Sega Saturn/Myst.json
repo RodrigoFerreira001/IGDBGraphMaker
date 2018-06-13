@@ -1,0 +1,165 @@
+{
+    "aggregated_rating": 54.75, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "collection": 71, 
+    "cover": {
+        "cloudinary_id": "g5smh1yjndwdw6ibxado", 
+        "height": 475, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/g5smh1yjndwdw6ibxado.jpg", 
+        "width": 412
+    }, 
+    "created_at": 1300349883000, 
+    "developers": [
+        326
+    ], 
+    "first_release_date": 748828800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        27725, 
+        25222, 
+        26239, 
+        27266, 
+        19289, 
+        13189, 
+        36792, 
+        25646, 
+        37094, 
+        26163
+    ], 
+    "genres": [
+        2, 
+        9, 
+        31
+    ], 
+    "id": 236, 
+    "name": "Myst", 
+    "platforms": [
+        6, 
+        39, 
+        14, 
+        32, 
+        7, 
+        38, 
+        20
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 41.0, 
+    "publishers": [
+        195, 
+        327, 
+        328, 
+        251
+    ], 
+    "pulse_count": 7, 
+    "rating": 83.7441235978536, 
+    "rating_count": 44, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 748828800000, 
+            "human": "1993-Sep-24", 
+            "m": 9, 
+            "platform": 14, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 814752000000, 
+            "human": "1995-Oct-27", 
+            "m": 10, 
+            "platform": 32, 
+            "y": 1995
+        }, 
+        {
+            "category": 0, 
+            "date": 748828800000, 
+            "human": "1993-Sep-24", 
+            "m": 9, 
+            "platform": 6, 
+            "y": 1993
+        }, 
+        {
+            "category": 0, 
+            "date": 1247702400000, 
+            "human": "2009-Jul-16", 
+            "m": 7, 
+            "platform": 38, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1210636800000, 
+            "human": "2008-May-13", 
+            "m": 5, 
+            "platform": 20, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1240358400000, 
+            "human": "2009-Apr-22", 
+            "m": 4, 
+            "platform": 39, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 844041600000, 
+            "human": "1996-Sep-30", 
+            "m": 9, 
+            "platform": 7, 
+            "y": 1996
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bwcagb46v4ptwymevd7s", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bwcagb46v4ptwymevd7s.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ispxku6oqn4xiokhc4ve", 
+            "height": 350, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ispxku6oqn4xiokhc4ve.jpg", 
+            "width": 600
+        }, 
+        {
+            "cloudinary_id": "zw3t9ta1dyumvqgsec7w", 
+            "height": 350, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zw3t9ta1dyumvqgsec7w.jpg", 
+            "width": 600
+        }
+    ], 
+    "slug": "myst", 
+    "summary": "A mystical journey through worlds that changed the concept of an adventure game.", 
+    "tags": [
+        17, 
+        268435458, 
+        268435465, 
+        268435487, 
+        1073741825
+    ], 
+    "themes": [
+        17
+    ], 
+    "time_to_beat": {
+        "completely": 46500, 
+        "hastly": 25200
+    }, 
+    "total_rating": 69.24706179892681, 
+    "total_rating_count": 48, 
+    "updated_at": 1522354804890, 
+    "url": "https://www.igdb.com/games/myst", 
+    "videos": [
+        {
+            "name": "Game intro", 
+            "video_id": "gKCawALGeXw"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 3, 
+    "category": 1, 
+    "collection": 3, 
+    "cover": {
+        "cloudinary_id": "ztcr0apeevebegjgmp8y", 
+        "height": 215, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ztcr0apeevebegjgmp8y.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1431649860871, 
+    "developers": [
+        126
+    ], 
+    "first_release_date": 1233014400000, 
+    "game": 15, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        103020, 
+        90099, 
+        28029, 
+        103281, 
+        86478, 
+        10209, 
+        103298, 
+        27011, 
+        101211, 
+        49414
+    ], 
+    "genres": [
+        5, 
+        12
+    ], 
+    "id": 10301, 
+    "name": "Fallout 3: Operation Anchorage", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        28
+    ], 
+    "rating": 67.57642779574451, 
+    "rating_count": 26, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1233014400000, 
+            "human": "2009-Jan-27", 
+            "m": 1, 
+            "platform": 6, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1233014400000, 
+            "human": "2009-Jan-27", 
+            "m": 1, 
+            "platform": 12, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1254355200000, 
+            "human": "2009-Oct-01", 
+            "m": 10, 
+            "platform": 9, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "forhou1tfjwwismihl5u", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/forhou1tfjwwismihl5u.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qmsethtxmflqtdgqlrxj", 
+            "height": 310, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qmsethtxmflqtdgqlrxj.jpg", 
+            "width": 540
+        }
+    ], 
+    "slug": "fallout-3-operation-anchorage", 
+    "summary": "Enter a military simulation and fight in one of the greatest battles of the Fallout universe \u2013 the liberation of Anchorage, Alaska from its Chinese Communist invaders.", 
+    "tags": [
+        18, 
+        268435461, 
+        268435468, 
+        1073741825
+    ], 
+    "themes": [
+        18
+    ], 
+    "total_rating": 78.78821389787225, 
+    "total_rating_count": 29, 
+    "updated_at": 1528802163325, 
+    "url": "https://www.igdb.com/games/fallout-3-operation-anchorage"
+}

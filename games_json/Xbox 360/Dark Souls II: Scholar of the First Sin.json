@@ -1,0 +1,301 @@
+{
+    "aggregated_rating": 86.7777777777778, 
+    "aggregated_rating_count": 10, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": " Dark Souls 2 SotFS"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Dark Souls II SotFS"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Dark Souls 2: Scholar of the First Sin"
+        }
+    ], 
+    "category": 3, 
+    "collection": 543, 
+    "cover": {
+        "cloudinary_id": "t2soqccmub02qli4v2cd", 
+        "height": 1323, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/t2soqccmub02qli4v2cd.jpg", 
+        "width": 1204
+    }, 
+    "created_at": 1417190243704, 
+    "developers": [
+        1012
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is a role-playing game in which players assume the role of an undead fighter in the realm of Drangleic. Players traverse dungeon-like settings and battle a variety of fantastical enemies (e.g., ghouls, zombies, skeletons, giant rats) to gain souls. Players use knives, swords, and arrows to defeat enemies. Combat is highlighted by cries of pain and small splashes of blood. Some locations depict instances of blood and gore: a giant snake boss holding its severed head; a giant boss creature composed of hundreds of corpses; dead ogres near a pool of blood; a torture device with streaks of blood. During the course of the game, a boss creature appears partially topless (e.g. hair barely covering breasts). The words \"bastard\" and \u201cpr*ck\u201d can be heard in the dialogue."
+    }, 
+    "external": {
+        "steam": "335300"
+    }, 
+    "first_release_date": 1427932800000, 
+    "franchise": 492, 
+    "franchises": [
+        492
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        25300, 
+        47823, 
+        37088, 
+        17001, 
+        11567, 
+        36926, 
+        55092, 
+        12632, 
+        59516, 
+        16999
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "hypes": 5, 
+    "id": 8222, 
+    "keywords": [
+        151, 
+        223, 
+        296, 
+        1026, 
+        1033, 
+        2472, 
+        4282, 
+        4609, 
+        4942, 
+        5563, 
+        5663, 
+        6657, 
+        7122
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 6, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Dark Souls II: Scholar of the First Sin", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence -\r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 3.666666666666667, 
+    "publishers": [
+        3958
+    ], 
+    "rating": 88.11739339853689, 
+    "rating_count": 88, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1428105600000, 
+            "human": "2015-Apr-04", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1428364800000, 
+            "human": "2015-Apr-07", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1428364800000, 
+            "human": "2015-Apr-07", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1428105600000, 
+            "human": "2015-Apr-04", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1428364800000, 
+            "human": "2015-Apr-07", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1427932800000, 
+            "human": "2015-Apr-02", 
+            "m": 4, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1427932800000, 
+            "human": "2015-Apr-02", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1427932800000, 
+            "human": "2015-Apr-02", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1427932800000, 
+            "human": "2015-Apr-02", 
+            "m": 4, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1427932800000, 
+            "human": "2015-Apr-02", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zu4jwolpao5yhcc9e5df", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zu4jwolpao5yhcc9e5df.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "g8roegct3qyzmnubhoeb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/g8roegct3qyzmnubhoeb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "j1ir2upgzvdnbytprbll", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j1ir2upgzvdnbytprbll.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uqlc5lllapc0i7zqpu9z", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uqlc5lllapc0i7zqpu9z.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ux3rollue9i9nu5fmnhv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ux3rollue9i9nu5fmnhv.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "dark-souls-ii-scholar-of-the-first-sin", 
+    "summary": "'Dark Souls II: Scholar of the First Sin' is an upgrade and bundle of Dark Souls II that brings the game to Playstation 4 and Xbox One, as well as DX11 features on PC. It also bundles all previous DLCs and provides additional features and content.", 
+    "tags": [
+        1, 
+        17, 
+        21, 
+        22, 
+        38, 
+        268435468, 
+        268435487, 
+        536871063, 
+        536871135, 
+        536871208, 
+        536871938, 
+        536871945, 
+        536873384, 
+        536875194, 
+        536875521, 
+        536875854, 
+        536876475, 
+        536876575, 
+        536877569, 
+        536878034, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        21, 
+        22, 
+        38
+    ], 
+    "time_to_beat": {
+        "completely": 212985, 
+        "normally": 252000
+    }, 
+    "total_rating": 87.44758558815735, 
+    "total_rating_count": 98, 
+    "updated_at": 1527784800975, 
+    "url": "https://www.igdb.com/games/dark-souls-ii-scholar-of-the-first-sin", 
+    "videos": [
+        {
+            "name": "Annoucement Trailer", 
+            "video_id": "3nErjDw8dP8"
+        }, 
+        {
+            "name": "Forlorn Hope Trailer", 
+            "video_id": "nFATZnAq6Ps"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.darksoulsii.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/335300"
+        }
+    ]
+}

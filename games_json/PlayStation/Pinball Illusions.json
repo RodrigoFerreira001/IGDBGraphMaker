@@ -1,0 +1,81 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Sony Playstation Title", 
+            "name": "True Pinball"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "honpefcbj9julqgptuak", 
+        "height": 3099, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/honpefcbj9julqgptuak.jpg", 
+        "width": 2247
+    }, 
+    "created_at": 1396976721823, 
+    "developers": [
+        137
+    ], 
+    "first_release_date": 820368000000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        55062, 
+        29831, 
+        18467, 
+        13501, 
+        13242, 
+        4067, 
+        81559, 
+        80843, 
+        80819, 
+        80741
+    ], 
+    "genres": [
+        30
+    ], 
+    "id": 6025, 
+    "name": "Pinball Illusions", 
+    "platforms": [
+        13, 
+        16, 
+        7
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        137
+    ], 
+    "release_dates": [
+        {
+            "category": 2, 
+            "date": 820368000000, 
+            "human": "1995", 
+            "m": 12, 
+            "platform": 16, 
+            "y": 1995
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 13
+        }, 
+        {
+            "category": 7, 
+            "human": "TBD", 
+            "platform": 7
+        }
+    ], 
+    "slug": "pinball-illusions", 
+    "summary": "Pinball Illusions is the successor to the Pinball Fantasies, using an upgraded game engine. The tables are Babewatch, Law & Justice, Extreme Sports and (on PC CD versions) The Vikings. These contain ramps, bonus areas and combo sequences to set up. All the artwork were produced in true 256 colors from the ground up for AGA Amigas and the PC, rather than originating in 32 colors on older Amigas. \n \nNew to this version is multiball: Pinball Illusions supports up to six balls simultaneously, in which case it switches to high resolution mode. CD versions use CD audio for music.", 
+    "tags": [
+        268435486, 
+        1073741827
+    ], 
+    "updated_at": 1517270719519, 
+    "url": "https://www.igdb.com/games/pinball-illusions"
+}

@@ -1,0 +1,87 @@
+{
+    "alternative_names": [
+        {
+            "name": "MLB 2K4"
+        }
+    ], 
+    "category": 0, 
+    "collection": 741, 
+    "cover": {
+        "cloudinary_id": "gnjohx9ngdn4dvg09xpk", 
+        "height": 779, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gnjohx9ngdn4dvg09xpk.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1422865588244, 
+    "developers": [
+        694
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1078099200000, 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        7064, 
+        69398, 
+        67390, 
+        66208, 
+        66197, 
+        65284, 
+        64377, 
+        64044, 
+        62299, 
+        62275
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 8906, 
+    "keywords": [
+        20, 
+        802
+    ], 
+    "name": "ESPN MLB Baseball", 
+    "platforms": [
+        11, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        112
+    ], 
+    "release_dates": [
+        {
+            "category": 1, 
+            "date": 1078099200000, 
+            "human": "2004-Mar", 
+            "m": 3, 
+            "platform": 11, 
+            "y": 2004
+        }, 
+        {
+            "category": 1, 
+            "date": 1078099200000, 
+            "human": "2004-Mar", 
+            "m": 3, 
+            "platform": 8, 
+            "y": 2004
+        }
+    ], 
+    "slug": "espn-mlb-baseball", 
+    "tags": [
+        268435470, 
+        536870932, 
+        536871714, 
+        1073741826
+    ], 
+    "updated_at": 1524630449971, 
+    "url": "https://www.igdb.com/games/espn-mlb-baseball"
+}

@@ -1,0 +1,211 @@
+{
+    "aggregated_rating": 77.2, 
+    "aggregated_rating_count": 5, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "zsu9mirfmxncd5piovoc", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zsu9mirfmxncd5piovoc.jpg", 
+        "width": 1920
+    }, 
+    "created_at": 1480718797106, 
+    "developers": [
+        11661
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is an action-adventure platformer in which players assume the role of a creature (wum) looking for a new home. Players traverse platforms, collect items, solve puzzles, and defeat various enemies along the way. Some characters use sticks to strike players' character; the wum sometimes uses a paint cannon to shoot at enemies, who disappear into puffs of smoke when defeated."
+    }, 
+    "external": {
+        "steam": "400630"
+    }, 
+    "first_release_date": 1475107200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        47823, 
+        55752, 
+        25300, 
+        25311, 
+        36926, 
+        19448, 
+        55289, 
+        19174, 
+        22747, 
+        23689
+    ], 
+    "genres": [
+        8, 
+        12, 
+        31, 
+        32
+    ], 
+    "id": 26175, 
+    "keywords": [
+        117, 
+        296, 
+        301, 
+        477, 
+        509, 
+        1030, 
+        1033, 
+        1387, 
+        2016, 
+        2049, 
+        2361, 
+        4146, 
+        4609, 
+        5388, 
+        5420, 
+        5427, 
+        6479
+    ], 
+    "name": "Wuppo", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons."
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        6999
+    ], 
+    "pulse_count": 1, 
+    "rating": 80.0, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1510272000000, 
+            "human": "2017-Nov-10", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1510272000000, 
+            "human": "2017-Nov-10", 
+            "m": 11, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1475107200000, 
+            "human": "2016-Sep-29", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "i5i99mzf0gseapizbbyy", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i5i99mzf0gseapizbbyy.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bw9qjzdkp4opd0gy2xoz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bw9qjzdkp4opd0gy2xoz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "uacxiktzultq3qichri2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uacxiktzultq3qichri2.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pesi3m2xepentvd39vom", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pesi3m2xepentvd39vom.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "osrl1l2pqelaryubqhg5", 
+            "height": 355, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/osrl1l2pqelaryubqhg5.jpg", 
+            "width": 631
+        }
+    ], 
+    "slug": "wuppo", 
+    "summary": "Enter the wondrous world of Wuppo! Fight numerous enemies, collect countless items, and solve immersive puzzles, all while exploring the detailed history of the world in your quest to find a new home.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435468, 
+        268435487, 
+        268435488, 
+        536871029, 
+        536871208, 
+        536871213, 
+        536871389, 
+        536871421, 
+        536871942, 
+        536871945, 
+        536872299, 
+        536872928, 
+        536872961, 
+        536873273, 
+        536875058, 
+        536875521, 
+        536876300, 
+        536876332, 
+        536876339, 
+        536877391, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 78.6, 
+    "total_rating_count": 8, 
+    "updated_at": 1528010873379, 
+    "url": "https://www.igdb.com/games/wuppo", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "vC89v4NqNzw"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "c3wj9KmeucU"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/twlkd"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/knuistperzik"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/wuppogame"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://wuppogame.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/400630"
+        }
+    ]
+}

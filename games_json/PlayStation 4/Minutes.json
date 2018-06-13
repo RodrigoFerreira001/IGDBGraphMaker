@@ -1,0 +1,109 @@
+{
+    "aggregated_rating": 82.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jnhpguecl2wnnq3y5uij", 
+        "height": 512, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jnhpguecl2wnnq3y5uij.jpg", 
+        "width": 512
+    }, 
+    "created_at": 1469795848747, 
+    "first_release_date": 1415145600000, 
+    "games": [
+        36608, 
+        34919, 
+        40524, 
+        23175, 
+        16468, 
+        1070, 
+        2940, 
+        68324, 
+        28029, 
+        37022
+    ], 
+    "id": 21707, 
+    "keywords": [
+        1495
+    ], 
+    "name": "Minutes", 
+    "platforms": [
+        45, 
+        48
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        9729
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1415145600000, 
+            "human": "2014-Nov-05", 
+            "m": 11, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415145600000, 
+            "human": "2014-Nov-05", 
+            "m": 11, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pqldwgtinrgg2vfqeyzd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pqldwgtinrgg2vfqeyzd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "rczoxgosbqhihyvcrrwl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rczoxgosbqhihyvcrrwl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yer1c9gpnog1oxviyjxr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yer1c9gpnog1oxviyjxr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "or1ydjumvuz3jqajz9em", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/or1ydjumvuz3jqajz9em.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "oztinezj5gfpqkyg3itx", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/oztinezj5gfpqkyg3itx.jpg", 
+            "width": 1200
+        }
+    ], 
+    "slug": "minutes", 
+    "summary": "A new abstract action game for PlayStation\u00ae4 and PlayStation\u00aeVita.", 
+    "tags": [
+        1, 
+        536872407
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 82.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1520967229774, 
+    "url": "https://www.igdb.com/games/minutes", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.redphantomgames.com/Minutes-Game/index.html"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "category": 0, 
+    "collection": 785, 
+    "cover": {
+        "cloudinary_id": "gb5indjzwa4ccw65l1hx", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gb5indjzwa4ccw65l1hx.jpg", 
+        "width": 1920
+    }, 
+    "created_at": 1517612095205, 
+    "developers": [
+        13943
+    ], 
+    "first_release_date": 1521504000000, 
+    "games": [
+        46820, 
+        39665, 
+        101684, 
+        101567, 
+        101100, 
+        100907, 
+        100887, 
+        100879, 
+        100863, 
+        100832
+    ], 
+    "genres": [
+        14
+    ], 
+    "id": 86223, 
+    "name": "R.B.I. Baseball 18", 
+    "platforms": [
+        34, 
+        39, 
+        48, 
+        49, 
+        130
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        9163
+    ], 
+    "release_dates": [
+        {
+            "category": 4, 
+            "date": 1530316800000, 
+            "human": "2018-Q2", 
+            "m": 6, 
+            "platform": 34, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1522108800000, 
+            "human": "2018-Mar-27", 
+            "m": 3, 
+            "platform": 39, 
+            "y": 2018
+        }, 
+        {
+            "category": 4, 
+            "date": 1530316800000, 
+            "human": "2018-Q2", 
+            "m": 6, 
+            "platform": 130, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1521504000000, 
+            "human": "2018-Mar-20", 
+            "m": 3, 
+            "platform": 48, 
+            "y": 2018
+        }, 
+        {
+            "category": 0, 
+            "date": 1521504000000, 
+            "human": "2018-Mar-20", 
+            "m": 3, 
+            "platform": 49, 
+            "y": 2018
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rk77f8hfmdkgfccmrqnh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rk77f8hfmdkgfccmrqnh.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "rbi-baseball-18--1", 
+    "tags": [
+        268435470
+    ], 
+    "updated_at": 1521998604220, 
+    "url": "https://www.igdb.com/games/rbi-baseball-18--1", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "T0v20PvCsA0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 5, 
+            "url": "https://twitter.com/http://www.rbigame.com"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/mlbrbigame"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.rbigame.com"
+        }
+    ]
+}

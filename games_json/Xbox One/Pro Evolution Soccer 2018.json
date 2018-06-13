@@ -1,0 +1,311 @@
+{
+    "aggregated_rating": 84.0, 
+    "aggregated_rating_count": 12, 
+    "alternative_names": [
+        {
+            "name": "Winning Eleven 2018"
+        }, 
+        {
+            "comment": "Acronym", 
+            "name": "PES 2018"
+        }
+    ], 
+    "category": 0, 
+    "collection": 195, 
+    "cover": {
+        "cloudinary_id": "m6zffpjgzoezpy0svp8f", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/m6zffpjgzoezpy0svp8f.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1495024475584, 
+    "developers": [
+        129, 
+        161
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is a soccer simulation game in which players control soccer teams from international leagues. Players can compete in a variety of modes (e.g., Training, UEFA Champions League, Master League) and improve their skills through practice shootouts and drills."
+    }, 
+    "external": {
+        "steam": "592580"
+    }, 
+    "first_release_date": 1505174400000, 
+    "game_engines": [
+        29
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        27081, 
+        36926, 
+        11071, 
+        26772, 
+        18681, 
+        701, 
+        54662, 
+        26709, 
+        25076, 
+        15851
+    ], 
+    "genres": [
+        14
+    ], 
+    "hypes": 1, 
+    "id": 28862, 
+    "keywords": [
+        26, 
+        27, 
+        4357, 
+        4521, 
+        7201, 
+        12087, 
+        12152, 
+        12556
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 8, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 22, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Pro Evolution Soccer 2018", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons."
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "player_perspectives": [
+        2, 
+        3
+    ], 
+    "popularity": 8.333333333333332, 
+    "publishers": [
+        129, 
+        161
+    ], 
+    "pulse_count": 79, 
+    "rating": 75.0, 
+    "rating_count": 4, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1505174400000, 
+            "human": "2017-Sep-12", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505347200000, 
+            "human": "2017-Sep-14", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505347200000, 
+            "human": "2017-Sep-14", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505347200000, 
+            "human": "2017-Sep-14", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505347200000, 
+            "human": "2017-Sep-14", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505347200000, 
+            "human": "2017-Sep-14", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505174400000, 
+            "human": "2017-Sep-12", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505174400000, 
+            "human": "2017-Sep-12", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505174400000, 
+            "human": "2017-Sep-12", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505174400000, 
+            "human": "2017-Sep-12", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505174400000, 
+            "human": "2017-Sep-12", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "nwqorfknewowdxdngvqq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nwqorfknewowdxdngvqq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "drpxgqmi0j096wxkzixw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/drpxgqmi0j096wxkzixw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "edwpmdjz1eqxi2c2n1bl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/edwpmdjz1eqxi2c2n1bl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ikyukod0hbblqx0kjrbh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ikyukod0hbblqx0kjrbh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "sh1nnqxkpbqbxon59e0e", 
+            "height": 444, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sh1nnqxkpbqbxon59e0e.jpg", 
+            "width": 790
+        }
+    ], 
+    "slug": "pro-evolution-soccer-2018", 
+    "summary": "'Where Legends Are Made' encapsulates the return of PES, with an unparalleled gameplay experience.", 
+    "tags": [
+        32, 
+        268435470, 
+        536870938, 
+        536870939, 
+        536875269, 
+        536875433, 
+        536878113, 
+        536882999, 
+        536883064, 
+        536883468, 
+        1073741826, 
+        1073741827
+    ], 
+    "themes": [
+        32
+    ], 
+    "total_rating": 79.5, 
+    "total_rating_count": 16, 
+    "updated_at": 1528463542527, 
+    "url": "https://www.igdb.com/games/pro-evolution-soccer-2018", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "jGgNxN0rQYw"
+        }, 
+        {
+            "name": "Teaser", 
+            "video_id": "ausCVlEeF98"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/592580"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.konami.com/wepes/2018"
+        }, 
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/officialpes"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2018"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/officialpes"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/PES"
+        }
+    ]
+}

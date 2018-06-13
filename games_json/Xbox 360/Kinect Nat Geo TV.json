@@ -1,0 +1,110 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 4325, 
+    "cover": {
+        "cloudinary_id": "vrc1x40khksdtbrjlcvm", 
+        "height": 788, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vrc1x40khksdtbrjlcvm.jpg", 
+        "width": 636
+    }, 
+    "created_at": 1470300540287, 
+    "developers": [
+        3048, 
+        4355
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1347926400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        36868, 
+        34919, 
+        36608, 
+        16468, 
+        59516, 
+        23175, 
+        11169, 
+        28029, 
+        55289, 
+        10039
+    ], 
+    "id": 22343, 
+    "keywords": [
+        534, 
+        4162, 
+        4220, 
+        5348, 
+        6197, 
+        6363, 
+        9579
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Kinect Nat Geo TV", 
+    "platforms": [
+        12
+    ], 
+    "player_perspectives": [
+        1, 
+        2
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        1010
+    ], 
+    "pulse_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1347926400000, 
+            "human": "2012-Sep-18", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2012
+        }
+    ], 
+    "slug": "kinect-nat-geo-tv", 
+    "summary": "A ground-breaking interactive experience developed as part of Microsoft \\\"playful learning\\\" initiative, Kinect Nat Geo TV uses Kinect to combine motion-control with augmented reality. It mixes high-quality National Geographic television shows with fun-packed Xbox 360 Kinect motion-controlled game play.With Kinect Nat Geo TV, you\\'re not only gaming and you\\'re not only watching TV -- living rooms are turned into animal habitats and players into a variety of animals! And all along, players are inspired to learn and care about the planet. Kinect Nat Geo goes beyond what a TV show can do: it is a totally immersive experience for parents and kids.", 
+    "tags": [
+        1, 
+        34, 
+        536871446, 
+        536875074, 
+        536875132, 
+        536876260, 
+        536877109, 
+        536877275, 
+        536880491, 
+        1073741825, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        34
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1516766212434, 
+    "url": "https://www.igdb.com/games/kinect-nat-geo-tv"
+}

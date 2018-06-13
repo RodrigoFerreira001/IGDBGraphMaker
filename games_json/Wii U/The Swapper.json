@@ -1,0 +1,493 @@
+{
+    "aggregated_rating": 88.0, 
+    "aggregated_rating_count": 10, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "a41akx87mvmpvklwktci", 
+        "height": 1200, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/a41akx87mvmpvklwktci.jpg", 
+        "width": 950
+    }, 
+    "created_at": 1396620045310, 
+    "developers": [
+        2580, 
+        4065
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "231160"
+    }, 
+    "first_release_date": 1369872000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        6732, 
+        7342, 
+        5601, 
+        7386, 
+        1331, 
+        536, 
+        16992, 
+        17354, 
+        19448, 
+        7344
+    ], 
+    "genres": [
+        8, 
+        9, 
+        31, 
+        32
+    ], 
+    "id": 5892, 
+    "keywords": [
+        72, 
+        117, 
+        137, 
+        197, 
+        201, 
+        203, 
+        558, 
+        560, 
+        964, 
+        966, 
+        970, 
+        1152, 
+        1158, 
+        1202, 
+        1313, 
+        1494, 
+        1697, 
+        1841, 
+        1903, 
+        1904, 
+        1986, 
+        2049, 
+        2141, 
+        2875, 
+        4004, 
+        4134, 
+        4145, 
+        4161, 
+        4177, 
+        4183, 
+        4189, 
+        4287, 
+        4332, 
+        4432, 
+        4484, 
+        4580, 
+        4583, 
+        4586, 
+        4599, 
+        4609, 
+        4611, 
+        4619, 
+        4620, 
+        4624, 
+        4626, 
+        4633, 
+        4634, 
+        4636, 
+        4637, 
+        4664, 
+        4718, 
+        4726, 
+        4789, 
+        4850, 
+        4892, 
+        4896, 
+        4964, 
+        4991, 
+        5005, 
+        5039, 
+        5099, 
+        5116, 
+        5186, 
+        5260, 
+        5269, 
+        5327, 
+        5328, 
+        5375, 
+        5446, 
+        5447, 
+        5494, 
+        5552, 
+        5561, 
+        5675, 
+        5703, 
+        5731, 
+        5737, 
+        6105, 
+        6290, 
+        6655, 
+        6949, 
+        7080, 
+        7215, 
+        7643
+    ], 
+    "name": "The Swapper", 
+    "platforms": [
+        45, 
+        6, 
+        14, 
+        41, 
+        46, 
+        9, 
+        48, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 3.666666666666667, 
+    "publishers": [
+        2580
+    ], 
+    "rating": 79.9628209657, 
+    "rating_count": 60, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1415232000000, 
+            "human": "2014-Nov-06", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1433462400000, 
+            "human": "2015-Jun-05", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1407283200000, 
+            "human": "2014-Aug-06", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1407196800000, 
+            "human": "2014-Aug-05", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1369872000000, 
+            "human": "2013-May-30", 
+            "m": 5, 
+            "platform": 6, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1369872000000, 
+            "human": "2013-May-30", 
+            "m": 5, 
+            "platform": 3, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1392681600000, 
+            "human": "2014-Feb-18", 
+            "m": 2, 
+            "platform": 14, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1407196800000, 
+            "human": "2014-Aug-05", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1407196800000, 
+            "human": "2014-Aug-05", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1407196800000, 
+            "human": "2014-Aug-05", 
+            "m": 8, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1433462400000, 
+            "human": "2015-Jun-05", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1427932800000, 
+            "human": "2015-Apr-02", 
+            "m": 4, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1407283200000, 
+            "human": "2014-Aug-06", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1407283200000, 
+            "human": "2014-Aug-06", 
+            "m": 8, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1407283200000, 
+            "human": "2014-Aug-06", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1415232000000, 
+            "human": "2014-Nov-06", 
+            "m": 11, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "kouggbphddqvrv1jwa3d", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kouggbphddqvrv1jwa3d.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vslhhmsq2fx9p8vsiqml", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vslhhmsq2fx9p8vsiqml.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pcvjdwhikks9d1z6dbsb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pcvjdwhikks9d1z6dbsb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kfi73nbc8dncaheklytz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kfi73nbc8dncaheklytz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qsmcd1bfh644hjr5c1fr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qsmcd1bfh644hjr5c1fr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "w5dmdq9nkkesjccp9ovw", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/w5dmdq9nkkesjccp9ovw.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yfgpi0oskz4jnrus5qvo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yfgpi0oskz4jnrus5qvo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "a82o1dptz36mkchyoetj", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a82o1dptz36mkchyoetj.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "s1elpn1bfzokqf6u9har", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/s1elpn1bfzokqf6u9har.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "wvmnraw0vo8yrcjb1jyc", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wvmnraw0vo8yrcjb1jyc.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "qonx8vunyouvncbdcrfi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qonx8vunyouvncbdcrfi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "syvt532nxseuiwykqkaw", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/syvt532nxseuiwykqkaw.jpg", 
+            "width": 1600
+        }
+    ], 
+    "slug": "the-swapper", 
+    "storyline": "\"The Swapper takes place in an isolated and atmospheric sci-fi world. Players wield an experimental device which allows them to create clones of themselves, swapping their entire consciousness into new bodies to overcome the challenges of the environment.\"", 
+    "summary": "The Swapper is a short puzzle platformer where you must complete every puzzle and collect 124 orbs, in groups of 3 and 9 later on, to complete the game.\n\nThe game has a tool which lets you create up to 4 clones and switch between them as long as you have a clear line of sight.\n\nThe main obstacles for the puzzles are 3 kinds of lights that interfere with the tool in different ways to make the puzzles harder.\n\nAchievements/Trophies are tied to hidden consoles instead of story progress so a guide will most likely be needed to find all 10.", 
+    "tags": [
+        1, 
+        18, 
+        268435464, 
+        268435465, 
+        268435487, 
+        268435488, 
+        536870984, 
+        536871029, 
+        536871049, 
+        536871109, 
+        536871113, 
+        536871115, 
+        536871470, 
+        536871472, 
+        536871876, 
+        536871878, 
+        536871882, 
+        536872064, 
+        536872070, 
+        536872114, 
+        536872225, 
+        536872406, 
+        536872609, 
+        536872753, 
+        536872815, 
+        536872816, 
+        536872898, 
+        536872961, 
+        536873053, 
+        536873787, 
+        536874916, 
+        536875046, 
+        536875057, 
+        536875073, 
+        536875089, 
+        536875095, 
+        536875101, 
+        536875199, 
+        536875244, 
+        536875344, 
+        536875396, 
+        536875492, 
+        536875495, 
+        536875498, 
+        536875511, 
+        536875521, 
+        536875523, 
+        536875531, 
+        536875532, 
+        536875536, 
+        536875538, 
+        536875545, 
+        536875546, 
+        536875548, 
+        536875549, 
+        536875576, 
+        536875630, 
+        536875638, 
+        536875701, 
+        536875762, 
+        536875804, 
+        536875808, 
+        536875876, 
+        536875903, 
+        536875917, 
+        536875951, 
+        536876011, 
+        536876028, 
+        536876098, 
+        536876172, 
+        536876181, 
+        536876239, 
+        536876240, 
+        536876287, 
+        536876358, 
+        536876359, 
+        536876406, 
+        536876464, 
+        536876473, 
+        536876587, 
+        536876615, 
+        536876643, 
+        536876649, 
+        536877017, 
+        536877202, 
+        536877567, 
+        536877861, 
+        536877992, 
+        536878127, 
+        536878555, 
+        1073741828
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "time_to_beat": {
+        "completely": 16200, 
+        "normally": 39600
+    }, 
+    "total_rating": 83.98141048285001, 
+    "total_rating_count": 70, 
+    "updated_at": 1528431052381, 
+    "url": "https://www.igdb.com/games/the-swapper", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "7DMp1uc6aJQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/231160"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://facepalmgames.com/the-swapper"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "xnda6yuaivevhiykm9h1", 
+        "height": 768, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xnda6yuaivevhiykm9h1.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1468359810284, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1322697600000, 
+    "games": [
+        28113, 
+        19082, 
+        28213, 
+        20216, 
+        70906, 
+        54524, 
+        66812, 
+        11423, 
+        11529, 
+        20222
+    ], 
+    "id": 20224, 
+    "keywords": [
+        274, 
+        1293, 
+        4134, 
+        4328, 
+        4359, 
+        5348, 
+        5783
+    ], 
+    "name": "Motion Explosion", 
+    "platforms": [
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1322697600000, 
+            "human": "2011-Dec-01", 
+            "m": 12, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "slug": "motion-explosion", 
+    "summary": "Upcoming game for Kinect. A family-friendly game with mini-games.", 
+    "tags": [
+        536871186, 
+        536872205, 
+        536875046, 
+        536875240, 
+        536875271, 
+        536876260, 
+        536876695
+    ], 
+    "total_rating": 65.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1515855238939, 
+    "url": "https://www.igdb.com/games/motion-explosion"
+}

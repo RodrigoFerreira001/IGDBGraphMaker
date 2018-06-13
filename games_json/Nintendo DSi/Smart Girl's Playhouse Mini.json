@@ -1,0 +1,62 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "bchteuw5mdx434m7yav0", 
+        "height": 403, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bchteuw5mdx434m7yav0.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1469228884703, 
+    "first_release_date": 1352332800000, 
+    "id": 21011, 
+    "name": "Smart Girl's Playhouse Mini", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1352332800000, 
+            "human": "2012-Nov-08", 
+            "m": 11, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "qspz8rdgwrp46baaquqj", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qspz8rdgwrp46baaquqj.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "nhmmaib64weauejkc4g3", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nhmmaib64weauejkc4g3.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "zcknm7mlfdraydakn7nh", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zcknm7mlfdraydakn7nh.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "smart-girls-playhouse-mini", 
+    "summary": "The award-winning Smart Girl\u2019s Playhouse series is back!", 
+    "total_rating": 50.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1518009358667, 
+    "url": "https://www.igdb.com/games/smart-girls-playhouse-mini", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://ufointeractivegames.com/"
+        }
+    ]
+}

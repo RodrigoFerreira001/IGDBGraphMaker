@@ -1,0 +1,192 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "j67xmlv53uuduq2p6axs", 
+        "height": 419, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/j67xmlv53uuduq2p6axs.jpg", 
+        "width": 350
+    }, 
+    "created_at": 1495894308003, 
+    "esrb": {
+        "rating": 4
+    }, 
+    "external": {
+        "steam": "633440"
+    }, 
+    "first_release_date": 1495497600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        6732, 
+        11423, 
+        19174, 
+        16513, 
+        7350, 
+        19448, 
+        55752, 
+        25300, 
+        28113, 
+        19082
+    ], 
+    "genres": [
+        8, 
+        32
+    ], 
+    "id": 36422, 
+    "keywords": [
+        117, 
+        970, 
+        1158, 
+        1293, 
+        1494, 
+        2049, 
+        4004, 
+        4134, 
+        4150, 
+        4161, 
+        4698, 
+        4699, 
+        16827
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 4, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Unit 4", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1495584000000, 
+            "human": "2017-May-24", 
+            "m": 5, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1495497600000, 
+            "human": "2017-May-23", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1495584000000, 
+            "human": "2017-May-24", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "r1d8jixe9rhxofshoip2", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r1d8jixe9rhxofshoip2.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "j4yrdkvfg3iejx3uzm0d", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j4yrdkvfg3iejx3uzm0d.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "b9mie7v2jdtx60negdrf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b9mie7v2jdtx60negdrf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jkbe7zqn86jqqx6m4k60", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jkbe7zqn86jqqx6m4k60.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "r5xhtwlxlmknlzxxhdai", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r5xhtwlxlmknlzxxhdai.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "unit-4", 
+    "summary": "Fast paced platforming action, cooperative gameplay up to 4 players, an elite squad of agents with amazing skills, space travels, exploration, unique missions, fancy characters, incredible fights with huge bosses, trade, minigames and much more!", 
+    "tags": [
+        1, 
+        18, 
+        268435464, 
+        268435488, 
+        536871029, 
+        536871882, 
+        536872070, 
+        536872205, 
+        536872406, 
+        536872961, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875073, 
+        536875610, 
+        536875611, 
+        536887739
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1526735023235, 
+    "url": "https://www.igdb.com/games/unit-4", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/633440"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.inagalaxynotsofaraway.com"
+        }
+    ]
+}

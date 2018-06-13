@@ -1,0 +1,299 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 5, 
+    "alternative_names": [
+        {
+            "comment": "German title", 
+            "name": "Indiana Jones und der Stab der K\u00f6nige"
+        }, 
+        {
+            "name": "Indiana Jones und der Stab der K\u00f6nige (German title)"
+        }
+    ], 
+    "category": 0, 
+    "collection": 2019, 
+    "cover": {
+        "cloudinary_id": "lyzoxx4arpt9pod8ayaf", 
+        "height": 325, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lyzoxx4arpt9pod8ayaf.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1391638460869, 
+    "developers": [
+        1241, 
+        1326
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1244505600000, 
+    "franchise": 2, 
+    "franchises": [
+        2
+    ], 
+    "game_modes": [
+        1, 
+        3, 
+        4
+    ], 
+    "games": [
+        17001, 
+        47823, 
+        11567, 
+        26196, 
+        36868, 
+        6732, 
+        37088, 
+        11560, 
+        55752, 
+        36952
+    ], 
+    "genres": [
+        8, 
+        31
+    ], 
+    "id": 4932, 
+    "keywords": [
+        953, 
+        992, 
+        1033, 
+        1821, 
+        2049, 
+        2105, 
+        4134, 
+        4142, 
+        4146, 
+        4155, 
+        4199, 
+        4230, 
+        4282, 
+        4297, 
+        4345, 
+        4382, 
+        4446, 
+        4450, 
+        4698, 
+        4866, 
+        4891, 
+        5118, 
+        5328, 
+        5453, 
+        5508, 
+        5654, 
+        5782, 
+        6216, 
+        6363, 
+        6616, 
+        7016, 
+        7067, 
+        7569, 
+        13076
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 5, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Indiana Jones and the Staff of Kings", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\nIt contains: Realistic looking violence"
+    }, 
+    "platforms": [
+        38, 
+        20, 
+        5, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "publishers": [
+        10
+    ], 
+    "rating": 67.6931193941839, 
+    "rating_count": 3, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1244764800000, 
+            "human": "2009-Jun-12", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1246320000000, 
+            "human": "2009-Jun-30", 
+            "m": 6, 
+            "platform": 5, 
+            "region": 2, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1244505600000, 
+            "human": "2009-Jun-09", 
+            "m": 6, 
+            "platform": 5, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1244505600000, 
+            "human": "2009-Jun-09", 
+            "m": 6, 
+            "platform": 38, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1244505600000, 
+            "human": "2009-Jun-09", 
+            "m": 6, 
+            "platform": 20, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1244505600000, 
+            "human": "2009-Jun-09", 
+            "m": 6, 
+            "platform": 8, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "vt8xbeaim0dyd0ku6ikq", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vt8xbeaim0dyd0ku6ikq.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "elwaczr5z4gj6ssddy8u", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/elwaczr5z4gj6ssddy8u.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "dufbz4fk9r6o0spsdvz5", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dufbz4fk9r6o0spsdvz5.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "f1zeavppzp3swuxindfu", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f1zeavppzp3swuxindfu.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "olqhjhj0u7drhvlp25jy", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/olqhjhj0u7drhvlp25jy.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "rlio9iwokkf07kjizycw", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rlio9iwokkf07kjizycw.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "ogaojqwm8la3zayazeyv", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ogaojqwm8la3zayazeyv.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "cp4tqudmplpsywanpvtv", 
+            "height": 340, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cp4tqudmplpsywanpvtv.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "indiana-jones-and-the-staff-of-kings", 
+    "summary": "The plot centers around Indy's search for the Staff of Moses. The game is mostly about a quest which takes you around the world on various quests, fighting Nazis, Panamanian hunters, and Tong thugs, and trying to find artifacts which will unlock other possible things for you to get and do. Although the staff of Moses is never mentioned in the beginning of the game, the plot is set about finding the staff, but the actual part of the story where the quest about finding the staff of Moses first start taking place is a lot further on in the game", 
+    "tags": [
+        1, 
+        17, 
+        22, 
+        268435464, 
+        268435487, 
+        536871865, 
+        536871904, 
+        536871945, 
+        536872733, 
+        536872961, 
+        536873017, 
+        536875046, 
+        536875054, 
+        536875058, 
+        536875067, 
+        536875111, 
+        536875142, 
+        536875194, 
+        536875209, 
+        536875257, 
+        536875294, 
+        536875358, 
+        536875362, 
+        536875610, 
+        536875778, 
+        536875803, 
+        536876030, 
+        536876240, 
+        536876365, 
+        536876420, 
+        536876566, 
+        536876694, 
+        536877128, 
+        536877275, 
+        536877528, 
+        536877928, 
+        536877979, 
+        536878481, 
+        536883988, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        22
+    ], 
+    "total_rating": 58.84655969709195, 
+    "total_rating_count": 8, 
+    "updated_at": 1518065726746, 
+    "url": "https://www.igdb.com/games/indiana-jones-and-the-staff-of-kings", 
+    "videos": [
+        {
+            "name": "Gameplay video", 
+            "video_id": "CIMnALTYVwI"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "eGbzutiBhjs"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.lucasarts.com/games/indianajones/"
+        }
+    ]
+}

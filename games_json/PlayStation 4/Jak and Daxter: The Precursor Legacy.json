@@ -1,0 +1,464 @@
+{
+    "aggregated_rating": 90.0, 
+    "aggregated_rating_count": 1, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "J&D"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "osmgb95h39coij0pwwre", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/osmgb95h39coij0pwwre.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "fbytibhkjlluinhkyuqh", 
+            "height": 700, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fbytibhkjlluinhkyuqh.jpg", 
+            "width": 850
+        }, 
+        {
+            "cloudinary_id": "kjg1g6zmrs2o3b1uzrfc", 
+            "height": 800, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kjg1g6zmrs2o3b1uzrfc.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "yh5hae9afcrt0xkt7nzi", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yh5hae9afcrt0xkt7nzi.jpg", 
+            "width": 500
+        }, 
+        {
+            "cloudinary_id": "hdvrt3du2crdybg9aa7m", 
+            "height": 545, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hdvrt3du2crdybg9aa7m.jpg", 
+            "width": 720
+        }, 
+        {
+            "cloudinary_id": "yvqffc6igxmvpzokkkf2", 
+            "height": 520, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yvqffc6igxmvpzokkkf2.jpg", 
+            "width": 800
+        }, 
+        {
+            "cloudinary_id": "ggul4t84hyegg0holdm8", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ggul4t84hyegg0holdm8.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "mhcf6rkrnzntudgo1zyh", 
+            "height": 520, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mhcf6rkrnzntudgo1zyh.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "knakml8tuaitfh8vfk1b", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/knakml8tuaitfh8vfk1b.jpg", 
+            "width": 800
+        }
+    ], 
+    "category": 0, 
+    "collection": 316, 
+    "cover": {
+        "cloudinary_id": "tgzbgl8kc7wjfuvbdgtr", 
+        "height": 600, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tgzbgl8kc7wjfuvbdgtr.jpg", 
+        "width": 483
+    }, 
+    "created_at": 1349813219110, 
+    "developers": [
+        401
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 1007337600000, 
+    "game_engines": [
+        126
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        1530, 
+        1529, 
+        11065, 
+        1289, 
+        2933, 
+        1185, 
+        1773, 
+        1078, 
+        1186, 
+        843
+    ], 
+    "genres": [
+        8, 
+        31
+    ], 
+    "id": 1528, 
+    "keywords": [
+        72, 
+        296, 
+        301, 
+        350, 
+        394, 
+        403, 
+        669, 
+        1098, 
+        1289, 
+        1440, 
+        1459, 
+        1710, 
+        1986, 
+        2049, 
+        2199, 
+        2280, 
+        2296, 
+        2324, 
+        2452, 
+        2543, 
+        3061, 
+        3297, 
+        3486, 
+        3833, 
+        3919, 
+        4138, 
+        4161, 
+        4162, 
+        4169, 
+        4239, 
+        4245, 
+        4282, 
+        4285, 
+        4287, 
+        4297, 
+        4347, 
+        4359, 
+        4386, 
+        4398, 
+        4477, 
+        4484, 
+        4490, 
+        4525, 
+        4576, 
+        4582, 
+        4611, 
+        4622, 
+        4694, 
+        4709, 
+        4758, 
+        4760, 
+        4777, 
+        4897, 
+        4907, 
+        4927, 
+        5005, 
+        5022, 
+        5193, 
+        5293, 
+        5329, 
+        5441, 
+        5453, 
+        5672, 
+        5680, 
+        5801, 
+        5803, 
+        5954, 
+        6060, 
+        6094, 
+        6142, 
+        6146, 
+        6304, 
+        6318, 
+        6512, 
+        6746, 
+        6852, 
+        7237, 
+        7309, 
+        7473, 
+        7593, 
+        8169, 
+        8219, 
+        8236, 
+        8894, 
+        9080, 
+        9273, 
+        9305, 
+        9364, 
+        9399, 
+        9441, 
+        9529, 
+        9654, 
+        9661, 
+        9843, 
+        9893, 
+        11311, 
+        11451, 
+        13118, 
+        13455, 
+        13456, 
+        15281, 
+        15630, 
+        15631, 
+        15632
+    ], 
+    "name": "Jak and Daxter: The Precursor Legacy", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        45, 
+        9, 
+        48, 
+        8
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 3.666666666666667, 
+    "publishers": [
+        45
+    ], 
+    "pulse_count": 10, 
+    "rating": 87.2626146168408, 
+    "rating_count": 68, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1503446400000, 
+            "human": "2017-Aug-23", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1503360000000, 
+            "human": "2017-Aug-22", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1007683200000, 
+            "human": "2001-Dec-07", 
+            "m": 12, 
+            "platform": 8, 
+            "region": 1, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 1007337600000, 
+            "human": "2001-Dec-03", 
+            "m": 12, 
+            "platform": 8, 
+            "region": 2, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 1503360000000, 
+            "human": "2017-Aug-22", 
+            "m": 8, 
+            "platform": 48, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1007337600000, 
+            "human": "2001-Dec-03", 
+            "m": 12, 
+            "platform": 8, 
+            "y": 2001
+        }, 
+        {
+            "category": 0, 
+            "date": 1328572800000, 
+            "human": "2012-Feb-07", 
+            "m": 2, 
+            "platform": 9, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xcf3iaz5v7my0wzxktev", 
+            "height": 448, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xcf3iaz5v7my0wzxktev.jpg", 
+            "width": 640
+        }, 
+        {
+            "cloudinary_id": "szkyhzdlc4pjzzfpnhxs", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/szkyhzdlc4pjzzfpnhxs.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "nlbulhvmjwhs2kx3n1sy", 
+            "height": 399, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nlbulhvmjwhs2kx3n1sy.jpg", 
+            "width": 570
+        }, 
+        {
+            "cloudinary_id": "l4nmf0qnep534wx8lbeu", 
+            "height": 354, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l4nmf0qnep534wx8lbeu.jpg", 
+            "width": 630
+        }, 
+        {
+            "cloudinary_id": "uhe6zks1vfduwnvkghbr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uhe6zks1vfduwnvkghbr.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "jak-and-daxter-the-precursor-legacy", 
+    "storyline": "When his friend Daxter is turned into an animal, it's up to Jak to find the sage who can reverse the transformation.", 
+    "summary": "From the creator and developer of the acclaimed, top-selling Crash Bandicoot series comes the next generation in interactive entertainment. \n \nExpect the unexpected! Enter a new world of magic, adventure, exploration, and discovery where enormous vistas and exotic characters lead you to places beyond your imagination. Test your wits and your skills as you embark on a journey to reverse your best friend's transformation into a furry Ottsel, even as he entangles you in his amusing antics. Discover twisted corruption and battle the sinister minds behind this chilling plot. Light Eco. Precursor Technology. Power Cells. Dark Eco. What does it all mean? \n \nOnly one person holds the secret behind the power of the mysterious Eco. Together you must now take on these endeavors. \n \n \n \nUnleash the hero within. A new legacy is born!", 
+    "tags": [
+        1, 
+        27, 
+        268435464, 
+        268435487, 
+        536870984, 
+        536871208, 
+        536871213, 
+        536871262, 
+        536871306, 
+        536871315, 
+        536871581, 
+        536872010, 
+        536872201, 
+        536872352, 
+        536872371, 
+        536872622, 
+        536872898, 
+        536872961, 
+        536873111, 
+        536873192, 
+        536873208, 
+        536873236, 
+        536873364, 
+        536873455, 
+        536873973, 
+        536874209, 
+        536874398, 
+        536874745, 
+        536874831, 
+        536875050, 
+        536875073, 
+        536875074, 
+        536875081, 
+        536875151, 
+        536875157, 
+        536875194, 
+        536875197, 
+        536875199, 
+        536875209, 
+        536875259, 
+        536875271, 
+        536875298, 
+        536875310, 
+        536875389, 
+        536875396, 
+        536875402, 
+        536875437, 
+        536875488, 
+        536875494, 
+        536875523, 
+        536875534, 
+        536875606, 
+        536875621, 
+        536875670, 
+        536875672, 
+        536875689, 
+        536875809, 
+        536875819, 
+        536875839, 
+        536875917, 
+        536875934, 
+        536876105, 
+        536876205, 
+        536876241, 
+        536876353, 
+        536876365, 
+        536876584, 
+        536876592, 
+        536876713, 
+        536876715, 
+        536876866, 
+        536876972, 
+        536877006, 
+        536877054, 
+        536877058, 
+        536877216, 
+        536877230, 
+        536877424, 
+        536877658, 
+        536877764, 
+        536878149, 
+        536878221, 
+        536878385, 
+        536878505, 
+        536879081, 
+        536879131, 
+        536879148, 
+        536879806, 
+        536879992, 
+        536880185, 
+        536880217, 
+        536880276, 
+        536880311, 
+        536880353, 
+        536880441, 
+        536880566, 
+        536880573, 
+        536880755, 
+        536880805, 
+        536882223, 
+        536882363, 
+        536884030, 
+        536884367, 
+        536884368, 
+        536886193, 
+        536886542, 
+        536886543, 
+        536886544, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        27
+    ], 
+    "total_rating": 88.6313073084204, 
+    "total_rating_count": 69, 
+    "updated_at": 1528853479623, 
+    "url": "https://www.igdb.com/games/jak-and-daxter-the-precursor-legacy", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "35xZDaGI8cY"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "ssDQ7Iv5CCk"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.playstation.com/en-us/games/jak-and-daxter-the-precursor-legacy-ps2/"
+        }
+    ]
+}

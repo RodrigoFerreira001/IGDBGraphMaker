@@ -1,0 +1,96 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 1, 
+    "collection": 1956, 
+    "cover": {
+        "cloudinary_id": "l8oeswc21itvt99qhxll", 
+        "height": 1950, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/l8oeswc21itvt99qhxll.jpg", 
+        "width": 2000
+    }, 
+    "created_at": 1469786839744, 
+    "first_release_date": 1377561600000, 
+    "game": 1122, 
+    "games": [
+        9760, 
+        22639, 
+        22622, 
+        22616, 
+        15917, 
+        10043, 
+        43115, 
+        21642, 
+        55029, 
+        12982
+    ], 
+    "id": 21686, 
+    "name": "Call of Duty: Black Ops II - Apocalypse", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1380153600000, 
+            "human": "2013-Sep-26", 
+            "m": 9, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1380153600000, 
+            "human": "2013-Sep-26", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1377561600000, 
+            "human": "2013-Aug-27", 
+            "m": 8, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "cthpx7cyigomidupqe51", 
+            "height": 428, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cthpx7cyigomidupqe51.jpg", 
+            "width": 760
+        }
+    ], 
+    "slug": "call-of-duty-black-ops-ii-apocalypse", 
+    "summary": "Apocalypse is the fourth and final downloadable content package available for Call of Duty: Black Ops II. It features four multiplayer maps (Pod, Takeoff, Frost, and Dig) and a new zombies map called Origins.", 
+    "tags": [
+        39
+    ], 
+    "themes": [
+        39
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1493745509042, 
+    "url": "https://www.igdb.com/games/call-of-duty-black-ops-ii-apocalypse", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "gId6lQsCvYs"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://callofduty.wikia.com/wiki/Apocalypse"
+        }
+    ]
+}

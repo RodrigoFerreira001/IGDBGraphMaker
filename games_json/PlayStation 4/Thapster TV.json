@@ -1,0 +1,121 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "lsilptbzindrg8zugzum", 
+        "height": 960, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lsilptbzindrg8zugzum.jpg", 
+        "width": 960
+    }, 
+    "created_at": 1517538901306, 
+    "developers": [
+        14770
+    ], 
+    "first_release_date": 1459468800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        86224, 
+        28192, 
+        27209, 
+        47158, 
+        76219, 
+        37067, 
+        54778, 
+        11711, 
+        16513, 
+        41052
+    ], 
+    "genres": [
+        7
+    ], 
+    "id": 85831, 
+    "keywords": [
+        92, 
+        1700, 
+        2181, 
+        2558, 
+        4137, 
+        4747
+    ], 
+    "name": "Thapster TV", 
+    "platforms": [
+        34, 
+        39
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        14770
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1459468800000, 
+            "human": "2016-Apr-01", 
+            "m": 4, 
+            "platform": 34, 
+            "region": 7, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1459468800000, 
+            "human": "2016-Apr-01", 
+            "m": 4, 
+            "platform": 39, 
+            "region": 7, 
+            "y": 2016
+        }
+    ], 
+    "slug": "thapster-tv", 
+    "status": 5, 
+    "summary": "An updated version of a rhythm game originally released in Thailand on iOS in 2013 and Android in 2014. \nThe game is currently not available on app stores. \n \nThe game uses touch controls to hit keys coming towards the screen across 3 tracks on basic up to 5 tracks on expert. \nThere are now music videos playing in the background and it also has a 360 video mode.", 
+    "tags": [
+        32, 
+        268435463, 
+        536871004, 
+        536872612, 
+        536873093, 
+        536873470, 
+        536875049, 
+        536875659, 
+        1073741825
+    ], 
+    "themes": [
+        32
+    ], 
+    "time_to_beat": {
+        "completely": 70440
+    }, 
+    "updated_at": 1523231794030, 
+    "url": "https://www.igdb.com/games/thapster-tv", 
+    "version_parent": 86224, 
+    "version_title": "TV", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "Qq3EGdao3Gw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 9, 
+            "url": "https://www.youtube.com/user/sinozegames"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/thapster"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/thapstergame"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/Thapster"
+        }
+    ]
+}

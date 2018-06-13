@@ -1,0 +1,108 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mtahk2h49cwpxqfkg0h6", 
+        "height": 500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mtahk2h49cwpxqfkg0h6.jpg", 
+        "width": 500
+    }, 
+    "created_at": 1495704072306, 
+    "external": {
+        "steam": "495770"
+    }, 
+    "first_release_date": 1469491200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        40524, 
+        34919, 
+        76438, 
+        16468, 
+        68324, 
+        37022, 
+        25640, 
+        55289, 
+        75158, 
+        32902
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 32263, 
+    "name": "Free Balling", 
+    "platforms": [
+        6, 
+        41
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1472688000000, 
+            "human": "2016-Sep-01", 
+            "m": 9, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1469491200000, 
+            "human": "2016-Jul-26", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "uorva60t3zqmbzqnxqst", 
+            "height": 906, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uorva60t3zqmbzqnxqst.jpg", 
+            "width": 1616
+        }, 
+        {
+            "cloudinary_id": "gbihmoikhplvgg5lmtix", 
+            "height": 907, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gbihmoikhplvgg5lmtix.jpg", 
+            "width": 1615
+        }, 
+        {
+            "cloudinary_id": "f7ei7sokbolcestjlj4w", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/f7ei7sokbolcestjlj4w.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jo3khi8w8jrujwyt2bvh", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jo3khi8w8jrujwyt2bvh.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "inizshyczbnyuxoj58pf", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/inizshyczbnyuxoj58pf.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "free-balling", 
+    "summary": "Why not testy it out?", 
+    "tags": [
+        1, 
+        268435488
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1523387078586, 
+    "url": "https://www.igdb.com/games/free-balling", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/495770"
+        }
+    ]
+}

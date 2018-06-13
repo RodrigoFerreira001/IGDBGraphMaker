@@ -1,0 +1,110 @@
+{
+    "alternative_names": [
+        {
+            "comment": "Japanese title", 
+            "name": "Tetorisu"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30c6\u30c8\u30ea\u30b9 "
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "dpzhu7jxu8lslipmzxq5", 
+        "height": 1368, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dpzhu7jxu8lslipmzxq5.jpg", 
+        "width": 1528
+    }, 
+    "created_at": 1518098629058, 
+    "first_release_date": 611107200000, 
+    "id": 86490, 
+    "name": "Tetris", 
+    "platforms": [
+        33
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        70
+    ], 
+    "rating": 88.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 654480000000, 
+            "human": "1990-Sep-28", 
+            "m": 9, 
+            "platform": 33, 
+            "region": 1, 
+            "y": 1990
+        }, 
+        {
+            "category": 0, 
+            "date": 611107200000, 
+            "human": "1989-May-14", 
+            "m": 5, 
+            "platform": 33, 
+            "region": 5, 
+            "y": 1989
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "kueuqbvaeydfqrgzmmtv", 
+            "height": 288, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kueuqbvaeydfqrgzmmtv.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "fbm5zaxofbzr9bzhvcah", 
+            "height": 288, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fbm5zaxofbzr9bzhvcah.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "me6yxrsf3fxad95i9dcy", 
+            "height": 288, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/me6yxrsf3fxad95i9dcy.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "adplsojdputhywlgyg4w", 
+            "height": 288, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/adplsojdputhywlgyg4w.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "wrxadiproer9bgw78sli", 
+            "height": 288, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wrxadiproer9bgw78sli.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "ckbigzt7lphd0nv2csf5", 
+            "height": 288, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ckbigzt7lphd0nv2csf5.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "ywqoytj7kirubkoduega", 
+            "height": 288, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ywqoytj7kirubkoduega.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "ptcjbllcsh5i4x42kcoh", 
+            "height": 288, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ptcjbllcsh5i4x42kcoh.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "tetris--1", 
+    "summary": "Tetris is a puzzle video game for the Game Boy released in 1989. It is a portable version of Alexey Pajitnov's original Tetris and it was bundled in the North American and European releases of the Game Boy itself. It was the first game compatible with the Game Link Cable, a pack-in accessory that allowed two Game Boys to link together for multiplayer purposes.", 
+    "total_rating": 88.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1518687011055, 
+    "url": "https://www.igdb.com/games/tetris--1", 
+    "version_parent": 8197, 
+    "version_title": "Game Boy port"
+}

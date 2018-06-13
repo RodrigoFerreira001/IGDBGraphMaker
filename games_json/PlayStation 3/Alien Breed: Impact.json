@@ -1,0 +1,234 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 1330, 
+    "cover": {
+        "cloudinary_id": "l1hhyakcw8qznsj1k2mc", 
+        "height": 800, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/l1hhyakcw8qznsj1k2mc.jpg", 
+        "width": 582
+    }, 
+    "created_at": 1430253622409, 
+    "developers": [
+        614
+    ], 
+    "esrb": {
+        "rating": 6
+    }, 
+    "external": {
+        "steam": "22610"
+    }, 
+    "first_release_date": 1260921600000, 
+    "game_engines": [
+        6
+    ], 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        68287, 
+        36950, 
+        27314, 
+        7329, 
+        11156, 
+        7291, 
+        25300, 
+        28029, 
+        64204, 
+        29525
+    ], 
+    "genres": [
+        5, 
+        33
+    ], 
+    "id": 9964, 
+    "keywords": [
+        3, 
+        339, 
+        395, 
+        970, 
+        1025, 
+        1120, 
+        3270, 
+        4004, 
+        4135, 
+        4397, 
+        4399, 
+        4444, 
+        4525, 
+        4571, 
+        4660, 
+        4698, 
+        4712, 
+        4975, 
+        5150, 
+        5974, 
+        9278
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Alien Breed: Impact", 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        36, 
+        9
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        614
+    ], 
+    "rating": 60.0, 
+    "rating_count": 2, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1283299200000, 
+            "human": "2010-Sep-01", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1283212800000, 
+            "human": "2010-Aug-31", 
+            "m": 8, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1275523200000, 
+            "human": "2010-Jun-03", 
+            "m": 6, 
+            "platform": 92, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1260921600000, 
+            "human": "2009-Dec-16", 
+            "m": 12, 
+            "platform": 36, 
+            "region": 8, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1275523200000, 
+            "human": "2010-Jun-03", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2010
+        }, 
+        {
+            "category": 0, 
+            "date": 1283299200000, 
+            "human": "2010-Sep-01", 
+            "m": 9, 
+            "platform": 45, 
+            "region": 8, 
+            "y": 2010
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rzqxhh4p5epl5hms6htd", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rzqxhh4p5epl5hms6htd.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "fhe8nd1citjjatpr1upf", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fhe8nd1citjjatpr1upf.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "tnvlqm92se4brcl87lxn", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tnvlqm92se4brcl87lxn.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "jrpbzjedbbns58iw0cl2", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jrpbzjedbbns58iw0cl2.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rptpdy4wqif8epo7svax", 
+            "height": 180, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rptpdy4wqif8epo7svax.jpg", 
+            "width": 300
+        }
+    ], 
+    "slug": "alien-breed-impact", 
+    "summary": "Alien Breed Impact is an explosive science fiction arcade-shooter that resurrects a much revered franchise with an epic story, swarms of highly intelligent alien enemies, high-impact weapons, highly detailed and rich environments; all implemented with superb technology in a state-of-the-art gaming experience. In addition to the thrilling single-player campaign mode, the game also offers a relentless, action-packed, online two-player co-operative battle mode.", 
+    "tags": [
+        1, 
+        18, 
+        268435461, 
+        268435489, 
+        536870915, 
+        536871251, 
+        536871307, 
+        536871882, 
+        536871937, 
+        536872032, 
+        536874182, 
+        536874916, 
+        536875047, 
+        536875309, 
+        536875311, 
+        536875356, 
+        536875437, 
+        536875483, 
+        536875572, 
+        536875610, 
+        536875624, 
+        536875887, 
+        536876062, 
+        536876886, 
+        536880190, 
+        1073741827
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1523281677754, 
+    "url": "https://www.igdb.com/games/alien-breed-impact", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "DmJL8uztqWo"
+        }
+    ]
+}

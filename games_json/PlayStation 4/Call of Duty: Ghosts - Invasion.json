@@ -1,0 +1,91 @@
+{
+    "aggregated_rating": 65.0, 
+    "aggregated_rating_count": 2, 
+    "category": 1, 
+    "cover": {
+        "cloudinary_id": "zq5lcxydiq1m3oxq5c5j", 
+        "height": 719, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zq5lcxydiq1m3oxq5c5j.jpg", 
+        "width": 1260
+    }, 
+    "created_at": 1469049489188, 
+    "first_release_date": 1401753600000, 
+    "game": 2033, 
+    "id": 20870, 
+    "name": "Call of Duty: Ghosts - Invasion", 
+    "platforms": [
+        6, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1404259200000, 
+            "human": "2014-Jul-02", 
+            "m": 7, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1404259200000, 
+            "human": "2014-Jul-02", 
+            "m": 7, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1404259200000, 
+            "human": "2014-Jul-02", 
+            "m": 7, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1401753600000, 
+            "human": "2014-Jun-03", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1401753600000, 
+            "human": "2014-Jun-03", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "azbkiart7hddzwq9imhn", 
+            "height": 300, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/azbkiart7hddzwq9imhn.jpg", 
+            "width": 966
+        }
+    ], 
+    "slug": "call-of-duty-ghosts-invasion", 
+    "summary": "Invasion is a downloadable pack for Call of Duty: Ghosts. It is the third DLC to come out. The DLC was released on June 3rd, 2014 on Xbox Live, and July 3rd for PlayStation Network and PC (Steam).  \n  \nThe DLC has a green color scheme for its label. It does not include any new weapon, unlike the two previous DLCs.", 
+    "total_rating": 65.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1493744866558, 
+    "url": "https://www.igdb.com/games/call-of-duty-ghosts-invasion", 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://callofduty.wikia.com/wiki/Invasion_(DLC)"
+        }
+    ]
+}

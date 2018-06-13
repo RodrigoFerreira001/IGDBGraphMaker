@@ -1,0 +1,465 @@
+{
+    "aggregated_rating": 90.8, 
+    "aggregated_rating_count": 16, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "MK8 Deluxe"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Mario Kart 8 Deluxe"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "MK8"
+        }, 
+        {
+            "name": "\u30de\u30ea\u30aa\u30ab\u30fc\u30c88"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "y4dux3aif3leieayyc1l", 
+            "height": 1060, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y4dux3aif3leieayyc1l.jpg", 
+            "width": 1340
+        }, 
+        {
+            "cloudinary_id": "fd9fak2dziwkrewahczb", 
+            "height": 1100, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fd9fak2dziwkrewahczb.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "yantlrf8qtccgbzvgflv", 
+            "height": 860, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yantlrf8qtccgbzvgflv.jpg", 
+            "width": 1500
+        }, 
+        {
+            "cloudinary_id": "bbuf7wlj603cemvavdkr", 
+            "height": 850, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bbuf7wlj603cemvavdkr.jpg", 
+            "width": 1360
+        }, 
+        {
+            "cloudinary_id": "vsuqc1zji1x22zmcakfw", 
+            "height": 920, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vsuqc1zji1x22zmcakfw.jpg", 
+            "width": 1340
+        }, 
+        {
+            "cloudinary_id": "v2vzqltzwzdi1vmlidyi", 
+            "height": 1200, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/v2vzqltzwzdi1vmlidyi.jpg", 
+            "width": 1100
+        }, 
+        {
+            "cloudinary_id": "zof7wf1kvmbwfgqthflw", 
+            "height": 1260, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zof7wf1kvmbwfgqthflw.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "rbuvcklhgbcxebkreuqr", 
+            "height": 920, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rbuvcklhgbcxebkreuqr.jpg", 
+            "width": 1720
+        }
+    ], 
+    "category": 0, 
+    "collection": 449, 
+    "cover": {
+        "cloudinary_id": "j5bhfy3jxxt5yzoq3fsl", 
+        "height": 1571, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/j5bhfy3jxxt5yzoq3fsl.jpg", 
+        "width": 1275
+    }, 
+    "created_at": 1372712056850, 
+    "developers": [
+        1103
+    ], 
+    "dlcs": [
+        22146, 
+        22141, 
+        23226
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": "This is a kart-racing game in which players compete with characters from the Mario universe. As players race against other drivers, they can use \u201ccartoony\u201d power-ups (e.g., bombs, turtle shells, fire balls) to impede opponents' progress. Some attacks result in vehicles spinning out, flipping into the air; comical yelps and colorful explosions accompany the action."
+    }, 
+    "first_release_date": 1401321600000, 
+    "franchise": 24, 
+    "franchises": [
+        24
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        26758, 
+        2180, 
+        1077, 
+        26766, 
+        1074, 
+        2135, 
+        2345, 
+        1078, 
+        2342, 
+        11198
+    ], 
+    "genres": [
+        10, 
+        14
+    ], 
+    "hypes": 10, 
+    "id": 2350, 
+    "keywords": [
+        296, 
+        839, 
+        970, 
+        1026, 
+        1075, 
+        1333, 
+        1682, 
+        2071, 
+        2229, 
+        2362, 
+        3224, 
+        3336, 
+        4157, 
+        4188, 
+        4218, 
+        4282, 
+        4303, 
+        4438, 
+        4466, 
+        4479, 
+        4480, 
+        4657, 
+        4706, 
+        4707, 
+        4803, 
+        4842, 
+        4869, 
+        4907, 
+        4911, 
+        4913, 
+        4931, 
+        4932, 
+        4933, 
+        4940, 
+        4984, 
+        5012, 
+        5306, 
+        5417, 
+        5523, 
+        5553, 
+        5584, 
+        5629, 
+        5632, 
+        5669, 
+        5727, 
+        6013, 
+        6015, 
+        6036, 
+        6129, 
+        6138, 
+        6139, 
+        6140, 
+        6143, 
+        6145, 
+        6148, 
+        6153, 
+        6154, 
+        6156, 
+        6157, 
+        6170, 
+        6172, 
+        6174, 
+        6176, 
+        6178, 
+        6182, 
+        6185, 
+        6186, 
+        6187, 
+        6188, 
+        6189, 
+        6190, 
+        6191, 
+        6192, 
+        6193, 
+        6194, 
+        6195, 
+        6196, 
+        6197, 
+        6198, 
+        6199, 
+        6200, 
+        6201, 
+        6202, 
+        6203, 
+        6204, 
+        6205, 
+        6206, 
+        6207, 
+        6208, 
+        6209
+    ], 
+    "name": "Mario Kart 8", 
+    "pegi": {
+        "rating": 1
+    }, 
+    "platforms": [
+        41
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 8.0, 
+    "publishers": [
+        70
+    ], 
+    "pulse_count": 18, 
+    "rating": 87.6123981506634, 
+    "rating_count": 130, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1401321600000, 
+            "human": "2014-May-29", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1401408000000, 
+            "human": "2014-May-30", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1401408000000, 
+            "human": "2014-May-30", 
+            "m": 5, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "jlkpxmci8hbqryhgmi6x", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jlkpxmci8hbqryhgmi6x.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qlem9x2tr7w1mzwuhyep", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qlem9x2tr7w1mzwuhyep.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "qzawmco7mruk0on5af5x", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qzawmco7mruk0on5af5x.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "irzuqkqh8bgqdunsxllh", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/irzuqkqh8bgqdunsxllh.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "xwbhiqws2ftn7xlx8eev", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xwbhiqws2ftn7xlx8eev.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "fnpb3gx5bhqzpcnbtxvj", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fnpb3gx5bhqzpcnbtxvj.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "y0hajkldsrtomkcenntv", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/y0hajkldsrtomkcenntv.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "uojeviq0vlvdcpkld2zr", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uojeviq0vlvdcpkld2zr.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ezrvpswnbfad3sy1s2fa", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ezrvpswnbfad3sy1s2fa.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "elxrjv2witfreajyehn7", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/elxrjv2witfreajyehn7.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lcldixm35mhyvhkqpxdn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lcldixm35mhyvhkqpxdn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zbxjppkunzzuvrikzmdj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zbxjppkunzzuvrikzmdj.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "mario-kart-8", 
+    "summary": "Turn your racing experience upside down! Nintendo\u2019s Mario Kart franchise comes to the Wii U console in full HD, introducing new racing circuit designs and anti-gravity karts that will have players driving upside down. And for the first time, all of Bowser\u2019s seven Koopalings are playable characters-- get a taste of being bad on the race track by playing as Iggy, Larry, Lemmy, Ludwig, Morton, Roy and Wendy. Players will also enjoy a variety of series-favorite features, including the return of 12-player online competitive play, hang-gliders, underwater racing and motorbikes.", 
+    "tags": [
+        1, 
+        18, 
+        35, 
+        268435466, 
+        268435470, 
+        536871208, 
+        536871751, 
+        536871882, 
+        536871938, 
+        536871987, 
+        536872245, 
+        536872594, 
+        536872983, 
+        536873141, 
+        536873274, 
+        536874136, 
+        536874248, 
+        536875069, 
+        536875100, 
+        536875130, 
+        536875194, 
+        536875215, 
+        536875350, 
+        536875378, 
+        536875391, 
+        536875392, 
+        536875569, 
+        536875618, 
+        536875619, 
+        536875715, 
+        536875754, 
+        536875781, 
+        536875819, 
+        536875823, 
+        536875825, 
+        536875843, 
+        536875844, 
+        536875845, 
+        536875852, 
+        536875896, 
+        536875924, 
+        536876218, 
+        536876329, 
+        536876435, 
+        536876465, 
+        536876496, 
+        536876541, 
+        536876544, 
+        536876581, 
+        536876639, 
+        536876925, 
+        536876927, 
+        536876948, 
+        536877041, 
+        536877050, 
+        536877051, 
+        536877052, 
+        536877055, 
+        536877057, 
+        536877060, 
+        536877065, 
+        536877066, 
+        536877068, 
+        536877069, 
+        536877082, 
+        536877084, 
+        536877086, 
+        536877088, 
+        536877090, 
+        536877094, 
+        536877097, 
+        536877098, 
+        536877099, 
+        536877100, 
+        536877101, 
+        536877102, 
+        536877103, 
+        536877104, 
+        536877105, 
+        536877106, 
+        536877107, 
+        536877108, 
+        536877109, 
+        536877110, 
+        536877111, 
+        536877112, 
+        536877113, 
+        536877114, 
+        536877115, 
+        536877116, 
+        536877117, 
+        536877118, 
+        536877119, 
+        536877120, 
+        536877121, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18, 
+        35
+    ], 
+    "total_rating": 89.2061990753317, 
+    "total_rating_count": 146, 
+    "updated_at": 1528222647655, 
+    "url": "https://www.igdb.com/games/mario-kart-8", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "NA6CAgv6p6g"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/NintendoMarioKart8"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://mariokart.wikia.com/wiki/Mario_Kart_8"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Mario_Kart_8"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://e3.nintendo.com/games/detail/mario-kart-8/"
+        }
+    ]
+}

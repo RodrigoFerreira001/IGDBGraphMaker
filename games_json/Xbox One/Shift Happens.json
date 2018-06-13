@@ -1,0 +1,244 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "itmvzmzwsaeryahy7oov", 
+        "height": 960, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/itmvzmzwsaeryahy7oov.jpg", 
+        "width": 960
+    }, 
+    "created_at": 1435138999987, 
+    "developers": [
+        5963
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "359840"
+    }, 
+    "first_release_date": 1487721600000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        10039, 
+        55752, 
+        34919, 
+        51485, 
+        16468, 
+        26848, 
+        19174, 
+        22690, 
+        55289, 
+        25646
+    ], 
+    "genres": [
+        8, 
+        32
+    ], 
+    "hypes": 1, 
+    "id": 11250, 
+    "keywords": [
+        904, 
+        966, 
+        988, 
+        1634, 
+        1635, 
+        1636, 
+        2049
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 2, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 2, 
+            "onlinemax": 0, 
+            "platform": 6, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Shift Happens", 
+    "pegi": {
+        "rating": 1, 
+        "synopsis": "The content of this game is suitable for all persons."
+    }, 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 3.0, 
+    "publishers": [
+        4416, 
+        5963
+    ], 
+    "pulse_count": 1, 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1487721600000, 
+            "human": "2017-Feb-22", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1489017600000, 
+            "human": "2017-Mar-09", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1487721600000, 
+            "human": "2017-Feb-22", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1487721600000, 
+            "human": "2017-Feb-22", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "j6vz4xyawier3a8sguk6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j6vz4xyawier3a8sguk6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gsgoikeswlr2beuskms6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gsgoikeswlr2beuskms6.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xfgc8msfumgvw4ao5khl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xfgc8msfumgvw4ao5khl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dgfbwgpi6it6gvfydago", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dgfbwgpi6it6gvfydago.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qatba4n3q6jyurrd62yx", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qatba4n3q6jyurrd62yx.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nkliveztoqykbxmy1w0o", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nkliveztoqykbxmy1w0o.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "t5ubx0q07l05npbthuuv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/t5ubx0q07l05npbthuuv.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "shift-happens", 
+    "summary": "Shift Happens is a co-op platformer for two people. You control Bismo and Plom, who are connected by accident. They share a common mass and can shift it at any time. At the push of a button you change size and strength, affecting yourself and your partner. \nThe mechanic links you and forces you to cooperate and communicate.", 
+    "tags": [
+        1, 
+        268435464, 
+        268435488, 
+        536871816, 
+        536871878, 
+        536871900, 
+        536872546, 
+        536872547, 
+        536872548, 
+        536872961, 
+        1073741828
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1528357725222, 
+    "url": "https://www.igdb.com/games/shift-happens", 
+    "videos": [
+        {
+            "name": "Teaser", 
+            "video_id": "eqt38NvQvhQ"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "wdjOSxpsiQo"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.shifthappensgame.com"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/bismoandplom"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/359840"
+        }, 
+        {
+            "category": 6, 
+            "url": "https://twitch.tv/klonkgames"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/shifthappensgame"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "aggregated_rating": 60.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "lf8owxfibavwppd8qq2z", 
+        "height": 263, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lf8owxfibavwppd8qq2z.jpg", 
+        "width": 219
+    }, 
+    "created_at": 1469795672854, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1228953600000, 
+    "games": [
+        23198, 
+        7349, 
+        11423, 
+        28113, 
+        18822, 
+        54524, 
+        11560, 
+        36911, 
+        11529, 
+        6732
+    ], 
+    "id": 21705, 
+    "keywords": [
+        577, 
+        589, 
+        1293, 
+        1495, 
+        1623, 
+        2543, 
+        3486, 
+        3833, 
+        4134, 
+        4143, 
+        4144, 
+        4283, 
+        4801, 
+        4890, 
+        4958, 
+        4963, 
+        6295, 
+        7568, 
+        13076
+    ], 
+    "name": "PowerUp Forever", 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1237420800000, 
+            "human": "2009-Mar-19", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2009
+        }, 
+        {
+            "category": 0, 
+            "date": 1228953600000, 
+            "human": "2008-Dec-11", 
+            "m": 12, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2008
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "mfbvrdj5hoh8boyb4yah", 
+            "height": 270, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mfbvrdj5hoh8boyb4yah.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "powerup-forever", 
+    "summary": "An endless dual stick shooter in which you power-up forever!", 
+    "tags": [
+        536871489, 
+        536871501, 
+        536872205, 
+        536872407, 
+        536872535, 
+        536873455, 
+        536874398, 
+        536874745, 
+        536875046, 
+        536875055, 
+        536875056, 
+        536875195, 
+        536875713, 
+        536875802, 
+        536875870, 
+        536875875, 
+        536877207, 
+        536878480, 
+        536883988
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1516081642869, 
+    "url": "https://www.igdb.com/games/powerup-forever"
+}

@@ -1,0 +1,162 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "lixfvhgdfwzpkmcezf2r", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lixfvhgdfwzpkmcezf2r.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1495788502470, 
+    "external": {
+        "steam": "422110"
+    }, 
+    "first_release_date": 1460505600000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        10039, 
+        32902, 
+        68287, 
+        34919, 
+        16468, 
+        40524, 
+        54639, 
+        28029, 
+        36718, 
+        68324
+    ], 
+    "genres": [
+        5, 
+        14, 
+        32
+    ], 
+    "id": 33992, 
+    "keywords": [
+        1025
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Wand Wars", 
+    "platforms": [
+        6, 
+        14, 
+        49, 
+        3
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 90.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1480982400000, 
+            "human": "2016-Dec-06", 
+            "m": 12, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1460505600000, 
+            "human": "2016-Apr-13", 
+            "m": 4, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1460505600000, 
+            "human": "2016-Apr-13", 
+            "m": 4, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1460505600000, 
+            "human": "2016-Apr-13", 
+            "m": 4, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "js3ep6jymge2paf2rkyf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/js3ep6jymge2paf2rkyf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pbvlk9dcxwm4zug2x4jb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pbvlk9dcxwm4zug2x4jb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "euxybuo1zzv69aulnvqp", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/euxybuo1zzv69aulnvqp.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ybitnayfil7qftaj3fz5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ybitnayfil7qftaj3fz5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "tztaokgxyqca5l8ueyar", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tztaokgxyqca5l8ueyar.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "wand-wars", 
+    "summary": "Ride brooms, cast spells and transform your enemies into chickens in this intense magical sport", 
+    "tags": [
+        1, 
+        268435461, 
+        268435470, 
+        268435488, 
+        536871937
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 90.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1526735187468, 
+    "url": "https://www.igdb.com/games/wand-wars", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://wandwars.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/422110"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 0, 
+    "category": 0, 
+    "collection": 83, 
+    "cover": {
+        "cloudinary_id": "m174tau1ubwnqvyfhnm8", 
+        "height": 1500, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/m174tau1ubwnqvyfhnm8.jpg", 
+        "width": 1059
+    }, 
+    "created_at": 1474569571801, 
+    "first_release_date": 1393545600000, 
+    "franchise": 29, 
+    "franchises": [
+        29
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        12579, 
+        68142, 
+        59516, 
+        24369, 
+        6036, 
+        25646, 
+        26192, 
+        68287, 
+        57692, 
+        28148
+    ], 
+    "genres": [
+        5, 
+        31
+    ], 
+    "id": 24223, 
+    "name": "Resident Evil 4: Ultimate HD Edition", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.666666666666667, 
+    "rating": 90.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1472515200000, 
+            "human": "2016-Aug-30", 
+            "m": 8, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1393545600000, 
+            "human": "2014-Feb-28", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ex6on7gqps6dlds25que", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ex6on7gqps6dlds25que.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "awemzyvd6ugq4czigqpz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/awemzyvd6ugq4czigqpz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "k4uryevwzni6and1qvdf", 
+            "height": 708, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/k4uryevwzni6and1qvdf.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "styydfc3ardqmg4mlln0", 
+            "height": 712, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/styydfc3ardqmg4mlln0.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ehdimmmufepfgfygvnh4", 
+            "height": 712, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ehdimmmufepfgfygvnh4.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "resident-evil-4-ultimate-hd-edition", 
+    "summary": "Resident Evil 4: Ultimate HD Edition is the second port of Resident Evil 4 to Windows, this time based on the Xbox 360 and PlayStation 3 versions with updated graphics. In contrast to the original port, this version features lighting effects, real-time instead of rendered cutscenes (except in the Separate Ways campaign), mouse support and Steamworks integration.", 
+    "tags": [
+        1, 
+        19, 
+        21, 
+        268435461, 
+        268435487, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        19, 
+        21
+    ], 
+    "total_rating": 85.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1522070776101, 
+    "url": "https://www.igdb.com/games/resident-evil-4-ultimate-hd-edition", 
+    "version_parent": 974, 
+    "version_title": "Ultimate HD Edition", 
+    "videos": [
+        {
+            "name": "Announcement Trailer", 
+            "video_id": "SWJVPoNyAIg"
+        }
+    ]
+}

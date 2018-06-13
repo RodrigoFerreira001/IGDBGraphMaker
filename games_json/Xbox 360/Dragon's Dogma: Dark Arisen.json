@@ -1,0 +1,382 @@
+{
+    "aggregated_rating": 78.5882352941177, 
+    "aggregated_rating_count": 21, 
+    "artworks": [
+        {
+            "cloudinary_id": "x7fsekx7evfibw7bgmpq", 
+            "height": 620, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/x7fsekx7evfibw7bgmpq.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "febq28kvb3ixijmm5ynz", 
+            "height": 1260, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/febq28kvb3ixijmm5ynz.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "mci8umpw3funk2p0too3", 
+            "height": 600, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mci8umpw3funk2p0too3.jpg", 
+            "width": 1550
+        }, 
+        {
+            "cloudinary_id": "hvyaaszkcc6zisdwbezm", 
+            "height": 855, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hvyaaszkcc6zisdwbezm.jpg", 
+            "width": 1250
+        }
+    ], 
+    "category": 0, 
+    "collection": 2007, 
+    "cover": {
+        "cloudinary_id": "hugudkvtebyy1lzbzjit", 
+        "height": 1976, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hugudkvtebyy1lzbzjit.jpg", 
+        "width": 1530
+    }, 
+    "created_at": 1452873678998, 
+    "developers": [
+        37
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "This is an action-adventure game in which players assume the role of Glynn, a militiaman on a quest to kill an evil dragon. As players traverse through fantastical \u201copen-world\u201d environments, they complete missions and quests that impact the storyline and eventual fate of their character. Players use swords, bows and arrows, and magic attacks (e.g., fireballs, ice blasts) to kill various enemies (e.g., zombies, goblins, human soldiers) in melee-style combat. The frequent combat is accompanied by slashing sounds, cries of pain, and large splashes of blood; attacks sometimes result in dismembered limbs and/or scattered body parts. Some sequences allow players to injure/kill non-adversaries, including unarmed villagers; such acts are penalized by lower \u201ccharisma\u201d levels for players' character. Other acts of violence appear in cutscenes: a man strangling a woman in her bedchamber; a character impaling himself. The dialogue sometimes includes innuendo and suggestive material (e.g., \u201cI would never violate His Grace's privacy while he violates milady's privates\u201d and \u201c. . . perhaps you seek . . . a turn in the sheets with His Grace's own wife!\u201d). During the course of the game, players may also encounter female harpies whose breasts are fully exposed at certain camera angles."
+    }, 
+    "external": {
+        "steam": "367500"
+    }, 
+    "first_release_date": 1366675200000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        11567, 
+        37088, 
+        36926, 
+        25300, 
+        47823, 
+        17583, 
+        12632, 
+        36534, 
+        26766, 
+        26163
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "id": 16300, 
+    "keywords": [
+        151, 
+        182, 
+        296, 
+        332, 
+        623, 
+        1026, 
+        1735, 
+        2472, 
+        2519, 
+        4726, 
+        4877, 
+        4942, 
+        4956, 
+        5391, 
+        5897, 
+        6318, 
+        7081, 
+        7303, 
+        9035, 
+        9635, 
+        9636, 
+        9637
+    ], 
+    "name": "Dragon's Dogma: Dark Arisen", 
+    "pegi": {
+        "rating": 5, 
+        "synopsis": "The content of this game is suitable for persons aged 18 years and over only.\r\nIt contains: Extreme violence"
+    }, 
+    "platforms": [
+        6, 
+        9, 
+        48, 
+        12, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 3.666666666666667, 
+    "publishers": [
+        37
+    ], 
+    "pulse_count": 51, 
+    "rating": 79.8786473172139, 
+    "rating_count": 24, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1507161600000, 
+            "human": "2017-Oct-05", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1507161600000, 
+            "human": "2017-Oct-05", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 5, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506988800000, 
+            "human": "2017-Oct-03", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506988800000, 
+            "human": "2017-Oct-03", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506988800000, 
+            "human": "2017-Oct-03", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1506988800000, 
+            "human": "2017-Oct-03", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1366934400000, 
+            "human": "2013-Apr-26", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1366675200000, 
+            "human": "2013-Apr-23", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1452816000000, 
+            "human": "2016-Jan-15", 
+            "m": 1, 
+            "platform": 6, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1366675200000, 
+            "human": "2013-Apr-23", 
+            "m": 4, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1366848000000, 
+            "human": "2013-Apr-25", 
+            "m": 4, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1366848000000, 
+            "human": "2013-Apr-25", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2013
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pv2z0xcfgpmqdj0picdk", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pv2z0xcfgpmqdj0picdk.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "xfmnv0vecamxop6vfvyj", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xfmnv0vecamxop6vfvyj.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "mxhmxfx1zisftjduqavp", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mxhmxfx1zisftjduqavp.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "vsciifpevxoxeldkayus", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vsciifpevxoxeldkayus.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "p4uomgqefykw04b99ypn", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p4uomgqefykw04b99ypn.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "tngvcckycbtqgjmt16kh", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tngvcckycbtqgjmt16kh.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "b4dcgdmjj6mwszr4drp5", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/b4dcgdmjj6mwszr4drp5.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "yktyf745jk2o1zfnqids", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yktyf745jk2o1zfnqids.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "lfsy2zduqs40zaspjtla", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lfsy2zduqs40zaspjtla.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "ytmshou7f4qsccdmgjnw", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ytmshou7f4qsccdmgjnw.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "osa9bjiokewzxyahpzva", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/osa9bjiokewzxyahpzva.jpg", 
+            "width": 3840
+        }, 
+        {
+            "cloudinary_id": "drlkq0yb6yuov5xosh7j", 
+            "height": 2160, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/drlkq0yb6yuov5xosh7j.jpg", 
+            "width": 3840
+        }
+    ], 
+    "slug": "dragons-dogma-dark-arisen", 
+    "summary": "Dragon\u2019s Dogma: Dark Arisen contains all the content from the original Dragon\u2019s Dogma plus the additional content from its sequel, including the Bitterblack Isle area, filled with challenging new enemies and quests, and additional high level weapons and armour sets. Along with its stunningly high resolution graphics and full Steam platform support, this is the ultimate franchise experience for PC players. \n \nSet in a huge open world, Dragon\u2019s Dogma: Dark Arisen presents a rewarding action combat experience. Players embark on an epic adventure in a rich, living world with three AI companions, known as Pawns. These partners fight independently, demonstrating prowess and ability that they have developed based on traits learnt from each player. PC users can share these Pawns online and reap rewards of treasure, tips and strategy hints for taking down the terrifying enemies. Pawns can also be borrowed when specific skills are needed to complete various challenging quests.", 
+    "tags": [
+        1, 
+        17, 
+        22, 
+        38, 
+        268435468, 
+        268435487, 
+        536871063, 
+        536871094, 
+        536871208, 
+        536871244, 
+        536871535, 
+        536871938, 
+        536872647, 
+        536873384, 
+        536873431, 
+        536875638, 
+        536875789, 
+        536875854, 
+        536875868, 
+        536876303, 
+        536876809, 
+        536877230, 
+        536877993, 
+        536878215, 
+        536879947, 
+        536880547, 
+        536880548, 
+        536880549, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17, 
+        22, 
+        38
+    ], 
+    "total_rating": 79.23344130566579, 
+    "total_rating_count": 45, 
+    "updated_at": 1525724665270, 
+    "url": "https://www.igdb.com/games/dragons-dogma-dark-arisen", 
+    "videos": [
+        {
+            "name": "Console Teaser Trailer", 
+            "video_id": "TVteV0oj6ms"
+        }, 
+        {
+            "name": "Launch Trailer", 
+            "video_id": "ieQi362fhTw"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "5kNoJrizAqM"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "uNbVy4HgJ-0"
+        }, 
+        {
+            "name": "Gameplay video", 
+            "video_id": "STn8OwD79NQ"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/367500"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Dragon%27s_Dogma"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://dragonsdogma.wikia.com/wiki/Dragon%27s_Dogma:_Dark_Arisen"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.dragonsdogma.com/"
+        }
+    ]
+}

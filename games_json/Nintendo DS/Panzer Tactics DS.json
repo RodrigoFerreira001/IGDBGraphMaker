@@ -1,0 +1,61 @@
+{
+    "aggregated_rating": 64.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "w8b3t2n8wodyc6pawtyf", 
+        "height": 1370, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/w8b3t2n8wodyc6pawtyf.jpg", 
+        "width": 1529
+    }, 
+    "created_at": 1469313770993, 
+    "first_release_date": 1196899200000, 
+    "games": [
+        11362, 
+        73075, 
+        9760, 
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        2015, 
+        32283, 
+        33383
+    ], 
+    "genres": [
+        15
+    ], 
+    "id": 21516, 
+    "name": "Panzer Tactics DS", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1196899200000, 
+            "human": "2007-Dec-06", 
+            "m": 12, 
+            "platform": 20, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xjyiaikjmkwxhjwpjemq", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xjyiaikjmkwxhjwpjemq.jpg", 
+            "width": 257
+        }
+    ], 
+    "slug": "panzer-tactics-ds", 
+    "tags": [
+        268435471
+    ], 
+    "total_rating": 64.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1500320333077, 
+    "url": "https://www.igdb.com/games/panzer-tactics-ds"
+}

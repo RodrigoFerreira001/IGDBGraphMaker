@@ -1,0 +1,125 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 4133, 
+    "cover": {
+        "cloudinary_id": "gpj3c3whls1nm7nek1tk", 
+        "height": 185, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gpj3c3whls1nm7nek1tk.jpg", 
+        "width": 252
+    }, 
+    "created_at": 1388902783584, 
+    "developers": [
+        129
+    ], 
+    "esrb": {
+        "rating": 3, 
+        "synopsis": ""
+    }, 
+    "first_release_date": 828576000000, 
+    "game_modes": [
+        1, 
+        2, 
+        4
+    ], 
+    "games": [
+        33603, 
+        36962, 
+        55888, 
+        65827, 
+        32283, 
+        18623, 
+        22690, 
+        29173, 
+        75065, 
+        75813
+    ], 
+    "genres": [
+        14, 
+        15, 
+        32
+    ], 
+    "id": 3369, 
+    "keywords": [
+        20, 
+        1166, 
+        13120, 
+        13121
+    ], 
+    "name": "Bottom of the 9th", 
+    "platforms": [
+        4, 
+        32, 
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        129
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 924048000000, 
+            "human": "1999-Apr-14", 
+            "m": 4, 
+            "platform": 4, 
+            "y": 1999
+        }, 
+        {
+            "category": 0, 
+            "date": 845596800000, 
+            "human": "1996-Oct-18", 
+            "m": 10, 
+            "platform": 32, 
+            "y": 1996
+        }, 
+        {
+            "category": 0, 
+            "date": 828576000000, 
+            "human": "1996-Apr-04", 
+            "m": 4, 
+            "platform": 7, 
+            "y": 1996
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "sstzlqqudblkpzotnha3", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/sstzlqqudblkpzotnha3.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "cxusckyerdwf28e6omzd", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/cxusckyerdwf28e6omzd.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "bottom-of-the-9th", 
+    "summary": "Play Exhibition and Season modes as your favorite team from the Major League Baseball. 300 real life players, complete with a full list of stats, are included for this combination of simulation and arcade style baseball. \n \nAlong with the usual assortment of playing options, you can also play some scenario simulations, where each scenario is based on a real life occurence in the MLB. For example, hit a home run with the last ball of the match, or stop a team from scoring in the final inning to complete each scenario. Traning and support for 2 player multi-player are also available.", 
+    "tags": [
+        268435470, 
+        268435471, 
+        268435488, 
+        536870932, 
+        536872078, 
+        536884032, 
+        536884033
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1521974662786, 
+    "url": "https://www.igdb.com/games/bottom-of-the-9th", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/705020"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://bot9digital.com"
+        }
+    ]
+}

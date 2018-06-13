@@ -1,0 +1,210 @@
+{
+    "aggregated_rating": 76.125, 
+    "aggregated_rating_count": 9, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "EA Sports NHL 18"
+        }
+    ], 
+    "category": 0, 
+    "collection": 3001, 
+    "cover": {
+        "cloudinary_id": "fyocd2sf6k9idettku44", 
+        "height": 2560, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fyocd2sf6k9idettku44.jpg", 
+        "width": 2055
+    }, 
+    "created_at": 1496892085517, 
+    "developers": [
+        277
+    ], 
+    "esrb": {
+        "rating": 4
+    }, 
+    "first_release_date": 1505433600000, 
+    "franchise": 220, 
+    "franchises": [
+        220
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        28552, 
+        27081, 
+        36926, 
+        36950, 
+        26772, 
+        28856, 
+        27314, 
+        28862, 
+        59849, 
+        28951
+    ], 
+    "genres": [
+        14
+    ], 
+    "hypes": 1, 
+    "id": 36847, 
+    "keywords": [
+        44, 
+        1307, 
+        4224, 
+        4357, 
+        16826
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 4, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 12, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "NHL 18", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Violence in a sporting context"
+    }, 
+    "platforms": [
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 6.0, 
+    "publishers": [
+        454
+    ], 
+    "pulse_count": 29, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1505433600000, 
+            "human": "2017-Sep-15", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505433600000, 
+            "human": "2017-Sep-15", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505433600000, 
+            "human": "2017-Sep-15", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505433600000, 
+            "human": "2017-Sep-15", 
+            "m": 9, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1505433600000, 
+            "human": "2017-Sep-15", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "gqawxltauvwugaz9davs", 
+            "height": 444, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gqawxltauvwugaz9davs.jpg", 
+            "width": 790
+        }
+    ], 
+    "slug": "nhl-18", 
+    "summary": "It's true! EA will be releasing a professional hockey game in 2017.", 
+    "tags": [
+        32, 
+        268435470, 
+        536870956, 
+        536872219, 
+        536875136, 
+        536875269, 
+        536887738, 
+        1073741827
+    ], 
+    "themes": [
+        32
+    ], 
+    "total_rating": 76.125, 
+    "total_rating_count": 9, 
+    "updated_at": 1528352903629, 
+    "url": "https://www.igdb.com/games/nhl-18", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "LsbYlHvUiQ8"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "G1MmuvHHfMU"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "8gxWvFyspx0"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "TcodG8Wi1Z0"
+        }, 
+        {
+            "name": "Teaser", 
+            "video_id": "Q9PeYyhfyRw"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/NHL_18"
+        }, 
+        {
+            "category": 8, 
+            "url": "https://www.instagram.com/easportsnhl"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/easportsnhl"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/EASPORTSNHL"
+        }, 
+        {
+            "category": 1, 
+            "url": "https://www.easports.com/nhl"
+        }
+    ]
+}

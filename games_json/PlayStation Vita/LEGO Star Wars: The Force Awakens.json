@@ -1,0 +1,549 @@
+{
+    "aggregated_rating": 75.9130434782609, 
+    "aggregated_rating_count": 25, 
+    "alternative_names": [
+        {
+            "comment": "German Title", 
+            "name": "LEGO\u00ae Star Wars\u2122 Das Erwachen der Macht"
+        }
+    ], 
+    "category": 0, 
+    "collection": 55, 
+    "cover": {
+        "cloudinary_id": "ayt1k6lmu8q5vvlhxnp2", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ayt1k6lmu8q5vvlhxnp2.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1454424100448, 
+    "developers": [
+        292, 
+        293
+    ], 
+    "esrb": {
+        "rating": 4, 
+        "synopsis": "This is an action-adventure game based on the characters and events of the Star Wars: The Force Awakens movie. Players control Lego versions of characters as they traverse platform environments, solve puzzles, and battle enemy soldiers and villains. Players use various weapons (e.g., staffs, blaster rifles, light sabers) and special abilities (e.g., force powers) to defeat enemies. In some sequences, players pilot spacecraft/vehicles and use a crosshair target to fire projectiles (e.g., missiles, lasers) at enemy vehicles and ground targets. Battles are accompanied by frequent laser blasts and large explosions; enemies burst into Lego pieces when defeated. In one scene, a character is briefly seen sitting on a toilet; another sequence depicts mucous dripping from a character's nose. The word \u201chell\u201d is heard in the dialogue."
+    }, 
+    "external": {
+        "steam": "438640"
+    }, 
+    "first_release_date": 1467072000000, 
+    "franchise": 1, 
+    "franchises": [
+        1, 
+        51
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3, 
+        4
+    ], 
+    "games": [
+        28815, 
+        26766, 
+        19448, 
+        25300, 
+        71455, 
+        51464, 
+        7349, 
+        11567, 
+        25076, 
+        29147
+    ], 
+    "genres": [
+        9, 
+        25, 
+        31
+    ], 
+    "hypes": 6, 
+    "id": 17030, 
+    "keywords": [
+        350, 
+        410, 
+        896, 
+        970, 
+        982, 
+        1361, 
+        2071, 
+        4134, 
+        4142, 
+        4181, 
+        4382, 
+        4651, 
+        4717, 
+        4813, 
+        4841, 
+        4842, 
+        4857, 
+        4883, 
+        4923, 
+        4924, 
+        4925, 
+        4926, 
+        4927, 
+        4928, 
+        4929, 
+        4930, 
+        4931, 
+        4932, 
+        4933, 
+        4934, 
+        4935, 
+        4936, 
+        4937, 
+        4938, 
+        14051, 
+        14052, 
+        14055
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 9, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "LEGO Star Wars: The Force Awakens", 
+    "platforms": [
+        6, 
+        39, 
+        41, 
+        46, 
+        9, 
+        48, 
+        12, 
+        49, 
+        37
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 2.666666666666667, 
+    "publishers": [
+        50
+    ], 
+    "pulse_count": 16, 
+    "rating": 55.4991022748213, 
+    "rating_count": 10, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 39, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 37, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 3, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 3, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 6, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 9, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 48, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 49, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 12, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 41, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1467072000000, 
+            "human": "2016-Jun-28", 
+            "m": 6, 
+            "platform": 37, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "aw4cvfqsvu7q89jywikr", 
+            "height": 405, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aw4cvfqsvu7q89jywikr.jpg", 
+            "width": 720
+        }, 
+        {
+            "cloudinary_id": "dzstnqvfvaaebwxy4blg", 
+            "height": 405, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dzstnqvfvaaebwxy4blg.jpg", 
+            "width": 720
+        }, 
+        {
+            "cloudinary_id": "uvenor5gyuc8dxlssiug", 
+            "height": 405, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uvenor5gyuc8dxlssiug.jpg", 
+            "width": 720
+        }, 
+        {
+            "cloudinary_id": "fzx7kkuraxgbjdju79sw", 
+            "height": 405, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fzx7kkuraxgbjdju79sw.jpg", 
+            "width": 720
+        }, 
+        {
+            "cloudinary_id": "mf01bi8h5z03m6po6bxx", 
+            "height": 405, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mf01bi8h5z03m6po6bxx.jpg", 
+            "width": 720
+        }, 
+        {
+            "cloudinary_id": "r12iomcpig30v8lxrlpq", 
+            "height": 405, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/r12iomcpig30v8lxrlpq.jpg", 
+            "width": 720
+        }, 
+        {
+            "cloudinary_id": "gesl05fw5bjuskkjky6m", 
+            "height": 405, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gesl05fw5bjuskkjky6m.jpg", 
+            "width": 720
+        }, 
+        {
+            "cloudinary_id": "gwob3ed1eknwk1qgf4am", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gwob3ed1eknwk1qgf4am.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ujyvej6bcgyjrvrdbjme", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ujyvej6bcgyjrvrdbjme.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vlmcdfadpwimjav4hdi4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vlmcdfadpwimjav4hdi4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lkqtrpy3qtjgclamoyzc", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lkqtrpy3qtjgclamoyzc.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "hnpnjym6bg0beqxocx59", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hnpnjym6bg0beqxocx59.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "lego-star-wars-the-force-awakens", 
+    "summary": "LEGO Star Wars: The Force Awakens takes players deeper into the new film than any other game with all of the heroic characters from the movie, including Rey, Finn, Poe Dameron, Han Solo, Chewbacca, C-3PO, and BB-8, as well as Kylo Ren, General Hux and Captain Phasma, while also exploring iconic Star Wars locales, such as Jakku and Starkiller Base. \n \nThis game introduces new gameplay features, including the enhanced \u201cMulti-Builds\u201d system, where players can choose from multiple building options to advance the game. Gamers will be able to engage in intense new Blaster Battles for the first time, utilizing surrounding environments to drive back the First Order. Fans can also experience the thrill of high-speed flight gameplay through arena-based battles and dogfights in space, while utilizing a multitude of vehicles along the way, including the legendary Millennium Falcon.", 
+    "tags": [
+        1, 
+        18, 
+        27, 
+        268435465, 
+        268435481, 
+        268435487, 
+        536871262, 
+        536871322, 
+        536871808, 
+        536871882, 
+        536871894, 
+        536872273, 
+        536872983, 
+        536875046, 
+        536875054, 
+        536875093, 
+        536875294, 
+        536875563, 
+        536875629, 
+        536875725, 
+        536875753, 
+        536875754, 
+        536875769, 
+        536875795, 
+        536875835, 
+        536875836, 
+        536875837, 
+        536875838, 
+        536875839, 
+        536875840, 
+        536875841, 
+        536875842, 
+        536875843, 
+        536875844, 
+        536875845, 
+        536875846, 
+        536875847, 
+        536875848, 
+        536875849, 
+        536875850, 
+        536884963, 
+        536884964, 
+        536884967, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        18, 
+        27
+    ], 
+    "total_rating": 65.7060728765411, 
+    "total_rating_count": 35, 
+    "updated_at": 1528354917745, 
+    "url": "https://www.igdb.com/games/lego-star-wars-the-force-awakens", 
+    "videos": [
+        {
+            "name": "Gameplay Trailer", 
+            "video_id": "62biVZnoIfI"
+        }, 
+        {
+            "name": "New Adventures Trailer", 
+            "video_id": "rYtbEGeES9M"
+        }, 
+        {
+            "name": "Vignette: BB 8", 
+            "video_id": "MwNDK8H1M78"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "QSWXciH5AmU"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "DZ2-J6q7xow"
+        }, 
+        {
+            "name": "The Empire Strikes Back Character Pack Trailer", 
+            "video_id": "z8mV1-wy0Hg"
+        }, 
+        {
+            "name": "E3 2016 Trailer", 
+            "video_id": "BePUSaUj61A"
+        }, 
+        {
+            "name": "Vignette: Rey", 
+            "video_id": "Y7-gHzKwd7A"
+        }, 
+        {
+            "name": "Vignette: Kylo Ren", 
+            "video_id": "0-gndCjlwlM"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 10, 
+            "url": "https://itunes.apple.com/us/app/lego-star-wars-the-force-awakens/id1106014973?mt=8&uo=4"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Lego_Star_Wars:_The_Force_Awakens"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://starwars.wikia.com/wiki/LEGO_Star_Wars%3A_The_Force_Awakens"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://videogames.lego.com/en-us/lsw-the-force-awakens"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/438640"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/LEGOStarWarsGameUK/"
+        }
+    ]
+}

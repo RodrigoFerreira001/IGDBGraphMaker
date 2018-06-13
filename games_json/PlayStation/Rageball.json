@@ -1,0 +1,112 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "qkgdefwxz1odhbfzqdmh", 
+        "height": 266, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qkgdefwxz1odhbfzqdmh.jpg", 
+        "width": 266
+    }, 
+    "created_at": 1499165250822, 
+    "external": {
+        "steam": "660390"
+    }, 
+    "first_release_date": 1030406400000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        34919, 
+        22690, 
+        16468, 
+        40524, 
+        68324, 
+        55715, 
+        55289, 
+        37022, 
+        14713, 
+        76438
+    ], 
+    "genres": [
+        14, 
+        32
+    ], 
+    "id": 43894, 
+    "keywords": [
+        1166
+    ], 
+    "name": "Rageball", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        7
+    ], 
+    "popularity": 1.0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1030406400000, 
+            "human": "2002-Aug-27", 
+            "m": 8, 
+            "platform": 7, 
+            "region": 8, 
+            "y": 2002
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ycawrrhkybh5p9fwcpkh", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ycawrrhkybh5p9fwcpkh.jpg", 
+            "width": 1658
+        }, 
+        {
+            "cloudinary_id": "barymbx3ecw7u45wflcz", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/barymbx3ecw7u45wflcz.jpg", 
+            "width": 1658
+        }, 
+        {
+            "cloudinary_id": "na75cfml8hbituqyeqzi", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/na75cfml8hbituqyeqzi.jpg", 
+            "width": 1658
+        }, 
+        {
+            "cloudinary_id": "q0zr01jdnli25ujpi7k4", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q0zr01jdnli25ujpi7k4.jpg", 
+            "width": 1658
+        }, 
+        {
+            "cloudinary_id": "akqxw3my8abm8q6wbefg", 
+            "height": 1050, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/akqxw3my8abm8q6wbefg.jpg", 
+            "width": 1658
+        }
+    ], 
+    "slug": "rageball", 
+    "summary": "Rageball is an Action game, developed by Naps Team and published by Midas Interactive Entertainment, which was released in Europe in 2002.", 
+    "tags": [
+        1, 
+        268435470, 
+        268435488, 
+        536872078
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1523341099860, 
+    "url": "https://www.igdb.com/games/rageball", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.hebistudios.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/660390"
+        }
+    ]
+}

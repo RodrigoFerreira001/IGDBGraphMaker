@@ -1,0 +1,101 @@
+{
+    "aggregated_rating": 57.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "collection": 4533, 
+    "cover": {
+        "cloudinary_id": "cm4epr6xueh0ll5f3evv", 
+        "height": 1209, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cm4epr6xueh0ll5f3evv.jpg", 
+        "width": 1358
+    }, 
+    "created_at": 1469308334316, 
+    "first_release_date": 1179792000000, 
+    "games": [
+        26766, 
+        25300, 
+        76098, 
+        47823, 
+        36950, 
+        11567, 
+        1936, 
+        23175, 
+        27314, 
+        25311
+    ], 
+    "genres": [
+        31
+    ], 
+    "id": 21412, 
+    "keywords": [
+        296, 
+        350, 
+        970, 
+        1033, 
+        4297, 
+        13106
+    ], 
+    "name": "Death Jr. and the Science Fair of DOOM", 
+    "platforms": [
+        20
+    ], 
+    "popularity": 1.0, 
+    "publishers": [
+        129
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1179792000000, 
+            "human": "2007-May-22", 
+            "m": 5, 
+            "platform": 20, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1182470400000, 
+            "human": "2007-Jun-22", 
+            "m": 6, 
+            "platform": 20, 
+            "region": 8, 
+            "y": 2007
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zmhr3wes4byfwzun60qa", 
+            "height": 384, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zmhr3wes4byfwzun60qa.jpg", 
+            "width": 256
+        }
+    ], 
+    "slug": "death-jr-and-the-science-fair-of-doom", 
+    "summary": "The DS exclusive sequel to the Death Jr. series. Developed by Backbone Entertainment and published by Konami.", 
+    "tags": [
+        18, 
+        27, 
+        268435487, 
+        536871208, 
+        536871262, 
+        536871882, 
+        536871945, 
+        536875209, 
+        536884018
+    ], 
+    "themes": [
+        18, 
+        27
+    ], 
+    "total_rating": 57.5, 
+    "total_rating_count": 2, 
+    "updated_at": 1518055090665, 
+    "url": "https://www.igdb.com/games/death-jr-and-the-science-fair-of-doom", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.deathjr.com/"
+        }
+    ]
+}

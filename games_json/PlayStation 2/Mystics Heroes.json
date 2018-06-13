@@ -1,0 +1,84 @@
+{
+    "alternative_names": [
+        {
+            "name": "Batoru Houshin"
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "xmtjp9o0pejhcxpt15ks", 
+        "height": 366, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xmtjp9o0pejhcxpt15ks.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1390424703402, 
+    "developers": [
+        630
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1017360000000, 
+    "game_modes": [
+        1, 
+        4
+    ], 
+    "games": [
+        100666, 
+        90104, 
+        80697, 
+        55107, 
+        19959, 
+        71455, 
+        36663, 
+        27737, 
+        134, 
+        24048
+    ], 
+    "genres": [
+        25
+    ], 
+    "id": 4025, 
+    "name": "Mystics Heroes", 
+    "platforms": [
+        24, 
+        21, 
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        630
+    ], 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1017360000000, 
+            "human": "2002-Mar-29", 
+            "m": 3, 
+            "platform": 21, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1017360000000, 
+            "human": "2002-Mar-29", 
+            "m": 3, 
+            "platform": 24, 
+            "y": 2002
+        }, 
+        {
+            "category": 0, 
+            "date": 1037404800000, 
+            "human": "2002-Nov-16", 
+            "m": 11, 
+            "platform": 8, 
+            "y": 2002
+        }
+    ], 
+    "slug": "mystics-heroes", 
+    "tags": [
+        268435481
+    ], 
+    "updated_at": 1517270749289, 
+    "url": "https://www.igdb.com/games/mystics-heroes"
+}

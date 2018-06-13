@@ -1,0 +1,103 @@
+{
+    "aggregated_rating": 70.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "fyt3wuyjkmrolpijlwfh", 
+        "height": 613, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fyt3wuyjkmrolpijlwfh.jpg", 
+        "width": 889
+    }, 
+    "created_at": 1468842300718, 
+    "developers": [
+        8291
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1314057600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        16468, 
+        13196, 
+        19698, 
+        5613, 
+        236, 
+        28010, 
+        36792, 
+        26163, 
+        22480, 
+        23719
+    ], 
+    "id": 20571, 
+    "keywords": [
+        246
+    ], 
+    "name": "Fighting Fantasy: The Talisman of Death", 
+    "pegi": {
+        "rating": 3
+    }, 
+    "platforms": [
+        45, 
+        38
+    ], 
+    "popularity": 1.666666666666667, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1314057600000, 
+            "human": "2011-Aug-23", 
+            "m": 8, 
+            "platform": 38, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1314057600000, 
+            "human": "2011-Aug-23", 
+            "m": 8, 
+            "platform": 45, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "bmwipktzmzjnis982rkw", 
+            "height": 272, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bmwipktzmzjnis982rkw.jpg", 
+            "width": 480
+        }, 
+        {
+            "cloudinary_id": "lhrvtgvsxb1za2kirdn7", 
+            "height": 272, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lhrvtgvsxb1za2kirdn7.jpg", 
+            "width": 480
+        }, 
+        {
+            "cloudinary_id": "kr1gzximv6ybt9t2rtyj", 
+            "height": 272, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kr1gzximv6ybt9t2rtyj.jpg", 
+            "width": 480
+        }
+    ], 
+    "slug": "fighting-fantasy-the-talisman-of-death", 
+    "tags": [
+        17, 
+        536871158
+    ], 
+    "themes": [
+        17
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1468847927530, 
+    "url": "https://www.igdb.com/games/fighting-fantasy-the-talisman-of-death", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "OEzqSbbvE9s"
+        }
+    ]
+}

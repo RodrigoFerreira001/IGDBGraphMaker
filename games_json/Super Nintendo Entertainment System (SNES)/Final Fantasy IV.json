@@ -1,0 +1,77 @@
+{
+    "aggregated_rating": 80.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "collection": 39, 
+    "cover": {
+        "cloudinary_id": "ctebnc57jblnl2bflnyt", 
+        "height": 354, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ctebnc57jblnl2bflnyt.jpg", 
+        "width": 640
+    }, 
+    "created_at": 1453204566314, 
+    "first_release_date": 679881600000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        49414, 
+        25636, 
+        21842, 
+        28080, 
+        36608, 
+        18862, 
+        75102, 
+        23913, 
+        47472, 
+        44922
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 16587, 
+    "name": "Final Fantasy IV", 
+    "platforms": [
+        19
+    ], 
+    "player_perspectives": [
+        3
+    ], 
+    "popularity": 2.666666666666667, 
+    "pulse_count": 3, 
+    "rating": 83.0204036871473, 
+    "rating_count": 38, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 679881600000, 
+            "human": "1991-Jul-19", 
+            "m": 7, 
+            "platform": 19, 
+            "region": 5, 
+            "y": 1991
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "moutuff0ickipwe2tpvi", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/moutuff0ickipwe2tpvi.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "final-fantasy-iv--1", 
+    "summary": "Final Fantasy IV is a Role-Playing game, developed by Sting and published by SquareSoft, which was released in Japan in 2002.", 
+    "tags": [
+        268435468, 
+        1073741827
+    ], 
+    "time_to_beat": {
+        "hastly": 90000, 
+        "normally": 108000
+    }, 
+    "total_rating": 81.51020184357364, 
+    "total_rating_count": 39, 
+    "updated_at": 1528474020546, 
+    "url": "https://www.igdb.com/games/final-fantasy-iv--1"
+}

@@ -1,0 +1,174 @@
+{
+    "aggregated_rating": 77.5, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "hw9ewakpbzz6plglma9t", 
+        "height": 1920, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hw9ewakpbzz6plglma9t.jpg", 
+        "width": 1396
+    }, 
+    "created_at": 1474569522326, 
+    "developers": [
+        13987
+    ], 
+    "external": {
+        "steam": "389650"
+    }, 
+    "first_release_date": 1447113600000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        25300, 
+        25311, 
+        19448, 
+        27314, 
+        36950, 
+        55289, 
+        37022, 
+        19301, 
+        25646, 
+        64204
+    ], 
+    "genres": [
+        31, 
+        32
+    ], 
+    "id": 24221, 
+    "keywords": [
+        166, 
+        970, 
+        4882
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": false, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Stardust Galaxy Warriors", 
+    "platforms": [
+        6, 
+        14, 
+        48, 
+        3
+    ], 
+    "popularity": 3.666666666666667, 
+    "publishers": [
+        13987
+    ], 
+    "rating": 80.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1473638400000, 
+            "human": "2016-Sep-12", 
+            "m": 9, 
+            "platform": 48, 
+            "region": 3, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1447113600000, 
+            "human": "2015-Nov-10", 
+            "m": 11, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1447113600000, 
+            "human": "2015-Nov-10", 
+            "m": 11, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1447113600000, 
+            "human": "2015-Nov-10", 
+            "m": 11, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ol1jurvwga0yfnzmakco", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ol1jurvwga0yfnzmakco.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "aovkeqvnnfxh0fpacpup", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aovkeqvnnfxh0fpacpup.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "qb4mvfzxm63hg0cbh8hz", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/qb4mvfzxm63hg0cbh8hz.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "exkrykeorxhtccug39ko", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/exkrykeorxhtccug39ko.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "blw3nwvfvdtl29hlusbd", 
+            "height": 330, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/blw3nwvfvdtl29hlusbd.jpg", 
+            "width": 660
+        }
+    ], 
+    "slug": "stardust-galaxy-warriors", 
+    "summary": "Stardust Galaxy Warriors: Stellar Climax is a fast-paced 1-4 player couch co-op action shooter, combining SHMUP/Brawler gameplay with RPG elements. Choose your game mode, settings, mechs, weapons & upgrades to customize your experience. Soar through space, defeat evil & save the future... from itself!", 
+    "tags": [
+        1, 
+        18, 
+        268435487, 
+        268435488, 
+        536871078, 
+        536871882, 
+        536875794
+    ], 
+    "themes": [
+        1, 
+        18
+    ], 
+    "total_rating": 78.75, 
+    "total_rating_count": 2, 
+    "updated_at": 1522077254676, 
+    "url": "https://www.igdb.com/games/stardust-galaxy-warriors", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "VkpEt-WJ0e0"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.stardustgalaxywarriors.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/389650"
+        }
+    ]
+}

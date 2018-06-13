@@ -1,0 +1,80 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "rkhufet7o16hvdb68sq4", 
+        "height": 312, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rkhufet7o16hvdb68sq4.jpg", 
+        "width": 460
+    }, 
+    "created_at": 1517425543274, 
+    "first_release_date": 1331683200000, 
+    "id": 85596, 
+    "name": "Petit Computer", 
+    "platforms": [
+        159
+    ], 
+    "popularity": 1.0, 
+    "rating": 83.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1374710400000, 
+            "human": "2013-Jul-25", 
+            "m": 7, 
+            "platform": 159, 
+            "region": 1, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1331683200000, 
+            "human": "2012-Mar-14", 
+            "m": 3, 
+            "platform": 159, 
+            "region": 5, 
+            "y": 2012
+        }, 
+        {
+            "category": 0, 
+            "date": 1342656000000, 
+            "human": "2012-Jul-19", 
+            "m": 7, 
+            "platform": 159, 
+            "region": 2, 
+            "y": 2012
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "zhozvdxocktlswhlptx3", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zhozvdxocktlswhlptx3.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "pdy8t998cne1pddg91ds", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pdy8t998cne1pddg91ds.jpg", 
+            "width": 320
+        }, 
+        {
+            "cloudinary_id": "ze5lwtbknzzpflchqol6", 
+            "height": 480, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ze5lwtbknzzpflchqol6.jpg", 
+            "width": 320
+        }
+    ], 
+    "slug": "petit-computer--1", 
+    "summary": "A fun and easy-to-use tool for creating your own BASIC programs.", 
+    "total_rating": 83.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1518077894153, 
+    "url": "https://www.igdb.com/games/petit-computer--1", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.petitcomputer.com/"
+        }
+    ]
+}

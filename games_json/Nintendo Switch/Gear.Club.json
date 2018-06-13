@@ -1,0 +1,77 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "kvkrr2jl8xmq8x6zqwti", 
+        "height": 300, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kvkrr2jl8xmq8x6zqwti.jpg", 
+        "width": 300
+    }, 
+    "created_at": 1504267409218, 
+    "first_release_date": 1477440000000, 
+    "games": [
+        40470, 
+        44242, 
+        54789, 
+        18623, 
+        25443, 
+        22470, 
+        29173, 
+        55689, 
+        26145, 
+        22425
+    ], 
+    "genres": [
+        10, 
+        13
+    ], 
+    "id": 55983, 
+    "keywords": [
+        1148, 
+        4157
+    ], 
+    "name": "Gear.Club", 
+    "platforms": [
+        39, 
+        130
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1512086400000, 
+            "human": "2017-Dec-01", 
+            "m": 12, 
+            "platform": 130, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1477440000000, 
+            "human": "2016-Oct-26", 
+            "m": 10, 
+            "platform": 39, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 1, 
+            "date": 1512086400000, 
+            "human": "2017-Dec", 
+            "m": 12, 
+            "platform": 130, 
+            "region": 1, 
+            "y": 2017
+        }
+    ], 
+    "slug": "gear-dot-club", 
+    "summary": "A driving sim by Eden Games, makers of Test Drive Unlimited and the V-Rally series.", 
+    "tags": [
+        268435466, 
+        268435469, 
+        536872060, 
+        536875069
+    ], 
+    "updated_at": 1516584376134, 
+    "url": "https://www.igdb.com/games/gear-dot-club"
+}

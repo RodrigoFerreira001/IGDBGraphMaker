@@ -1,0 +1,126 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "do37r16qdbzyvzfmaxku", 
+        "height": 225, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/do37r16qdbzyvzfmaxku.jpg", 
+        "width": 225
+    }, 
+    "created_at": 1499419820981, 
+    "external": {
+        "steam": "660900"
+    }, 
+    "first_release_date": 1502755200000, 
+    "game_modes": [
+        1, 
+        2
+    ], 
+    "games": [
+        25311, 
+        33603, 
+        36962, 
+        55752, 
+        55888, 
+        65827, 
+        27266, 
+        28277, 
+        51485, 
+        26848
+    ], 
+    "genres": [
+        8, 
+        15, 
+        31, 
+        32
+    ], 
+    "id": 44252, 
+    "keywords": [
+        2049
+    ], 
+    "name": "Dark Mystery", 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        4
+    ], 
+    "popularity": 2.666666666666667, 
+    "publishers": [
+        13061
+    ], 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1502755200000, 
+            "human": "2017-Aug-15", 
+            "m": 8, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1502755200000, 
+            "human": "2017-Aug-15", 
+            "m": 8, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "tnhgae35v8tipw1ln0nw", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tnhgae35v8tipw1ln0nw.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "h9yxpyw2acivieiqvnep", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h9yxpyw2acivieiqvnep.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "jwtep1qemzs2os5k0a4s", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jwtep1qemzs2os5k0a4s.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "a6axabg6l5b1oo6rax7m", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/a6axabg6l5b1oo6rax7m.jpg", 
+            "width": 1600
+        }, 
+        {
+            "cloudinary_id": "hmltif7caqzs7sre1vp3", 
+            "height": 900, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hmltif7caqzs7sre1vp3.jpg", 
+            "width": 1600
+        }
+    ], 
+    "slug": "dark-mystery", 
+    "summary": "Dark Mystery is a Puzzled Platformer Game in which player faces different types of difficulties to find his true love.", 
+    "tags": [
+        268435464, 
+        268435471, 
+        268435487, 
+        268435488, 
+        536872961, 
+        1073741828
+    ], 
+    "total_rating": 60.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1523341056073, 
+    "url": "https://www.igdb.com/games/dark-mystery", 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/660900"
+        }
+    ]
+}

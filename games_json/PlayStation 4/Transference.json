@@ -1,0 +1,149 @@
+{
+    "artworks": [
+        {
+            "cloudinary_id": "mgmhgergoejk8dwur4kt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/mgmhgergoejk8dwur4kt.jpg", 
+            "width": 1920
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "mjdrddn2o1xmqeiskdsx", 
+        "height": 698, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mjdrddn2o1xmqeiskdsx.jpg", 
+        "width": 560
+    }, 
+    "created_at": 1497304667908, 
+    "developers": [
+        12937
+    ], 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1530316800000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        54699, 
+        26710, 
+        37016, 
+        27266, 
+        18225, 
+        13189, 
+        27316, 
+        37062, 
+        36950, 
+        19541
+    ], 
+    "genres": [
+        31
+    ], 
+    "hypes": 11, 
+    "id": 37064, 
+    "keywords": [
+        131, 
+        1495, 
+        4222, 
+        4224, 
+        4234, 
+        4439
+    ], 
+    "name": "Transference", 
+    "platforms": [
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        1, 
+        7
+    ], 
+    "popularity": 88.66666666666667, 
+    "publishers": [
+        104
+    ], 
+    "pulse_count": 29, 
+    "release_dates": [
+        {
+            "category": 5, 
+            "date": 1538265600000, 
+            "human": "2018-Q3", 
+            "m": 9, 
+            "platform": 6, 
+            "y": 2018
+        }, 
+        {
+            "category": 4, 
+            "date": 1530316800000, 
+            "human": "2018-Q2", 
+            "m": 6, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2018
+        }, 
+        {
+            "category": 2, 
+            "date": 1546214400000, 
+            "human": "2018", 
+            "m": 12, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2018
+        }, 
+        {
+            "category": 4, 
+            "date": 1530316800000, 
+            "human": "2018-Q2", 
+            "m": 6, 
+            "platform": 48, 
+            "y": 2018
+        }, 
+        {
+            "category": 4, 
+            "date": 1530316800000, 
+            "human": "2018-Q2", 
+            "m": 6, 
+            "platform": 49, 
+            "y": 2018
+        }
+    ], 
+    "slug": "transference", 
+    "summary": "Transference is a psychological thriller. Meet a troubled family and solve their riddle through a multi-branching narrative by experiencing the limits of techno-psychology and escaping a maze-like puzzle concealing a corrupted truth.", 
+    "tags": [
+        19, 
+        20, 
+        268435487, 
+        536871043, 
+        536872407, 
+        536875134, 
+        536875136, 
+        536875146, 
+        536875351, 
+        1073741831, 
+        1073741825
+    ], 
+    "themes": [
+        19, 
+        20
+    ], 
+    "updated_at": 1528879890760, 
+    "url": "https://www.igdb.com/games/transference", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "t91sTPmfBk4"
+        }, 
+        {
+            "name": "E3 2017 Trailer", 
+            "video_id": "AVsN0XMwusI"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/647570/Transference"
+        }
+    ]
+}

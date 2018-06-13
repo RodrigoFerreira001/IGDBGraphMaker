@@ -1,0 +1,152 @@
+{
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "wkrkd3ofj8qoz4czbgso", 
+        "height": 353, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wkrkd3ofj8qoz4czbgso.jpg", 
+        "width": 616
+    }, 
+    "created_at": 1495833320291, 
+    "external": {
+        "steam": "364720"
+    }, 
+    "first_release_date": 1456272000000, 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        27314, 
+        16468, 
+        47823, 
+        37088, 
+        13189, 
+        19289, 
+        26848, 
+        55289, 
+        10039, 
+        25222
+    ], 
+    "genres": [
+        5, 
+        31, 
+        32
+    ], 
+    "id": 35414, 
+    "keywords": [
+        1025, 
+        1027, 
+        1669, 
+        4155
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Reagan Gorbachev", 
+    "platforms": [
+        6, 
+        49
+    ], 
+    "popularity": 1.0, 
+    "rating": 70.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1456272000000, 
+            "human": "2016-Feb-24", 
+            "m": 2, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1456272000000, 
+            "human": "2016-Feb-24", 
+            "m": 2, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "rcaazkkytbbgtq4uoch5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rcaazkkytbbgtq4uoch5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "bjnjp4bjktpg08wwsovu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bjnjp4bjktpg08wwsovu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "zdkv7iwgpkwtkplay4lf", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zdkv7iwgpkwtkplay4lf.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ehv1pibnqaoocmobwjhn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ehv1pibnqaoocmobwjhn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pl7doa6xrajwuxrn23kv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pl7doa6xrajwuxrn23kv.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "reagan-gorbachev", 
+    "summary": "The year is 1986. Cold War leaders Ronald Reagan and Mikhail Gorbachev have been kidnapped by militant extremists. Once rivals, now they must cooperate\u2026 or die. Sneak, slash or shoot your way through an army of mercenaries. Save the world from nuclear Armageddon.", 
+    "tags": [
+        1, 
+        17, 
+        22, 
+        268435461, 
+        268435487, 
+        268435488, 
+        536871937, 
+        536871939, 
+        536872581, 
+        536875067
+    ], 
+    "themes": [
+        1, 
+        17, 
+        22
+    ], 
+    "total_rating": 70.0, 
+    "total_rating_count": 0, 
+    "updated_at": 1527090205073, 
+    "url": "https://www.igdb.com/games/reagan-gorbachev", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.team2bit.com/"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/364720"
+        }
+    ]
+}

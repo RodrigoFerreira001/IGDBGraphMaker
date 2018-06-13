@@ -1,0 +1,186 @@
+{
+    "category": 0, 
+    "collection": 1706, 
+    "cover": {
+        "cloudinary_id": "et6zjl8qs1edkmwcko6r", 
+        "height": 1904, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/et6zjl8qs1edkmwcko6r.jpg", 
+        "width": 1520
+    }, 
+    "created_at": 1494763157718, 
+    "external": {
+        "steam": "312650"
+    }, 
+    "first_release_date": 1476316800000, 
+    "game_modes": [
+        1, 
+        3
+    ], 
+    "games": [
+        6732, 
+        11423, 
+        19407, 
+        21429, 
+        28113, 
+        7350, 
+        76110, 
+        27717, 
+        19082, 
+        31561
+    ], 
+    "id": 28745, 
+    "keywords": [
+        1158, 
+        4004, 
+        4134, 
+        4150, 
+        4151, 
+        4222, 
+        4234, 
+        4245, 
+        4439, 
+        4883, 
+        5343, 
+        5379
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 4, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Battlezone", 
+    "pegi": {
+        "rating": 2
+    }, 
+    "platforms": [
+        6, 
+        48
+    ], 
+    "player_perspectives": [
+        7
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        7421
+    ], 
+    "rating": 80.0, 
+    "rating_count": 1, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1476316800000, 
+            "human": "2016-Oct-13", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476316800000, 
+            "human": "2016-Oct-13", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1476316800000, 
+            "human": "2016-Oct-13", 
+            "m": 10, 
+            "platform": 48, 
+            "region": 8, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1494460800000, 
+            "human": "2017-May-11", 
+            "m": 5, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2017
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "pnuob5t6fjky6to059fh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pnuob5t6fjky6to059fh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "emsawfaszcf2mgdixvvo", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/emsawfaszcf2mgdixvvo.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "yajzpjaftw4t8iysy6sl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yajzpjaftw4t8iysy6sl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "i2e9mx2q8a2pdwzolkoh", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/i2e9mx2q8a2pdwzolkoh.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vaku2rglhpawdybyrwau", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vaku2rglhpawdybyrwau.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "battlezone--2", 
+    "summary": "Strap into the cockpit of the Cobra \u2013 the most powerful tank ever built \u2013 and experience first-person VR combat across neon-scarred sci-fi landscapes in an explosive campaign for 1-4 players.", 
+    "tags": [
+        1, 
+        536872070, 
+        536874916, 
+        536875046, 
+        536875062, 
+        536875063, 
+        536875134, 
+        536875146, 
+        536875157, 
+        536875351, 
+        536875795, 
+        536876255, 
+        536876291, 
+        1073741831
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 80.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1523251599571, 
+    "url": "https://www.igdb.com/games/battlezone--2", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "FQA_veSkQT8"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.battlezone.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/312650"
+        }
+    ]
+}

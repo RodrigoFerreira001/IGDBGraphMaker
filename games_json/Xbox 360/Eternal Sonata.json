@@ -1,0 +1,451 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 5, 
+    "alternative_names": [
+        {
+            "name": "Trusty Bell"
+        }, 
+        {
+            "name": "Trusty Bell: Chopin no Yume"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Trusty Bell: Chopin's Dream"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Trusty Bell: Chopin's DreamTrusty Bell: Chopin no YumeTrusty Bell"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30c8\u30e9\u30b9\u30c6\u30a3\u30d9\u30eb \u301c\u30b7\u30e7\u30d1\u30f3\u306e\u5922\u301c"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "nnfohmucm0rjcduofr0z", 
+            "height": 650, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nnfohmucm0rjcduofr0z.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "yhbvic6hpozsdcpkm1vp", 
+            "height": 660, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yhbvic6hpozsdcpkm1vp.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "kqxj6paugkmtvlq9vetx", 
+            "height": 680, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kqxj6paugkmtvlq9vetx.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "h7luk5dhc3txgteuzchz", 
+            "height": 700, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h7luk5dhc3txgteuzchz.jpg", 
+            "width": 1000
+        }, 
+        {
+            "cloudinary_id": "ateqbx5hy7s8ynyijay1", 
+            "height": 860, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ateqbx5hy7s8ynyijay1.jpg", 
+            "width": 770
+        }, 
+        {
+            "cloudinary_id": "unopsyel3nwb3ewae2ob", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/unopsyel3nwb3ewae2ob.jpg", 
+            "width": 770
+        }, 
+        {
+            "cloudinary_id": "ketwyhagevfdvx8dhyh8", 
+            "height": 1000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ketwyhagevfdvx8dhyh8.jpg", 
+            "width": 770
+        }, 
+        {
+            "cloudinary_id": "lypceyx3or6ivbzqw8u5", 
+            "height": 965, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lypceyx3or6ivbzqw8u5.jpg", 
+            "width": 770
+        }, 
+        {
+            "cloudinary_id": "pngausr5j4u0vzyp0xwk", 
+            "height": 580, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pngausr5j4u0vzyp0xwk.jpg", 
+            "width": 1000
+        }
+    ], 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jaxyomhkxjdqx7aic0ik", 
+        "height": 317, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jaxyomhkxjdqx7aic0ik.jpg", 
+        "width": 256
+    }, 
+    "created_at": 1401148523183, 
+    "developers": [
+        1913
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "first_release_date": 1181779200000, 
+    "game_modes": [
+        1, 
+        3, 
+        4
+    ], 
+    "games": [
+        6452, 
+        23198, 
+        1219, 
+        2909, 
+        1819, 
+        4756, 
+        7202, 
+        2933, 
+        9927, 
+        6958
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 6990, 
+    "keywords": [
+        78, 
+        226, 
+        227, 
+        271, 
+        274, 
+        296, 
+        415, 
+        558, 
+        623, 
+        872, 
+        1026, 
+        1181, 
+        1186, 
+        1208, 
+        1293, 
+        1459, 
+        1735, 
+        1834, 
+        2052, 
+        2170, 
+        2242, 
+        2472, 
+        2966, 
+        3486, 
+        3833, 
+        4130, 
+        4145, 
+        4183, 
+        4210, 
+        4245, 
+        4266, 
+        4284, 
+        4353, 
+        4388, 
+        4392, 
+        4444, 
+        4446, 
+        4468, 
+        4507, 
+        4524, 
+        4537, 
+        4543, 
+        4611, 
+        4678, 
+        4709, 
+        4725, 
+        4727, 
+        4783, 
+        4787, 
+        4852, 
+        4879, 
+        4880, 
+        4918, 
+        4958, 
+        4991, 
+        5011, 
+        5022, 
+        5040, 
+        5042, 
+        5095, 
+        5142, 
+        5155, 
+        5320, 
+        5329, 
+        5331, 
+        5354, 
+        5373, 
+        5404, 
+        5421, 
+        5463, 
+        5583, 
+        5639, 
+        5738, 
+        5754, 
+        5783, 
+        5850, 
+        5937, 
+        6062, 
+        6393, 
+        6490, 
+        6494, 
+        6526, 
+        6648, 
+        6705, 
+        7112, 
+        7166, 
+        7400, 
+        7451, 
+        7660, 
+        7692, 
+        9564, 
+        10056, 
+        13076, 
+        13083, 
+        13574
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": true, 
+            "dropin": true, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 3, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 12, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Eternal Sonata", 
+    "platforms": [
+        9, 
+        12
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        248
+    ], 
+    "pulse_count": 11, 
+    "rating": 70.2556865288016, 
+    "rating_count": 8, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1227830400000, 
+            "human": "2008-Nov-28", 
+            "m": 11, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1224547200000, 
+            "human": "2008-Oct-21", 
+            "m": 10, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1221696000000, 
+            "human": "2008-Sep-18", 
+            "m": 9, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2008
+        }, 
+        {
+            "category": 0, 
+            "date": 1181779200000, 
+            "human": "2007-Jun-14", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 5, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1189987200000, 
+            "human": "2007-Sep-17", 
+            "m": 9, 
+            "platform": 12, 
+            "region": 2, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1192752000000, 
+            "human": "2007-Oct-19", 
+            "m": 10, 
+            "platform": 12, 
+            "region": 1, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1195084800000, 
+            "human": "2007-Nov-15", 
+            "m": 11, 
+            "platform": 12, 
+            "region": 3, 
+            "y": 2007
+        }, 
+        {
+            "category": 0, 
+            "date": 1235001600000, 
+            "human": "2009-Feb-19", 
+            "m": 2, 
+            "platform": 9, 
+            "region": 3, 
+            "y": 2009
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "ejpve7r3f9rygwfhbbmx", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ejpve7r3f9rygwfhbbmx.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "bgnoj7iejfvtgtjzdkgi", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bgnoj7iejfvtgtjzdkgi.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "uxsbqi15kalidpkfugqc", 
+            "height": 576, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/uxsbqi15kalidpkfugqc.jpg", 
+            "width": 1024
+        }, 
+        {
+            "cloudinary_id": "tdqkp3an4e9hzokw7kfj", 
+            "height": 895, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/tdqkp3an4e9hzokw7kfj.jpg", 
+            "width": 1595
+        }
+    ], 
+    "slug": "eternal-sonata", 
+    "summary": "Eternal Sonata (\u30c8\u30e9\u30b9\u30c6\u30a3\u30d9\u30eb \u301c\u30b7\u30e7\u30d1\u30f3\u306e\u5922\u301c Torasuti Beru ~Shopan no Yume~?, Trusty Bell: Chopin's Dream) is a role-playing video game developed by tri-Crescendo and published by Namco Bandai Games. \n \nThe game is centered on the Polish romantic pianist and composer Fr\u00e9d\u00e9ric Chopin, who died of tuberculosis at the age of 39. The story envisions a fictional world dreamed by Chopin during his last hours that is influenced by Chopin's life and music, and in which he himself is a playable character, among others. The game's battle system centers on musical elements and character-unique special attacks. Light and darkness play a part in the appearance and abilities of enemies on the battlefield, as well as the types of magic that can be cast. \n \nThe game features a selection of Chopin's compositions played by pianist Stanislav Bunin, though the original compositions were composed and arranged by Motoi Sakuraba. It is notable for its use of classical piano pieces, educational cutscenes featuring real paintings and photographs (in contrast to the cel-shading graphics of the game) and lush landscape design.", 
+    "tags": [
+        268435468, 
+        536870990, 
+        536871138, 
+        536871139, 
+        536871183, 
+        536871186, 
+        536871208, 
+        536871327, 
+        536871470, 
+        536871535, 
+        536871784, 
+        536871938, 
+        536872093, 
+        536872098, 
+        536872120, 
+        536872205, 
+        536872371, 
+        536872647, 
+        536872746, 
+        536872964, 
+        536873082, 
+        536873154, 
+        536873384, 
+        536873878, 
+        536874398, 
+        536874745, 
+        536875042, 
+        536875057, 
+        536875095, 
+        536875122, 
+        536875157, 
+        536875178, 
+        536875196, 
+        536875265, 
+        536875300, 
+        536875304, 
+        536875356, 
+        536875358, 
+        536875380, 
+        536875419, 
+        536875436, 
+        536875449, 
+        536875455, 
+        536875523, 
+        536875590, 
+        536875621, 
+        536875637, 
+        536875639, 
+        536875695, 
+        536875699, 
+        536875764, 
+        536875791, 
+        536875792, 
+        536875830, 
+        536875870, 
+        536875903, 
+        536875923, 
+        536875934, 
+        536875952, 
+        536875954, 
+        536876007, 
+        536876054, 
+        536876067, 
+        536876232, 
+        536876241, 
+        536876243, 
+        536876266, 
+        536876285, 
+        536876316, 
+        536876333, 
+        536876375, 
+        536876495, 
+        536876551, 
+        536876650, 
+        536876666, 
+        536876695, 
+        536876762, 
+        536876849, 
+        536876974, 
+        536877305, 
+        536877402, 
+        536877406, 
+        536877438, 
+        536877560, 
+        536877617, 
+        536878024, 
+        536878078, 
+        536878312, 
+        536878363, 
+        536878572, 
+        536878604, 
+        536880476, 
+        536880968, 
+        536883988, 
+        536883995, 
+        536884486
+    ], 
+    "total_rating": 72.62784326440081, 
+    "total_rating_count": 13, 
+    "updated_at": 1525266815462, 
+    "url": "https://www.igdb.com/games/eternal-sonata", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "EPIthYJXZxI"
+        }
+    ]
+}

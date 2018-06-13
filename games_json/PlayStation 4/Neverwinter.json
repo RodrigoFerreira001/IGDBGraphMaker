@@ -1,0 +1,390 @@
+{
+    "aggregated_rating": 73.1818181818182, 
+    "aggregated_rating_count": 13, 
+    "alternative_names": [
+        {
+            "name": "Neverwinter: Vie for Glory"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Neverwinter Nights 3"
+        }, 
+        {
+            "comment": "Other", 
+            "name": "Neverwinter Nights 3Neverwinter: Vie for Glory"
+        }, 
+        {
+            "name": "Dungeons & Dragons: Neverwinter"
+        }, 
+        {
+            "name": "Neverwinter Online"
+        }
+    ], 
+    "category": 0, 
+    "collection": 31, 
+    "cover": {
+        "cloudinary_id": "cjyxgzrx8p07qoy1xpai", 
+        "height": 270, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cjyxgzrx8p07qoy1xpai.jpg", 
+        "width": 480
+    }, 
+    "created_at": 1359326033831, 
+    "developers": [
+        916
+    ], 
+    "dlcs": [
+        36704
+    ], 
+    "esrb": {
+        "rating": 5
+    }, 
+    "expansions": [
+        26867
+    ], 
+    "external": {
+        "steam": "109600"
+    }, 
+    "first_release_date": 1371686400000, 
+    "franchise": 43, 
+    "franchises": [
+        43
+    ], 
+    "game_modes": [
+        2, 
+        3, 
+        5
+    ], 
+    "games": [
+        1593, 
+        23198, 
+        7533, 
+        1081, 
+        6, 
+        1942, 
+        123, 
+        47823, 
+        27421, 
+        2004
+    ], 
+    "genres": [
+        12, 
+        31
+    ], 
+    "id": 1908, 
+    "keywords": [
+        147, 
+        227, 
+        296, 
+        371, 
+        510, 
+        592, 
+        900, 
+        1293, 
+        1333, 
+        1513, 
+        1559, 
+        1821, 
+        1986, 
+        2066, 
+        2154, 
+        2242, 
+        2385, 
+        2414, 
+        2472, 
+        2806, 
+        3224, 
+        3919, 
+        4249, 
+        4261, 
+        4353, 
+        4392, 
+        4400, 
+        4460, 
+        4468, 
+        4584, 
+        4770, 
+        4783, 
+        4823, 
+        4826, 
+        4843, 
+        4866, 
+        4886, 
+        4887, 
+        4890, 
+        5389, 
+        5518, 
+        5577, 
+        5591, 
+        5695, 
+        5737, 
+        5819, 
+        5885, 
+        6069, 
+        6299, 
+        6656, 
+        6681, 
+        6683, 
+        6685, 
+        6688, 
+        6716, 
+        7160, 
+        7303, 
+        7402, 
+        7403, 
+        7446, 
+        7503, 
+        7583, 
+        7584, 
+        7585, 
+        8158, 
+        9200, 
+        9509, 
+        9516, 
+        9624, 
+        9635, 
+        9951, 
+        11782, 
+        12457
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 5, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Neverwinter", 
+    "pegi": {
+        "rating": 4, 
+        "synopsis": "The content of this game is suitable for persons aged 16 years and over only.\r\nIt contains: Realistic looking violence - \r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        48, 
+        49
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        917
+    ], 
+    "pulse_count": 1, 
+    "rating": 73.108599061071, 
+    "rating_count": 17, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1427760000000, 
+            "human": "2015-Mar-31", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1468886400000, 
+            "human": "2016-Jul-19", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1468886400000, 
+            "human": "2016-Jul-19", 
+            "m": 7, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1371686400000, 
+            "human": "2013-Jun-20", 
+            "m": 6, 
+            "platform": 6, 
+            "y": 2013
+        }, 
+        {
+            "category": 0, 
+            "date": 1427760000000, 
+            "human": "2015-Mar-31", 
+            "m": 3, 
+            "platform": 49, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1468886400000, 
+            "human": "2016-Jul-19", 
+            "m": 7, 
+            "platform": 48, 
+            "y": 2016
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "u2cp5jjmbmilfwqruspv", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/u2cp5jjmbmilfwqruspv.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "kwz2capj9tjzdj6t6tow", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kwz2capj9tjzdj6t6tow.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hgaezysyxmzihrrrvqmp", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hgaezysyxmzihrrrvqmp.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "izs4m22u1drtgadbyr6r", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/izs4m22u1drtgadbyr6r.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "h19eqztxqpib3dv4kzzz", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/h19eqztxqpib3dv4kzzz.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "neverwinter", 
+    "storyline": "One hundred years have passed since the Spellplague forever changed the magical and mysterious lands of Faer\u00fbn. Mighty empires fell and great cities toppled, leaving only monster-haunted ruins and survivors struggling to rebuild. \n \nThe city of Neverwinter, the Jewel of the North, seemed blessed by the gods. While the rest of the Sword Coast was devastated by the event, Neverwinter survived largely intact. But this was only a temporary reprieve from its inevitable doom. Nearly 75 years later, a volcanic eruption rained fire, ash and molten fury upon the city, annihilating everything in its wake. \n \nToday, Neverwinter has restored much of its former glory. Lord Neverember of Waterdeep has taken the city under his protection and put forth a call to all adventurers and heroes of the Savage North to help rebuild Neverwinter in the hopes that one day he can lay claim to her throne and crown. But evil forces conspire in the dark places of the world, seeking to undermine all...", 
+    "summary": "Neverwinter is a free-to-play, action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game. Epic stories, action combat and classic roleplaying await those heroes courageous enough to enter the fantastic world of Neverwinter! \n \nExplore and defend one of the most beloved cities from the Dungeons & Dragons Forgotten Realms Campaign Setting as it rises from the ashes of destruction. This immersive MMORPG will take you from the besieged walls of the city to subterranean passageways in search of forgotten secrets and lost treasure.", 
+    "tags": [
+        1, 
+        17, 
+        268435468, 
+        268435487, 
+        536871059, 
+        536871139, 
+        536871208, 
+        536871283, 
+        536871422, 
+        536871504, 
+        536871812, 
+        536872205, 
+        536872245, 
+        536872425, 
+        536872471, 
+        536872733, 
+        536872898, 
+        536872978, 
+        536873066, 
+        536873154, 
+        536873297, 
+        536873326, 
+        536873384, 
+        536873718, 
+        536874136, 
+        536874831, 
+        536875161, 
+        536875173, 
+        536875265, 
+        536875304, 
+        536875312, 
+        536875372, 
+        536875380, 
+        536875496, 
+        536875682, 
+        536875695, 
+        536875735, 
+        536875738, 
+        536875755, 
+        536875778, 
+        536875798, 
+        536875799, 
+        536875802, 
+        536876301, 
+        536876430, 
+        536876489, 
+        536876503, 
+        536876607, 
+        536876649, 
+        536876731, 
+        536876797, 
+        536876981, 
+        536877211, 
+        536877568, 
+        536877593, 
+        536877595, 
+        536877597, 
+        536877600, 
+        536877628, 
+        536878072, 
+        536878215, 
+        536878314, 
+        536878315, 
+        536878358, 
+        536878415, 
+        536878495, 
+        536878496, 
+        536878497, 
+        536879070, 
+        536880112, 
+        536880421, 
+        536880428, 
+        536880536, 
+        536880547, 
+        536880863, 
+        536882694, 
+        536883369, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        17
+    ], 
+    "total_rating": 73.1452086214446, 
+    "total_rating_count": 30, 
+    "updated_at": 1528356004241, 
+    "url": "https://www.igdb.com/games/neverwinter", 
+    "videos": [
+        {
+            "name": "Trailer (Full version)", 
+            "video_id": "foZq8B2xYeg"
+        }, 
+        {
+            "name": "Trailer", 
+            "video_id": "C7xKyK53cIA"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/109600"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.arcgames.com/en/games/neverwinter/news"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/NeverwinterGame"
+        }, 
+        {
+            "category": 4, 
+            "url": "https://www.facebook.com/NeverWinterGame"
+        }
+    ]
+}

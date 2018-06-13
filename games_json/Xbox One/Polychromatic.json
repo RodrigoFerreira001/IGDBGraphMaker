@@ -1,0 +1,147 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "jya8jjsgyf2mdb248lbt", 
+        "height": 1080, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jya8jjsgyf2mdb248lbt.jpg", 
+        "width": 720
+    }, 
+    "created_at": 1469142876356, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "external": {
+        "steam": "384590"
+    }, 
+    "first_release_date": 1443744000000, 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        34919, 
+        16468, 
+        40524, 
+        68324, 
+        55289, 
+        37022, 
+        76438, 
+        25640, 
+        25646, 
+        10039
+    ], 
+    "genres": [
+        32
+    ], 
+    "id": 20956, 
+    "keywords": [
+        5552, 
+        7453
+    ], 
+    "name": "Polychromatic", 
+    "platforms": [
+        6, 
+        14, 
+        49, 
+        3
+    ], 
+    "popularity": 1.0, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1443744000000, 
+            "human": "2015-Oct-02", 
+            "m": 10, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1443744000000, 
+            "human": "2015-Oct-02", 
+            "m": 10, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1443744000000, 
+            "human": "2015-Oct-02", 
+            "m": 10, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1443744000000, 
+            "human": "2015-Oct-02", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "yvje8m9mgmusdxg6ytff", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/yvje8m9mgmusdxg6ytff.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "wzrblnwzioyubbdcymra", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wzrblnwzioyubbdcymra.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "jm17wtfvxyr8av7o6ib5", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/jm17wtfvxyr8av7o6ib5.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "pewxkmqswodt0ez2qvcl", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pewxkmqswodt0ez2qvcl.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kurbazyp096axu0xiu0w", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kurbazyp096axu0xiu0w.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "polychromatic", 
+    "summary": "Polychromatic is a physics-based arcade shooter with a pop of color.", 
+    "tags": [
+        1, 
+        268435488, 
+        536876464, 
+        536878365
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 55.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1522079169962, 
+    "url": "https://www.igdb.com/games/polychromatic", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "https://www.polychromaticgame.com"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/384590"
+        }
+    ]
+}

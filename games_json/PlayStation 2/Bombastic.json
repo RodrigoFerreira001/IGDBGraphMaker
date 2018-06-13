@@ -1,0 +1,73 @@
+{
+    "aggregated_rating": 81.0, 
+    "aggregated_rating_count": 2, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "x1z3rf9dk8vbrmayc9n6", 
+        "height": 659, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/x1z3rf9dk8vbrmayc9n6.jpg", 
+        "width": 527
+    }, 
+    "created_at": 1470253392307, 
+    "esrb": {
+        "rating": 3
+    }, 
+    "first_release_date": 1064620800000, 
+    "games": [
+        19934, 
+        76731, 
+        29173, 
+        18167, 
+        25222, 
+        25646, 
+        55036, 
+        25311, 
+        23345, 
+        19376
+    ], 
+    "genres": [
+        9, 
+        15
+    ], 
+    "id": 22280, 
+    "keywords": [
+        1931, 
+        2875, 
+        3782, 
+        13115
+    ], 
+    "name": "Bombastic", 
+    "platforms": [
+        8
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1064620800000, 
+            "human": "2003-Sep-27", 
+            "m": 9, 
+            "platform": 8, 
+            "region": 8, 
+            "y": 2003
+        }
+    ], 
+    "slug": "bombastic", 
+    "summary": "The gameplay of Bombastic is similar to its predecessor, Devil Dice. Players control a family of small devil called Aqui that runs across a grid full of dice. Players can walk on the grid, pushing dice around, or walk on the dice, rolling them as the character walks. The objective and how dice are cleared vary between modes.", 
+    "tags": [
+        1, 
+        268435465, 
+        268435471, 
+        536872843, 
+        536873787, 
+        536874694, 
+        536884027
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 81.0, 
+    "total_rating_count": 2, 
+    "updated_at": 1515650299394, 
+    "url": "https://www.igdb.com/games/bombastic"
+}

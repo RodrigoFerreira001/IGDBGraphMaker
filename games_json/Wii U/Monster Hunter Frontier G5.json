@@ -1,0 +1,90 @@
+{
+    "category": 0, 
+    "collection": 2948, 
+    "cover": {
+        "cloudinary_id": "mnsoslte67onnohbrsm9", 
+        "height": 863, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mnsoslte67onnohbrsm9.jpg", 
+        "width": 659
+    }, 
+    "created_at": 1504992095353, 
+    "first_release_date": 1406073600000, 
+    "game_modes": [
+        5
+    ], 
+    "games": [
+        47823, 
+        19698, 
+        64061, 
+        36926, 
+        12632, 
+        36608, 
+        16468, 
+        68393, 
+        59516, 
+        19567
+    ], 
+    "genres": [
+        12
+    ], 
+    "id": 61701, 
+    "keywords": [
+        296, 
+        900, 
+        1333, 
+        2543, 
+        4842, 
+        4890, 
+        7186
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": false, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 41, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Monster Hunter Frontier G5", 
+    "platforms": [
+        41
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1406073600000, 
+            "human": "2014-Jul-23", 
+            "m": 7, 
+            "platform": 41, 
+            "region": 5, 
+            "y": 2014
+        }
+    ], 
+    "slug": "monster-hunter-frontier-g5", 
+    "summary": "A new version of the Monster Hunter MMO spin-off, Fronter G5.", 
+    "tags": [
+        1, 
+        268435468, 
+        536871208, 
+        536871812, 
+        536872245, 
+        536873455, 
+        536875754, 
+        536875802, 
+        536878098
+    ], 
+    "themes": [
+        1
+    ], 
+    "updated_at": 1516702605293, 
+    "url": "https://www.igdb.com/games/monster-hunter-frontier-g5"
+}

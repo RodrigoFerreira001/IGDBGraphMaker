@@ -1,0 +1,83 @@
+{
+    "aggregated_rating": 40.0, 
+    "aggregated_rating_count": 3, 
+    "category": 0, 
+    "collection": 100, 
+    "cover": {
+        "cloudinary_id": "ksql3wo8zelpgbcpnn5w", 
+        "height": 720, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ksql3wo8zelpgbcpnn5w.jpg", 
+        "width": 600
+    }, 
+    "created_at": 1468634440344, 
+    "first_release_date": 1301961600000, 
+    "id": 20447, 
+    "name": "Red Faction: Battlegrounds", 
+    "platforms": [
+        6, 
+        9, 
+        12
+    ], 
+    "popularity": 1.666666666666667, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1303257600000, 
+            "human": "2011-Apr-20", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1302048000000, 
+            "human": "2011-Apr-06", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1301961600000, 
+            "human": "2011-Apr-05", 
+            "m": 4, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1307404800000, 
+            "human": "2011-Jun-07", 
+            "m": 6, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1307404800000, 
+            "human": "2011-Jun-07", 
+            "m": 6, 
+            "platform": 9, 
+            "region": 8, 
+            "y": 2011
+        }, 
+        {
+            "category": 0, 
+            "date": 1307404800000, 
+            "human": "2011-Jun-07", 
+            "m": 6, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2011
+        }
+    ], 
+    "slug": "red-faction-battlegrounds", 
+    "total_rating": 40.0, 
+    "total_rating_count": 3, 
+    "updated_at": 1528776349183, 
+    "url": "https://www.igdb.com/games/red-faction-battlegrounds"
+}

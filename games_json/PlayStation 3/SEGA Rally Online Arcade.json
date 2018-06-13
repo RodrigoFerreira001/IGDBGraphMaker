@@ -1,0 +1,74 @@
+{
+    "aggregated_rating": 75.0, 
+    "aggregated_rating_count": 5, 
+    "category": 0, 
+    "collection": 321, 
+    "cover": {
+        "cloudinary_id": "uybtn8ozhyduikwjq76r", 
+        "height": 1110, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uybtn8ozhyduikwjq76r.jpg", 
+        "width": 1021
+    }, 
+    "created_at": 1468846226817, 
+    "first_release_date": 1309910400000, 
+    "id": 20592, 
+    "name": "SEGA Rally Online Arcade", 
+    "platforms": [
+        9
+    ], 
+    "popularity": 1.333333333333333, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1309910400000, 
+            "human": "2011-Jul-06", 
+            "m": 7, 
+            "platform": 9, 
+            "y": 2011
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "wmv7uzul8yzpsqbltelt", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/wmv7uzul8yzpsqbltelt.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "rjs5xouqrt2jczgzb0du", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rjs5xouqrt2jczgzb0du.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hsynojmp6b8qfu1iggyu", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hsynojmp6b8qfu1iggyu.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "ohraj93twy9eo5uxzmzs", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ohraj93twy9eo5uxzmzs.jpg", 
+            "width": 1280
+        }, 
+        {
+            "cloudinary_id": "hfeltswzkmowjo9bcsix", 
+            "height": 720, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/hfeltswzkmowjo9bcsix.jpg", 
+            "width": 1280
+        }
+    ], 
+    "slug": "sega-rally-online-arcade", 
+    "summary": "When was the last time you enjoyed getting dragged through the mud?", 
+    "total_rating": 75.0, 
+    "total_rating_count": 5, 
+    "updated_at": 1501849547664, 
+    "url": "https://www.igdb.com/games/sega-rally-online-arcade", 
+    "websites": [
+        {
+            "category": 1, 
+            "url": "http://www.sega.co.uk/games/sega-rally-online-arcade/"
+        }
+    ]
+}

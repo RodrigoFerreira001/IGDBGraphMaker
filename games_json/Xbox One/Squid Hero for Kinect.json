@@ -1,0 +1,108 @@
+{
+    "aggregated_rating": 50.0, 
+    "aggregated_rating_count": 1, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "o43eotktpfburujsaiqq", 
+        "height": 696, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/o43eotktpfburujsaiqq.jpg", 
+        "width": 584
+    }, 
+    "created_at": 1469142760767, 
+    "first_release_date": 1438128000000, 
+    "game_modes": [
+        2, 
+        3
+    ], 
+    "games": [
+        36608, 
+        2940, 
+        40524, 
+        34919, 
+        71581, 
+        29660, 
+        1070, 
+        23175, 
+        76438, 
+        16468
+    ], 
+    "id": 20954, 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 2, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Squid Hero for Kinect", 
+    "platforms": [
+        49
+    ], 
+    "popularity": 1.333333333333333, 
+    "rating": 60.0, 
+    "rating_count": 0, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1438128000000, 
+            "human": "2015-Jul-29", 
+            "m": 7, 
+            "platform": 49, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "l9j6znlq3nhnhdqeaz8s", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/l9j6znlq3nhnhdqeaz8s.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "q6lcjlo2wdkhixwarjzb", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/q6lcjlo2wdkhixwarjzb.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "nhuuxcb3zfkncztdossq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/nhuuxcb3zfkncztdossq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "feuq9na7sd9pnzztrisq", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/feuq9na7sd9pnzztrisq.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "lg2aukjyjrvwjvgip2h7", 
+            "height": 640, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/lg2aukjyjrvwjvgip2h7.jpg", 
+            "width": 1138
+        }
+    ], 
+    "slug": "squid-hero-for-kinect", 
+    "summary": "Play as a Squid Hero in this single-player/local co-op Kinect game developed by Virtual Air Guitar Company.", 
+    "tags": [
+        1
+    ], 
+    "themes": [
+        1
+    ], 
+    "total_rating": 55.0, 
+    "total_rating_count": 1, 
+    "updated_at": 1526733410802, 
+    "url": "https://www.igdb.com/games/squid-hero-for-kinect"
+}

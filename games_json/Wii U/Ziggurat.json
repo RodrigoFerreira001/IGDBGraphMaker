@@ -1,0 +1,381 @@
+{
+    "aggregated_rating": 79.5, 
+    "aggregated_rating_count": 4, 
+    "category": 0, 
+    "cover": {
+        "cloudinary_id": "ewxpyebxvd7zsieskkiz", 
+        "height": 720, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ewxpyebxvd7zsieskkiz.jpg", 
+        "width": 1280
+    }, 
+    "created_at": 1439354820124, 
+    "developers": [
+        6135
+    ], 
+    "esrb": {
+        "rating": 5, 
+        "synopsis": "This is a first-person shooter in which players assume the role of a wizard traversing levels of an ancient tower. As players traverse each dungeon level, they use wands, magic scepters, and other weapons (e.g., magma rifle, bombs) to defeat fantastical creatures (e.g., ghosts, skeletons, goblins) in frenetic combat. Battles are fast-paced with frequent magical barrages and large explosions. Boss battles depict more prolonged combat, often with larger enemy creatures."
+    }, 
+    "external": {
+        "steam": "308420"
+    }, 
+    "first_release_date": 1414022400000, 
+    "game_engines": [
+        13
+    ], 
+    "game_modes": [
+        1
+    ], 
+    "games": [
+        6732, 
+        7350, 
+        11423, 
+        21429, 
+        7344, 
+        7202, 
+        11567, 
+        3277, 
+        25300, 
+        27314
+    ], 
+    "genres": [
+        5, 
+        12, 
+        32
+    ], 
+    "id": 11646, 
+    "keywords": [
+        69, 
+        117, 
+        147, 
+        226, 
+        296, 
+        416, 
+        453, 
+        577, 
+        594, 
+        970, 
+        1025, 
+        1026, 
+        1158, 
+        1186, 
+        1293, 
+        1494, 
+        1513, 
+        4004, 
+        4134, 
+        4135, 
+        4138, 
+        4148, 
+        4150, 
+        4151, 
+        4161, 
+        4171, 
+        4177, 
+        4178, 
+        4330, 
+        4363, 
+        4418, 
+        4620, 
+        4628, 
+        4694, 
+        4880, 
+        4892, 
+        5000, 
+        5374, 
+        7416, 
+        7461
+    ], 
+    "name": "Ziggurat", 
+    "pegi": {
+        "rating": 3, 
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only.\r\nIt contains: Non realistic looking violence towards human characters"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        92, 
+        14, 
+        41, 
+        48, 
+        49, 
+        3
+    ], 
+    "player_perspectives": [
+        1
+    ], 
+    "popularity": 1.333333333333333, 
+    "publishers": [
+        6999, 
+        6135
+    ], 
+    "rating": 79.6430809096115, 
+    "rating_count": 5, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1429660800000, 
+            "human": "2015-Apr-22", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429574400000, 
+            "human": "2015-Apr-21", 
+            "m": 4, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1429660800000, 
+            "human": "2015-Apr-22", 
+            "m": 4, 
+            "platform": 45, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1471478400000, 
+            "human": "2016-Aug-18", 
+            "m": 8, 
+            "platform": 41, 
+            "region": 2, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1429660800000, 
+            "human": "2015-Apr-22", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1467244800000, 
+            "human": "2016-Jun-30", 
+            "m": 6, 
+            "platform": 41, 
+            "region": 1, 
+            "y": 2016
+        }, 
+        {
+            "category": 0, 
+            "date": 1429574400000, 
+            "human": "2015-Apr-21", 
+            "m": 4, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1414022400000, 
+            "human": "2014-Oct-23", 
+            "m": 10, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414022400000, 
+            "human": "2014-Oct-23", 
+            "m": 10, 
+            "platform": 14, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414022400000, 
+            "human": "2014-Oct-23", 
+            "m": 10, 
+            "platform": 3, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1414022400000, 
+            "human": "2014-Oct-23", 
+            "m": 10, 
+            "platform": 92, 
+            "region": 8, 
+            "y": 2014
+        }, 
+        {
+            "category": 0, 
+            "date": 1426809600000, 
+            "human": "2015-Mar-20", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "smgkbup5lds8jpumdwpn", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/smgkbup5lds8jpumdwpn.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "dhswxwn4syhdj8gtodgv", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/dhswxwn4syhdj8gtodgv.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "onfbfxjcmsyvx2dgnqoj", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/onfbfxjcmsyvx2dgnqoj.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "frxm1gdkaylmbuiaagq4", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/frxm1gdkaylmbuiaagq4.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ezexxpdtzgew5kot5b65", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ezexxpdtzgew5kot5b65.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ewlpcmnnlxkaafvyx6wd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ewlpcmnnlxkaafvyx6wd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fvxlu42cz1e74zpwviec", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fvxlu42cz1e74zpwviec.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "z7820wqkduyagknhum8w", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/z7820wqkduyagknhum8w.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "vl3qhqvgkorhhtotw6o1", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vl3qhqvgkorhhtotw6o1.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "kn1mbtffzhmcnm6qiftd", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/kn1mbtffzhmcnm6qiftd.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "ez7tf1oyoa3vxhmpg1pi", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ez7tf1oyoa3vxhmpg1pi.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "etgzkmh8oa68mbzqy4bt", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/etgzkmh8oa68mbzqy4bt.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "ziggurat", 
+    "summary": "Dungeon-Crawling First Person Shooting at its finest! Fast-paced combat! Dozens of perks, spells and enemies! Level ups! Random Dungeons! Traps! Badass bosses! Carrots! Ziggurat is the best combination of First Person Shooter and Rogue-LITE you have ever seen. \n \nBecome a neophyte sorcerer, and get ready for your rite of passage: Enter the labyrinth and face dangerous challenges to prove your worth and become a powerful wizard! \n \nThe game focuses on fast-paced first person shooting, with an old-school vibe, and updated handling and game mechanics. Dungeon crawling and RPG/Roguelike elements are added into the mix, resulting in a fun, challenging and varied game, with lots of content to discover. \n \nFight almighty bosses, get through rooms filled with traps, and treasures that may help you in your journey... Each game is a whole new experience!", 
+    "tags": [
+        1, 
+        17, 
+        18, 
+        268435461, 
+        268435468, 
+        268435488, 
+        536870981, 
+        536871029, 
+        536871059, 
+        536871138, 
+        536871208, 
+        536871328, 
+        536871365, 
+        536871489, 
+        536871506, 
+        536871882, 
+        536871937, 
+        536871938, 
+        536872070, 
+        536872098, 
+        536872205, 
+        536872406, 
+        536872425, 
+        536874916, 
+        536875046, 
+        536875047, 
+        536875050, 
+        536875060, 
+        536875062, 
+        536875063, 
+        536875073, 
+        536875083, 
+        536875089, 
+        536875090, 
+        536875242, 
+        536875275, 
+        536875330, 
+        536875532, 
+        536875540, 
+        536875606, 
+        536875792, 
+        536875804, 
+        536875912, 
+        536876286, 
+        536878328, 
+        536878373, 
+        1073741825
+    ], 
+    "themes": [
+        1, 
+        17, 
+        18
+    ], 
+    "total_rating": 79.57154045480576, 
+    "total_rating_count": 9, 
+    "updated_at": 1527622703990, 
+    "url": "https://www.igdb.com/games/ziggurat", 
+    "videos": [
+        {
+            "name": "Trailer", 
+            "video_id": "2eDCkxSchzI"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/308420"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Ziggurat_(2014_video_game)"
+        }, 
+        {
+            "category": 2, 
+            "url": "http://ziggurat.wikia.com/wiki/Ziggurat_Wiki"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.milkstonestudios.com/games/ziggurat/"
+        }
+    ]
+}

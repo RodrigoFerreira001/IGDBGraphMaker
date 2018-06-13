@@ -1,0 +1,643 @@
+{
+    "aggregated_rating": 72.88, 
+    "aggregated_rating_count": 31, 
+    "alternative_names": [
+        {
+            "comment": "Other", 
+            "name": "BioHazard: Revelations 2"
+        }, 
+        {
+            "comment": "Japanese title", 
+            "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 \u30ea\u30d9\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba 2"
+        }
+    ], 
+    "artworks": [
+        {
+            "cloudinary_id": "bxz2wtqdwyezmdy3qfrn", 
+            "height": 2000, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/bxz2wtqdwyezmdy3qfrn.jpg", 
+            "width": 1500
+        }, 
+        {
+            "cloudinary_id": "juafldjwydqmeqpftbez", 
+            "height": 1060, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/juafldjwydqmeqpftbez.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "gycrgtwahxoh6tvohkcu", 
+            "height": 710, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gycrgtwahxoh6tvohkcu.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "rersdqthoq7eyzgb1eqz", 
+            "height": 750, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/rersdqthoq7eyzgb1eqz.jpg", 
+            "width": 1260
+        }, 
+        {
+            "cloudinary_id": "ykn6jkxpk7bwffmqmux6", 
+            "height": 1060, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ykn6jkxpk7bwffmqmux6.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "ir3ktoqaj98e0aivwdsr", 
+            "height": 1060, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/ir3ktoqaj98e0aivwdsr.jpg", 
+            "width": 900
+        }, 
+        {
+            "cloudinary_id": "pcvb0mdcl0oy6l5jme6g", 
+            "height": 1060, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pcvb0mdcl0oy6l5jme6g.jpg", 
+            "width": 900
+        }
+    ], 
+    "category": 3, 
+    "collection": 83, 
+    "cover": {
+        "cloudinary_id": "okyd3d0fogewrhlvbcmr", 
+        "height": 1751, 
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/okyd3d0fogewrhlvbcmr.jpg", 
+        "width": 1512
+    }, 
+    "created_at": 1410470088545, 
+    "developers": [
+        37
+    ], 
+    "dlcs": [
+        27040
+    ], 
+    "esrb": {
+        "rating": 6, 
+        "synopsis": "This is an action-adventure game in which players assume the roles of an imprisoned woman and a father searching for his daughter on an island. Players use pistols, machine guns, rocket launchers, shotguns, and knives to kill zombies and mutated creatures. Combat is highlighted by screams of pain, realistic gunfire, and large blood-splatter effects. A handful of enemies are depicted with exposed organs, and one scene depicts an enemy having its hand cut off in slow-motion. Another scene depicts a human character shooting herself in the head with a pistol, resulting in a large splatter of blood. The words \u201cf**k\u201d and \u201csh*t\u201d appear in the dialogue."
+    }, 
+    "external": {
+        "steam": "287290"
+    }, 
+    "first_release_date": 1426636800000, 
+    "franchise": 29, 
+    "franchises": [
+        29
+    ], 
+    "game_engines": [
+        14
+    ], 
+    "game_modes": [
+        1, 
+        2, 
+        3
+    ], 
+    "games": [
+        7329, 
+        536, 
+        7331, 
+        1009, 
+        4786, 
+        19562, 
+        1905, 
+        974, 
+        25657, 
+        27421
+    ], 
+    "genres": [
+        5, 
+        31
+    ], 
+    "id": 7725, 
+    "keywords": [
+        5, 
+        129, 
+        1025, 
+        1120, 
+        1186, 
+        1240, 
+        1333, 
+        1682, 
+        1971, 
+        2041, 
+        2071, 
+        2439, 
+        2992, 
+        4134, 
+        4145, 
+        4169, 
+        4172, 
+        4178, 
+        4210, 
+        4220, 
+        4245, 
+        4257, 
+        4266, 
+        4282, 
+        4284, 
+        4304, 
+        4317, 
+        4337, 
+        4347, 
+        4369, 
+        4395, 
+        4400, 
+        4418, 
+        4428, 
+        4432, 
+        4508, 
+        4525, 
+        4541, 
+        4571, 
+        4579, 
+        4588, 
+        4594, 
+        4611, 
+        4615, 
+        4622, 
+        4637, 
+        4660, 
+        4698, 
+        4727, 
+        4833, 
+        4880, 
+        4891, 
+        4896, 
+        4918, 
+        4990, 
+        5029, 
+        5175, 
+        5195, 
+        5276, 
+        5323, 
+        5391, 
+        5694, 
+        5812, 
+        5999, 
+        6075, 
+        6124, 
+        6197, 
+        6216, 
+        6241, 
+        6362, 
+        6394, 
+        6539, 
+        6870, 
+        7074, 
+        7392, 
+        7558, 
+        7611, 
+        9035, 
+        9286, 
+        9698, 
+        9885, 
+        9886, 
+        10046, 
+        10190, 
+        10519, 
+        10520, 
+        10521, 
+        10522, 
+        10523, 
+        10524, 
+        10525, 
+        10526, 
+        10527, 
+        10528, 
+        10529, 
+        10530, 
+        10531, 
+        10532
+    ], 
+    "multiplayer_modes": [
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 2, 
+            "offlinemax": 0, 
+            "onlinecoop": false, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 49, 
+            "splitscreen": false, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }, 
+        {
+            "campaigncoop": false, 
+            "dropin": false, 
+            "lancoop": false, 
+            "offlinecoop": true, 
+            "offlinecoopmax": 0, 
+            "offlinemax": 0, 
+            "onlinecoop": true, 
+            "onlinecoopmax": 0, 
+            "onlinemax": 0, 
+            "platform": 48, 
+            "splitscreen": true, 
+            "splitscreenonline": false
+        }
+    ], 
+    "name": "Resident Evil: Revelations 2", 
+    "pegi": {
+        "rating": 5, 
+        "synopsis": "The content of this game is suitable for persons aged 18 years and over only.\r\nIt contains: Extreme violence - Strong language\r\nThis game allows the player to interact with other players ONLINE"
+    }, 
+    "platforms": [
+        45, 
+        6, 
+        46, 
+        9, 
+        48, 
+        12, 
+        49, 
+        130
+    ], 
+    "player_perspectives": [
+        2
+    ], 
+    "popularity": 4.333333333333334, 
+    "publishers": [
+        11901, 
+        37, 
+        45
+    ], 
+    "pulse_count": 10, 
+    "rating": 72.52537130964791, 
+    "rating_count": 53, 
+    "release_dates": [
+        {
+            "category": 0, 
+            "date": 1439856000000, 
+            "human": "2015-Aug-18", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439856000000, 
+            "human": "2015-Aug-18", 
+            "m": 8, 
+            "platform": 45, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1426636800000, 
+            "human": "2015-Mar-18", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1511827200000, 
+            "human": "2017-Nov-28", 
+            "m": 11, 
+            "platform": 130, 
+            "region": 8, 
+            "y": 2017
+        }, 
+        {
+            "category": 0, 
+            "date": 1426809600000, 
+            "human": "2015-Mar-20", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1426809600000, 
+            "human": "2015-Mar-20", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1426809600000, 
+            "human": "2015-Mar-20", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1426809600000, 
+            "human": "2015-Mar-20", 
+            "m": 3, 
+            "platform": 48, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1442448000000, 
+            "human": "2015-Sep-17", 
+            "m": 9, 
+            "platform": 46, 
+            "region": 5, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439856000000, 
+            "human": "2015-Aug-18", 
+            "m": 8, 
+            "platform": 46, 
+            "region": 1, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1439856000000, 
+            "human": "2015-Aug-18", 
+            "m": 8, 
+            "platform": 46, 
+            "region": 2, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1426809600000, 
+            "human": "2015-Mar-20", 
+            "m": 3, 
+            "platform": 6, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1426809600000, 
+            "human": "2015-Mar-20", 
+            "m": 3, 
+            "platform": 12, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1426809600000, 
+            "human": "2015-Mar-20", 
+            "m": 3, 
+            "platform": 49, 
+            "region": 8, 
+            "y": 2015
+        }, 
+        {
+            "category": 0, 
+            "date": 1426636800000, 
+            "human": "2015-Mar-18", 
+            "m": 3, 
+            "platform": 9, 
+            "region": 2, 
+            "y": 2015
+        }
+    ], 
+    "screenshots": [
+        {
+            "cloudinary_id": "xgb4nj26zj8sppvseicy", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xgb4nj26zj8sppvseicy.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "vtt1cfrng7b74w7edn7t", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/vtt1cfrng7b74w7edn7t.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "fuaceoqbqltmpdpvm7rj", 
+            "height": 640, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/fuaceoqbqltmpdpvm7rj.jpg", 
+            "width": 1191
+        }, 
+        {
+            "cloudinary_id": "pukzqohw08vdqre7svkk", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pukzqohw08vdqre7svkk.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "p9urdz78eq10z0cemx0w", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/p9urdz78eq10z0cemx0w.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xfb1crusealtwtn2e07z", 
+            "height": 675, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xfb1crusealtwtn2e07z.jpg", 
+            "width": 1200
+        }, 
+        {
+            "cloudinary_id": "zvhhlkkw3ohkj38oetxu", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/zvhhlkkw3ohkj38oetxu.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "xggen1y5e6brdaoguooo", 
+            "height": 1114, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/xggen1y5e6brdaoguooo.jpg", 
+            "width": 1980
+        }, 
+        {
+            "cloudinary_id": "j89dfkz4kqrrulm0yjv1", 
+            "height": 1440, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/j89dfkz4kqrrulm0yjv1.jpg", 
+            "width": 2560
+        }, 
+        {
+            "cloudinary_id": "aaow2rvwlha9yc1d0gjk", 
+            "height": 1114, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/aaow2rvwlha9yc1d0gjk.jpg", 
+            "width": 1980
+        }, 
+        {
+            "cloudinary_id": "pd0ihodccim2uzcsmoti", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pd0ihodccim2uzcsmoti.jpg", 
+            "width": 1920
+        }, 
+        {
+            "cloudinary_id": "gylw5tsphmjxftl1nxp6", 
+            "height": 1080, 
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/gylw5tsphmjxftl1nxp6.jpg", 
+            "width": 1920
+        }
+    ], 
+    "slug": "resident-evil-revelations-2", 
+    "summary": "Resident Evil: Revelations 2, known as Biohazard Revelations 2 (Japanese: \u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 \u30ea\u30d9\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba 2 Hepburn: Baiohaz\u0101do Riber\u0113shonzu Ts\u016b?) in Japan, is an episodic survival horror video game and the tenth installment of the Resident Evil franchise, developed and published by Capcom. The game is a follow up to Resident Evil: Revelations. An episodic game which comprises of 4 episodes, each of which feature two separate stories. The first is the tale of Claire Redfield and Moira Burton, daughter of Barry Burton - who work for biohazard protection group Terra Save. They are kidnapped and must survive on an island full of \"Afflicted\". The second story features Barry Burton, in search of his daughter, who upon reaching the island meets a strange girl named Natalia. He must retrace his daughters steps and find her before it is too late.", 
+    "tags": [
+        1, 
+        19, 
+        21, 
+        268435461, 
+        268435487, 
+        536870917, 
+        536871041, 
+        536871937, 
+        536872032, 
+        536872098, 
+        536872152, 
+        536872245, 
+        536872594, 
+        536872883, 
+        536872953, 
+        536872983, 
+        536873351, 
+        536873904, 
+        536875046, 
+        536875057, 
+        536875081, 
+        536875084, 
+        536875090, 
+        536875122, 
+        536875132, 
+        536875157, 
+        536875169, 
+        536875178, 
+        536875194, 
+        536875196, 
+        536875216, 
+        536875229, 
+        536875249, 
+        536875259, 
+        536875281, 
+        536875307, 
+        536875312, 
+        536875330, 
+        536875340, 
+        536875344, 
+        536875420, 
+        536875437, 
+        536875453, 
+        536875483, 
+        536875491, 
+        536875500, 
+        536875506, 
+        536875523, 
+        536875527, 
+        536875534, 
+        536875549, 
+        536875572, 
+        536875610, 
+        536875639, 
+        536875745, 
+        536875792, 
+        536875803, 
+        536875808, 
+        536875830, 
+        536875902, 
+        536875941, 
+        536876087, 
+        536876107, 
+        536876188, 
+        536876235, 
+        536876303, 
+        536876606, 
+        536876724, 
+        536876911, 
+        536876987, 
+        536877036, 
+        536877109, 
+        536877128, 
+        536877153, 
+        536877274, 
+        536877306, 
+        536877451, 
+        536877782, 
+        536877986, 
+        536878304, 
+        536878470, 
+        536878523, 
+        536879947, 
+        536880198, 
+        536880610, 
+        536880797, 
+        536880798, 
+        536880958, 
+        536881102, 
+        536881431, 
+        536881432, 
+        536881433, 
+        536881434, 
+        536881435, 
+        536881436, 
+        536881437, 
+        536881438, 
+        536881439, 
+        536881440, 
+        536881441, 
+        536881442, 
+        536881443, 
+        536881444, 
+        1073741826
+    ], 
+    "themes": [
+        1, 
+        19, 
+        21
+    ], 
+    "time_to_beat": {
+        "normally": 32220
+    }, 
+    "total_rating": 72.70268565482395, 
+    "total_rating_count": 84, 
+    "updated_at": 1528475833606, 
+    "url": "https://www.igdb.com/games/resident-evil-revelations-2", 
+    "videos": [
+        {
+            "name": "1st Trailer", 
+            "video_id": "dS1JebLYxnA"
+        }, 
+        {
+            "name": "Trailer 2", 
+            "video_id": "O7VpWghbDO8"
+        }
+    ], 
+    "websites": [
+        {
+            "category": 2, 
+            "url": "http://residentevil.wikia.com/wiki/Resident_Evil:_Revelations_2"
+        }, 
+        {
+            "category": 3, 
+            "url": "https://en.wikipedia.org/wiki/Resident_Evil:_Revelations_2"
+        }, 
+        {
+            "category": 13, 
+            "url": "https://store.steampowered.com/app/287290"
+        }, 
+        {
+            "category": 1, 
+            "url": "http://www.capcom.co.jp/rev2/"
+        }, 
+        {
+            "category": 5, 
+            "url": "https://twitter.com/RE_Games"
+        }
+    ]
+}
